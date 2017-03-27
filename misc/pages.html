@@ -1,0 +1,16 @@
+---
+layout: page
+title: Pages 
+header: Pages
+---
+{% comment %}
+group: navigation
+{% endcomment %}
+
+{% include JB/setup %}
+
+<h2>All Pages</h2>
+<ul>
+{% assign pages_list = site.pages %}
+{% include JB/pages_list %}
+</ul>
