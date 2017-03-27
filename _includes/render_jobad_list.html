@@ -1,0 +1,37 @@
+{% assign thisnodes = site.data.jobnav | where:"url", include.permalink %}
+{% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
+{% if difference contains '-' %}
+  {% assign thisnodes = site.data.jobnav[1].subnodes | where:"url", include.permalink %}
+{% endif %}
+
+{% assign datafile = thisnodes[0].datafile %}
+{% assign jobadlist = site.data[datafile].items %}
+
+<noscript>
+    <style>
+        .collapse {display:block;}
+    </style>
+</noscript>
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+{% for jobad in jobadlist %}
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="heading{{j}}">
+      <h3 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{j}}" aria-expanded="true" aria-controls="collapse{{j}}">
+          {{ jobad.title }}
+        </a>
+      </h3>
+    </div>
+    <div id="collapse{{j}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{j}}">
+      <div class="panel-body">
+        {{ jobad.sourceName }} - {{ jobad.published }}<br>
+        Tags:{% for tag in  jobad.tags %}  {{ tag }};{% endfor %}<br>
+        {{ jobad.content }}
+      </div>
+    </div>
+  </div>
+{% assign j = j | plus: 1 %}
+{% endfor %}
+
+</div>
