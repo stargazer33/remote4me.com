@@ -17,16 +17,31 @@
 {% for jobad in jobadlist %}
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="heading{{j}}">
-      <h3 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{j}}" aria-expanded="true" aria-controls="collapse{{j}}">
-          {{ jobad.title }}
-        </a>
-      </h3>
+
+          <h3 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{j}}" aria-expanded="true" aria-controls="collapse{{j}}">
+
+              <div class="row">
+                <div class="col-xs-10">
+                  {{ jobad.title }}
+                </div>
+                <div class="col-xs-2 text-right">
+                  {{ jobad.published | date: "%b %d, %y" }}
+                </div>
+              </div>
+
+            </a>
+          </h3>
+
     </div>
     <div id="collapse{{j}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{j}}">
       <div class="panel-body">
-        {{ jobad.sourceName }} - {{ jobad.published }}<br>
+        <a href="{{ jobad.url }}" target="_blank">View original job description</a> at {{ jobad.sourceName }}<br>
+        <hr/>
+        {% comment %}
         Tags:{% for tag in  jobad.tags %}  {{ tag }};{% endfor %}<br>
+        <hr/>
+        {% endcomment %}
         {{ jobad.content }}
       </div>
     </div>
