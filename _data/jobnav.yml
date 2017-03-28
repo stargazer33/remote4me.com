@@ -12,76 +12,76 @@
   subnodes:
 
     - title: Frontend jobs
-      tagline: javascript which runs in browser, typescript, angularjs, react.js and similar technologies
+      tagline: Javascript which runs in browser&#58; angularjs, react.js and similar technologies
       undertagline:
       url: frontend
       datafile: dev
 
     - title: Mobile jobs
-      tagline: includes ios, android, windows phone, cordova, xamarin and other technologies for mobile apps
+      tagline: Includes ios, android, windows phone, cordova, xamarin and other technologies for mobile apps
       undertagline:
       url: mobile
-      datafile: qa
+      datafile: dev
 
     - title: Embedded applications/devices jobs
-      tagline: includes firmware development, microcontrollers, real-time os
+      tagline: Includes firmware development, microcontrollers, real-time os
       undertagline:
       url: embedded
-      datafile: qa
+      datafile: dev
 
-    - title: gamedev jobs
-      tagline: includes game engine development, unity, flash, mobile game development
+    - title: Gamedev jobs
+      tagline: Includes game engine development, unity, flash, mobile game development
       undertagline:
       url: gamedev
-      datafile: qa
+      datafile: dev
 
-    - title: java jobs
-      tagline: includes scala
+    - title: Java jobs
+      tagline: Includes scala
       undertagline:
       url: java
-      datafile: qa
+      datafile: dev
 
-    - title: .net jobs
-      tagline: includes c#, vb.net, vba, asp.net, windows desktop applications, microsoft azure and other microsoft technologies
+    - title: .NET jobs
+      tagline: Includes c#, vb.net, vba, asp.net, windows desktop applications, microsoft azure and other microsoft technologies
       undertagline:
       url: dotnet
-      datafile: qa
+      datafile: dev
 
-    - title: c/c++ jobs
-      tagline: for any os
+    - title: C/C++ jobs
+      tagline: ...for any os
       undertagline:
       url: c-plus-plus
-      datafile: qa
+      datafile: dev
 
-    - title: php jobs
-      tagline: includes laravel, symphony, codeigniter, zend
+    - title: PHP jobs
+      tagline: Includes laravel, symphony, codeigniter, zend
       undertagline:
       url: php
-      datafile: qa
+      datafile: dev
 
-    - title: node.js jobs
-      tagline: and other backend javascript technologies like meteor.js, express.js, vertx.io
+    - title: Node.js jobs
+      tagline: ...and other backend javascript technologies like meteor.js, express.js, vertx.io
       undertagline:
       url: nodejs
-      datafile: qa
+      datafile: dev
 
-    - title: ruby jobs
-      tagline: includes rails
+    - title: Ruby jobs
+      tagline: Includes Rails
       undertagline:
       url: ruby
-      datafile: qa
+      datafile: dev
 
-    - title: python jobs
-      tagline: includes django
+    - title: Python jobs
+      tagline: Includes Django
       undertagline:
       url: python
-      datafile: qa
+      datafile: dev
 
-    - title: other technologies
-      tagline: includes perl, bash, go, lisp, erlang, haskell, ocaml, scheme, clojure, F#
+    - title: Other technologies
+      tagline: Includes perl, bash, go, lisp, erlang, haskell, ocaml, scheme, clojure, F#
       undertagline:
       url: other-dev
-      datafile: qa
+      datafile: dev
 
 - title: Data engineers/scientists jobs
   tagline: Everything related to statistics or mathematics, big data specialists, machine learning specialists, data scientists. technologies like R programming language, hadoop, apache spark
