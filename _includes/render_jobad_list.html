@@ -1,12 +1,10 @@
-{% assign thisnodes = site.data.jobnav | where:"url", include.permalink %}
+{% assign thisnodes = site.data.jobnav | where:"url", page.permalink %}
 {% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
 {% if difference contains '-' %}
-  {% assign thisnodes = site.data.jobnav[1].subnodes | where:"url", include.permalink %}
+{% assign thisnodes = site.data.jobnav[site.jobnav_developers_node].subnodes | where:"url", page.permalink %}
 {% endif %}
-
 {% assign datafile = thisnodes[0].datafile %}
 {% assign jobadlist = site.data[datafile].items %}
-
 <noscript>
     <style>
         .collapse {display:block;}
