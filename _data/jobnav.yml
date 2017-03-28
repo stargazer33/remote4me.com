@@ -1,138 +1,138 @@
 - title: Developer jobs (any tecnhology stack)
   tagline: programmers, software engineers, architects, tech leads
-  text:
+  undertagline:
   url: developers
   datafile: dev
 
 - title:
   tagline: Remote developer jobs per tecnhology stack&#58;
-  text:
+  undertagline:
   url:
   datafile:
   subnodes:
 
     - title: Frontend jobs
       tagline: javascript which runs in browser, typescript, angularjs, react.js and similar technologies
-      text:
+      undertagline:
       url: frontend
       datafile: dev
 
     - title: Mobile jobs
       tagline: includes ios, android, windows phone, cordova, xamarin and other technologies for mobile apps
-      text:
+      undertagline:
       url: mobile
       datafile: qa
 
     - title: Embedded applications/devices jobs
       tagline: includes firmware development, microcontrollers, real-time os
-      text:
+      undertagline:
       url: embedded
       datafile: qa
 
     - title: gamedev jobs
       tagline: includes game engine development, unity, flash, mobile game development
-      text:
+      undertagline:
       url: gamedev
       datafile: qa
 
     - title: java jobs
       tagline: includes scala
-      text:
+      undertagline:
       url: java
       datafile: qa
 
     - title: .net jobs
       tagline: includes c#, vb.net, vba, asp.net, windows desktop applications, microsoft azure and other microsoft technologies
-      text:
+      undertagline:
       url: dotnet
       datafile: qa
 
     - title: c/c++ jobs
       tagline: for any os
-      text:
+      undertagline:
       url: c-plus-plus
       datafile: qa
 
     - title: php jobs
       tagline: includes laravel, symphony, codeigniter, zend
-      text:
+      undertagline:
       url: php
       datafile: qa
 
     - title: node.js jobs
       tagline: and other backend javascript technologies like meteor.js, express.js, vertx.io
-      text:
+      undertagline:
       url: nodejs
       datafile: qa
 
     - title: ruby jobs
       tagline: includes rails
-      text:
+      undertagline:
       url: ruby
       datafile: qa
 
     - title: python jobs
       tagline: includes django
-      text:
+      undertagline:
       url: python
       datafile: qa
 
     - title: other technologies
       tagline: includes perl, bash, go, lisp, erlang, haskell, ocaml, scheme, clojure, F#
-      text:
+      undertagline:
       url: other-dev
       datafile: qa
 
 - title: Data engineers/scientists jobs
   tagline: Everything related to statistics or mathematics, big data specialists, machine learning specialists, data scientists. technologies like R programming language, hadoop, apache spark
-  text:
+  undertagline:
   url: big-data-science-machine-learning
   datafile: data
 
 - title: Database (RDBMS) developers and admins (DBA's)
   tagline:  oracle/mysql/postgres/sql server database developers/admins, database automation engineers
-  text:
+  undertagline:
   url: database-developers-admins
   datafile: data
 
 - title: QA engineer jobs
   tagline: Quality Assurance Engineers, test engineers, QA automation engineers, manual QA
-  text:
+  undertagline:
   url: qa-test-engineers
   datafile: qa
 
 - title: Integration Engineers jobs
   tagline: implementation engineers, build/release engineers, automation developers, data integration engineers
-  text:
+  undertagline:
   url: integration-build-automation
   datafile: integration
 
 - title: DevOps and Sysadmins
   tagline: linux systems engineers, network/security engineers, site reliability engineers, operations engineers, crm administrators, dynamics administrators
-  text:
+  undertagline:
   url: devops-sysadmins
   datafile: admin
 
 - title: Designers
   tagline: graphic artists, ui/ux designers, stylists, character artists, background artists, 2d and 3d artists, animators, game designes
-  text:
+  undertagline:
   url: designers-graphic-artists
   datafile: designer
 
 - title: Support specialists and (technical) writers
   tagline:  customer champions, support agents, copywriters
-  text:
+  undertagline:
   url: support-copywriters
   datafile: support
 
 - title:  Sales, Marketing and Product specialists
   tagline: product owners, product managers, analysts, solution architects, security architects
-  text:
+  undertagline:
   url: sales-marketing-product
   datafile: product
 
 - title: Managers and executives
   tagline: engineering/qa managers, line managers, project managers
-  text:
+  undertagline:
   url: managers
   datafile: manager

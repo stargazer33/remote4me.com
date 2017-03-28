@@ -1,11 +1,12 @@
 {% assign thisnodes = site.data.jobnav | where:"url", page.permalink %}
 {% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
 {% if difference contains '-' %}
-  {% assign thisnodes = site.data.jobnav[1].subnodes | where:"url", page.permalink %}
+  {% assign thisnodes = site.data.jobnav[site.jobnav_developers_node].subnodes | where:"url", page.permalink %}
 {% endif %}
 
 <div class="page-header" style="margin-top: 0px">
   <h1>{{ thisnodes[0].title }} {% if thisnodes[0].tagline %}<br /><small>{{ thisnodes[0].tagline }}</small>{% endif %}</h1>
+  {% if thisnodes[0].undertagline %}<p>{{ thisnodes[0].undertagline }}</p>{% endif %}
 </div>
 <div class="row">
   <div class="col-xs-12">
