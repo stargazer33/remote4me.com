@@ -8,12 +8,12 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "REMOTE2/America",
-      "TECH2/javascript",
-      "TECH2/html",
-      "TITLE1/integration",
-      "TECH2/css",
-      "REMOTE1/100"
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TECH2_javascript",
+      "TECH2_html",
+      "TITLE1_integration",
+      "TECH2_css"
     ]
   },
   {
@@ -24,9 +24,9 @@
     "urlFetchPending": false,
     "published": "Feb 3, 2017 11:00:21 PM",
     "tags": [
-      "REMOTE2/America",
-      "TITLE1/integration",
-      "REMOTE1/100"
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TITLE1_integration"
     ]
   },
   {
@@ -37,9 +37,9 @@
     "urlFetchPending": false,
     "published": "Jan 30, 2017 4:26:23 PM",
     "tags": [
-      "REMOTE2/America",
-      "TITLE1/integration",
-      "REMOTE1/100"
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TITLE1_integration"
     ]
   },
   {
@@ -50,12 +50,12 @@
     "urlFetchPending": false,
     "published": "Feb 9, 2017 12:23:03 AM",
     "tags": [
-      "REMOTE2/America",
-      "TECH2/javascript",
-      "TECH2/html",
-      "TITLE1/integration",
-      "TECH2/css",
-      "REMOTE1/100"
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TECH2_javascript",
+      "TECH2_html",
+      "TITLE1_integration",
+      "TECH2_css"
     ]
   },
   {
@@ -66,14 +66,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "REMOTE2/America",
-      "TECH2/ruby",
-      "TECH2/jenkins",
-      "REMOTE1/50",
-      "TECH2/chef",
-      "TITLE1/integration",
-      "TECH2/python",
-      "TECH2/puppet"
+      "REMOTE1_50",
+      "REMOTE2_America",
+      "TECH2_ruby",
+      "TECH2_jenkins",
+      "TECH2_chef",
+      "TITLE1_integration",
+      "TECH2_python",
+      "TECH2_puppet"
     ]
   },
   {
@@ -84,15 +84,246 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:35:44 PM",
     "tags": [
-      "TECH2/azure",
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TECH2/cloud",
-      "TECH2/dsc",
-      "TITLE1/integration",
-      "TECH2/.net",
-      "TECH2/powershell"
+      "REMOTE1_50",
+      "REMOTE2_America",
+      "TECH2_azure",
+      "TECH2_cloud",
+      "TECH2_dsc",
+      "TITLE1_integration",
+      "TECH2_.net",
+      "TECH2_powershell"
     ]
   }
+
+  ,
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test America WEST job REMOTE1_100",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_100",
+        "REMOTE2_America",
+        "REMOTE2_America_West",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    }
+
+  ,
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test America EAST job REMOTE1_100 + US AUTH",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_100",
+        "REMOTE2_America",
+        "REMOTE2_America_East",
+        "REMOTE3_US",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    },
+
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test America + Europe job REMOTE1_100",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_100",
+        "REMOTE2_America",
+        "REMOTE2_Europe",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    },
+
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test America + Europe job REMOTE1_100 + US AUTH",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_100",
+        "REMOTE2_America",
+        "REMOTE2_Europe",
+        "REMOTE3_US",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    },
+
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test America + Europe job REMOTE1_50 + US AUTH",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_50",
+        "REMOTE2_America",
+        "REMOTE2_Europe",
+        "REMOTE3_US",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    }
+
+  ,
+  {
+    "sourceName": "stackoverflow.com",
+    "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+    "title": "Test Europe job REMOTE1_100",
+    "content": "",
+    "urlFetchPending": false,
+    "published": "Feb 7, 2017 11:35:44 PM",
+    "tags": [
+      "REMOTE1_100",
+      "REMOTE2_Europe",
+      "TECH2_azure",
+      "TECH2_cloud",
+      "TECH2_dsc",
+      "TITLE1_integration",
+      "TECH2_.net",
+      "TECH2_powershell"
+    ]
+  }
+
+  ,
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test Europe job REMOTE1_100 + EU AUTH",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_100",
+        "REMOTE2_Europe",
+        "REMOTE3_EU",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    }
+
+  ,
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test Europe job REMOTE1_50 + EU AUTH",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_50",
+        "REMOTE2_Europe",
+        "REMOTE3_EU",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    }
+
+  ,
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test Europe + Asia job REMOTE1_100 + EU AUTH",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_100",
+        "REMOTE2_Europe",
+        "REMOTE2_Asia",
+        "REMOTE3_EU",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    }
+
+  ,
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test Europe + Asia job REMOTE1_100",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_100",
+        "REMOTE2_Europe",
+        "REMOTE2_Asia",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    }
+
+  ,
+    {
+      "sourceName": "stackoverflow.com",
+      "url": "http://stackoverflow.com/jobs/126312/automation-dev-cloud-exp-needed-asap-intergraph-uk-ltd-hostsure?a\u003dGmoaJVZ3hkc",
+      "title": "Test EU + Asia job REMOTE1_50",
+      "content": "",
+      "urlFetchPending": false,
+      "published": "Feb 7, 2017 11:35:44 PM",
+      "tags": [
+        "REMOTE1_50",
+        "REMOTE2_Europe",
+        "REMOTE2_Asia",
+        "TECH2_azure",
+        "TECH2_cloud",
+        "TECH2_dsc",
+        "TITLE1_integration",
+        "TECH2_.net",
+        "TECH2_powershell"
+      ]
+    }
 ]
 }
