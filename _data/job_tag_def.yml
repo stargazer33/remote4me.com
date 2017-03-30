@@ -1,0 +1,46 @@
+# REMOTE1=Remoteness
+#
+
+- tag: REMOTE1_100
+  tagname: "100% remote"
+  color: f29513
+
+- tag: REMOTE1_50
+  tagname: "50% remote"
+  color: f29513
+
+
+
+# REMOTE2=Time zones (a group of time zones)
+#
+- tag: REMOTE2_America
+  tagname: "America timezones"
+  color: f29513
+
+- tag: REMOTE2_America_East
+  tagname: "America East timezones"
+  color: f29513
+
+- tag: REMOTE2_America_West
+  tagname: "America West timezones"
+  color: f29513
+
+- tag: REMOTE2_Europe
+  tagname: "Europe timezones"
+  color: f29513
+
+- tag: REMOTE2_Asia
+  tagname: "Asia timezones"
+  color: f29513
+
+
+
+# REMOTE3 = work authorisation
+#
+- tag: REMOTE3_US
+  tagname: "US work authorisation"
+  color: f29513
+
+- tag: REMOTE3_EU
+  tagname: "EU work authorisation"
+  color: f29513
