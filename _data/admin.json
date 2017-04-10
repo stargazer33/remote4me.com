@@ -8,12 +8,12 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/security",
-      "REMOTE2/America",
-      "TECH2/pci",
-      "TECH2/iaas",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_pci",
+      "TECH2_security",
+      "TECH2_iaas",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -24,12 +24,12 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "TECH2/kubernetes",
-      "TECH2/docker",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_docker",
+      "TECH2_amazon-web-services",
+      "TECH2_kubernetes",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -40,15 +40,15 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/smtp",
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "TECH2/centos",
-      "TECH2/mysql",
-      "TECH2/sysadmin",
-      "TECH2/ansible",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_ansible",
+      "TECH2_smtp",
+      "TECH2_sysadmin",
+      "TECH2_amazon-web-services",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TECH2_centos",
+      "TECH2_mysql"
     ]
   },
   {
@@ -59,14 +59,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/etl",
-      "TECH2/pentaho",
-      "REMOTE2/America",
-      "TECH2/mysql",
-      "TECH2/mongodb",
-      "TECH2/javascript",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_mongodb",
+      "TITLE1_admin",
+      "TECH2_javascript",
+      "REMOTE1_100",
+      "TECH2_etl",
+      "REMOTE2_America",
+      "TECH2_pentaho",
+      "TECH2_mysql"
     ]
   },
   {
@@ -77,14 +77,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/devops",
-      "TECH2/postgresql",
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "TECH2/nginx",
-      "TECH2/python",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_postgresql",
+      "TECH2_python",
+      "TECH2_nginx",
+      "TECH2_amazon-web-services",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "TECH2_devops",
+      "REMOTE2_America"
     ]
   },
   {
@@ -95,14 +95,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/postgresql",
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "TECH2/nginx",
-      "TECH2/python",
-      "TECH2/hadoop",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_postgresql",
+      "TECH2_python",
+      "TECH2_nginx",
+      "TECH2_amazon-web-services",
+      "TECH2_hadoop",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -113,14 +113,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/elk-stack",
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "TECH2/jenkins",
-      "TECH2/centos",
-      "TECH2/ansible",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_ansible",
+      "TECH2_amazon-web-services",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TECH2_centos",
+      "TECH2_elk-stack",
+      "TECH2_jenkins"
     ]
   },
   {
@@ -131,14 +131,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "TECH2/docker",
-      "TECH2/ansible",
-      "TECH2/python",
-      "REMOTE1/100",
-      "TECH2/puppet",
-      "TITLE1/admin"
+      "TECH2_python",
+      "TECH2_puppet",
+      "TECH2_docker",
+      "TECH2_ansible",
+      "TECH2_amazon-web-services",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -149,15 +149,15 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "TECH2/heroku",
-      "TECH2/ruby",
-      "TECH2/sysadmin",
-      "TECH2/solr",
-      "REMOTE1/100",
-      "TECH2/redis",
-      "TITLE1/admin"
+      "TECH2_ruby",
+      "TECH2_sysadmin",
+      "TECH2_amazon-web-services",
+      "TECH2_redis",
+      "TECH2_solr",
+      "TITLE1_admin",
+      "TECH2_heroku",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -168,14 +168,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "TECH2/bash",
-      "TECH2/go",
-      "TECH2/javascript",
-      "TECH2/python",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_python",
+      "TECH2_bash",
+      "TECH2_amazon-web-services",
+      "TITLE1_admin",
+      "TECH2_javascript",
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TECH2_go"
     ]
   },
   {
@@ -186,13 +186,13 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/linux",
-      "REMOTE2/America",
-      "TECH2/icinga",
-      "TECH2/prometheus",
-      "REMOTE1/100",
-      "TECH2/puppet",
-      "TITLE1/admin"
+      "TECH2_puppet",
+      "TECH2_prometheus",
+      "TITLE1_admin",
+      "TECH2_linux",
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TECH2_icinga"
     ]
   },
   {
@@ -203,14 +203,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/sql",
-      "TECH2/devops",
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "TECH2/python",
-      "REMOTE1/100",
-      "TECH2/puppet",
-      "TITLE1/admin"
+      "TECH2_python",
+      "TECH2_puppet",
+      "TECH2_amazon-web-services",
+      "TITLE1_admin",
+      "TECH2_sql",
+      "REMOTE1_100",
+      "TECH2_devops",
+      "REMOTE2_America"
     ]
   },
   {
@@ -221,14 +221,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/infrastructure",
-      "TECH2/devops",
-      "TECH2/linux",
-      "REMOTE2/America",
-      "TECH2/ansible",
-      "TECH2/operations",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_ansible",
+      "TECH2_operations",
+      "TITLE1_admin",
+      "TECH2_linux",
+      "REMOTE1_100",
+      "TECH2_infrastructure",
+      "TECH2_devops",
+      "REMOTE2_America"
     ]
   },
   {
@@ -239,14 +239,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "REMOTE2/America",
-      "TECH2/tapestry",
-      "TECH2/ehr",
-      "TECH2/cycle",
-      "TECH2/epic",
-      "TECH2/revenue",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_tapestry",
+      "TECH2_cycle",
+      "TECH2_revenue",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TECH2_ehr",
+      "TECH2_epic"
     ]
   },
   {
@@ -257,14 +257,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/google-cloud-platform",
-      "REMOTE2/America",
-      "TECH2/kubernetes",
-      "TECH2/go",
-      "TECH2/nginx",
-      "TECH2/couchbase",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_nginx",
+      "TECH2_couchbase",
+      "TECH2_google-cloud-platform",
+      "TECH2_kubernetes",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America",
+      "TECH2_go"
     ]
   },
   {
@@ -275,12 +275,12 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/devops",
-      "TECH2/amazon-web-services",
-      "TECH2/linux",
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_amazon-web-services",
+      "TITLE1_admin",
+      "TECH2_linux",
+      "REMOTE1_100",
+      "TECH2_devops",
+      "REMOTE2_America"
     ]
   },
   {
@@ -291,9 +291,9 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:00:25 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -304,9 +304,9 @@
     "urlFetchPending": false,
     "published": "Feb 6, 2017 9:07:04 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -317,9 +317,9 @@
     "urlFetchPending": false,
     "published": "Jan 10, 2017 6:51:11 PM",
     "tags": [
-      "REMOTE2/locals-only",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_locals-only"
     ]
   },
   {
@@ -330,9 +330,9 @@
     "urlFetchPending": false,
     "published": "Dec 21, 2016 5:55:27 PM",
     "tags": [
-      "REMOTE2/Europe",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "REMOTE2_Europe",
+      "TITLE1_admin",
+      "REMOTE1_100"
     ]
   },
   {
@@ -343,9 +343,9 @@
     "urlFetchPending": false,
     "published": "Feb 2, 2017 7:13:22 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -356,9 +356,9 @@
     "urlFetchPending": false,
     "published": "Feb 2, 2017 7:13:25 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -369,9 +369,9 @@
     "urlFetchPending": false,
     "published": "Feb 3, 2017 4:17:10 AM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -382,9 +382,9 @@
     "urlFetchPending": false,
     "published": "Jan 4, 2017 7:04:51 PM",
     "tags": [
-      "REMOTE2/locals-only",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_locals-only"
     ]
   },
   {
@@ -395,9 +395,9 @@
     "urlFetchPending": false,
     "published": "Jan 15, 2017 3:34:52 AM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -408,9 +408,9 @@
     "urlFetchPending": false,
     "published": "Jan 13, 2017 6:33:27 AM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -421,9 +421,9 @@
     "urlFetchPending": false,
     "published": "Feb 3, 2017 4:17:10 AM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -434,9 +434,9 @@
     "urlFetchPending": false,
     "published": "Jan 13, 2017 7:53:50 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -447,9 +447,9 @@
     "urlFetchPending": false,
     "published": "Jan 13, 2017 7:53:50 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -460,9 +460,9 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 1:58:30 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -473,9 +473,9 @@
     "urlFetchPending": false,
     "published": "Feb 6, 2017 3:18:03 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -486,9 +486,9 @@
     "urlFetchPending": false,
     "published": "Jan 26, 2017 2:00:08 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -499,9 +499,9 @@
     "urlFetchPending": false,
     "published": "Jan 16, 2017 2:05:52 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -512,9 +512,9 @@
     "urlFetchPending": false,
     "published": "Dec 13, 2016 11:19:24 AM",
     "tags": [
-      "REMOTE2/locals-only",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_locals-only"
     ]
   },
   {
@@ -526,9 +526,9 @@
     "urlFetchPending": false,
     "published": "Feb 1, 2017 6:18:04 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -540,9 +540,9 @@
     "urlFetchPending": false,
     "published": "Feb 1, 2017 6:07:03 PM",
     "tags": [
-      "REMOTE2/locals-only",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_locals-only"
     ]
   },
   {
@@ -554,9 +554,9 @@
     "urlFetchPending": false,
     "published": "Feb 2, 2017 5:00:05 AM",
     "tags": [
-      "REMOTE2/locals-only",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_locals-only"
     ]
   },
   {
@@ -568,9 +568,9 @@
     "urlFetchPending": false,
     "published": "Feb 2, 2017 9:00:05 AM",
     "tags": [
-      "REMOTE2/locals-only",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_locals-only"
     ]
   },
   {
@@ -582,9 +582,9 @@
     "urlFetchPending": false,
     "published": "Feb 2, 2017 6:44:05 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -595,14 +595,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:35:44 PM",
     "tags": [
-      "TECH2/network",
-      "REMOTE2/America",
-      "TECH2/ruby",
-      "TECH2/tcp",
-      "TECH2/restful",
-      "TECH2/ip",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TECH2_ruby",
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "TECH2_network",
+      "REMOTE2_America",
+      "TECH2_restful",
+      "TECH2_ip",
+      "TECH2_tcp"
     ]
   },
   {
@@ -613,9 +613,9 @@
     "urlFetchPending": false,
     "published": "Feb 9, 2017 5:07:44 AM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -626,9 +626,9 @@
     "urlFetchPending": false,
     "published": "Feb 9, 2017 9:01:24 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/100",
-      "TITLE1/admin"
+      "TITLE1_admin",
+      "REMOTE1_100",
+      "REMOTE2_America"
     ]
   },
   {
@@ -639,13 +639,13 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "REMOTE2/America",
-      "TECH2/windows",
-      "REMOTE1/50",
-      "TECH2/exchange-server",
-      "TECH2/active-directory",
-      "TITLE1/admin",
-      "TECH2/migration"
+      "TECH2_exchange-server",
+      "TECH2_active-directory",
+      "TECH2_migration",
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_America",
+      "TECH2_windows"
     ]
   },
   {
@@ -656,13 +656,13 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/owasp",
-      "TECH2/security",
-      "TECH2/tls1.2",
-      "TECH2/linux",
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TITLE1/admin"
+      "TECH2_security",
+      "REMOTE1_50",
+      "TECH2_tls1.2",
+      "TECH2_owasp",
+      "TITLE1_admin",
+      "TECH2_linux",
+      "REMOTE2_America"
     ]
   },
   {
@@ -673,13 +673,13 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/security",
-      "REMOTE1/50",
-      "TECH2/go",
-      "REMOTE2/locals-only",
-      "TECH2/python",
-      "TECH2/c++",
-      "TITLE1/admin"
+      "TECH2_python",
+      "TECH2_c++",
+      "TECH2_security",
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_locals-only",
+      "TECH2_go"
     ]
   },
   {
@@ -690,15 +690,15 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/amazon-web-services",
-      "TECH2/networking",
-      "TECH2/linux",
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TECH2/database",
-      "TECH2/sysadmin",
-      "TECH2/python",
-      "TITLE1/admin"
+      "TECH2_python",
+      "TECH2_networking",
+      "TECH2_database",
+      "TECH2_sysadmin",
+      "TECH2_amazon-web-services",
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "TECH2_linux",
+      "REMOTE2_America"
     ]
   },
   {
@@ -709,9 +709,9 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TITLE1/admin"
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_America"
     ]
   },
   {
@@ -722,12 +722,12 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/amazon-web-services",
-      "TECH2/linux",
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TECH2/ansible",
-      "TITLE1/admin"
+      "TECH2_ansible",
+      "TECH2_amazon-web-services",
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "TECH2_linux",
+      "REMOTE2_America"
     ]
   },
   {
@@ -738,14 +738,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TECH2/sysadmin",
-      "TECH2/ansible",
-      "TECH2/node.js",
-      "TECH2/terraform",
-      "TITLE1/admin"
+      "TECH2_ansible",
+      "TECH2_terraform",
+      "TECH2_sysadmin",
+      "TECH2_node.js",
+      "TECH2_amazon-web-services",
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_America"
     ]
   },
   {
@@ -756,9 +756,9 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TITLE1/admin"
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_America"
     ]
   },
   {
@@ -769,15 +769,15 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:12:04 PM",
     "tags": [
-      "TECH2/aws",
-      "TECH2/linux",
-      "TECH2/docker",
-      "REMOTE1/50",
-      "TECH2/javascript",
-      "TECH2/sysadmin",
-      "REMOTE2/locals-only",
-      "TECH2/node.js",
-      "TITLE1/admin"
+      "TECH2_docker",
+      "TECH2_sysadmin",
+      "TECH2_node.js",
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "TECH2_linux",
+      "TECH2_javascript",
+      "TECH2_aws",
+      "REMOTE2_locals-only"
     ]
   },
   {
@@ -788,9 +788,9 @@
     "urlFetchPending": false,
     "published": "Feb 3, 2017 4:41:20 AM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TITLE1/admin"
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_America"
     ]
   },
   {
@@ -801,9 +801,9 @@
     "urlFetchPending": false,
     "published": "Jan 13, 2017 11:29:09 PM",
     "tags": [
-      "REMOTE1/50",
-      "REMOTE2/locals-only",
-      "TITLE1/admin"
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_locals-only"
     ]
   },
   {
@@ -814,9 +814,9 @@
     "urlFetchPending": false,
     "published": "Jan 25, 2017 3:17:05 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TITLE1/admin"
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_America"
     ]
   },
   {
@@ -828,9 +828,9 @@
     "urlFetchPending": false,
     "published": "Feb 2, 2017 4:20:04 PM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TITLE1/admin"
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_America"
     ]
   },
   {
@@ -842,9 +842,9 @@
     "urlFetchPending": false,
     "published": "Feb 3, 2017 3:00:05 AM",
     "tags": [
-      "REMOTE1/50",
-      "REMOTE2/locals-only",
-      "TITLE1/admin"
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_locals-only"
     ]
   },
   {
@@ -856,9 +856,9 @@
     "urlFetchPending": false,
     "published": "Feb 4, 2017 3:00:05 AM",
     "tags": [
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TITLE1/admin"
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_America"
     ]
   },
   {
@@ -869,13 +869,13 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:35:44 PM",
     "tags": [
-      "TECH2/java",
-      "TECH2/security",
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TECH2/iso",
-      "TECH2/python",
-      "TITLE1/admin"
+      "TECH2_python",
+      "TECH2_iso",
+      "TECH2_security",
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "TECH2_java",
+      "REMOTE2_America"
     ]
   },
   {
@@ -886,13 +886,13 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:35:44 PM",
     "tags": [
-      "TECH2/git",
-      "REMOTE2/America",
-      "TECH2/docker",
-      "REMOTE1/50",
-      "TECH2/sysadmin",
-      "TECH2/ansible",
-      "TITLE1/admin"
+      "TECH2_docker",
+      "TECH2_ansible",
+      "TECH2_sysadmin",
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "REMOTE2_America",
+      "TECH2_git"
     ]
   },
   {
@@ -903,13 +903,13 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:35:44 PM",
     "tags": [
-      "TECH2/amazon-web-services",
-      "TECH2/linux",
-      "REMOTE1/50",
-      "TECH2/sysadmin",
-      "REMOTE2/Europe",
-      "TECH2/puppet",
-      "TITLE1/admin"
+      "REMOTE2_Europe",
+      "TECH2_puppet",
+      "TECH2_sysadmin",
+      "TECH2_amazon-web-services",
+      "REMOTE1_50",
+      "TITLE1_admin",
+      "TECH2_linux"
     ]
   },
   {
@@ -920,14 +920,14 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:35:44 PM",
     "tags": [
-      "TECH2/java",
-      "TECH2/devops",
-      "TECH2/amazon-web-services",
-      "REMOTE2/America",
-      "REMOTE1/50",
-      "TECH2/web-scale",
-      "TECH2/kotlin",
-      "TITLE1/admin"
+      "TECH2_amazon-web-services",
+      "REMOTE1_50",
+      "TECH2_web-scale",
+      "TITLE1_admin",
+      "TECH2_java",
+      "TECH2_devops",
+      "REMOTE2_America",
+      "TECH2_kotlin"
     ]
   },
   {
@@ -938,13 +938,13 @@
     "urlFetchPending": false,
     "published": "Feb 7, 2017 11:35:44 PM",
     "tags": [
-      "TECH2/linux",
-      "REMOTE2/America",
-      "TECH2/kubernetes",
-      "TECH2/docker",
-      "REMOTE1/50",
-      "TECH2/go",
-      "TITLE1/admin"
+      "TECH2_docker",
+      "REMOTE1_50",
+      "TECH2_kubernetes",
+      "TITLE1_admin",
+      "TECH2_linux",
+      "REMOTE2_America",
+      "TECH2_go"
     ]
   }
 ]
