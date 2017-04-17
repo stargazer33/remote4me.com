@@ -5,46 +5,70 @@
 {% endif %}
 {% assign datafile = thisnodes[0].datafile %}
 {% assign jobadlist = site.data[datafile].items %}
+
+<div class="row filterRow">
+    <div class="col-xs-4 well well-lg-sp">
+        <div class="radio">
+            <label><input type="radio" id="worldwide-checkbox" class="filter-checkbox" name="optradio" checked="" data-filter="all">Show jobs worldwide</label>
+        </div>
+        <div class="checkbox">
+          <label><input type="checkbox" class="filter-checkbox">Show jobs in America timezones</label>
+        </div>
+        <div class="checkbox">
+          <label><input type="checkbox" class="filter-checkbox">Show jobs in European timezones</label>
+        </div>
+        <div class="checkbox">
+          <label><input type="checkbox" class="filter-checkbox">Show jobs in Asia\Pacific timezones</label>
+        </div>
+    </div>
+    <div class="col-xs-4 well well-lg-sp middleFilter">
+        <div class="checkbox">
+          <label><input type="checkbox" class="filter-checkbox">Hide jobs requiring US work authorization</label>
+        </div>
+        <div class="checkbox">
+          <label><input type="checkbox" class="filter-checkbox">Hide jobs requiring EU work authorization</label>
+        </div>
+        <p class="filterTip">Some jobs require that you "..must be GCH(Green Card Holder).." In case you have no such authorization - you can hide such jobs</p>
+    </div>
+    <div class="col-xs-4 well well-lg-sp">
+        <div class="checkbox">
+          <label><input type="checkbox" class="filter-checkbox" data-filter="REMOTE1_50">Show 50% remote jobs</label>
+        </div>
+        <p class="filterTip">Some job descriptions mention "remote working days" or "occasional remote working". This is a clear indicator that you can not work remote from anywhere. We name such jobs "50% remote".</p>
+    </div>
+</div>
+<div>
+<table id="table">
+    <thead>
+    <tr>
+        <th data-field="tags" data-formatter="tagsFormatter">tags</th>
+        <th data-field="title" data-formatter="titleFormatter">title</th>
+        <th data-field="published" data-formatter="publishedFormatter">published</th>
+    </tr>
+    </thead>
+</table>
+<div class="alertJs alert alert-danger" role="alert">Oh snap! You need JS enabled to be able see this table! </div>
+</div>
+<script>
+var json_data = [];
+  json_data = [
+  {% for jobad in jobadlist %}
+    {
+      "title": "{{ jobad.title }}",
+      "sourceName": "{{ jobad.sourceName }}",
+      "url": "{{ jobad.url }}",
+      "content": "{{ jobad.content }}",
+      "urlFetchPending": "{{ jobad.urlFetchPending }}",
+      "published": "{{ jobad.published }}",
+      "tags": [{% for tag in jobad.tags %}"{{tag}}",{% endfor %}]
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
+</script>
 <noscript>
     <style>
-        .collapse {display:block;}
+        #table {display:none;}
+        .alertJs {display:block;}
     </style>
 </noscript>
-
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-{% for jobad in jobadlist %}
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="heading{{j}}">
-
-          <h3 class="panel-title">
-            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{j}}" aria-expanded="true" aria-controls="collapse{{j}}">
-
-              <div class="row">
-                <div class="col-xs-10 col-sm-10 col-md-11">
-                  {{ jobad.title }}
-                </div>
-                <div class="col-xs-2 col-sm-2 col-md-1 text-right" style="padding: 0 0.5em 0 0">
-                  {{ jobad.published | date: "%b %d" }}
-                </div>
-              </div>
-
-            </a>
-          </h3>
-
-    </div>
-    <div id="collapse{{j}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{j}}">
-      <div class="panel-body">
-        <a href="{{ jobad.url }}" target="_blank">View original job description</a> at {{ jobad.sourceName }}<br>
-        <hr/>
-        {% comment %}
-        Tags:{% for tag in  jobad.tags %}  {{ tag }};{% endfor %}<br>
-        <hr/>
-        {% endcomment %}
-        {{ jobad.content }}
-      </div>
-    </div>
-  </div>
-{% assign j = j | plus: 1 %}
-{% endfor %}
-
-</div>
