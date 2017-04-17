@@ -97,7 +97,9 @@ p{
   display: none;
 }
 
-
+.filterRow{
+  display:none;
+}
 
 div.fixed-table-body > div.fixed-table-pagination > div.pull-left.pagination-detail > span.page-list > span > ul.dropdown-menu{
   top:100%;
