@@ -39,13 +39,6 @@
 </div>
 <div>
 <table id="table">
-    <thead>
-    <tr>
-        <th data-field="tags" data-formatter="tagsFormatter">tags</th>
-        <th data-field="title" data-formatter="titleFormatter">title</th>
-        <th data-field="published" data-formatter="publishedFormatter">published</th>
-    </tr>
-    </thead>
 </table>
 <div class="alertJs alert alert-danger" role="alert">Oh snap! You need JS enabled to be able see this table! </div>
 </div>
@@ -60,7 +53,8 @@ var json_data = [];
       "content": "{{ jobad.content | strip_newlines | remove:  "	" }}",
       "urlFetchPending": "{{ jobad.urlFetchPending }}",
       "published": "{{ jobad.published }}",
-      "tags": [{% for tag in jobad.tags %}"{{tag}}",{% endfor %}]
+      "id": "{{ jobad.id }}",
+      "tags": [{% for tag in jobad.tags %}"{{ tag }}",{% endfor %}]
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}

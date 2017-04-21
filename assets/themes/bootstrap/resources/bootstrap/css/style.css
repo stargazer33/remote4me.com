@@ -92,8 +92,7 @@ p{
 }
 
 #table thead > tr > th.detail,
-#table tbody > tr:not(.detail-view) > td:first-of-type,
-#table tbody > tr:not(.detail-view) > td:nth-child(2) {
+#table tbody > tr:not(.detail-view) > td:first-of-type {
   display: none;
 }
 
@@ -120,6 +119,10 @@ div.fixed-table-body > div.fixed-table-pagination > div.pull-left.pagination-det
   padding:0px;
 }
 
+/*  #table > tbody > tr:nth-child(1) > td:nth-child(2){
+width:80%;
+} */
+
 .detailContent{
   background-color:#f5f5f5;
   padding:8px 8px 1px 8px;
@@ -145,12 +148,23 @@ div.fixed-table-body > div.fixed-table-pagination > div.pull-left.pagination-det
 text-decoration: underline;
 }
 
+#table > tbody > tr> td.spanLink:hover{
+  cursor: pointer;
+}
+
 .labelTag{
   float:left;
   margin: 5px 5px 0px 0px;
   background: #337ab7;
   }
-
+.table>thead>tr>th, 
+.table>tbody>tr>th, 
+.table>tfoot>tr>th, 
+.table>thead>tr>td, 
+.table>tbody>tr>td, 
+.table>tfoot>tr>td {
+border-top: 1px solid #eee;
+}
 @media (min-width: 1280px){
   .well-lg-sp{
     height:180px;
@@ -183,3 +197,38 @@ text-decoration: underline;
 
 }
 
+@media (max-width: 380px) {
+.publishedDate{
+  float:left;
+}
+}
+@media (min-width: 350px) and (max-width: 380px) {
+.publishedDate{
+  width:75px;
+}
+}
+@media (min-width: 320px) and (max-width: 349px) {
+.publishedDate{
+  width:105px;
+}
+}
+@media (min-width: 290px) and (max-width: 319px) {
+.publishedDate{
+  width:135px;
+}
+}
+@media (min-width: 260px) and (max-width: 289px) {
+.publishedDate{
+  width:165px;
+}
+}
+@media (min-width: 230px) and (max-width: 259px) {
+.publishedDate{
+  width:195px;
+}
+}
+@media (max-width: 229px) {
+.publishedDate{
+  width:225px;
+}
+}
