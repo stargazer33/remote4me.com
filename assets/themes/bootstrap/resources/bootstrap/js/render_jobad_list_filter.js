@@ -46,7 +46,7 @@ $(document).ready(function(){
     });
 //Hash is anchor reference in link, so it get part after # and by its id simulate click on <a> tag by this id, after a little timeout(because table need some time to set up).
    var hash = window.location.hash.substr(1);
-    if (!(hash = null)){
+    if (!(hash == null)){
         setTimeout(function(){
             document.getElementById(hash).click();
         }, 100);
@@ -140,5 +140,5 @@ function titleFormatter(data, row, value) {
         appendValue = '<span class = "tag label label-primary labelTag">' + row.tags[i] + '</span>';
         labelTags = labelTags.concat(appendValue);
     }
-    return '<a href="#' + row.id + '" class="anchorLink">' + row.title + '</a><br>' + labelTags;
+    return '<a class="detail-icon" href="#"><i class="fa fa-plus-square-o iconStyle"></i></a> <a href="#' + row.id + '" class="anchorLink">' + row.title + '</a><br>' + labelTags;
 }
