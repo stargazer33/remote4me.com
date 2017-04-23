@@ -46,7 +46,7 @@ $(document).ready(function(){
     });
 //Hash is anchor reference in link, so it get part after # and by its id simulate click on <a> tag by this id, after a little timeout(because table need some time to set up).
    var hash = window.location.hash.substr(1);
-    if (hash > 0){
+    if (!(hash = null)){
         setTimeout(function(){
             document.getElementById(hash).click();
         }, 100);
@@ -54,8 +54,10 @@ $(document).ready(function(){
 //CLick on row to activate detailed view. So this function says that when ever there is a lick on <tr> of table, it will found icon for detailed view and will click on it. This way whole row is "button" for detailed view.
     $("#table").on("click", "tr", function(e, row, $element){
         $(this).find(".detail-icon").trigger("click");
+        if(!($(this).find('.anchorLink').attr('href') == undefined)){
+            window.location.hash = $(this).find('.anchorLink').attr('href');
+        }
 //        window.location = $(this).find('.anchorLink').attr('href');
-        window.location.hash = $(this).find('.anchorLink').attr('href');
     });
 //Checkbox functionality.
     $(".filter-checkbox").click(function () {
