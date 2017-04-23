@@ -54,9 +54,10 @@ $(document).ready(function(){
 //CLick on row to activate detailed view. So this function says that when ever there is a lick on <tr> of table, it will found icon for detailed view and will click on it. This way whole row is "button" for detailed view.
     $("#table").on("click", "tr", function(e, row, $element){
         $(this).find(".detail-icon").trigger("click");
-        if(!($(this).find('.anchorLink').attr('href') == undefined)){
+/*        if(!($(this).find('.anchorLink').attr('href') == undefined)){
             window.location.hash = $(this).find('.anchorLink').attr('href');
-        }
+
+        }*/
 //        window.location = $(this).find('.anchorLink').attr('href');
     });
 //Checkbox functionality.
@@ -140,5 +141,5 @@ function titleFormatter(data, row, value) {
         appendValue = '<span class = "tag label label-primary labelTag">' + row.tags[i] + '</span>';
         labelTags = labelTags.concat(appendValue);
     }
-    return '<a class="detail-icon" href="#"><i class="fa fa-plus-square-o iconStyle"></i></a> <a href="#' + row.id + '" class="anchorLink">' + row.title + '</a><br>' + labelTags;
+    return '<a class="detail-icon" href="#"><i class="fa fa-plus-square-o iconStyle"></i></a> ' + row.title + '<br>' + labelTags;
 }
