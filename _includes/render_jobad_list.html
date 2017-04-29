@@ -51,7 +51,6 @@ var json_data = [];
       "sourceName": "{{ jobad.sourceName }}",
       "url": "{{ jobad.url }}",
       "content": "{{ jobad.content | strip_newlines | remove:  "	" }}",
-      "urlFetchPending": "{{ jobad.urlFetchPending }}",
       "published": "{{ jobad.published }}",
       "id": "{{ jobad.id }}",
       "tags": [{% for tag in jobad.tags %}"{{ tag }}",{% endfor %}]

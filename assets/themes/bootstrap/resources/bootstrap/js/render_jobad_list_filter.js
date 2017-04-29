@@ -12,12 +12,9 @@ $(document).ready(function(){
 // Function that setups table
     $(function () {
         var $table = $('#table').bootstrapTable({data: json_data,
-         pageList:[25, 50, 100],
-         pageSize:25,
          smartDisplay:1,
          detailFormatter: detailFormatter,
          detailView: 1,
-         pagination:1,
          showHeader: 0,
 //Setuping columns. Formatters are functions listed below. If all columns are set to be sortable, then "Published" column is dissapiring in resolutions sub to 992px.
          columns: [{
@@ -116,10 +113,10 @@ function detailFormatter(index, row) {
         if (key == "title"){
             /*html.push('<h4>' + value + '</h4>');*/
         } else if (key == "url") {
-            passUrl = '<p><a href="' + value + '" class="underlineText"> View original job desription</a> at ' + sourceName + '</p>';
+            passUrl = '<div class="row"><div class="col-xs-6">'+ '<a href="' + value + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>' +' </div><div class="col-xs-6 text-right">'+'<a href="#' + row.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>'+'</div> </div>';
             html.push(passUrl);
         } else if (key == "content") {
-            html.push('<p>' + value + '</p><p>' + passUrl + '</p></div><span class="detailFooter"></span>');
+            html.push('<p>' + value + '</p>' + passUrl + '</div><span class="detailFooter"></span>');
         } else if (key == "sourceName") {
             sourceName = value;
         } else {
