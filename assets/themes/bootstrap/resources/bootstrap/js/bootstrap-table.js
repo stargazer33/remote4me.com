@@ -365,7 +365,7 @@
             detailOpen: 'glyphicon-plus icon-plus',
             detailClose: 'glyphicon-minus icon-minus',
             detailOpenFA: 'fa-plus-square-o',
-            detailCloseFA: 'fa-minus-square-o'
+            detailCloseFA: 'fa-minus-square'
         },
 
         customSearch: $.noop,

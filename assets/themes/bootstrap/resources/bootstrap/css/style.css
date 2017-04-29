@@ -159,6 +159,35 @@ text-decoration: underline;
   background-color: #d9edf7;
 }
 
+.detail-view h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.detail-view h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.detail-view h4 {
+  line-height: 1.428571429;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.detail-view h5 {
+  line-height: 1.428571429;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.detail-view h6 {
+  line-height: 1.428571429;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
 #table > tbody> tr >td.vert-align{
     vertical-align: middle;
 }
