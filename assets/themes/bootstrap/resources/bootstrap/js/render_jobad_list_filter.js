@@ -108,7 +108,7 @@ function detailFormatter(index, row) {
     var html = [];
     var sourceName  = "";
     var passUrl = "";
-    html.push('<div class="detailContent">');
+    html.push('<span class="detailFooter"></span> <div class="detailContent">');
     $.each(row, function (key, value) {
         if (key == "title"){
             /*html.push('<h4>' + value + '</h4>');*/
