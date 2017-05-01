@@ -53,6 +53,8 @@ var json_data = [];
       "content": "{{ jobad.content | strip_newlines | remove:  "	" }}",
       "published": "{{ jobad.published }}",
       "id": "{{ jobad.id }}",
+      "tagsNames1": [{% for tag in jobad.tagsNames1 %}"{{ tag }}",{% endfor %}],
+      "tagsNames2": [{% for tag in jobad.tagsNames2 %}"{{ tag }}",{% endfor %}],
       "tags": [{% for tag in jobad.tags %}"{{ tag }}",{% endfor %}]
     }
     {% unless forloop.last %},{% endunless %}
