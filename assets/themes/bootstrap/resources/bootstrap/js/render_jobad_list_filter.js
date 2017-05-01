@@ -133,9 +133,13 @@ function publishedFormatter(value) {
 //Formatter for title column. So it is incapsulating title in <a> which is linked to anchor of itself and then it takes passTag variable that was prepared before by tagsFormatter.
 function titleFormatter(data, row, value) {
     var labelTags = "";
-    for (i = 0; i < row.tags.length; i++) {
-        var appendValue = "";
-        appendValue = '<span class = "tag label label-primary labelTag">' + row.tags[i] + '</span>';
+    var appendValue = "";
+    for (i = 0; i < row.tagsNames1.length; i++) {
+        appendValue = '<span class = "tag label label-primary labelTag">' + row.tagsNames1[i] + '</span>';
+        labelTags = labelTags.concat(appendValue);
+    }
+    for (i = 0; i < row.tagsNames2.length; i++) {
+        appendValue = '<span class = "tag label label-primary labelTag">' + row.tagsNames2[i] + '</span>';
         labelTags = labelTags.concat(appendValue);
     }
     return '<a class="detail-icon" href="#"><i class="fa fa-plus-square-o iconStyle"></i></a> ' + row.title + '<br>' + labelTags;
