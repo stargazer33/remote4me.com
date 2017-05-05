@@ -105,6 +105,12 @@ div.fixed-table-body > div.fixed-table-pagination > div.pull-left.pagination-det
 #table > tbody > tr{
 /*  height:80px;*/
 }
+
+#table > tbody > tr > td.spanLink {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+}
+
 .filterTip{
   color:#000;
 }
