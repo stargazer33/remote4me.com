@@ -6,6 +6,16 @@ Array.prototype.remove = function(from, to) {
   return this.push.apply(this, rest);
 };
 
+function tagsDeco(tags) {
+    var appendValue = "";
+    var rtTags = "";
+    for (i = 0; i < tags.length; i++) {
+        appendValue = '<span class = "tag label label-primary labelTag">' + tags[i] + '</span>';
+        rtTags = rtTags.concat(appendValue);
+    }
+    return rtTags;
+}
+
 $(document).ready(function(){
 //This filterTag enables show of only objects with tag REMOTE1_100 by default.
     var filterTag = ['REMOTE1_100'];
@@ -132,15 +142,8 @@ function publishedFormatter(value) {
 }
 //Formatter for title column. So it is incapsulating title in <a> which is linked to anchor of itself and then it takes passTag variable that was prepared before by tagsFormatter.
 function titleFormatter(data, row, value) {
-    var labelTags = "";
-    var appendValue = "";
-    for (i = 0; i < row.tagsNames1.length; i++) {
-        appendValue = '<span class = "tag label label-primary labelTag">' + row.tagsNames1[i] + '</span>';
-        labelTags = labelTags.concat(appendValue);
-    }
-    for (i = 0; i < row.tagsNames2.length; i++) {
-        appendValue = '<span class = "tag label label-primary labelTag">' + row.tagsNames2[i] + '</span>';
-        labelTags = labelTags.concat(appendValue);
-    }
+    var tagsNames1 = tagsDeco(row.tagsNames1);
+    var tagsNames2 = tagsDeco(row.tagsNames2);
+    var labelTags = tagsNames1 + tagsNames2;
     return '<a class="detail-icon" href="#"><i class="fa fa-plus-square-o iconStyle"></i></a> ' + row.title + '<br>' + labelTags;
 }
