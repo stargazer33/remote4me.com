@@ -102,13 +102,10 @@ div.fixed-table-body > div.fixed-table-pagination > div.pull-left.pagination-det
   bottom:auto;
 }
 
-#table > tbody > tr{
-/*  height:80px;*/
-}
-
 #table > tbody > tr > td.spanLink {
   white-space: pre-wrap;
   white-space: -moz-pre-wrap;
+  min-width: 10px;
 }
 
 .filterTip{
@@ -251,9 +248,21 @@ border-top: 1px solid #eee;
 
 
 @media (max-width: 380px) {
-.publishedDate{
-  float:left;
-}
+  .publishedDate{
+    float:left;
+  }
+
+  #table > tbody > tr > td.spanLink {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
 }
 /* @media (min-width: 350px) and (max-width: 380px) {
 .publishedDate{
