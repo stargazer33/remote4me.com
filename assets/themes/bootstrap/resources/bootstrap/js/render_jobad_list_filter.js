@@ -1,9 +1,10 @@
 /**
  * Shows loading indicator while table is loading.
- * if there is less than 50 elements to load, than there is no load indicator;
+
+ * if json_data has less than 50 elements, then load indicator are not used;
  */
 function tableLoad() {
-    if (($.grep(json_data, grepFunc)).length <= 50) {
+    if (json_data.length <= 50) {
         $table = $('#table').bootstrapTable('load', $.grep(json_data, grepFunc));
     } else {
         $(".loader").show();
@@ -47,20 +48,20 @@ $(document).ready(function () {
                 }]
             });
             /**
-             * Greps data from json_data, for table.
-             * @param {json_data} item array from json_data;
-             * @return {array} elements which tags are true to filtering tags, and will be shown in table;
+
+             * Checks if object of Job has tags that is valid for filtering into table.
+             * @param {item} item; an object of type Job;
+             * @return {boolean} true if every tag to filter are met in tags of element;
              */
             grepFunc = function (item) {
                 /**
-                 * Checks if element has filtered tags.
+                 * Checks if element is equal to filtered tags.
                  * @param {array} item.tags array with tags;
-                 * @return {boolean} true if every tag to filter are met in tags of element;
+                 * @return {boolean};
                  */
                 function hasTag(element) {
                     return element == filterTag;
                 }
-
                 return item.tags.some(hasTag);
             };
             /**
@@ -91,7 +92,7 @@ $(document).ready(function () {
  * Formating data from json_data for detailed view of every row.
  * for every key:value dictionaries of row it decorates and pushes strings to html.
  * @param {int} index, index=data-index of tr, this param passes this information to formatter;
- * @param {dictionary} row; array of key:value dictionaries of item for this row from json_data;
+ * @param {item} row; an object of type Job;
  * @return {string} htmled detailed view of clicked row;
  */
 function detailFormatter(index, row) {
@@ -115,10 +116,17 @@ function detailFormatter(index, row) {
     });
     return html.join('');
 }
+
+/**
+ * Collumn formatter functions has 3 param arguments to pass.
+ * @param arg1 {string} value; value of item.'collumn field' for this item;
+ * @param arg2 {item} item; an object of type Job;
+ * @param arg3 {integer} index; value of item.published for this row;
+ */
 /**
  * Formater for published column.
- * @param {string} value; value of item.published for this row;
- * @return {string} decorated publishedDay;
+ * @param {string} value; value of item.published;
+ * @return {string} decorated date of publishing, splited to only date and month;
  */
 function publishedFormatter(value) {
     var publishedDay = value.split(",")[0];
@@ -126,12 +134,11 @@ function publishedFormatter(value) {
 }
 /**
  * Formatter for title column.
- * @param {dictionary} data; json_data;
- * @param {dictionary} row; array of key:value dictionaries of item for this row from json_data;
- * @param {string} value; value of item.title for this row;
+ * @param {string} value; value of item.title;
+ * @param {item} row; an object of type Job;
  * @return {string} decorated labelTags;
  */
-function titleFormatter(data, row, value) {
+function titleFormatter(value, row) {
     var tagsNames1 = tagsDeco(row.tagsNames1);
     var tagsNames2 = tagsDeco(row.tagsNames2);
     var labelTags = tagsNames1 + tagsNames2;
@@ -140,9 +147,10 @@ function titleFormatter(data, row, value) {
 
 /**
  * Decorate tags from given array into html string, set of labeled tags.
- * @param {array} tags; ex: row.tagsNames1, row.tags;
- * @return {string} rtTags, a sum decorated tags;
+ * @param {array} tags; array with tags, ex: row.tagsNames1, row.tags;
+ * @return {string} rtTags, a returned sum of decorated tags;
  */
+
 function tagsDeco(tags) {
     var appendValue = "";
     var rtTags = "";
