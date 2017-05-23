@@ -1,31 +1,13 @@
+"use strict";
 /**
- * Shows loading indicator while table is loading.
-
- * if json_data has less than 50 elements, then load indicator are not used;
- */
-function tableLoad() {
-    if (json_data.length <= 50) {
-        $table = $('#table').bootstrapTable('load', $.grep(json_data, grepFunc));
-    } else {
-        $(".loader").show();
-        $("#table").hide();
-        $table = $('#table').bootstrapTable('load', $.grep(json_data, grepFunc));
-        $(".loader").hide();
-        $("#table").show();
-    }
-}
-/**
- * Main script, executes after page is ready.
+ * Скрипт выполняющийся после того как страница загрузится
  */
 $(document).ready(function () {
     try {
-        /**
-         * Default filter for table.
-         */
-        var filterTag = ['REMOTE1_100'];
         $(".loader").hide();
         /**
-         * Function that setups table. Look wenzhixin documentation for details.
+         * Функция которая настраивает отображение таблицы и её функционал.
+         * Для деталей рекомендуется ознакомится с документацией по адрессу:
          * http://bootstrap-table.wenzhixin.net.cn/documentation/
          */
         $(function () {
@@ -47,30 +29,10 @@ $(document).ready(function () {
                     formatter: publishedFormatter
                 }]
             });
-            /**
-
-             * Checks if object of Job has tags that is valid for filtering into table.
-             * @param {item} item; an object of type Job;
-             * @return {boolean} true if every tag to filter are met in tags of element;
-             */
-            grepFunc = function (item) {
-                /**
-                 * Checks if element is equal to filtered tags.
-                 * @param {array} item.tags array with tags;
-                 * @return {boolean};
-                 */
-                function hasTag(element) {
-                    return element == filterTag;
-                }
-                return item.tags.some(hasTag);
-            };
-            /**
-             * Loading table with filtered by default data.
-             */
             tableLoad();
         });
         /**
-         * If requested URL has a #hash part, then we click on element which id=hash.
+         * Если запрошеный URL имеет #hash составляющую, то производится клик по элементу с id=hash.
          */
         var hash = window.location.hash.substr(1);
         if (!(hash == null)) {
@@ -79,24 +41,136 @@ $(document).ready(function () {
             }, 100);
         }
         /**
-         * Click on row = click to open detailed view.
+         * Клик по строке таблицы, производит клик по кнопке развернутого вида записи.
          */
         $("#table").on("click", "tr", function () {
             $(this).find(".detail-icon").trigger("click");
+        });
+        /**
+         * При клике по чекбоксу производится перезагрузка таблица с перепроверкой состояния чекбоксов.
+         */
+        $(".filter-checkbox").click(function () {
+            tableLoad();
         });
     } catch (err) {
         console.log(err);
     }
 });
+
+
 /**
- * Formating data from json_data for detailed view of every row.
- * for every key:value dictionaries of row it decorates and pushes strings to html.
- * @param {int} index, index=data-index of tr, this param passes this information to formatter;
- * @param {item} row; an object of type Job;
- * @return {string} htmled detailed view of clicked row;
+ * Функция которая участвует в составлении выборки записей для отображения в таблице.
+ * Если запись отвечает истиной на все условия, то она добавляется в выборку.
+ * @param {item} item; обьект типа Job из json_data;
+ * @return {boolean} true если запись отвечает true на все три функции, false в противном случае;
+ */
+var grepFunc = function (item) {
+    /**
+     * Функция проверки наличия определеного значения среди обьектов массива;
+     * @param {array} array; массив для проверки;
+     * @param {string} val; значение для проверки;
+     * @return {boolean} возвращает true если массив содержит проверяемое значение;
+     */
+    function checkAvailability(arr, val) {
+        return arr.some(arrVal => val === arrVal);
+    }
+
+    function checkbox1Tz() {
+        return true;
+    }
+
+    /**
+     * Функция для проверки обьектов массива на наличие среди них "WORKAUTH_US" тэга;
+     * @param {array} array; массив с тэгами для проверки;
+     * @return {boolean} в зависимости от состояния чекбокса #checkboxUSauth
+     * выдает true либо для записей без "WORKAUTH_US", либо для всех записей;
+     */
+    function checkbox2WorkauthUS(array) {
+        if (checkUSauth == true) {
+            return !(checkAvailability(array, 'WORKAUTH_US'));
+        } else if (checkUSauth == false) {
+            return true;
+        }
+    }
+
+    /**
+     * Функция для проверки обьектов массива на наличие среди них "WORKAUTH_EU" тэга;
+     * @param {array} array; массив с тэгами для проверки;
+     * @return {boolean} в зависимости от состояния чекбокса #checkboxEUauth
+     * выдает true либо для записей без "WORKAUTH_EU", либо для всех записей;
+     */
+    function checkbox2WorkauthEU(array) {
+        if (checkEUauth == true) {
+            return !(checkAvailability(array, 'WORKAUTH_EU'));
+        } else if (checkEUauth == false) {
+            return true;
+        }
+    }
+
+    /**
+     * Функция для проверки обьектов массива на наличие среди них "REMOTE1_50" тэга;
+     * @param {array} array; массив с тэгами для проверки;
+     * @return {boolean} в зависимости от состояния чекбокса с "remote 50%";
+     * выдает true либо для записей без "REMOTE1_50", либо для всех записей(и с и без "REMOTE1_50");
+     */
+    function checkbox3Remoteness(array) {
+        if (check50remote == true) {
+            return true;
+        } else if (check50remote == false) {
+            return !(checkAvailability(array, 'REMOTE1_50'));
+        }
+    }
+
+    return checkbox3Remoteness(item.tags) && checkbox2WorkauthUS(item.tags) && checkbox2WorkauthEU(item.tags) && checkbox1Tz();
+};
+
+/**
+ * Набор глобальных переменых с состояниями чекбоксов.
+ * @var {boolean} все переменые булевые.
+ */
+var check50remote = false;
+var checkUSauth = false;
+var checkEUauth = false;
+
+
+/**
+ * Функция проверяющая состояния чекбоксов и записывающая их глобальные переменые.
+ */
+function readCheckboxesState() {
+    check50remote = $('#checkbox50remote').prop('checked');
+    checkUSauth = $('#checkboxUSauth').prop('checked');
+    checkEUauth = $('#checkboxEUauth').prop('checked');
+}
+
+
+function tableLoadLongAndHideLoader() {
+    $('#table').bootstrapTable('load', $.grep(json_data, grepFunc));
+    $(".loader").hide();
+    $("#table").show();
+}
+
+/**
+ * Функция загружающая таблицу и отображающая индикатор загрузки.
+ */
+function tableLoad() {
+    readCheckboxesState();
+    if (json_data.length <= 50) {
+        $('#table').bootstrapTable('load', $.grep(json_data, grepFunc));
+    } else {
+        $(".loader").show();
+        $("#table").hide();
+        setTimeout(tableLoadLongAndHideLoader, 0);
+    }
+}
+
+
+/**
+ * Форматирует информацию для презентации в развернутом виде записи.
+ * @param {int} index, index=data-index строки;
+ * @param {item} row; обьект типа Job из json_data, тоже что и item;
+ * @return {string} html форматированая презентация развернутого вида записи;
  */
 function detailFormatter(index, row) {
-    console.log(index);
     var html = [];
     var sourceName = "";
     var passUrl = "";
@@ -117,26 +191,28 @@ function detailFormatter(index, row) {
     return html.join('');
 }
 
+
 /**
- * Collumn formatter functions has 3 param arguments to pass.
- * @param arg1 {string} value; value of item.'collumn field' for this item;
- * @param arg2 {item} item; an object of type Job;
- * @param arg3 {integer} index; value of item.published for this row;
+ * Форматер столбцов может передавать до трех типов аргументов.
+ * @param arg1 {string} value; значение item.'collumn field':value для этой записи;
+ * @param arg2 {item} item; обьект типа Job из json_data относящийся к этой записи;
+ * @param arg3 {integer} index; значение по index:value из данной записи;
  */
 /**
- * Formater for published column.
- * @param {string} value; value of item.published;
- * @return {string} decorated date of publishing, splited to only date and month;
+ * Форматер для столбца published.
+ * @param {string} value; значение published для обьекта Job;
+ * @return {string} форматированя строка, содержащая только дату и месяц;
  */
 function publishedFormatter(value) {
     var publishedDay = value.split(",")[0];
     return '<p class="publishedDate">' + publishedDay + '</p>';
 }
+
 /**
- * Formatter for title column.
- * @param {string} value; value of item.title;
- * @param {item} row; an object of type Job;
- * @return {string} decorated labelTags;
+ * Форматер для столбца title.
+ * @param {string} value; значение title для обьекта Job;
+ * @param {item} row; обьект типа Job из json_data;
+ * @return {string} кнопка развернутого вида + название записи + набор тэгов декорированных в спаны с лэйблами;
  */
 function titleFormatter(value, row) {
     var tagsNames1 = tagsDeco(row.tagsNames1);
@@ -146,14 +222,14 @@ function titleFormatter(value, row) {
 }
 
 /**
- * Decorate tags from given array into html string, set of labeled tags.
- * @param {array} tags; array with tags, ex: row.tagsNames1, row.tags;
- * @return {string} rtTags, a returned sum of decorated tags;
+ * Декоратор тэгов, упаковывает в спаны в виде лэйблов.
+ * @param {array} tags; массив с тэгами, передается из записи, например: row.tagsNames1, row.tags;
+ * @return {string} rtTags, возвращает суму отдекорированых в лэйблы тэгов;
  */
-
 function tagsDeco(tags) {
     var appendValue = "";
     var rtTags = "";
+    var i = 0;
     for (i = 0; i < tags.length; i++) {
         appendValue = '<span class = "tag label label-primary labelTag">' + tags[i] + '</span>';
         rtTags = rtTags.concat(appendValue);
