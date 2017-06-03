@@ -48,8 +48,20 @@ $(document).ready(function () {
         });
         /**
          * При клике по чекбоксу производится перезагрузка таблица с перепроверкой состояния чекбоксов.
+         * В первой панели единовремено может быть выбран только 1 чекбокс.
          */
         $(".filter-checkbox").click(function () {
+            if($(this).attr("id") == "checkboxWorldwide"){
+                $('#checkboxUStz').prop('checked', false);
+                $('#checkboxEUtz').prop('checked', false);
+                $('#checkboxASIAtz').prop('checked', false);
+            } else if($(this).attr("id") == "checkboxUStz") {
+                $('#checkboxWorldwide').prop('checked', false);
+            } else if($(this).attr("id") == "checkboxEUtz") {
+                $('#checkboxWorldwide').prop('checked', false);
+            } else if($(this).attr("id") == "checkboxASIAtz") {
+                $('#checkboxWorldwide').prop('checked', false);
+            }
             tableLoad();
         });
     } catch (err) {
@@ -74,11 +86,57 @@ var grepFunc = function (item) {
     function checkAvailability(arr, val) {
         return arr.some(arrVal => val === arrVal);
     }
-
-    function checkbox1Tz() {
-        return true;
+    /**
+     * Функция проверки наличия определеного значениясоответсвующего регулярному выражению среди обьектов массива;
+     * @param {array} array; массив для проверки;
+     * @param {regexp obj} val; значение для проверки, обьект типа regexp;
+     * @return {boolean} возвращает true если массив содержит проверяемое значение;
+     */
+    function checkAvailabilityRegexp(arr, val) {
+        return arr.some(function(rx) { return val.test(rx); });
     }
-
+    /**
+     * Функция для проверки обьектов массива на наличие среди них тэга содержащего "TZ_America";
+     * @param {array} array; массив с тэгами для проверки;
+     * @return {boolean} в зависимости от состояния чекбокса #checkUStz
+     * выдает true либо для записей с "TZ_America", либо для всех записей если активен чекбокс "#checkboxWorldwide"
+     * и чекбокс "#checkboxUStz" неактивен;
+     */
+    function checkbox1TzUS(array) {
+        if (checkWorldwide == true) {
+            return true;
+        } else if (checkUStz == true) {
+            return checkAvailabilityRegexp(array, regexpTzUS);
+        }
+    }
+    /**
+     * Функция для проверки обьектов массива на наличие среди них тэга содержащего "TZ_Europe";
+     * @param {array} array; массив с тэгами для проверки;
+     * @return {boolean} в зависимости от состояния чекбокса #checkEUtz
+     * выдает true либо для записей с "TZ_Europe", либо для всех записей если активен чекбокс "#checkboxWorldwide"
+     * и чекбокс "#checkboxEUtz" неактивен;
+     */
+    function checkbox1TzEU(array) {
+        if (checkWorldwide == true) {
+            return true;
+        } else if (checkEUtz == true) {
+            return checkAvailability(array, 'TZ_Europe');
+        }
+    }
+    /**
+     * Функция для проверки обьектов массива на наличие среди них тэга содержащего "TZ_Asia";
+     * @param {array} array; массив с тэгами для проверки;
+     * @return {boolean} в зависимости от состояния чекбокса #checkASIAtz
+     * выдает true либо для записей с "TZ_America", либо для всех записей если активен чекбокс "#checkboxWorldwide"
+     * и чекбокс "#checkboxUStz" неактивен;
+     */
+    function checkbox1TzASIA(array) {
+        if (checkWorldwide == true) {
+            return true;
+        } else if (checkASIAtz == true) {
+            return checkAvailability(array, 'TZ_Asia');
+        }
+    }
     /**
      * Функция для проверки обьектов массива на наличие среди них "WORKAUTH_US" тэга;
      * @param {array} array; массив с тэгами для проверки;
@@ -120,26 +178,44 @@ var grepFunc = function (item) {
             return !(checkAvailability(array, 'REMOTE1_50'));
         }
     }
-
-    return checkbox3Remoteness(item.tags) && checkbox2WorkauthUS(item.tags) && checkbox2WorkauthEU(item.tags) && checkbox1Tz();
+    return checkbox3Remoteness(item.tags) && checkbox2WorkauthUS(item.tags) && checkbox2WorkauthEU(item.tags) && (checkbox1TzUS(item.tags) || checkbox1TzEU(item.tags) || checkbox1TzASIA(item.tags));
 };
 
 /**
  * Набор глобальных переменых с состояниями чекбоксов.
  * @var {boolean} все переменые булевые.
  */
+var checkWorldwide = false;
 var check50remote = false;
 var checkUSauth = false;
 var checkEUauth = false;
+var checkUStz = false;
+var checkEUtz = false;
+var checkASIAtz = false;
 
+/**
+ * Переменная используемая при фильтраци с использованием регулярных выражений.
+ * @var {regexp obj} регулярное выражение.
+ */
+var regexpTzUS = new RegExp('^(TZ_America)', 'g');
 
 /**
  * Функция проверяющая состояния чекбоксов и записывающая их глобальные переменые.
  */
 function readCheckboxesState() {
+    checkWorldwide = $('#checkboxWorldwide').prop('checked');
     check50remote = $('#checkbox50remote').prop('checked');
     checkUSauth = $('#checkboxUSauth').prop('checked');
     checkEUauth = $('#checkboxEUauth').prop('checked');
+    checkUStz = $('#checkboxUStz').prop('checked');
+    checkEUtz = $('#checkboxEUtz').prop('checked');
+    checkASIAtz = $('#checkboxASIAtz').prop('checked');
+}
+function changeCheckboxesState(){
+    if (checkUStz == false && checkEUtz == false && checkASIAtz == false) {
+        $('#checkboxWorldwide').prop('checked', true);
+    }
+    readCheckboxesState();
 }
 
 
@@ -154,6 +230,7 @@ function tableLoadLongAndHideLoader() {
  */
 function tableLoad() {
     readCheckboxesState();
+    changeCheckboxesState();
     if (json_data.length <= 50) {
         $('#table').bootstrapTable('load', $.grep(json_data, grepFunc));
     } else {
