@@ -73,7 +73,7 @@ p{
   border-radius: 6px;
   width: 32.666666%;
   margin-top: 0;
-  margin-bottom: 10px;
+  /*margin-bottom: 10px;*/
   height:auto;
 }
 
@@ -311,3 +311,15 @@ border-top: 1px solid #eee;
   width:225px;
 }
 } */
+
+/* search field */
+#jobSearchGroup {
+  height: 34px;
+}
+#jobSearchButton {
+  height: 34px;
+}
+
+#jobSearchForm {
+  padding-right: 0px;
+}
