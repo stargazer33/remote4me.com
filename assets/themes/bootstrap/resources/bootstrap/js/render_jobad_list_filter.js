@@ -141,10 +141,10 @@ var grepFunc = function (item) {
  * @param event
  */
 function handleJobSearchFormSubmit(event){
+    event.preventDefault();
     var query = $("#jobSearchInputID").val();
     console.log('search for: '+query);
-    event.preventDefault();
-}
+    return false;}
 
 /**
  * Search criteria checkboxes handler
