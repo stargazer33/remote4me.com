@@ -319,7 +319,8 @@ border-top: 1px solid #eee;
 #jobSearchButton {
   height: 34px;
 }
-
-#jobSearchForm {
-  padding-right: 0px;
+@media (min-width: 769px) {
+  #jobSearchForm {
+    padding-right: 0px;
+  }
 }
