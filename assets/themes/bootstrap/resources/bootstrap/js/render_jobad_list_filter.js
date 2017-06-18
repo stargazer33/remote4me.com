@@ -46,6 +46,7 @@ $(document).ready(function () {
             $(this).find(".detail-icon").trigger("click");
         });
 
+        $("#jobSearchForm").submit(handleJobSearchFormSubmit);
         $(".filter-checkbox").click(handleClickOnFilterCheckbox);
     } catch (err) {
         console.log(err);
@@ -133,6 +134,17 @@ var grepFunc = function (item) {
         && checkbox2WorkauthEU(item.tags)
         && (checkbox1TzUS(item.tags) || checkbox1TzEU(item.tags) || checkbox1TzASIA(item.tags));
 };
+
+/**
+ * job search form "submit" handler
+ * TODO: implement actual filter functionality here
+ * @param event
+ */
+function handleJobSearchFormSubmit(event){
+    var query = $("#jobSearchInputID").val();
+    console.log('search for: '+query);
+    event.preventDefault();
+}
 
 /**
  * Search criteria checkboxes handler
