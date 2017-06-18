@@ -37,6 +37,8 @@ $(document).ready(function () {
                     formatter: publishedFormatter
                 }]
             });
+            $("#table").hide();
+            $(".loader").show();
             readCheckboxesState();
             tableLoad(true);
         });
@@ -150,6 +152,9 @@ function handleJobSearchFormSubmit(event){
  * Search criteria checkboxes handler
  */
 function handleClickOnFilterCheckbox() {
+    $("#table").hide();
+    $(".loader").show();
+
     switch( $(this).attr("id") ){
         case "checkboxWorldwide":
             $('#checkboxUStz').prop('checked', false);
@@ -169,7 +174,6 @@ function handleClickOnFilterCheckbox() {
 
     readCheckboxesState();
     changeCheckboxesState();
-
     tableLoad(false);
 }
 
@@ -224,19 +228,7 @@ function heavyTableLoadAndHideLoader(isFirstLoad, shouldHideLoader) {
  * Perform search and load table, handle anchor link
  */
 function tableLoad(isFirstLoad) {
-    var shouldHideLoader = true;
-    $(".loader").show();
-    $("#table").hide();
-
-    /*
-    var shouldHideLoader = false;
-    if (json_data.length > 50) {
-        shouldHideLoader = true;
-        $(".loader").show();
-        $("#table").hide();
-    }*/
-
-    setTimeout(heavyTableLoadAndHideLoader(isFirstLoad, shouldHideLoader), 0);
+    setTimeout(heavyTableLoadAndHideLoader(isFirstLoad, true), 0);
 }
 
 
