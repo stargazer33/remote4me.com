@@ -9,12 +9,24 @@ var checkEUtz = false;
 var checkASIAtz = false;
 var regexpTzUS = new RegExp('^(TZ_America)', 'g');
 
+var lunarIndex;
+var isLunarIndexLoaded = false;
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
+var mapIdToJob = new Map();
+var json_data_original = [];
+
 /**
  * runs when page load complete
  */
 $(document).ready(function () {
     try {
+        // Send a request to get the index json file
+        $.getJSON('/assets/lunar-index/admin.index.json', onLoadLunarIndex);
+
         $(".loader").show();
+
+        // duplicate json_data to json_data_original: we restore it later
+        json_data_original=json_data.slice();
         /**
          * See http://bootstrap-table.wenzhixin.net.cn/documentation/
          */
@@ -38,7 +50,7 @@ $(document).ready(function () {
                 }]
             });
             $("#table").hide();
-            $(".loader").show();
+
             readCheckboxesState();
             tableLoad(true);
         });
@@ -54,6 +66,28 @@ $(document).ready(function () {
         console.log(err);
     }
 });
+
+/**
+ * Initializion of global variables:
+ *   lunarIndex
+ *   mapIdToJob
+ *
+ * @param data pre-built Lunar index in JSON format
+ */
+function onLoadLunarIndex(data){
+    console.log('index loaded: '+data);
+    lunarIndex=lunr.Index.load(data);
+    console.log('lunarIndex: '+lunarIndex);
+    isLunarIndexLoaded=true;
+
+    // Loop through json_data, build mapIdToJob
+    // we need mapIdToJob only for search, we don't need it earlier
+    $.each(json_data, function (index, result) {
+            // here "result" is of type "Job"
+            mapIdToJob.set(result.id, result);
+        }
+    );
+}
 
 /**
  * The grep/filter function for http://api.jquery.com/jquery.grep/
@@ -137,16 +171,59 @@ var grepFunc = function (item) {
         && (checkbox1TzUS(item.tags) || checkbox1TzEU(item.tags) || checkbox1TzASIA(item.tags));
 };
 
+
 /**
- * job search form "submit" handler
- * TODO: implement actual filter functionality here
+ * Job search form - the "submit" handler
  * @param event
  */
 function handleJobSearchFormSubmit(event){
     event.preventDefault();
+    if (!isLunarIndexLoaded) {
+        return false;
+    }
+
+
     var query = $("#jobSearchInputID").val();
     console.log('search for: '+query);
-    return false;}
+
+    // Find the results from lunr
+    var lunarSearchResults = lunarIndex.search(query);
+    console.log('lunarSearchResults: '+lunarSearchResults);
+
+
+    $("#table").hide();
+    $(".loader").show();
+    if(query.trim()){
+        //"query" is non empty
+
+        // empty json_data, we fill it with jobs from lunarSearchResults, see below
+        json_data.length = 0;
+
+        // Loop through results
+        var job;
+        $.each(lunarSearchResults, function(index, result){
+            //if(result.score > 0.02) {
+                job=mapIdToJob.get(result.ref);
+                if (job){
+                    //console.log('job :' + JSON.stringify(job, null, 4));
+                    json_data.push(job);
+                }
+                else {
+                    console.log('job not found, ref: ' + result.ref);
+                }
+            //}
+        });
+    }
+    else{
+        // empty "query" -> restore the original array of jobs
+        // this replace the "clear" button
+        console.log('empty query, restoring json_data');
+        json_data = json_data_original.slice();
+    }
+    // reload table with jobs
+    tableLoad(false);
+    return false;
+}
 
 /**
  * Search criteria checkboxes handler
