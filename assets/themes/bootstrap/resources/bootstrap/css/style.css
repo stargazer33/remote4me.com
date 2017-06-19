@@ -85,6 +85,7 @@ p{
 .filterRow{
   margin-right: 0px;
   margin-left: 0px;
+  color:#5f5f5f;
 }
 
 .Rem50{
@@ -119,7 +120,7 @@ div.fixed-table-body > div.fixed-table-pagination > div.pull-left.pagination-det
 }
 
 .filterTip{
-  color:#000;
+  color:#5f5f5f;
 }
 .checkbox label{
   color:#5f5f5f;
