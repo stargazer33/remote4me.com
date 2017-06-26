@@ -21,7 +21,7 @@ var json_data_original = [];
 $(document).ready(function () {
     try {
         // Send a request to get the index json file
-        $.getJSON('/assets/lunar-index/admin.index.json', onLoadLunarIndex);
+        //$.getJSON('/assets/lunar-index/admin.index.json', onLoadLunarIndex);
 
         $(".loader").show();
 
