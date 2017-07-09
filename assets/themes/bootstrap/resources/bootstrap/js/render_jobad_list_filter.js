@@ -9,6 +9,9 @@ var checkEUtz = false;
 var checkASIAtz = false;
 var regexpTzUS = new RegExp('^(TZ_America)', 'g');
 
+var json_data = [];
+var isDataLoaded = false;
+
 var lunarIndex;
 var isLunarIndexLoaded = false;
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
@@ -20,13 +23,27 @@ var json_data_original = [];
  */
 $(document).ready(function () {
     try {
-        // Send a request to get the index json file
-        //$.getJSON('/assets/lunar-index/admin.index.json', onLoadLunarIndex);
-
         $(".loader").show();
 
-        // duplicate json_data to json_data_original: we restore it later
-        json_data_original=json_data.slice();
+        try {
+            // Send a request to get the DATA json file
+            $.getJSON('/assets/data/' + dataFileName + '.json', onLoadDataFile).error(
+                function(jqXHR, textStatus, errorThrown) {
+                    $( "#loaderID" ).hide();
+                    $("#alertCanNotLoadID").text(jqXHR.status + ' ' + errorThrown);
+                    $("#alertCanNotLoadID").show();
+                    return;
+                }
+            );
+        } catch (err) {
+            console.log(err);
+        }
+        try {
+            // Send a request to get the INDEX json file
+            $.getJSON('/assets/lunar-index/'+dataFileName+'.json', onLoadLunarIndex);
+        } catch (err) {
+            console.log(err);
+        }
         /**
          * See http://bootstrap-table.wenzhixin.net.cn/documentation/
          */
@@ -52,7 +69,6 @@ $(document).ready(function () {
             $("#table").hide();
 
             readCheckboxesState();
-            tableLoad(true);
         });
 
         // click on table row -> click on ".detail-icon"
@@ -67,17 +83,37 @@ $(document).ready(function () {
     }
 });
 
+function onLoadDataFile(data){
+    console.log('data loaded');
+    json_data = data.items;
+    // duplicate json_data to json_data_original: we restore it later
+    json_data_original=json_data.slice();
+
+    isDataLoaded = true;
+    $("#checkboxWorldwide").attr('disabled', false);
+    $("#checkboxUStz").attr('disabled', false);
+    $("#checkboxEUtz").attr('disabled', false);
+    $("#checkboxASIAtz").attr('disabled', false);
+    $("#checkboxUSauth").attr('disabled', false);
+    $("#checkboxEUauth").attr('disabled', false);
+    $("#checkbox50remote").attr('disabled', false);
+
+    // we can call tableLoad ONLY when isDataLoaded == true
+    tableLoad(true);
+    enableSearchControls();
+}
+
 /**
- * Initializion of global variables:
+ * Initialization of global variables:
  *   lunarIndex
  *   mapIdToJob
  *
  * @param data pre-built Lunar index in JSON format
  */
 function onLoadLunarIndex(data){
-    console.log('index loaded: '+data);
+    console.log('lunar index loaded: '+data);
     lunarIndex=lunr.Index.load(data);
-    console.log('lunarIndex: '+lunarIndex);
+
     isLunarIndexLoaded=true;
 
     // Loop through json_data, build mapIdToJob
@@ -87,11 +123,23 @@ function onLoadLunarIndex(data){
             mapIdToJob.set(result.id, result);
         }
     );
+    enableSearchControls();
+}
+
+/**
+ * Enables search field and button when BOTH
+ * isLunarIndexLoaded and isDataLoaded are true
+ */
+function enableSearchControls(){
+    if(isLunarIndexLoaded && isDataLoaded){
+        $("#jobSearchInputID").attr('disabled', false);
+        $("#jobSearchButton").attr('disabled', false);
+    }
 }
 
 /**
  * The grep/filter function for http://api.jquery.com/jquery.grep/
- * @param {item} the current array item of type Job
+ * @param {item} array of elements of type Job
  * @return {boolean} return 'true' when Job meets all search criteria/checkboxes
  */
 var grepFunc = function (item) {
@@ -292,6 +340,7 @@ function handleAnchorLink(isFirstLoad) {
 }
 
 function heavyTableLoadAndHideLoader(isFirstLoad, shouldHideLoader) {
+    console.log('heavyTableLoadAndHideLoader start, shouldHideLoader='+shouldHideLoader);
     $('#table').bootstrapTable('load', $.grep(json_data, grepFunc));
 
     if (shouldHideLoader) {
@@ -303,8 +352,13 @@ function heavyTableLoadAndHideLoader(isFirstLoad, shouldHideLoader) {
 
 /**
  * Perform search and load table, handle anchor link
+ * Pre-requisite: isDataLoaded==true
  */
 function tableLoad(isFirstLoad) {
+    if(isDataLoaded==false){
+        console.log('tableLoad: isDataLoaded==false')
+        return;
+    }
     setTimeout(heavyTableLoadAndHideLoader(isFirstLoad, true), 0);
 }
 
