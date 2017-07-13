@@ -1,0 +1,64 @@
+.smalltext {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+
+.normaltext {
+    font-size: 14px;
+    /*font-weight: 300;
+    line-height: 1.5em;*/
+}
+
+
+.labelTag {
+    background: transparent;
+    color: #6f6f6f;
+    border: 1px solid #dddddd;
+
+    float: left;
+    font-weight: normal;
+    font-size: 12px;
+    /*
+    margin-top: 5px;
+    */
+    margin-right: 5px;
+    margin-top: 3px;
+    padding-right: 4px;
+    padding-left: 4px;
+    /*
+    margin-left: 0px;
+     */
+}
+
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+    border-top: none;
+}
+
+tr.detail-view > td {
+    padding-top: 0 !important;
+}
+
+/*
+div.detailContent > div.row > div {
+    background-color: #f9f9f9;
+}
+*/
+
+.table > tbody > tr[id] > td {
+    padding-top: 16px !important;
+}
+
+.highlight {
+    padding: 9px 14px;
+    margin-top: -0.1em;
+    margin-bottom: 5px;
+    background-color: #f7f7f9;
+    border: 1px solid #e1e1e8;
+    /* border-radius: 4px; */
+}
