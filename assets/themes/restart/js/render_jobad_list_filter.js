@@ -66,6 +66,7 @@ $(document).ready(function () {
                     formatter: publishedFormatter
                 }]
             });
+            $("#table").bootstrapTable('hideLoading');
             $("#table").hide();
 
             readCheckboxesState();
