@@ -2,3 +2,6 @@ div#alertJsID{
     display: none;
 }
 
+div.fixed-table-loading{
+    display: none; !important;
+}
