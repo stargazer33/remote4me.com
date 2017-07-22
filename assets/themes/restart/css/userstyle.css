@@ -53,11 +53,10 @@ tr.detail-view > td {
     padding-top: 0 !important;
 }
 
-/*
-div.detailContent > div.row > div {
-    background-color: #f9f9f9;
+
+tr.detail-view:hover {
+    background-color: inherit !important;
 }
-*/
 
 .table > tbody > tr[id] > td {
     padding-top: 16px !important;
