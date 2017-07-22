@@ -345,6 +345,7 @@ function heavyTableLoadAndHideLoader(isFirstLoad, shouldHideLoader) {
     $('#table').bootstrapTable('load', $.grep(json_data, grepFunc));
 
     if (shouldHideLoader) {
+        $("#table").bootstrapTable('hideLoading');
         $(".loader").hide();
         $("#table").show();
     }
