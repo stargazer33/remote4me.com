@@ -353,9 +353,7 @@
         searchText: '',
         iconSize: undefined,
         buttonsClass: 'default',
-        iconsPrefixFA: 'fa',      // glyphicon of FA(font awesome)
-        iconsPrefix: 'glyphicon', // glyphicon of for bootstrap glyphs
-        iconsStylePrefix: 'iconStyle',
+        iconsPrefix: 'glyphicon', // glyphicon of fa (font awesome)
         icons: {
             paginationSwitchDown: 'glyphicon-collapse-down icon-chevron-down',
             paginationSwitchUp: 'glyphicon-collapse-up icon-chevron-up',
@@ -363,9 +361,7 @@
             toggle: 'glyphicon-list-alt icon-list-alt',
             columns: 'glyphicon-th icon-th',
             detailOpen: 'glyphicon-plus icon-plus',
-            detailClose: 'glyphicon-minus icon-minus',
-            detailOpenFA: 'fa-plus-square-o',
-            detailCloseFA: 'fa-minus-square'
+            detailClose: 'glyphicon-minus icon-minus'
         },
 
         customSearch: $.noop,
@@ -1649,7 +1645,7 @@
 
         html.push('<tr',
             sprintf(' %s', htmlAttributes.join(' ')),
-            sprintf(' id="%s"', $.isArray(item) ? undefined : item.id),
+            sprintf(' id="%s"', $.isArray(item) ? undefined : item._id),
             sprintf(' class="%s"', style.classes || ($.isArray(item) ? undefined : item._class)),
             sprintf(' data-index="%s"', i),
             sprintf(' data-uniqueid="%s"', item[this.options.uniqueId]),
@@ -1659,14 +1655,6 @@
 
         if (this.options.cardView) {
             html.push(sprintf('<td colspan="%s"><div class="card-views">', this.header.fields.length));
-        }
-
-        if (!this.options.cardView && this.options.detailView) {
-/*            html.push('<td>',
-                '<a class="detail-icon" href="#">',
-                sprintf('<i class="%s %s"></i>', this.options.iconsPrefix, this.options.icons.detailOpen),
-                '</a>',
-                '</td>');*/
         }
 
         $.each(this.header.fields, function(j, field) {
@@ -1789,6 +1777,16 @@
             html.push(text);
         });
 
+        /* hack begin */
+        if (!this.options.cardView && this.options.detailView) {
+            html.push('<td>',
+                '<a class="detail-icon" href="#">',
+                sprintf('<i class="%s %s"></i>', this.options.iconsPrefix, this.options.icons.detailOpen),
+                '</a>',
+                '</td>');
+        }
+        /* hack end */
+
         if (this.options.cardView) {
             html.push('</div></td>');
         }
@@ -1878,11 +1876,11 @@
 
             // remove and update
             if ($tr.next().is('tr.detail-view')) {
-                $this.find('i').attr('class', sprintf('%s %s %s', that.options.iconsPrefixFA, that.options.icons.detailOpenFA, that.options.iconsStylePrefix));
+                $this.find('i').attr('class', sprintf('%s %s', that.options.iconsPrefix, that.options.icons.detailOpen));
                 that.trigger('collapse-row', index, row);
                 $tr.next().remove();
             } else {
-                $this.find('i').attr('class', sprintf('%s %s %s', that.options.iconsPrefixFA, that.options.icons.detailCloseFA, that.options.iconsStylePrefix));
+                $this.find('i').attr('class', sprintf('%s %s', that.options.iconsPrefix, that.options.icons.detailClose));
                 $tr.after(sprintf('<tr class="detail-view"><td colspan="%s"></td></tr>', $tr.find('td').length));
                 var $element = $tr.next().find('td');
                 var content = calculateObjectValue(that.options, that.options.detailFormatter, [index, row, $element], '');

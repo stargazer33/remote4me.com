@@ -54,17 +54,25 @@ $(document).ready(function () {
                 detailFormatter: detailFormatter,
                 detailView: 1,
                 showHeader: 0,
-                columns: [{
-                    title: "",
-                    field: "title",
-                    class: "spanLink",
-                    formatter: titleFormatter
-                }, {
-                    title: "",
-                    field: "published",
-                    class: "spanLink",
-                    formatter: publishedFormatter
-                }]
+                locale: 'en-US',
+                icons: {
+                    detailOpen: 'fa fa-plus-square iconStyle',
+                    detailClose: 'fa fa-minus-square iconStyle'
+                },
+                columns: [
+                    {
+                        title: "",
+                        field: "title",
+                        class: "spanLink",
+                        formatter: titleFormatter
+                    },
+                    {
+                        title: "",
+                        field: "published",
+                        class: "spanLink",
+                        formatter: publishedFormatter
+                    }
+                ]
             });
             $("#table").bootstrapTable('hideLoading');
             $("#table").hide();
@@ -73,9 +81,11 @@ $(document).ready(function () {
         });
 
         // click on table row -> click on ".detail-icon"
+        /*
         $("#table").on("click", "tr", function () {
             $(this).find(".detail-icon").trigger("click");
         });
+        */
 
         $("#jobSearchForm").submit(handleJobSearchFormSubmit);
         $(".filter-checkbox").click(handleClickOnFilterCheckbox);
@@ -413,13 +423,10 @@ function publishedFormatter(value) {
  * Форматер для столбца title.
  * @param {string} value; значение title для обьекта Job;
  * @param {item} row; обьект типа Job из json_data;
- * @return {string} кнопка развернутого вида + название записи + набор тэгов декорированных в спаны с лэйблами;
+ * @return {string} row.title + tags(as HTML)
  */
 function titleFormatter(value, row) {
-    var tagsNames1 = tagsDeco(row.tagsNames1);
-    var tagsNames2 = tagsDeco(row.tagsNames2);
-    var labelTags = tagsNames1 + tagsNames2;
-    return '<a class="detail-icon" href="#"><i class="fa fa-plus-square-o iconStyle"></i></a> ' + row.title + '<br>' + labelTags;
+    return '<a href="#"><b>' + row.title + '</b></a><br>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2);
 }
 
 /**
