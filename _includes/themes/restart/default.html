@@ -1,0 +1,95 @@
+{% assign thisnodes = site.data.jobnav | where:"url", page.permalink %}
+{% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
+{% if difference contains '-' %}
+{% assign thisnodes = site.data.jobnav[site.jobnav_developers_node].subnodes | where:"url", page.permalink %}
+{% endif %}
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+
+<meta charset="utf-8">
+<title>{{ thisnodes[0].title }}</title>
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,600italic,700,700italic,300italic" type="text/css">
+<link rel="stylesheet" href="{{ ASSET_PATH }}/css/animate.css" type="text/css">
+<link rel="stylesheet" href="{{ ASSET_PATH }}/js/woothemes-FlexSlider-06b12f8/flexslider.css" type="text/css" media="screen">
+<link rel="stylesheet" href="{{ ASSET_PATH }}/js/prettyPhoto_3.1.5/prettyPhoto.css" type="text/css" media="screen">
+<link rel="stylesheet" href="{{ ASSET_PATH }}/css/style.css" type="text/css">
+<link rel="stylesheet" href="{{ ASSET_PATH }}/css/userstyle.css" type="text/css">
+<link rel="stylesheet" href="{{ ASSET_PATH }}/css/font-awesome.min.css" media="screen">
+
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="apple-touch-fa-57x57-precomposed.png">
+<link rel="shortcut icon" href="favicon.png">
+</head>
+
+<body class="collapsing_header">
+
+  <header>
+    <div class="container">
+      <div class="navbar navbar-default" role="navigation">
+        <div class="navbar-header"><a class="navbar-brand" href="{{ HOME_PATH }}">
+          <!--
+          <img src="images/restart_logo.png" alt="optional logo" height="90" width="90">
+          -->
+          <span class="logo_title" style="color: #428bca;">{{ site.title }}</span>
+          <span class="logo_subtitle">{{ site.tagline }}</span> </a>
+          <a class="btn btn-navbar btn-default navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                         <span class="nb_left pull-left"> <span class="fa fa-reorder"></span>
+                         </span> <span class="nb_right pull-right">menu</span> </a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav pull-right navbar-nav">
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+            {% include JB/pages_list_new %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+
+    <div class="main">
+      {{ content }}
+      <hr>
+      <footer>
+        <section class="copyright">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-6 col-md-6"> &copy; {{ site.time | date: '%Y' }} all rights reserved </div>
+              <div class="text-right col-xs-6 col-md-6"> Designed by {{ site.author.name }} </div>
+            </div>
+          </div>
+        </section>
+      </footer>
+    </div>
+
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery-1.12.4.min.js"></script>
+  <!--
+    <script src=https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js></script>
+    <script>window.jQuery||document.write('<script src="../assets/js/vendor/jquery.min.js"><\/script>')</script>
+  -->
+
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap.min.js" ></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/modernizr.custom.48287.js"></script>
+    <script src="{{ ASSET_PATH }}/js/woothemes-FlexSlider-06b12f8/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/prettyPhoto_3.1.5/jquery.prettyPhoto.js" charset="utf-8"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/isotope/jquery.isotope.min.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery.ui.totop.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/easing.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/wow.min.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/snap.svg-min.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/restart_theme.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/collapser.js"></script>
+
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table.js"></script>
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table-locale-all.js"></script>
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/render_jobad_list_filter.js"></script>
+
+  {% include JB/analytics %}
+  </body>
+</html>
