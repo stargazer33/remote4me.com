@@ -55,6 +55,7 @@ $(document).ready(function () {
                 detailView: 1,
                 showHeader: 0,
                 locale: 'en-US',
+                uniqueId: 'id',
                 icons: {
                     detailOpen: 'fa fa-plus-square iconStyle',
                     detailClose: 'fa fa-minus-square iconStyle'
@@ -425,13 +426,13 @@ function publishedFormatter(value) {
 }
 
 /**
- * Форматер для столбца title.
- * @param {string} value; значение title для обьекта Job;
- * @param {item} row; обьект типа Job из json_data;
- * @return {string} row.title + tags(as HTML)
+ * Formatter for "title" column.
+ * @param {string} value; unused
+ * @param {item} row; Job; see json_data;
+ * @return {string} the "title" column as HTML
  */
 function titleFormatter(value, row) {
-    return '<a href="#"><b>' + row.title + '</b></a><br>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2);
+    return '<a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'"><b>' + row.title + '</b></a><br>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2);
 }
 
 /**
@@ -449,3 +450,11 @@ function tagsDeco(tags) {
     }
     return rtTags;
 }
+
+function rowTitleClick(aNode) {
+    // console.log('rowTitleClick: '+aNode);
+    var aNodeDetail=aNode.parentNode.parentNode.children[2].children[0];
+    aNodeDetail.click();
+    return false;
+}
+
