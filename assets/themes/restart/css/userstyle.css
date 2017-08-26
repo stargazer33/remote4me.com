@@ -60,13 +60,11 @@ tr.detail-view > td {
 
 .highlight {
     padding: 9px 14px;
-    margin-top: -0.1em;
     border-left: 1px solid #999999;
-    background-color: white;
 }
 
 div.row {
-    margin-left: 0px;
+    margin-left: 0;
 }
 
 tr[data-index] {
