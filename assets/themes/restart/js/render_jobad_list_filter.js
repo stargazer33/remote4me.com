@@ -71,7 +71,8 @@ $(document).ready(function () {
                         title: "",
                         field: "published",
                         class: "spanLink",
-                        formatter: publishedFormatter
+                        formatter: publishedFormatter,
+                        width: "12%"
                     }
                 ]
             });
@@ -386,13 +387,13 @@ function detailFormatter(index, row) {
     var html = [];
     var sourceName = "";
     var passUrl = "";
-    html.push('<div class="detail-view"><td colspan="3"><span class="detailFooter"></span><div class="detailContent"><div class="row"><div class="highlight col-sm-11 col-md-11">');
+    html.push('<div class="detail-view"><td colspan="3"><span class="detailFooter"></span><div class="detailContent"><div class="row"><div class="highlight col-sm-12 col-md-12">');
 
     $.each(row, function (key, value) {
         if (key == "title") {
         }
         else if (key == "url") {
-            passUrl = '<div class="col-xs-6 col-md-6">' + '<a href="' + value + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>' + ' </div><div class="col-sm-5 col-md-5 text-right">' + '<a href="#' + row.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>' + '</div>';
+            passUrl = '<div style="padding-left: 0;" class="col-xs-6 col-md-6">' + '<a href="' + value + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>' + ' </div><div class="col-sm-6 col-md-6 text-right">' + '<a href="#' + row.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>' + '</div>';
             /*html.push(passUrl);*/
         }
         else if (key == "content") {
