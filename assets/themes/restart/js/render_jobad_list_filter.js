@@ -159,7 +159,7 @@ var grepFunc = function (item) {
      * @return {boolean} возвращает true если массив содержит проверяемое значение;
      */
     function checkAvailability(arr, val) {
-        return arr.some(arrVal => val === arrVal);
+        return arr.some( function(element){return val === element;} );
     }
     /**
      * Функция проверки наличия определеного значениясоответсвующего регулярному выражению среди обьектов массива;
@@ -168,7 +168,7 @@ var grepFunc = function (item) {
      * @return {boolean} возвращает true если массив содержит проверяемое значение;
      */
     function checkAvailabilityRegexp(arr, val) {
-        return arr.some(function(rx) { return val.test(rx); });
+        return arr.some( function(rx){ return val.test(rx);} );
     }
 
     function checkbox1TzUS(array) {
