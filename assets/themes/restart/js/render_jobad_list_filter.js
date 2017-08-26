@@ -450,7 +450,7 @@ function tagsDeco(tags) {
 
 /**
  * see https://stackoverflow.com/questions/795654/using-javascript-to-mark-a-link-as-visited
- * @param href the URL to mark as "visited"
+ * @param href {string} the URL to mark as "visited"
  */
 function markHrefAsVisited(href){
     // store the current URL
@@ -459,6 +459,14 @@ function markHrefAsVisited(href){
     history.replaceState({},"", href);
     // use replaceState again to reset the URL
     history.replaceState({},"",current_url);
+}
+
+/**
+ * see https://stackoverflow.com/questions/10486580/how-to-mark-links-handled-with-javascript-as-visited
+ * @param node {DOM node} - class "visited" will be added to this node.
+ */
+function markPlusMinusAsVisited(node){
+    $(node).addClass("visited");
 }
 
 function rowTitleClick(aNode) {
@@ -470,5 +478,6 @@ function rowTitleClick(aNode) {
 
 function rowPlusMinusClick( eventObject) {
     var aNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0];
+    markPlusMinusAsVisited(eventObject.currentTarget);
     markHrefAsVisited(aNode.href);
 }
