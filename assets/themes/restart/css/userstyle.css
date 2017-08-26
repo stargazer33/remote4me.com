@@ -6,38 +6,26 @@ div.fixed-table-loading{
     display: none; !important;
 }
 
-
 .smalltext {
     font-size: 12px;
     font-weight: 300;
 }
 
-
 .normaltext {
     font-size: 14px;
-    /*font-weight: 300;
-    line-height: 1.5em;*/
 }
-
 
 .labelTag {
     background: transparent;
     color: #6f6f6f;
     border: 1px solid #dddddd;
-
     float: left;
     font-weight: normal;
     font-size: 12px;
-    /*
-    margin-top: 5px;
-    */
     margin-right: 5px;
     margin-top: 3px;
     padding-right: 4px;
     padding-left: 4px;
-    /*
-    margin-left: 0px;
-     */
 }
 
 .table > thead > tr > th,
@@ -71,18 +59,6 @@ div.row {
 
 tr[data-index] {
     background-color: #f5f5f5;
-}
-
-/*
-tr[data-index]:hover {
-    background-color: #d9edf7;
-    border-color: #bce8f1;
-    color: #31708f;
-}
-*/
-
-tr[data-index]:visited {
-    color: #999999 !important;
 }
 
 a.rowTitleClass:visited {
