@@ -453,31 +453,38 @@ function tagsDeco(tags) {
  * @param href {string} the URL to mark as "visited"
  */
 function markHrefAsVisited(href){
-    // store the current URL
-    var current_url = window.location.href;
-    // use replaceState to push a new entry into the browser's history
-    history.replaceState({},"", href);
-    // use replaceState again to reset the URL
-    history.replaceState({},"",current_url);
-}
-
-/**
- * see https://stackoverflow.com/questions/10486580/how-to-mark-links-handled-with-javascript-as-visited
- * @param node {DOM node} - class "visited" will be added to this node.
- */
-function markPlusMinusAsVisited(node){
-    $(node).addClass("visited");
+    try{
+        // store the current URL
+        var current_url = window.location.href;
+        // use replaceState to push a new entry into the browser's history
+        history.replaceState({},"", href);
+        // use replaceState again to reset the URL
+        history.replaceState({},"",current_url);
+    }
+    catch (err) {
+        console.log(err);
+    }
 }
 
 function rowTitleClick(aNode) {
-    var aNodeDetail=aNode.parentNode.parentNode.children[2].children[0];
-    aNodeDetail.click();
     markHrefAsVisited(aNode.href);
+
+    // send click to PlusMinus Node
+    var nodePlusMinus=aNode.parentNode.parentNode.children[2].children[0];
+    nodePlusMinus.click();
     return false;
 }
 
 function rowPlusMinusClick( eventObject) {
-    var aNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0];
-    markPlusMinusAsVisited(eventObject.currentTarget);
-    markHrefAsVisited(aNode.href);
+    // mark PlusMinus anchor as visited
+    markHrefAsVisited(eventObject.currentTarget.href);
+
+    if(eventObject.eventPhase === 2){
+        // this event comes from rowTitleClick()
+        // skip marking title as visited
+        return;
+    }
+    // mark "title" anchor visited
+    var titleNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0];
+    markHrefAsVisited(titleNode.href);
 }

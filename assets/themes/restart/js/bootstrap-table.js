@@ -1780,7 +1780,7 @@
         /* hack begin */
         if (!this.options.cardView && this.options.detailView) {
             html.push('<td>',
-                '<a class="detail-icon" href="#">',
+                sprintf('<a class="detail-icon" href="#%splus">', item.id),
                 sprintf('<i class="%s %s"></i>', this.options.iconsPrefix, this.options.icons.detailOpen),
                 '</a>',
                 '</td>');
