@@ -82,13 +82,6 @@ $(document).ready(function () {
             readCheckboxesState();
         });
 
-        // click on table row -> click on ".detail-icon"
-        /*
-        $("#table").on("click", "tr", function () {
-            $(this).find(".detail-icon").trigger("click");
-        });
-        */
-
         $("#jobSearchForm").submit(handleJobSearchFormSubmit);
         $(".filter-checkbox").click(handleClickOnFilterCheckbox);
     } catch (err) {
@@ -114,6 +107,9 @@ function onLoadDataFile(data){
     // we can call tableLoad ONLY when isDataLoaded == true
     tableLoad(true);
     enableSearchControls();
+
+    //attach rowPlusMinusClick
+    $("#table").find('>tbody').find('> tr[data-index] > td > .detail-icon').on('click', rowPlusMinusClick);
 }
 
 /**
@@ -452,10 +448,27 @@ function tagsDeco(tags) {
     return rtTags;
 }
 
+/**
+ * see https://stackoverflow.com/questions/795654/using-javascript-to-mark-a-link-as-visited
+ * @param href the URL to mark as "visited"
+ */
+function markHrefAsVisited(href){
+    // store the current URL
+    var current_url = window.location.href;
+    // use replaceState to push a new entry into the browser's history
+    history.replaceState({},"", href);
+    // use replaceState again to reset the URL
+    history.replaceState({},"",current_url);
+}
+
 function rowTitleClick(aNode) {
-    // console.log('rowTitleClick: '+aNode);
     var aNodeDetail=aNode.parentNode.parentNode.children[2].children[0];
     aNodeDetail.click();
+    markHrefAsVisited(aNode.href);
     return false;
 }
 
+function rowPlusMinusClick( eventObject) {
+    var aNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0];
+    markHrefAsVisited(aNode.href);
+}
