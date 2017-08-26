@@ -51,11 +51,7 @@ div.fixed-table-loading{
 
 tr.detail-view > td {
     padding-top: 0 !important;
-}
-
-
-tr.detail-view:hover {
-    background-color: inherit !important;
+    padding-bottom: 0 !important;
 }
 
 .table > tbody > tr[id] > td {
@@ -65,8 +61,20 @@ tr.detail-view:hover {
 .highlight {
     padding: 9px 14px;
     margin-top: -0.1em;
-    margin-bottom: 5px;
-    background-color: #f7f7f9;
-    border: 1px solid #e1e1e8;
-    /* border-radius: 4px; */
+    border-left: 1px solid #999999;
+    background-color: white;
+}
+
+div.row {
+    margin-left: 0px;
+}
+
+tr[data-index] {
+    background-color: #f5f5f5;
+}
+
+tr[data-index]:hover {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    color: #31708f;
 }
