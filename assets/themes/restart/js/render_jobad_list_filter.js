@@ -386,17 +386,17 @@ function detailFormatter(index, row) {
     var html = [];
     var sourceName = "";
     var passUrl = "";
-    html.push('<div class="detail-view"><td colspan="3"><span class="detailFooter"></span><div class="detailContent"><div class="row"><div class="highlight col-xs-offset-1 col-md-offset-1 col-sm-11 col-md-11">');
+    html.push('<div class="detail-view"><td colspan="3"><span class="detailFooter"></span><div class="detailContent"><div class="row"><div class="highlight col-sm-11 col-md-11">');
 
     $.each(row, function (key, value) {
         if (key == "title") {
         }
         else if (key == "url") {
-            passUrl = '<div class="row"><div class="col-xs-offset-1 col-md-offset-1 col-xs-6 col-md-6">' + '<a href="' + value + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>' + ' </div><div class="col-sm-5 col-md-5 text-right">' + '<a href="#' + row.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>' + '</div> </div>';
+            passUrl = '<div class="col-xs-6 col-md-6">' + '<a href="' + value + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>' + ' </div><div class="col-sm-5 col-md-5 text-right">' + '<a href="#' + row.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>' + '</div>';
             /*html.push(passUrl);*/
         }
         else if (key == "content") {
-            html.push(value + '</div></div>' + passUrl + '</div><span class="detailFooter"></span></td>');
+            html.push(value + passUrl + '<span class="detailFooter"></span></td>');
         }
         else if (key == "sourceName") {
             sourceName = value;
