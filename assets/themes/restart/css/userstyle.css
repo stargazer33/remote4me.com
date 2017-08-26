@@ -61,18 +61,30 @@ tr.detail-view > td {
 .highlight {
     padding: 9px 14px;
     border-left: 1px solid #999999;
+    border-right: 1px solid #999999;
 }
 
 div.row {
     margin-left: 0;
+    margin-right: 0;
 }
 
 tr[data-index] {
     background-color: #f5f5f5;
 }
 
+/*
 tr[data-index]:hover {
     background-color: #d9edf7;
     border-color: #bce8f1;
     color: #31708f;
+}
+*/
+
+tr[data-index]:visited {
+    color: #999999 !important;
+}
+
+a.rowTitleClass:visited {
+    color: #999999 !important;
 }

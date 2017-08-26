@@ -72,7 +72,7 @@ $(document).ready(function () {
                         field: "published",
                         class: "spanLink",
                         formatter: publishedFormatter,
-                        width: "12%"
+                        width: "62px"
                     }
                 ]
             });
@@ -393,7 +393,7 @@ function detailFormatter(index, row) {
         if (key == "title") {
         }
         else if (key == "url") {
-            passUrl = '<div style="padding-left: 0;" class="col-xs-6 col-md-6">' + '<a href="' + value + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>' + ' </div><div class="col-sm-6 col-md-6 text-right">' + '<a href="#' + row.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>' + '</div>';
+            passUrl = '<div style="padding-left: 0;" class="col-xs-6 col-md-6">' + '<a href="' + value + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>' + ' </div><div style="padding-right: 0;" class="col-sm-6 col-md-6 text-right">' + '<a href="#' + row.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>' + '</div>';
             /*html.push(passUrl);*/
         }
         else if (key == "content") {
