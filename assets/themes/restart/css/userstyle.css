@@ -78,6 +78,7 @@ a.detail-icon:visited{
 
     #table > tbody > tr[data-index] > td.spanLink:nth-child(1) {
         padding-right: 0 !important;
+        width: 65% !important;
     }
 
     #table > tbody > tr[data-index] > td.spanLink:nth-child(2) {
