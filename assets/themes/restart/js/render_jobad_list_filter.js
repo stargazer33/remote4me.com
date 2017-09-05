@@ -383,7 +383,7 @@ function detailFormatter(index, row) {
     var html = [];
     var sourceName = "";
     var passUrl = "";
-    html.push('<div class="detail-view"><td colspan="3"><span class="detailFooter"></span><div class="detailContent"><div class="row"><div class="highlight col-sm-12 col-md-12">');
+    html.push('<div class="detail-view"><td colspan="3"><span class="detailFooter"></span><div class="detailContent"><div class="row"><div class="highlight col-xs-12 col-sm-12 col-md-12">');
 
     $.each(row, function (key, value) {
         if (key == "title") {
