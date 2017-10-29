@@ -376,32 +376,35 @@ function tableLoad(isFirstLoad) {
 /**
  * Форматирует информацию для презентации в развернутом виде записи.
  * @param {int} index, index=data-index строки;
- * @param {item} row; обьект типа Job из json_data, тоже что и item;
- * @return {string} html форматированая презентация развернутого вида записи;
+ * @param {jobAd} jobAd; обьект типа Job из json_data
+ * @return {string} table detail as HTML
  */
-function detailFormatter(index, row) {
+function detailFormatter(index, jobAd) {
     var html = [];
-    var sourceName = "";
-    var passUrl = "";
-    html.push('<div class="detail-view"><td colspan="3"><span class="detailFooter"></span><div class="detailContent"><div class="row"><div class="highlight col-xs-12 col-sm-12 col-md-12">');
+    html.push('<div class="detail-view"><td colspan="3"><span class="detailFooter"></span>');
+    html.push('<div class="detailContent"><div class="row">');
+    html.push('<div class="highlight">');
 
-    $.each(row, function (key, value) {
-        if (key == "title") {
-        }
-        else if (key == "url") {
-            passUrl = '<div style="padding-left: 0;" class="col-xs-6 col-md-6">' + '<a href="' + value + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>' + ' </div><div style="padding-right: 0;" class="col-sm-6 col-md-6 text-right">' + '<a href="#' + row.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>' + '</div>';
-            /*html.push(passUrl);*/
-        }
-        else if (key == "content") {
-            html.push(value + passUrl + '<span class="detailFooter"></span></td>');
-        }
-        else if (key == "sourceName") {
-            sourceName = value;
-        }
-        else {
+        html.push('<div class="col-xs-12 col-sm-12 col-md-12">');
+              html.push(jobAd.content);
+        html.push('</div>');
 
-        }
-    });
+        html.push('<div class="col-xs-12 col-sm-12 col-md-12">');
+        html.push('&nbsp;</div>');
+
+        html.push('<div class="col-xs-12 col-sm-12 col-md-12">');
+            html.push('<div style="padding-left: 0;" class="col-xs-6 col-md-6">');
+            html.push('<a href="' + jobAd.url + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>');
+            html.push('</div>');
+            html.push('<div style="padding-right: 0;" class="col-sm-6 col-md-6 text-right">');
+            html.push('<a href="#' + jobAd.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>');
+            html.push('</div>');
+            html.push('</div>'); // div class="col-xs-12 col-sm-12 col-md-12"
+        html.push('<span class="detailFooter">&nbsp;</span>');
+
+    html.push('</div>'); //highlight
+    html.push('</div></div>'); //detailContent row
+    html.push('</td></div>'); //detail-view
     return html.join('');
 }
 
