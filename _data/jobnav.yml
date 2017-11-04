@@ -83,56 +83,68 @@
       url: other-dev
       datafile: dev
 
-- title: Data engineers/scientists jobs
-  tagline: Everything related to statistics or mathematics, big data specialists, machine learning specialists, data scientists. technologies like R programming language, hadoop, apache spark
-  undertagline:
-  url: big-data-science-machine-learning
-  datafile: data
-
-- title: Database (RDBMS) developers and admins (DBA's)
-  tagline:  oracle/mysql/postgres/sql server database developers/admins, database automation engineers
-  undertagline:
-  url: database-developers-admins
-  datafile: data
-
 - title: QA engineer jobs
   tagline: Quality Assurance Engineers, test engineers, QA automation engineers, manual QA
   undertagline:
   url: qa-test-engineers
   datafile: qa
 
-- title: Integration Engineers jobs
-  tagline: implementation engineers, build/release engineers, automation developers, data integration engineers
+- title: Database (RDBMS) developers and admins (DBA's)
+  tagline:  oracle/mysql/postgres/sql server database developers/admins, database automation engineers
   undertagline:
-  url: integration-build-automation
-  datafile: integration
+  url: dbms-developers-admins
+  datafile: dbms
 
-- title: DevOps and Sysadmins
+- title: (Big) Data or Machine Learning Engineers or Scientists jobs
+  tagline: Everything related to statistics or mathematics, big data specialists, machine learning specialists, data scientists. technologies like R programming language, hadoop, apache spark
+  undertagline:
+  url: big-data-science-machine-learning
+  datafile: data
+
+- title: DevOps, Sysadmins, SRE
   tagline: linux systems engineers, network/security engineers, site reliability engineers, operations engineers, crm administrators, dynamics administrators
   undertagline:
   url: devops-sysadmins
   datafile: admin
 
-- title: Designers
+- title: Designers, graphic or video artists
   tagline: graphic artists, ui/ux designers, stylists, character artists, background artists, 2d and 3d artists, animators, game designes
   undertagline:
   url: designers-graphic-artists
   datafile: designer
 
-- title: Support specialists and (technical) writers
-  tagline:  customer champions, support agents, copywriters
+- title: Support specialists
+  tagline:  customer champions, support agents
   undertagline:
-  url: support-copywriters
+  url: support
   datafile: support
 
-- title:  Sales, Marketing and Product specialists
+- title: Technical Writers, editors
+  tagline:  Copywriters, Technical Writers...
+  undertagline:
+  url: copywriters
+  datafile: writer
+
+- title:  Marketing and Product specialists
   tagline: product owners, product managers, analysts, solution architects, security architects
   undertagline:
-  url: sales-marketing-product
+  url: marketing-product
   datafile: product
+
+- title:  Sales
+  tagline: Sales and pre-sales specialists
+  undertagline:
+  url: sales
+  datafile: sales
 
 - title: Managers and executives
   tagline: engineering/qa managers, line managers, project managers
   undertagline:
   url: managers
   datafile: manager
+
+- title: Integration Engineers jobs
+  tagline: implementation engineers, build/release engineers, automation developers, data integration engineers
+  undertagline:
+  url: integration-build-automation
+  datafile: integration
