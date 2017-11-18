@@ -94,15 +94,15 @@
     "published": "Nov 9, 2017 4:43:58 PM",
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "REMOTE1_50",
       "DBG:surround``OR(global, distributed) 2N team",
+      "REMOTE1_100",
       "TZ_America_East",
       "TITLE1_qa",
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher"
     ],
     "tagsNames1": [
-      "50% remote",
+      "100% remote",
       "US East time zone"
     ],
     "tagsNames2": []
@@ -145,6 +145,28 @@
     "published": "Nov 7, 2017 6:43:40 AM",
     "tags": [
       "DBG:surround``OR(requir,need) 6W OR(travel,visit) 5W OR(offic,headquart,onsit)",
+      "REMOTE1_50",
+      "TZ_unknown",
+      "TITLE1_qa"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": []
+  },
+  {
+    "id": "gkYaHC03Qq-eLl2dzOjPqw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "indeed.com-1",
+    "url": "http://www.indeed.com/viewjob?t=QA+Automation+Engineer&c=ABC+Financial+Services&l=Remote&jk=67199479627a8dbc&rtk=1bv8d4f4f530pf4a&from=rss",
+    "title": "QA Automation Engineer - ABC Financial Services, Inc. - Remote",
+    "content": "<div><b>QA Automation Engineer</b><br><span>ABC Financial Services, Inc.</span>     -<span>Remote</span>    </div><span>SUMMARY<br><br>The QA Automation Engineer (QAE) is a test engineer who plays a critical role in the agile development team and is primarily responsible for designing, developing, and implementing test frameworks, test validation scripts, and test data strategies within an integrated DevOps infrastructure covering the full product stack.<br><br>This position will also be responsible for coordinating quality assurance testing activities including understanding business requirements, features, and technical implementation along with drafting test documentation, executing test scripts, tracking defects, and monitoring testing activity. The QAE will serve as a subject matter expert on the development of testing approaches and methodologies. The QAE work is critical in driving the testing efficiencies necessary for successful agile product development.<br><br><b>Essential Duties and Responsibilities</b><br><ul><li>Plan, implement, and maintain the strategy to ensure full automated testing of applications, API’s, and frameworks as part of a continuous integration and agile environment.</li><li>Define test plans, test cases, and test data to be used for both automated and manual testing.</li><li>Create and perform thorough automation test strategies to ensure comprehensive code coverage, and write test cases that cover all areas.</li><li>Identify missing test scenarios and refine existing automation.</li><li>Develop high quality automated tests to support development and ensure high quality software.</li><li>Identify and create reusable test data, methods, and frameworks.</li><li>During each sprint, ensure that all necessary tests meet the acceptance criteria, staying on top of all important issues and helping triage bugs and drive issues to resolution, keeping everyone aware of the quality of the sprint work.</li><li>Define Functional Automation Coverage Map, ensuring visibility to all the stakeholders and members of the Agile Team.</li><li>Work with other quality team members on test automation strategies across the product stack.</li><li>Investigate failures, perform root cause analysis, and utilize the internal defect tracking tool to create detailed, high quality defect reports.</li><li>Assure quality assurance in the evaluation of critical code fixes to determine ship readiness and help make sure that each release goes out on time with high quality.</li><li>Proactively identify &amp; share new automation tools/processes/approaches to create, maintain and improve the Software Testing Lifecycle.</li><li>Coordinate with hardware team to ensure all testing needs are met.</li><li>Produce status reports related to the testing process, including test results and defect tracking/prioritization.</li><li>Participate in Requirements Reviews and Grooming sessions.</li><li>Participate in Lessons Learned or Project Review/Retrospective sessions, and identify potential work process improvements.</li><li>Work with cross-team product owners, developers and other test engineers to support the current QA processes.</li><li>Be a vocal advocate of customer empathy and risk mitigation.</li><li>Help develop and drive a Test Culture across the entire company, which includes following the Agile testing principles and continuously reviewing, implementing, and communicating process improvements and quality metrics to the team.</li></ul><br>Position Requirements<br><b>Qualifications</b><br><ul><li>In-depth knowledge and experience with software testing and automated test techniques with a strong focus on quality throughout the entire software development cycle</li><li>Knowledge and experience writing custom test automation scripts and frameworks, in Java, JavaScript or C/C++</li><li>Knowledge using backend Test Automation Frameworks from Junit and NUnit such as TestNG</li><li>Knowledge using frontend Test Automation Frameworks such as Selenium Webdriver, to test responsive web applications</li><li>Knowledge and experience with multiple test automation framework tools, including Linear, Modular, Data Driven, Keyword Driven, and/or Hybrid framework types</li><li><b>Experience with </b>:<ul><li>RESTful API web service execution and validation using tools such as Postman or SOAP</li><li>API Contract verification using tools such as Swagger or REST Docs</li><li>Committing code to a version control system such as GitHub or SVN</li><li>Build automation tools, such as Gradle or Apache Maven</li><li>Developing and executing automated and manual test scripts for requirement validation, integration, regression, performance and usability testing</li><li>Load testing APIs and Applications using tools such as Jmeter or LoadUI</li><li>Integrating automated tests into continuous integration pipelines using tools such as Jenkins or Hudson</li><li>An agile tracking tool such as JIRA or VersionOne</li><li>A Test Management Tool such as TestRail or qTest</li></ul></li></ul><b>Education and/or Experience</b><br><ul><li>BS or MS in Computer Science, Engineering, equivalent technical degree, or experience</li><li>3 - 8 years of professional software automation / development experience</li></ul><br>Relocation Assistance<br>N/A - Remote<br><br>Travel Requirements<br>Remote Travel: Onsite initially for 3 weeks of training and team integration, 1 week/month for the next 2 months (after your initial training), and 1 week/quarter thereafter.<br><br>EOE Statement<br>We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status or any other characteristic protected by law.<br><br>This position is currently accepting applications.</span>",
+    "urlFetchPending": false,
+    "published": "Nov 7, 2017 6:43:40 AM",
+    "tags": [
       "REMOTE1_50",
       "TZ_unknown",
       "TITLE1_qa"
@@ -483,6 +505,7 @@
     "tags": [
       "DBG:surround``remot 16W timezon",
       "DBG:surround``usa 3W OR(time,timezon)",
+      "DBG:surround``fulltim 4N remot",
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "REMOTE1_100",
       "TZ_America_East",
