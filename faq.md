@@ -7,7 +7,7 @@ group: navigation
 ---
 ### Q: Why another job aggregator ?
 
-Job ads are posted on multiple job boards. Very often the job boards set the checkbox “Remote” on jobs without really checking the content. Some jobs clearly indicate it: “work from wherever you want”. But other jobs contain phrases like "remotely on Friday" or "occasional remote working" - which indicates an onsite job.
+Job ads are posted on multiple job boards. Very often the job boards set the checkbox “Remote” on jobs without really checking the content. Some jobs clearly indicate it: “work from whenever you want”. But other jobs contain phrases like "remotely on Friday" or "occasional remote working" - which indicates an onsite job.
 
 The author found no site capable to do both the aggregation and the correct classification “remote vs onsite job”. Additionally, the per-technology-stack job classification of existing job boards/aggregators is far from optimal (all the Javascript, Java and, let say, Python jobs are in one huge list: have fun searching it).
 
@@ -19,14 +19,14 @@ A job which can be done without a single visit to the office. There could be tim
 ### Q: What does “a 50% remote job” mean ?
 A job requiring some presence in office. Or a job where the remote option is not for all but only for “exceptional” candidates. 
 Here a few examples:
-```
-"We all work remotely but meet for two days once a month on site."
-"Home based with travel 1 day per week"
-"Flexibility of remote work and hours, with an expectation to be on-site at least part time"
-"Telecommute or work from our … office" 
-"Possibility of working remotely is available."
-"May consider remote for a highly qualified candidate"
-```
+
+"We all work remotely but meet for two days once a month on site."<br>
+"Home based with travel 1 day per week"<br>
+"Flexibility of remote work and hours, with an expectation to be on-site at least part time"<br>
+"Telecommute or work from our … office"<br> 
+"Possibility of working remotely is available."<br>
+"May consider remote for a highly qualified candidate"<br>
+
 
 ### Q: Which job boards Metajob aggregates ?
 We collect remote jobs from the following job boards:
