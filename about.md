@@ -20,9 +20,9 @@ Enjoy (or loathe) it.
 
 
 ### What's under the hood ?
-The source code is not (yet) open source. The job classification is based on the knowledge engineering technique. This means, there are manually written “rules” for each job category. (No, machine learning was not used. One of the reason - where to find a sufficiently large dataset to train the classifier? If you find it - let me know). 
+The source code is not (yet) open source. The job classification is based on the knowledge engineering technique. Which means there are manually written “rules” for each job category. (No, the machine learning was not used. One of the reasons - where does one find a sufficiently large dataset to train the classifier? If you find it - let me know). 
 
-I am very grateful to the authors of [Apache Lucene](https://lucene.apache.org/core/) - they created a great instrument; the above-mentioned rules are actually the Lucene queries. And, a significant part of web crawling code is written by [Sergei Poznanski](https://www.linkedin.com/in/sergei-poznanski/) - without his support this project would not cover so many job boards.
+I am very grateful to the authors of [Apache Lucene](https://lucene.apache.org/core/) - they created a great instrument; the above-mentioned rules are actually the Lucene queries. A significant part of web crawling code is written by [Sergei Poznanski](https://www.linkedin.com/in/sergei-poznanski/) - without his support this project would not cover so many job boards.
 
 ### Contacts
 <a href="mailto:%22Dmitri%20Geller%22%3cbackend.developer.33@gmail.com%3e">Email: backend.developer.33@gmail.com</a>
