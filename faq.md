@@ -14,7 +14,7 @@ The author found no site capable to do both the aggregation and the correct clas
 Therefore this site was built. It distinguishes between the “100% remote” and the “50% remote” jobs. And it categorizes tech jobs by position and technology stack. Additionally, it tags the job ads with the time zone and work authorization tags.
   
 ### Q: What does “a 100% remote job” mean ?
-A job which can be done without a single visit to the office. There could be timezone restrictions or restrictions related to work authorization. But, there should be no requirement to visit the office.
+A job which can be done without a unnecessary visits to the office. There could be timezone restrictions or restrictions related to work authorization. But, there should be no requirement to visit the office.
     
 ### Q: What does “a 50% remote job” mean ?
 A job requiring some presence in office. Or a job where the remote option is not for all but only for “exceptional” candidates. 
@@ -29,7 +29,7 @@ Here a few examples:
 
 
 ### Q: Which job boards Metajob aggregates ?
-We collect remote jobs from the following job boards:
+Our remote jobs are collected from the following job boards:
 
   weworkremotely.com  
   stackoverflow.com  
