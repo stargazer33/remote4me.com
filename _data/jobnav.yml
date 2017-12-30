@@ -1,9 +1,3 @@
-- title: Developer jobs (any tecnhology stack)
-  tagline: programmers, software engineers, architects, tech leads
-  undertagline:
-  url: developers
-  datafile: dev
-
 - title:
   tagline: Remote developer jobs per tecnhology stack&#58;
   undertagline:
@@ -15,136 +9,136 @@
       tagline: Javascript which runs in browser&#58; angularjs, react.js and similar technologies
       undertagline:
       url: frontend
-      datafile: dev
+      datafile: TECH1_frontend
 
     - title: Mobile jobs
       tagline: Includes ios, android, windows phone, cordova, xamarin and other technologies for mobile apps
       undertagline:
       url: mobile
-      datafile: dev
-
-    - title: Embedded applications/devices jobs
-      tagline: Includes firmware development, microcontrollers, real-time os
-      undertagline:
-      url: embedded
-      datafile: dev
-
-    - title: Gamedev jobs
-      tagline: Includes game engine development, unity, flash, mobile game development
-      undertagline:
-      url: gamedev
-      datafile: dev
+      datafile: TECH1_mobile
 
     - title: Java jobs
       tagline: Includes scala
       undertagline:
       url: java
-      datafile: dev
+      datafile: TECH1_java
 
     - title: .NET jobs
       tagline: Includes c#, vb.net, vba, asp.net, windows desktop applications, microsoft azure and other microsoft technologies
       undertagline:
       url: dotnet
-      datafile: dev
+      datafile: TECH1_dotnet
 
-    - title: C/C++ jobs
-      tagline: ...for any os
+    - title: (Big) Data or Machine Learning Engineers or Scientists jobs
+      tagline: Everything related to statistics or mathematics, big data specialists, machine learning specialists, data scientists. technologies like R programming language, hadoop, apache spark
       undertagline:
-      url: c-plus-plus
-      datafile: dev
+      url: big-data-science-machine-learning
+      datafile: TECH1_bigdata-ml
 
     - title: PHP jobs
       tagline: Includes laravel, symphony, codeigniter, zend
       undertagline:
       url: php
-      datafile: dev
-
-    - title: Node.js jobs
-      tagline: ...and other backend javascript technologies like meteor.js, express.js, vertx.io
-      undertagline:
-      url: nodejs
-      datafile: dev
-
-    - title: Ruby jobs
-      tagline: Includes Rails
-      undertagline:
-      url: ruby
-      datafile: dev
+      datafile: TECH1_php
 
     - title: Python jobs
       tagline: Includes Django
       undertagline:
       url: python
-      datafile: dev
+      datafile: TECH1_python
+
+    - title: Node.js jobs
+      tagline: ...and other backend javascript technologies like meteor.js, express.js, vertx.io
+      undertagline:
+      url: nodejs
+      datafile: TECH1_nodejs
+
+    - title: Ruby jobs
+      tagline: Includes Rails
+      undertagline:
+      url: ruby
+      datafile: TECH1_ruby
+
+    - title: C/C++ jobs
+      tagline: ...for any os
+      undertagline:
+      url: c-plus-plus
+      datafile: TECH1_c
+
+    - title: Embedded applications/devices jobs
+      tagline: Includes firmware development, microcontrollers, real-time os
+      undertagline:
+      url: embedded
+      datafile: TECH1_embedded
+
+    - title: Gamedev jobs
+      tagline: Includes game engine development, unity, flash, mobile game development
+      undertagline:
+      url: gamedev
+      datafile: TECH1_gamedev
 
     - title: Other technologies
       tagline: Includes perl, bash, go, lisp, erlang, haskell, ocaml, scheme, clojure, F#
       undertagline:
-      url: other-dev
-      datafile: dev
+      url: other
+      datafile: TECH1_other
 
 - title: QA engineer jobs
   tagline: Quality Assurance Engineers, test engineers, QA automation engineers, manual QA
   undertagline:
   url: qa-test-engineers
-  datafile: qa
+  datafile: TITLE1_qa
 
 - title: Database (RDBMS) developers and admins (DBA's)
   tagline:  oracle/mysql/postgres/sql server database developers/admins, database automation engineers
   undertagline:
   url: dbms-developers-admins
-  datafile: dbms
-
-- title: (Big) Data or Machine Learning Engineers or Scientists jobs
-  tagline: Everything related to statistics or mathematics, big data specialists, machine learning specialists, data scientists. technologies like R programming language, hadoop, apache spark
-  undertagline:
-  url: big-data-science-machine-learning
-  datafile: data
+  datafile: TITLE1_dbms
 
 - title: DevOps, Sysadmins, SRE
   tagline: linux systems engineers, network/security engineers, site reliability engineers, operations engineers, crm administrators, dynamics administrators
   undertagline:
   url: devops-sysadmins
-  datafile: admin
+  datafile: TITLE1_admin
 
 - title: Designers, graphic or video artists
   tagline: graphic artists, ui/ux designers, stylists, character artists, background artists, 2d and 3d artists, animators, game designes
   undertagline:
   url: designers-graphic-artists
-  datafile: designer
+  datafile: TITLE1_designer
 
 - title: Support specialists
   tagline:  customer champions, support agents
   undertagline:
   url: support
-  datafile: support
+  datafile: TITLE1_support
 
 - title: Technical Writers, editors
   tagline:  Copywriters, Technical Writers...
   undertagline:
   url: copywriters
-  datafile: writer
+  datafile: TITLE1_writer
 
 - title:  Marketing and Product specialists
   tagline: product owners, product managers, analysts, solution architects, security architects
   undertagline:
   url: marketing-product
-  datafile: product
+  datafile: TITLE1_product
 
 - title:  Sales
   tagline: Sales and pre-sales specialists
   undertagline:
   url: sales
-  datafile: sales
+  datafile: TITLE1_sales
 
 - title: Managers and executives
   tagline: engineering/qa managers, line managers, project managers
   undertagline:
   url: managers
-  datafile: manager
+  datafile: TITLE1_manager
 
 - title: Integration Engineers jobs
   tagline: implementation engineers, build/release engineers, automation developers, data integration engineers
   undertagline:
   url: integration-build-automation
-  datafile: integration
+  datafile: TITLE1_integration
