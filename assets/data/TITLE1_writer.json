@@ -88,10 +88,8 @@
     "urlFetchPending": false,
     "published": "Dec 6, 2017 8:02:51 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:collections_java_8",
-      "DBG_TECH1:techWeightMap:{python=0, java=8, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
       "REMOTE1_100",
-      "TECH1_java",
+      "TECH1_unknown",
       "TITLE1_writer",
       "TZ_America_East"
     ],
@@ -100,7 +98,7 @@
       "US East time zone"
     ],
     "tagsNames2": [
-      "java"
+      "unknown"
     ]
   },
   {
@@ -116,9 +114,9 @@
     "urlFetchPending": false,
     "published": "Dec 6, 2017 4:16:14 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:php_php_3",
+      "DBG_TECH1:k_t_w:php_php_5",
       "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=8, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_php",
       "TITLE1_writer",
@@ -144,9 +142,9 @@
     "urlFetchPending": false,
     "published": "Dec 6, 2017 4:16:14 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:php_php_3",
+      "DBG_TECH1:k_t_w:php_php_5",
       "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=8, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_php",
       "TITLE1_writer",
@@ -172,9 +170,9 @@
     "urlFetchPending": false,
     "published": "Dec 6, 2017 3:56:27 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:php_php_3",
+      "DBG_TECH1:k_t_w:php_php_5",
       "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=8, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_php",
       "TITLE1_writer",
@@ -228,7 +226,7 @@
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG_TECH1:k_t_w:coffeescript_frontend_1",
       "DBG_TECH1:k_t_w:coffeescript_nodejs_1",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=1, embedded=0, frontend=1, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1_100",
       "TECH1_frontend",
       "TECH1_nodejs",
@@ -259,9 +257,10 @@
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG_TECH1:k_t_w:coffeescript_frontend_1",
       "DBG_TECH1:k_t_w:coffeescript_nodejs_1",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=1, embedded=0, frontend=1, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:k_t_w:macos_apple_1",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=1, bigdata-ml=0, ruby=0, apple=1, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1_100",
-      "TECH1_frontend",
+      "TECH1_apple",
       "TECH1_nodejs",
       "TECH2_blogs",
       "TECH2_technical-writer",
@@ -273,8 +272,8 @@
       "100% remote"
     ],
     "tagsNames2": [
+      "apple",
       "blogs",
-      "frontend",
       "nodejs",
       "technical-writer",
       "writer"

@@ -17,7 +17,7 @@
       "DBG_TECH1:k_t_w:pandas_python_15",
       "DBG_TECH1:k_t_w:python_python_6",
       "DBG_TECH1:k_t_w:sqlalchemy_python_8",
-      "DBG_TECH1:techWeightMap:{python=37, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=37, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_python",
       "TECH2_amazon-web-services",
@@ -40,6 +40,116 @@
     ]
   },
   {
+    "id": "xxqkL6UdQQSOW0uqsUTzow",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "workinstartups-programmers",
+    "url": "http://workinstartups.com/job-board/job/64319/data-scientist-at-hiver/",
+    "title": "Data Scientist",
+    "content": "*Data Scientist* <br />Do you want to join an exciting early stage start-up into the intelligent event technology space? Do you dream about building and growing the data science function of our product? Are you motivated by working in a fast-paced dynamic environment? We’re looking for a mid-level Data Scientist to join our team based in London (with some remote work possible). This is a 6-month project initially with scope to become a permanent role after that. <br /><br />*Must Haves*<br /><br />* Strong mathematical skills<br />* Strong applied statistics skills, such as distributions, statistical testing, regression<br />* Core Data Science skills<br />* Ability to learn quickly <br />* Practical experience of Python<br />* Ability to suggest ideas, test them and iterate on them <br />* At least 2 years commercial experience<br />* Excellent English language communication, in particular the ability to explain complex analytical ideas to non experts<br /><br /><br />*Nice to Haves*<br /><br />* Knowledge of core Python data science libraries such as SciPy, numpy, Pandas, Plotly etc<br />* Good understanding of graph theory<br />* The ability to suggest, design and build static visualisations and other outputs that can be used by customers<br />* Experience with Jupyter notebooks<br />* Knowledge of Machine Learning techniques<br />* Experience with signal processing<br />* Experience with solving geolocation based problems<br /><br />*Culture and Personality*<br /><br />* Willing to work hard but also have fun<br />* Good sense of humour<br />* Entrepreneurial spirit<br />* An appetite to achieve great things<br /><br />*About Hiver*<br /><br />Hiver provides intelligent networking technology designed to improve event-goer's experience and engagement at events by enhancing the way attendees interact with each other. Hiver solves the issue of name forgetting at events - which 80% of event goers report experiencing. As users interact, anonymous data from these improved interactions is presented to the event organiser so they can better understand the composition and quality of the event, giving them the tools to improve event by event as well as quantitatively market the engagement of their event over other conferences.Hiver was a part of London Business School and Deloitte Incubator and of Google Best in British Campus Exchange as is now a member of the Entrepreneurial Spark London Hub.<br /><br />Learn more at www.hivertech.com <br /><br />No agencies please.",
+    "urlFetchPending": false,
+    "published": "Dec 12, 2017 4:46:29 PM",
+    "tags": [
+      "DBG_TECH1:k_t_w:core-data_apple_8",
+      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_3",
+      "DBG_TECH1:k_t_w:numpy_python_5",
+      "DBG_TECH1:k_t_w:pandas_python_5",
+      "DBG_TECH1:k_t_w:python_python_4",
+      "DBG_TECH1:k_t_w:scipy_python_5",
+      "DBG_TECH1:techWeightMap:{python=19, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=3, ruby=0, apple=8, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1_50",
+      "TECH1_python",
+      "TITLE1_data",
+      "TZ_Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ]
+  },
+  {
+    "id": "b6v3SMioRSCQRlzZlu_xPg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/156093/senior-full-stack-developer-django-python-advanced-threat-analytics?a=QlCB8kFPzuU",
+    "title": "Senior Full Stack Developer (Django/Python) at Advanced Threat Analytics, Inc. (Plano, TX) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Full Stack Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Cloud-Based Solutions, Cybersecurity</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>The Job and the Ideal Candidate </strong></p><p>You'll be working with us as a full stack developer to build/improve the platform. The platform is currently in use by over 130 customers, and security operations centers that are 24x7.</p><p><strong>Location</strong></p><p>We prefer candidates local to the Plano, TX area. We are open to the right candidate even if you are remote. If you are remote and believe you are the right person for the job - send us some code, change our mind!</p><p><strong>The Traits Our Backend Developers Have</strong></p><ol><li>Fluent in Django/Python.</li><li>Passion for front end development. In some cases this is mobile app development, in other cases, it's integration with other products that need to consume our APIs, or web development with AngularJS. This helps build better backends when you are the consumer.</li><li>Possess strongly held beliefs and aren't afraid to voice them. Opinions are usually based on something very specific related either to past experiences or to the platform, and very rarely theoretical.</li><li>At least one specific area of excellence in the skills mentioned below - you know this cold!</li><li>Reasonable work/life balance barring bursts which are exceptions. Exceptions aren't the norm.</li></ol><p><strong>Skills You'll Need </strong></p><ol><li>Python/Django - We use lots of it.&nbsp;</li><li>Docker, AWS - specifically the following services - ECS, S3, SQS.</li><li>PostgreSQL, ElasticSearch, Logstash, and Kibana - Core of the platform.</li><li>RabbitMQ, Terraform and other ancillary services that we offer.</li><li>Front End - Pick one: React Native, Angular, Swift, Android.</li></ol><p><strong>The Interview Process </strong></p><ol><li>If you like what you've heard so far and want to come work for us, please send us your resume along with some code samples!</li><li>Give us three (3) days to review and respond. We'll try to respond to everyone who appears to be a good fit.</li><li>A hands-on coding challenge.</li><li>A 60-minute technical conversation about the coding challenge and your resume.</li><li>An in-person interview at our offices.</li><li>A finalized job offer.</li></ol>                    </div>                            <h2>                About Advanced Threat Analytics, Inc.            </h2>            <div><p>Advanced Threat Analytics (ATA) is helping MSSPs (Managed Security Service Providers) and enterprises finally break free of “alert tyranny” – a state when the volume of security alerts grows so out of control – it dictates staffing levels and operational business models. Traditional SIEM (Security Information and Event Management) and incident orchestration solutions try to address the issue by reducing the time it takes to investigate each incident. They do not address the volume issue. ATA takes a different approach – we attack the problem by dramatically slashing the total number of incidents you need to investigate – freeing you from alert overload. This enables you to take a more efficient, effective, and strategic approach to security operations.</p><p><strong>Why Us?</strong></p><ol><li>We are incredibly fast-paced. You must be able to get on board with our pace.</li><li>We turn on a dime - something that sounds like a good idea today, doesn't mean it is - we are fine with that. We like to experiment.</li><li>We are growing at 150% YOY, which means a lot more demands from customers - we like to delight them all!</li><li>Equity and work culture is fantastic! We love what we do and it shows in our work.</li><li>Reasonable work/life balance barring bursts which are exceptions. Exceptions aren't the norm.</li></ol>            </div>                                <h2>Benefits</h2>                            <div>                                 Flexible Hours, Work from anywhere                            </div>                            <div>                                 401k                            </div>                            <div>                                 Paid Holidays, Vacation, and Sick Time                            </div>                            <div>                                 Competitive Salary                            </div>                            <div>                                 Strong Partnerships                            </div>                            <div>                                 Talented coworkers                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Dec 9, 2017 11:13:54 PM",
+    "tags": [
+      "DBG_TECH1:k_t_w:angular_frontend_8",
+      "DBG_TECH1:k_t_w:django_python_24",
+      "DBG_TECH1:k_t_w:python_python_4",
+      "DBG_TECH1:k_t_w:reactjs_frontend_8",
+      "DBG_TECH1:k_t_w:swift_apple_2",
+      "DBG_TECH1:k_t_w:swift_mobile_8",
+      "DBG_TECH1:techWeightMap:{python=28, dotnet=0, c=0, mobile=8, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
+      "REMOTE1_100",
+      "TECH1_python",
+      "TECH2_amazon-web-services",
+      "TECH2_angularjs",
+      "TECH2_django",
+      "TECH2_postgresql",
+      "TECH2_python",
+      "TITLE1_dev",
+      "TZ_unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "amazon-web-services",
+      "angularjs",
+      "django",
+      "postgresql",
+      "python"
+    ]
+  },
+  {
+    "id": "XSOb_y4ETASPuyB3ZHaIQQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/148395/software-data-engineer-python-flask-hatch-it?a=NLyEMkWVBFC",
+    "title": "Software Data Engineer (Python/Flask) at hatch IT (Bethesda, MD) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Junior, Mid-Level</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>IT Recruitment</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>1-10 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>Overview:</strong><br>If you are a data minded software engineer and are looking to make an impact in the Healthcare Industry, we have the job for you! Hatch is currently working with Aledade, a Healthcare IT startup based in Bethesda, MD that provides everything a doctor needs to create and run an accountable care organization (ACO) - from business practice transformation services to upfront capital and cutting-edge technology platform. They are currently looking to add multiple Software Engineers to the team, with the opportunity to work remotely, to help enhance their data driven application. You would be working on their core architecture team, working extensively with Python &amp; SQL, to help bring innovation to the healthcare arena. This team is currently compromised of 6 experienced Python engineers&nbsp;<br><br><strong>Company Tech Stack:</strong> Angular/Python/Flask/Postgres/AWS<br>&nbsp;<br><strong>Does this describe you?</strong></p><ul><li>Thrive in the fast-moving, hard-charging environment of an early-stage startup.</li><li>Have&nbsp;2+ years experience with Python &amp; SQL&nbsp;</li><li>Passion and proven track record for creating robust, scalable web applications</li><li>Desire to develop products that positively impact peoples healthcare</li></ul><p><strong>If you are interested in learning more about this company or any Startups/Small Businesses in the area, please contact us!!</strong><br>&nbsp;<br><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>                    </div>                            <h2>                About hatch IT            </h2>            <div><p>hatch IT is a boutique software development recruiting firm headquartered in the Washington, DC metro area. We’re a company on a mission to help bridge the gap between DC based technology startups, small-businesses and the local software engineering community.&nbsp;</p><p>hatch is a candidate-centric recruiting partner who places an emphasis on ensuring the introduction between every candidate and company is harmonious. We take into account the scope of work, technology stack, culture &amp; career path with every engagement. Long term talent retention is a top priority with startups &amp; small businesses, and our team is proud to have a successful track-record in helping developers find their dream job and small companies identify the talent they need to thrive.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Medical Insurance                            </div>                            <div>                                 Unlimited PTO                            </div>                            <div>                                 Telecommute flexibility                            </div>                            <div>                                 Monthly Happy Hours                            </div>                            <div>                                 Flexible Work Hours                            </div>                            <div>                                 Annual Company Vacations                            </div>                            <div>                                 Competitive Compensation                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Dec 9, 2017 11:13:54 PM",
+    "tags": [
+      "DBG_TECH1:k_t_w:angular_frontend_8",
+      "DBG_TECH1:k_t_w:flask_python_16",
+      "DBG_TECH1:k_t_w:python_python_10",
+      "DBG_TECH1:techWeightMap:{python=26, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1_50",
+      "TECH1_python",
+      "TECH2_flask",
+      "TECH2_postgresql",
+      "TECH2_python",
+      "TECH2_sql",
+      "TITLE1_data",
+      "TZ_unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "flask",
+      "postgresql",
+      "python",
+      "sql"
+    ]
+  },
+  {
     "id": "JXHhRZ58QbaEf_rz2_FE3A",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -54,13 +164,13 @@
     "tags": [
       "DBG_TECH1:k_t_w:django_python_8",
       "DBG_TECH1:k_t_w:keras_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_8",
+      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_9",
       "DBG_TECH1:k_t_w:numpy_python_5",
       "DBG_TECH1:k_t_w:python_python_6",
       "DBG_TECH1:k_t_w:scikit-learn_bigdata-ml_8",
       "DBG_TECH1:k_t_w:scikit-learn_python_5",
       "DBG_TECH1:k_t_w:scipy_python_5",
-      "DBG_TECH1:techWeightMap:{python=29, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=24, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=29, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=25, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_50",
       "TECH1_bigdata-ml",
       "TECH1_python",
@@ -73,36 +183,6 @@
     ],
     "tagsNames2": [
       "bigdata-ml",
-      "python"
-    ]
-  },
-  {
-    "id": "CxXuH-GtRu2ougNTXBRBqQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4040-senior-software-engineer-tiledb",
-    "title": "Senior Software Engineer @ TileDB",
-    "content": "<h2>              Senior Software Engineer<small> @ TileDB</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-12-05 21:27</p></dd>          <dt><span>Description</span></dt>          <dd><h5>DESCRIPTION</h5><p>We are looking for a Senior Software Engineer to contribute to the development of the TileDB array management system and build new exciting features and tools for scientific applications, such as genomics, medical imaging, point cloud data and more. You should have a strong systems development background and excellent organization and problem-solving skills. Your goal will be to develop high-quality software that is aligned with user needs and business goals.</p><p><strong>Responsibilities</strong></p><ul><li>Develop high-quality software design and architecture</li><li>Identify, prioritize and execute tasks in the software development life cycle</li><li>Develop tools and applications by producing clean, efficient code</li><li>Automate tasks through appropriate tools and scripting</li><li>Review and debug code</li><li>Perform validation and verification testing</li><li>Collaborate with internal teams and vendors to fix and improve products</li><li>Document development phases and monitor systems</li><li>Ensure software is up-to-date with latest technologies</li></ul><h5>REQUIREMENTS</h5><ul><li>MSc or PhD in Computer Science or related experience</li><li>Strong experience with C/C++</li><li>Extensive experience in software development, scripting and project management</li><li>Experience using Github and automated testing frameworks</li><li>Analytical mind with problem-solving aptitude</li><li>Ability to work independently</li><li>Excellent organizational and leadership skills</li><li>Knowledge of distributed platforms (e.g., HDFS, Azure, S3, Spark)</li><li>Knowledge of data science programming languages and tools (e.g. Python, NumPy, Pandas, R, Matlab)</li><li>Knowledge of high performance computing libraries (e.g., MPI)</li><li>Knowledge of Linear Algebra computational packages (e.g., BLAS, LAPACK)</li></ul><h5>BENEFITS</h5><p>TileDB, Inc. offers very competitive compensation and benefits, which include:</p><ul><li>Health Care Plan (Medical)</li><li>Stock Option Plan</li><li>Paid Time Off (Vacation, Sick &amp; Public Holidays)</li></ul></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Dec 5, 2017 11:27:46 PM",
-    "tags": [
-      "DBG_TECH1:k_t_w:matlab_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:numpy_python_5",
-      "DBG_TECH1:k_t_w:pandas_python_5",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=12, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=8, ruby=0}",
-      "REMOTE1_100",
-      "TECH1_python",
-      "TITLE1_dev",
-      "TZ_unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
       "python"
     ]
   },
@@ -129,7 +209,7 @@
       "DBG_TECH1:k_t_w:javascript_nodejs_1",
       "DBG_TECH1:k_t_w:pandas_python_5",
       "DBG_TECH1:k_t_w:python_python_20",
-      "DBG_TECH1:techWeightMap:{python=41, java=24, dotnet=0, c=5, gamedev=0, mobile=1, php=0, nodejs=1, embedded=0, frontend=9, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=41, dotnet=0, c=5, mobile=1, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=24, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1_100",
       "TECH1_python",
       "TITLE1_dev",
@@ -138,6 +218,35 @@
     "tagsNames1": [
       "100% remote",
       "US East time zone"
+    ],
+    "tagsNames2": [
+      "python"
+    ]
+  },
+  {
+    "id": "wi8sWDd5RjqN3sY5RwKHcw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "remoteok.io",
+    "url": "https://remoteok.io/jobs/63239",
+    "title": "Software Data Engineer",
+    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong>Overview:</strong><br>If you are a data minded software engineer and are looking to make an impact in the Healthcare Industry, we have the job for you! Hatch is currently working with Aledade, a Healthcare IT startup based in Bethesda, MD that provides everything a doctor needs to create and run an accountable care organization (ACO) - from business practice transformation services to upfront capital and cutting-edge technology platform. They are currently looking to add multiple Software Engineers to the team, with the opportunity to work remotely, to help enhance their data driven application. You would be working on their core architecture team, working extensively with Python &amp; SQL, to help bring innovation to the healthcare arena. This team is currently compromised of 6 experienced Python engineers&nbsp;<br><br><strong>Company Tech Stack:</strong> Angular/Python/Flask/Postgres/AWS<br>&nbsp;<br><strong>Does this describe you?</strong></p></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
+    "urlFetchPending": false,
+    "published": "Nov 22, 2017 10:45:23 PM",
+    "tags": [
+      "DBG_TECH1:k_t_w:angular_frontend_8",
+      "DBG_TECH1:k_t_w:flask_python_8",
+      "DBG_TECH1:k_t_w:python_python_6",
+      "DBG_TECH1:techWeightMap:{python=14, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1_50",
+      "TECH1_python",
+      "TITLE1_data",
+      "TZ_unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
     ],
     "tagsNames2": [
       "python"
@@ -158,10 +267,10 @@
     "tags": [
       "DBG_TECH1:k_t_w:artificial-intelligence_bigdata-ml_5",
       "DBG_TECH1:k_t_w:flask_python_8",
-      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_8",
+      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_3",
       "DBG_TECH1:k_t_w:python_python_4",
       "DBG_TECH1:k_t_w:sqlalchemy_python_16",
-      "DBG_TECH1:techWeightMap:{python=28, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=13, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=28, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_python",
       "TECH2_amazon-web-services",
@@ -184,36 +293,32 @@
     ]
   },
   {
-    "id": "6g68kKZkTXy0uQg6SahY0w",
+    "id": "mCK-YQJvRfGhI2p26hmJWA",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
       "jobAdContentRegExp": ""
     },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/159976/software-engineer-in-test-carbon-black?a=REmoRaPZmdW",
-    "title": "Software Engineer in Test at Carbon Black (Portland, OR) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Junior, Mid-Level, Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>QA/Test Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Computer Software, Cybersecurity, Information Technology</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>501-1k people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>Why Carbon Black?</strong></p><p>At Carbon Black, you’ll have the chance to make an impact in the ever-evolving cybersecurity space. Our advanced technology tackles even the toughest challenges and stays ahead of the latest threats.&nbsp;If you want to join an agile company that’s building bleeding edge technology in the cloud, Carbon Black is the place for you. Driven by passionate people who are dedicated to making the world safer, it’s no wonder we’ve been named a “Top Place to Work” by the Boston Globe for three consecutive years. Join us!</p><p><strong>Why You Matter</strong></p><p>We at Carbon Black are seeking a highly technical continuous learner to fill a critical SDET position. In this role, you will work closely with developers to build out and maintain automation infrastructure as well as contribute in active ways to the test automation and product code. You will have the opportunity to work actively as part of an agile team focused on the world’s leading network endpoint security solutions, and gain exposure to cutting edge technology.</p><p><strong>What You’ll Do</strong></p><ul><li>Develop and maintain test infrastructure and supporting libraries and contribute to system, API, and component automated tests</li><li>Integrate automation into the build system</li><li>Assist in automation adoption within engineering organization</li><li>Work with developers on improving the system quality (during design and implementation phases)</li><li>Assist where needed on other development tasks as a member of the Scrum team</li></ul><p><strong>What You’ll Bring</strong></p><ul><li>Strong programming skills in Python (with C/C++ experience also preferred)</li><li>Strong track record of exploring and implementing new technologies and specializing in multiple technical disciplines</li><li>Experience with VMWare, VSphere, and Vagrant</li><li>Experience with Jenkins, including Pipelines and other more advanced features</li><li>Solid understanding of core Quality Engineering principles and best practices</li><li>Solid experience with the software development cycle, including common tools (e.g.&nbsp;&nbsp;Jira,&nbsp;git, SVN, etc.)</li><li>Ability to function well in an Agile development team, with a functional knowledge of Agile Scrum methodology</li><li>Experience with AWS</li></ul><p><strong>Preferred:</strong></p><ul><li>BS in Computer Science or related discipline</li><li>3-5 years’ experience working in a Quality Engineering role, with a strong level of exposure to implementing, improving, and maintaining test infrastructure</li><li>2+ years’ experience writing either production code or extensive automation code for distributed enterprise products in a professional context</li><li>2+ years’ experience working with and configuring Jenkins, Team City or other similar CI tools</li><li>Kernel driver or other deeper programming exposure or experience</li><li>Experience with cyber security</li></ul>                    </div>                            <h2>                About Carbon Black            </h2>            <div><p><strong>Who We Are</strong></p><p>Carbon Black is the leading provider of next-generation endpoint security. Carbon Black’s Next-Generation Antivirus (NGAV) solution, Cb Defense, leverages breakthrough prevention technology, “Streaming Prevention,” to instantly see and stop cyberattacks before they execute. Cb Defense uniquely combines breakthrough prevention with market-leading detection and response into a single, lightweight agent delivered through the cloud. With more than 7 million endpoints under management, Carbon Black has more than 2,500 customers, including 30 of the Fortune 100. These customers use Carbon Black to replace legacy antivirus, lock down critical systems, hunt threats, and protect their endpoints from the most advanced cyberattacks, including non-malware attacks.<br><br><em>Carbon Black, Inc. is an EEO/AA employer.</em>&nbsp;<em>Carbon Black is an inclusive employer that believes in workplace equality, supports diversity, creates a welcoming environment, and respects the unique qualities each individual brings to the company.</em>&nbsp;</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Flexible vacation                            </div>                            <div>                                 Remote/Work-from-home options                            </div>                            <div>                                 Medical/Dental/Vision                            </div>                            <div>                                 Stand-up desks and unique workspaces                            </div>                            <div>                                 Free snacks/drinks, Happy Hours, and regular catering                            </div>                            <div>                                 Care.com access and pet insurance                            </div>                            <div>                                 On-site gym                            </div>                            <div>                                 Career development programs                            </div>                            <div>                                 Lounge/game room                            </div>                            <div>                                 Competitive salaries, 401k, and stock options                            </div>                    ",
+    "sourceName": "weworkremotely.com-programming",
+    "url": "https://weworkremotely.com/jobs/5755-data-analyst",
+    "title": "Stanson Health: Data Analyst",
+    "content": "<div>  <div>    <h2>Data Analyst</h2>      <h4>Posted Nov 14</h4>    <h3>      <span>Stanson Health</span><br>      <span>Headquarters: Los Angeles, CA</span><br>        <a href='https://www.stansonhealth.com/' rel='nofollow'>https://www.stansonhealth.com/</a>    </h3>  </div>    </div>  <div>    <div>This position is <b>full time</b>, <b>fully remote</b>, and for <b>legal US residents only</b>.</div><div><br></div><div><b>We are not interested in recruiters or software consultancies.</b></div><div><br></div><div>Stanson Health is a healthcare technology company in Los Angeles, CA specializing in clinical decision support. We are trying to help healthcare providers deliver better care by giving them timely, relevant guidance. We believe that good decision support can lower costs, improve care, and ultimately save lives.</div><div></div><div><br></div><div>Our Data Science group is searching for a Data Analyst to work on deriving insights from our various data sources and turning them into new product features. This is a unique opportunity for someone who enjoys detailed quantitative analysis and creative collaborations with clinicians and engineers to advance our healthcare intelligence platform.</div><div><br></div><div>We are looking for a candidate who is versed in writing code to gather and analyze large amounts of data and comfortable in communicating the findings in verbal and written form.</div><div><br></div><div><i>Requirements</i></div><ul><li>Strong Python or R skills for collecting, manipulating, analyzing and visualizing data<br></li><li>Knowledge of the Python scientific and data libraries such as Pandas and Jupyter is preferred<br></li><li>Strong statistical knowledge<br></li><li>Experience with SQL databases<br></li><li>Strong analytic skills with special emphasis on experimental design and hypothesis testing<br></li><li>Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner<br></li></ul>  </div>  <div>    <h4>Apply for this position</h4>    <p>send a resume to <a href='mailto:data_science_jobs@stansonhealth.com' rel='nofollow'>data_science_jobs@stansonhealth.com</a></p>  </div>",
     "urlFetchPending": false,
-    "published": "Nov 17, 2017 8:18:19 PM",
+    "published": "Nov 14, 2017 6:51:44 PM",
     "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
-      "REMOTE1_50",
+      "DBG:surround``fulltim 4N (telecommut OR remot)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k_t_w:pandas_python_5",
+      "DBG_TECH1:k_t_w:python_python_4",
+      "DBG_TECH1:techWeightMap:{python=9, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1_100",
       "TECH1_python",
-      "TECH2_agile",
-      "TECH2_automation",
-      "TECH2_jenkins",
-      "TITLE1_dev",
+      "TITLE1_data",
       "TZ_unknown"
     ],
     "tagsNames1": [
-      "50% remote"
+      "100% remote"
     ],
     "tagsNames2": [
-      "agile",
-      "automation",
-      "jenkins",
       "python"
     ]
   },
@@ -233,7 +338,7 @@
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N remot",
       "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_python",
       "TITLE1_dev",
@@ -264,7 +369,7 @@
       "DBG_TECH1:k_t_w:java_java_2",
       "DBG_TECH1:k_t_w:java_mobile_1",
       "DBG_TECH1:k_t_w:python_python_4",
-      "DBG_TECH1:techWeightMap:{python=12, java=2, dotnet=0, c=0, gamedev=0, mobile=1, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=12, dotnet=0, c=0, mobile=1, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_python",
       "TECH2_api",
@@ -287,6 +392,44 @@
     ]
   },
   {
+    "id": "eqkFL_y9TSycnsUy_dD4RQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/155206/data-analyst-m-f-komoot?a=Q3b79PdlaCs",
+    "title": "Data Analyst (m/f) at komoot (Berlin, Germany) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Data Scientist</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Cycling, Information Technology, Mobile Application</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>VC Funded</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>Millions of people experience real-life adventures with our apps. We help users all over the world discover the best hiking and biking routes, and we empower everybody to explore more of the great outdoors. To help us be even better at what we do, we’re looking for a data&nbsp;analyst to help us to drive product decisions and strategy. We believe that data-driven decision making is key to our success and your skills and curiosity will play a crucial role in building the future of outdoor experiences.</p><p><strong>Your key responsibilities</strong></p><ul><li>Turn events and data into actionable insights</li><li>Develop analysis to drive product and business decisions and strategy</li><li>Design and implement metrics, dashboards, and continuous reports</li><li>Communicate and present findings to different audiences</li><li>Working closely with teams throughout the company, solving very diverse data challenges</li><li>Be an evangelist of data-driven decision-making</li></ul><p><strong>Why you will love it</strong></p><ul><li>You’ll be a key player in making product development, marketing and business decisions</li><li>You’ll work with a modern and powerful analytics platform based on AWS Kinesis and Redshift</li><li>You’ll work in a fast-paced startup with strongly motivated and talented co-workers</li><li>You’ll enjoy the freedom to organize yourself the way you want and work with whichever tools you love</li><li>We let you work from wherever you want, be it a beach, the mountains, our headquarters in Potsdam or anywhere else that lies in any time zone between UTC-1 and UTC+3</li><li>Every day, your work will inspire people to discover more of the great outdoors</li><li>You’ll join us for team gatherings in locations like Mallorca or the Bavarian Alps several times a year</li></ul><p><strong>You will be successful in this position if you</strong></p><ul><li>Have a burning desire to transform data into actionable insights</li><li>Have 3+ years of relevant experience interpreting data</li><li>Have proven skills in programming (e.g. in python), SQL and Pandas/R</li><li>Have strong communication skills</li><li>Have fundamental statistical skills</li><li>Are keen to keep in touch with the latest advances in your area</li><li>Have a hands-on attitude and are highly self-driven</li></ul><p><strong>Sounds like you?</strong></p><p><strong>Then send us the following:</strong></p><ul><li>Your CV</li><li>A write-up explaining who you are and why you are interested in working at komoot</li><li>Examples of your work (e.g. GitHub, PDFs, Slideshare, etc.)</li><li>Feel free to send us something that shows us a little more about what you’re interested in, be it your Twitter/Instagram account, or your OpenStreetMap profile if you have one</li><li>You’ll get bonus points for: Doing something creative with komoot (we love it when people go the extra mile)</li></ul>                    </div>                            <h2>                About komoot            </h2>            <div><p><strong>We Love What We Do</strong></p><p>Komoot is the world’s leading outdoor app. We offer modern explorers best-in-class tech so that hikers and bikers have topographic maps, turn-by-turn navigation, recommendations on cool places and more at their fingertips.</p><p><strong>The Freedom To Rock Your Craft</strong></p><p>The world’s leading outdoor app, komoot hires the best folks to do what they love. Have a passion for the great outdoors and an ability to get things done? You might be the superstar we’re searching for.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Work wherever you thrive                            </div>                            <div>                                 28 paid vacation days                            </div>                            <div>                                 Health insurance                            </div>                            <div>                                 Latest computers and devices                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Nov 4, 2017 2:06:33 PM",
+    "tags": [
+      "DBG:surround``work 2W from 2W wherev",
+      "DBG_TECH1:k_t_w:pandas_python_5",
+      "DBG_TECH1:k_t_w:python_python_2",
+      "DBG_TECH1:techWeightMap:{python=7, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1_100",
+      "TECH1_python",
+      "TECH2_numpy",
+      "TECH2_pandas",
+      "TECH2_python",
+      "TECH2_r",
+      "TECH2_sql",
+      "TITLE1_data",
+      "TZ_unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "numpy",
+      "pandas",
+      "python",
+      "r",
+      "sql"
+    ]
+  },
+  {
     "id": "HAA-3kZ6QNqBOXlAFyifFw",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -305,7 +448,7 @@
       "DBG_TECH1:k_t_w:javascript_nodejs_1",
       "DBG_TECH1:k_t_w:python_python_4",
       "DBG_TECH1:k_t_w:scrapy_python_32",
-      "DBG_TECH1:techWeightMap:{python=36, java=0, dotnet=0, c=0, gamedev=0, mobile=1, php=0, nodejs=1, embedded=0, frontend=1, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=36, dotnet=0, c=0, mobile=1, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1_100",
       "TECH1_python",
       "TECH2_python",
@@ -344,7 +487,7 @@
       "DBG_TECH1:k_t_w:javascript_mobile_2",
       "DBG_TECH1:k_t_w:javascript_nodejs_2",
       "DBG_TECH1:k_t_w:python_python_8",
-      "DBG_TECH1:techWeightMap:{python=16, java=0, dotnet=0, c=0, gamedev=0, mobile=2, php=0, nodejs=2, embedded=0, frontend=5, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=16, dotnet=0, c=0, mobile=2, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1_100",
       "TECH1_python",
       "TECH2_devops",
@@ -367,119 +510,6 @@
     ]
   },
   {
-    "id": "wYxntckPSiCSyhAdR-W7xQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/143954/full-stack-web-developer-python-react-sql-level-12?a=MhdvkEqezMA",
-    "title": "Full Stack Web Developer - Python, React, SQL (Mid-Level & Senior/Lead) at Level 12 (Jeffersonville, IN) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior, Lead</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Full Stack Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Agile Software Development, Software Consulting, Software Development / Engineering</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>1-10 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>We are looking for two full stack (Python) web application developers to join the team at Level 12.&nbsp; One position is Mid-Level and the other is for Senior/Engineering Lead.</p><p><strong>TL;DR: Why Consider This Position?</strong></p><ul><li>We give you <strong>a lot of information</strong> in the job description so that you can figure out if you'd really like to work here.</li><li>We have a commitment to transparency and offer a “no surprises experience” throughout the interview and hiring process.</li><li>We practice and preach sound development practices. You are likely to <strong>learn and grow as a developer</strong> while working here.</li><li>Our pay and benefits will be somewhere between good and great, depending on what you are used to and where you live (see below for specifics).</li><li>You will have the option of <strong>working from home or our office</strong>, whatever suits you best. Let’s make the most of our time and minimize commuting when not necessary.</li><li>We have a no-drama office policy. We value and cultivate enjoyable working relationships among team members.</li><li>We emphasize work/life balance and adopt policies that make sure our people don’t get burnt out. For instance, our PTO/Vacation policies are <strong>designed so that you actually use them.</strong></li><li>A commitment to Agile Principles while not being enslaved to any particular methodology.</li><li>You have the skills and experience to be a mid-level or senior level full-stack web application developer. That is, you need to be able to architect &amp; run with a medium sized project mostly on your own.</li><li>You like building full stack web applications with technologies like Python, React, SQL, etc.</li><li>You are <strong>committed to automated testing</strong> of all the software you write (our apps typically have 92%+ test coverage).</li><li>You recognized that there is a lot of idealism in the software development community and are not disenchanted with the the day-to-day realities of programming.</li><li>You like working independently but can contribute to a team as needed</li><li>If you apply, we will give you a yay or nay response. No black holes here!</li></ul><p><strong>Daily Responsibilities</strong></p><p>Daily responsibilities primarily consist of coding database-driven web applications and other web-related development work. In a typical day, you will likely work mostly with Python based web applications using frameworks like Django or Flask that interact heavily with a database (PostgreSQL or MSSQL).&nbsp; In the course of that work, you will have to interact with related technologies like JavaScript, React, HTML, and CSS/SASS.</p><p>This is not a design job. It will require a lot of in-depth programming and database work including the ability to architect maintainable code that gets the job done.</p><p>While we do prefer to do most of our back-end work in Python, we will occasionally take projects in other languages if they seem to be a good fit for us and the customer.</p><p>Some days you will jump from project to project as issues come up. At other times you may work primarily on one project for weeks or months.</p><p>The ability to take ownership for a project, engineer a sound technical solution, and “drive” a project to completion is <strong>essential</strong>.</p><p>Our customers have varied needs and so we tend to have varied responsibilities and projects. We have a focus on serving the customer and making software conform to their company rather than making the company conform to software.</p><p><strong>What We Offer</strong></p><ul><li>Pay: $75K-95K (Mid-Level) and $95-115K (Senior/Lead).<br><ul><li>We are happy to talk about money as one of the first parts of our conversation so we don’t waste each others time if we aren’t in the ballpark.</li><li>Everyone wants to be paid as much as possible, but the economics of business usually require that we meet in the middle.</li><li>Our offer will take into consideration your salary history, experience, references, and a skills assessment.</li></ul></li><li>Profit Sharing: In addition to a salary, our employees will earn a bonus based on how profitable our company is each year (roughly $1-2K annually).</li><li>One of the best things about working for us is that we really value work/family balance.<ul><li>We rarely work more than 40 hours a week.</li><li>We recently gave everyone an extra day off for Valentine’s Day just for extra quality time with their family.</li><li>I know there are devs out there putting in 50-60 hours a week. We can give them 10-20 hours a week of their life back.</li></ul></li><li>PTO/Vacation:<ul><li>Everyone receives 3 weeks of PTO/Vacation per year.</li><li>Up to 12 sick days per year.</li><li>9 Holidays</li></ul></li><li>Healthcare: We provide a stipend to offset the cost of health insurance</li><li>Flexibility: While we expect a regular schedule during normal business hours, we are pretty flexible when schedule changes are needed for legitimate reasons.</li><li>Telecommuting:<ul><li>Remote candidates are welcome to apply.</li><li>Many of us work from home frequently, even those of us who are local.</li><li>If you are local, we do have an office if you prefer to get away from home to focus on work.</li></ul></li><li>We Care: It’s easy to say, harder to do. We all need to make a living, our company needs to be successful in the marketplace, and hard decisions sometimes need to be made. But, at the end of the day, we really care about our employees, their families, their needs, and their desires.</li></ul><p><strong>Full Job Description &amp; Application Instructions<br></strong></p><p>Above are just highlights. The full job description for both positions are on our website and includes salary information, videos, and instructions on applying: <a href='https://level12.io/careers/' rel='nofollow'>https://level12.io/careers/</a></p><p><strong>Skills &amp; Requirements</strong></p><p><strong>Character First</strong></p><p>Level 12 is <a href='https://www.level12.io/about/' rel='nofollow'>founded on biblical principles</a> and has biblically informed goals. Accordingly, the reputation of Level 12 and the character of our employees is of utmost importance. You <strong>do not</strong> need to share our leadership's religious convictions, but you will need to share our commitment to the following principles:</p><ul><li><strong>Integrity</strong>: honest, trustworthy, reliable, ethical. We have high moral standards and we expect our employees to share those standards. If you use pirated software or media, don’t mind “tweaking” the truth, or think `porn == entertainment`, this is not the job for you!</li><li><strong>Good work ethic</strong>: you work hard and like to work hard. You also work efficiently, seeking to make the best use of your time.</li><li><strong>Dedicated</strong>: you really desire to contribute to and improve our company; you are not just earning a paycheck. You demonstrate a high level of “ownership” for and initiative with projects that are assigned to you.</li><li><strong>Teachable</strong>: you have a willingness and desire for feedback/correction. You are always looking to improve. You are willing to ask for help even if it makes you “look bad.”</li><li><strong>Resourceful</strong>: you know how to solve problems or are at least able to explain that the problem is not solvable with the requirements given. You use all resources at your disposal in an efficient manner to troubleshoot. You know when to ask someone for help and when more effort is needed on your part.</li><li><strong>Technical Prowess</strong>: you just “get” programming, computers, technology. The thought of solving a problem in an entirely new programming language, one you have never even heard of before, excites you.</li><li><strong>Technical Diversity</strong>: while we all have our preferences when it comes to programming languages or operating systems, you should be willing to work with anything, in any language, if that’s what it takes to get the job done. If you are easily lead into a “______ rocks, everything else sucks” mentality, this isn’t the job for you.</li><li><strong>Flexible</strong>: we are small, things change. You should be able to “roll with the punches.”</li><li><strong>Professional</strong>: at the end of the day, you like what you do, you take your job seriously, you do it extremely well, and you <strong>pay attention to the details</strong>!</li></ul><p><strong>Senior Developer &amp; Engineering Lead</strong></p><p>The candidate for the Senior Developer/Lead position will usually have 6-10 years relevant experience and meet the following requirements:</p><ol><li>Technical Skills<ul><li>Are able to write modular, well-tested, and maintainable code</li><li>Know a software development domain really well and radiate that knowledge to our team and beyond</li><li>Are able to work on multiple projects as needed</li></ul></li><li>Leadership<ul><li>Leads the design for customer projects with feedback from other engineers</li><li>Proposes new ideas for improving the development team, customer projects, and/or our tech stack</li><li>Adheres to and promotes our <a href='https://level12.io/blog/development-mission-statement/' rel='nofollow'>development culture and mission</a></li><li>Invests in other team members to see that they are growing as individuals and to facilitate productivity within our team.</li></ul></li><li>Code quality<ul><li>Leaves code in substantially better shape than before</li><li>Fixes bugs/regressions quickly</li><li>Monitors overall code quality/build failures</li><li>Creates tests religiously and makes sure the rest of the team is doing the same</li><li>Proactively identifies and reduces technical debt</li><li>Proactively defines and solves important architectural issues</li></ul></li><li>Communication<ul><li>Provides thorough and timely code feedback for peers</li><li>Able to communicate clearly on technical topics</li><li>Keeps issues up-to-date with progress</li><li>Helps guide other merge requests to completion</li><li>Helps with recruiting</li><li>Is able to manage conversations directly with customer contacts when needed.</li></ul></li><li>Performance &amp; Scalability<ul><li>Excellent at writing production-ready code with little assistance</li><li>Able to write complex code that can scale with a significant number of users</li><li>Avoids premature optimization</li></ul></li></ol><p><strong>Mid-Level Developer<br></strong></p><p>Mid-Level Developers usually have 3-6 years relevant experience and meet many but not all of the requirements listed above for the Senior/Lead position.</p><p><strong>Everything Else</strong></p><ul><li>General Requirements<ul><li>You agree with and would be pleased to work under our <a href='https://level12.io/blog/development-mission-statement/' rel='nofollow'>development mission statement and guiding principles</a>.</li><li>You can reason about software, algorithms, and performance from a high level.</li><li>You have worked on a production-level web and database applications using Python.</li><li>You are committed to automated testing in your software development process.</li><li>Strong oral and written communication skills</li><li>Self-motivated and have strong organizational skills</li><li>US citizen or ability to work in the United States without sponsorship</li><li>Bachelor’s Degree in computer science (or similar degree) or ability to demonstrate comparable education &amp; experience</li><li>4+ years developing database-driven web applications in a dynamic programming language</li><li>Would prefer local or within a 1-2 hours drive of Louisville. Will consider long-distance remote for the right candidate and/or if we can’t find local first.</li></ul></li><li>Languages &amp; Tools on a scale of 1 (novice) to 5 (expert)<ul><li>Proficient (4):&nbsp;Have significant experience working with Python in a web context.</li><li>Proficient (4): Database Development (SQL, multiple-joins, views, triggers, stored procedures)</li><li>Competent (3): Common Python libraries: Django, Flask, SQLAlchemy, Celery, Requests, pytest, etc.</li><li>Competent (3): HTML(5), CSS/SASS, web standards</li><li>Competent (3): JavaScript, Ajax, JSON, React, etc.</li><li>Competent (3): Writing unit and functional tests. Believing in a TDD approach is a big plus.</li><li>Competent (3): Version Control (Git, Mercurial)</li><li>Competent (3): Networking fundamentals (HTTP, DNS, TCP/IP, etc.)</li><li>Familiar&nbsp;(2): Linux and related tools</li></ul></li></ul><p><strong>Full Job Description &amp; Application Instructions<br></strong></p><p>Above are just highlights. The full job description for both positions are on our website and includes salary information, videos, and instructions on applying: <a href='https://level12.io/careers/' rel='nofollow'>https://level12.io/careers/</a></p>                    </div>                            <h2>                About Level 12            </h2>            <div><p><strong>Who Are We?</strong></p><p>Level 12 is development firm that specializes in building custom software for our customers.&nbsp; We manage the entire process including planning, managing, and building software exactly as the customer needs it.</p><p>We serve customers in diverse industries including: railroad, automotive, manufacturing, and retail payments.</p><p>We set ourselves apart by digging into the customer’s problem until we can own it and then delivering highly functional software that brings significant value to the customer’s organization.&nbsp; That may not sound unique, but the longer we do this, the more we encounter people who have been burned by bad development experiences with other firms.&nbsp; We look for long-term relationships with our customers and have some that go back over 12 years.</p><p>We may not be changing the world, but we are impacting the lives of our customers and their employees.&nbsp; You don’t have to take our word for it, <a href='https://www.google.com/search?q=Level+12&amp;ludocid=3455085814419693503&amp;#lrd=0x0:0x2ff2ee3e0cfa1fbf,1' rel='nofollow'>checkout some of our reviews by our customers</a>.</p><p>Please <a href='https://level12.io/careers/full-stack-python-web-developer-engineering-lead/' rel='nofollow'>watch the video on our website</a> to learn why milk trucks are better than tanks (and learn more about our development process at the same time) (&lt; 2 mins).</p><p><strong>Emphasis on Development Best Practices</strong></p><p>Behind the scenes, we are using software development best practices to ensure that the code we deliver is flexible, maintainable, and works well for the user for years to come.</p><p>We know what it’s like to work in a substandard development environment or culture that accepts or maybe even promotes practices that kill developer productivity and enjoyment. We work hard at promoting development best practices and ingraining them into our culture. If you come work for us, you can look forward to:</p><ul><li>All projects managed in a DVCS (mostly Git, there might be a few obscure mercurial repos laying around that will eventually get converted)</li><li>Project management mostly on GitHub for pull requests, issue management, code coverage, CI integration, etc.</li><li>Developer friendly project setup: all our projects can be run locally on a developer’s machine.</li><li>Test-centric development methodology:<ul><li>Asking “how can we test this” is ingrained into our engineering and development workflow.</li><li>We have Continuous Integration (CI) running for almost all of our projects for at least the backend code (Python mostly) and some of the projects also run the JavaScript tests in CI.</li></ul></li><li>A focus on <a href='https://level12.io/agile-manifesto-software-development/' rel='nofollow'>Agile Principles</a> while not being enslaved to them.</li><li>A openness to changing our processes and using new technologies when those changes add value to Level 12 and/or our customers.</li></ul><p>If you’d like to learn more about what makes us tick, our Chief Executive Developer (CED) gave a talk on the importance of CI and automation in an agile software development process (<a href='https://level12.io/careers/full-stack-python-web-developer-engineering-lead/' rel='nofollow'>video on our website</a>) and has given <a href='https://github.com/rsyring/presentation-toc' rel='nofollow'>other talks and presentations</a> on various topics.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Commitment to transparency                            </div>                            <div>                                 Work from home option                            </div>                            <div>                                 No drama office policy                            </div>                            <div>                                 Emphasize work-life balance                            </div>                            <div>                                 PTO/Vacation policies are designed so that you use them                            </div>                            <div>                                 Commitment to Agile Principles                            </div>                            <div>                                 Commitment to Automated Testing                            </div>                            <div>                                 Profit sharing                            </div>                            <div>                                 Healthcare stipend                            </div>                            <div>                                 Schedule flexibility                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``remot 3W right",
-      "DBG_TECH1:k_t_w:ajax_frontend_3",
-      "DBG_TECH1:k_t_w:django_python_16",
-      "DBG_TECH1:k_t_w:flask_python_16",
-      "DBG_TECH1:k_t_w:javascript_frontend_3",
-      "DBG_TECH1:k_t_w:javascript_mobile_3",
-      "DBG_TECH1:k_t_w:javascript_nodejs_3",
-      "DBG_TECH1:k_t_w:py.test_python_8",
-      "DBG_TECH1:k_t_w:python_python_16",
-      "DBG_TECH1:k_t_w:reactjs_frontend_32",
-      "DBG_TECH1:k_t_w:sql-server_dotnet_1",
-      "DBG_TECH1:k_t_w:sqlalchemy_python_8",
-      "DBG_TECH1:techWeightMap:{python=64, java=0, dotnet=1, c=0, gamedev=0, mobile=3, php=0, nodejs=3, embedded=0, frontend=38, bigdata-ml=0, ruby=0}",
-      "REMOTE1_50",
-      "TECH1_python",
-      "TECH2_django",
-      "TECH2_flask",
-      "TECH2_python",
-      "TECH2_reactjs",
-      "TECH2_sql",
-      "TITLE1_dev",
-      "TZ_unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "django",
-      "flask",
-      "python",
-      "reactjs",
-      "sql"
-    ]
-  },
-  {
-    "id": "-jguonCcTu-ZJLaIh3wMZQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/159147/small-firm-technology-leader-remote-dorsia-investment-group-llc?a=Rn7GH6BaR8Y",
-    "title": "Small Firm Technology Leader (Remote) at Dorsia Investment Group LLC () (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior, Lead, Manager</span>                                        </div>                                        <div>                                            <span>Industry: </span>                                            <span>Finance</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Company size: </span>                                            <span>1-10 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>Our firm</strong></p><p>We’re a small investment firm in New York, run by two quants. Even though we’ve been trading stocks successfully since 2012, we have never hired anybody to help – we have done all the strategy, trading, and technology ourselves. Our focus is on the investment strategy, but we are good coders and have built a solid infrastructure for a two-man operation.</p><p>Now it’s time to take off, and we’re hiring a small team to expand the business.</p><p><strong>Here’s where you come in—</strong></p><p>We need a top notch tech guru to lead the entire tech of our firm as we expand. Think of it as a CTO type role – you will report directly to the founders. You’d have a wide range of skills (enterprise IT admin, app dev) and be managing everything – from finding the right enterprise solutions as we expand, to extending our Python quantitative backend infrastructure, to managing databases, networks and permissions. Everything technology-related will be under your purview. And at least initially, you will be the only person on our team focused on tech full-time.</p><p>Our culture is casual with a start-up feel. We care deeply about efficiency and robust tech, but not how you choose to manage your schedule. We care about our lifestyles but don’t want to dictate yours. You’ll be working remotely but will have constant access to the founders, who will give you feedback and growth.</p><p><strong>Ideal candidate would have:</strong></p><ul><li>Top notch coding skills. You will need to be able write robust, clean code with a focus on extensibility and performance. We use Python throughout, but as tech lead you might decide e.g. Java/C++ is more suitable for a particular solution.</li><li>Experience with hedge fund technology (managing positions, broker data, market data, etc.) a big plus.</li><li>Experience with databases and managing data.</li><li>Experience with configuring and permissioning enterprise apps for a growing organization.</li><li>Experience with integration of back-end systems with Excel. Currently we use PyXLL, a cool system that integrates a Python backend with Excel.</li><li>Strong communication skills and ability to work remotely and manage your own schedule.</li><li>Creativity and being highly proactive in your solutions, passion about tech and coding, and staying well-informed of cool new solutions for tech problems.</li></ul>                    </div>                                        <h2>Benefits</h2>                            <div>                                 Remote Work                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "DBG:surround``benefit 2N 2N(remot,work)",
-      "DBG_TECH1:k_t_w:python_python_6",
-      "DBG_TECH1:techWeightMap:{python=6, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
-      "REMOTE1_50",
-      "TECH1_python",
-      "TECH2_excel",
-      "TECH2_mysql",
-      "TECH2_python",
-      "TECH2_python-2.7",
-      "TECH2_pyxll",
-      "TITLE1_unknown",
-      "TZ_unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "excel",
-      "mysql",
-      "python",
-      "python-2.7",
-      "pyxll"
-    ]
-  },
-  {
-    "id": "fMhPYH_oTSWUP3EIhaGjSA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/62822",
-    "title": "Small Firm Technology Leader",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong>Our firm</strong></p><br><p>We’re a small investment firm in New York, run by two quants. Even though we’ve been trading stocks successfully since 2012, we have never hired anybody to help – we have done all the strategy, trading, and technology ourselves. Our focus is on the investment strategy, but we are good coders and have built a solid infrastructure for a two-man operation.</p><br><p>Now it’s time to take off, and we’re hiring a small team to expand the business.</p><br><p><strong>Here’s where you come in—</strong></p><br><p><span>We need a top notch tech guru to handle the entire tech infrastructure of our firm as we expand. Think of it as a one-man CTO type role – you will report directly to the founders. You’d have a wide range of skills (enterprise IT admin, app dev) and be managing everything infrastructure-related from top to bottom – from finding the right enterprise solutions as we expand, to extending our Python quantitative backend, to managing databases, networks and permissions. </span><strong>At least initially, you will be the only person on our team focused on tech full-time (i.e. not a managerial role).</strong></p><br><p><span>Our culture is casual with a start-up feel. We care deeply about efficiency and robust tech, but not how you choose to manage your schedule. We care about our lifestyles but don’t want to dictate yours. You’ll be working remotely but will have constant access to the founders, who will give you feedback and growth.</span></p><br><p><strong>Some examples of projects you might do:</strong></p><br><ul><br><li><span>Manage permissions and active directory, set up a VPN or figure out a virtual desktop solution if required.</span></li><br><li><span>Create a desktop/web app with&nbsp;integrated views on the firm’s P&amp;L and risk.</span></li><br><li><span>Maintain database of tick data received from third-party vendors and write high-performance accessor functions in Python.</span></li><br><li><span>Integrate an on-demand market data service, e.g. Factset, into our Python environment with high-performance queries or batching API calls with intelligent caching.</span></li><br><li><span>Create a lightweight alert system for Windows to warn us of upcoming earnings and other time-critical events.</span></li><br><li><span>Create a system that integrates real-time positions from our brokers into Python and Excel.</span></li><br><li><span>Create automated trade reports to send to a middle-office team.</span></li><br></ul><br><p><strong>Ideal candidate would have:</strong></p><br><ul><br><li><span>Top notch coding skills. You will need to be able write robust, clean code with a focus on extensibility and performance. We use Python throughout, but as tech lead you might decide e.g. Java/C++ is more suitable for a particular solution for performance.</span></li><br><li><span>Experience with hedge fund infrastructure (position tracking, broker data, market data, etc.) a big plus. </span><strong>Experience developing trading strategies not required</strong><span>.</span></li><br><li><span>Experience with managing databases and writing highly efficient queries..</span></li><br><li><span>Experience with configuring and permissioning enterprise IT for a growing organization.</span></li><br><li><span>Experience with integration of back-end infrastructure with Excel is a plus. Currently we use PyXLL, a cool system that integrates a Python backend with Excel.</span></li><br><li><span>Strong communication skills and ability to work remotely and manage your own schedule.</span></li><br><li><span>Creativity and being highly proactive in your solutions, passionate about tech and coding, and staying well-informed of cool new solutions for tech problems.</span></li><br></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Oct 31, 2017 7:56:55 PM",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "DBG_TECH1:k_t_w:python_python_10",
-      "DBG_TECH1:techWeightMap:{python=10, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
-      "REMOTE1_50",
-      "TECH1_python",
-      "TITLE1_unknown",
-      "TZ_unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "python"
-    ]
-  },
-  {
     "id": "pDJTL3lzRrWfmDhPMhk9pw",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -494,7 +524,7 @@
     "tags": [
       "DBG:surround``remot 3N OR(role, employment)",
       "DBG_TECH1:k_t_w:python_python_6",
-      "DBG_TECH1:techWeightMap:{python=6, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=6, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_python",
       "TITLE1_dev",
@@ -502,6 +532,40 @@
     ],
     "tagsNames1": [
       "100% remote"
+    ],
+    "tagsNames2": [
+      "python"
+    ]
+  },
+  {
+    "id": "6qT_t5W3QH-Q_BBAp1trrA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "workinstartups-programmers",
+    "url": "http://workinstartups.com/job-board/job/62973/full-stack-developer-at-tailwise/",
+    "title": "Full Stack Developer",
+    "content": "Tailwise is an early stage startup with a big mission. We’re looking for a talented, dog loving, full-stack developer to join us on our journey to make Tailwise a dog’s best friend.<br /><br />*WHO WE ARE*<br /><br />We have an ambitious goal to revolutionise the way people buy and manage their dogs. We believe that all dogs deserve long, healthy lives in loving homes and we are working hard to make it a reality.<br />We are building a state of the art platform for dog buyers to find and buy their perfect pet. We support dog owners as they go about raising their new dog and give registered dog breeders and rescues an easy way to verify and manage their customers. We’re also working hard to put an end to inhumane and unethical puppy farming.<br />We're excited about building a diverse, unique and talented team of fellow dog lovers and would love you to join the team!<br />Tailwise is a young tech startup looking to grow quickly, if you love dogs this is a huge opportunity to get in on the ground floor, joining two founders who have both come from successful venture-backed startups and are experts in their respective fields.<br /><br />*ABOUT THE ROLE*<br /><br />As our first engineer, you will play a key role in the definition of our product and have ownership over the tech and development functions of the business.<br />You will initially be the sole developer, however, we expect to quickly work with you to add other talented engineers to the team.  As a tech company, we firmly believe that our product development team will be the core of our business and want to build the best, most diverse tech team in London.<br /><br />*KEY SKILLS*<br />* 4 or more years experience as a full stack developer<br />* Knowledge of a range of programming languages and frameworks, ideally Django/Python, Java, Javascript or React.<br />* Solid understanding of cloud hosting, AWS, deployment tools and other common technical infrastructure<br />* Previous work in an agile / scrum environment<br />* Be eager to work closely with founders and other team members to help define an early stage product<br />* A keen eye for testing, performance and tidy code<br /><br />*WHAT WE CAN OFFER*<br /><br />* Opportunity to become a key player at a unique, value-driven startup<br />* Ability to work from home<br />* Share options in the company<br />* A great holiday policy<br />* A future dog-friendly office<br />* Salary dependent on experience",
+    "urlFetchPending": false,
+    "published": "Oct 30, 2017 7:40:16 PM",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
+      "DBG_TECH1:k_t_w:django_python_8",
+      "DBG_TECH1:k_t_w:java_java_2",
+      "DBG_TECH1:k_t_w:java_mobile_1",
+      "DBG_TECH1:k_t_w:javascript_frontend_1",
+      "DBG_TECH1:k_t_w:javascript_mobile_1",
+      "DBG_TECH1:k_t_w:javascript_nodejs_1",
+      "DBG_TECH1:k_t_w:python_python_2",
+      "DBG_TECH1:techWeightMap:{python=10, dotnet=0, c=0, mobile=2, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1_50",
+      "TECH1_python",
+      "TITLE1_dev",
+      "TZ_unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
     ],
     "tagsNames2": [
       "python"
@@ -528,7 +592,7 @@
       "DBG_TECH1:k_t_w:javascript_mobile_2",
       "DBG_TECH1:k_t_w:javascript_nodejs_2",
       "DBG_TECH1:k_t_w:python_python_12",
-      "DBG_TECH1:techWeightMap:{python=20, java=0, dotnet=0, c=0, gamedev=0, mobile=2, php=0, nodejs=2, embedded=0, frontend=5, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=20, dotnet=0, c=0, mobile=2, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1_100",
       "TECH1_python",
       "TITLE1_dev",
@@ -560,14 +624,15 @@
       "DBG:surround``fulltim 4N remot",
       "DBG_TECH1:k_t_w:django_python_8",
       "DBG_TECH1:k_t_w:keras_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_8",
+      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_9",
       "DBG_TECH1:k_t_w:numpy_python_5",
       "DBG_TECH1:k_t_w:python_python_8",
       "DBG_TECH1:k_t_w:scikit-learn_bigdata-ml_8",
       "DBG_TECH1:k_t_w:scikit-learn_python_5",
       "DBG_TECH1:k_t_w:scipy_python_5",
-      "DBG_TECH1:techWeightMap:{python=31, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=24, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=31, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=25, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_50",
+      "TECH1_bigdata-ml",
       "TECH1_python",
       "TITLE1_dev",
       "TZ_Europe"
@@ -577,6 +642,7 @@
       "European time zones"
     ],
     "tagsNames2": [
+      "bigdata-ml",
       "python"
     ]
   },
@@ -599,7 +665,7 @@
       "DBG_TECH1:k_t_w:javascript_mobile_1",
       "DBG_TECH1:k_t_w:javascript_nodejs_1",
       "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, java=0, dotnet=0, c=0, gamedev=0, mobile=1, php=0, nodejs=1, embedded=0, frontend=1, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=1, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1_100",
       "TECH1_python",
       "TITLE1_dev",
@@ -630,7 +696,7 @@
       "DBG_TECH1:k_t_w:javascript_mobile_1",
       "DBG_TECH1:k_t_w:javascript_nodejs_1",
       "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, java=0, dotnet=0, c=0, gamedev=0, mobile=1, php=0, nodejs=1, embedded=0, frontend=1, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=1, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1_50",
       "TECH1_python",
       "TITLE1_dev",

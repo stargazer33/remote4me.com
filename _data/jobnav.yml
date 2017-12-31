@@ -77,6 +77,12 @@
       url: gamedev
       datafile: TECH1_gamedev
 
+    - title: Apple-related jobs
+      tagline: "MacOS, Xcode, Cocoa Touch and other Apple-related jobs"
+      undertagline: "Everything related to Apple, not specifically mobile"
+      url: apple
+      datafile: TECH1_apple
+
     - title: Other technologies
       tagline: Includes perl, bash, go, lisp, erlang, haskell, ocaml, scheme, clojure, F#
       undertagline:

@@ -16,7 +16,7 @@
       "DBG_TECH1:k_t_w:drupal_php_5",
       "DBG_TECH1:k_t_w:less_frontend_5",
       "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=10, nodejs=0, embedded=0, frontend=5, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=5}",
       "REMOTE1_50",
       "TECH1_php",
       "TITLE1_sales",
@@ -45,7 +45,7 @@
       "DBG_TECH1:k_t_w:drupal_php_5",
       "DBG_TECH1:k_t_w:less_frontend_5",
       "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=10, nodejs=0, embedded=0, frontend=5, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=5}",
       "REMOTE1_50",
       "TECH1_php",
       "TITLE1_sales",
@@ -71,8 +71,8 @@
     "urlFetchPending": false,
     "published": "Dec 9, 2017 5:40:35 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_16",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=16, ruby=0}",
+      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_6",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=6, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_50",
       "TECH1_bigdata-ml",
       "TITLE1_sales",
@@ -101,7 +101,7 @@
     "tags": [
       "DBG_TECH1:k_t_w:less_frontend_5",
       "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=5, nodejs=0, embedded=0, frontend=5, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=5}",
       "REMOTE1_50",
       "TECH1_frontend",
       "TECH1_php",
@@ -131,7 +131,7 @@
     "tags": [
       "DBG_TECH1:k_t_w:less_frontend_5",
       "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=5, nodejs=0, embedded=0, frontend=5, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=5}",
       "REMOTE1_50",
       "TECH1_frontend",
       "TECH1_php",
@@ -185,7 +185,7 @@
     "published": "Dec 2, 2017 4:39:05 PM",
     "tags": [
       "DBG_TECH1:k_t_w:reactjs_frontend_8",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=8, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
       "REMOTE1_100",
       "TECH1_frontend",
       "TITLE1_sales",
@@ -237,9 +237,9 @@
     "published": "Nov 24, 2017 6:33:06 PM",
     "tags": [
       "DBG_TECH1:k_t_w:css_frontend_3",
-      "DBG_TECH1:k_t_w:php_php_3",
+      "DBG_TECH1:k_t_w:php_php_5",
       "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=8, nodejs=0, embedded=0, frontend=3, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=3}",
       "REMOTE1_100",
       "TECH1_php",
       "TITLE1_sales",
@@ -270,7 +270,7 @@
       "DBG_TECH1:k_t_w:.net_dotnet_8",
       "DBG_TECH1:k_t_w:java_java_2",
       "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:techWeightMap:{python=0, java=2, dotnet=8, c=0, gamedev=0, mobile=1, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=8, c=0, mobile=1, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_dotnet",
       "TECH2_continuous-delivery",
@@ -305,12 +305,13 @@
     "tags": [
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:php_php_3",
+      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_6",
+      "DBG_TECH1:k_t_w:php_php_5",
       "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=3, nodejs=0, embedded=0, frontend=0, bigdata-ml=8, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=6, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_bigdata-ml",
+      "TECH1_php",
       "TITLE1_sales",
       "TZ_America"
     ],
@@ -319,7 +320,8 @@
       "American time zones"
     ],
     "tagsNames2": [
-      "bigdata-ml"
+      "bigdata-ml",
+      "php"
     ]
   },
   {
@@ -367,11 +369,10 @@
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N remot",
       "DBG:surround``headquart 3N remot",
-      "DBG_TECH1:k_t_w:collections_java_8",
       "DBG_TECH1:k_t_w:css_frontend_6",
-      "DBG_TECH1:techWeightMap:{python=0, java=8, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=6, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
       "REMOTE1_100",
-      "TECH1_java",
+      "TECH1_frontend",
       "TITLE1_sales",
       "TZ_unknown"
     ],
@@ -379,7 +380,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "java"
+      "frontend"
     ]
   },
   {
@@ -398,11 +399,10 @@
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N remot",
       "DBG:surround``work 2W from 2W wherev",
-      "DBG_TECH1:k_t_w:collections_java_8",
       "DBG_TECH1:k_t_w:css_frontend_6",
-      "DBG_TECH1:techWeightMap:{python=0, java=8, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=6, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
       "REMOTE1_100",
-      "TECH1_java",
+      "TECH1_frontend",
       "TITLE1_sales",
       "TZ_unknown"
     ],
@@ -410,7 +410,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "java"
+      "frontend"
     ]
   },
   {
@@ -458,7 +458,7 @@
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG_TECH1:k_t_w:less_frontend_5",
       "DBG_TECH1:k_t_w:wordpress_php_25",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=25, nodejs=0, embedded=0, frontend=5, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=25, embedded=0, frontend=5}",
       "REMOTE1_100",
       "TECH1_php",
       "TITLE1_sales",
@@ -488,10 +488,10 @@
       "DBG_TECH1:k_t_w:java_java_2",
       "DBG_TECH1:k_t_w:java_mobile_1",
       "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:php_php_3",
+      "DBG_TECH1:k_t_w:php_php_5",
       "DBG_TECH1:k_t_w:python_python_2",
       "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, java=2, dotnet=0, c=0, gamedev=0, mobile=1, php=3, nodejs=13, embedded=0, frontend=0, bigdata-ml=0, ruby=2}",
+      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=1, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_nodejs",
       "TITLE1_sales",
@@ -573,10 +573,10 @@
       "DBG_TECH1:k_t_w:java_java_2",
       "DBG_TECH1:k_t_w:java_mobile_1",
       "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:php_php_3",
+      "DBG_TECH1:k_t_w:php_php_5",
       "DBG_TECH1:k_t_w:python_python_2",
       "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, java=2, dotnet=0, c=0, gamedev=0, mobile=1, php=3, nodejs=13, embedded=0, frontend=0, bigdata-ml=0, ruby=2}",
+      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=1, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_nodejs",
       "TITLE1_sales",
@@ -607,7 +607,7 @@
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N remot",
       "DBG_TECH1:k_t_w:wordpress_php_15",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=15, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_php",
       "TITLE1_sales",
@@ -673,11 +673,11 @@
       "DBG_TECH1:k_t_w:java_mobile_1",
       "DBG_TECH1:k_t_w:magento_php_8",
       "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:php_php_3",
+      "DBG_TECH1:k_t_w:php_php_5",
       "DBG_TECH1:k_t_w:python_python_6",
       "DBG_TECH1:k_t_w:ruby_ruby_2",
       "DBG_TECH1:k_t_w:symfony_php_8",
-      "DBG_TECH1:techWeightMap:{python=14, java=2, dotnet=8, c=0, gamedev=0, mobile=1, php=24, nodejs=13, embedded=0, frontend=0, bigdata-ml=0, ruby=2}",
+      "DBG_TECH1:techWeightMap:{python=14, dotnet=8, c=0, mobile=1, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=26, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_php",
       "TECH2_amazon-web-services",
@@ -742,7 +742,7 @@
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG_TECH1:k_t_w:less_frontend_5",
       "DBG_TECH1:k_t_w:wordpress_php_25",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=25, nodejs=0, embedded=0, frontend=5, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=25, embedded=0, frontend=5}",
       "REMOTE1_100",
       "TECH1_php",
       "TITLE1_sales",
@@ -798,8 +798,8 @@
       "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_16",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=0, mobile=0, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=16, ruby=0}",
+      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_6",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=6, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1_50",
       "TECH1_bigdata-ml",
       "TITLE1_sales",
@@ -861,7 +861,7 @@
       "DBG_TECH1:k_t_w:javascript_mobile_1",
       "DBG_TECH1:k_t_w:javascript_nodejs_1",
       "DBG_TECH1:k_t_w:jquery_frontend_8",
-      "DBG_TECH1:techWeightMap:{python=0, java=4, dotnet=0, c=0, gamedev=0, mobile=3, php=0, nodejs=1, embedded=0, frontend=17, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=17}",
       "REMOTE1_100",
       "TECH1_frontend",
       "TITLE1_sales",
@@ -894,7 +894,7 @@
       "DBG_TECH1:k_t_w:javascript_mobile_1",
       "DBG_TECH1:k_t_w:javascript_nodejs_1",
       "DBG_TECH1:k_t_w:jquery_frontend_8",
-      "DBG_TECH1:techWeightMap:{python=0, java=4, dotnet=0, c=0, gamedev=0, mobile=3, php=0, nodejs=1, embedded=0, frontend=17, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=17}",
       "REMOTE1_100",
       "TECH1_frontend",
       "TITLE1_sales",
@@ -926,7 +926,7 @@
       "DBG_TECH1:k_t_w:javascript_mobile_1",
       "DBG_TECH1:k_t_w:javascript_nodejs_1",
       "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, java=0, dotnet=0, c=0, gamedev=0, mobile=1, php=0, nodejs=1, embedded=0, frontend=1, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=1, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1_100",
       "TECH1_python",
       "TITLE1_sales",
@@ -957,7 +957,7 @@
       "DBG_TECH1:k_t_w:javascript_mobile_1",
       "DBG_TECH1:k_t_w:javascript_nodejs_1",
       "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, java=0, dotnet=0, c=0, gamedev=0, mobile=1, php=0, nodejs=1, embedded=0, frontend=1, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=1, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1_50",
       "TECH1_python",
       "TITLE1_sales",
