@@ -13,7 +13,9 @@
     "urlFetchPending": false,
     "published": "Dec 7, 2017 10:23:46 PM",
     "tags": [
+      "DBG_TECH1:k_t_w:android_java_1",
       "DBG_TECH1:k_t_w:android_mobile_2",
+      "DBG_TECH1:k_t_w:ios_apple_1",
       "DBG_TECH1:k_t_w:ios_mobile_2",
       "DBG_TECH1:k_t_w:javascript_frontend_1",
       "DBG_TECH1:k_t_w:javascript_mobile_1",
@@ -23,7 +25,7 @@
       "DBG_TECH1:k_t_w:ruby_ruby_2",
       "DBG_TECH1:k_t_w:unity3d_gamedev_16",
       "DBG_TECH1:k_t_w:unity3d_mobile_10",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=16, mobile=15, php=0, nodejs=1, embedded=0, frontend=6, bigdata-ml=0, ruby=18}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=15, nodejs=1, bigdata-ml=0, ruby=18, apple=1, java=1, gamedev=16, php=0, embedded=0, frontend=6}",
       "REMOTE1_50",
       "TECH1_gamedev",
       "TECH1_ruby",
@@ -56,7 +58,7 @@
       "DBG:surround``fulltim 4N remot",
       "DBG_TECH1:k_t_w:unity3d_gamedev_48",
       "DBG_TECH1:k_t_w:unity3d_mobile_30",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=48, mobile=30, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=0, ruby=0}",
+      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=30, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=48, php=0, embedded=0, frontend=0}",
       "REMOTE1_100",
       "TECH1_gamedev",
       "TITLE1_dev",
@@ -67,85 +69,6 @@
     ],
     "tagsNames2": [
       "gamedev"
-    ]
-  },
-  {
-    "id": "V6hPD2wcQlyEi7fZv2f9Bw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/62652",
-    "title": "Backend Engineer",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong>***&nbsp;We offer flexible and full remote work over Europe.</strong></p><br><p><strong>We are not ready yet to work with people outside EU but will keep you posted on that ;) ***<br></strong></p><br><p>Hands in hands with the Product, Design, Infrastructure and Mobile team, the Backend team has its great deal of challenges to tackle: scaling our ever growing backend business, pushing data science logics in production, shipping game changer features for our passengers and drivers with the sole goal of creating the most respectful and playful experience for them, across many launched cities, and many to come.</p><br><p><br>We expect the marketplace we are building to scale so it can support our European expansion ambitions. Fortunately, we can rely on our solid micro-services architecture (Golang, Elixir, Docker…) and our talented team to make it better.</p><br><p>Welcome behind the scenes !</p><br><p><br></p><p><strong>OUR ENGINEERING VALUES</strong></p><br><ul><br><li><strong>Move smart</strong>: we are data driven, and employ tools and best practices to ship code quickly and safely (continuous integration, code review, automated testing, etc).</li><br><li><strong>Distribute knowledge</strong>: we want to scale our engineering team to a point where our contributions do not stop at the company code base. We believe in the Open Source culture and communication with the outside world.</li><br><li><strong>Leave code better than you found it</strong>: because we constantly raise the bar.</li><br><li><strong>Unity makes strength</strong>: moving people from A to B is not as easy as it sounds but, we always keep calm and support each other.</li><br><li><strong>Always improve</strong>: we value personal progress and want you to look back proudly on what you’ve done.</li><br></ul><br><br><p><strong>WHAT YOU’LL DO</strong></p><br><ul><br><li>Implement smart models to predict future supply and demand</li><br><li>Aggregate and play with data coming from various sources</li><br><li>Work on new features in microservices environment and contribute to the improvement and optimization of our architecture</li><br><li>Optimize our operational platform to make our support even more awesome.</li><br></ul><br><p>&nbsp;Things we’d like to experiment with:</p><br><ul><br><li>Event sourcing</li><br><li>Kafka…</li><br></ul><br><p>If your are more an infractructure person wanting to deliver happiness to our backend team by building tools and frameworks please check out our&nbsp;Infrastructure Engineer&nbsp;job offer.</p><br><br><br><br><p><strong>REQUIREMENTS</strong></p><br><ul><br><li>5+ years as a software engineer, mainly focused on backend.</li><br><li>You are a product oriented developer, you own, design and implement features from A to Z, you help monitor and maintain them after they are shipped with focus on the end.</li><br><li>You have analytical and diagnostic skills, a proactive problem solving mindset.</li><br><li>You’ve worked with Ruby-on-Rails or Go in production environments, experience in Elixir would be great…</li><br><li>… but more than mastering 1 single language, you’re curious and a fast learner, you showed your ability to switch to another technology just to get out of your comfort zone.</li><br><li>Experience working with high volumes, databases, relational (PostgreSQL) or NoSQL.</li><br><li>Exposure to architectural patterns of a large, high-scale web application and microservices.</li><br><li>Good testing skills.</li><br><li>Sharing is caring, you are generous in your communication and knowledge sharing with your team.</li><br></ul><br><p><strong>BONUS POINTS</strong></p><br><ul><br><li>Contributions to open source projects</li><br><li>Experience with message brokers (such as Kafka, RabbitMQ)</li><br><li>Exposure to real-time technology problems</li><br><li>Experience with ETL and Hadoop</li><br><li>Experience with Docker and/or Mesos Marathon (or similar)</li><br></ul><br><br><p><strong>PERKS</strong></p><br><ul><br><li>Permanent contract (CDI)&nbsp;</li><br><li>Stock</li><br><li>Paid conference attendance/travel and periodic team meetups</li><br><li>Heetch credits</li><br><li>A Spotify subscription</li><br><li>Work from anywhere you want</li><br></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Nov 6, 2017 12:10:19 AM",
-    "tags": [
-      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "DBG_TECH1:k_t_w:hadoop_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:ruby-on-rails_ruby_8",
-      "DBG_TECH1:k_t_w:unity3d_gamedev_8",
-      "DBG_TECH1:k_t_w:unity3d_mobile_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=8, mobile=5, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=8, ruby=8}",
-      "REMOTE1_100",
-      "TECH1_bigdata-ml",
-      "TECH1_gamedev",
-      "TITLE1_dev",
-      "TZ_unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "gamedev"
-    ]
-  },
-  {
-    "id": "aS7tdijcRVS0uw6Br2xKSA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/156878/backend-engineer-golang-elixir-heetch?a=QBWAtjecyWc",
-    "title": "Backend Engineer (Golang / Elixir) at Heetch (Paris, France) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Carsharing, Marketplace, Transportation</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>***&nbsp;We offer flexible and full remote work over Europe.</strong></p><p><strong>We are not ready yet to work with people outside EU but will keep you posted on that ;) ***<br></strong></p><p>Hands in hands with the Product, Design, Infrastructure and Mobile team, the Backend team has its great deal of challenges to tackle: scaling our ever growing backend business, pushing data science logics in production, shipping game changer features for our passengers and drivers with the sole goal of creating the most respectful and playful experience for them, across many launched cities, and many to come.</p><p><br>We expect the marketplace we are building to scale so it can support our European expansion ambitions. Fortunately, we can rely on our solid micro-services architecture (Golang, Elixir, Docker…) and our talented team to make it better.</p><p>Welcome behind the scenes !</p><p></p><p><strong>OUR ENGINEERING VALUES</strong></p><ul><li><strong>Move smart</strong>: we are data driven, and employ tools and best practices to ship code quickly and safely (continuous integration, code review, automated testing, etc).</li><li><strong>Distribute knowledge</strong>: we want to scale our engineering team to a point where our contributions do not stop at the company code base. We believe in the Open Source culture and communication with the outside world.</li><li><strong>Leave code better than you found it</strong>: because we constantly raise the bar.</li><li><strong>Unity makes strength</strong>: moving people from A to B is not as easy as it sounds but, we always keep calm and support each other.</li><li><strong>Always improve</strong>: we value personal progress and want you to look back proudly on what you’ve done.</li></ul><p><strong>WHAT YOU’LL DO</strong></p><ul><li>Implement smart models to predict future supply and demand</li><li>Aggregate and play with data coming from various sources</li><li>Work on new features in microservices environment and contribute to the improvement and optimization of our architecture</li><li>Optimize our operational platform to make our support even more awesome.</li></ul><p>&nbsp;Things we’d like to experiment with:</p><ul><li>Event sourcing</li><li>Kafka…</li></ul><p>If your are more an infractructure person wanting to deliver happiness to our backend team by building tools and frameworks please check out our&nbsp;Infrastructure Engineer&nbsp;job offer.</p><p><strong>REQUIREMENTS</strong></p><ul><li>5+ years as a software engineer, mainly focused on backend.</li><li>You are a product oriented developer, you own, design and implement features from A to Z, you help monitor and maintain them after they are shipped with focus on the end.</li><li>You have analytical and diagnostic skills, a proactive problem solving mindset.</li><li>You’ve worked with Ruby-on-Rails or Go in production environments, experience in Elixir would be great…</li><li>… but more than mastering 1 single language, you’re curious and a fast learner, you showed your ability to switch to another technology just to get out of your comfort zone.</li><li>Experience working with high volumes, databases, relational (PostgreSQL) or NoSQL.</li><li>Exposure to architectural patterns of a large, high-scale web application and microservices.</li><li>Good testing skills.</li><li>Sharing is caring, you are generous in your communication and knowledge sharing with your team.</li></ul><p><strong>BONUS POINTS</strong></p><ul><li>Contributions to open source projects</li><li>Experience with message brokers (such as Kafka, RabbitMQ)</li><li>Exposure to real-time technology problems</li><li>Experience with ETL and Hadoop</li><li>Experience with Docker and/or Mesos Marathon (or similar)</li></ul><p><strong>PERKS</strong></p><ul><li>Permanent contract (CDI)&nbsp;</li><li>Stock</li><li>Paid conference attendance/travel and periodic team meetups</li><li>Heetch credits</li><li>A Spotify subscription</li><li>Work from anywhere you want</li></ul>                    </div>                                        <h2>Benefits</h2>                            <div>                                 Full remote (in Europe only) and flexible ways of working                            </div>                            <div>                                 Paid conferences attendance/travel                            </div>                            <div>                                 Periodic team meetups                            </div>                            <div>                                 Stocks                            </div>                            <div>                                 Heetch credits                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
-      "DBG:surround``remot 3W onli",
-      "DBG_TECH1:k_t_w:hadoop_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:ruby-on-rails_ruby_8",
-      "DBG_TECH1:k_t_w:unity3d_gamedev_8",
-      "DBG_TECH1:k_t_w:unity3d_mobile_5",
-      "DBG_TECH1:techWeightMap:{python=0, java=0, dotnet=0, c=0, gamedev=8, mobile=5, php=0, nodejs=0, embedded=0, frontend=0, bigdata-ml=8, ruby=8}",
-      "REMOTE1_100",
-      "TECH1_bigdata-ml",
-      "TECH1_gamedev",
-      "TECH2_docker",
-      "TECH2_elixir",
-      "TECH2_go",
-      "TECH2_postgresql",
-      "TECH2_ruby-on-rails",
-      "TITLE1_dev",
-      "TZ_Europe"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "docker",
-      "elixir",
-      "gamedev",
-      "go",
-      "postgresql",
-      "ruby-on-rails"
     ]
   }
 ]
