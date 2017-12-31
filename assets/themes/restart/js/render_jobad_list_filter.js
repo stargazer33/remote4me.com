@@ -7,7 +7,7 @@ var checkEUauth = false;
 var checkUStz = false;
 var checkEUtz = false;
 var checkASIAtz = false;
-var regexpTzUS = new RegExp('^(TZ_America)', 'g');
+var regexpTzUS = new RegExp('^(TZ/America)', 'g');
 
 var json_data = [];
 var isDataLoaded = false;
@@ -162,13 +162,12 @@ var grepFunc = function (item) {
         return arr.some( function(element){return val === element;} );
     }
     /**
-     * Функция проверки наличия определеного значениясоответсвующего регулярному выражению среди обьектов массива;
-     * @param {array} array; массив для проверки;
-     * @param {regexp obj} val; значение для проверки, обьект типа regexp;
-     * @return {boolean} возвращает true если массив содержит проверяемое значение;
+     * @param "arr" array to check
+     * @param "regexp" a regexp to search in the array
+     * @return {boolean} true in case the regexp found a match in arr; false if no match
      */
-    function checkAvailabilityRegexp(arr, val) {
-        return arr.some( function(rx){ return val.test(rx);} );
+    function checkAvailabilityRegexp(arr, regexp) {
+        return arr.some( function(rx){ return regexp.test(rx);} );
     }
 
     function checkbox1TzUS(array) {
@@ -186,7 +185,7 @@ var grepFunc = function (item) {
             return true;
         }
         if (checkEUtz) {
-            return checkAvailability(array, 'TZ_Europe');
+            return checkAvailability(array, 'TZ/Europe');
         }
         return false;
     }
@@ -196,21 +195,21 @@ var grepFunc = function (item) {
             return true;
         }
         if (checkASIAtz) {
-            return checkAvailability(array, 'TZ_Asia');
+            return checkAvailability(array, 'TZ/Asia');
         }
         return false;
     }
 
     function checkbox2WorkauthUS(array) {
         if (checkUSauth) {
-            return !(checkAvailability(array, 'WORKAUTH_US'));
+            return !(checkAvailability(array, 'WORKAUTH/US'));
         }
         return true;
     }
 
     function checkbox2WorkauthEU(array) {
         if (checkEUauth) {
-            return !(checkAvailability(array, 'WORKAUTH_EU'));
+            return !(checkAvailability(array, 'WORKAUTH/EU'));
         }
         return true;
     }
@@ -219,7 +218,7 @@ var grepFunc = function (item) {
         if (check50remote) {
             return true;
         }
-        return !(checkAvailability(array, 'REMOTE1_50'));
+        return !(checkAvailability(array, 'REMOTE1/50'));
     }
 
     return checkbox3Remoteness(item.tags)

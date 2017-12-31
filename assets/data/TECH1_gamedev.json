@@ -13,24 +13,26 @@
     "urlFetchPending": false,
     "published": "Dec 7, 2017 10:23:46 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:android_java_1",
-      "DBG_TECH1:k_t_w:android_mobile_2",
-      "DBG_TECH1:k_t_w:ios_apple_1",
-      "DBG_TECH1:k_t_w:ios_mobile_2",
-      "DBG_TECH1:k_t_w:javascript_frontend_1",
-      "DBG_TECH1:k_t_w:javascript_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_nodejs_1",
-      "DBG_TECH1:k_t_w:less_frontend_5",
-      "DBG_TECH1:k_t_w:ruby-on-rails_ruby_16",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:k_t_w:unity3d_gamedev_16",
-      "DBG_TECH1:k_t_w:unity3d_mobile_10",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=15, nodejs=1, bigdata-ml=0, ruby=18, apple=1, java=1, gamedev=16, php=0, embedded=0, frontend=6}",
-      "REMOTE1_50",
-      "TECH1_gamedev",
-      "TECH1_ruby",
-      "TITLE1_dev",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:iphone/apple/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:unity3d/gamedev/16",
+      "DBG_TECH1:k/t/w:unity3d/mobile/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=14, go=0, nodejs=1, bigdata-ml=0, ruby=18, apple=4, java=1, gamedev=16, php=0, embedded=0, frontend=14}",
+      "REMOTE1/50",
+      "TECH1/gamedev",
+      "TECH1/mobile",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "50% remote",
@@ -38,6 +40,7 @@
     ],
     "tagsNames2": [
       "gamedev",
+      "mobile",
       "ruby"
     ]
   },
@@ -56,13 +59,80 @@
     "tags": [
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k_t_w:unity3d_gamedev_48",
-      "DBG_TECH1:k_t_w:unity3d_mobile_30",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=30, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=48, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_gamedev",
-      "TITLE1_dev",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:unity3d/gamedev/48",
+      "DBG_TECH1:k/t/w:unity3d/mobile/30",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=30, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=48, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/gamedev",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "gamedev"
+    ]
+  },
+  {
+    "id": "V6hPD2wcQlyEi7fZv2f9Bw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "remoteok.io",
+    "url": "https://remoteok.io/jobs/62652",
+    "title": "Backend Engineer",
+    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong>***&nbsp;We offer flexible and full remote work over Europe.</strong></p><br><p><strong>We are not ready yet to work with people outside EU but will keep you posted on that ;) ***<br></strong></p><br><p>Hands in hands with the Product, Design, Infrastructure and Mobile team, the Backend team has its great deal of challenges to tackle: scaling our ever growing backend business, pushing data science logics in production, shipping game changer features for our passengers and drivers with the sole goal of creating the most respectful and playful experience for them, across many launched cities, and many to come.</p><br><p><br>We expect the marketplace we are building to scale so it can support our European expansion ambitions. Fortunately, we can rely on our solid micro-services architecture (Golang, Elixir, Docker…) and our talented team to make it better.</p><br><p>Welcome behind the scenes !</p><br><p><br></p><p><strong>OUR ENGINEERING VALUES</strong></p><br><ul><br><li><strong>Move smart</strong>: we are data driven, and employ tools and best practices to ship code quickly and safely (continuous integration, code review, automated testing, etc).</li><br><li><strong>Distribute knowledge</strong>: we want to scale our engineering team to a point where our contributions do not stop at the company code base. We believe in the Open Source culture and communication with the outside world.</li><br><li><strong>Leave code better than you found it</strong>: because we constantly raise the bar.</li><br><li><strong>Unity makes strength</strong>: moving people from A to B is not as easy as it sounds but, we always keep calm and support each other.</li><br><li><strong>Always improve</strong>: we value personal progress and want you to look back proudly on what you’ve done.</li><br></ul><br><br><p><strong>WHAT YOU’LL DO</strong></p><br><ul><br><li>Implement smart models to predict future supply and demand</li><br><li>Aggregate and play with data coming from various sources</li><br><li>Work on new features in microservices environment and contribute to the improvement and optimization of our architecture</li><br><li>Optimize our operational platform to make our support even more awesome.</li><br></ul><br><p>&nbsp;Things we’d like to experiment with:</p><br><ul><br><li>Event sourcing</li><br><li>Kafka…</li><br></ul><br><p>If your are more an infractructure person wanting to deliver happiness to our backend team by building tools and frameworks please check out our&nbsp;Infrastructure Engineer&nbsp;job offer.</p><br><br><br><br><p><strong>REQUIREMENTS</strong></p><br><ul><br><li>5+ years as a software engineer, mainly focused on backend.</li><br><li>You are a product oriented developer, you own, design and implement features from A to Z, you help monitor and maintain them after they are shipped with focus on the end.</li><br><li>You have analytical and diagnostic skills, a proactive problem solving mindset.</li><br><li>You’ve worked with Ruby-on-Rails or Go in production environments, experience in Elixir would be great…</li><br><li>… but more than mastering 1 single language, you’re curious and a fast learner, you showed your ability to switch to another technology just to get out of your comfort zone.</li><br><li>Experience working with high volumes, databases, relational (PostgreSQL) or NoSQL.</li><br><li>Exposure to architectural patterns of a large, high-scale web application and microservices.</li><br><li>Good testing skills.</li><br><li>Sharing is caring, you are generous in your communication and knowledge sharing with your team.</li><br></ul><br><p><strong>BONUS POINTS</strong></p><br><ul><br><li>Contributions to open source projects</li><br><li>Experience with message brokers (such as Kafka, RabbitMQ)</li><br><li>Exposure to real-time technology problems</li><br><li>Experience with ETL and Hadoop</li><br><li>Experience with Docker and/or Mesos Marathon (or similar)</li><br></ul><br><br><p><strong>PERKS</strong></p><br><ul><br><li>Permanent contract (CDI)&nbsp;</li><br><li>Stock</li><br><li>Paid conference attendance/travel and periodic team meetups</li><br><li>Heetch credits</li><br><li>A Spotify subscription</li><br><li>Work from anywhere you want</li><br></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
+    "urlFetchPending": false,
+    "published": "Nov 6, 2017 12:10:19 AM",
+    "tags": [
+      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:unity3d/gamedev/8",
+      "DBG_TECH1:k/t/w:unity3d/mobile/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=6, nodejs=0, bigdata-ml=8, ruby=8, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/gamedev",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml",
+      "gamedev",
+      "ruby"
+    ]
+  },
+  {
+    "id": "axYq1v_YRIm83QHXX8CiBw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=15604186",
+    "title": "Rewire | Game Developer | Mountain View, CA | ON-SITE/REMOTE | Full-time",
+    "content": "<div>                  <span>Rewire | Game Developer | Mountain View, CA | ON-SITE/REMOTE | Full-time<p>Who are we? Rewire builds data-driven therapeutic games for kids with behavioral challenges using principles of neural plasticity and rewiring. We are a small team of neuroscientists, data scientists and developers with degrees from top universities.</p><p>Who are we looking for? A committed and creative game developer with a strong background in Unity or a similar game engine (Unreal, Vizard etc). The developer will be largely responsible for building the game from scratch on a  mobile platform. Other necessary skills are creativity, good communication, discipline, commitment, interest in gaming and children’s games.</p><p>Why should you join? We are super flexible as long there is hard work and creativity involved. We are early stage so there is a lot of potential to grow. If you have strong interest in making a change in kids’ lives.</p><p>Preferred if able to work on-site at least once a week. Interested? email: info@rewire.solutions<span>              </span></p><div>        <p>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Nov 1, 2017 8:38:05 PM",
+    "tags": [
+      "DBG:surround``fulltim 4N (telecommut OR remot)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:game-engine/gamedev/8",
+      "DBG_TECH1:k/t/w:unity3d/gamedev/8",
+      "DBG_TECH1:k/t/w:unity3d/mobile/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=16, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/gamedev",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
