@@ -83,8 +83,14 @@
       url: apple
       datafile: TECH1_apple
 
-    - title: Other technologies
-      tagline: Includes perl, bash, go, lisp, erlang, haskell, ocaml, scheme, clojure, F#
+    - title: "Go, or Golang-related jobs"
+      tagline: "Go, or Golang, is a general-purpose systems programming language created by Google employees, including Ken Thompson, Rob Pike"
+      undertagline:
+      url: golang
+      datafile: TECH1_go
+
+    - title: "Other technologies"
+      tagline: "Includes perl, bash, go, lisp, erlang, haskell, ocaml, scheme, clojure, F#"
       undertagline:
       url: other
       datafile: TECH1_other

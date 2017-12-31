@@ -13,20 +13,20 @@
     "urlFetchPending": false,
     "published": "Dec 12, 2017 10:59:50 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:scala_java_3",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=1, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_java",
-      "TECH2_amazon-web-services",
-      "TECH2_ansible",
-      "TECH2_elasticsearch",
-      "TECH2_gcp",
-      "TECH2_puppet",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH2/amazon-web-services",
+      "TECH2/ansible",
+      "TECH2/elasticsearch",
+      "TECH2/gcp",
+      "TECH2/puppet",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "100% remote",
@@ -54,10 +54,10 @@
     "urlFetchPending": false,
     "published": "Dec 12, 2017 10:14:20 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -79,17 +79,17 @@
     "urlFetchPending": false,
     "published": "Dec 9, 2017 11:13:54 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_php",
-      "TECH2_elasticsearch",
-      "TECH2_java",
-      "TECH2_kibana",
-      "TECH2_logstash",
-      "TECH2_salesforce",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TECH2/elasticsearch",
+      "TECH2/java",
+      "TECH2/kibana",
+      "TECH2/logstash",
+      "TECH2/salesforce",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "100% remote",
@@ -117,15 +117,15 @@
     "urlFetchPending": false,
     "published": "Dec 9, 2017 11:13:54 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TECH2_cloud",
-      "TECH2_elasticsearch",
-      "TECH2_github",
-      "TECH2_kerberos",
-      "TECH2_ldap",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TECH2/cloud",
+      "TECH2/elasticsearch",
+      "TECH2/github",
+      "TECH2/kerberos",
+      "TECH2/ldap",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "100% remote",
@@ -153,16 +153,18 @@
     "urlFetchPending": false,
     "published": "Dec 9, 2017 11:13:54 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:lamp_php_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_php",
-      "TECH2_amazon-web-services",
-      "TECH2_linux",
-      "TECH2_sysadmin",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TECH2/amazon-web-services",
+      "TECH2/linux",
+      "TECH2/sysadmin",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "50% remote",
@@ -188,24 +190,25 @@
     "urlFetchPending": false,
     "published": "Dec 9, 2017 11:13:54 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:hadoop_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_frontend_1",
-      "DBG_TECH1:k_t_w:javascript_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_nodejs_1",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=2, nodejs=1, bigdata-ml=8, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1_50",
-      "TECH1_bigdata-ml",
-      "TECH2_automation",
-      "TECH2_cloud",
-      "TECH2_containers",
-      "TECH2_immutability",
-      "TECH2_soa",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:shell/other/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=1, go=3, nodejs=1, bigdata-ml=8, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TECH2/automation",
+      "TECH2/cloud",
+      "TECH2/containers",
+      "TECH2/immutability",
+      "TECH2/soa",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -232,13 +235,13 @@
     "urlFetchPending": false,
     "published": "Dec 9, 2017 11:13:54 PM",
     "tags": [
-      "REMOTE1_50",
-      "TECH1_unknown",
-      "TECH2_amazon-web-services",
-      "TECH2_devops",
-      "TECH2_security",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TECH2/amazon-web-services",
+      "TECH2/devops",
+      "TECH2/security",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -263,17 +266,18 @@
     "urlFetchPending": false,
     "published": "Dec 9, 2017 11:13:54 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:embedded_c_1",
-      "DBG_TECH1:k_t_w:embedded_embedded_8",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=1, mobile=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_nodejs",
-      "TECH2_amazon-web-services",
-      "TECH2_design",
-      "TECH2_node.js",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=1, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/nodejs",
+      "TECH2/amazon-web-services",
+      "TECH2/design",
+      "TECH2/node.js",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -298,14 +302,15 @@
     "urlFetchPending": false,
     "published": "Dec 8, 2017 8:01:04 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:embedded_c_1",
-      "DBG_TECH1:k_t_w:embedded_embedded_8",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=1, mobile=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=1, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -327,22 +332,21 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 6:59:25 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:c_c_5",
-      "DBG_TECH1:k_t_w:capistrano_ruby_8",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_frontend_1",
-      "DBG_TECH1:k_t_w:javascript_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_nodejs_1",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby-on-rails_ruby_40",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=13, mobile=2, nodejs=1, bigdata-ml=0, ruby=50, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:capistrano/ruby/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/40",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=13, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=50, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -364,10 +368,10 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 6:53:08 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -389,10 +393,10 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 6:51:51 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -414,12 +418,12 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 6:21:13 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:devise_ruby_8",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:devise/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -441,12 +445,12 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 6:21:13 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:devise_ruby_8",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:devise/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -468,10 +472,10 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 3:09:13 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -493,10 +497,10 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 3:09:13 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -518,13 +522,15 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 3:04:56 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:lamp_php_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_php",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "50% remote",
@@ -547,14 +553,16 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 3:00:45 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:hadoop_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=8, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_bigdata-ml",
-      "TITLE1_admin",
-      "TZ_Europe"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=8, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/Europe"
     ],
     "tagsNames1": [
       "100% remote",
@@ -577,14 +585,14 @@
     "urlFetchPending": false,
     "published": "Dec 2, 2017 1:00:15 AM",
     "tags": [
-      "DBG_TECH1:k_t_w:angular_frontend_8",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -606,13 +614,14 @@
     "urlFetchPending": false,
     "published": "Dec 2, 2017 12:04:32 AM",
     "tags": [
-      "DBG_TECH1:k_t_w:flask_python_8",
-      "DBG_TECH1:k_t_w:python_python_6",
-      "DBG_TECH1:techWeightMap:{python=14, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_python",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/2",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:techWeightMap:{python=14, other=2, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -634,13 +643,14 @@
     "urlFetchPending": false,
     "published": "Dec 2, 2017 12:04:32 AM",
     "tags": [
-      "DBG_TECH1:k_t_w:flask_python_8",
-      "DBG_TECH1:k_t_w:python_python_6",
-      "DBG_TECH1:techWeightMap:{python=14, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_python",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/2",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:techWeightMap:{python=14, other=2, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -662,21 +672,20 @@
     "urlFetchPending": false,
     "published": "Dec 1, 2017 6:37:09 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:javascript_frontend_6",
-      "DBG_TECH1:k_t_w:javascript_mobile_6",
-      "DBG_TECH1:k_t_w:javascript_nodejs_6",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=6, nodejs=6, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
-      "REMOTE1_100",
-      "TECH1_mobile",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:javascript/frontend/6",
+      "DBG_TECH1:k/t/w:javascript/nodejs/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=6, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
     "tagsNames2": [
-      "mobile",
+      "frontend",
       "nodejs"
     ]
   },
@@ -693,13 +702,13 @@
     "urlFetchPending": false,
     "published": "Nov 29, 2017 7:43:36 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:less_frontend_5",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1_100",
-      "TECH1_frontend",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -721,18 +730,18 @@
     "urlFetchPending": false,
     "published": "Nov 27, 2017 5:37:23 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:coffeescript_frontend_1",
-      "DBG_TECH1:k_t_w:coffeescript_nodejs_1",
-      "DBG_TECH1:k_t_w:javascript_frontend_1",
-      "DBG_TECH1:k_t_w:javascript_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_nodejs_1",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:scala_java_3",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=1, nodejs=15, bigdata-ml=0, ruby=0, apple=0, java=3, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=28, bigdata-ml=0, ruby=0, apple=0, java=3, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -754,19 +763,18 @@
     "urlFetchPending": false,
     "published": "Nov 27, 2017 11:31:56 AM",
     "tags": [
-      "DBG_TECH1:k_t_w:fabric_python_8",
-      "DBG_TECH1:k_t_w:html5_frontend_5",
-      "DBG_TECH1:k_t_w:javascript_frontend_1",
-      "DBG_TECH1:k_t_w:javascript_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_nodejs_1",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=10, dotnet=0, c=0, mobile=1, nodejs=14, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
-      "REMOTE1_50",
-      "TECH1_nodejs",
-      "TECH1_python",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:fabric/python/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=14, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
+      "REMOTE1/50",
+      "TECH1/nodejs",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -789,19 +797,20 @@
     "urlFetchPending": false,
     "published": "Nov 23, 2017 10:05:41 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:facet_nodejs_8",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:facet/nodejs/8",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=13, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
     "tagsNames2": [
-      "nodejs"
+      "java"
     ]
   },
   {
@@ -817,13 +826,13 @@
     "urlFetchPending": false,
     "published": "Nov 21, 2017 10:33:07 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:php_php_10",
-      "DBG_TECH1:k_t_w:wordpress_php_15",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=25, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_php",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:wordpress/php/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=25, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -845,13 +854,13 @@
     "urlFetchPending": false,
     "published": "Nov 21, 2017 10:33:07 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:php_php_10",
-      "DBG_TECH1:k_t_w:wordpress_php_15",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=25, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_php",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:wordpress/php/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=25, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -873,22 +882,25 @@
     "urlFetchPending": false,
     "published": "Nov 21, 2017 9:51:49 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:ios_apple_1",
-      "DBG_TECH1:k_t_w:ios_mobile_2",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_frontend_1",
-      "DBG_TECH1:k_t_w:javascript_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_nodejs_1",
-      "DBG_TECH1:k_t_w:php_php_5",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:k_t_w:velocity_java_8",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=4, nodejs=1, bigdata-ml=0, ruby=2, apple=1, java=10, gamedev=0, php=5, embedded=0, frontend=1}",
-      "REMOTE1_100",
-      "TECH1_java",
-      "TITLE1_admin",
-      "TZ_America_West"
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:k/t/w:velocity/java/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=0, c=0, mobile=5, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=2, java=11, gamedev=0, php=5, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/America/West"
     ],
     "tagsNames1": [
       "100% remote",
@@ -911,22 +923,25 @@
     "urlFetchPending": false,
     "published": "Nov 21, 2017 9:51:49 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:ios_apple_1",
-      "DBG_TECH1:k_t_w:ios_mobile_2",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_frontend_1",
-      "DBG_TECH1:k_t_w:javascript_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_nodejs_1",
-      "DBG_TECH1:k_t_w:php_php_5",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:k_t_w:velocity_java_8",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=4, nodejs=1, bigdata-ml=0, ruby=2, apple=1, java=10, gamedev=0, php=5, embedded=0, frontend=1}",
-      "REMOTE1_100",
-      "TECH1_java",
-      "TITLE1_admin",
-      "TZ_America_West"
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:k/t/w:velocity/java/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=0, c=0, mobile=5, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=2, java=11, gamedev=0, php=5, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/America/West"
     ],
     "tagsNames1": [
       "100% remote",
@@ -949,13 +964,13 @@
     "urlFetchPending": false,
     "published": "Nov 21, 2017 5:05:21 PM",
     "tags": [
-      "DBG_TECH1:k_t_w:hadoop_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_bigdata-ml",
-      "TITLE1_admin",
-      "TZ_Europe"
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/Europe"
     ],
     "tagsNames1": [
       "100% remote",
@@ -978,10 +993,10 @@
     "urlFetchPending": false,
     "published": "Nov 21, 2017 5:05:21 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1003,10 +1018,10 @@
     "urlFetchPending": false,
     "published": "Nov 21, 2017 5:05:21 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1028,10 +1043,10 @@
     "urlFetchPending": false,
     "published": "Nov 20, 2017 8:23:37 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1053,10 +1068,10 @@
     "urlFetchPending": false,
     "published": "Nov 20, 2017 6:52:30 PM",
     "tags": [
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1079,16 +1094,16 @@
     "published": "Nov 17, 2017 8:18:19 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TECH2_amazon-web-services",
-      "TECH2_ansible",
-      "TECH2_elasticsearch",
-      "TECH2_jenkins",
-      "TECH2_rabbitmq",
-      "TECH2_sysadmin",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TECH2/amazon-web-services",
+      "TECH2/ansible",
+      "TECH2/elasticsearch",
+      "TECH2/jenkins",
+      "TECH2/rabbitmq",
+      "TECH2/sysadmin",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1117,17 +1132,23 @@
     "published": "Nov 17, 2017 8:18:19 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TECH2_amazon-web-services",
-      "TECH2_go",
-      "TECH2_google-cloud-platform",
-      "TECH2_javascript",
-      "TECH2_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/2",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/other",
+      "TECH1/ruby",
+      "TECH2/amazon-web-services",
+      "TECH2/go",
+      "TECH2/google-cloud-platform",
+      "TECH2/javascript",
+      "TECH2/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1137,6 +1158,7 @@
       "go",
       "google-cloud-platform",
       "javascript",
+      "other",
       "ruby"
     ]
   },
@@ -1156,15 +1178,15 @@
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``2W(100, remot)",
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TECH2_cloud",
-      "TECH2_elasticsearch",
-      "TECH2_github",
-      "TECH2_kerberos",
-      "TECH2_ldap",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TECH2/cloud",
+      "TECH2/elasticsearch",
+      "TECH2/github",
+      "TECH2/kerberos",
+      "TECH2/ldap",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "100% remote",
@@ -1193,22 +1215,23 @@
     "published": "Nov 17, 2017 8:18:19 PM",
     "tags": [
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:c_c_5",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=13, mobile=1, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_c",
-      "TECH2_openstack",
-      "TECH2_salt-stack",
-      "TECH2_sdn",
-      "TECH2_sysadmin",
-      "TECH2_terraform",
-      "TECH2_virtualization",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:shell/other/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=13, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/c",
+      "TECH2/openstack",
+      "TECH2/salt-stack",
+      "TECH2/sdn",
+      "TECH2/sysadmin",
+      "TECH2/terraform",
+      "TECH2/virtualization",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -1238,17 +1261,17 @@
     "tags": [
       "DBG:surround``can 2W remot",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:cakephp_php_8",
-      "DBG_TECH1:k_t_w:macos_apple_1",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=1, java=0, gamedev=0, php=8, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_php",
-      "TECH2_linux",
-      "TECH2_mysql",
-      "TECH2_puppet",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=2, java=0, gamedev=0, php=8, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TECH2/linux",
+      "TECH2/mysql",
+      "TECH2/puppet",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -1274,18 +1297,21 @@
     "published": "Nov 17, 2017 8:18:19 PM",
     "tags": [
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
-      "DBG_TECH1:k_t_w:coffeescript_frontend_2",
-      "DBG_TECH1:k_t_w:coffeescript_nodejs_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1_50",
-      "TECH1_frontend",
-      "TECH1_nodejs",
-      "TECH2_docker",
-      "TECH2_go",
-      "TECH2_kubernetes",
-      "TECH2_linux",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=0, mobile=0, go=3, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TECH1/nodejs",
+      "TECH2/docker",
+      "TECH2/go",
+      "TECH2/kubernetes",
+      "TECH2/linux",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -1313,12 +1339,12 @@
     "published": "Nov 17, 2017 8:18:19 PM",
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "REMOTE1_50",
-      "TECH1_unknown",
-      "TECH2_amazon-web-services",
-      "TECH2_linux",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TECH2/amazon-web-services",
+      "TECH2/linux",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -1343,19 +1369,23 @@
     "published": "Nov 17, 2017 8:18:19 PM",
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_python",
-      "TECH1_ruby",
-      "TECH2_amazon-web-services",
-      "TECH2_go",
-      "TECH2_linux",
-      "TECH2_python",
-      "TECH2_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/go",
+      "TECH1/other",
+      "TECH1/python",
+      "TECH2/amazon-web-services",
+      "TECH2/go",
+      "TECH2/linux",
+      "TECH2/python",
+      "TECH2/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -1364,6 +1394,7 @@
       "amazon-web-services",
       "go",
       "linux",
+      "other",
       "python",
       "ruby"
     ]
@@ -1383,25 +1414,27 @@
     "tags": [
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:coffeescript_frontend_1",
-      "DBG_TECH1:k_t_w:coffeescript_nodejs_1",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:machine-learning_bigdata-ml_3",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:scala_java_3",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=8, mobile=1, nodejs=1, bigdata-ml=3, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1_50",
-      "TECH1_c",
-      "TECH2_amazon-web-services",
-      "TECH2_distributed-system",
-      "TECH2_docker",
-      "TECH2_kafka",
-      "TECH2_kubernetes",
-      "TECH2_sysadmin",
-      "TITLE1_admin",
-      "TZ_Europe"
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=8, mobile=1, go=3, nodejs=1, bigdata-ml=3, ruby=0, apple=0, java=18, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TECH2/amazon-web-services",
+      "TECH2/distributed-system",
+      "TECH2/docker",
+      "TECH2/kafka",
+      "TECH2/kubernetes",
+      "TECH2/sysadmin",
+      "TITLE1/admin",
+      "TZ/Europe"
     ],
     "tagsNames1": [
       "50% remote",
@@ -1409,9 +1442,9 @@
     ],
     "tagsNames2": [
       "amazon-web-services",
-      "c",
       "distributed-system",
       "docker",
+      "java",
       "kafka",
       "kubernetes",
       "sysadmin"
@@ -1433,16 +1466,18 @@
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
       "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
       "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
-      "DBG_TECH1:k_t_w:lamp_php_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_php",
-      "TECH2_amazon-web-services",
-      "TECH2_linux",
-      "TECH2_sysadmin",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TECH2/amazon-web-services",
+      "TECH2/linux",
+      "TECH2/sysadmin",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "50% remote",
@@ -1469,14 +1504,17 @@
     "published": "Nov 16, 2017 5:03:17 PM",
     "tags": [
       "DBG:surround``work 4W orescap 2W remot",
-      "DBG_TECH1:k_t_w:c++_c_24",
-      "DBG_TECH1:k_t_w:c_c_20",
-      "DBG_TECH1:k_t_w:less_frontend_5",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=44, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1_50",
-      "TECH1_c",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:air/frontend/8",
+      "DBG_TECH1:k/t/w:air/mobile/8",
+      "DBG_TECH1:k/t/w:c++/c/32",
+      "DBG_TECH1:k/t/w:c/c/20",
+      "DBG_TECH1:k/t/w:gdb/c/13",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=65, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/50",
+      "TECH1/c",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -1498,38 +1536,37 @@
     "urlFetchPending": false,
     "published": "Nov 16, 2017 12:51:46 AM",
     "tags": [
-      "DBG_TECH1:k_t_w:.net_dotnet_8",
-      "DBG_TECH1:k_t_w:ajax_frontend_3",
-      "DBG_TECH1:k_t_w:android_java_1",
-      "DBG_TECH1:k_t_w:android_mobile_2",
-      "DBG_TECH1:k_t_w:angularjs_frontend_8",
-      "DBG_TECH1:k_t_w:asp.net-mvc-3_dotnet_16",
-      "DBG_TECH1:k_t_w:asp.net_dotnet_8",
-      "DBG_TECH1:k_t_w:c#_c_2",
-      "DBG_TECH1:k_t_w:c#_dotnet_5",
-      "DBG_TECH1:k_t_w:css_frontend_3",
-      "DBG_TECH1:k_t_w:hibernate_java_8",
-      "DBG_TECH1:k_t_w:html5_frontend_5",
-      "DBG_TECH1:k_t_w:ios_apple_1",
-      "DBG_TECH1:k_t_w:ios_mobile_2",
-      "DBG_TECH1:k_t_w:java-ee_java_13",
-      "DBG_TECH1:k_t_w:java_java_8",
-      "DBG_TECH1:k_t_w:java_mobile_4",
-      "DBG_TECH1:k_t_w:javascript_frontend_1",
-      "DBG_TECH1:k_t_w:javascript_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_nodejs_1",
-      "DBG_TECH1:k_t_w:jquery_frontend_8",
-      "DBG_TECH1:k_t_w:spring_java_8",
-      "DBG_TECH1:k_t_w:sql-server_dotnet_2",
-      "DBG_TECH1:k_t_w:struts_java_8",
-      "DBG_TECH1:k_t_w:wcf_dotnet_8",
-      "DBG_TECH1:k_t_w:wpf_dotnet_8",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=55, c=2, mobile=9, nodejs=1, bigdata-ml=0, ruby=0, apple=1, java=46, gamedev=0, php=0, embedded=0, frontend=28}",
-      "REMOTE1_50",
-      "TECH1_dotnet",
-      "TECH1_java",
-      "TITLE1_admin",
-      "TZ_America"
+      "DBG_TECH1:k/t/w:ajax/frontend/3",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/16",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:hibernate/java/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:java-ee/java/13",
+      "DBG_TECH1:k/t/w:java/java/8",
+      "DBG_TECH1:k/t/w:java/mobile/4",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/2",
+      "DBG_TECH1:k/t/w:struts/java/8",
+      "DBG_TECH1:k/t/w:wcf/dotnet/8",
+      "DBG_TECH1:k/t/w:wpf/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=55, c=2, mobile=8, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=2, java=46, gamedev=0, php=0, embedded=0, frontend=28}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/America"
     ],
     "tagsNames1": [
       "50% remote",
@@ -1555,12 +1592,13 @@
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -1583,15 +1621,16 @@
     "published": "Nov 13, 2017 2:45:20 PM",
     "tags": [
       "DBG:surround``abl 4W OR(travel,visit)",
-      "DBG_TECH1:k_t_w:coffeescript_frontend_1",
-      "DBG_TECH1:k_t_w:coffeescript_nodejs_1",
-      "DBG_TECH1:k_t_w:php_php_10",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=1}",
-      "REMOTE1_50",
-      "TECH1_php",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -1614,17 +1653,25 @@
     "published": "Nov 10, 2017 9:09:02 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/2",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/other",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
     "tagsNames2": [
+      "go",
+      "other",
       "ruby"
     ]
   },
@@ -1642,17 +1689,25 @@
     "published": "Nov 10, 2017 8:37:44 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/2",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/other",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
     "tagsNames2": [
+      "go",
+      "other",
       "ruby"
     ]
   },
@@ -1672,13 +1727,15 @@
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
       "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
       "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
-      "DBG_TECH1:k_t_w:lamp_php_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_php",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "50% remote",
@@ -1702,10 +1759,10 @@
     "published": "Nov 8, 2017 4:56:18 AM",
     "tags": [
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1730,12 +1787,12 @@
       "DBG:surround``2W(100, remot)",
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_America"
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/America"
     ],
     "tagsNames1": [
       "100% remote",
@@ -1759,12 +1816,12 @@
     "published": "Nov 7, 2017 3:06:50 PM",
     "tags": [
       "DBG:surround``work 2W from 2W wherev",
-      "DBG_TECH1:k_t_w:devise_ruby_8",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:devise/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1787,12 +1844,12 @@
     "published": "Nov 7, 2017 3:06:50 PM",
     "tags": [
       "DBG:surround``work 2W from 2W wherev",
-      "DBG_TECH1:k_t_w:devise_ruby_8",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:devise/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1817,13 +1874,13 @@
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG:surround``headquart 3N remot",
-      "DBG_TECH1:k_t_w:ruby-on-rails_ruby_24",
-      "DBG_TECH1:k_t_w:ruby_ruby_6",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=30, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_America"
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
+      "DBG_TECH1:k/t/w:ruby/ruby/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=30, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/America"
     ],
     "tagsNames1": [
       "100% remote",
@@ -1850,19 +1907,23 @@
       "DBG:surround``benefit 2N 2N(remot,work)",
       "DBG:surround``can 2W remot",
       "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k_t_w:node.js_nodejs_39",
-      "DBG_TECH1:k_t_w:ruby-on-rails_ruby_8",
-      "DBG_TECH1:k_t_w:ruby_ruby_4",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=39, bigdata-ml=0, ruby=12, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TECH2_devops",
-      "TECH2_docker",
-      "TECH2_go",
-      "TECH2_linux",
-      "TECH2_ruby",
-      "TITLE1_admin",
-      "TZ_Europe"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:go/go/18",
+      "DBG_TECH1:k/t/w:node.js/nodejs/39",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=6, dotnet=0, c=5, mobile=0, go=18, nodejs=39, bigdata-ml=0, ruby=14, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TECH2/devops",
+      "TECH2/docker",
+      "TECH2/go",
+      "TECH2/linux",
+      "TECH2/ruby",
+      "TITLE1/admin",
+      "TZ/Europe"
     ],
     "tagsNames1": [
       "100% remote",
@@ -1891,16 +1952,16 @@
     "published": "Nov 4, 2017 2:06:33 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TECH2_amazon-web-services",
-      "TECH2_ansible",
-      "TECH2_elasticsearch",
-      "TECH2_jenkins",
-      "TECH2_rabbitmq",
-      "TECH2_sysadmin",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TECH2/amazon-web-services",
+      "TECH2/ansible",
+      "TECH2/elasticsearch",
+      "TECH2/jenkins",
+      "TECH2/rabbitmq",
+      "TECH2/sysadmin",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1931,15 +1992,17 @@
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
       "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
       "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_python",
-      "TECH1_ruby",
-      "TECH2_linux",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=6, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TECH2/linux",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "100% remote",
@@ -1947,8 +2010,7 @@
     ],
     "tagsNames2": [
       "linux",
-      "python",
-      "ruby"
+      "other"
     ]
   },
   {
@@ -1965,15 +2027,17 @@
     "published": "Nov 4, 2017 2:06:33 PM",
     "tags": [
       "DBG:surround``remot 3W onli",
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TECH2_amazon-web-services",
-      "TECH2_linux",
-      "TECH2_puppet",
-      "TECH2_sysadmin",
-      "TECH2_terraform",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TECH2/amazon-web-services",
+      "TECH2/linux",
+      "TECH2/puppet",
+      "TECH2/sysadmin",
+      "TECH2/terraform",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -1982,9 +2046,9 @@
       "amazon-web-services",
       "linux",
       "puppet",
+      "ruby",
       "sysadmin",
-      "terraform",
-      "unknown"
+      "terraform"
     ]
   },
   {
@@ -2004,21 +2068,21 @@
       "DBG:surround``OR(locat, anywher, base, resid) 7W OR( australia, japan, newzealand)",
       "DBG:surround``benefit 2N 2N(remot,work)",
       "DBG:surround``headquart 3N remot",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:reactjs_frontend_8",
-      "DBG_TECH1:k_t_w:rspec_ruby_8",
-      "DBG_TECH1:k_t_w:ruby-on-rails_ruby_16",
-      "DBG_TECH1:k_t_w:ruby_ruby_8",
-      "DBG_TECH1:k_t_w:rubygems_ruby_8",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=13, bigdata-ml=0, ruby=40, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TECH2_elixir",
-      "TECH2_reactjs",
-      "TECH2_ruby",
-      "TECH2_ruby-on-rails",
-      "TITLE1_admin",
-      "TZ_Asia"
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:rspec/ruby/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/8",
+      "DBG_TECH1:k/t/w:rubygems/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=40, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TECH2/elixir",
+      "TECH2/reactjs",
+      "TECH2/ruby",
+      "TECH2/ruby-on-rails",
+      "TITLE1/admin",
+      "TZ/Asia"
     ],
     "tagsNames1": [
       "100% remote",
@@ -2045,21 +2109,23 @@
     "published": "Nov 4, 2017 2:06:33 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:lamp_php_13",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TECH1_php",
-      "TECH2_amazon-web-services",
-      "TECH2_chef",
-      "TECH2_docker",
-      "TECH2_logstash",
-      "TECH2_mysql",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=21, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TECH2/amazon-web-services",
+      "TECH2/chef",
+      "TECH2/docker",
+      "TECH2/logstash",
+      "TECH2/mysql",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -2070,7 +2136,6 @@
       "docker",
       "logstash",
       "mysql",
-      "nodejs",
       "php"
     ]
   },
@@ -2090,20 +2155,22 @@
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
       "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG_TECH1:k_t_w:coffeescript_frontend_2",
-      "DBG_TECH1:k_t_w:coffeescript_nodejs_2",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TECH1_python",
-      "TECH2_centos",
-      "TECH2_kernel",
-      "TECH2_linux",
-      "TECH2_linux-kernel",
-      "TECH2_xfs",
-      "TITLE1_admin",
-      "TZ_America"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TECH1/python",
+      "TECH2/centos",
+      "TECH2/kernel",
+      "TECH2/linux",
+      "TECH2/linux-kernel",
+      "TECH2/xfs",
+      "TITLE1/admin",
+      "TZ/America"
     ],
     "tagsNames1": [
       "100% remote",
@@ -2111,6 +2178,7 @@
     ],
     "tagsNames2": [
       "centos",
+      "frontend",
       "kernel",
       "linux",
       "linux-kernel",
@@ -2134,19 +2202,21 @@
     "tags": [
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``2W(100, remot)",
-      "DBG_TECH1:k_t_w:less_frontend_5",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1_100",
-      "TECH1_frontend",
-      "TECH2_amazon-cloudformation",
-      "TECH2_amazon-web-services",
-      "TECH2_devops",
-      "TECH2_jvm",
-      "TECH2_lambda",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH2/amazon-cloudformation",
+      "TECH2/amazon-web-services",
+      "TECH2/devops",
+      "TECH2/jvm",
+      "TECH2/lambda",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -2175,19 +2245,19 @@
     "tags": [
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG_TECH1:k_t_w:ruby-on-rails_ruby_8",
-      "DBG_TECH1:k_t_w:ruby_ruby_6",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=14, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_ruby",
-      "TECH2_amazon-web-services",
-      "TECH2_chef",
-      "TECH2_javascript",
-      "TECH2_ruby",
-      "TECH2_ruby-on-rails",
-      "TECH2_sysadmin",
-      "TITLE1_admin",
-      "TZ_America"
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=14, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TECH2/amazon-web-services",
+      "TECH2/chef",
+      "TECH2/javascript",
+      "TECH2/ruby",
+      "TECH2/ruby-on-rails",
+      "TECH2/sysadmin",
+      "TITLE1/admin",
+      "TZ/America"
     ],
     "tagsNames1": [
       "100% remote",
@@ -2217,15 +2287,15 @@
     "tags": [
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TECH2_amazon-ec2",
-      "TECH2_amazon-web-services",
-      "TECH2_chef",
-      "TECH2_continuous-delivery",
-      "TECH2_continuous-integration",
-      "TITLE1_admin",
-      "TZ_America"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TECH2/amazon-ec2",
+      "TECH2/amazon-web-services",
+      "TECH2/chef",
+      "TECH2/continuous-delivery",
+      "TECH2/continuous-integration",
+      "TITLE1/admin",
+      "TZ/America"
     ],
     "tagsNames1": [
       "100% remote",
@@ -2254,18 +2324,19 @@
     "published": "Nov 4, 2017 2:06:33 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:c_c_10",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=18, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_c",
-      "TECH2_devops",
-      "TECH2_linux",
-      "TECH2_openstack",
-      "TECH2_puppet",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/10",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=18, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH2/devops",
+      "TECH2/linux",
+      "TECH2/openstack",
+      "TECH2/puppet",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -2294,21 +2365,21 @@
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
       "DBG:surround``2W(100, remot)",
       "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG_TECH1:k_t_w:coffeescript_frontend_2",
-      "DBG_TECH1:k_t_w:coffeescript_nodejs_2",
-      "DBG_TECH1:k_t_w:hadoop_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:macos_apple_1",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=2, bigdata-ml=8, ruby=0, apple=1, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1_100",
-      "TECH1_bigdata-ml",
-      "TECH2_amazon-web-services",
-      "TECH2_devops",
-      "TECH2_nginx",
-      "TECH2_postgresql",
-      "TECH2_python",
-      "TITLE1_admin",
-      "TZ_Europe"
+      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=8, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH2/amazon-web-services",
+      "TECH2/devops",
+      "TECH2/nginx",
+      "TECH2/postgresql",
+      "TECH2/python",
+      "TITLE1/admin",
+      "TZ/Europe"
     ],
     "tagsNames1": [
       "100% remote",
@@ -2339,21 +2410,22 @@
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``2W(100, remot)",
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:python_python_4",
-      "DBG_TECH1:k_t_w:scala_java_3",
-      "DBG_TECH1:techWeightMap:{python=4, dotnet=0, c=0, mobile=1, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_java",
-      "TECH1_python",
-      "TECH2_amazon-web-services",
-      "TECH2_ansible",
-      "TECH2_elasticsearch",
-      "TECH2_gcp",
-      "TECH2_puppet",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/python",
+      "TECH2/amazon-web-services",
+      "TECH2/ansible",
+      "TECH2/elasticsearch",
+      "TECH2/gcp",
+      "TECH2/puppet",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "100% remote",
@@ -2384,21 +2456,23 @@
     "tags": [
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``2W(100, remot)",
-      "DBG_TECH1:k_t_w:arraylist_java_8",
-      "DBG_TECH1:k_t_w:java_java_8",
-      "DBG_TECH1:k_t_w:java_mobile_4",
-      "DBG_TECH1:k_t_w:lucene_java_16",
-      "DBG_TECH1:k_t_w:wordpress_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=4, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=32, gamedev=0, php=5, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_java",
-      "TECH2_elasticsearch",
-      "TECH2_java",
-      "TECH2_ldap",
-      "TECH2_saml",
-      "TECH2_security",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:arraylist/java/8",
+      "DBG_TECH1:k/t/w:java/java/8",
+      "DBG_TECH1:k/t/w:java/mobile/4",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:lucene/java/16",
+      "DBG_TECH1:k/t/w:treemap/java/13",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=58, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH2/elasticsearch",
+      "TECH2/java",
+      "TECH2/ldap",
+      "TECH2/saml",
+      "TECH2/security",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -2426,30 +2500,32 @@
     "tags": [
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``benefit 2N 2N(remot,work)",
-      "DBG_TECH1:k_t_w:c#_c_2",
-      "DBG_TECH1:k_t_w:c#_dotnet_5",
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:c_c_5",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_frontend_1",
-      "DBG_TECH1:k_t_w:javascript_mobile_1",
-      "DBG_TECH1:k_t_w:javascript_nodejs_1",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:php_php_5",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=5, c=15, mobile=2, nodejs=14, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=1}",
-      "REMOTE1_50",
-      "TECH1_c",
-      "TECH1_nodejs",
-      "TECH2_amazon-web-services",
-      "TECH2_cloud",
-      "TECH2_linux",
-      "TECH2_python",
-      "TECH2_sysadmin",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=6, dotnet=5, c=15, mobile=1, go=3, nodejs=14, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/c",
+      "TECH1/nodejs",
+      "TECH2/amazon-web-services",
+      "TECH2/cloud",
+      "TECH2/linux",
+      "TECH2/python",
+      "TECH2/sysadmin",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -2478,17 +2554,20 @@
     "published": "Nov 4, 2017 2:06:33 PM",
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_ruby",
-      "TECH2_amazon-web-services",
-      "TECH2_apache-kafka",
-      "TECH2_haskell",
-      "TECH2_nix",
-      "TECH2_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:haskell/other/15",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=13, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TECH1/other",
+      "TECH2/amazon-web-services",
+      "TECH2/apache-kafka",
+      "TECH2/haskell",
+      "TECH2/nix",
+      "TECH2/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -2497,7 +2576,9 @@
       "amazon-web-services",
       "apache-kafka",
       "haskell",
+      "java",
       "nix",
+      "other",
       "ruby"
     ]
   },
@@ -2516,22 +2597,25 @@
     "tags": [
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
       "DBG:surround``remot W applic 4W consid",
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:c_c_5",
-      "DBG_TECH1:k_t_w:embedded_c_1",
-      "DBG_TECH1:k_t_w:embedded_embedded_8",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=14, mobile=1, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=8, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_c",
-      "TECH2_cloud",
-      "TECH2_linux",
-      "TECH2_web-services",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=7, dotnet=0, c=14, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/c",
+      "TECH2/cloud",
+      "TECH2/linux",
+      "TECH2/web-services",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "50% remote",
@@ -2559,19 +2643,19 @@
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG_TECH1:k_t_w:iis_dotnet_8",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:sql-server_dotnet_1",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=9, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_dotnet",
-      "TECH2_amazon-web-services",
-      "TECH2_azure",
-      "TECH2_octopus-deploy",
-      "TECH2_saas",
-      "TECH2_teamcity",
-      "TITLE1_admin",
-      "TZ_America"
+      "DBG_TECH1:k/t/w:iis/dotnet/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=10, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TECH2/amazon-web-services",
+      "TECH2/azure",
+      "TECH2/octopus-deploy",
+      "TECH2/saas",
+      "TECH2/teamcity",
+      "TITLE1/admin",
+      "TZ/America"
     ],
     "tagsNames1": [
       "50% remote",
@@ -2601,19 +2685,19 @@
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG:surround``remot 3W right",
-      "DBG_TECH1:k_t_w:embedded_c_1",
-      "DBG_TECH1:k_t_w:embedded_embedded_8",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=1, mobile=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_nodejs",
-      "TECH2_amazon-web-services",
-      "TECH2_docker",
-      "TECH2_git",
-      "TECH2_mongodb",
-      "TECH2_node.js",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=1, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/nodejs",
+      "TECH2/amazon-web-services",
+      "TECH2/docker",
+      "TECH2/git",
+      "TECH2/mongodb",
+      "TECH2/node.js",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -2642,16 +2726,16 @@
     "tags": [
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:coffeescript_frontend_3",
-      "DBG_TECH1:k_t_w:coffeescript_nodejs_3",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=3}",
-      "REMOTE1_50",
-      "TECH1_frontend",
-      "TECH1_nodejs",
-      "TECH2_go",
-      "TECH2_kubernetes",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:coffeescript/frontend/3",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=3}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TECH2/go",
+      "TECH2/kubernetes",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -2677,21 +2761,21 @@
     "published": "Nov 4, 2017 2:06:33 PM",
     "tags": [
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
-      "DBG_TECH1:k_t_w:drupal_php_15",
-      "DBG_TECH1:k_t_w:macos_apple_1",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:php_php_5",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=13, bigdata-ml=0, ruby=0, apple=1, java=0, gamedev=0, php=20, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_php",
-      "TECH2_containers",
-      "TECH2_docker",
-      "TECH2_drupal",
-      "TECH2_kubernetes",
-      "TECH2_openshift",
-      "TECH2_sysadmin",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:drupal/php/15",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=20, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TECH2/containers",
+      "TECH2/docker",
+      "TECH2/drupal",
+      "TECH2/kubernetes",
+      "TECH2/openshift",
+      "TECH2/sysadmin",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -2722,15 +2806,16 @@
       "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
       "DBG:surround``abl 4W OR(travel,visit)",
       "DBG:surround``remot 3N OR(role, employment)",
-      "DBG_TECH1:k_t_w:air_frontend_8",
-      "DBG_TECH1:k_t_w:air_mobile_8",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:ruby_ruby_4",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=8, nodejs=13, bigdata-ml=0, ruby=4, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
-      "REMOTE1_50",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_Europe"
+      "DBG_TECH1:k/t/w:air/frontend/8",
+      "DBG_TECH1:k/t/w:air/mobile/8",
+      "DBG_TECH1:k/t/w:go/go/12",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=12, nodejs=26, bigdata-ml=0, ruby=4, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/50",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/Europe"
     ],
     "tagsNames1": [
       "50% remote",
@@ -2757,14 +2842,18 @@
       "DBG:surround``can 2W remot",
       "DBG:surround``remot 16W timezon",
       "DBG:surround``remot 3N OR(role, employment)",
-      "DBG_TECH1:k_t_w:node.js_nodejs_39",
-      "DBG_TECH1:k_t_w:ruby-on-rails_ruby_8",
-      "DBG_TECH1:k_t_w:ruby_ruby_4",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=39, bigdata-ml=0, ruby=12, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_Europe"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:go/go/18",
+      "DBG_TECH1:k/t/w:node.js/nodejs/39",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=6, dotnet=0, c=5, mobile=0, go=18, nodejs=39, bigdata-ml=0, ruby=14, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/Europe"
     ],
     "tagsNames1": [
       "100% remote",
@@ -2788,15 +2877,16 @@
     "published": "Nov 3, 2017 12:00:31 AM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:c_c_5",
-      "DBG_TECH1:k_t_w:less_frontend_5",
-      "DBG_TECH1:k_t_w:php_php_5",
-      "DBG_TECH1:k_t_w:wordpress_php_10",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=5, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=5}",
-      "REMOTE1_100",
-      "TECH1_php",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:wordpress/php/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=5, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -2819,12 +2909,12 @@
     "published": "Nov 2, 2017 10:50:46 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:less_frontend_5",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1_100",
-      "TECH1_frontend",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -2848,14 +2938,14 @@
     "tags": [
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k_t_w:game-engine_gamedev_8",
-      "DBG_TECH1:k_t_w:unity3d_gamedev_8",
-      "DBG_TECH1:k_t_w:unity3d_mobile_5",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=5, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=16, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_gamedev",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:game-engine/gamedev/8",
+      "DBG_TECH1:k/t/w:unity3d/gamedev/8",
+      "DBG_TECH1:k/t/w:unity3d/mobile/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=16, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/gamedev",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -2879,10 +2969,10 @@
     "tags": [
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N remot",
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -2906,12 +2996,13 @@
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -2935,14 +3026,14 @@
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG:surround``remot 3W right",
-      "DBG_TECH1:k_t_w:embedded_c_1",
-      "DBG_TECH1:k_t_w:embedded_embedded_8",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=1, mobile=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=1, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -2968,19 +3059,20 @@
       "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k_t_w:asp.net-mvc-3_dotnet_8",
-      "DBG_TECH1:k_t_w:css_frontend_3",
-      "DBG_TECH1:k_t_w:javascript_frontend_2",
-      "DBG_TECH1:k_t_w:javascript_mobile_2",
-      "DBG_TECH1:k_t_w:javascript_nodejs_2",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:php_php_15",
-      "DBG_TECH1:k_t_w:smarty_php_8",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=8, c=0, mobile=2, nodejs=15, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=23, embedded=0, frontend=5}",
-      "REMOTE1_100",
-      "TECH1_php",
-      "TITLE1_admin",
-      "TZ_Europe"
+      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:php/php/15",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:k/t/w:smarty/php/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=7, dotnet=8, c=0, mobile=0, go=0, nodejs=15, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=23, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/Europe"
     ],
     "tagsNames1": [
       "100% remote",
@@ -3004,15 +3096,16 @@
     "published": "Oct 30, 2017 11:03:55 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:c_c_5",
-      "DBG_TECH1:k_t_w:less_frontend_5",
-      "DBG_TECH1:k_t_w:php_php_5",
-      "DBG_TECH1:k_t_w:wordpress_php_10",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=0, c=5, mobile=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=5}",
-      "REMOTE1_100",
-      "TECH1_php",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:wordpress/php/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=5, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -3036,13 +3129,13 @@
     "tags": [
       "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
       "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k_t_w:hadoop_bigdata-ml_8",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_bigdata-ml",
-      "TITLE1_admin",
-      "TZ_Europe"
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/Europe"
     ],
     "tagsNames1": [
       "100% remote",
@@ -3066,10 +3159,10 @@
     "published": "Oct 28, 2017 3:31:33 AM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -3093,10 +3186,10 @@
     "tags": [
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``OR(locat, anywher, base, resid) 7W OR( australia, japan, newzealand)",
-      "REMOTE1_50",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_Asia"
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/Asia"
     ],
     "tagsNames1": [
       "50% remote",
@@ -3120,19 +3213,22 @@
     "published": "Oct 27, 2017 12:53:55 AM",
     "tags": [
       "DBG:surround``remot W applic 4W consid",
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:c_c_5",
-      "DBG_TECH1:k_t_w:embedded_c_1",
-      "DBG_TECH1:k_t_w:embedded_embedded_8",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=14, mobile=1, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=8, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_c",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=7, dotnet=0, c=14, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/c",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -3155,10 +3251,10 @@
     "published": "Oct 26, 2017 4:11:28 PM",
     "tags": [
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "REMOTE1_100",
-      "TECH1_unknown",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -3182,16 +3278,17 @@
     "tags": [
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
       "DBG:surround``remot 3W right",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:php_php_5",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:k_t_w:scala_java_3",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=3, gamedev=0, php=5, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=3, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -3214,16 +3311,17 @@
     "published": "Oct 26, 2017 3:58:52 PM",
     "tags": [
       "DBG:surround``remot 3W right",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:php_php_5",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:k_t_w:scala_java_3",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=3, gamedev=0, php=5, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=3, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -3248,18 +3346,19 @@
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:capybara_ruby_8",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:lamp_php_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=1, nodejs=0, bigdata-ml=0, ruby=10, apple=0, java=2, gamedev=0, php=13, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_php",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_America_East"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:capybara/ruby/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=0, java=2, gamedev=0, php=13, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/America/East"
     ],
     "tagsNames1": [
       "100% remote",
@@ -3285,18 +3384,19 @@
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:capybara_ruby_8",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:k_t_w:lamp_php_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=1, nodejs=0, bigdata-ml=0, ruby=10, apple=0, java=2, gamedev=0, php=13, embedded=0, frontend=0}",
-      "REMOTE1_50",
-      "TECH1_php",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:capybara/ruby/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=0, java=2, gamedev=0, php=13, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
@@ -3322,15 +3422,17 @@
       "DBG:surround``2W(100, remot)",
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k_t_w:artificial-intelligence_bigdata-ml_5",
-      "DBG_TECH1:k_t_w:less_frontend_5",
-      "DBG_TECH1:k_t_w:node.js_nodejs_13",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=13, bigdata-ml=5, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1_100",
-      "TECH1_nodejs",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/5",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=3, nodejs=13, bigdata-ml=5, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -3353,16 +3455,16 @@
     "published": "Oct 21, 2017 2:29:13 AM",
     "tags": [
       "DBG:surround``2W(100, remot)",
-      "DBG_TECH1:k_t_w:.net_dotnet_8",
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=8, c=8, mobile=1, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_c",
-      "TECH1_dotnet",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=8, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -3386,16 +3488,16 @@
     "published": "Oct 21, 2017 2:29:13 AM",
     "tags": [
       "DBG:surround``2W(100, remot)",
-      "DBG_TECH1:k_t_w:.net_dotnet_8",
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=8, c=8, mobile=1, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_c",
-      "TECH1_dotnet",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=8, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -3418,16 +3520,16 @@
     "urlFetchPending": false,
     "published": "Oct 21, 2017 2:29:13 AM",
     "tags": [
-      "DBG_TECH1:k_t_w:.net_dotnet_8",
-      "DBG_TECH1:k_t_w:c++_c_8",
-      "DBG_TECH1:k_t_w:java_java_2",
-      "DBG_TECH1:k_t_w:java_mobile_1",
-      "DBG_TECH1:techWeightMap:{python=0, dotnet=8, c=8, mobile=1, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_c",
-      "TECH1_dotnet",
-      "TITLE1_admin",
-      "TZ_unknown"
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=8, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
@@ -3452,22 +3554,23 @@
     "tags": [
       "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
       "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k_t_w:python_python_2",
-      "DBG_TECH1:k_t_w:ruby_ruby_2",
-      "DBG_TECH1:techWeightMap:{python=2, dotnet=0, c=0, mobile=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1_100",
-      "TECH1_python",
-      "TECH1_ruby",
-      "TITLE1_admin",
-      "TZ_America_West"
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=6, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/admin",
+      "TZ/America/West"
     ],
     "tagsNames1": [
       "100% remote",
       "US Pacific time zone"
     ],
     "tagsNames2": [
-      "python",
-      "ruby"
+      "other"
     ]
   }
 ]
