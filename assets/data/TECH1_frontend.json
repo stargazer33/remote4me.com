@@ -3238,7 +3238,6 @@
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG_TECH1:k/t/w:cross-browser/frontend/13",
       "DBG_TECH1:k/t/w:html5/frontend/10",
-      "DBG_TECH1:k/t/w:internet-explorer/dotnet/3",
       "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
       "DBG_TECH1:k/t/w:javascript/frontend/3",
       "DBG_TECH1:k/t/w:javascript/nodejs/3",
@@ -3246,7 +3245,7 @@
       "DBG_TECH1:k/t/w:layout/frontend/5",
       "DBG_TECH1:k/t/w:php/php/5",
       "DBG_TECH1:k/t/w:wordpress/php/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=3, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=41}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=41}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/dev",
@@ -3277,7 +3276,6 @@
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG_TECH1:k/t/w:cross-browser/frontend/13",
       "DBG_TECH1:k/t/w:html5/frontend/10",
-      "DBG_TECH1:k/t/w:internet-explorer/dotnet/3",
       "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
       "DBG_TECH1:k/t/w:javascript/frontend/3",
       "DBG_TECH1:k/t/w:javascript/nodejs/3",
@@ -3285,7 +3283,7 @@
       "DBG_TECH1:k/t/w:layout/frontend/5",
       "DBG_TECH1:k/t/w:php/php/5",
       "DBG_TECH1:k/t/w:wordpress/php/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=3, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=41}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=41}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/dev",
@@ -3754,6 +3752,37 @@
     ],
     "tagsNames1": [
       "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend"
+    ]
+  },
+  {
+    "id": "wqLz4DLnRNuVk5_ypEapGA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "jobs.github.com-remote",
+    "url": "http://jobs.github.com/positions/67984114-cae7-11e7-890e-831d80899562",
+    "title": "Full Time: Sr. JavaScript Developer at Sticker Mule in Remote",
+    "content": "<p>Sticker Mule is the Internet's fastest growing printing company. We are privately-owned, profitable and powered by an outstanding remote team that supports the growth of our manufacturing operations. We aim to build one of the Internet’s best technical teams. Currently, our development team operates in 8 countries and we’re always looking for more exceptional developers to join us. <br></p><p><strong>Why we enjoy working here</strong> <br>1. We work flexible hours with an asynchronous culture. <br>2. We work at a sustainable pace without unreasonable external deadlines. <br>3. Varied, interesting technical challenges to work on. <br>4. Opportunities to make a large impact as part of a small, highly motivated team. <br></p><p><strong>What we look for</strong> <br><a href='https://www.stickermule.com/blog/characteristics-we-look-for-in-team-members' rel='nofollow'>https://www.stickermule.com/blog/characteristics-we-look-for-in-team-members</a> <br></p><p><strong>What you'll do</strong> <br>1. Design, build, test and maintain single page applications and front-end features. <br>2. Continually look for ways to improve the performance and user experience of our site. <br>3. Write clean, performant code in accordance with our team’s code style guidelines. <br>4. Work to improve and maintain the code health of our front-end code. <br>5. Collaborate with team leads and stakeholders to ensure that we’re always building the best possible solution in the optimal way. <br>6. Participate in peer code reviews. <br>7. Share expertise with other members of the team, mentor junior developers. <br></p><p><strong>About you</strong> <br>1. You have a minimum of 3 years professional software development experience. <br>2. You’re an expert in JavaScript and related tooling such as Webpack. <br>3. You’re obsessed with front-end performance. <br>4. You ideally have experience with React + Redux. <br>5. You possess strong analytical and critical thinking skills. <br>6. You have great written and verbal communication skills in English. <br></p><p><strong>Application requirements</strong> <br>1. Applicants will be sent a Hackerrank test within 1-3 business days of applying. <br>2. Test must be completed within 5 business days. <br></p>",
+    "urlFetchPending": false,
+    "published": "Nov 16, 2017 6:03:45 PM",
+    "tags": [
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=15}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
     ],
     "tagsNames2": [
       "frontend"
@@ -4722,14 +4751,12 @@
     "published": "Nov 9, 2017 6:14:02 PM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:internet-explorer/dotnet/6",
       "DBG_TECH1:k/t/w:internet-explorer/frontend/4",
       "DBG_TECH1:k/t/w:javascript/frontend/4",
       "DBG_TECH1:k/t/w:javascript/nodejs/4",
       "DBG_TECH1:k/t/w:npm/nodejs/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=6, c=0, mobile=0, go=0, nodejs=9, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=9, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
       "REMOTE1/100",
-      "TECH1/dotnet",
       "TECH1/frontend",
       "TECH1/nodejs",
       "TITLE1/dev",
@@ -4739,7 +4766,6 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "dotnet",
       "frontend",
       "nodejs"
     ]
@@ -5479,6 +5505,50 @@
       "ember.js",
       "frontend",
       "javascript"
+    ]
+  },
+  {
+    "id": "BTrsLwvLRrK1oiczveleAA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/156414/intermediate-senior-software-qa-engineer-daily-kos-kos-media-llc?a=QsipXNsNmyk",
+    "title": "Intermediate/Senior Software QA Engineer at Daily Kos (Kos Media LLC) (Oakland, CA) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>QA/Test Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Digital Media</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>We are seeking an experienced QA lead to shape the QA function at Daily Kos. Currently most QA at Daily Kos is done manually and the responsibility is spread across a few people on staff who also have other roles. This QA Engineer will be the first dedicated hire for QA and will have a significant role in shaping the department as we expand our development team and build out more capacity for automated testing. Applicants should be self-sufficient and comfortable working independently. In addition we are looking for someone who:</p><ul><li>can clearly and precisely document bugs and the steps to reproduce them</li><li>can write and follow detailed test plans for new features</li><li>can use the JavaScript console, debugger, and other browser developer tools</li><li>can write and run raw SQL queries in MySQL or PostgreSQL; knowledge of other data storage a plus</li><li>can read Ruby and JavaScript code&nbsp;</li><li>has awareness of typical programming errors and the unexpected things users do whether accidentally or maliciously</li><li>has exposure to performance and security testing</li><li>has exposure to front-end automated testing tools</li><li>can summon a maddeningly creative approach to breaking things and other chaos monkey skills</li><li>enjoys using the Daily Kos application in general</li><li>will advocate for our users both internally and externally to ensure they have the reliable tools that they need and do what they need and expect</li></ul><p>At Daily Kos, we believe that the diversity of ideas, experiences and cultures that our employees contribute to our organization help us be more effective in our work, and we are proud to be an inclusive and equal-opportunity workplace. We're a company that loves learning and supports growth and training for all our employees.</p><p>To apply, please send an email to <a href='mailto:tech_jobs@dailykos.com' rel='nofollow'>tech_jobs@dailykos.com</a> with the name of the position in the subject line, a cover letter, code sample or github repo and your resume (include your LinkedIn profile link).</p>                    </div>                            <h2>                About Daily Kos (Kos Media LLC)            </h2>            <div><p>DailyKos, the leading online progressive blogging and activism platform, is looking for an Intermediate/Senior Software QA Engineer.</p><p>DailyKos is a great place to work-- your code will be used by hundreds of thousands of people a day who care deeply about progressive politics and are working to effect real political change. We provide an extensive feature set that extends from blogging to activism and beyond. If you want a job that provides more than just a technical challenge, we'd love to hear from you.</p><p>The job offers a flexible work environment, the ability to work remotely (US only, please) on a distributed team of self-sufficient collaborators, competitive salary and benefits, and we provide an Apple MacBook Pro or your preferred comparable hardware. Our organization’s commitment to personal growth reduces churn and encourages a very rewarding long term position. We have an energized team filled with great people with different backgrounds.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 100% Medical Coverage                            </div>                            <div>                                 6 weeks paid vacation per year                            </div>                            <div>                                 401K Plan                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Nov 4, 2017 2:06:33 PM",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TECH1/ruby",
+      "TECH2/javascript",
+      "TECH2/mysql",
+      "TECH2/qa",
+      "TECH2/ruby",
+      "TECH2/testing",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "javascript",
+      "mysql",
+      "nodejs",
+      "qa",
+      "ruby",
+      "testing"
     ]
   },
   {
@@ -7301,6 +7371,50 @@
     ]
   },
   {
+    "id": "KH-uCmfXS6WiT9DAg8T2Lw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/150899/senior-emberjs-developer-subtext-media-ltd?a=OBCI2sOJ0OI",
+    "title": "Senior Ember.js Developer at Subtext Media Ltd. (Hartford, VT) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Frontend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Online Advertising, Online Classifieds, Online Media</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>We’re looking for an amazing Ember.js developer to build functional prototypes for early validation as part of our lean-inspired Build/Measure/Learn process. The successful applicant can be remote, but occasional on-site presence is required.</p><p><strong>About you:</strong></p><ul><li>You are a strong JavaScript developer and you pride yourself on crafting high quality, maintainable code</li><li>You know Ember.js like the back of your hand</li><li>You have prior experience in building and shipping applications or software in a startup environment as part of a software team</li><li>You can style practically anything using one of the popular naming methodologies (SuitCSS, BEM, SMACSS etc)</li><li>You are fluent on the command line</li><li>You are a team player who loves giving and receiving constructive feedback</li><li>You can TDD using Ember’s built-in test framework</li><li>You are knowledgeable about Ember’s addon ecosystem</li></ul><p><strong>As a Senior Ember.js Developer, you will:</strong></p><ul><li>Develop performant, customer-facing web applications with Ember.js</li><li>Work with the UX Designer and Product Team to explore conceptual ideas and produce well-instrumented functional prototypes for early validation. Work with the team to apply those learnings to iterative feature and product revisions</li><li>Work with the Dev Team to communicate requirements for any changes to the backend to support your work: bonus points if you can do this work yourself—perhaps you were a Rails developer in a previous life?</li><li>Support and mentor junior developers to build the strongest team possible</li><li>Conduct technical explorations and investigations as needed to determine how something should be built and then be able to explain your decisions</li><li>Thrive in a fast-paced agile environment that values best practices, good communication, your great ideas and lots of testing</li></ul><p><strong>Qualifications:</strong></p><ul><li>You have at least two years of solid production experience with Ember.js</li><li>Experience working closely in a collaborative fashion with a designer is very important and would set you apart from other applicants</li><li>Portfolio of projects you can point to that demonstrates detailed attention to typography, color, imagery, motion, graphic elements, and usability</li></ul><p><strong>Nice to have:</strong></p><ul><li>Experience working on Lean UX teams</li><li>Full-stack experience</li></ul><p><strong>Ideal location/business hours:</strong></p><ul><li>Remote with ability to work during EST business hours</li><li>Within commuting distance to White River Junction, VT for on-site visits a strong plus</li><li>You must have regular access to a quiet, distraction free working environment for pairing and calls</li></ul><p>Experience and ability to comfortably pair using remote tooling. Screenhero or similar during normal EST business hours.</p>                    </div>                            <h2>                About Subtext Media Ltd.            </h2>            <div><p>At Subtext Media we’re building the digital resource where locals can go for everything they need to know about where they live, work and play. Our proof-of-concept experience, DailyUV.com, serves the beautiful Upper Valley region along the Vermont/New Hampshire border.</p><p>We are headquartered in downtown White River Junction, VT -- half our team works remotely in various parts of the US and Canada. Everyone gathers in White River Junction for team building two or three times a year.</p><p>Our frontend is an Ember.js application running on Fastboot which connects to a Rails api backend, hosted on AWS. Our content and ad delivery is based upon NoSQL semantic databases utilizing natural language processing and machine learning.</p><p>We offer competitive wages and comprehensive benefits for employees, including health/dental/vision insurance, disability coverage, and a 401(k).</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Take what you need                            </div>                            <div>                                 Wide Choice of Plans                            </div>                            <div>                                 401K with Match                            </div>                            <div>                                 Flexible Hours                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Nov 4, 2017 2:06:33 PM",
+    "tags": [
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 2W hour",
+      "DBG:surround``can 2W remot",
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:ember.js/frontend/72",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/3",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/13",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=3, ruby=21, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=86}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH2/ember.js",
+      "TECH2/html",
+      "TECH2/javascript",
+      "TITLE1/dev",
+      "TZ/America/East"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "US East time zone"
+    ],
+    "tagsNames2": [
+      "ember.js",
+      "frontend",
+      "html",
+      "javascript"
+    ]
+  },
+  {
     "id": "wYxntckPSiCSyhAdR-W7xQ",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -7495,13 +7609,14 @@
       "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
       "DBG_TECH1:k/t/w:asp.net/dotnet/8",
       "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
       "DBG_TECH1:k/t/w:javascript/frontend/2",
       "DBG_TECH1:k/t/w:javascript/nodejs/2",
       "DBG_TECH1:k/t/w:npm/nodejs/5",
       "DBG_TECH1:k/t/w:reactjs/frontend/8",
       "DBG_TECH1:k/t/w:sql-server/dotnet/1",
       "DBG_TECH1:k/t/w:webpack/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=9, c=0, mobile=0, go=0, nodejs=7, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=18}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=9, c=0, mobile=0, go=0, nodejs=7, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=18}",
       "REMOTE1/50",
       "TECH1/frontend",
       "TECH2/html",
