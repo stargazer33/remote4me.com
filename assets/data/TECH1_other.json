@@ -75,39 +75,6 @@
     ]
   },
   {
-    "id": "bI7NTt5DRb6lB2JowdRbGw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4042-server-operator-remote-in-europe-asia-region-dnsimple",
-    "title": "Server Operator (Remote in Europe/Asia region) @ DNSimple",
-    "content": "<h2>              Server Operator (Remote in Europe/Asia region)<small> @ DNSimple</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-12-06 03:52</p></dd>          <dt><span>Description</span></dt>          <dd><p>We are looking for a person to add to our talented server operations staff in the Europe or Asia Pacific regions. You will help us to keep our systems online to deliver the best DNS service to our customers around the world.</p><h5>Required skills and experience</h5><p><strong>Chef</strong></p><p>We automate everything we can with Chef and their products, having experience with this is the most important requirement.</p><p><strong>Open source contributions</strong></p><p>Our team contributes a lot to the open source community and we hope you do as well. We would love to see what you've done to help others.</p><h5>Other skills</h5><ul><li>Empathy and communication; Since we are distributed, we communicate mostly in written form, via pull requests, Slack and with our customers when doing support. Being able to understand and make yourself understood to customers and colleagues is essential.</li><li>Ability to learn; We manage many different technologies, sometimes in new, innovative ways. We are constantly touching and improving our platform. We celebrate curiosity and creativity.</li></ul><h5>Job requirements</h5><ul><li>Customer support; Everyone at the company does day to day support to our customers. The operations team is also required to provide support to our internal teams. We appreciate people sensitive to our customer's needs.</li><li>Remote work; We are remote first and we work asynchronously. We have a team focused environment which requires good collaboration skills, but sometimes you'll need to be able to self drive and work alone, then sync back up for reviews and reporting. Asking lots questions is part of everyone's day to day.</li><li>Writing documentation; Since we are all async, good caring on documentation is something we all do and value.</li><li>Travel; We meet up three times a year. We don't require you to go to a conference but we'll support you if you want to speak at one.</li><li>On-call rotation; Everyone technical (operators and developers) helps with the pager rotation to keep our systems working.</li></ul><h5>Our Stack</h5><p>This is the software and systems we deploy and run today. Knowledge and demonstrable skills with any of these are major bonus points.</p><ul><li>Ubuntu Linux (We're on 14.04 and migrating to 16.04)</li><li>DataDog (How we submit metrics data to monitor all the things. Metrics/Monitoring experience is a bonus)</li><li>PostgreSQL (Storing all the data to serve to our internal services)</li><li>Ruby (Our website and API is built on it along with a few of our operations utilities)</li><li>GoLang (Used to help ship zone updates to our name servers and perform redirects)</li><li>Erlang (The beast behind our DNS servers)</li><li>Nginx and HAProxy (Used heavily to secure and serve our various APIs)</li><li>Redis (All our stats and background queues to process everything)</li><li>Python (Used in our DataDog agent to help parse logs and teach it new monitoring tricks)</li></ul></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere*</p></dd>            <dt><span>Location</span></dt>            <dd><p>Remote in Europe/Asia region</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Dec 6, 2017 5:52:09 AM",
-    "tags": [
-      "DBG_TECH1:k/t/w:erlang/other/5",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=6, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "go",
-      "other"
-    ]
-  },
-  {
     "id": "DJDZS3NHQQezfE38sb9hKg",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -139,203 +106,6 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "other"
-    ]
-  },
-  {
-    "id": "S-eg-u_xSfG4XzW038wPUA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/154999/software-engineer-site-reliability-and-sticker-mule?a=PYSg6bMYPZK",
-    "title": "Software engineer: site reliability and infrastructure at Sticker Mule () (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>System Administrator</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>eCommerce, Manufacturing</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>201-500 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>What you'll do</strong></p><p>1. Design, build and maintain tools to develop, test and deploy services efficiently.</p><p>2. Work to continually improve the performance, reliability and security of the StickerMule cloud infrastructure.</p><p>3. Collaborate with team leads and stakeholders to ensure that we’re always building the best possible solution in the optimal way.</p><p>4. Participate in peer code reviews.</p><p>5. Share expertise with other members of the team, mentor junior developers.</p><p><strong>About you</strong></p><p>1. You have a minimum of 3 years professional software development experience.</p><p>2. You’re highly competent in multiple general purpose languages, like Go, Ruby, and JavaScript.</p><p>3. You have Linux roots, you contain with Docker, you schedule with Kubernetes.</p><p>4. You don’t run away if you see a Bash script.</p><p>5. You have multi-cloud practical experience, AWS and Google Cloud would be especially beneficial.</p><p>6. You implemented and used logging, monitoring and distributed tracing systems.</p><p>7. You possess strong analytical and critical thinking skills.</p><p>8. You have great written and verbal communication skills in English.</p><p><strong>Application requirements</strong></p><p>1. Applicants will be sent a Hackerrank test within 1-3 business days of applying.</p><p>2. Test must be completed within 5 business days.</p><p><strong>Apply here only</strong></p><p><a href='https://www.stickermule.com/jobs?job=5fa3b36b-7700-4bbf-8137-cacee65bc805&amp;title=sr-frontend-developer' rel='nofollow'>https://www.stickermule.com/jobs?job=5fa3b36b-7700-4bbf-8137-cacee65bc805&amp;title=sr-frontend-dev…</a></p>                    </div>                            <h2>                About Sticker Mule            </h2>            <div><p>Sticker Mule is the Internet's fastest growing printing company. We are privately-owned, profitable and powered by an outstanding remote team that supports the growth of our manufacturing operations. We aim to build one of the Internet’s best technical teams. Currently, our development team operates in 8 countries and we’re always looking for more exceptional developers to join us.</p><p><strong>Why we enjoy working here</strong></p><p>1. We work flexible hours with an asynchronous culture.</p><p>2. We work at a sustainable pace without unreasonable external deadlines.</p><p>3. Varied, interesting technical challenges to work on.</p><p>4. Opportunities to make a large impact as part of a small, highly motivated team.</p><p><strong>What we look for</strong> <a href='https://www.stickermule.com/blog/characteristics-we-look-for-in-team-members' rel='nofollow'>https://www.stickermule.com/blog/characteristics-we-look-for-in-team-members</a></p>            </div>                                <h2>Benefits</h2>                            <div>                                 Flexible hours with asynchronous culture.                            </div>                            <div>                                 Sustainable work pace without unreasonable expectations or deadlines.                            </div>                            <div>                                 Varied, interesting technical challenges.                            </div>                            <div>                                 Opportunities to make a large impact as a small team.                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 17, 2017 8:18:19 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:bash/other/2",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/other",
-      "TECH1/ruby",
-      "TECH2/amazon-web-services",
-      "TECH2/go",
-      "TECH2/google-cloud-platform",
-      "TECH2/javascript",
-      "TECH2/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "amazon-web-services",
-      "go",
-      "google-cloud-platform",
-      "javascript",
-      "other",
-      "ruby"
-    ]
-  },
-  {
-    "id": "Bk3HtJprRiqFMVYOrPVZng",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/159735/operations-engineer-daily-kos-kos-media-llc?a=RzlIfH6VdMQ",
-    "title": "Operations Engineer at Daily Kos (Kos Media LLC) (Oakland, CA) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>System Administrator</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Digital Media</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>We are seeking a self-sufficient, operations-at-scale experienced remote worker (U.S. residents only) who:</p><ul><li><ul><li>Proficient in Ruby, Python or Go</li><li>Veteran of Linux and Bash (Shell Scripting)</li><li>Deep knowledge of AWS or similar Cloud Services Provider</li><li>Skilled with docker, docker-compose, and other docker development tools</li><li>Production experience with AWS ECS, Kubernetes, Nomad or similar Task Scheduler</li><li>Knowledgeable about Hashicorp tools, specifically Packer, Consul and Vault</li><li>Informed on ETL processes and techniques</li><li>Comfortable working with very large data sets</li></ul></li></ul><p>At Daily Kos, we believe that the diversity of ideas, experiences and cultures that our employees contribute to our organization help us be more effective in our work, and we are proud to be an inclusive and equal-opportunity workplace. We're a company that loves learning and supports growth and training for all our employees.</p><p>To apply, please send an email to <a href='mailto:tech_jobs@dailykos.com' rel='nofollow'>tech_jobs@dailykos.com</a> with the name of the position in the subject line, a cover letter, code sample or github repo and your resume (include your LinkedIn profile link).</p>                    </div>                            <h2>                About Daily Kos (Kos Media LLC)            </h2>            <div><p>DailyKos, the leading online progressive blogging and activism platform, is looking for an Infrastructure &amp; Backend Developer. DailyKos is a great place to work-- your code will be used by hundreds of thousands of people a day who care deeply about progressive politics and are working to effect real political change. We provide an extensive feature set that extends from blogging to activism and beyond. If you want a job that provides more than just a technical challenge, we'd love to hear from you.</p><p>The job offers a flexible work environment, the ability to work remotely on a distributed team of self-sufficient collaborators, competitive salary and benefits, and we provide an Apple MacBook Pro or your comparable preferred hardware. Our organizations commitment to personal growth reduces churn and encourages a very rewarding long term position. We have an energized team filled with great people with different backgrounds.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 100% Medical Coverage                            </div>                            <div>                                 6 weeks paid vacation per year                            </div>                            <div>                                 401K Plan                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 17, 2017 8:18:19 PM",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:shell/other/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TECH1/other",
-      "TECH1/python",
-      "TECH2/amazon-web-services",
-      "TECH2/go",
-      "TECH2/linux",
-      "TECH2/python",
-      "TECH2/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "amazon-web-services",
-      "go",
-      "linux",
-      "other",
-      "python",
-      "ruby"
-    ]
-  },
-  {
-    "id": "hfj8gJEBRKeKknOoezVi3A",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-sysadmin",
-    "url": "https://weworkremotely.com/jobs/5728-software-engineer-site-reliability-and",
-    "title": "Sticker Mule: Software engineer: site reliability and infrastructure",
-    "content": "<div>  <div>    <h2>Software engineer: site reliability and infrastructure</h2>      <h4>Posted Nov 10</h4>    <h3>      <span>Sticker Mule</span><br>      <span>Headquarters: New York, NY</span><br>        <a href='https://www.stickermule.com/blog' rel='nofollow'>https://www.stickermule.com/blog</a>    </h3>  </div>    </div>  <div>    <div>Sticker Mule is the Internet's fastest growing printing company. We are privately-owned, profitable and powered by an outstanding remote team that supports the growth of our manufacturing operations. We aim to build one of the Internet’s best technical teams. Currently, our development team operates in 8 countries and we’re always looking for more exceptional developers to join us.&nbsp;</div><div></div><div><br></div><div></div><div><b>Why we enjoy working here</b>&nbsp;<br></div><div></div><div>1. We work flexible hours with an asynchronous culture.&nbsp;<br></div><div></div><div>2. We work at a sustainable pace without unreasonable external deadlines.&nbsp;<br></div><div></div><div>3. Varied, interesting technical challenges to work on.&nbsp;<br></div><div></div><div>4. Opportunities to make a large impact as part of a small, highly motivated team.&nbsp;<br></div><div></div><div></div><div><br></div><div></div><div><b>What you’ll do</b>&nbsp;<br></div><div></div><div>1. Design, build and maintain tools to develop, test and deploy services efficiently.&nbsp;<br></div><div></div><div>2. Work to continually improve the performance, reliability and security of the StickerMule cloud infrastructure.&nbsp;<br></div><div></div><div>3. Collaborate with team leads and stakeholders to ensure that we’re always building the best possible solution in the optimal way.&nbsp;<br></div><div></div><div>4. Participate in peer code reviews.&nbsp;<br></div><div></div><div>5. Share expertise with other members of the team, mentor junior developers.&nbsp;<br></div><div></div><div></div><div><br></div><div></div><div><b>About you</b>&nbsp;<br></div><div></div><div>1. You have a minimum of 3 years professional software development experience.&nbsp;<br></div><div></div><div>2. You’re highly competent in multiple general purpose languages, like Go, Ruby, and JavaScript.&nbsp;<br></div><div></div><div>3. You have Linux roots, you contain with Docker, you schedule with Kubernetes.&nbsp;<br></div><div></div><div>4. You don’t run away if you see a Bash script.&nbsp;<br></div><div></div><div>5. You have multi-cloud practical experience, AWS and Google Cloud would be especially beneficial.&nbsp;<br></div><div></div><div>6. You implemented and used logging, monitoring and distributed tracing systems.&nbsp;<br></div><div></div><div>7. You possess strong analytical and critical thinking skills.&nbsp;<br></div><div></div><div>8. You have great written and verbal communication skills in English.&nbsp;<br></div><div></div><div></div><div><br></div><div></div><div><b>Application requirements</b>&nbsp;<br></div><div></div><div>1. Applicants will be sent a Hackerrank test within 1-3 days of applying.&nbsp;<br></div><div></div><div>2. Test must be completed within 5 days.</div><div><br></div><div></div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Apply here only: <a href='https://www.stickermule.com/jobs?job=fa137148-6549-46e9-8fd3-f4c3179501d3&amp;title=software-engineer-site-reliability-and-infrastructure' rel='nofollow'>https://www.stickermule.com/jobs?job=fa137148-6549-46e9-8fd3-f4c3179501d3&amp;title=software-engineer-site-reliability-and-infrastructure</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Nov 10, 2017 9:09:02 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:bash/other/2",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/other",
-      "TECH1/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "other",
-      "ruby"
-    ]
-  },
-  {
-    "id": "BWZfIVZ1Ta66edKsMxwrJQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "jobs.github.com-remote",
-    "url": "http://jobs.github.com/positions/ee749d96-c645-11e7-91c7-373ec81561f7",
-    "title": "Full Time: Software engineer: site reliability and infrastructure at Sticker Mule in Remote",
-    "content": "<p>Sticker Mule is the Internet's fastest growing printing company. We are privately-owned, profitable and powered by an outstanding remote team that supports the growth of our manufacturing operations. We aim to build one of the Internet’s best technical teams. Currently, our development team operates in 8 countries and we’re always looking for more exceptional developers to join us. <br></p><p><strong>Why we enjoy working here</strong> <br>1. We work flexible hours with an asynchronous culture. <br>2. We work at a sustainable pace without unreasonable external deadlines. <br>3. Varied, interesting technical challenges to work on. <br>4. Opportunities to make a large impact as part of a small, highly motivated team. <br></p><p><strong>What you’ll do</strong> <br>1. Design, build and maintain tools to develop, test and deploy services efficiently. <br>2. Work to continually improve the performance, reliability and security of the StickerMule cloud infrastructure. <br>3. Collaborate with team leads and stakeholders to ensure that we’re always building the best possible solution in the optimal way. <br>4. Participate in peer code reviews. <br>5. Share expertise with other members of the team, mentor junior developers. <br></p><p><strong>About you</strong> <br>1. You have a minimum of 3 years professional software development experience. <br>2. You’re highly competent in multiple general purpose languages, like Go, Ruby, and JavaScript. <br>3. You have Linux roots, you contain with Docker, you schedule with Kubernetes. <br>4. You don’t run away if you see a Bash script. <br>5. You have multi-cloud practical experience, AWS and Google Cloud would be especially beneficial. <br>6. You implemented and used logging, monitoring and distributed tracing systems. <br>7. You possess strong analytical and critical thinking skills. <br>8. You have great written and verbal communication skills in English. <br></p><p><strong>Application requirements</strong> <br>1. Applicants will be sent a Hackerrank test within 1-3 days of applying. <br>2. Test must be completed within 5 days. <br></p>",
-    "urlFetchPending": false,
-    "published": "Nov 10, 2017 8:37:44 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:bash/other/2",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/other",
-      "TECH1/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "other",
-      "ruby"
-    ]
-  },
-  {
-    "id": "CvsqwtY2R5aeYsrkpqz2bw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/158155/senior-operations-tls-engineer-fastly?a=R2uQiuCrx4Y",
-    "title": "Senior Operations / TLS Engineer at Fastly (Portland, OR) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>System Administrator</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Internet Infrastructure</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>201-500 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>VC Funded</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>Senior Operations / TLS Engineer</strong></p><p>We’re looking for talented engineers with experience in building, monitoring, supporting and automating backend systems to join our team. This role is responsible for building, enhancing and maintaining the platform to deliver our core CDN configurations as well as our future Edge Cloud products. We have local offices in San Francisco, Portland and other locations. Remote workers are also encouraged to apply. Pacific time zone or close to is preferred.</p><p>To be effective in this role, you would have:</p><ul><li>Understanding of TLS and DNS in use in CDNs or other global networks.</li><li>Experience with Go, Python, Bash in distributed applications (Perl, Ruby also good).</li><li>Experience operating and managing always-on multi-tier systems.</li><li>Experience operating, diagnosing and managing in a heterogeneous environment.</li><li>Experience improving the reliability and efficiency of fault-tolerant distributed systems.</li><li>Superhuman attention to detail is a bonus!</li></ul><p>We value a variety of voices, so this is not a laundry list. &nbsp;You’ll be a good candidate if you have experience and/or interest in SOME of these:</p><ul><li>Interest in TLS internals: certificate chain handling, cross signing, Certification Authorities, ACME</li><li>Maintaining and contributing to large-scale and/or global production systems</li><li>Software and systems archeology</li><li>Linux/UNIX systems, both high and low level</li><li>Expertise in analyzing, profiling, and troubleshooting and large-scale, distributed systems</li><li>Experience with software engineering best practices (e.g. unit testing, code reviews, release deployment)</li></ul><p><em>Fastly provides equal employment opportunity without regard to an applicant’s race, sex, pregnancy, sexual orientation, gender identity or expression, genetic information, national origin, age, physical or mental disability, medical condition, religion, marital status or veteran status.&nbsp;</em></p><p><em>Applicants with disabilities may be entitled to reasonable accommodation under the terms of the Americans with Disabilities Act and certain state or local laws. A reasonable accommodation is a change in the way things are normally done which will ensure an equal employment opportunity without imposing undue hardship on Fastly. Please inform us if you need assistance completing any forms or to otherwise participate in the application process.&nbsp;</em></p>                    </div>                            <h2>                About Fastly            </h2>            <div><p>Fastly helps the world’s most popular digital businesses keep pace with their customer expectations by delivering fast, secure, and scalable online experiences. Businesses trust Fastly to accelerate the pace of technical innovation, mitigate evolving threats, and scale on demand. Founded in 2011, Fastly powers online destinations including Airbnb, GitHub, Alaska Airlines, Pinterest, Vimeo, The Guardian, The New York Times and Ticketmaster.</p><p>The worldwide cloud services market is projected to grow rapidly to $236 billion in 2020, according to Forrester, Inc. As more and more businesses move operations to the cloud, Fastly is well positioned to continue increasing CDN, cloud networking and cloud security market share with edge cloud services that reach beyond content delivery.</p><p>We’re building a better Internet. Come join us.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Catered Lunches                            </div>                            <div>                                 Dog-Friendly                            </div>                            <div>                                 Flexible Working Hours                            </div>                            <div>                                 Beer, Wine, Cold Brew On Tap                            </div>                            <div>                                 Walking distance from BART and CalTrain                            </div>                            <div>                                 Unlimited PTO                            </div>                            <div>                                 Wellness: Yoga                            </div>                            <div>                                 Frequent Tech Talks                            </div>                            <div>                                 Sponsors Meetups                            </div>                            <div>                                 Fully-covered Health, Dental, and Vision Insurance                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:perl/other/5",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=6, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TECH2/linux",
-      "TITLE1/admin",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "linux",
       "other"
     ]
   },
@@ -376,55 +146,6 @@
     ]
   },
   {
-    "id": "OiRPKE6ISC2CPjcV2-flGg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/154995/lead-support-engineer-eleos-technologies?a=PYN6o5Du9Fe",
-    "title": "Lead Support Engineer at Eleos Technologies (Greenville, SC) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level</span>                                        </div>                                        <div>                                            <span>Industry: </span>                                            <span>Mobile, Transportation</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><span>Do you have coding experience, but prefer people to code?</span></p><p><span>We are looking for lead support engineer who can provide excellent customer support to our diverse customer base. &nbsp;We're bringing the transportation industry into the 21st century using mobile software. We're a small, distributed team that creates and runs SaaS products for trucking fleets and mobile workforces. As a startup, we live and breathe open source, http, Amazon web services, functional programming, etc. Our customers run our mobile products on iOS and Android and server-side they tend to work in Windows Server. Your challenge will be to bridge these worlds.</span></p><p><strong>What we offer:</strong></p><ul><li>You'll be able to work from the comfort of your own home, or our office in Greenville, SC.</li><li>You will learn something almost every day. If you've ever wanted to read and touch Erlang or Clojure code, here's your chance!</li><li>You will work with a highly skilled team that cares about what we do and how we treat each other. We take our work seriously, and we have fun doing it.</li><li>Work/life balance is extremely important to us. We work to live, not live to work</li></ul><p><strong><span>What we're looking for: &nbsp;</span></strong></p><ul><li>Above all, a helpful spirit.</li><li>Excellent and open communication skills. &nbsp;We need you to talk to our mobile users who are truck drivers as well as well as our enterprise customers' business managers and IT staff.</li><li>A technical background: you can read code easily, maybe even write some, and you aren't afraid to dig into a code base to track down an issue.</li><li>SQL/relational database skill -- this skill enables you to analyze and solve problems. &nbsp;We'll also ask you to create and modify reports on occasion.</li><li>Background in software development. &nbsp;Your ability to do read and understand code will also help you to analyze problems and communicate with our team of developers.</li><li>Comfort with a command line -- rails console experience is a plus.</li><li>Firm grasp of web and mobile technology.</li><li>Experience with github and open source software.</li><li>Experience with trucking dispatch software and/or operations.</li></ul><p>You will be the primary point of contact for all of our customers and we'll depend on you to provide a excellent support experience for each of them. &nbsp;You will handle most support issues to full resolution; some you'll escalate to our development team while monitoring and following up as needed until resolved. As Customer Champion, you'll constantly look for ways to improve our support processes and tools as our company grows.</p><p>The kinds of support you'll provide will be many and varied: helping a truck driver reset a password, resolving billing questions and issues, brainstorming with a customer on creative ways to use our platform, bug tracking and QA for our mobile and web apps, helping our customers' developers troubleshoot their web services, creating robust custom reports using SQL, sales support for potential customers, spelunking through log files to track down a bug, updating and deploying configuration changes using Git and Heroku, writing and executing Ruby scripts, troubleshooting FTP issues, patiently explaining to a frustrated user how to change a setting on his iPhone, writing concise documentation, submitting and tracking bug reports and feature requests, and plenty more.&nbsp;</p><p>The ideal candidate will find satisfaction in the interesting, technical tasks as well as the more routine or mundane ones, and provide excellent support tailored to the user's technical ability (or lack thereof). You're great at reading between the lines, seeing underlying issues and common threads between issues, and finding creative solutions and workarounds to unique problems. You're extremely comfortable working and communicating directly with developers technical teams. You're empathetic, patient, and you take ownership of issues in a way that instills confidence in customers.&nbsp;</p>                    </div>                            <h2>                About Eleos Technologies            </h2>            <div><p>A profitable early-stage company, Eleos Technologies provides mobile driver communication solutions for fleet truck drivers. &nbsp;Our clients are large companies with thousands of drivers and remote workers. &nbsp;Our team is&nbsp;currently distributed&nbsp;in Greenville, SC, and NC, NY, FL, CO, GA.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Work remotely.                            </div>                            <div>                                 Huge variety.                            </div>                            <div>                                 Highly skilled team.                            </div>                            <div>                                 Work/life balance.                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:clojure/other/5",
-      "DBG_TECH1:k/t/w:erlang/other/5",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:iphone/apple/2",
-      "DBG_TECH1:k/t/w:iphone/mobile/2",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=6, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=4, java=1, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TECH1/ruby",
-      "TECH2/.net",
-      "TECH2/amazon-web-services",
-      "TECH2/android",
-      "TECH2/ios",
-      "TECH2/sql",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      ".net",
-      "amazon-web-services",
-      "android",
-      "ios",
-      "other",
-      "ruby",
-      "sql"
-    ]
-  },
-  {
     "id": "ZooeDgcrTf6pxBhC7RTH6A",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -440,13 +161,16 @@
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
       "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
       "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:intellij-idea/java/16",
       "DBG_TECH1:k/t/w:javascript/frontend/1",
       "DBG_TECH1:k/t/w:javascript/nodejs/1",
       "DBG_TECH1:k/t/w:jquery/frontend/8",
       "DBG_TECH1:k/t/w:perl/other/20",
-      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=16, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1/100",
+      "TECH1/java",
       "TECH1/other",
       "TECH2/jquery",
       "TECH2/perl",
@@ -457,51 +181,10 @@
       "100% remote"
     ],
     "tagsNames2": [
+      "java",
       "jquery",
       "other",
       "perl"
-    ]
-  },
-  {
-    "id": "bnv5pNitSVSN6pln094gzQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/156413/infrastructure-backend-developer-daily-kos-kos-media-llc?a=Qsh82gVqbYc",
-    "title": "Infrastructure & Backend Developer at Daily Kos (Kos Media LLC) (Oakland, CA) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Digital Media</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>We are seeking a self-sufficient, operations-at-scale experienced remote worker (U.S. residents only) who:</p><ul><li>can comparatively weigh tradeoffs of different configuration management, scheduling, and infrastructure design approaches</li><li>has a deep understanding of distributed systems from the network level up</li><li>has experience with AWS deployments relying on EC2 primitives (VPCs, subnets, security groups, instances, load balancers, auto scaling groups, ...) and preferably RDS too.</li><li>has experience with convergent and congruent configuration management systems and can articulate the pros or cons of each</li><li>has exposure to functional programming such as with the Nix expression language or Haskell</li><li>has exceptional operational troubleshooting capabilities</li><li>has operationally managed stateful services like Kafka or ElasticSearch and their upgrades, or other complex stateful JVM infrastructure components with a production-level SLA</li><li>has interest in working on backend services or monitoring systems which are currently written in Ruby and Haskell. Haskell coaching, pointers, reviews available for your growth, not required upfront. :)</li><li>has production experience deploying Nix/NixOS systems at scale (highly preferred).</li></ul><p>At Daily Kos, we believe that the diversity of ideas, experiences and cultures that our employees contribute to our organization help us be more effective in our work, and we are proud to be an inclusive and equal-opportunity workplace. We're a company that loves learning and supports growth and training for all our employees.</p><p>To apply, please send an email to <a href='mailto:tech_jobs@dailykos.com' rel='nofollow'>tech_jobs@dailykos.com</a> with the name of the position in the subject line, a cover letter, code sample or github repo and your resume (include your LinkedIn profile link).</p>                    </div>                            <h2>                About Daily Kos (Kos Media LLC)            </h2>            <div><p>DailyKos, the leading online progressive blogging and activism platform, is looking for an Infrastructure &amp; Backend Developer. DailyKos is a great place to work-- your code will be used by hundreds of thousands of people a day who care deeply about progressive politics and are working to effect real political change. We provide an extensive feature set that extends from blogging to activism and beyond. If you want a job that provides more than just a technical challenge, we'd love to hear from you.</p><p>The job offers a flexible work environment, the ability to work remotely on a distributed team of self-sufficient collaborators, competitive salary and benefits, and we provide an Apple MacBook Pro or your comparable preferred hardware. Our organizations commitment to personal growth reduces churn and encourages a very rewarding long term position. We have an energized team filled with great people with different backgrounds.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 100% Medical Coverage                            </div>                            <div>                                 6 weeks paid vacation per year                            </div>                            <div>                                 401K Plan                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "DBG_TECH1:k/t/w:haskell/other/15",
-      "DBG_TECH1:k/t/w:jvm/java/13",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=13, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/java",
-      "TECH1/other",
-      "TECH2/amazon-web-services",
-      "TECH2/apache-kafka",
-      "TECH2/haskell",
-      "TECH2/nix",
-      "TECH2/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "amazon-web-services",
-      "apache-kafka",
-      "haskell",
-      "java",
-      "nix",
-      "other",
-      "ruby"
     ]
   },
   {
@@ -624,12 +307,13 @@
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
       "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
       "DBG_TECH1:k/t/w:go/go/3",
       "DBG_TECH1:k/t/w:javascript/frontend/1",
       "DBG_TECH1:k/t/w:javascript/nodejs/1",
       "DBG_TECH1:k/t/w:jquery/frontend/8",
       "DBG_TECH1:k/t/w:perl/other/20",
-      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1/100",
       "TECH1/other",
       "TITLE1/dev",
@@ -663,40 +347,6 @@
       "REMOTE1/100",
       "TECH1/other",
       "TITLE1/dev",
-      "TZ/America/West"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "US Pacific time zone"
-    ],
-    "tagsNames2": [
-      "other"
-    ]
-  },
-  {
-    "id": "z8oFT5ZWQRy8zIBvRg1EZw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/62595",
-    "title": "Senior Operations TLS Engineer",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong>Senior Operations / TLS Engineer</strong></p><br><p>We’re looking for talented engineers with experience in building, monitoring, supporting and automating backend systems to join our team. This role is responsible for building, enhancing and maintaining the platform to deliver our core CDN configurations as well as our future Edge Cloud products. We have local offices in San Francisco, Portland and other locations. Remote workers are also encouraged to apply. Pacific time zone or close to is preferred.</p><br><p>To be effective in this role, you would have:</p><br><ul><br><li>Understanding of TLS and DNS in use in CDNs or other global networks.</li><br><li>Experience with Go, Python, Bash in distributed applications (Perl, Ruby also good).</li><br><li>Experience operating and managing always-on multi-tier systems.</li><br><li>Experience operating, diagnosing and managing in a heterogeneous environment.</li><br><li>Experience improving the reliability and efficiency of fault-tolerant distributed systems.</li><br><li>Superhuman attention to detail is a bonus!</li><br></ul><br><p>We value a variety of voices, so this is not a laundry list. &nbsp;You’ll be a good candidate if you have experience and/or interest in SOME of these:</p><br><ul><br><li>Interest in TLS internals: certificate chain handling, cross signing, Certification Authorities, ACME</li><br><li>Maintaining and contributing to large-scale and/or global production systems</li><br><li>Software and systems archeology</li><br><li>Linux/UNIX systems, both high and low level</li><br><li>Expertise in analyzing, profiling, and troubleshooting and large-scale, distributed systems</li><br><li>Experience with software engineering best practices (e.g. unit testing, code reviews, release deployment)</li><br></ul><br><p><em>Fastly provides equal employment opportunity without regard to an applicant’s race, sex, pregnancy, sexual orientation, gender identity or expression, genetic information, national origin, age, physical or mental disability, medical condition, religion, marital status or veteran status.&nbsp;</em></p><br><p><em>Applicants with disabilities may be entitled to reasonable accommodation under the terms of the Americans with Disabilities Act and certain state or local laws. A reasonable accommodation is a change in the way things are normally done which will ensure an equal employment opportunity without imposing undue hardship on Fastly. Please inform us if you need assistance completing any forms or to otherwise participate in the application process.&nbsp;</em></p></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Oct 20, 2017 8:55:26 PM",
-    "tags": [
-      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:perl/other/5",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=6, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/admin",
       "TZ/America/West"
     ],
     "tagsNames1": [

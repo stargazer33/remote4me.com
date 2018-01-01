@@ -308,13 +308,14 @@
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG_TECH1:k/t/w:classification/bigdata-ml/1",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
       "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/6",
       "DBG_TECH1:k/t/w:php/php/5",
       "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=7, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=31, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/bigdata-ml",
-      "TECH1/php",
       "TITLE1/sales",
       "TZ/America"
     ],
@@ -323,8 +324,7 @@
       "American time zones"
     ],
     "tagsNames2": [
-      "bigdata-ml",
-      "php"
+      "bigdata-ml"
     ]
   },
   {
@@ -681,7 +681,8 @@
       "DBG_TECH1:k/t/w:dotnet/dotnet/8",
       "DBG_TECH1:k/t/w:drupal/php/5",
       "DBG_TECH1:k/t/w:fabric/python/8",
-      "DBG_TECH1:k/t/w:go/go/9",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:golang/go/16",
       "DBG_TECH1:k/t/w:haskell/other/5",
       "DBG_TECH1:k/t/w:java/java/2",
       "DBG_TECH1:k/t/w:java/mobile/1",
@@ -691,8 +692,9 @@
       "DBG_TECH1:k/t/w:python/python/6",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
       "DBG_TECH1:k/t/w:symfony/php/8",
-      "DBG_TECH1:techWeightMap:{python=14, other=5, dotnet=8, c=0, mobile=1, go=9, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=26, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=14, other=5, dotnet=8, c=0, mobile=1, go=19, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=26, embedded=0, frontend=0}",
       "REMOTE1/100",
+      "TECH1/go",
       "TECH1/php",
       "TECH2/amazon-web-services",
       "TECH2/elixir",
@@ -937,13 +939,13 @@
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
       "DBG:surround``can 2W remot",
       "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:intellij-idea/java/8",
       "DBG_TECH1:k/t/w:javascript/frontend/1",
       "DBG_TECH1:k/t/w:javascript/nodejs/1",
       "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/python",
+      "TECH1/java",
       "TITLE1/sales",
       "TZ/unknown"
     ],
@@ -951,8 +953,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "go",
-      "python"
+      "java"
     ]
   },
   {
@@ -970,13 +971,13 @@
     "tags": [
       "DBG:surround``can 2W remot",
       "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:intellij-idea/java/8",
       "DBG_TECH1:k/t/w:javascript/frontend/1",
       "DBG_TECH1:k/t/w:javascript/nodejs/1",
       "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1/50",
-      "TECH1/go",
-      "TECH1/python",
+      "TECH1/java",
       "TITLE1/sales",
       "TZ/unknown"
     ],
@@ -984,8 +985,7 @@
       "50% remote"
     ],
     "tagsNames2": [
-      "go",
-      "python"
+      "java"
     ]
   },
   {

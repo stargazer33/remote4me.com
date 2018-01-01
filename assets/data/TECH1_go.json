@@ -1,36 +1,6 @@
 {
  "items": [
   {
-    "id": "2eRs3vAXRbmBBkDPEovojw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/162430/golang-developer-employer-represented-by?a=StnZJ3N6eeA",
-    "title": "Golang Developer at employer represented by techfolk (Bristol, UK) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Contract</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Full Stack Developer</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>Fresh8 Gaming is hiring for a Golang Developer, offering three months', potentially remote, coding and API integration work - December to January start - possibly longer.</p><p>This is chance to work on high throughput systems, building experience around transforming dynamic third party APIs to static Golang data structures.</p><p>Fresh8 has created software that instantly connects sport fans with personalised bets. Our marketing automation technology delivers rich messaging, a simpler user experience and increasing profitability to the sports betting industry. We've been using Golang in production for years and our entire stack is built from open source technology. Check us out on <a title=&quot;Fresh8 on Github&quot; href='https://github.com/fresh8' rel='nofollow'>Github</a>.</p><p>We need you to augment our data feed integration processes as we on-board new clients, undertaking important API integration work, troubleshooting and testing. We may also invite you to write an automated testing suite to further improve our automation.</p><p>Once familiar, you may work remotely for the majority of the time, or from the London or Bristol office if you prefer.</p><p><strong>About you</strong></p><ul><li>Proven Golang skills and a good understanding of how API's work</li><li>Competent working with XML and JSON</li><li>Effective working across multiple projects of varying complexity</li><li>Pick things up quickly, excellent troubleshooting skills, require little supervision</li><li>Familiarity with PostgreSQL or MySQL</li><li>Strong attention to testing, and you document properly</li><li>Considering Golang contracts in London or Bristol such as: Go Developer | Golang Developer | Gopher | Back End Developer | Golang Software Engineer | Go Software Engineer | etc.</li></ul><p><strong>We'll help you get up to speed on our technology mix</strong></p><p>Golang | microservices | Prometheus | PostgreSQL | Redis | distributed systems | Kanban | TDD | and more...</p><p><strong>Pay and terms</strong></p><ul><li>c.£300 - £400 per day, negotiable</li><li>Three months anticipated duration (up to end of March)</li><li>Optionally; remote, after one to two weeks at the London or Bristol office</li></ul>                    </div>                            <h2>                About employer represented by techfolk            </h2>            <div><p>techfolk is working on behalf of Fresh8 Gaming.<br>Our success to date speaks for itself. Our Engineering team has grown to 15 strong across offices in Bristol and London. Since 2014, we have landed a series of awards including Services Rising Star at EGR B2B Awards last year and have recently landed a new injection of funding to continue our rapid growth.</p><p>Our platform generates dynamic and personalised adverts on behalf of gaming operators and publishers and our clients include BetStars, BetVictor, Coral, Ladbrokes, Sky Bet, The Telegraph and William Hill.</p><p><a href='http://fresh8gaming.com' rel='nofollow'>http://fresh8gaming.com</a></p><p><strong>Location:</strong> remote | or Farringdon | or central Bristol, by Temple Meads</p><p><strong>Even if your CV isn't ready, please talk with Vittoria at techfolk to find out more:</strong></p><p>0117 318 2447 | <a href='mailto:hello@techfolk.co.uk' rel='nofollow'>hello@techfolk.co.uk</a> | @we_are_techfolk</p><p>RECRUITERS: Fresh8 Gaming has selected techfolk as our recruitment partner and cold calling is not welcomed</p>            </div>        ",
-    "urlFetchPending": false,
-    "published": "Dec 12, 2017 10:59:50 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:go/go/33",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=33, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH2/go",
-      "TECH2/microservices",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "microservices"
-    ]
-  },
-  {
     "id": "7q4lVrNQTG63jIvQipu2Tw",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -109,13 +79,13 @@
     "published": "Dec 6, 2017 5:52:09 AM",
     "tags": [
       "DBG_TECH1:k/t/w:erlang/other/5",
-      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:golang/go/8",
       "DBG_TECH1:k/t/w:python/python/2",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=6, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=11, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
-      "TECH1/other",
       "TITLE1/dev",
       "TZ/Europe"
     ],
@@ -124,32 +94,67 @@
       "European time zones"
     ],
     "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "VnB_T8yeRwWVNJmzj3FgrQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "weworkremotely.com-programming",
+    "url": "https://weworkremotely.com/jobs/5883-salesforce-developer",
+    "title": "X-Team: Salesforce Developer",
+    "content": "<div>  <div>    <h2>Salesforce Developer</h2>      <h4>Posted Dec  4</h4>    <h3>      <span>X-Team</span><br>      <span>Headquarters: Remote</span><br>        <a href='https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17' rel='nofollow'>https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17</a>    </h3>  </div>    </div>  <div>    <div><b>About X-Team</b></div><div><br></div><div>“Motivated developers, ready to join your team.”</div><div><br></div><div>X-Team is an international company founded in Melbourne, Australia that helps companies scale their development teams by providing them with extraordinary developers from around the world.</div><div><br></div><div>We are 100% remote and believe in building a world where developers can have access to an environment of growth and incredible opportunities regardless of where they live. Our culture is based around the proactive, selfless values that make up every X-Teamer.</div><div><br></div><div>We are a community of people dedicated to unleashing our potential every day. Learn more about how we can help you learn and grow at https://x-team.com/unleash/</div><div><br></div><div><b>About You:</b></div><div>The right individual will be self-driven. Someone who cares about maintainability of the code, automation, deployment processes and how to enable innovation through fostering a growing culture of Open Source. You will go beyond just coding and help to shape the engineering culture and best practices.</div><div><br></div><div><b>Most important:</b></div><div>- Strong knowledge of Salesforce functional and technical best practices and methodologies.</div><div>- Experience in creating Salesforce technical designs, configuration setup and APEX.</div><div>- Experience with SFDC implementation techniques.</div><div>- Salesforce Certified Administrator and/or Salesforce Certified Developer.</div><div><br></div><div><b>Nice to have:</b></div><div>- Experience with working remotely</div><div>- Familiar/involved with open­ source projects</div><div><br></div><div><b>Personal:</b></div><div>- Independent, self-motivated</div><div>- Fluent in English, written and spoken</div><div>- Proven track record of always learning and growing.</div><div>- Proactive attitude</div><div>- Possess a spirit of generosity</div><div><br></div><div><b>Benefits:</b></div><div>- Get the chance to work with big brands like Riot Games, Fox Broadcasting, Kaplan Inc., etc.</div><div>- Live and work in one of our roaming hacker houses (X-Outposts) around the world.</div><div>- Work from anywhere as part of a community of digital nomads.</div><div>- Join our vibrant community, filled with opportunities to join engaging engineering roundtable discussions, AMAs, gaming clubs, LAN parties, charitable fundraisers, fitness programs (+gym membership), etc. This is the community to be in if you're a remote developer.</div><div>- We’ll provide up to $2,500 in funding for your learning and growth through our Unleash program, which provides opportunities to unleash your potential through initiatives that help you grow as a developer and explore your passions more each day. (http://x-team.com/unleash)</div><div><br></div><div><b>FAQ:</b></div><div>Who is X-Team meant for?</div><div>- Any freelance developers with experience working on high-scale, remote teams and projects with a motivated, proactive attitude and compassionate, team-player heart. If you've worked with freelancing platforms before, that's not what we are. X-Team is a community of all likeminded people, carefully chosen to ensure we are able to create an environment of the most motivated people in the world who come together to unleash their potential. What we've created is truly special and not a faceless platform. X-Team is where developers go to feel truly at home together, while becoming more motivated than they've ever been.</div><div><br></div><div>What are you hiring for right now?</div><div>- We are hiring for PHP developers to fill some exciting new opportunities we have. We're also hiring for a variety of other skills, such as React, React Native, Cryptocurrency/blockchain, Node.js, Salesforce, DevOps, and Golang.</div><div><br></div><div>Will I get a job immediately after applying?</div><div>- If your skills, experience and values align with a current opening we have, your chances of getting hired immediately are high. If we discover you're qualified but all opportunities have been taken, we'll continue to work with you to help you get a role in X-Team. The key is having the most relevant, in-demand skills when you apply.</div><div><br></div><div>What kind of opportunities do you provide?</div><div>- We provide full-time opportunities that last, on average, for 10 months. After your role ends (and so long as you've performed well), we continue to give you work internally with us until we find you a new opportunity. This ensures that X-Team can be a stable work option for you as a freelancer.</div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Apply here: <a href='https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17' rel='nofollow'>https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17</a></p>  </div>",
+    "urlFetchPending": false,
+    "published": "Dec 5, 2017 1:35:37 AM",
+    "tags": [
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=14, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=16}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
       "go",
-      "other"
+      "nodejs"
     ]
   },
   {
-    "id": "oUzqrjkLRY2li133E-hfow",
+    "id": "ZgXgmCfPQYKm8UYXsypvQA",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
       "jobAdContentRegExp": ""
     },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4039-software-frontend-developer-cabana-blockchain",
-    "title": "Software - Frontend Developer @ Cabana Blockchain",
-    "content": "<h2>              Software - Frontend Developer<small> @ Cabana Blockchain</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-12-05 21:23</p></dd>          <dt><span>Description</span></dt>          <dd><p><strong>About Us</strong></p><p>Cabana Blockchain is a privately-owned stealth startup company that develops IoT devices which use a blockchain.</p><p>We started as an idea and a simple proof of concept. Then we were acquired and relocated to San Francisco, right in Silicon Valley. We employ creative problem solvers to work in our office and to work remotely from anywhere around the world.</p><p><strong>Our Mission</strong></p><p>There are many problems current IoT devices on the market face that we wish to solve. Using our own blockchain technology helps us achieve this.</p><p>Above all else, we value our customer’s privacy and security because a home is the most intimate place a person can be. We are a hardware company, looking to develop and sell hardware. This means that we don’t collect or store data about our customers. Our devices are designed to operate without storing customer data on our servers.</p><p>We believe that we can succeed without harvesting our customer’s data because our hardware will succeed. Each one of our devices is the result of clever engineering and fine craftsmanship. We never plan for obsolescence and the quality and testing of our products ensures that they will operate for a very long time.</p><p>The functionality of our devices is not dependent on the existence of Cabana Blockchain. Our devices will continue to operate even if we go out of business.</p><p>Cabana Blockchain uses software to run all of its devices. We are looking for Frontend Developers to join our team and help us create devices that go into people’s homes.</p><p><strong>Responsibilities:</strong></p><p>Work with our software team to write the code that makes our devices work and allows users to control themDevelop our blockchain technology</p><p><strong>Requirements:</strong></p><ul><li>Bachelor’s degree (or equivalent) in software engineering or computer science</li><li>5+ years of work experience</li><li>Capable of consuming APIs and designing web applications</li><li>Experience with Python, Javascript, React, Redux, and web sockets</li><li>Experience with distributed computing / consensus algorithms</li><li>Knowledge of Test-driven Development and Linux servers</li><li>Able to learn blockchain technology</li></ul><p>To learn how to apply, please see our <a href='https://cabanablockchain.com/careers' rel='nofollow'>Careers</a> page.</p><p><em>Cabana Blockchain provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, gender, sexual orientation, national origin, age, disability or genetics.</em></p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
+    "sourceName": "remoteok.io",
+    "url": "https://remoteok.io/jobs/63432",
+    "title": "Salesforce Developer",
+    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><div><b>About X-Team</b></div><div><br></div><div>“Motivated developers, ready to join your team.”</div><div><br></div><div>X-Team is an international company founded in Melbourne, Australia that helps companies scale their development teams by providing them with extraordinary developers from around the world.</div><div><br></div><div>We are 100% remote and believe in building a world where developers can have access to an environment of growth and incredible opportunities regardless of where they live. Our culture is based around the proactive, selfless values that make up every X-Teamer.</div><div><br></div><div>We are a community of people dedicated to unleashing our potential every day. Learn more about how we can help you learn and grow at https://x-team.com/unleash/</div><div><br></div><div><b>About You:</b></div><div>The right individual will be self-driven. Someone who cares about maintainability of the code, automation, deployment processes and how to enable innovation through fostering a growing culture of Open Source. You will go beyond just coding and help to shape the engineering culture and best practices.</div><div><br></div><div><b>Most important:</b></div><div>- Strong knowledge of Salesforce functional and technical best practices and methodologies.</div><div>- Experience in creating Salesforce technical designs, configuration setup and APEX.</div><div>- Experience with SFDC implementation techniques.</div><div>- Salesforce Certified Administrator and/or Salesforce Certified Developer.</div><div><br></div><div><b>Nice to have:</b></div><div>- Experience with working remotely</div><div>- Familiar/involved with open­ source projects</div><div><br></div><div><b>Personal:</b></div><div>- Independent, self-motivated</div><div>- Fluent in English, written and spoken</div><div>- Proven track record of always learning and growing.</div><div>- Proactive attitude</div><div>- Possess a spirit of generosity</div><div><br></div><div><b>Benefits:</b></div><div>- Get the chance to work with big brands like Riot Games, Fox Broadcasting, Kaplan Inc., etc.</div><div>- Live and work in one of our roaming hacker houses (X-Outposts) around the world.</div><div>- Work from anywhere as part of a community of digital nomads.</div><div>- Join our vibrant community, filled with opportunities to join engaging engineering roundtable discussions, AMAs, gaming clubs, LAN parties, charitable fundraisers, fitness programs (+gym membership), etc. This is the community to be in if you're a remote developer.</div><div>- We’ll provide up to $2,500 in funding for your learning and growth through our Unleash program, which provides opportunities to unleash your potential through initiatives that help you grow as a developer and explore your passions more each day. (http://x-team.com/unleash)</div><div><br></div><div><b>FAQ:</b></div><div>Who is X-Team meant for?</div><div>- Any freelance developers with experience working on high-scale, remote teams and projects with a motivated, proactive attitude and compassionate, team-player heart. If you've worked with freelancing platforms before, that's not what we are. X-Team is a community of all likeminded people, carefully chosen to ensure we are able to create an environment of the most motivated people in the world who come together to unleash their potential. What we've created is truly special and not a faceless platform. X-Team is where developers go to feel truly at home together, while becoming more motivated than they've ever been.</div><div><br></div><div>What are you hiring for right now?</div><div>- We are hiring for PHP developers to fill some exciting new opportunities we have. We're also hiring for a variety of other skills, such as React, React Native, Cryptocurrency/blockchain, Node.js, Salesforce, DevOps, and Golang.</div><div><br></div><div>Will I get a job immediately after applying?</div><div>- If your skills, experience and values align with a current opening we have, your chances of getting hired immediately are high. If we discover you're qualified but all opportunities have been taken, we'll continue to work with you to help you get a role in X-Team. The key is having the most relevant, in-demand skills when you apply.</div><div><br></div><div>What kind of opportunities do you provide?</div><div>- We provide full-time opportunities that last, on average, for 10 months. After your role ends (and so long as you've performed well), we continue to give you work internally with us until we find you a new opportunity. This ensures that X-Team can be a stable work option for you as a freelancer.</div><div><br></div><p><strong>To apply:</strong> Apply here: <a href='https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17' rel='nofollow'>https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17</a></p></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
     "urlFetchPending": false,
-    "published": "Dec 5, 2017 11:23:17 PM",
+    "published": "Dec 5, 2017 1:35:37 AM",
     "tags": [
       "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=14, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=16}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TECH1/go",
+      "TECH1/nodejs",
       "TITLE1/dev",
       "TZ/unknown"
     ],
@@ -158,110 +163,8 @@
     ],
     "tagsNames2": [
       "frontend",
-      "go"
-    ]
-  },
-  {
-    "id": "S2Die7OdR-OPVWx7uVSXEg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63474",
-    "title": "Software Frontend Developer",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong>About Us</strong><br><br>Cabana Blockchain is a privately-owned stealth startup company that develops IoT devices which use a blockchain.<br><br>We started as an idea and a simple proof of concept. Then we were acquired and relocated to San Francisco, right in Silicon Valley. We employ creative problem solvers to work in our office and to work remotely from anywhere around the world.<br><br><strong>Our Mission</strong><br><br>There are many problems current IoT devices on the market face that we wish to solve. Using our own blockchain technology helps us achieve this.<br><br>Above all else, we value our customer’s privacy and security because a home is the most intimate place a person can be. We are a hardware company, looking to develop and sell hardware. This means that we don’t collect or store data about our customers. Our devices are designed to operate without storing customer data on our servers.<br><br>We believe that we can succeed without harvesting our customer’s data because our hardware will succeed. Each one of our devices is the result of clever engineering and fine craftsmanship. We never plan for obsolescence and the quality and testing of our products ensures that they will operate for a very long time.<br><br>The functionality of our devices is not dependent on the existence of Cabana Blockchain. Our devices will continue to operate even if we go out of business.<br><br>----<br><br>Cabana Blockchain uses software to run all of its devices. We are looking for Frontend Developers to join our team and help us create devices that go into people’s homes.<br><br><strong>Responsibilities:</strong><br><br>Work with our software team to write the code that makes our devices work and allows users to control them<br>Develop our blockchain technology<br><br><strong>Requirements:</strong><br><br></p><ul><li>Bachelor’s degree (or equivalent) in software engineering or computer science<br></li><li>5+ years of work experience<br></li><li>Capable of consuming APIs and designing web applications<br></li><li>Experience with Python, Javascript, React, Redux, and web sockets<br></li><li>Experience with distributed computing / consensus algorithms<br></li><li>Knowledge of Test-driven Development and Linux servers<br></li><li>Able to learn blockchain technology<br><br>To learn how to apply, please see our <a href='https://cabanablockchain.com/careers' rel='nofollow'>Careers</a> page.<br><em>Cabana Blockchain provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, gender, sexual orientation, national origin, age, disability or genetics.</em></li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Dec 5, 2017 11:23:17 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "go"
-    ]
-  },
-  {
-    "id": "gCc8tqD8Rauaqi7CPqOT0A",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4038-software-backend-developer-cabana-blockchain",
-    "title": "Software - Backend Developer @ Cabana Blockchain",
-    "content": "<h2>              Software - Backend Developer<small> @ Cabana Blockchain</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-12-05 21:21</p></dd>          <dt><span>Description</span></dt>          <dd><p><strong>About Us</strong></p><p>Cabana Blockchain is a privately-owned stealth startup company that develops IoT devices which use a blockchain.</p><p>We started as an idea and a simple proof of concept. Then we were acquired and relocated to San Francisco, right in Silicon Valley. We employ creative problem solvers to work in our office and to work remotely from anywhere around the world.</p><p><strong>Our Mission</strong></p><p>There are many problems current IoT devices on the market face that we wish to solve. Using our own blockchain technology helps us achieve this.</p><p>Above all else, we value our customer’s privacy and security because a home is the most intimate place a person can be. We are a hardware company, looking to develop and sell hardware. This means that we don’t collect or store data about our customers. Our devices are designed to operate without storing customer data on our servers.</p><p>We believe that we can succeed without harvesting our customer’s data because our hardware will succeed. Each one of our devices is the result of clever engineering and fine craftsmanship. We never plan for obsolescence and the quality and testing of our products ensures that they will operate for a very long time.</p><p>The functionality of our devices is not dependent on the existence of Cabana Blockchain. Our devices will continue to operate even if we go out of business.</p><p>Cabana Blockchain uses software to run all of its devices. We are looking for Backend Developers to join our team and help us create devices that go into people’s homes.</p><p><strong>Responsibilities:</strong></p><ul><li>Work with our software team to write the code that makes our devices work</li><li>Work with our firmware engineers to help bridge the gap between software and hardware</li><li>Develop our blockchain technology</li></ul><p><strong>Requirements:</strong></p><ul><li>Bachelor’s degree (or equivalent) in software engineering or computer science</li><li>5+ years of work experience</li><li>Capable of designing APIs and software that runs on embedded devices</li><li>Experience with C++, Python, SQL, web application development</li><li>Experience with distributed computing / consensus algorithms</li><li>Knowledge of Test-driven Development and Linux servers</li><li>Able to learn blockchain technology</li></ul><p>To learn how to apply, please see our <a href='https://cabanablockchain.com/careers' rel='nofollow'>Careers</a> page.</p><p><em>Cabana Blockchain provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, gender, sexual orientation, national origin, age, disability or genetics.</em></p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Dec 5, 2017 11:21:32 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:c++/c/8",
-      "DBG_TECH1:k/t/w:embedded/c/1",
-      "DBG_TECH1:k/t/w:embedded/embedded/8",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=9, mobile=0, go=6, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/c",
-      "TECH1/embedded",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "c",
-      "embedded",
-      "go"
-    ]
-  },
-  {
-    "id": "lCmPT2jVToiW2T5wGOaPJw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63475",
-    "title": "Software Backend Developer",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong>About Us</strong><br><br>Cabana Blockchain is a privately-owned stealth startup company that develops IoT devices which use a blockchain.<br><br>We started as an idea and a simple proof of concept. Then we were acquired and relocated to San Francisco, right in Silicon Valley. We employ creative problem solvers to work in our office and to work remotely from anywhere around the world.<br><br><strong>Our Mission</strong><br><br>There are many problems current IoT devices on the market face that we wish to solve. Using our own blockchain technology helps us achieve this.<br><br>Above all else, we value our customer’s privacy and security because a home is the most intimate place a person can be. We are a hardware company, looking to develop and sell hardware. This means that we don’t collect or store data about our customers. Our devices are designed to operate without storing customer data on our servers.<br><br>We believe that we can succeed without harvesting our customer’s data because our hardware will succeed. Each one of our devices is the result of clever engineering and fine craftsmanship. We never plan for obsolescence and the quality and testing of our products ensures that they will operate for a very long time.<br><br>The functionality of our devices is not dependent on the existence of Cabana Blockchain. Our devices will continue to operate even if we go out of business.<br><br>----<br><br>Cabana Blockchain uses software to run all of its devices. We are looking for Backend Developers to join our team and help us create devices that go into people’s homes.<br><br><strong>Responsibilities:</strong><br><br></p><ul><li>Work with our software team to write the code that makes our devices work<br></li><li>Work with our firmware engineers to help bridge the gap between software and hardware<br></li><li>Develop our blockchain technology<br><br><strong>Requirements:</strong><br><br></li><li>Bachelor’s degree (or equivalent) in software engineering or computer science<br></li><li>5+ years of work experience<br></li><li>Capable of designing APIs and software that runs on embedded devices<br></li><li>Experience with C++, Python, SQL, web application development<br></li><li>Experience with distributed computing / consensus algorithms<br></li><li>Knowledge of Test-driven Development and Linux servers<br></li><li>Able to learn blockchain technology<br><br>To learn how to apply, please see our <a href='https://cabanablockchain.com/careers' rel='nofollow'>Careers</a> page.<br><em>Cabana Blockchain provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, gender, sexual orientation, national origin, age, disability or genetics.</em></li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Dec 5, 2017 11:21:32 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:c++/c/8",
-      "DBG_TECH1:k/t/w:embedded/c/1",
-      "DBG_TECH1:k/t/w:embedded/embedded/8",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=9, mobile=0, go=6, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/c",
-      "TECH1/embedded",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "c",
-      "embedded",
-      "go"
+      "go",
+      "nodejs"
     ]
   },
   {
@@ -313,171 +216,6 @@
     ],
     "tagsNames1": [
       "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "hKc-q0MjQYOe9MURQ_ecNA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63366",
-    "title": "Director of Growth Product Management",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong><em>Our positions are fully remote and to ensure compliance with all applicable labor laws, are open to U.S.-based applicants only. In general, we are not hiring in Washington state, Oregon state, San Francisco, or New York</em></strong><br></p><p>Simply put, we make websites easier to use. Through a scientific method of determining which site improvements result in actual performance improvements, we replace the old way of designing sites through gut feel and management opinions with designing sites through data. Tactically speaking, clients come to us for both strategic direction and to supplement their internal teams.<br></p><p>As a Director of Growth Product Management at CROmetrics, you will be a player/coach overseeing a team of people who are hybrid product manager, strategic thinker, account manager and data analyst. Your primary role is to enable our product managers to be successful. Since you have done this yourself for a while, you’ll be able to quickly gain the respect of your team in showing them how it’s done while also helping them to develop the skills they’ll need to grow in their own careers. Product Managers spend much of their time interfacing with clients, designers and engineers. On the client side, our Product Managers must be able to generate data-driven ideas that will improve revenue and other key metrics on client websites while being rooted in better understanding what the customer wants.<br>Our PMs lead all A/B testing and personalization experimentation for the client, which includes the following:<br></p><ul><li>Partnering with the client for the ideation, prioritization, road-mapping, design, and approval process for all hypotheses generation and experimentation<br></li><li>Diving deep into the results to deliver the data story, learnings and recommendations from the experiment<br></li><li>Collaborating with a remote team of engineers, designers and other PMs to support experiment ideation and execution<br></li><li>Managing all aspects of the client relationship from daily experiment monitoring to kicking off the renewal process to evangelizing the value of CROmetrics<br>The director must be able to do all of these things on their own, and be focused on enabling their team to level up their skills. Expect about 10% travel as you visit key accounts regularly.<br>In addition, as a CROmetrics team member, you will:<br></li><li>Support the professional growth of the team through leading and/or participating in ongoing training, e.g. book club<br></li><li>Engage in non-client related activities that help grow our business, e.g. writing the PM job description or delivering hypotheses and mock-ups for a sales deck<br></li><li>Actively participate in our remote culture<br>If you don’t have previous management experience, an individual contributor role at CROmetrics might be a possibility. The type of individual contributor who will succeed in this role is strongly correlated with prior management experience since the type of client problems you encounter require solutions that leverage both the client and internal teams typical of strong internal product managers who need to influence teams that don’t report to them.<br><p>Our most successful candidates have the following skills/experience/traits:<br></p></li><li>10+ years of professional experience working in digital product management, user experience design or similar roles on web products. You must have experience running successful, mature A/B testing or personalization programs. Familiarization with Optimizely is a bonus.<br></li><li>Experience managing other product managers or marketers running optimization programs.<br></li><li>5+ years experience managing others.<br></li><li>Demonstrated extremely strong presentation and communication skills<br></li><li>Built and delivered product roadmaps full of winning and losing ideas<br></li><li>Passion for using data to improve user experiences<br></li><li>Hands-on experience analyzing digital business data to inform decisions and plan strategically<br></li><li>Worked cross-functionally in a highly collaborative environment, preferably in a remote capacity<br></li><li>Genuinely like working with clients and their distributed stakeholder groups<br></li><li>Love product strategy, but obsessed with the details on execution<br></li><li>Lifelong learner<br>If you’re interested in checking out the swell people you’ll be working with, click here <a href='https://crometrics.com/meet-the-team/' rel='nofollow'>to learn more about the team.</a><em>If you have questions as you go through this, make notes and if we haven’t answered them by the end, feel free to email chris@crometrics.com or tom@crometrics.com.</em><br></li><li><strong>We’re a remote company.</strong> We are spread out all over the country and enjoy the flexibility remote working affords. Want to go on a mountain bike ride in the middle of the day? Cool, don’t forget your helmet! Need to pick the kids up from school? Nice, you’ve got parent of the year in the bag. We stay connected through Slack and workcations, including one annual trip that is funded by the company.<br></li><li><strong>Our engineers value elegant code, but move fast.</strong> We’re writing code that runs on top of existing websites. Some tests only run for a few days before disappearing (though some do so well they become a permanent part of the client’s site). If “minimum viable product” isn’t in your lexicon, you aren’t a good fit.<br></li><li><strong>Communication is critical.</strong> We’re a remote company. That makes communication — including writing and reading comprehension — extremely important. You’ll work closely with engineers, designers and writers. This is not a simple “write specs and close tickets” gig. Successful applicants enjoy the process of defining and clarifying specs, documenting processes, improving processes, seeing their ideas and work affect millions of users, and uploading custom emoji to Slack.<br></li><li><strong>We’re relentlessly focused on our client’s happiness.</strong> The PM is a client-facing role. Managing a client relationship virtually takes a different type of skill set – the PMs have to be both a strategic partner, the customer (represented by the data), teacher and project manager over the phone/email/Slack, all while delivering an exceptional level of service. This type of interaction is not for everyone, and we completely understand. It’s not easy!<br></li><li><strong>We are not perfect.</strong> A the core of experimentation is the lesson to be learned from the test, whether a win, loss or inconclusive. We extend this concept to everything we do by setting the bar high for our team and fostering an environment of radical candor and constant learning.<br></li><li>Read more about our culture and core values on our <a href='https://crometrics.com/culture/' rel='nofollow'>culture page</a>.This short essay sums up the philosophy we operate by: This is Professionalism: <a href='http://arches.io/2014/03/this-is-professionalism/' rel='nofollow'>http://arches.io/2014/03/this-is-professionalism/</a><em>Sound like something you are interested in? Read on.</em></li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Nov 30, 2017 9:09:24 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/product",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "AOZC4Mk5TfOcfNIs2cxXHA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-management",
-    "url": "https://weworkremotely.com/jobs/5854-director-of-growth-product-management",
-    "title": "CROmetrics: Director of Growth Product Management",
-    "content": "<div>  <div>    <h2>Director of Growth Product Management</h2>      <h4>Posted Nov 30</h4>    <h3>      <span>CROmetrics</span><br>      <span>Headquarters: San Francisco, CA</span><br>        <a href='https://crometrics.com' rel='nofollow'>https://crometrics.com</a>    </h3>  </div>    </div>  <div>    <div><h4>What We Do</h4></div><div>Simply put, we make websites easier to use. Through a scientific method of determining which site improvements result in actual performance improvements, we replace the old way of designing sites through gut feel and management opinions with designing sites through data. Tactically speaking, clients come to us for both strategic direction and to supplement their internal teams.</div><div><br></div><div><h4>The Director of Growth Product Management</h4></div><div>As a Director of Growth Product Management at CROmetrics, you will be a player/coach overseeing a team of people who are hybrid product manager, strategic thinker, account manager and data analyst. Your primary role is to enable our product managers to be successful.&nbsp; Since you have done this yourself for a while, you’ll be able to quickly gain the respect of your team in showing them how it’s done while also helping them to develop the skills they’ll need to grow in their own careers.&nbsp; Product Managers spend much of their time interfacing with clients, designers and engineers. On the client side, our Product Managers must be able to generate data-driven ideas that will improve revenue and other key metrics on client websites while being rooted in better understanding what the customer wants.</div><div><br></div><div>Our PMs lead all A/B testing and personalization experimentation for the client, which includes the following:</div><div><br></div><ul><li>Partnering with the client for the ideation, prioritization, road-mapping, design, and approval process for all hypotheses generation and experimentation</li><li>Diving deep into the results to deliver the data story, learnings and recommendations from the experiment</li><li>Collaborating with a remote team of engineers, designers and other PMs to support experiment ideation and execution</li><li>Managing all aspects of the client relationship from daily experiment monitoring to kicking off the renewal process to evangelizing the value of CROmetrics</li></ul><div><br></div><div>The director must be able to do all of these things on their own, and be focused on enabling their team to level up their skills. Expect about 10% travel as you visit key accounts regularly.</div><div><br></div><div>In addition, as a CROmetrics team member, you will:</div><div><br></div><ul><li>Support the professional growth of the team through leading and/or participating in ongoing training, e.g. book club</li><li>Engage in non-client related activities that help grow our business, e.g. writing the PM job description or delivering hypotheses and mock-ups for a sales deck</li><li>Actively participate in our remote culture</li></ul><div><br></div><div>If you don’t have previous management experience, an individual contributor role at CROmetrics might be a possibility. The type of individual contributor who will succeed in this role is strongly correlated with prior management experience since the type of client problems you encounter require solutions that leverage both the client and internal teams typical of strong internal product managers who need to influence teams that don’t report to them.</div><div><br></div><div><h4>Who we’re looking for</h4></div><div>Our most successful candidates have the following skills/experience/traits:</div><div><br></div><ul><li>10+ years of professional experience working in digital product management, user experience design or similar roles on web products.&nbsp; You must have experience running successful, mature A/B testing or personalization programs.&nbsp; Familiarization with Optimizely is a bonus.</li><li>Experience managing other product managers or marketers running optimization programs.</li><li>5+ years experience managing others.</li><li>Demonstrated extremely strong presentation and communication skills</li><li>Built and delivered product roadmaps full of winning and losing ideas</li><li>Passion for using data to&nbsp;improve user experiences</li><li>Hands-on experience analyzing digital business data to inform decisions and plan strategically</li><li>Worked cross-functionally in a highly collaborative environment, preferably in a remote capacity</li><li>Genuinely like working with clients and their distributed stakeholder groups</li><li>Love product strategy, but obsessed with the details on execution</li><li>Lifelong learner</li></ul><div><br></div><div>If you’re interested in checking out the swell people you’ll be working with, click here to&nbsp;<a href='https://crometrics.com/meet-the-team/' rel='nofollow'>learn more about the team.</a></div><div><br></div><div><em>If you have questions as you go through this, make notes and if we haven’t answered them by the end, feel free to email&nbsp;<a href='mailto:chris@crometrics.com' rel='nofollow'>chris@crometrics.com</a>&nbsp;or&nbsp;<a href='mailto:tom@crometrics.com' rel='nofollow'>tom@crometrics.com</a>.</em></div><div><br></div><div><h4>Our Culture</h4></div><ul><li><span>We’re a remote company.</span>&nbsp;We are spread out all over the country and enjoy the flexibility remote working affords. Want to go on a mountain bike ride in the middle of the day? Cool, don’t forget your helmet! Need to pick the kids up from school? Nice, you’ve got parent of the year in the bag. We stay connected through Slack and workcations, including one annual trip that is funded by the company.</li><li><span>Our engineers value elegant code, but move fast.</span>&nbsp;We’re writing code that runs&nbsp;<em>on top of</em>&nbsp;existing websites. Some tests only run for a few days before disappearing (though some do so well they become a permanent part of the client’s site). If “minimum viable product” isn’t in your lexicon, you aren’t a good fit.</li><li><span>Communication is critical.</span>&nbsp;We’re a remote company. That makes communication — including writing and reading comprehension —&nbsp;<em>extremely</em>&nbsp;important. You’ll work closely with engineers, designers and writers. This is not a simple “write specs and close tickets” gig. Successful applicants enjoy the process of defining and clarifying specs, documenting processes,&nbsp;<em>improving</em>&nbsp;processes, seeing their ideas and work affect millions of users, and uploading custom emoji to Slack.</li><li><span>We’re relentlessly focused on our client’s happiness.&nbsp;</span>The PM is a client-facing role. Managing a client relationship virtually takes a different type of skill set – the PMs have to be both a strategic partner, the customer (represented by the data), teacher and project manager over the phone/email/Slack, all while delivering an exceptional level of service. This type of interaction is not for everyone, and we completely understand. It’s not easy!</li><li><span>We are not perfect.&nbsp;</span>A the core of experimentation is the lesson to be learned from the test, whether a win, loss or inconclusive. We extend this concept to everything we do by setting the bar high for our team and fostering an environment of radical candor and constant learning.</li><li>Read more about our culture and core values on our&nbsp;<a href='https://crometrics.com/culture/' rel='nofollow'>culture page</a>.</li></ul><div><br></div><div>This short essay sums up the philosophy we operate by:&nbsp;<a href='http://arches.io/2014/03/this-is-professionalism/' rel='nofollow'>This is Professionalism</a>.</div><div><br></div><div><h4>A unique application and hiring process, just like us</h4></div><div>We’re glad you’re interested in working with us. We have a fairly unusual hiring process, but it has proven to work well both for us and for potential new hires. We have found that demonstrating basic competency is the best predictor of initial qualification for working with us, followed by actual work.</div><div><br></div><div>Our process reflects that. We’ve outlined our values and how we work above, and now we will ask you to complete a couple small tasks to show us you’re interested.</div><div><br></div><div><span>Create A Work Sample</span><br></div><div></div><div><em>The following is a typical task a product manager you’re working with will be doing on a daily basis.&nbsp; Since the position is for a player/coach, we’d like you to demonstrate basic competency as well.&nbsp; Please do not spend more than an hour on this task, as it is intended for you to be able to demonstrate basic competency in the core part of the job you will be doing.</em></div><div><br></div><div>We want to know how you think about designing elegant product solutions focused around increasing conversions.<br></div><div></div><div>Here is the website for a past client:&nbsp;<a href='http://www.hired.com/' rel='nofollow'>Hired.com</a>. Hired spends a lot of money (e.g. through paid ads) to drive applicants, primarily software engineers, to their site. Their goal is to increase the number of leads/applicants that complete the signup flow and are ready to be hired.</div><div><br></div><ol><li>Your first task is to come up with a hypothesis backlog of at least 6-8 ideas you have for improving conversions for&nbsp;<a href='http://hired.com/' rel='nofollow'>Hired.com</a>. An example of a hypothesis is:&nbsp;<em>“Adding a video to the Hired website will help job candidates understand how Hired works and therefore, increase conversions.”</em></li><li>Once you’ve developed your hypothesis backlog, choose one of the ideas that you believe is most likely to increase leads.</li><li>Write a spec for your chosen idea comprised of the user story, any supporting data, expected user or page interactions, engineering notes, etc. Optionally, you may also produce a wireframe and/or a visual to go along with your spec, using any number of UX tools such as Axure, Balsamiq, Invision or even simple pen/paper sketching. Just be sure to submit your spec as an image so anyone can view it without special software.</li></ol><div>In a real-life client situation, you will work with the client to create a testing roadmap supported by data that aligns with the client’s KPI’s. You’ll then write a spec for the experiments, and will work with engineering to implement and QA the experiment. Once the test is implemented, you’ll run an A/B test, share the results with the client, draw insights from the test, and develop new ideas for testing.</div>  </div>  <div>    <h4>Apply for this position</h4>    <p>When you’ve completed your hypothesis backlog and spec, please send an email to <a href='mailto:tom@crometrics.com' rel='nofollow'>tom@crometrics.com</a> and <a href='mailto:chris@crometrics.com' rel='nofollow'>chris@crometrics.com</a>. In the email, include the following: +A cover letter that includes a description of prior AB Testing, agency, and/or management experience. +A link to your LinkedIn profile and the name of the town/city you live in. Note the job is open to US-based applicants only. +Desired annual compensation range (to ensure we’re not wasting one another’s time – we’re not going to hold you to this number) and general availability. +The hypothesis/ideas backlog you created for Hired.com +The spec/wireframe for one of your top hypotheses. Assuming your submission exceeds expectations, we will reach out to schedule a few informal conversations with our team to learn more about you, and provide an opportunity for you to ask questions of us. If all goes well for both you and CROmetrics, we will hire you for a “paid interview” where you start working with us for approximately one week (12-15 hours max) as a 1099 contractor. This can be done on the side of your current full-time job so there is less risk to you. If both parties like working together, we expand the relationship into a full time W2 role. If not, we go our separate ways and both sides “won” in the deal. Thanks again for your interest in the Director of Growth Product Manager position with CROmetrics. We look forward to hearing from you!</p>  </div>",
-    "urlFetchPending": false,
-    "published": "Nov 30, 2017 8:35:35 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:go/go/12",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=12, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/product",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "5YG6DL-_Sjav9lGT-2KlsA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63363",
-    "title": "Director of Growth Product Management",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><div><h3>What We Do</h3></div><div>Simply put, we make websites easier to use. Through a scientific method of determining which site improvements result in actual performance improvements, we replace the old way of designing sites through gut feel and management opinions with designing sites through data. Tactically speaking, clients come to us for both strategic direction and to supplement their internal teams.</div><div><br></div><div><h3>The Director of Growth Product Management</h3></div><div>As a Director of Growth Product Management at CROmetrics, you will be a player/coach overseeing a team of people who are hybrid product manager, strategic thinker, account manager and data analyst. Your primary role is to enable our product managers to be successful.&nbsp; Since you have done this yourself for a while, you’ll be able to quickly gain the respect of your team in showing them how it’s done while also helping them to develop the skills they’ll need to grow in their own careers.&nbsp; Product Managers spend much of their time interfacing with clients, designers and engineers. On the client side, our Product Managers must be able to generate data-driven ideas that will improve revenue and other key metrics on client websites while being rooted in better understanding what the customer wants.</div><div><br></div><div>Our PMs lead all A/B testing and personalization experimentation for the client, which includes the following:</div><div><br></div><ul><li>Partnering with the client for the ideation, prioritization, road-mapping, design, and approval process for all hypotheses generation and experimentation</li><li>Diving deep into the results to deliver the data story, learnings and recommendations from the experiment</li><li>Collaborating with a remote team of engineers, designers and other PMs to support experiment ideation and execution</li><li>Managing all aspects of the client relationship from daily experiment monitoring to kicking off the renewal process to evangelizing the value of CROmetrics</li></ul><div><br></div><div>The director must be able to do all of these things on their own, and be focused on enabling their team to level up their skills. Expect about 10% travel as you visit key accounts regularly.</div><div><br></div><div>In addition, as a CROmetrics team member, you will:</div><div><br></div><ul><li>Support the professional growth of the team through leading and/or participating in ongoing training, e.g. book club</li><li>Engage in non-client related activities that help grow our business, e.g. writing the PM job description or delivering hypotheses and mock-ups for a sales deck</li><li>Actively participate in our remote culture</li></ul><div><br></div><div>If you don’t have previous management experience, an individual contributor role at CROmetrics might be a possibility. The type of individual contributor who will succeed in this role is strongly correlated with prior management experience since the type of client problems you encounter require solutions that leverage both the client and internal teams typical of strong internal product managers who need to influence teams that don’t report to them.</div><div><br></div><div><h3>Who we’re looking for</h3></div><div>Our most successful candidates have the following skills/experience/traits:</div><div><br></div><ul><li>10+ years of professional experience working in digital product management, user experience design or similar roles on web products.&nbsp; You must have experience running successful, mature A/B testing or personalization programs.&nbsp; Familiarization with Optimizely is a bonus.</li><li>Experience managing other product managers or marketers running optimization programs.</li><li>5+ years experience managing others.</li><li>Demonstrated extremely strong presentation and communication skills</li><li>Built and delivered product roadmaps full of winning and losing ideas</li><li>Passion for using data to&nbsp;improve user experiences</li><li>Hands-on experience analyzing digital business data to inform decisions and plan strategically</li><li>Worked cross-functionally in a highly collaborative environment, preferably in a remote capacity</li><li>Genuinely like working with clients and their distributed stakeholder groups</li><li>Love product strategy, but obsessed with the details on execution</li><li>Lifelong learner</li></ul><div><br></div><div>If you’re interested in checking out the swell people you’ll be working with, click here to&nbsp;<a href='https://crometrics.com/meet-the-team/' rel='nofollow'>learn more about the team.</a></div><div><br></div><div><em>If you have questions as you go through this, make notes and if we haven’t answered them by the end, feel free to email&nbsp;<a href='mailto:chris@crometrics.com' rel='nofollow'>chris@crometrics.com</a>&nbsp;or&nbsp;<a href='mailto:tom@crometrics.com' rel='nofollow'>tom@crometrics.com</a>.</em></div><div><br></div><div><h3>Our Culture</h3></div><ul><li><span>We’re a remote company.</span>&nbsp;We are spread out all over the country and enjoy the flexibility remote working affords. Want to go on a mountain bike ride in the middle of the day? Cool, don’t forget your helmet! Need to pick the kids up from school? Nice, you’ve got parent of the year in the bag. We stay connected through Slack and workcations, including one annual trip that is funded by the company.</li><li><span>Our engineers value elegant code, but move fast.</span>&nbsp;We’re writing code that runs&nbsp;<em>on top of</em>&nbsp;existing websites. Some tests only run for a few days before disappearing (though some do so well they become a permanent part of the client’s site). If “minimum viable product” isn’t in your lexicon, you aren’t a good fit.</li><li><span>Communication is critical.</span>&nbsp;We’re a remote company. That makes communication — including writing and reading comprehension —&nbsp;<em>extremely</em>&nbsp;important. You’ll work closely with engineers, designers and writers. This is not a simple “write specs and close tickets” gig. Successful applicants enjoy the process of defining and clarifying specs, documenting processes,&nbsp;<em>improving</em>&nbsp;processes, seeing their ideas and work affect millions of users, and uploading custom emoji to Slack.</li><li><span>We’re relentlessly focused on our client’s happiness.&nbsp;</span>The PM is a client-facing role. Managing a client relationship virtually takes a different type of skill set – the PMs have to be both a strategic partner, the customer (represented by the data), teacher and project manager over the phone/email/Slack, all while delivering an exceptional level of service. This type of interaction is not for everyone, and we completely understand. It’s not easy!</li><li><span>We are not perfect.&nbsp;</span>A the core of experimentation is the lesson to be learned from the test, whether a win, loss or inconclusive. We extend this concept to everything we do by setting the bar high for our team and fostering an environment of radical candor and constant learning.</li><li>Read more about our culture and core values on our&nbsp;<a href='https://crometrics.com/culture/' rel='nofollow'>culture page</a>.</li></ul><div><br></div><div>This short essay sums up the philosophy we operate by:&nbsp;<a href='http://arches.io/2014/03/this-is-professionalism/' rel='nofollow'>This is Professionalism</a>.</div><div><br></div><div><h3>A unique application and hiring process, just like us</h3></div><div>We’re glad you’re interested in working with us. We have a fairly unusual hiring process, but it has proven to work well both for us and for potential new hires. We have found that demonstrating basic competency is the best predictor of initial qualification for working with us, followed by actual work.</div><div><br></div><div>Our process reflects that. We’ve outlined our values and how we work above, and now we will ask you to complete a couple small tasks to show us you’re interested.</div><div><br></div><div><span>Create A Work Sample</span><br></div><div></div><div><em>The following is a typical task a product manager you’re working with will be doing on a daily basis.&nbsp; Since the position is for a player/coach, we’d like you to demonstrate basic competency as well.&nbsp; Please do not spend more than an hour on this task, as it is intended for you to be able to demonstrate basic competency in the core part of the job you will be doing.</em></div><div><br></div><div>We want to know how you think about designing elegant product solutions focused around increasing conversions.<br></div><div></div><div>Here is the website for a past client:&nbsp;<a href='http://www.hired.com/' rel='nofollow'>Hired.com</a>. Hired spends a lot of money (e.g. through paid ads) to drive applicants, primarily software engineers, to their site. Their goal is to increase the number of leads/applicants that complete the signup flow and are ready to be hired.</div><div><br></div><ol><li>Your first task is to come up with a hypothesis backlog of at least 6-8 ideas you have for improving conversions for&nbsp;<a href='http://hired.com/' rel='nofollow'>Hired.com</a>. An example of a hypothesis is:&nbsp;<em>“Adding a video to the Hired website will help job candidates understand how Hired works and therefore, increase conversions.”</em></li><li>Once you’ve developed your hypothesis backlog, choose one of the ideas that you believe is most likely to increase leads.</li><li>Write a spec for your chosen idea comprised of the user story, any supporting data, expected user or page interactions, engineering notes, etc. Optionally, you may also produce a wireframe and/or a visual to go along with your spec, using any number of UX tools such as Axure, Balsamiq, Invision or even simple pen/paper sketching. Just be sure to submit your spec as an image so anyone can view it without special software.</li></ol><div>In a real-life client situation, you will work with the client to create a testing roadmap supported by data that aligns with the client’s KPI’s. You’ll then write a spec for the experiments, and will work with engineering to implement and QA the experiment. Once the test is implemented, you’ll run an A/B test, share the results with the client, draw insights from the test, and develop new ideas for testing.</div><p><strong>To apply:</strong> When you’ve completed your hypothesis backlog and spec, please send an email to <a href='mailto:tom@crometrics.com' rel='nofollow'>tom@crometrics.com</a> and <a href='mailto:chris@crometrics.com' rel='nofollow'>chris@crometrics.com</a>. In the email, include the following: +A cover letter that includes a description of prior AB Testing, agency, and/or management experience. +A link to your LinkedIn profile and the name of the town/city you live in. Note the job is open to US-based applicants only. +Desired annual compensation range (to ensure we’re not wasting one another’s time – we’re not going to hold you to this number) and general availability. +The hypothesis/ideas backlog you created for Hired.com +The spec/wireframe for one of your top hypotheses. Assuming your submission exceeds expectations, we will reach out to schedule a few informal conversations with our team to learn more about you, and provide an opportunity for you to ask questions of us. If all goes well for both you and CROmetrics, we will hire you for a “paid interview” where you start working with us for approximately one week (12-15 hours max) as a 1099 contractor. This can be done on the side of your current full-time job so there is less risk to you. If both parties like working together, we expand the relationship into a full time W2 role. If not, we go our separate ways and both sides “won” in the deal. Thanks again for your interest in the Director of Growth Product Manager position with CROmetrics. We look forward to hearing from you!</p></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Nov 30, 2017 8:35:35 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:go/go/12",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=12, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/product",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "DAjltcChSDGPVJe0g9K49Q",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63312",
-    "title": "Customer Success Specialist",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>QuickMail is a sales automation tool for sending B2B cold emails. Small and medium businesses use it to reach out to potential customers in their market and grow their business. Because we hit product market fit very fast and are growing rapidly, we’re on the search for enthusiastic people who want to be part of this journey.<br><br>As a 100% customer funded start-up, decisions are made fast between the team for the good of the customers. Working here means a lot of freedom and ability to build close bonds with each user. We strive to be anti-corporate, we remove all possible walls between the users and us to truly deliver an exceptional experience.<br><br>The Role<br>As part of our Customer Success team, you’ll be the first point of contact for users of Quickmail.io, and for potential users who have questions before signing up. You’ll strive to understand their goals or problem, and translate this information into actionable points for them to make the most of Quickmail. <br><br>Your responsibilities will include: <br></p><ul><li>Developing a thorough understanding of Quickmail.io’s capabilities and services. <br></li><li>Own the responsibility for any user issue or query, from origination to full completion. <br></li><li>Ensuring each user’s experience with us is outstanding, and ensuring you always go above and beyond what is required to add even more value. <br></li><li>Investigate the user’s key objectives, and driving their adoption of Quickmail.io’s functionality beyond the expected. <br></li><li>Become a user advocate within the wider Quickmail.io team by identifying common user requirements and challenges and relaying this information to constantly improve what we do. <br></li><li>Provide training and continued support through highly effective relationship management, centred on the customer experience. <br></li><li>Consistently record your interactions with users and further develop our documentation to become the Quickmail.io bible. <br><br>This is an incredibly varied role on a small, growing SaaS startup where no two days will be the same. As a permanent, full-time and remote role, you will have regular contact with the other Customer Success specialists and the Founder.<br><br>What you’ll need: <br><br>Proven experience in a comparable role, supporting users remotely (ideally for a high growth technology company). <br>A strong attention to detail with a customer centric approach. <br>Be an entrepreneurial, pro-active personality with a healthy sense of humour. <br>Outstanding problem solving skills, with a proven ability to simplify concepts, train others and develop relationships.<br>Excellent written and verbal communication skills. <br>Solid understanding of email, desktop and internet technologies. <br>Any experience working within the SaaS industry or within a start-up environment would be highly regarded.<br>Any experience working remotely would be highly beneficial. <br><br>Please note, this role will over US business hours (either PST or ET). You will need to be available Monday - Friday, full-time to be considered, and have a fast and reliable internet connection. <br><br>We value curiosity, self-motivation and outcomes very highly here, and believe these are essential traits you’ll need to be part of our team. To see our core values, check them out here: <a href='http://quickmail.io/values' rel='nofollow'>http://quickmail.io/values</a><br>If this sounds like somewhere you can do your best work, please apply now via the link (including a short note introducing yourself) to rebecca@quickmail.io and we’ll be in touch.</li></ul></span></td><td></td><td></td><td><a href='mailto:rebecca%40quickmail.com?subject=Application%20for%20Customer%20Success%20Specialist%20at%20Quickmail.io&amp;body=Hi%21%0A%0AI%27d%20like%20to%20apply%20for%20your%20position%20for%20a%20Customer%20Success%20Specialist%20at%20Quickmail.io' rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Nov 28, 2017 2:06:38 AM",
-    "tags": [
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/support",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "hfD4r_bDRsmkz15QuegyVg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4023-kubernetes-solution-engineer-m-f-giant-swarm",
-    "title": "Kubernetes Solution Engineer (m/f) @ Giant Swarm",
-    "content": "<h2>              Kubernetes Solution Engineer (m/f)<small> @ Giant Swarm</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-11-24 21:28</p></dd>          <dt><span>Description</span></dt>          <dd><h2>We are looking for a Kubernetes Solutions Engineer (m/f)</h2><h3>Your Job:</h3><ul><li><p>You will dive deep into the customer's architecture and needs on their way to Kubernetes and advise them regarding our product, what tools to use, how to do monitoring, CI/CD.</p></li><li><p>First moments are important! So your main job is to create a great onboarding experience for our customers and handle all questions during preparation and installation.</p></li><li><p>You build and maintain recipes or helm charts for important tools that customers might need, fully packaged and documented to run easily on Kubernetes, contributing back to the respective Open Source repositories where possible.</p></li><li><p>You hold trainings and join our sales people for presentations at customers.</p></li><li><p>To sum it up: Customer Success is all that matters. You cover security and process questions and make sure that everything is ready for the customer to get their installation production ready. Furthermore you are happy to support the customer along their journey. Request can vary from general Kubernetes questions to real architecture problem, to modern applications deployments workflow.</p></li><li><p>Ultimately, you are also responsible for documentation and making sure you only need to answer once.</p></li><li><p>Requests can vary from general Kubernetes questions, to problems in using their new infrastructure to real problems in the infrastructure that need more machine room help. Ultimately, you are also responsible for documentation and making sure you only need to answer once.</p></li></ul><h3>Requirements:</h3><ul><li><p>You have experience with more than one programming language, including Go, and a strong architectural background.</p></li><li><p>You are feeling at home in the Kubernetes world, especially the multitude of Open Source tools around Kubernetes and the Container World.</p></li><li><p>You can explain complicated things, concisely and easily for a diverse audience.</p></li><li><p>You have a strong sense to provide an awesome customer service that makes life easier for Developers. Your communication skills (especially written form) are excellent. Very good English skills are a must.</p></li><li><p>Deutschkenntnisse wären ein dicker Pluspunkt.</p></li></ul><h2>Why us?</h2><p>We like to give you a glimpse on how working with Giant Swarm (we are a fully remote team) is like:</p><h3>Self-organization</h3><p>Creative work needs freedom and openness. We encourage you to do your work wherever and whenever you want. We expect passion and encourage sustainability. If you need rest, take it. If you take up a task, own it. If you see a problem, solve it.</p><h3>Teamwork</h3><p>Our ambitious goals are only achievable as a team. Everybody’s input is highly welcome and appreciated. Although sometimes rules and processes are necessary, we try to keep them as lean as possible. Always question the status quo and find new ways of collaboration and team work.</p><h3>Learning</h3><p>Learning is mandatory and fun at the same time. If you realize you want to expand your knowledge in a specific area, we support you with conferences, books etc.</p><h3>Basics</h3><p>We offer fair (transparent and open) salaries with benefits like choosing your own laptop, your choice to work at home or in a coworking space, flexible hours, minimal meetings, transparent communication, etc.. And you will participate in our stock options program. Currently our team members have more children than we are employees. So family friendliness is a must.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Germany</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Nov 24, 2017 11:23:42 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/product",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "pZsgJTO_Tfq7ZkonnnnVQg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-management",
-    "url": "https://weworkremotely.com/jobs/5816-product-manager-with-project-management",
-    "title": "Lean Startup Co: Product Manager with Project Management Experience (Lean Startup practitioner required)",
-    "content": "<div>  <div>    <h2>Product Manager with Project Management Experience (Lean Startup practitioner required)</h2>      <h4>Posted Nov 24</h4>    <h3>      <span>Lean Startup Co</span><br>      <span>Headquarters: San Francisco, CA</span><br>        <a href='https://lean-startup-co.breezy.hr/p/a5458172dce001-product-manager-with-project-management-experience-lean-startup-practitioner-required?source=weworkremotely' rel='nofollow'>https://lean-startup-co.breezy.hr/p/a5458172dce001-product-manager-with-project-management-experience-lean-startup-practitioner-required?source=weworkremotely</a>    </h3>  </div></div>  <div>    <div>Lean Startup Company offers the most exciting education solutions available today in modern management. We are a startup with&nbsp;<span>global brand recognition</span>&nbsp;headquartered in San Francisco, CA. We bring the entrepreneurial spirit to large organizations through cutting-edge education and modern management techniques. Lean Startup methodology provides a scientific approach and&nbsp;<span>framework for innovation,</span>&nbsp;so you can learn what your customers really want. It’s about testing your vision continuously, so you can effectively adapt and adjust before it’s too late.</div><div><br></div><div><span></span></div><div></div><div><br></div><div><span>ABOUT THE POSITION</span></div><div><br></div><div><span>We're seeking a part-time Product Manager with Project Management experience for</span>&nbsp;<a href='http://www.leanstartup.co/education' rel='nofollow'><span>The Lean Startup Co. Education Program</span></a>&nbsp;to lead the execution of an important initiative that will set the stage for an extraordinary transformation at a large, national organization.</div><div><br></div><div>In this role, your project management expertise and uncanny ability to obtain buy-in at all levels will serve you well. You’ll lead a group of subject matter experts, client stakeholders and creatives to help build and scale a program that will empower its participants to innovate and adapt to market changes using Lean Startup methodology.</div><div><br></div><div>You will make a massive impact in this initiative by leading the team towards the same objective, while managing and prioritizing resources to ensure client needs are met.</div><div></div><div></div><div><br></div><div><span>You’ll Work on Projects Like</span></div><div><br></div><ul><li>Scaling the adoption of Lean Startup methodology across a large organization</li><li>Working with subject matter experts and content creators to develop unique program training materials. Think playbooks and field guides, coach-the-coach curriculum and marketing collateral</li></ul><div></div><div><br></div><div><span>You’ll excel in (and enjoy!) this role if</span></div><div><br></div><ul><li>You have a track record of:</li><li><span>Working with Lean Startup methodology at an intermediate (required)&nbsp;</span>or higher level</li><li>Scaling a methodology (i.e. Lean Startup, Agile, Design Thinking) across a large organization</li><li>Creating a program that embeds a mindset and mechanics of a cultural shift across the organization</li><li>Coordinating, planning, executing, and tracking large scale implementation or organization change projects from beginning to end</li><li>Proactively working with stakeholders to drive initiatives forward, and ensure on time delivery of deliverables</li><li>Facilitating meetings and ensuring alignment across stakeholder groups</li><li>Demonstrating a proactive focus on meeting client and project requirements in a timely and cost effective manner</li><li>Operating under conditions of uncertainty and with minimal guidance</li><li>Maintaining accurate documentation, including timelines, budget updates, meeting notes, and timeframes</li><li>Managing competing priorities and ensuring stakeholders are clear on the path forward</li></ul><div><li>Overseeing stakeholder and team metrics dashboard data</li><li>You are an incredible communicator in virtual video meetings and in writing. People respond quickly to your email requests with the information you need.</li><li>You pride yourself on being proactive, responsive and exceptional at managing expectations.</li><li>You enjoy working collaboratively (yay, for google docs!) and thrive in a fast-paced environment where we love challenging ourselves (in Lean Startup fashion) to build, measure, and learn.</li><li>You are open to feedback, take ownership of your mistakes, and love applying your lessons learned to get 10x better.</li><li>You are familiar with remote working tools such as Slack, Zoom, Google apps</li><li>And finally, you get brownie points if you:</li></div><ul><li>Have remote work experience</li><li>Have experience working with a government client</li></ul><div></div><div><br></div><div><span>You’ll ensure the success of the initiative by</span></div><div><br></div><ul><li><em>Translating vision into execution.</em>&nbsp;You’ll ensure that the stakeholders and everyone involved is crystal clear on what the desired outcome is and you know how to get there with the resources you have available</li><li>Effectively utilizing subject matter experts and specialists to efficiently&nbsp;<em>move projects forward</em>.</li><li><em>Proactively managing people and expectations.</em>&nbsp;You’ll be awesome at ensuring that the right people are in the loop on the various stages of the project and there won’t be any surprises.</li><li><em>Being customer focused</em>. Learn the needs of the client and proactively test and advise the client on best path forward.</li><li><em>Being metrics oriented and business-driven.</em>&nbsp;Sharing your knowledge from past experience scaling programs across organizations to provide guidance on the best path forward.</li><li><em>Clearly communicating scope changes and impact</em>&nbsp;they have on budget and strategy.</li><li><em>Connecting and prioritizing</em>&nbsp;individual initiatives to the overall strategy.</li></ul><div></div><div><br></div><div><span>Why You’ll Love Working With Us</span></div><div><br></div><ul><li>We’re a 100% remote team using fun collaborative tools.</li><li>We encourage unplugging and prefer you don’t check email while you’re away.</li><li>Our clients are some of the largest companies in the world and you get a front row seat to the challenges they’re facing around innovation. Better yet, you get to help them solve their problems.</li><li>The work we do will go down in history as powerfully-transformative.</li><li>Experience the thrill and challenge of working in a fast-paced, growing startup.</li></ul><div></div><div><br></div><div>This is a contract-based, freelance role. The&nbsp;<span>position is remote</span>, but we ask that you’re 1) located in&nbsp;<span>the U.S</span><span>.</span>&nbsp;and 2) available to communicate during Pacific Time business hours.</div><div><br></div><div>*<span>Note</span>&nbsp;- We understand that you are eager to hear back from us. We receive a lot of applications and cannot respond to all of them. Please do not reach out to us regarding your application. If there is a mutual fit, we will contact you to move forward with the next steps in the process.</div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p><a href='https://lean-startup-co.breezy.hr/p/a5458172dce001-product-manager-with-project-management-experience-lean-startup-practitioner-required?source=weworkremotely' rel='nofollow'>https://lean-startup-co.breezy.hr/p/a5458172dce001-product-manager-with-project-management-experience-lean-startup-practitioner-required?source=weworkremotely</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Nov 24, 2017 4:10:57 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/manager",
-      "TZ/America/West"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "US Pacific time zone"
     ],
     "tagsNames2": [
       "go"
@@ -550,30 +288,82 @@
     ]
   },
   {
-    "id": "c5cxugfGTDC6fq2OcSqBKw",
+    "id": "1n1jbZylSCawjRa-zz_fWQ",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
       "jobAdContentRegExp": ""
     },
-    "sourceName": "workinstartups-consultants",
-    "url": "http://workinstartups.com/job-board/job/63578/graduate-or-student-recruiter-work-from-home-at-365-talent-portal/",
-    "title": "Graduate or student recruiter - work from home",
-    "content": "Are you a student or recent graduate?<br />Would you like to learn how to find, select, interview and place candidates?<br />Would you like to build strong customer service skills?<br />Would you like an interesting career start in a dynamic start-up environment?<br /><br />If you do, please read on!<br /><br />*The company*<br /><br />365 Talent Portal is an international career hub for Microsoft technology consultants and the companies that need to hire them. Our company is a fast growing start-up which has members in 115 countries across the globe. We work with small and medium businesses and enterprise multi-national organisations.<br /><br />We are looking to hire new talent to help our customers to find the perfect candidates. Most of our customers are currently in the UK and the US.<br /><br />*Our Culture*<br /><br />We’re a friendly group of people who have built a participative working environment where everyone can contribute and learn from each other. We value good communication, hard work, lots of fun, great ideas (but good ideas work for us as well!), and self-motivation. We also help our team members blossom through regular coaching, guidance, and advice.<br /><br />What we can offer you:<br />- A flexible work environment with the possibility to work from home at the hours you want.<br />- The opportunity to work and earn an income while studying or working on other part-time projects.<br />- The chance to learn or perfect sought-after skills such as candidate selection and customer service.<br />- Thorough, ongoing training and support to help you reach your goals.<br />- An energetic team of qualified professionals who are always happy to help.<br /><br />*Job Description*<br /><br />The main goal of the Recruiter will be to find the right candidate for each role, and the right role for each candidate. It’s a great opportunity for a student or graduate who is interested in learning about:<br />- How to look for candidates, screen CVs, conduct phone interviews.<br />- How to provide CV and interviewing advice to candidates.<br />- How to advise and provide feedback to employers.<br /><br />Responsibilities:<br />- Match the job descriptions from our clients to the consultants we have on our books or go externally to look for new candidates.<br />- Interview and shortlist candidates (training and mentoring will be provided).<br />- Keep track of the status of each candidate’s application.<br />- Update our customers on the progress of our work.<br />- Learn how to provide CV and career advice.<br />- Work closely with 365 Talent Portal marketing and sales towards achieving team targets.<br /><br />*Career Track*<br /><br />The benefit of working for a start-up is that you can develop in many different directions. Here are a couple of examples of possible career progression paths:<br />- Become a senior recruiter or recruitment team leader.<br />- Explore other company activities and learn new skills.<br /><br />*Working Environment*<br /><br />We are based in London. You will be given the option to either work from home or to work from our London offices.<br /><br />We meet on a regular basis, talk few times a day on the phone, exchange emails, IM and talk through social media. We also hold company meetings once a month in our London offices.<br /><br />*Hours*<br /><br />This role requires that you work at least 20 hours per week. However, we are not a 9-5 organisation. We would expect certain work to be done and you can do it anytime that suits you.<br /><br />*Profile and qualifications*<br /><br />We need team members who can take responsibility for their own workload and who are able to seek support when they need it. Some recruitment or account management experience would be an advantage, but we will consider anyone who has the right attitude and skills.<br /><br />Skills required:<br />- Excellent written and spoken communication skills<br />- Able to communicate professionally with customers<br />- Well organised with an eye for detail<br />- Good at tracking data<br />- Self-motivated and responsible<br />- ‘Start-up spirit’: wants to be a part of a new company’s growth<br />- Able to work as part of a team<br />- Keen to learn and curious<br /><br />• You must be based in the EU and eligible to work in the UK (UK-based candidates preferred)<br />• You must be able to speak and write English fluently<br /><br />*Compensation*<br /><br />Minimum guaranteed income of £500 per month for 20 hours of work per week. You will earn commission on each of your placements, and we will guide and help you to increase your earnings consistently.<br /><br />*How to apply*<br /><br />If you are interested, send us your CV and a cover letter explaining why you think you would be a good candidate. Please note that we will only consider applications which include a cover letter.",
+    "sourceName": "wfh.io",
+    "url": "https://www.wfh.io/jobs/3992-senior-software-developer-golang-curoverse",
+    "title": "Senior Software Developer (Golang) @ Curoverse",
+    "content": "<h2>              Senior Software Developer (Golang)<small> @ Curoverse</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-11-23 19:55</p></dd>          <dt><span>Description</span></dt>          <dd><p>Accelerate data science by building the free software platform for verifiable large scale computation.</p><p><strong>JOB DESCRIPTION</strong></p><p>At Curoverse , you'll work on a small team of senior software developers to build the Arvados platform and the Curoverse products that are based on Arvados.</p><p><strong>RESPONSIBILITIES</strong></p><ul><li>Program in Golang, Javascript, Python, Ruby</li><li>Work on hard distributed computing problems</li><li>Use scrum in an agile, self-managed team of peers</li><li>Develop big-data storage and analytical systems</li><li>Help create a massive, in-memory, real-time query engine</li><li>Contribute to a free/open source platform and community</li></ul><p><strong>WE'RE LOOKING FOR SOMEONE WHO...</strong></p><ul><li>Has a solid background in Golang</li><li>Loves writing and improving code</li><li>Works well in a small team of peers</li><li>Has used multiple programming languages to build production systems</li><li>Has substantial experience contributing to free software projects</li><li>Has experience with big data and distributed computing systems</li><li>Can work in a fast-paced startup environment</li></ul><p><strong>OUR STACK</strong></p><p>Some of the technologies we use: Debian, Ubuntu, CentOS, Docker, Git, Golang, Javascript, Jenkins, jQuery, Nginx, PostgreSQL, Python, Puppet, Rails, Ruby, Twitter Bootstrap.</p><p><strong>WHY WORK HERE</strong></p><ul><li>Work that matters - Build software that will be the backbone of modern medicine.</li><li>Hard problems - Solve software engineering problems in distributed computing and big data.</li><li>Diverse tasks - We have a small team with a big project, so you won't be stuck working in some corner.</li><li>Free software - Your code will be released under AGPLv3 / Apache 2.0.</li><li>Sustainable lifestyle - Do great work and have time and energy for the other things life has to offer.</li><li>Convenient office location - Our office is right in Davis Square, Somerville.</li></ul><p><strong>COMPENSATION</strong></p><p>We offer competitive salaries, stock options, health/dental/vision, flexible time off, and other benefits.</p><p><strong>LOCATION</strong></p><p>We prefer candidates who are based in the Boston area or can relocate, but we are open to remote employees. </p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
     "urlFetchPending": false,
-    "published": "Nov 20, 2017 1:17:21 PM",
+    "published": "Nov 23, 2017 9:55:24 PM",
     "tags": [
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
+      "DBG_TECH1:k/t/w:backbone.js/frontend/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:golang/go/40",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=40, nodejs=2, bigdata-ml=32, ruby=12, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=26}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
       "TECH1/go",
-      "TITLE1/unknown",
-      "TZ/Europe"
+      "TITLE1/dev",
+      "TZ/unknown"
     ],
     "tagsNames1": [
-      "50% remote",
-      "European time zones"
+      "100% remote"
     ],
     "tagsNames2": [
+      "bigdata-ml",
+      "go"
+    ]
+  },
+  {
+    "id": "Gh3fQE86T82ByXYSnb99JA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "remoteok.io",
+    "url": "https://remoteok.io/jobs/63256",
+    "title": "Senior Software Developer",
+    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>Accelerate data science by building the free software platform for verifiable large scale computation.<br><br><strong>JOB DESCRIPTION</strong><br><br>At Curoverse , you'll work on a small team of senior software developers to build the Arvados platform and the Curoverse products that are based on Arvados.<br><br><strong>RESPONSIBILITIES</strong><br><br></p><ul><li>Program in Golang, Javascript, Python, Ruby<br></li><li>Work on hard distributed computing problems<br></li><li>Use scrum in an agile, self-managed team of peers<br></li><li>Develop big-data storage and analytical systems<br></li><li>Help create a massive, in-memory, real-time query engine<br></li><li>Contribute to a free/open source platform and community<br><br><strong>WE'RE LOOKING FOR SOMEONE WHO...</strong><br><br></li><li>Has a solid background in Golang<br></li><li>Loves writing and improving code<br></li><li>Works well in a small team of peers<br></li><li>Has used multiple programming languages to build production systems<br></li><li>Has substantial experience contributing to free software projects<br></li><li>Has experience with big data and distributed computing systems<br></li><li>Can work in a fast-paced startup environment<br><br><strong>OUR STACK</strong><br><br>Some of the technologies we use: Debian, Ubuntu, CentOS, Docker, Git, Golang, Javascript, Jenkins, jQuery, Nginx, PostgreSQL, Python, Puppet, Rails, Ruby, Twitter Bootstrap.<br><br><strong>WHY WORK HERE</strong><br><br></li><li>Work that matters - Build software that will be the backbone of modern medicine.<br></li><li>Hard problems - Solve software engineering problems in distributed computing and big data.<br></li><li>Diverse tasks - We have a small team with a big project, so you won't be stuck working in some corner.<br></li><li>Free software - Your code will be released under AGPLv3 / Apache 2.0.<br></li><li>Sustainable lifestyle - Do great work and have time and energy for the other things life has to offer.<br></li><li>Convenient office location - Our office is right in Davis Square, Somerville.<br><br><strong>COMPENSATION</strong><br><br>We offer competitive salaries, stock options, health/dental/vision, flexible time off, and other benefits.<br><br><strong>LOCATION</strong><br><br>We prefer candidates who are based in the Boston area or can relocate, but we are open to remote employees. </li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
+    "urlFetchPending": false,
+    "published": "Nov 23, 2017 9:55:24 PM",
+    "tags": [
+      "DBG_TECH1:k/t/w:backbone.js/frontend/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:golang/go/24",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=24, nodejs=2, bigdata-ml=32, ruby=12, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=26}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend",
       "go"
     ]
   },
@@ -620,16 +410,17 @@
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``2W(100, remot)",
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG_TECH1:k/t/w:go/go/27",
+      "DBG_TECH1:k/t/w:go-developer/go/13",
+      "DBG_TECH1:k/t/w:go/go/24",
       "DBG_TECH1:k/t/w:wordpress/php/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=27, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=37, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
       "TECH2/apm",
       "TECH2/go",
       "TECH2/monitoring",
       "TECH2/performance",
-      "TITLE1/data",
+      "TITLE1/dev",
       "TZ/America/East"
     ],
     "tagsNames1": [
@@ -641,173 +432,6 @@
       "go",
       "monitoring",
       "performance"
-    ]
-  },
-  {
-    "id": "S-eg-u_xSfG4XzW038wPUA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/154999/software-engineer-site-reliability-and-sticker-mule?a=PYSg6bMYPZK",
-    "title": "Software engineer: site reliability and infrastructure at Sticker Mule () (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>System Administrator</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>eCommerce, Manufacturing</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>201-500 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>What you'll do</strong></p><p>1. Design, build and maintain tools to develop, test and deploy services efficiently.</p><p>2. Work to continually improve the performance, reliability and security of the StickerMule cloud infrastructure.</p><p>3. Collaborate with team leads and stakeholders to ensure that we’re always building the best possible solution in the optimal way.</p><p>4. Participate in peer code reviews.</p><p>5. Share expertise with other members of the team, mentor junior developers.</p><p><strong>About you</strong></p><p>1. You have a minimum of 3 years professional software development experience.</p><p>2. You’re highly competent in multiple general purpose languages, like Go, Ruby, and JavaScript.</p><p>3. You have Linux roots, you contain with Docker, you schedule with Kubernetes.</p><p>4. You don’t run away if you see a Bash script.</p><p>5. You have multi-cloud practical experience, AWS and Google Cloud would be especially beneficial.</p><p>6. You implemented and used logging, monitoring and distributed tracing systems.</p><p>7. You possess strong analytical and critical thinking skills.</p><p>8. You have great written and verbal communication skills in English.</p><p><strong>Application requirements</strong></p><p>1. Applicants will be sent a Hackerrank test within 1-3 business days of applying.</p><p>2. Test must be completed within 5 business days.</p><p><strong>Apply here only</strong></p><p><a href='https://www.stickermule.com/jobs?job=5fa3b36b-7700-4bbf-8137-cacee65bc805&amp;title=sr-frontend-developer' rel='nofollow'>https://www.stickermule.com/jobs?job=5fa3b36b-7700-4bbf-8137-cacee65bc805&amp;title=sr-frontend-dev…</a></p>                    </div>                            <h2>                About Sticker Mule            </h2>            <div><p>Sticker Mule is the Internet's fastest growing printing company. We are privately-owned, profitable and powered by an outstanding remote team that supports the growth of our manufacturing operations. We aim to build one of the Internet’s best technical teams. Currently, our development team operates in 8 countries and we’re always looking for more exceptional developers to join us.</p><p><strong>Why we enjoy working here</strong></p><p>1. We work flexible hours with an asynchronous culture.</p><p>2. We work at a sustainable pace without unreasonable external deadlines.</p><p>3. Varied, interesting technical challenges to work on.</p><p>4. Opportunities to make a large impact as part of a small, highly motivated team.</p><p><strong>What we look for</strong> <a href='https://www.stickermule.com/blog/characteristics-we-look-for-in-team-members' rel='nofollow'>https://www.stickermule.com/blog/characteristics-we-look-for-in-team-members</a></p>            </div>                                <h2>Benefits</h2>                            <div>                                 Flexible hours with asynchronous culture.                            </div>                            <div>                                 Sustainable work pace without unreasonable expectations or deadlines.                            </div>                            <div>                                 Varied, interesting technical challenges.                            </div>                            <div>                                 Opportunities to make a large impact as a small team.                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 17, 2017 8:18:19 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:bash/other/2",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/other",
-      "TECH1/ruby",
-      "TECH2/amazon-web-services",
-      "TECH2/go",
-      "TECH2/google-cloud-platform",
-      "TECH2/javascript",
-      "TECH2/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "amazon-web-services",
-      "go",
-      "google-cloud-platform",
-      "javascript",
-      "other",
-      "ruby"
-    ]
-  },
-  {
-    "id": "oPsAu-nUSXiKNtBDep0Rmg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/121412/site-reliability-engineer-m-f-giant-swarm-gmbh?a=EIviqmnOTXW",
-    "title": "Site Reliability Engineer (m/f) at Giant Swarm GmbH (Cologne, Germany) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior, Lead</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>System Administrator</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Software Development</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>Giant Swarm is a leader in cloud native infrastructures and provides managed Kubernetes clusters to run containerized applications both on-premises and in the cloud.</strong></p><p><br>We are looking for a new Team member (m/f)&nbsp;</p><p><strong>Your Job:</strong></p><p>You understand how systems work and tweak their behavior to your needs?</p><ul><li>You will design, build, and maintain our core infrastructure</li><li>You will be responsible for our monitoring, logging, alerting</li><li>You will automate all the things</li></ul><p><strong>Skills &amp; Requirements</strong></p><p><strong>Requirements</strong>:</p><ul><li>You have a wide experience in Networking, Security, Linux (Kernel, Namesspaces, cgroups)</li><li>You must have knowledge in docker, kubernetes and CoreOS</li><li>You know the good and bad parts of Chef, Puppet, Ansible or Saltstack</li><li>You like reverse and performance engineering</li><li>You automate all the things by writing code. Using bash scripts for it makes you sad :)</li><li>You have coding skills. Go is our current favorite</li></ul><p>Bonus point: You had a look into projects like Project Calico, Prometheus, Vault, Ceph<br>Bonus Point 2: You have practical experience with IPMI and Arista (or Cisco) switches</p>                    </div>                            <h2>                About Giant Swarm GmbH            </h2>            <div><p><strong>WHY US?</strong></p><p>We would like to give you a glimpse on how working with us will be like:</p><p><strong>Self-organization</strong></p><p>Creative work needs freedom and openness. We encourage you to do your work wherever and whenever you want. We expect passion and encourage sustainability. If you need rest, take it. We don't count holidays - we count outcome.</p><p><strong>Teamwork</strong>&nbsp;</p><p>Our ambitious goals are only achievable as a team. Everybody’s input is highly welcome and appreciated. Although sometimes rules and processes are necessary, we try to keep them as lean as possible. Always question the status quo and find new ways of collaboration and team work.</p><p><strong>Learning</strong></p><p>Learning is mandatory and fun at the same time. If you realize you want to expand your knowledge in a specific area, we support you with conferences, books etc.</p><p><strong>Basics&nbsp;</strong></p><p>We offer fair (transparent and open) salaries with benefits like choosing your own laptop, jobticket, coffee flat, mate etc.. And you will participate in our stock options program. Currently our team members have more children than we are employees. So family friendliness is a must. We base our teamwork on trust and appreciation. &nbsp;</p><p>Interested? Questions? Coffee? Just contact Oliver. If you want to apply directly, please use our&nbsp;tool.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 unlimited holidays                            </div>                            <div>                                 fair and transparent open salaries                            </div>                            <div>                                 familiy friendlyness is a must                            </div>                            <div>                                 jobticket                            </div>                            <div>                                 choose the time you want to work                            </div>                            <div>                                 choose the devices you want to work with                            </div>                            <div>                                 remote work possible                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 17, 2017 8:18:19 PM",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
-      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=0, mobile=0, go=3, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1/50",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TECH1/nodejs",
-      "TECH2/docker",
-      "TECH2/go",
-      "TECH2/kubernetes",
-      "TECH2/linux",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "docker",
-      "frontend",
-      "go",
-      "kubernetes",
-      "linux",
-      "nodejs"
-    ]
-  },
-  {
-    "id": "Bk3HtJprRiqFMVYOrPVZng",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/159735/operations-engineer-daily-kos-kos-media-llc?a=RzlIfH6VdMQ",
-    "title": "Operations Engineer at Daily Kos (Kos Media LLC) (Oakland, CA) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>System Administrator</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Digital Media</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>We are seeking a self-sufficient, operations-at-scale experienced remote worker (U.S. residents only) who:</p><ul><li><ul><li>Proficient in Ruby, Python or Go</li><li>Veteran of Linux and Bash (Shell Scripting)</li><li>Deep knowledge of AWS or similar Cloud Services Provider</li><li>Skilled with docker, docker-compose, and other docker development tools</li><li>Production experience with AWS ECS, Kubernetes, Nomad or similar Task Scheduler</li><li>Knowledgeable about Hashicorp tools, specifically Packer, Consul and Vault</li><li>Informed on ETL processes and techniques</li><li>Comfortable working with very large data sets</li></ul></li></ul><p>At Daily Kos, we believe that the diversity of ideas, experiences and cultures that our employees contribute to our organization help us be more effective in our work, and we are proud to be an inclusive and equal-opportunity workplace. We're a company that loves learning and supports growth and training for all our employees.</p><p>To apply, please send an email to <a href='mailto:tech_jobs@dailykos.com' rel='nofollow'>tech_jobs@dailykos.com</a> with the name of the position in the subject line, a cover letter, code sample or github repo and your resume (include your LinkedIn profile link).</p>                    </div>                            <h2>                About Daily Kos (Kos Media LLC)            </h2>            <div><p>DailyKos, the leading online progressive blogging and activism platform, is looking for an Infrastructure &amp; Backend Developer. DailyKos is a great place to work-- your code will be used by hundreds of thousands of people a day who care deeply about progressive politics and are working to effect real political change. We provide an extensive feature set that extends from blogging to activism and beyond. If you want a job that provides more than just a technical challenge, we'd love to hear from you.</p><p>The job offers a flexible work environment, the ability to work remotely on a distributed team of self-sufficient collaborators, competitive salary and benefits, and we provide an Apple MacBook Pro or your comparable preferred hardware. Our organizations commitment to personal growth reduces churn and encourages a very rewarding long term position. We have an energized team filled with great people with different backgrounds.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 100% Medical Coverage                            </div>                            <div>                                 6 weeks paid vacation per year                            </div>                            <div>                                 401K Plan                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 17, 2017 8:18:19 PM",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) )",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:shell/other/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TECH1/other",
-      "TECH1/python",
-      "TECH2/amazon-web-services",
-      "TECH2/go",
-      "TECH2/linux",
-      "TECH2/python",
-      "TECH2/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "amazon-web-services",
-      "go",
-      "linux",
-      "other",
-      "python",
-      "ruby"
-    ]
-  },
-  {
-    "id": "jyEo3VXeT_GUYaT9eI_j8w",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/160144/platform-engineer-for-containers-m-f-giant-swarm-gmbh?a=RHQYJlgM27C",
-    "title": "Platform Engineer for Containers (m/f) at Giant Swarm GmbH () (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Software Development</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>Your Job:</strong></p><ul><li>You will be responsible for architecting and building distributed systems</li><li>You will use a wide variety of open source technologies and tools</li><li>You take part for testing, metrics, continuous integration</li></ul><p><strong>Requirements</strong>:</p><ul><li>You have experience with more than one language and a strong architectural background. One of these languages is Go.</li><li>You love to automate things and you are used to deploy in production multiple times a day</li><li>You are a profound Linux user</li><li>You have worked with docker, experiences with kubernetes, prometheus are a bonus point</li><li>You prefer to build your applicatinons as multiple services instead of a monolith</li><li>You know the concepts of CAP theorem, paxos/raft concensus, distributed databases and message passing</li></ul>                    </div>                            <h2>                About Giant Swarm GmbH            </h2>            <div><p><strong>WHY US?</strong></p><p>We would like to give you a glimpse on how working with us will be like:</p><p><strong>Self-organization</strong></p><p>Creative work needs freedom and openness. We encourage you to do your work wherever and whenever you want. We expect passion and encourage sustainability. If you need rest, take it. We don't count holidays - we count outcome.</p><p><strong>Teamwork</strong>&nbsp;</p><p>Our ambitious goals are only achievable as a team. Everybody’s input is highly welcome and appreciated. Although sometimes rules and processes are necessary, we try to keep them as lean as possible. Always question the status quo and find new ways of collaboration and team work.</p><p><strong>Learning</strong></p><p>Learning is mandatory and fun at the same time. If you realize you want to expand your knowledge in a specific area, we support you with conferences, books etc.</p><p><strong>Basics&nbsp;</strong></p><p>We offer fair (transparent and open) salaries with benefits like choosing your own laptop, jobticket, coffee flat, mate etc.. And you will participate in our stock options program. Currently our team members have more children than we are employees. So family friendliness is a must. We base our teamwork on trust and appreciation. &nbsp;</p><p>Interested? Questions? Coffee? Just contact Anna. If you want to apply directly, please use our&nbsp;tool.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 unlimited holidays                            </div>                            <div>                                 fair and transparent open salaries                            </div>                            <div>                                 familiy friendlyness is a must                            </div>                            <div>                                 jobticket                            </div>                            <div>                                 choose the time you want to work                            </div>                            <div>                                 choose the devices you want to work with                            </div>                            <div>                                 remote work possible                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 17, 2017 8:18:19 PM",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
-      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
-      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1/50",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TECH1/nodejs",
-      "TECH2/go",
-      "TECH2/kubernetes",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "go",
-      "kubernetes",
-      "nodejs"
     ]
   },
   {
@@ -824,8 +448,8 @@
     "published": "Nov 15, 2017 1:24:22 AM",
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
       "TITLE1/dev",
@@ -872,42 +496,6 @@
     ]
   },
   {
-    "id": "hfj8gJEBRKeKknOoezVi3A",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-sysadmin",
-    "url": "https://weworkremotely.com/jobs/5728-software-engineer-site-reliability-and",
-    "title": "Sticker Mule: Software engineer: site reliability and infrastructure",
-    "content": "<div>  <div>    <h2>Software engineer: site reliability and infrastructure</h2>      <h4>Posted Nov 10</h4>    <h3>      <span>Sticker Mule</span><br>      <span>Headquarters: New York, NY</span><br>        <a href='https://www.stickermule.com/blog' rel='nofollow'>https://www.stickermule.com/blog</a>    </h3>  </div>    </div>  <div>    <div>Sticker Mule is the Internet's fastest growing printing company. We are privately-owned, profitable and powered by an outstanding remote team that supports the growth of our manufacturing operations. We aim to build one of the Internet’s best technical teams. Currently, our development team operates in 8 countries and we’re always looking for more exceptional developers to join us.&nbsp;</div><div></div><div><br></div><div></div><div><b>Why we enjoy working here</b>&nbsp;<br></div><div></div><div>1. We work flexible hours with an asynchronous culture.&nbsp;<br></div><div></div><div>2. We work at a sustainable pace without unreasonable external deadlines.&nbsp;<br></div><div></div><div>3. Varied, interesting technical challenges to work on.&nbsp;<br></div><div></div><div>4. Opportunities to make a large impact as part of a small, highly motivated team.&nbsp;<br></div><div></div><div></div><div><br></div><div></div><div><b>What you’ll do</b>&nbsp;<br></div><div></div><div>1. Design, build and maintain tools to develop, test and deploy services efficiently.&nbsp;<br></div><div></div><div>2. Work to continually improve the performance, reliability and security of the StickerMule cloud infrastructure.&nbsp;<br></div><div></div><div>3. Collaborate with team leads and stakeholders to ensure that we’re always building the best possible solution in the optimal way.&nbsp;<br></div><div></div><div>4. Participate in peer code reviews.&nbsp;<br></div><div></div><div>5. Share expertise with other members of the team, mentor junior developers.&nbsp;<br></div><div></div><div></div><div><br></div><div></div><div><b>About you</b>&nbsp;<br></div><div></div><div>1. You have a minimum of 3 years professional software development experience.&nbsp;<br></div><div></div><div>2. You’re highly competent in multiple general purpose languages, like Go, Ruby, and JavaScript.&nbsp;<br></div><div></div><div>3. You have Linux roots, you contain with Docker, you schedule with Kubernetes.&nbsp;<br></div><div></div><div>4. You don’t run away if you see a Bash script.&nbsp;<br></div><div></div><div>5. You have multi-cloud practical experience, AWS and Google Cloud would be especially beneficial.&nbsp;<br></div><div></div><div>6. You implemented and used logging, monitoring and distributed tracing systems.&nbsp;<br></div><div></div><div>7. You possess strong analytical and critical thinking skills.&nbsp;<br></div><div></div><div>8. You have great written and verbal communication skills in English.&nbsp;<br></div><div></div><div></div><div><br></div><div></div><div><b>Application requirements</b>&nbsp;<br></div><div></div><div>1. Applicants will be sent a Hackerrank test within 1-3 days of applying.&nbsp;<br></div><div></div><div>2. Test must be completed within 5 days.</div><div><br></div><div></div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Apply here only: <a href='https://www.stickermule.com/jobs?job=fa137148-6549-46e9-8fd3-f4c3179501d3&amp;title=software-engineer-site-reliability-and-infrastructure' rel='nofollow'>https://www.stickermule.com/jobs?job=fa137148-6549-46e9-8fd3-f4c3179501d3&amp;title=software-engineer-site-reliability-and-infrastructure</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Nov 10, 2017 9:09:02 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:bash/other/2",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/other",
-      "TECH1/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "other",
-      "ruby"
-    ]
-  },
-  {
     "id": "79iok_F2TlucQwpU6DoxXw",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -941,42 +529,6 @@
     ]
   },
   {
-    "id": "BWZfIVZ1Ta66edKsMxwrJQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "jobs.github.com-remote",
-    "url": "http://jobs.github.com/positions/ee749d96-c645-11e7-91c7-373ec81561f7",
-    "title": "Full Time: Software engineer: site reliability and infrastructure at Sticker Mule in Remote",
-    "content": "<p>Sticker Mule is the Internet's fastest growing printing company. We are privately-owned, profitable and powered by an outstanding remote team that supports the growth of our manufacturing operations. We aim to build one of the Internet’s best technical teams. Currently, our development team operates in 8 countries and we’re always looking for more exceptional developers to join us. <br></p><p><strong>Why we enjoy working here</strong> <br>1. We work flexible hours with an asynchronous culture. <br>2. We work at a sustainable pace without unreasonable external deadlines. <br>3. Varied, interesting technical challenges to work on. <br>4. Opportunities to make a large impact as part of a small, highly motivated team. <br></p><p><strong>What you’ll do</strong> <br>1. Design, build and maintain tools to develop, test and deploy services efficiently. <br>2. Work to continually improve the performance, reliability and security of the StickerMule cloud infrastructure. <br>3. Collaborate with team leads and stakeholders to ensure that we’re always building the best possible solution in the optimal way. <br>4. Participate in peer code reviews. <br>5. Share expertise with other members of the team, mentor junior developers. <br></p><p><strong>About you</strong> <br>1. You have a minimum of 3 years professional software development experience. <br>2. You’re highly competent in multiple general purpose languages, like Go, Ruby, and JavaScript. <br>3. You have Linux roots, you contain with Docker, you schedule with Kubernetes. <br>4. You don’t run away if you see a Bash script. <br>5. You have multi-cloud practical experience, AWS and Google Cloud would be especially beneficial. <br>6. You implemented and used logging, monitoring and distributed tracing systems. <br>7. You possess strong analytical and critical thinking skills. <br>8. You have great written and verbal communication skills in English. <br></p><p><strong>Application requirements</strong> <br>1. Applicants will be sent a Hackerrank test within 1-3 days of applying. <br>2. Test must be completed within 5 days. <br></p>",
-    "urlFetchPending": false,
-    "published": "Nov 10, 2017 8:37:44 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:bash/other/2",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/other",
-      "TECH1/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "other",
-      "ruby"
-    ]
-  },
-  {
     "id": "Pl77sBNTQKGs01XmJ1Ln1g",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -1006,34 +558,6 @@
     ]
   },
   {
-    "id": "PimgQhSmQVadGDC_5-0GHw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-remote",
-    "url": "https://weworkremotely.com/jobs/5678-qa-analyst",
-    "title": "CROmetrics: QA Analyst",
-    "content": "<div>  <div>    <h2>QA Analyst</h2>      <h4>Posted Nov  6</h4>    <h3>      <span>CROmetrics</span><br>      <span>Headquarters: San Francisco, CA</span><br>        <a href='https://crometrics.com/qa-analyst-job/' rel='nofollow'>https://crometrics.com/qa-analyst-job/</a>    </h3>  </div>    </div>  <div>    <div><em><b>Our positions are fully remote and to ensure compliance with all applicable labor laws, are open to U.S.-based applicants only. Not hiring in Washington state, Oregon state, San Francisco, or New York.</b></em></div><div><em><b><br></b></em></div><div><em><h4><b>What We Do</b></h4></em></div><div>Simply put, we make websites easier to use. Through a scientific method of determining which site improvements result in actual performance improvements, we replace the old way of designing sites through gut feel and management opinions with designing sites through data.<br></div><div></div><div><br></div><div>If you’re interested in checking out the swell people you’ll be working with, click here to&nbsp;<a href='https://crometrics.com/meet-the-team/' rel='nofollow'>learn more about the team.</a></div><div><br></div><div><h4><b>Our Hiring Process</b></h4></div><div>We’re glad you’re interested in working with us. We have a fairly unusual hiring process, but it has proven to work well both for us and for potential new hires. We have found that demonstrating basic competency is the best predictor of initial qualification for working with us, followed by actual work.<br></div><div></div><div><br></div><div>Our process reflects that: below, we outline our values and how we work, and then ask you to complete a small task. Assuming we like your response, we will hire you for a “paid interview” where you start working with us for a small number of hours each week. If both parties like working together, we expand the relationship. If not, we go our separate ways and both sides “won” in the deal!<br></div><div></div><div><br></div><div>This short essay sums up the philosophy we operate by:&nbsp;<a href='http://arches.io/2014/03/this-is-professionalism/' rel='nofollow'>This is Professionalism</a>. Please read it and if you’re willing to work this way, read on!<br></div><div></div><div><br></div><div><em>If you have questions as you go through this, make notes and if we haven’t answered them by the end, feel free to email&nbsp;<a href='mailto:matthew.gossage@crometrics.com' rel='nofollow'>matthew.gossage@crometrics.com</a>,&nbsp;<a href='mailto:chris@crometrics.com' rel='nofollow'>chris@crometrics.com&nbsp;</a>or&nbsp;<a href='mailto:tom@crometrics.com' rel='nofollow'>tom@crometrics.com</a>.</em><br></div><div></div><div><em><br></em></div><div><h4><b>Our Culture</b></h4></div><ul><li><span><b>We’re a remote company.</b></span>&nbsp;We are spread out all over the country and enjoy the flexibility remote working affords. Want to go on a mountain bike ride in the middle of the day? Cool, don’t forget your helmet! Need to pick the kids up from school? Nice, you’ve got parent of the year in the bag. We stay connected through Slack and workcations, including one annual trip that is partially funded by the company.</li><li><b>We work hard and move fast.</b>&nbsp;We’re working on a lot of different websites with varying underlying technologies. You’ll see a lot of pages and forms and there’s not a lot of automation. Maintaining quality while working on so much requires more than just checking boxes, you’ll need to think critically.</li><li><b><strong>Again, we’re a remote company.</strong>&nbsp;</b>That makes communication — including writing and reading comprehension —&nbsp;<em>extremely</em>&nbsp;important. You’ll work closely with product managers, designers and writers. This is not a simple “pull tickets and check in code” gig. Successful applicants enjoy the process of defining and clarifying specs, documenting processes,&nbsp;<em>improving</em>&nbsp;processes, and uploading custom emoji to Slack.</li></ul>  </div>  <div>    <h4>Apply for this position</h4>    <p>Interested in working with us? You’re off to a good start. To apply, follow the instructions in this spreadsheet: <a href='https://docs.google.com/spreadsheets/d/1gf9mvHN64zX90PZsQ1R7pH9jqwx9642BN4ATYx57-_g/edit?usp=sharing' rel='nofollow'>https://docs.google.com/spreadsheets/d/1gf9mvHN64zX90PZsQ1R7pH9jqwx9642BN4ATYx57-_g/edit?usp=sharing</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Nov 6, 2017 4:53:11 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/9",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=9, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/qa",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
     "id": "aS7tdijcRVS0uw6Br2xKSA",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -1049,16 +573,17 @@
       "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
       "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
       "DBG:surround``remot 3W onli",
-      "DBG_TECH1:k/t/w:go/go/9",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:golang/go/16",
       "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
       "DBG_TECH1:k/t/w:unity3d/gamedev/8",
       "DBG_TECH1:k/t/w:unity3d/mobile/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=9, nodejs=0, bigdata-ml=8, ruby=8, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=19, nodejs=0, bigdata-ml=16, ruby=8, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/bigdata-ml",
       "TECH1/go",
-      "TECH1/ruby",
       "TECH2/docker",
       "TECH2/elixir",
       "TECH2/go",
@@ -1077,7 +602,6 @@
       "elixir",
       "go",
       "postgresql",
-      "ruby",
       "ruby-on-rails"
     ]
   },
@@ -1098,13 +622,15 @@
       "DBG:surround``usa 3W OR(time,timezon)",
       "DBG_TECH1:k/t/w:android/java/1",
       "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:go-developer/go/13",
       "DBG_TECH1:k/t/w:go/go/21",
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
       "DBG_TECH1:k/t/w:less/frontend/5",
       "DBG_TECH1:k/t/w:macos/apple/2",
       "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=4, go=21, nodejs=0, bigdata-ml=0, ruby=0, apple=4, java=1, gamedev=0, php=0, embedded=0, frontend=5}",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=8, c=0, mobile=4, go=34, nodejs=0, bigdata-ml=0, ruby=0, apple=4, java=1, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1/100",
       "TECH1/go",
       "TECH2/docker",
@@ -1141,8 +667,9 @@
       "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
       "DBG:surround``2W(100, remot)",
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG_TECH1:k/t/w:go/go/12",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=12, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:k/t/w:golang/go/32",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=32, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
       "TECH2/distributed-system",
@@ -1163,44 +690,6 @@
       "go",
       "monitoring",
       "scala"
-    ]
-  },
-  {
-    "id": "CtbF_McHQ8m7l5Jd8ikFPQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/154245/kubernetes-solutions-engineer-m-f-giant-swarm-gmbh?a=PJcewtVc8Cs",
-    "title": "Kubernetes Solutions Engineer (m/f) at Giant Swarm GmbH (Cologne, Germany) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior</span>                                        </div>                                        <div>                                            <span>Industry: </span>                                            <span>Software Development</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong><strong>You make stuff happen? We are looking for a Container Solutions Engineer (m/f)</strong></strong></p><p><strong>Your Job: </strong></p><ul><li>You will dive deep into the customer's architecture and needs on their way to Kubernetes and advise them regarding our product, what tools to use, how to do monitoring, CI/CD.</li><li>First moments are important! So your main job is to create a great onboarding experience for our customers and handle all questions during preparation and installation.</li><li>You build and maintain recipes or helm charts for important tools that customers might need, fully packaged and documented to run easily on Kubernetes, contributing back to the respective Open Source repositories where possible.</li><li>You hold trainings and join our sales people for presentations at customers.</li><li>To sum it up: Customer Success is all that matters. You cover security and process questions and make sure that everything is ready for the customer to get their installation production ready. Furthermore you are happy to support the customer along their journey. Request can vary from general Kubernetes questions to real architecture problem, to modern applications deployments workflow.</li><li>Ultimately, you are also responsible for documentation and making sure you only need to answer once.</li><li>Requests can vary from general Kubernetes questions, to problems in using their new infrastructure to real problems in the infrastructure that need more machine room help. Ultimately, you are also responsible for documentation and making sure you only need to answer once.</li></ul><p><br><br></p><p><strong>Requirements: </strong></p><ul><li>You have experience with more than one programming language, including Go, and a strong architectural background.</li></ul><ul><li>You are feeling at home in the Kubernetes world, especially the multitude of Open Source tools around Kubernetes and the Container World.</li><li>You can explain complicated things, concisely and easily for a diverse audience.</li><li>You have a strong sense to provide an awesome customer service that makes life easier for Developers. Your communication skills (especially written form) are excellent. Very good English skills are a must.</li><li>Deutschkenntnisse sind ein dicker Pluspunkt.&nbsp;</li></ul>                    </div>                            <h2>                About Giant Swarm GmbH            </h2>            <div><p><strong>WHY US?</strong></p><p>We would like to give you a glimpse on how working with us will be like:</p><p><strong>Self-organization</strong></p><p>Creative work needs freedom and openness. We encourage you to do your work wherever and whenever you want. We expect passion and encourage sustainability. If you need rest, take it. We don't count holidays - we count outcome.</p><p><strong>Teamwork</strong>&nbsp;</p><p>Our ambitious goals are only achievable as a team. Everybody’s input is highly welcome and appreciated. Although sometimes rules and processes are necessary, we try to keep them as lean as possible. Always question the status quo and find new ways of collaboration and team work.</p><p><strong>Learning</strong></p><p>Learning is mandatory and fun at the same time. If you realize you want to expand your knowledge in a specific area, we support you with conferences, books etc.</p><p><strong>Basics&nbsp;</strong></p><p>We offer fair (transparent and open) salaries with benefits like choosing your own laptop, jobticket, coffee flat, mate etc.. And you will participate in our stock options program. Currently our team members have more children than we are employees. So family friendliness is a must. We base our teamwork on trust and appreciation. &nbsp;</p><p>Interested? Questions? Coffee? Just contact Anna. If you want to apply directly, please use our&nbsp;tool.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 unlimited holidays                            </div>                            <div>                                 fair and transparent open salaries                            </div>                            <div>                                 familiy friendlyness is a must                            </div>                            <div>                                 jobticket                            </div>                            <div>                                 choose the time you want to work                            </div>                            <div>                                 choose the devices you want to work with                            </div>                            <div>                                 remote work possible                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
-      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
-      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1/50",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TECH1/nodejs",
-      "TECH2/containers",
-      "TECH2/kubernetes",
-      "TITLE1/product",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "containers",
-      "frontend",
-      "go",
-      "kubernetes",
-      "nodejs"
     ]
   },
   {
@@ -1236,239 +725,6 @@
       "amazon-web-services",
       "azure",
       "azure-api-apps",
-      "go",
-      "python"
-    ]
-  },
-  {
-    "id": "AAIsHlZCTzaIB5aZEMGKhg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/3960-senior-backend-chief-engineer-outcomes4me",
-    "title": "Senior Backend / Chief Engineer @ Outcomes4Me",
-    "content": "<h2>              Senior Backend / Chief Engineer <small> @ Outcomes4Me</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-11-03 02:25</p></dd>          <dt><span>Description</span></dt>          <dd><p>We’re looking for a senior backend /chief engineer to join our team full time, to help us create anew patient experience with the ambition to improve care. We are offering a unique opportunityto work with an experienced and passionate founding team.</p><p><strong>Challenges we're excited about tackling:</strong></p><ul><li>Mapping and optimizing the patient experience and treatment search journey</li><li>Personalizing contents that addresses known and specific patient needs</li><li>Automatic identification of queries in patients records/profile that represent a standinginterests</li><li>Analyzing and modeling our search to create engaging flow</li><li>Empowering our users with data-informed experiences throughout their journey</li></ul><p><strong>We are looking for engineers with:</strong></p><ul><li>Solid engineering and coding skills</li><li>Experience in any of the languages Java, Python, Go</li><li>Experience or knowledge of Neo4j and graph algorithms</li><li>Experience with relational (e.g. Postgres) and Nosql (e.g. MongoDB) databases</li><li>Experience with cloud services/platforms (e.g., Google, Amazon) , security and HIPAAprotocols</li><li>Practical knowledge with agile practices, continuous software delivery, and DevOps</li><li>Knowledge of data processing algorithms and/or NLP is a plus</li></ul><p>If you’re interested in applying technology to make healthcare better and have relevant skillsand experience, please send your resume to <a href='mailto:jobs@outcomes4me.com' rel='nofollow'>jobs@outcomes4me.com</a> . We offer competitivecompensation and benefit packages, and for the right skill sets are open to remote workingconfigurations.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Nov 3, 2017 4:25:33 AM",
-    "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/java",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "java",
-      "python"
-    ]
-  },
-  {
-    "id": "KT5r5tlSS9GAxueROIk5zg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/62439",
-    "title": "Senior Backend Chief Engineer",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>We’re looking for a senior backend /chief engineer to join our team full time, to help us create a<br>new patient experience with the ambition to improve care. We are offering a unique opportunity<br>to work with an experienced and passionate founding team.<br><br><strong>Challenges we're excited about tackling:</strong><br><br></p><ul><li>Mapping and optimizing the patient experience and treatment search journey<br></li><li>Personalizing contents that addresses known and specific patient needs<br></li><li>Automatic identification of queries in patients records/profile that represent a standing<br>interests<br></li><li>Analyzing and modeling our search to create engaging flow<br></li><li>Empowering our users with data-informed experiences throughout their journey<br><br><strong>We are looking for engineers with:</strong><br><br></li><li>Solid engineering and coding skills<br></li><li>Experience in any of the languages Java, Python, Go<br></li><li>Experience or knowledge of Neo4j and graph algorithms<br></li><li>Experience with relational (e.g. Postgres) and Nosql (e.g. MongoDB) databases<br></li><li>Experience with cloud services/platforms (e.g., Google, Amazon) , security and HIPAA<br>protocols<br></li><li>Practical knowledge with agile practices, continuous software delivery, and DevOps<br></li><li>Knowledge of data processing algorithms and/or NLP is a plus<br><br>If you’re interested in applying technology to make healthcare better and have relevant skills<br>and experience, please send your resume to jobs@outcomes4me.com . We offer competitive<br>compensation and benefit packages, and for the right skill sets are open to remote working<br>configurations.</li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Nov 3, 2017 4:25:33 AM",
-    "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TECH1/java",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "java",
-      "python"
-    ]
-  },
-  {
-    "id": "D4i67Lj1Q1SSjQveMpUdAg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/62325",
-    "title": "Sales Assistant",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong><em>US Based Applicants Only. Not hiring in Washington state, Oregon state, San Francisco, or New York.</em></strong><br><br><br></p><p>Simply put, we make websites easier to use. Through a scientific method of determining which site improvements result in actual performance improvements, we replace the old way of designing sites through gut feel and management opinions with designing sites through data. Tactically speaking, clients come to us for both strategic direction and to supplement their internal teams.<br><br><br></p><p>We struggled with what to call this job since while the core of the job is sales assistant, the job will also be what you make of it. We refer to our current sales assistant, Jill Mendoza, as our “Jill of all trades” and she has a small picture of Wonder Woman as the :jill: emoji in our slack instance. Unfortunately, we have grown too big for Jill to be able to do everything, so we need more help.<br><br><br>Here are a few of the many, diverse tasks that you'll be potentially doing:<br><br></p><ul><li>Working to make sure quarterly client reviews are on track, and scheduling them with the clients<br></li><li>Creating sales decks with our CEO and 2 VPs of business development<br></li><li>Creating proposals with our CEO and 2 VPs of business development<br></li><li>Ensuring contracts are signed by all parties and facilitating handoffs between business development and the product management team<br></li><li>Various marketing tasks such as updating the website, sending out newsletters, posting jobs for sales assistants, etc (how meta!)<br></li><li>Helping to arrange team travel and client dinners<br></li><li>Competitive research and general LinkedIn research<br><br><br><br><p>Our most successful candidates have the following skills/experience/traits:<br><br><br></p></li><li>Ability to get things done with little direction<br></li><li>Worked cross-functionally in a highly collaborative environment, preferably in a remote capacity<br></li><li>Genuinely like working with clients and their distributed stakeholder group<br></li><li>Lifelong learner<br><br>If you’re interested in checking out the swell people you’ll be working with, click here <a href='https://crometrics.com/meet-the-team/' rel='nofollow'>to learn more about the team.</a><br><br><em>If you have questions as you go through this, make notes and if we haven’t answered them by the end, feel free to email chris@crometrics.com or tom@crometrics.com.</em><br><br><br></li><li><strong>We’re a remote company.</strong> We are spread out all over the country and enjoy the flexibility remote working affords. Want to go on a mountain bike ride in the middle of the day? Cool, don’t forget your helmet! Need to pick the kids up from school? Nice, you’ve got parent of the year in the bag. We stay connected through Slack and workcations, including one annual trip that is funded by the company.<br></li><li><strong>Our engineers value elegant code, but move fast.</strong> We’re writing code that runs on top of existing websites. Some tests only run for a few days before disappearing (though some do so well they become a permanent part of the client’s site). If “minimum viable product” isn’t in your lexicon, you aren’t a good fit.<br></li><li><strong>Communication is critical.</strong> We’re a remote company. That makes communication — including writing and reading comprehension — extremely important. You’ll work closely with engineers, designers and writers. This is not a simple “write specs and close tickets” gig. Successful applicants enjoy the process of defining and clarifying specs, documenting processes, improving processes, seeing their ideas and work affect millions of users, and uploading custom emoji to Slack.<br></li><li><strong>We’re relentlessly focused on our client’s happiness.</strong> The PM is a client-facing role. Managing a client relationship virtually takes a different type of skill set – the PMs have to be both a strategic partner, the customer (represented by the data), teacher and project manager over the phone/email/Slack, all while delivering an exceptional level of service. This type of interaction is not for everyone, and we completely understand. It’s not easy!<br></li><li><strong>We are not perfect.</strong> At the core of experimentation is the lesson to be learned from the test, whether a win, loss or inconclusive. We extend this concept to everything we do by setting the bar high for our team and fostering an environment of radical candor and constant learning.<br><br>This short essay sums up the philosophy we operate by: This is Professionalism: <a href='http://arches.io/2014/03/this-is-professionalism/' rel='nofollow'>http://arches.io/2014/03/this-is-professionalism/</a> <em>Sound like something you are interested in? Read on.</em></li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Oct 26, 2017 12:20:10 AM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/sales",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "wajIQhLrSGCDvEJzKZCHDQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/3941-sales-engineer-open-source-wallaroo-labs",
-    "title": "Sales Engineer Open Source @ Wallaroo Labs",
-    "content": "<h2>              Sales Engineer Open Source<small> @ Wallaroo Labs</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-10-23 03:07</p></dd>          <dt><span>Description</span></dt>          <dd><p>Wallaroo Labs is working on a huge idea, and this is a phenomenal opportunity for a person who enjoys challenges. We believe in open source and strive to build on these technologies. Our distributed team is ten people and growing. We had have generated a lot of interest through our product and vision and raised a large seed round with several well-known VCs.</p><p>Faster data, more data sources, and business requirements are driving increasingly sophisticated algorithms and putting more and more demands on data applications. Wallaroo Labs solves these problems with Wallaroo, a data engine for building highly elastic big data applications.</p><p>We are looking for a Sales Engineer to drive the adoption of Wallaroo open-source offering within the developer community. This position is essential to our success; you will be responsible for identifying friction points with Wallaroo and systematically eliminate to improve the developer experience.</p><p>Although Wallaroo's headquarters is in New York, this position can be remote.  Candidates located in a Tech Hub cities or that have deep connections within existing developer networks would prove invaluable in building our community.</p><p><strong>Responsibilities</strong></p><ul><li>Provide support to sales team by running demos via remote session</li><li>Monitor communication channels (HN, Reddit, StackOverflow, Mailing lists, IRC) and interact with the community, answer questions and assist developers.</li><li>Identify and build relationships with the developer community, meetups, and conferences and leverage relationships to evangelize Wallaroo.</li><li>Own problem resolution and participate with the development team to create solutions.</li><li>Publish content from blog posts to video demos.</li></ul><p><strong>Qualities we are looking for</strong></p><ul><li>Experience working on a commercialized open source project (Spark, Cassandra, MongoDB etc.)</li><li>Ability to learn new technologies quickly.</li><li>Comfortable with a variety of programming languages, experience with Python, Go, JavaScript are a plus.</li><li>Familiar with Big Data technologies.</li><li>Desire and ability to work with enterprise clients and our open source community.</li><li>Experience working with open source software, GitHub etc.</li><li>Familiar with software development process in a business setting.</li><li>Outstanding verbal and written communication skills.</li></ul><p><strong>Learn more about Wallaroo</strong></p><ul><li>Corporate site: <a href='http://www.wallaroolabs.com' rel='nofollow'>http://www.wallaroolabs.com</a></li><li>Wallaroo Community Site: <a href='http://www.wallaroolabs.com/community' rel='nofollow'>http://www.wallaroolabs.com/community</a></li><li>Wallaroo Blog: <a href='https://blog.wallaroolabs.com/' rel='nofollow'>https://blog.wallaroolabs.com/</a></li><li>GitHub: <a href='https://github.com/WallarooLabs/wallaroo' rel='nofollow'>https://github.com/WallarooLabs/wallaroo</a></li></ul><p><em>We are an equal opportunity employer and value diversity in our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Oct 23, 2017 6:07:17 AM",
-    "tags": [
-      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/sales",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "python"
-    ]
-  },
-  {
-    "id": "yzk14JeETEWgC64L8FL3Kw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/62241",
-    "title": "Sales Engineer Open Source",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>Wallaroo Labs is working on a huge idea, and this is a phenomenal opportunity for a person who enjoys challenges. We believe in open source and strive to build on these technologies. Our distributed team is ten people and growing. We had have generated a lot of interest through our product and vision and raised a large seed round with several well-known VCs.<br><br>Faster data, more data sources, and business requirements are driving increasingly sophisticated algorithms and putting more and more demands on data applications. Wallaroo Labs solves these problems with Wallaroo, a data engine for building highly elastic big data applications.<br><br>We are looking for a Sales Engineer to drive the adoption of Wallaroo open-source offering within the developer community. This position is essential to our success; you will be responsible for identifying friction points with Wallaroo and systematically eliminate to improve the developer experience.<br><br>Although Wallaroo's headquarters is in New York, this position can be remote. Candidates located in a Tech Hub cities or that have deep connections within existing developer networks would prove invaluable in building our community.<br><br><strong>Responsibilities</strong><br><br></p><ul><li>Provide support to sales team by running demos via remote session<br></li><li>Monitor communication channels (HN, Reddit, StackOverflow, Mailing lists, IRC) and interact with the community, answer questions and assist developers.<br></li><li>Identify and build relationships with the developer community, meetups, and conferences and leverage relationships to evangelize Wallaroo.<br></li><li>Own problem resolution and participate with the development team to create solutions.<br></li><li>Publish content from blog posts to video demos.<br><br><strong>Qualities we are looking for</strong><br><br></li><li>Experience working on a commercialized open source project (Spark, Cassandra, MongoDB etc.)<br></li><li>Ability to learn new technologies quickly.<br></li><li>Comfortable with a variety of programming languages, experience with Python, Go, JavaScript are a plus.<br></li><li>Familiar with Big Data technologies.<br></li><li>Desire and ability to work with enterprise clients and our open source community.<br></li><li>Experience working with open source software, GitHub etc.<br></li><li>Familiar with software development process in a business setting.<br></li><li>Outstanding verbal and written communication skills.<br><br><strong>Learn more about Wallaroo</strong><br><br></li><li>Corporate site: <a href='http://www.wallaroolabs.com' rel='nofollow'>http://www.wallaroolabs.com</a></li><li>Wallaroo Community Site: <a href='http://www.wallaroolabs.com/community' rel='nofollow'>http://www.wallaroolabs.com/community</a></li><li>Wallaroo Blog: <a href='https://blog.wallaroolabs.com/' rel='nofollow'>https://blog.wallaroolabs.com/</a></li><li>GitHub: <a href='https://github.com/WallarooLabs/wallaroo' rel='nofollow'>https://github.com/WallarooLabs/wallaroo</a><br><em>We are an equal opportunity employer and value diversity in our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Oct 23, 2017 6:07:17 AM",
-    "tags": [
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/sales",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "python"
-    ]
-  },
-  {
-    "id": "vT_UWVgwQKGoxOnW7R2o4Q",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/3940-developer-evangelist-wallaroo-labs",
-    "title": "Developer Evangelist @ Wallaroo Labs",
-    "content": "<h2>              Developer Evangelist<small> @ Wallaroo Labs</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-10-23 03:06</p></dd>          <dt><span>Description</span></dt>          <dd><p>Wallaroo Labs is working on a huge idea, and this is a phenomenal opportunity for a person who enjoys challenges. We believe in open source and strive to build on these technologies. Our distributed team is ten people and growing. We had have generated a lot of interest through our product and vision and raised a large seed round with several well-known VCs.</p><p>Faster data, more data sources, and business requirements are driving increasingly sophisticated algorithms and putting more and more demands on data applications. Wallaroo Labs solves these problems with Wallaroo, a data engine for building highly elastic big data applications.</p><p>We are looking for a Developer Evangelist to drive the adoption of Wallaroo open-source offering within the developer community. This position is essential to our success; you will be responsible for identifying friction points with Wallaroo and systematically eliminate to improve the developer experience.</p><p>Although Wallaroo's headquarters is in New York, this position can be remote.  Candidates located in a Tech Hub cities or that have deep connections within existing developer networks would prove invaluable in building our community.</p><p><strong>Responsibilities</strong></p><ul><li>Monitor communication channels (HN, Reddit, StackOverflow, Mailing lists, IRC) and interact with the community, answer questions and assist developers.</li><li>Identify and build relationships with the developer community, meetups, and conferences and leverage relationships to evangelize Wallaroo.</li><li>Own problem resolution and participate with the development team to create solutions.</li><li>Publish content from blog posts to video demos.</li></ul><p><strong>Qualities we are looking for</strong></p><ul><li>Ability to learn new technologies quickly.</li><li>Comfortable with a variety of programming languages, experience with Python, Go, JavaScript are a plus.</li><li>Familiar with Big Data technologies.</li><li>Desire and ability to work with enterprise clients and our open source community.</li><li>Experience working with open source software, GitHub etc.</li><li>Familiar with software development process in a business setting.</li><li>Outstanding verbal and written communication skills.</li></ul><p><strong>Learn more about Wallaroo</strong></p><ul><li>Corporate site: <a href='http://www.wallaroolabs.com' rel='nofollow'>http://www.wallaroolabs.com</a></li><li>Wallaroo Community Site: <a href='http://www.wallaroolabs.com/community' rel='nofollow'>http://www.wallaroolabs.com/community</a></li><li>Wallaroo Blog: <a href='https://blog.wallaroolabs.com/' rel='nofollow'>https://blog.wallaroolabs.com/</a></li><li>GitHub: <a href='https://github.com/WallarooLabs/wallaroo' rel='nofollow'>https://github.com/WallarooLabs/wallaroo</a></li></ul><p><em>We are an equal opportunity employer and value diversity in our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Oct 23, 2017 6:06:14 AM",
-    "tags": [
-      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "python"
-    ]
-  },
-  {
-    "id": "Xno8wcicRX6weSlQQiaa8w",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/62242",
-    "title": "Developer Evangelist",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>Wallaroo Labs is working on a huge idea, and this is a phenomenal opportunity for a person who enjoys challenges. We believe in open source and strive to build on these technologies. Our distributed team is ten people and growing. We had have generated a lot of interest through our product and vision and raised a large seed round with several well-known VCs.<br><br>Faster data, more data sources, and business requirements are driving increasingly sophisticated algorithms and putting more and more demands on data applications. Wallaroo Labs solves these problems with Wallaroo, a data engine for building highly elastic big data applications.<br><br>We are looking for a Developer Evangelist to drive the adoption of Wallaroo open-source offering within the developer community. This position is essential to our success; you will be responsible for identifying friction points with Wallaroo and systematically eliminate to improve the developer experience.<br><br>Although Wallaroo's headquarters is in New York, this position can be remote. Candidates located in a Tech Hub cities or that have deep connections within existing developer networks would prove invaluable in building our community.<br><br><strong>Responsibilities</strong><br><br></p><ul><li>Monitor communication channels (HN, Reddit, StackOverflow, Mailing lists, IRC) and interact with the community, answer questions and assist developers.<br></li><li>Identify and build relationships with the developer community, meetups, and conferences and leverage relationships to evangelize Wallaroo.<br></li><li>Own problem resolution and participate with the development team to create solutions.<br></li><li>Publish content from blog posts to video demos.<br><br><strong>Qualities we are looking for</strong><br><br></li><li>Ability to learn new technologies quickly.<br></li><li>Comfortable with a variety of programming languages, experience with Python, Go, JavaScript are a plus.<br></li><li>Familiar with Big Data technologies.<br></li><li>Desire and ability to work with enterprise clients and our open source community.<br></li><li>Experience working with open source software, GitHub etc.<br></li><li>Familiar with software development process in a business setting.<br></li><li>Outstanding verbal and written communication skills.<br><br><strong>Learn more about Wallaroo</strong><br><br></li><li>Corporate site: <a href='http://www.wallaroolabs.com' rel='nofollow'>http://www.wallaroolabs.com</a></li><li>Wallaroo Community Site: <a href='http://www.wallaroolabs.com/community' rel='nofollow'>http://www.wallaroolabs.com/community</a></li><li>Wallaroo Blog: <a href='https://blog.wallaroolabs.com/' rel='nofollow'>https://blog.wallaroolabs.com/</a></li><li>GitHub: <a href='https://github.com/WallarooLabs/wallaroo' rel='nofollow'>https://github.com/WallarooLabs/wallaroo</a><br><em>We are an equal opportunity employer and value diversity in our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Oct 23, 2017 6:06:14 AM",
-    "tags": [
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
       "go",
       "python"
     ]

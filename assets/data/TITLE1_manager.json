@@ -68,10 +68,12 @@
     "urlFetchPending": false,
     "published": "Dec 4, 2017 11:07:48 AM",
     "tags": [
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
       "DBG_TECH1:k/t/w:devise/ruby/8",
       "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=3, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=11, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
+      "TECH1/bigdata-ml",
       "TECH1/ruby",
       "TITLE1/manager",
       "TZ/unknown"
@@ -80,6 +82,7 @@
       "50% remote"
     ],
     "tagsNames2": [
+      "bigdata-ml",
       "ruby"
     ]
   },
@@ -473,8 +476,10 @@
     "published": "Nov 15, 2017 3:38:20 PM",
     "tags": [
       "DBG:surround``2N(team, spread, out)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
-      "TECH1/unknown",
+      "TECH1/bigdata-ml",
       "TITLE1/manager",
       "TZ/unknown"
     ],
@@ -482,7 +487,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "unknown"
+      "bigdata-ml"
     ]
   },
   {
@@ -687,9 +692,11 @@
       "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
       "DBG:surround``OR(travel,visit) W to 4W OR(offic,headquart,onsit)",
       "DBG_TECH1:k/t/w:boost/c/16",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
       "DBG_TECH1:k/t/w:jersey/java/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=16, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=16, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
+      "TECH1/bigdata-ml",
       "TECH1/c",
       "TECH2/business-intelligence",
       "TECH2/google-analytics",
@@ -704,6 +711,7 @@
       "US East time zone"
     ],
     "tagsNames2": [
+      "bigdata-ml",
       "business-intelligence",
       "c",
       "google-analytics",
@@ -753,8 +761,10 @@
       "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
-      "TECH1/unknown",
+      "TECH1/bigdata-ml",
       "TITLE1/manager",
       "TZ/America"
     ],
@@ -763,7 +773,40 @@
       "American time zones"
     ],
     "tagsNames2": [
-      "unknown"
+      "bigdata-ml"
+    ]
+  },
+  {
+    "id": "PqDAHm9NTWGmQqQscLV_kA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "indeed.com-2",
+    "url": "http://www.indeed.com/viewjob?t=Software+Engineering+Manager&c=Crossover&l=Remote&jk=7659b98db754f09d&rtk=1bu3ept3l0k3a50o&from=rss",
+    "title": "Software Engineering Manager - Crossover - Remote",
+    "content": "<div><b>Software Engineering Manager</b><br><span>Crossover</span> -<span>Remote</span><div><span>$50 an hour</span></div></div><span>Software Engineering Manager<br><br>If you are an elite Software Engineering Manager eager to gain unprecedented visibility to the top technology companies throughout the globe, employ your technical and managerial skills to oversee cutting-edge software in a high-intensity environment, and earn $100,000 USD per year while working from virtually anywhere on the planet, this job is for you.<br><br>The Company:<br><br>Crossover is a well-funded startup that has developed a unique way to find, curate and manage the top 1% of global talent – and connect them to medium and large businesses. We are experiencing rapid growth within the companies we currently serve and are increasing our staff to expand our business.<br><br>Brick and mortar offices are history. The future of our global workforce will consist of teams collaborating from every corner of the world. Our platform connects customers to the world’s best talent for both technical and non-technical contracting. But we don’t just find the best; we also provide the software tools, training, and expert management to ensure success for long-term growth.<br><br>Job Description:<br><br>Crossover is looking for Software Engineering Managers who demonstrate outstanding managerial skills as well as the technical background to deeply understand the code their teams are developing. You will be expected to demonstrate both a mastery of the technical skills associated with the projects at hand, as well as the managerial ability to motivate, build, and monitor your team. Specifically, you will be responsible for overseeing from 4 to 6 teams of 3 to 4 individuals. You will own the process of breaking specifications created by the product management team into clear tasks and timelines, as well as assembling the results into high value, reusable components. Under your leadership, we expect to see consistent improvement in both static code quality metrics and weekly production.<br><br>A successful Software Engineering Manager at Crossover will demonstrate the following qualities:<br><ul><li>Ruthless commitment to impeccable code quality<br><br></li><li>Deep understanding of a wide range of the latest technologies and architectural approaches<br><br></li><li>Advanced proficiency in one or more core programming languages (Java or C#), related frameworks, and best practices<br><br></li><li>The ability to make appropriate technical decisions, review design and code, and ensure best technical practices<br><br></li><li>Commitment to hands-on engagement as an individual within the team, despite managerial status<br><br></li><li>Willingness to embrace iterative development as the means for building seamless products<br><br></li><li>Perfectionism: knowing how a job should be done and not stop until it’s done correctly<br><br></li></ul><ul><li>Exceptional ability to effectively motivate and manage teams of individuals<br><br></li></ul><ul><li>Commitment to increasing efficiency in the workplace by continuously automating parts of the software engineering process<br><br></li><li>Excellent remote management skills (you will be using Skype, GoToMeeting, Google Docs, etc.)<br><br></li></ul>Required Skills and Experience:<br><br>A successful Software Engineering Manager at Crossover will demonstrate the following qualifications:<br><ul><li>Bachelor's degree in Computer Science, Computer Engineering, or Electrical Engineering<br><br></li><li>Proven managerial skills with at least 5 years of experience managing multiple teams<br><br></li><li>Experience with Cloud architecture and DevOps<br><br></li><li>At least 5 years of experience in hands-on Java and/or .NET programming<br><br></li><li>Proficiency in Agile, SDLC, or SLA<br><br></li><li>Proficiency in AWS and TDD is desired but not mandatory<br><br></li><li>Outstanding English communication skills<br><br></li></ul>Total compensation:$50/hr for 40 productive hours per week<br><br>Location:Global (remote)<br><br>We’re one of the few legitimate companies offering high-paying jobs that are 100% remote, work from home. You never have to fight traffic to the office again and you have the freedom to choose when and where you put in your 40 hours to be most effective each week.<br><br>To qualify, please provide a resume/CV demonstrating the required experience and skills. From there, to help us find the top 1% of talent, there will be a series of interviews and online examinations. We realize these are challenging and can require a decent amount of time so we thank you in advance for your efforts.</span>",
+    "urlFetchPending": false,
+    "published": "Nov 2, 2017 7:18:32 AM",
+    "tags": [
+      "DBG:surround``2W(100, remot)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=13, c=2, mobile=2, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/manager",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
     ]
   },
   {
@@ -853,8 +896,10 @@
       "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
-      "TECH1/unknown",
+      "TECH1/bigdata-ml",
       "TITLE1/manager",
       "TZ/America"
     ],
@@ -863,7 +908,7 @@
       "American time zones"
     ],
     "tagsNames2": [
-      "unknown"
+      "bigdata-ml"
     ]
   },
   {

@@ -55,6 +55,8 @@
       "DBG_TECH1:k/t/w:c#/c/2",
       "DBG_TECH1:k/t/w:c#/dotnet/5",
       "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:internet-explorer/dotnet/3",
+      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
       "DBG_TECH1:k/t/w:java/java/2",
       "DBG_TECH1:k/t/w:java/mobile/1",
       "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/3",
@@ -62,7 +64,8 @@
       "DBG_TECH1:k/t/w:python/python/2",
       "DBG_TECH1:k/t/w:sql-server/dotnet/1",
       "DBG_TECH1:k/t/w:vb.net/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=22, c=2, mobile=1, go=0, nodejs=0, bigdata-ml=3, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=33, c=2, mobile=1, go=0, nodejs=0, bigdata-ml=3, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=2}",
       "REMOTE1/100",
       "TECH1/dotnet",
       "TITLE1/integration",
@@ -91,6 +94,8 @@
       "DBG_TECH1:k/t/w:c#/c/2",
       "DBG_TECH1:k/t/w:c#/dotnet/5",
       "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:internet-explorer/dotnet/3",
+      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
       "DBG_TECH1:k/t/w:java/java/2",
       "DBG_TECH1:k/t/w:java/mobile/1",
       "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/3",
@@ -98,7 +103,8 @@
       "DBG_TECH1:k/t/w:python/python/2",
       "DBG_TECH1:k/t/w:sql-server/dotnet/1",
       "DBG_TECH1:k/t/w:vb.net/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=22, c=2, mobile=1, go=0, nodejs=0, bigdata-ml=3, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=33, c=2, mobile=1, go=0, nodejs=0, bigdata-ml=3, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=2}",
       "REMOTE1/100",
       "TECH1/dotnet",
       "TITLE1/integration",
@@ -127,6 +133,8 @@
       "DBG_TECH1:k/t/w:c#/c/2",
       "DBG_TECH1:k/t/w:c#/dotnet/5",
       "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:internet-explorer/dotnet/3",
+      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
       "DBG_TECH1:k/t/w:java/java/2",
       "DBG_TECH1:k/t/w:java/mobile/1",
       "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/3",
@@ -134,7 +142,8 @@
       "DBG_TECH1:k/t/w:python/python/2",
       "DBG_TECH1:k/t/w:sql-server/dotnet/1",
       "DBG_TECH1:k/t/w:vb.net/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=22, c=2, mobile=1, go=0, nodejs=0, bigdata-ml=3, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=33, c=2, mobile=1, go=0, nodejs=0, bigdata-ml=3, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=2}",
       "REMOTE1/100",
       "TECH1/dotnet",
       "TITLE1/integration",
@@ -145,50 +154,6 @@
     ],
     "tagsNames2": [
       "dotnet"
-    ]
-  },
-  {
-    "id": "fzF3OsQUT16uO17U3srElg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/157284/php-back-end-developer-integrations-specialist-time-doctor?a=QKnZanLVRwA",
-    "title": "PHP Back-end Developer - Integrations Specialist - 100% Remote at Time Doctor () (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Contract</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>This is a 100% remote position. We prefer to hire people from Europe and Asia because of team collaboration, all of our current dev team is in Asia or Europe and so it is unlikely (although not impossible) that we will hire in north or south america.</p><p>You will be working from home with mostly flexible hours although you will need to attend the team meeting which is at approximately 8:30am GMT and to work for 3 hours after this time for team collaboration (This is 3:30am to 6:30am New York time, so you can see that’s the reason we are not likely to hire in north, central or south america).</p><p><strong><strong>WHAT YOU WILL BE RESPONSIBLE FOR</strong></strong></p><p>You will be working in a team of around 10 other developers. You primary areas of work will be:</p><ol><li>Building and maintaining external integrations with partners through different communication protocols - REST / SOAP etc …</li><li>Integrations with Zapier</li><li>Working on queue management back-end solutions helping these integrations to operate properly</li><li>Working on developing back-end modules / services part of the whole product infrastructure</li><li>Working with databases with millions of records and hundreds of thousands of requests per day.</li><li>You are going to get involved into continuous integration processes, different branching models for version control and strict coding standards.</li><li>Work on highly scalable cloud infrastructure including multiple instances connected by load balancers for traffic distribution</li></ol><p><strong>TO BE A BEST FIT FOR THIS JOB YOU NEED TO:</strong></p><ul><li>be an expert in PHP at least 5+ years. Expert means that you have solid experience in building web based applications with high level of abstraction</li><li>be an expert in External API Integrations and have a quick understanding how an integration can be done - REST / SOAP</li><li>have a good experience in MVC frameworks</li><li>have a good experience with Symfony Framework</li><li>have a good experience of building DDD oriented architecture</li><li>have a solid experience in code optimization and performance improvements</li><li>know how the core of MySQL is working, make decisions about the storage engines, database structure and scalability of the database</li><li>know how to optimize database performance</li><li>be able to solve complex bugs often quite quickly</li><li>always document your code on a good level</li><li>have a basic understanding of any Javascript Framework but preferably React</li><li>have a good understanding and experience with MongoDB or other noSQL databases</li><li>know what is continous integration and how it works</li></ul><p>Experience or knowledge how Amazon services like EC2, RDS, CloudFront work is a plus.</p><p>To apply for this job, you MUST answer the two questions below and email your answers to: <a href='mailto:timedoctor-tmdc0464@applications.recruiterbox.com' rel='nofollow'>timedoctor-tmdc0464@applications.recruiterbox.com</a>. Make sure you also attached your UPDATED resume.<br>NOTE: ONLY those with answers to the two questions and resume will be accepted.</p><p>These are the questions to answer to qualify for this job:</p><p>Q1) What is persistent cookie?</p><p>a) Cookie which is stored in a cookie file permanently on the browser<br>b) Cookie which is stored in a cookie file permanently on the file server<br>c) Cookie which is more secured than a regular cookie</p><p>Q2) Can you extend Final Defined class?<br>a) Yes, only once<br>b) Yes, multiple times<br>c) No</p>                    </div>                            <h2>                About Time Doctor            </h2>            <div><p>Time Doctor is a time tracking and productivity tool. Our software can be used by an individual or a team to track time for tasks and monitor computer activity, such as taking screenshots while you’re working, monitor keyboard and mouse activity and track web app and website usage.</p><p>We have a team of over 65 people working 100% remotely in 8 different countries. &nbsp;More about us here: <a href='https://www.timedoctor.com/about-us.html' rel='nofollow'>https://www.timedoctor.com/about-us.html</a></p><p><a href='https://www.linkedin.com/company/time-doctor' rel='nofollow'>https://www.linkedin.com/company/time-doctor</a></p>            </div>        ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``2W(100, remot)",
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG_TECH1:k/t/w:c/c/10",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:php/php/10",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:symfony/php/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=10, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=18, embedded=0, frontend=9}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TECH2/mvc",
-      "TECH2/mysql",
-      "TECH2/php",
-      "TECH2/soap",
-      "TECH2/symfony2",
-      "TITLE1/integration",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "mvc",
-      "mysql",
-      "php",
-      "soap",
-      "symfony2"
     ]
   }
 ]
