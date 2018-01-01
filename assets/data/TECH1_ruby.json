@@ -151,7 +151,6 @@
     "urlFetchPending": false,
     "published": "Dec 9, 2017 11:13:54 PM",
     "tags": [
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
       "DBG_TECH1:k/t/w:dotnet/dotnet/8",
       "DBG_TECH1:k/t/w:java/java/2",
       "DBG_TECH1:k/t/w:java/mobile/1",
@@ -160,7 +159,7 @@
       "DBG_TECH1:k/t/w:reactjs/frontend/8",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
       "DBG_TECH1:k/t/w:scala/java/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=16, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=24, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=9}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=24, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1/100",
       "TECH1/ruby",
       "TECH2/javascript",
@@ -719,6 +718,7 @@
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
       "DBG_TECH1:k/t/w:iphone/apple/2",
+      "DBG_TECH1:k/t/w:iphone/mobile/2",
       "DBG_TECH1:k/t/w:javascript/frontend/1",
       "DBG_TECH1:k/t/w:javascript/nodejs/1",
       "DBG_TECH1:k/t/w:less/frontend/5",
@@ -726,7 +726,7 @@
       "DBG_TECH1:k/t/w:ruby/ruby/2",
       "DBG_TECH1:k/t/w:unity3d/gamedev/16",
       "DBG_TECH1:k/t/w:unity3d/mobile/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=14, go=0, nodejs=1, bigdata-ml=0, ruby=18, apple=4, java=1, gamedev=16, php=0, embedded=0, frontend=14}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=16, go=0, nodejs=1, bigdata-ml=0, ruby=18, apple=4, java=1, gamedev=16, php=0, embedded=0, frontend=14}",
       "REMOTE1/50",
       "TECH1/gamedev",
       "TECH1/mobile",
@@ -912,7 +912,6 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 5:56:27 PM",
     "tags": [
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
       "DBG_TECH1:k/t/w:css/frontend/3",
       "DBG_TECH1:k/t/w:devise/ruby/8",
       "DBG_TECH1:k/t/w:html5/frontend/5",
@@ -924,7 +923,7 @@
       "DBG_TECH1:k/t/w:ruby/ruby/14",
       "DBG_TECH1:k/t/w:sass/frontend/5",
       "DBG_TECH1:k/t/w:slim/php/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=70, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=14}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=70, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=14}",
       "REMOTE1/100",
       "TECH1/ruby",
       "TITLE1/dev",
@@ -950,7 +949,6 @@
     "urlFetchPending": false,
     "published": "Dec 5, 2017 5:56:27 PM",
     "tags": [
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
       "DBG_TECH1:k/t/w:css/frontend/3",
       "DBG_TECH1:k/t/w:devise/ruby/8",
       "DBG_TECH1:k/t/w:html5/frontend/5",
@@ -962,7 +960,7 @@
       "DBG_TECH1:k/t/w:ruby/ruby/12",
       "DBG_TECH1:k/t/w:sass/frontend/5",
       "DBG_TECH1:k/t/w:slim/php/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=60, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=14}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=60, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=14}",
       "REMOTE1/100",
       "TECH1/ruby",
       "TITLE1/dev",
@@ -1270,82 +1268,6 @@
     ],
     "tagsNames2": [
       "frontend",
-      "ruby"
-    ]
-  },
-  {
-    "id": "uTSnIgtSQvm7idlYF0bcqQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4021-mobile-engineer-retail-zipline",
-    "title": "Mobile Engineer @ Retail Zipline",
-    "content": "<h2>              Mobile Engineer<small> @ Retail Zipline</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-11-24 20:54</p></dd>          <dt><span>Description</span></dt>          <dd><p>“Terrific founders with technical and domain expertise, totally focused on customer success. Their progress in the first year is amazing.” - One of our investors</p><p>Retailers use archaic, old systems that don't work (think fax machines and voicemails). We're replacing the core operational processes with a modern platform that our customers love. Help us transform a $4.4 trillion industry and improve the way millions of people work. Major retailers are already using Zipline every day, but there is so much more to do!</p><p>“I think I just shed a tear. This is great!” – One of our Fortune 100 customers</p><p>We're looking for you, our first mobile developer. There is a lot of opportunity to set a solid foundation for our mobile app and we want to bring on the right person to make that happen. You will be working closely with our design team and our engineering team to deliver a set of high quality mobile apps. We'll help you build a team as necessary to make sure you can deliver on the goals we set together.</p><p>You get to start with a mostly clean slate. Deep understanding of at least one mobile framework is a must, and previous experience with Ruby on Rails would be a nice addition so that we can move quickly. We currently only have a simple iOS app in the app store and are actively deciding on the best way to deliver great mobile apps. You will be central to those conversations and influence the direction that we take.</p><p>You will help define our culture through hiring decisions, process design, and your personality. You don't need to have experience with management. But, a desire to help your co-workers grow makes a world of difference.</p><p><strong>Responsibilities</strong></p><ul><li>Support the entire application lifecycle (concept, design, test, release and support) </li><li>Produce fully functional mobile applications writing clean code </li><li>Gather specific requirements and suggest solutions </li><li>Write unit and UI tests to identify malfunctions </li><li>Troubleshoot and debug to optimize performance </li><li>Stay up-to-date with new technology trends</li></ul><p><strong>Requirements</strong></p><ul><li>A preference for getting things done </li><li>Proven work experience as a Mobile developer </li><li>Demonstrable portfolio of released applications on the App store or the Android market </li><li>In-depth knowledge of at least one programming language like Swift and Java </li><li>Experience with third-party libraries and APIs </li><li>Familiarity with OOP design principles </li><li>Excellent analytical skills with a good problem-solving attitude </li><li>Ability to perform in a team environment </li><li>Ability to write well tested applications</li></ul><p><strong>Benefits</strong></p><p>We're a fully remote company, building a product that makes money and that people love. You can live wherever you'd like as long as you can be employed by a Canadian company.</p><p>Our team is small but strong and we ship things that have tangible impact. Being small, you get to impact more than the product.</p><p>We have a flexible vacation policy, full extended benefits, and a flexible work week depending on your needs. We also cover certain education costs and things you need to purchase to be able to work comfortably. In short, we're here for you. :)</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Nov 24, 2017 10:41:45 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:swift/apple/5",
-      "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/mobile",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "mobile",
-      "ruby"
-    ]
-  },
-  {
-    "id": "qF8eZMQDQ_yGqRVN16fkig",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63282",
-    "title": "Mobile Engineer",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>“Terrific founders with technical and domain expertise, totally focused on customer success. Their progress in the first year is amazing.” - One of our investors<br><br>Retailers use archaic, old systems that don't work (think fax machines and voicemails). We're replacing the core operational processes with a modern platform that our customers love. Help us transform a $4.4 trillion industry and improve the way millions of people work. Major retailers are already using Zipline every day, but there is so much more to do!<br><br>“I think I just shed a tear. This is great!” – One of our Fortune 100 customers<br><br>We're looking for you, our first mobile developer. There is a lot of opportunity to set a solid foundation for our mobile app and we want to bring on the right person to make that happen. You will be working closely with our design team and our engineering team to deliver a set of high quality mobile apps. We'll help you build a team as necessary to make sure you can deliver on the goals we set together.<br><br>You get to start with a mostly clean slate. Deep understanding of at least one mobile framework is a must, and previous experience with Ruby on Rails would be a nice addition so that we can move quickly. We currently only have a simple iOS app in the app store and are actively deciding on the best way to deliver great mobile apps. You will be central to those conversations and influence the direction that we take.<br><br>You will help define our culture through hiring decisions, process design, and your personality. You don't need to have experience with management. But, a desire to help your co-workers grow makes a world of difference.<br><br><strong>Responsibilities</strong><br><br></p><ul><li>Support the entire application lifecycle (concept, design, test, release and support) <br></li><li>Produce fully functional mobile applications writing clean code <br></li><li>Gather specific requirements and suggest solutions <br></li><li>Write unit and UI tests to identify malfunctions <br></li><li>Troubleshoot and debug to optimize performance <br></li><li>Stay up-to-date with new technology trends<br><br><strong>Requirements</strong><br><br></li><li>A preference for getting things done <br></li><li>Proven work experience as a Mobile developer <br></li><li>Demonstrable portfolio of released applications on the App store or the Android market <br></li><li>In-depth knowledge of at least one programming language like Swift and Java <br></li><li>Experience with third-party libraries and APIs <br></li><li>Familiarity with OOP design principles <br></li><li>Excellent analytical skills with a good problem-solving attitude <br></li><li>Ability to perform in a team environment <br></li><li>Ability to write well tested applications<br><br><strong>Benefits</strong><br><br>We're a fully remote company, building a product that makes money and that people love. You can live wherever you'd like as long as you can be employed by a Canadian company.<br><br>Our team is small but strong and we ship things that have tangible impact. Being small, you get to impact more than the product.<br><br>We have a flexible vacation policy, full extended benefits, and a flexible work week depending on your needs. We also cover certain education costs and things you need to purchase to be able to work comfortably. In short, we're here for you. :)</li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Nov 24, 2017 10:41:45 PM",
-    "tags": [
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:swift/apple/5",
-      "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/mobile",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "mobile",
       "ruby"
     ]
   },
@@ -1971,7 +1893,6 @@
       "DBG_TECH1:k/t/w:android/java/1",
       "DBG_TECH1:k/t/w:android/mobile/2",
       "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
       "DBG_TECH1:k/t/w:css/frontend/6",
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
@@ -1989,7 +1910,7 @@
       "DBG_TECH1:k/t/w:rubygems/ruby/8",
       "DBG_TECH1:k/t/w:swift/apple/5",
       "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=2, mobile=21, go=0, nodejs=5, bigdata-ml=0, ruby=46, apple=10, java=3, gamedev=0, php=5, embedded=0, frontend=27}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=2, mobile=21, go=0, nodejs=5, bigdata-ml=0, ruby=46, apple=10, java=3, gamedev=0, php=5, embedded=0, frontend=27}",
       "REMOTE1/100",
       "TECH1/ruby",
       "TITLE1/dev",
@@ -2187,13 +2108,12 @@
     "tags": [
       "DBG:surround``fulltim 4N (telecommut OR remot)",
       "DBG:surround``fulltim 4N telecommut",
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
       "DBG_TECH1:k/t/w:dotnet/dotnet/8",
       "DBG_TECH1:k/t/w:php/php/5",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/48",
       "DBG_TECH1:k/t/w:ruby/ruby/8",
       "DBG_TECH1:k/t/w:xamarin/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=16, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=56, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=56, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/ruby",
       "TECH2/heroku",
@@ -2506,7 +2426,7 @@
     "tags": [
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
+      "DBG_TECH1:k/t/w:app-store/mobile/8",
       "DBG_TECH1:k/t/w:css/frontend/6",
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
@@ -2518,7 +2438,7 @@
       "DBG_TECH1:k/t/w:ruby/ruby/10",
       "DBG_TECH1:k/t/w:rubygems/ruby/16",
       "DBG_TECH1:k/t/w:scala/java/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=2, go=0, nodejs=5, bigdata-ml=0, ruby=82, apple=2, java=3, gamedev=0, php=5, embedded=0, frontend=27}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=10, go=0, nodejs=5, bigdata-ml=0, ruby=82, apple=2, java=3, gamedev=0, php=5, embedded=0, frontend=27}",
       "REMOTE1/100",
       "TECH1/ruby",
       "TITLE1/dev",
@@ -3072,7 +2992,6 @@
     "published": "Nov 7, 2017 2:59:02 PM",
     "tags": [
       "DBG:surround``work 2W from 2W wherev",
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
       "DBG_TECH1:k/t/w:css/frontend/3",
       "DBG_TECH1:k/t/w:devise/ruby/8",
       "DBG_TECH1:k/t/w:html5/frontend/5",
@@ -3084,7 +3003,7 @@
       "DBG_TECH1:k/t/w:ruby/ruby/12",
       "DBG_TECH1:k/t/w:sass/frontend/5",
       "DBG_TECH1:k/t/w:slim/php/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=60, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=14}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=60, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=14}",
       "REMOTE1/100",
       "TECH1/ruby",
       "TITLE1/dev",
@@ -3215,14 +3134,13 @@
     "published": "Nov 6, 2017 12:47:02 PM",
     "tags": [
       "DBG:surround``your W own W equip",
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
       "DBG_TECH1:k/t/w:django/python/8",
       "DBG_TECH1:k/t/w:go/go/3",
       "DBG_TECH1:k/t/w:laravel/php/8",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=8, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=0}",
       "REMOTE1/100",
-      "TECH1/dotnet",
+      "TECH1/php",
       "TECH1/python",
       "TECH1/ruby",
       "TITLE1/dev",
@@ -3232,7 +3150,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "dotnet",
+      "php",
       "python",
       "ruby"
     ]
@@ -3660,9 +3578,10 @@
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
       "DBG_TECH1:k/t/w:iphone/apple/2",
+      "DBG_TECH1:k/t/w:iphone/mobile/2",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=4, java=1, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=6, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=4, java=1, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/other",
       "TECH1/ruby",
@@ -3945,7 +3864,6 @@
     "published": "Nov 4, 2017 2:06:33 PM",
     "tags": [
       "DBG:surround``2N( OR(feasibl,OR(consid,consider),occas,possibl), remot)",
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
       "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/8",
       "DBG_TECH1:k/t/w:coffeescript/frontend/1",
       "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
@@ -3959,9 +3877,8 @@
       "DBG_TECH1:k/t/w:python/python/2",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=16, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=18, apple=0, java=8, gamedev=0, php=5, embedded=0, frontend=10}",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=8, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=18, apple=0, java=8, gamedev=0, php=5, embedded=0, frontend=10}",
       "REMOTE1/50",
-      "TECH1/dotnet",
       "TECH1/ruby",
       "TECH2/elixir",
       "TECH2/php",
@@ -3975,7 +3892,6 @@
       "50% remote"
     ],
     "tagsNames2": [
-      "dotnet",
       "elixir",
       "php",
       "python",
@@ -4153,91 +4069,6 @@
     ]
   },
   {
-    "id": "pAulSSSIQFyydIRSferTJQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "jobmote",
-    "url": "https://jobmote.com/jobs/7889-senior-mobile-engineer-remote",
-    "title": "Senior Mobile Engineer (Remote)",
-    "content": "Senior Mobile Engineer&nbsp;(Remote) - Jobmote<div><div><h2>Senior Mobile Engineer&nbsp;(Remote)</h2><h5>Retail Zipline</h5></div></div><div><div><div><div><div><p><em>“Terrific founders with technical and domain expertise, totally focused on customer success. Their progress in the first year is amazing.” - One of our investors</em></p><p>Retailers use archaic, old systems that don’t work (think fax machines and voicemails). We’re replacing the core operational processes with a modern platform that our customers love. Help us transform a $4.4 trillion industry and improve the way millions of people work. Major retailers are already using Zipline every day, but there is so much more to do!</p><p><em>“I think I just shed a tear. This is great!” – One of our Fortune 100 customers</em></p><p>We’re looking for you, our first mobile developer. There is a lot of opportunity to set a solid foundation for our mobile app and we want to bring on the right person to make that happen. You will be working closely with our design team and our engineering team to deliver a set of high quality mobile apps. We’ll help you build a team as necessary to make sure you can deliver on the goals we set together.</p><p>You get to start with a mostly clean slate. Deep understanding of at least one mobile framework is a must, and previous experience with Ruby on Rails would be a nice addition so that we can move quickly. We currently only have a simple iOS app in the app store and are actively deciding on the best way to deliver great mobile apps. You will be central to those conversations and influence the direction that we take.</p><p>We like what Basecamp has been doing to balance hybrid architecture:&nbsp;https://m.signalvnoise.com/basecamp-3-for-ios-hybrid-architecture-afc071589c25</p><p>You will help define our culture through hiring decisions, process design, and your personality. You don’t need to have experience with management. But, a desire to help your co-workers grow makes a world of difference.</p><h4><strong>Responsibilities</strong></h4><ul><li>Support the entire application lifecycle (concept, design, test, release and support)&nbsp;</li><li>Produce fully functional mobile applications writing clean code&nbsp;</li><li>Gather specific requirements and suggest solutions&nbsp;</li><li>Write unit and UI tests to identify malfunctions&nbsp;</li><li>Troubleshoot and debug to optimize performance&nbsp;</li><li>Stay up-to-date with new technology trends</li></ul><h4>Requirements</h4><ul><li>A preference for getting things done&nbsp;</li><li>Proven work experience as a Mobile developer&nbsp;</li><li>Demonstrable portfolio of released applications on the App store or the Android market&nbsp;</li><li>In-depth knowledge of at least one programming language like Swift and Java&nbsp;</li><li>Experience with third-party libraries and APIs&nbsp;</li><li>Familiarity with OOP design principles&nbsp;</li><li>Excellent analytical skills with a good problem-solving attitude&nbsp;</li><li>Ability to perform in a team environment&nbsp;</li><li>Ability to write well tested applications</li></ul><h4>Benefits</h4><p>We’re a fully remote company, building a product that makes money and that people love. For a full time hire, we’re looking anywhere in the US or Canada.</p><p>Our team is small but strong and we ship things that have tangible impact. Being small, you get to impact more than the product.</p><p>We have a flexible vacation policy, full extended benefits, and a flexible work week depending on your needs. We also cover certain education costs and things you need to purchase to be able to work comfortably. In short, we all work together to make your work life great. :)</p></div></div><div></div></div></div></div>",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 5:00:40 AM",
-    "tags": [
-      "DBG:surround``4N(fulltim, anywher)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:swift/apple/5",
-      "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/mobile",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "mobile",
-      "ruby"
-    ]
-  },
-  {
-    "id": "TI0pA9oZQqeY5I42mElRKw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "authenticjobs.com",
-    "url": "https://authenticjobs.com/jobs/29983?r=rss2",
-    "title": "Retail Zipline: Senior Mobile Engineer (Remote)",
-    "content": "<p>Full-time</p><p><strong>(Remote - US &amp; Canada Only)</strong> </p><p><em>“Terrific founders with technical and domain expertise, totally focused on customer success. Their progress in the first year is amazing.” - One of our investors</em></p><p>Retailers use archaic, old systems that don't work (think fax machines and voicemails). We're replacing the core operational processes with a modern platform that our customers love. Help us transform a $4.4 trillion industry and improve the way millions of people work. Major retailers are already using Zipline every day, but there is so much more to do!</p><p><em>“I think I just shed a tear. This is great!” – One of our Fortune 100 customers</em></p><p>We're looking for you, our first mobile developer. There is a lot of opportunity to set a solid foundation for our mobile app and we want to bring on the right person to make that happen. You will be working closely with our design team and our engineering team to deliver a set of high quality mobile apps. We'll help you build a team as necessary to make sure you can deliver on the goals we set together.</p><p>You get to start with a mostly clean slate. Deep understanding of at least one mobile framework is a must, and previous experience with Ruby on Rails would be a nice addition so that we can move quickly. We currently only have a simple iOS app in the app store and are actively deciding on the best way to deliver great mobile apps. You will be central to those conversations and influence the direction that we take.</p><p>We like what Basecamp has been doing to balance hybrid architecture:&nbsp;https://m.signalvnoise.com/basecamp-3-for-ios-hybrid-architecture-afc071589c25</p><p>You will help define our culture through hiring decisions, process design, and your personality. You don't need to have experience with management. But, a desire to help your co-workers grow makes a world of difference.</p><h3><strong>Responsibilities</strong></h3><ul><li>Support the entire application lifecycle (concept, design, test, release and support)&nbsp;</li><li>Produce fully functional mobile applications writing clean code&nbsp;</li><li>Gather specific requirements and suggest solutions&nbsp;</li><li>Write unit and UI tests to identify malfunctions&nbsp;</li><li>Troubleshoot and debug to optimize performance&nbsp;</li><li>Stay up-to-date with new technology trends</li></ul><h3>Requirements</h3><ul><li>A preference for getting things done&nbsp;</li><li>Proven work experience as a Mobile developer&nbsp;</li><li>Demonstrable portfolio of released applications on the App store or the Android market&nbsp;</li><li>In-depth knowledge of at least one programming language like Swift and Java&nbsp;</li><li>Experience with third-party libraries and APIs&nbsp;</li><li>Familiarity with OOP design principles&nbsp;</li><li>Excellent analytical skills with a good problem-solving attitude&nbsp;</li><li>Ability to perform in a team environment&nbsp;</li><li>Ability to write well tested applications</li></ul><h3>Benefits</h3><p>We're a fully remote company, building a product that makes money and that people love. For a full time hire, we're looking anywhere in the US or Canada.</p><p>Our team is small but strong and we ship things that have tangible impact. Being small, you get to impact more than the product.</p><p>We have a flexible vacation policy, full extended benefits, and a flexible work week depending on your needs. We also cover certain education costs and things you need to purchase to be able to work comfortably. In short, we all work together to make your work life great. :)</p><p></p><p><strong>Job Perks:</strong> We have a flexible vacation policy, full extended benefits for Canadian employees, and a flexible work week depending on your needs. We also cover certain education costs and things you need to purchase to be able to work comfortably.</p><p><strong>Apply:</strong> </p>",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 4:36:39 AM",
-    "tags": [
-      "DBG:surround``4N(fulltim, anywher)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG:surround``fulltim 4N (telecommut OR remot)",
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:swift/apple/5",
-      "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/mobile",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "mobile",
-      "ruby"
-    ]
-  },
-  {
     "id": "dalBplbbTYmDxD2dOrDniw",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -4387,7 +4218,7 @@
       "DBG:surround``4N(fulltim, anywher)",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
+      "DBG_TECH1:k/t/w:app-store/mobile/8",
       "DBG_TECH1:k/t/w:css/frontend/6",
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
@@ -4399,7 +4230,7 @@
       "DBG_TECH1:k/t/w:ruby/ruby/12",
       "DBG_TECH1:k/t/w:rubygems/ruby/16",
       "DBG_TECH1:k/t/w:scala/java/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=2, go=0, nodejs=5, bigdata-ml=0, ruby=92, apple=2, java=3, gamedev=0, php=5, embedded=0, frontend=27}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=10, go=0, nodejs=5, bigdata-ml=0, ruby=92, apple=2, java=3, gamedev=0, php=5, embedded=0, frontend=27}",
       "REMOTE1/100",
       "TECH1/ruby",
       "TITLE1/dev",

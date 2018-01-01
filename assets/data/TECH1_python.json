@@ -1074,14 +1074,13 @@
     "published": "Nov 6, 2017 12:47:02 PM",
     "tags": [
       "DBG:surround``your W own W equip",
-      "DBG_TECH1:k/t/w:asp.net-mvc-3/dotnet/8",
       "DBG_TECH1:k/t/w:django/python/8",
       "DBG_TECH1:k/t/w:go/go/3",
       "DBG_TECH1:k/t/w:laravel/php/8",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=8, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=0}",
       "REMOTE1/100",
-      "TECH1/dotnet",
+      "TECH1/php",
       "TECH1/python",
       "TECH1/ruby",
       "TITLE1/dev",
@@ -1091,7 +1090,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "dotnet",
+      "php",
       "python",
       "ruby"
     ]

@@ -240,6 +240,7 @@
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
       "DBG_TECH1:k/t/w:iphone/apple/2",
+      "DBG_TECH1:k/t/w:iphone/mobile/2",
       "DBG_TECH1:k/t/w:javascript/frontend/1",
       "DBG_TECH1:k/t/w:javascript/nodejs/1",
       "DBG_TECH1:k/t/w:less/frontend/5",
@@ -247,7 +248,7 @@
       "DBG_TECH1:k/t/w:ruby/ruby/2",
       "DBG_TECH1:k/t/w:unity3d/gamedev/16",
       "DBG_TECH1:k/t/w:unity3d/mobile/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=14, go=0, nodejs=1, bigdata-ml=0, ruby=18, apple=4, java=1, gamedev=16, php=0, embedded=0, frontend=14}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=16, go=0, nodejs=1, bigdata-ml=0, ruby=18, apple=4, java=1, gamedev=16, php=0, embedded=0, frontend=14}",
       "REMOTE1/50",
       "TECH1/gamedev",
       "TECH1/mobile",
@@ -423,6 +424,39 @@
       "100% remote"
     ],
     "tagsNames2": [
+      "mobile"
+    ]
+  },
+  {
+    "id": "75ZlnktHSweAX-9lYfbbmQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=15825816",
+    "title": "SEEKING FREELANCER - United States, remote only Looking for a software developer for each of these skill sets: 1) ...",
+    "content": "<div>                  <span>SEEKING FREELANCER - United States, remote only<p>Looking for a software developer for each of these skill sets:</p><p>1) Android apps + one of Firebase/Mavo/Horizon/Backendless</p><p>2) Chrome and Firefox extensions/apps + React or Angular + one of Firebase/Mavo/Horizon/Backendless</p><p>Looking to build a data-driven app, structured clean UI/UX, no custom UI stuff. You must have a basic eye for graphics design.</p><p>Reach out, if you want to discuss this, at byis6@notsharingmy.info<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Dec 1, 2017 8:12:08 PM",
+    "tags": [
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:firebase/mobile/16",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=18, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=1, gamedev=0, php=0, embedded=0, frontend=16}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
       "mobile"
     ]
   },
@@ -603,6 +637,7 @@
     "tags": [
       "DBG_TECH1:k/t/w:android/java/1",
       "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:app-store/mobile/16",
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
       "DBG_TECH1:k/t/w:java/java/2",
@@ -611,10 +646,9 @@
       "DBG_TECH1:k/t/w:ruby/ruby/2",
       "DBG_TECH1:k/t/w:swift/apple/5",
       "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=29, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/mobile",
-      "TECH1/ruby",
       "TITLE1/dev",
       "TZ/unknown"
     ],
@@ -622,8 +656,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "mobile",
-      "ruby"
+      "mobile"
     ]
   },
   {
@@ -641,6 +674,7 @@
     "tags": [
       "DBG_TECH1:k/t/w:android/java/1",
       "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:app-store/mobile/16",
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
       "DBG_TECH1:k/t/w:java/java/2",
@@ -649,10 +683,9 @@
       "DBG_TECH1:k/t/w:ruby/ruby/2",
       "DBG_TECH1:k/t/w:swift/apple/5",
       "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=29, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/mobile",
-      "TECH1/ruby",
       "TITLE1/dev",
       "TZ/unknown"
     ],
@@ -660,8 +693,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "mobile",
-      "ruby"
+      "mobile"
     ]
   },
   {
@@ -830,17 +862,17 @@
       "DBG_TECH1:k/t/w:android-studio/mobile/5",
       "DBG_TECH1:k/t/w:android/java/3",
       "DBG_TECH1:k/t/w:android/mobile/6",
+      "DBG_TECH1:k/t/w:app-store/mobile/8",
       "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:eclipse/java/5",
+      "DBG_TECH1:k/t/w:eclipse/java/1",
       "DBG_TECH1:k/t/w:javascript/frontend/2",
       "DBG_TECH1:k/t/w:javascript/nodejs/2",
       "DBG_TECH1:k/t/w:kotlin/mobile/5",
       "DBG_TECH1:k/t/w:reactjs/frontend/16",
       "DBG_TECH1:k/t/w:swift/apple/5",
       "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=24, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=5, java=8, gamedev=0, php=0, embedded=0, frontend=21}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=32, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=5, java=4, gamedev=0, php=0, embedded=0, frontend=21}",
       "REMOTE1/100",
-      "TECH1/frontend",
       "TECH1/mobile",
       "TITLE1/dev",
       "TZ/unknown"
@@ -849,7 +881,6 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "frontend",
       "mobile"
     ]
   },
@@ -1763,6 +1794,7 @@
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG_TECH1:k/t/w:android/java/1",
       "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:app-store/mobile/16",
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
       "DBG_TECH1:k/t/w:java/java/2",
@@ -1771,10 +1803,9 @@
       "DBG_TECH1:k/t/w:ruby/ruby/2",
       "DBG_TECH1:k/t/w:swift/apple/5",
       "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=29, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/mobile",
-      "TECH1/ruby",
       "TITLE1/dev",
       "TZ/America"
     ],
@@ -1783,8 +1814,7 @@
       "American time zones"
     ],
     "tagsNames2": [
-      "mobile",
-      "ruby"
+      "mobile"
     ]
   },
   {
@@ -1806,6 +1836,7 @@
       "DBG:surround``fulltim 4N remot",
       "DBG_TECH1:k/t/w:android/java/1",
       "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:app-store/mobile/16",
       "DBG_TECH1:k/t/w:ios/apple/2",
       "DBG_TECH1:k/t/w:ios/mobile/2",
       "DBG_TECH1:k/t/w:java/java/2",
@@ -1814,10 +1845,9 @@
       "DBG_TECH1:k/t/w:ruby/ruby/2",
       "DBG_TECH1:k/t/w:swift/apple/5",
       "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=29, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/mobile",
-      "TECH1/ruby",
       "TITLE1/dev",
       "TZ/America"
     ],
@@ -1826,8 +1856,7 @@
       "American time zones"
     ],
     "tagsNames2": [
-      "mobile",
-      "ruby"
+      "mobile"
     ]
   },
   {
