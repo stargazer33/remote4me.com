@@ -95,6 +95,9 @@ function onLoadDataFile(data){
     // duplicate json_data to json_data_original: we restore it later
     json_data_original=json_data.slice();
 
+    // json_data initialized -> initialize mapIdToJob
+    initMapIDToJob();
+
     isDataLoaded = true;
     $("#checkboxWorldwide").attr('disabled', false);
     $("#checkboxUStz").attr('disabled', false);
@@ -112,6 +115,15 @@ function onLoadDataFile(data){
     $("#table").find('>tbody').find('> tr[data-index] > td > .detail-icon').on('click', rowPlusMinusClick);
 }
 
+function initMapIDToJob() {
+    // Loop through json_data, build mapIdToJob
+    // we need mapIdToJob only for search, we don't need it earlier
+    $.each(json_data, function (index, result) {
+            // here "result" is of type "Job"
+            mapIdToJob.set(result.id, result);
+        }
+    );
+}
 /**
  * Initialization of global variables:
  *   lunarIndex
@@ -124,14 +136,6 @@ function onLoadLunarIndex(data){
     lunarIndex=lunr.Index.load(data);
 
     isLunarIndexLoaded=true;
-
-    // Loop through json_data, build mapIdToJob
-    // we need mapIdToJob only for search, we don't need it earlier
-    $.each(json_data, function (index, result) {
-            // here "result" is of type "Job"
-            mapIdToJob.set(result.id, result);
-        }
-    );
     enableSearchControls();
 }
 
