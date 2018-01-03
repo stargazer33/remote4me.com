@@ -7,15 +7,11 @@
 <section class="hgroup">
   <div class="container">
     <h1 class="elegant">{{ thisnodes[0].title }}</h1>
-    {% if thisnodes[0].tagline %}<h2>{{ thisnodes[0].tagline }}</h2>{% endif %}
-    {% if thisnodes[0].undertagline %}<br><p>{{ thisnodes[0].undertagline }}</p>{% endif %}
-
     <ul class="breadcrumb pull-right">
       <li><a href="{{ HOME_PATH }}">Home</a> </li>
       <li class="active">{{ thisnodes[0].title }}</li>
     </ul>
   </div>
 </section>
-
 {{ content }}
 
