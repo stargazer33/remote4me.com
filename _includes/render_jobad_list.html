@@ -7,6 +7,11 @@
 {% assign jobadlist = site.data[datafile].items %}
 <section class="hgroup">
     <div class="container" style="padding-bottom: 0px; padding-top: 0px;">
+        {% if thisnodes[0].undertagline %}
+            <div class="row">
+            <p>{{ thisnodes[0].undertagline }}</p><br/>
+            </div>
+        {% endif %}
         <div class="row searchRow">
             <form class="col-sm-4 col-md-4" id="jobSearchForm">
                 <div class="input-group">
@@ -22,7 +27,6 @@
         </div>
 
         <div class="row">
-            &nbsp;
         </div>
 
         <div class="row">

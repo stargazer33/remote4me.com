@@ -2,25 +2,53 @@
 layout: default
 ---
 {% include JB/setup %}
+{% assign col1_nodes = site.data.jobnav[site.jobnav_developers_node].subnodes %}
 
 <section class="hgroup">
-    <div class="container">
-        <h1 class="elegant">{{ page.title }}</h1>
-        {% if page.tagline %}<h2>{{ page.tagline }}</h2>{% endif %}
-        {% if page.undertagline %}<br><p>{{ page.undertagline }}</p>{% endif %}
-
-        <ul class="breadcrumb pull-right">
-            <li><a href="{{ HOME_PATH }}">Home</a> </li>
-            <li class="active">{{ page.title }}</li>
-        </ul>
+    <div class="container" style="padding-top: 0px;">
+        <div class="row">
+            <div class="col-xs-4">
+                <h1 style="line-height: 1.3em;color: #428bca;">AN AGGREGATOR FOR REMOTE (TECH AND NON-TECH) JOBS</h1>
+            </div>
+            <div class="col-xs-8">
+                <ul style="padding-left: 0px;">
+                    <li>Only pre-filtered true remote jobs</li>
+                    <li>Tech jobs categorized by technology stack and job title</li>
+                    <li>Search 872 jobs from 12 job boards in one place</li>
+                </ul>
+            </div>
+        </div>
     </div>
 </section>
 
 <section class="hgroup">
-    <div class="container">
+    <div class="container" style="padding-top: 0px;">
         <div class="row">
-            <div class="col-xs-12">
-                {{ content }}
+            <div class="col-xs-4">
+                <h2 style="padding-top: 0px;" class="section_header elegant">&nbsp;Remote developer jobs<small>For each technology stack</small></h2>
+                <p></p>
+                {% for node in col1_nodes %}
+                <p><a href="{{ node.url }}">{{ node.title }}</a> - {{ node.tagline }}
+                </p>
+                {% endfor %}
+            </div>
+            <div class="col-xs-4">
+                <h2 style="padding-top: 0px;" class="section_header elegant">&nbsp;Remote tech jobs<small>For techies who are not developers</small></h2>
+                {% for node in site.data.jobnav %}
+                {% if node.col == 2 %}
+                <p><a href="{{ node.url }}">{{ node.title }}</a> - {{ node.tagline }}
+                </p>
+                {% endif %}
+                {% endfor %}
+            </div>
+            <div class="col-xs-4">
+                <h2 style="padding-top: 0px;" class="section_header elegant">&nbsp;Remote non-tech jobs<small>"Remote" is not only for engineers!</small></h2>
+                {% for node in site.data.jobnav %}
+                {% if node.col == 3 %}
+                <p><a href="{{ node.url }}">{{ node.title }}</a> - {{ node.tagline }}
+                </p>
+                {% endif %}
+                {% endfor %}
             </div>
         </div>
     </div>

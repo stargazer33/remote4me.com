@@ -3,154 +3,182 @@
   undertagline:
   url:
   datafile:
+  col: 1
   subnodes:
 
     - title: Frontend jobs
-      tagline: Javascript which runs in browser&#58; angularjs, react.js and similar technologies
-      undertagline:
+      tagline: HTML/JavaScript and everything else running in browser
+      undertagline: "Includes: HTML/CSS and JavaScript which runs in browser (AngularJS, React and similar technologies). <br/>Excludes: Node.js and cross-platform Javascript frameworks like Apache Cordova/PhoneGap"
       url: frontend
       datafile: TECH1_frontend
 
     - title: Mobile jobs
-      tagline: Includes ios, android, windows phone, cordova, xamarin and other technologies for mobile apps
-      undertagline:
+      tagline: iOS, Android and other mobile tech
+      undertagline: "Includes: iOS, Android, Windows Phone, Apache Cordova/PhoneGap, Xamarin and other technologies for mobile apps. <br/>Excludes: backend Java and macOS programming"
       url: mobile
       datafile: TECH1_mobile
 
     - title: Java jobs
-      tagline: Includes scala
-      undertagline:
+      tagline: backend Java and Scala
+      undertagline: "Includes: backend- and Web-programming with Java and Scala <br/>Excludes: Android programming"
       url: java
       datafile: TECH1_java
 
     - title: .NET jobs
-      tagline: Includes c#, vb.net, vba, asp.net, windows desktop applications, microsoft azure and other microsoft technologies
-      undertagline:
+      tagline: C# and other Microsoft technologies.
+      undertagline: "Includes: C# and other .NET languages; VB.NET, ASP.NET, WPF, desktop applications for Windows, Microsoft Azure and other Microsoft technologies. <br/>Excludes: Windows Phone"
       url: dotnet
       datafile: TECH1_dotnet
 
-    - title: (Big) Data or Machine Learning Engineers or Scientists jobs
-      tagline: Everything related to statistics or mathematics, big data specialists, machine learning specialists, data scientists. technologies like R programming language, hadoop, apache spark
-      undertagline:
+    - title: (Big) Data or Machine Learning or Scientist jobs
+      tagline: statistics, mathematics and algorythms
+      undertagline: "Includes: everything related to statistics or mathematics, Big Data, Machine Learning, Data Science. R programming language, Apache Hadoop, Apache Spark. <br/>Excludes: Web programming with Java or Python"
       url: big-data-science-machine-learning
       datafile: TECH1_bigdata-ml
 
-    - title: PHP jobs
-      tagline: Includes laravel, symphony, codeigniter, zend
-      undertagline:
-      url: php
-      datafile: TECH1_php
-
     - title: Python jobs
-      tagline: Includes Django
-      undertagline:
+      tagline: Django, Flask and others frameworks
+      undertagline: "Includes: Django, Flask, SQLAlchemy and other Python frameworks/libraries <br/>Excludes: Python for science"
       url: python
       datafile: TECH1_python
 
-    - title: Node.js jobs
-      tagline: ...and other backend javascript technologies like meteor.js, express.js, vertx.io
-      undertagline:
-      url: nodejs
-      datafile: TECH1_nodejs
-
     - title: Ruby jobs
-      tagline: Includes Rails
-      undertagline:
+      tagline: Includes Ruby on Rails and other libraries
+      undertagline: "Includes: frameworks like Ruby on Rails, Sinatra, RSpec"
       url: ruby
       datafile: TECH1_ruby
 
+    - title: Node.js jobs
+      tagline: backend JavaScript technologies
+      undertagline: "Includes: backend JavaScript technologies like Node.js, Meteor, Express.js. <br/>Excludes: frontend and mobile JavaScript"
+      url: nodejs
+      datafile: TECH1_nodejs
+
+    - title: "Go, or Golang-related jobs"
+      tagline: and related libs
+      undertagline: "Includes: everything related to Go programming language"
+      url: golang
+      datafile: TECH1_go
+
     - title: C/C++ jobs
-      tagline: ...for any os
-      undertagline:
+      tagline: using tools like GCC, glibc, STL
+      undertagline: "Includes: technologies like Qt, GCC, glibc, STL, Boost and Assembly language"
       url: c-plus-plus
       datafile: TECH1_c
 
+    - title: PHP jobs
+      tagline: frameworks like WordPress, Laravel
+      undertagline: "Includes: PHP frameworks like WordPress, Laravel, Symfony, CodeIgniter, Zend"
+      url: php
+      datafile: TECH1_php
+
+    - title: Apple-related jobs
+      tagline: Everything related to Apple, not specifically mobile
+      undertagline: "Includes: MacOS, Xcode, Cocoa Touch and other Apple-related technologies <br/>Excludes: iOS, iPhone"
+      url: apple
+      datafile: TECH1_apple
+
     - title: Embedded applications/devices jobs
-      tagline: Includes firmware development, microcontrollers, real-time os
-      undertagline:
+      tagline: Firmware programming, Microcontrollers, Arduino
+      undertagline: "Includes: firmware development, microcontroller programming, technologies like Embedded Linux, Arduino, ARM"
       url: embedded
       datafile: TECH1_embedded
 
     - title: Gamedev jobs
-      tagline: Includes game engine development, unity, flash, mobile game development
-      undertagline:
+      tagline: game development, engines like Unity
+      undertagline: "Includes: game development, game engines like Unity, Unreal Engine, GameMaker, CryEngine, Cocos2d-x"
       url: gamedev
       datafile: TECH1_gamedev
 
-    - title: Apple-related jobs
-      tagline: "MacOS, Xcode, Cocoa Touch and other Apple-related jobs"
-      undertagline: "Everything related to Apple, not specifically mobile"
-      url: apple
-      datafile: TECH1_apple
-
-    - title: "Go, or Golang-related jobs"
-      tagline: "Go, or Golang, is a general-purpose systems programming language created by Google employees, including Ken Thompson, Rob Pike"
-      undertagline:
-      url: golang
-      datafile: TECH1_go
-
     - title: "Other technologies"
-      tagline: "Includes perl, bash, go, lisp, erlang, haskell, ocaml, scheme, clojure, F#"
-      undertagline:
+      tagline: Perl, Clojure, Elixir, Rust ...
+      undertagline: "Includes: Perl, Clojure, Elixir, Rust, Shell script, Lisp, Erlang, OCaml, F#"
       url: other
       datafile: TECH1_other
 
-- title: QA engineer jobs
-  tagline: Quality Assurance Engineers, test engineers, QA automation engineers, manual QA
-  undertagline:
-  url: qa-test-engineers
-  datafile: TITLE1_qa
-
-- title: Database (RDBMS) developers and admins (DBA's)
-  tagline:  oracle/mysql/postgres/sql server database developers/admins, database automation engineers
-  undertagline:
-  url: dbms-developers-admins
-  datafile: TITLE1_dbms
-
 - title: DevOps, Sysadmins, SRE
-  tagline: linux systems engineers, network/security engineers, site reliability engineers, operations engineers, crm administrators, dynamics administrators
-  undertagline:
+  tagline: Site Reliability Engineers, (Linux) System Engineers, Network engineers
+  undertagline: "Includes: DevOps, Site Reliability Engineers (SRE), Linux System Engineers, Cloud Engineers, System administrators, Security Engineers, Operations Engineers, Network engineers Excludes: Support Engineers, Support specialists, CRM Administrators, Software developers"
   url: devops-sysadmins
   datafile: TITLE1_admin
+  col: 2
 
-- title: Designers, graphic or video artists
-  tagline: graphic artists, ui/ux designers, stylists, character artists, background artists, 2d and 3d artists, animators, game designes
-  undertagline:
-  url: designers-graphic-artists
-  datafile: TITLE1_designer
+- title: QA engineer jobs
+  tagline: Software Quality Assurance (QA), Tester, QA Automation, SDET
+  undertagline: "Includes: Software Quality Assurance (QA) Engineer, Test engineer, QA Automation Engineer, Software Development Engineer in Test (SDET) <br/>Excludes: Software Developer, Programmer, Admin"
+  url: qa-test-engineers
+  datafile: TITLE1_qa
+  col: 2
 
-- title: Support specialists
-  tagline:  customer champions, support agents
-  undertagline:
-  url: support
-  datafile: TITLE1_support
+- title: Solution Engineers/Architects
+  tagline: "Solution Engineers and Solution Architects"
+  undertagline: "Includes: Solution Engineers, Solution Architects, Cloud Architects, Security Architects"
+  url: solution-engineer
+  datafile: TITLE1_solution
+  col: 2
 
-- title: Technical Writers, editors
-  tagline:  Copywriters, Technical Writers...
-  undertagline:
-  url: copywriters
-  datafile: TITLE1_writer
-
-- title:  Marketing and Product specialists
-  tagline: product owners, product managers, analysts, solution architects, security architects
-  undertagline:
-  url: marketing-product
-  datafile: TITLE1_product
-
-- title:  Sales
-  tagline: Sales and pre-sales specialists
-  undertagline:
-  url: sales
-  datafile: TITLE1_sales
-
-- title: Managers and executives
-  tagline: engineering/qa managers, line managers, project managers
-  undertagline:
-  url: managers
-  datafile: TITLE1_manager
+- title: Database (RDBMS) developers and admins (DBA's)
+  tagline: MySQL/Postgres/Redshift Developers and Administrators
+  undertagline: "Includes: MySQL/PostgreSQL/Oracle/Microsoft SQL Server/Amazon Redshift Database Developers and Administrators, Database Automation Engineers <br/>Excludes: backend developers"
+  url: dbms-developers-admins
+  datafile: TITLE1_dbms
+  col: 2
 
 - title: Integration Engineers jobs
-  tagline: implementation engineers, build/release engineers, automation developers, data integration engineers
-  undertagline:
+  tagline: Implementation Engineers, Build Release Engineers, Automation Developers
+  undertagline: "Includes: Implementation Engineers, Build Release Engineers, Automation Developers, Data Integration Engineers <br/> Excludes: QA engineers, Software developers"
   url: integration-build-automation
   datafile: TITLE1_integration
+  col: 2
+
+- title: Designers, graphic or video artists
+  tagline: Graphic artists, UI/UX designers, Stylists, Character artists, Background artists, 2d and 3d artists, Animators
+  undertagline: "Includes: Graphic artists, UI/UX designers, Stylists, Character artists, Background artists, 2d and 3d artists, Animators"
+  url: designers-graphic-artists
+  datafile: TITLE1_designer
+  col: 3
+
+- title: Support specialists
+  tagline: Support Engineers, Customer champions, Support agents, Customer Relationship Management (CRM) Administrators, Microsoft Dynamics CRM administrators
+  undertagline: "Includes: Support Engineers, Customer champions, Support agents, Customer Relationship Management (CRM) Administrators, Microsoft Dynamics CRM administrators"
+  url: support
+  datafile: TITLE1_support
+  col: 3
+
+- title: (technical) Writers, editors
+  tagline: Content editors, Copywriters, Storytellers, Communication Editors
+  undertagline:  "Includes: Technical Writers, Content editors, Copywriters, Blog Editors, Storytellers, Communication Editors"
+  url: copywriters
+  datafile: TITLE1_writer
+  col: 3
+
+- title:  Marketing and Product specialists
+  tagline: "Product Managers, Content Marketing specialists, Search Engine Optimization(SEO) specialists"
+  undertagline: "Includes: Product Owners, Product Managers, Analysts, Content Marketing specialists, Search Engine Optimization(SEO) specialists"
+  url: marketing-product
+  datafile: TITLE1_product
+  col: 3
+
+- title:  Sales
+  tagline: Sales and pre-sales specialists, Account- and Relationship Managers
+  undertagline: "Includes: Salesperson, Sales Manager, Account Manager, Relationship Management, Business Development specialist"
+  url: sales
+  datafile: TITLE1_sales
+  col: 3
+
+- title: Managers and executives
+  tagline: Engineering /QA managers, Line managers, Project Managers, Directors and VP
+  undertagline: "Includes: Engineering/QA managers, Delivery managers, Project Managers, Directors and VP, General Managers. Technical Account Managers"
+  url: managers
+  datafile: TITLE1_manager
+  col: 3
+
+- title: Recruiters and HR
+  tagline: and Talent Acquisition specialists
+  undertagline: "Includes: Recruiters, HR, Talent Acquisition specialists"
+  url: hr-recruiter
+  datafile: TITLE1_HR
+  col: 3
+
+
+

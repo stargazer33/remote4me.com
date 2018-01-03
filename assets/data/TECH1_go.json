@@ -266,41 +266,6 @@
     ]
   },
   {
-    "id": "bI7NTt5DRb6lB2JowdRbGw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4042-server-operator-remote-in-europe-asia-region-dnsimple",
-    "title": "Server Operator (Remote in Europe/Asia region) @ DNSimple",
-    "content": "<h2>              Server Operator (Remote in Europe/Asia region)<small> @ DNSimple</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-12-06 03:52</p></dd>          <dt><span>Description</span></dt>          <dd><p>We are looking for a person to add to our talented server operations staff in the Europe or Asia Pacific regions. You will help us to keep our systems online to deliver the best DNS service to our customers around the world.</p><h5>Required skills and experience</h5><p><strong>Chef</strong></p><p>We automate everything we can with Chef and their products, having experience with this is the most important requirement.</p><p><strong>Open source contributions</strong></p><p>Our team contributes a lot to the open source community and we hope you do as well. We would love to see what you've done to help others.</p><h5>Other skills</h5><ul><li>Empathy and communication; Since we are distributed, we communicate mostly in written form, via pull requests, Slack and with our customers when doing support. Being able to understand and make yourself understood to customers and colleagues is essential.</li><li>Ability to learn; We manage many different technologies, sometimes in new, innovative ways. We are constantly touching and improving our platform. We celebrate curiosity and creativity.</li></ul><h5>Job requirements</h5><ul><li>Customer support; Everyone at the company does day to day support to our customers. The operations team is also required to provide support to our internal teams. We appreciate people sensitive to our customer's needs.</li><li>Remote work; We are remote first and we work asynchronously. We have a team focused environment which requires good collaboration skills, but sometimes you'll need to be able to self drive and work alone, then sync back up for reviews and reporting. Asking lots questions is part of everyone's day to day.</li><li>Writing documentation; Since we are all async, good caring on documentation is something we all do and value.</li><li>Travel; We meet up three times a year. We don't require you to go to a conference but we'll support you if you want to speak at one.</li><li>On-call rotation; Everyone technical (operators and developers) helps with the pager rotation to keep our systems working.</li></ul><h5>Our Stack</h5><p>This is the software and systems we deploy and run today. Knowledge and demonstrable skills with any of these are major bonus points.</p><ul><li>Ubuntu Linux (We're on 14.04 and migrating to 16.04)</li><li>DataDog (How we submit metrics data to monitor all the things. Metrics/Monitoring experience is a bonus)</li><li>PostgreSQL (Storing all the data to serve to our internal services)</li><li>Ruby (Our website and API is built on it along with a few of our operations utilities)</li><li>GoLang (Used to help ship zone updates to our name servers and perform redirects)</li><li>Erlang (The beast behind our DNS servers)</li><li>Nginx and HAProxy (Used heavily to secure and serve our various APIs)</li><li>Redis (All our stats and background queues to process everything)</li><li>Python (Used in our DataDog agent to help parse logs and teach it new monitoring tricks)</li></ul></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere*</p></dd>            <dt><span>Location</span></dt>            <dd><p>Remote in Europe/Asia region</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Dec 6, 2017 5:52:09 AM",
-    "tags": [
-      "DBG:surround``2N(anywher, remot)",
-      "DBG:surround``OR(countri, locat) 3W remot",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
-      "DBG_TECH1:k/t/w:erlang/other/5",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=11, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
     "id": "VnB_T8yeRwWVNJmzj3FgrQ",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
