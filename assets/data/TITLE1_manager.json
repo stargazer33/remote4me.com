@@ -13,7 +13,13 @@
     "urlFetchPending": false,
     "published": "Jan 4, 2018 10:12:25 AM",
     "tags": [
+      "DBG:surround``benefit 2N 2N(remot,work)",
+      "DBG:surround``work 2W from 2W wherev",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
+      "TECH1/bigdata-ml",
       "TECH2/project-management",
       "TECH2/web-crawler",
       "TECH2/web-scraping",
@@ -24,6 +30,7 @@
       "100% remote"
     ],
     "tagsNames2": [
+      "bigdata-ml",
       "project-management",
       "web-crawler",
       "web-scraping"
@@ -42,7 +49,11 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 5:12:06 PM",
     "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
+      "DBG:surround``fulltim 4N remot",
       "REMOTE1/100",
+      "TECH1/unknown",
       "TITLE1/manager",
       "TZ/Europe"
     ],
@@ -50,7 +61,9 @@
       "100% remote",
       "European time zones"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "unknown"
+    ]
   },
   {
     "id": "PN9ZKAReSPO9GHsLiZMqWg",
@@ -65,14 +78,22 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 2:50:05 PM",
     "tags": [
+      "DBG:surround``remot W ok",
+      "DBG_TECH1:k/t/w:opencart/php/8",
+      "DBG_TECH1:k/t/w:prestashop/php/8",
+      "DBG_TECH1:k/t/w:woocommerce/php/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=24, embedded=0, frontend=0}",
       "REMOTE1/100",
+      "TECH1/php",
       "TITLE1/manager",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "php"
+    ]
   },
   {
     "id": "iNhTY22bTYaQmVwl0FpUtw",
@@ -87,14 +108,47 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 9:00:05 AM",
     "tags": [
+      "DBG:surround``oper 2W remot",
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "REMOTE1/100",
+      "TECH1/unknown",
       "TITLE1/manager",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "unknown"
+    ]
+  },
+  {
+    "id": "sORjHSc1Qp2RZu9s2D3Okg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16056912",
+    "title": "Loom Network | FULLTIME | REMOTE | loomx.io We make cryptozombies and ethfiddle. We are building tools to scale blockchains. Join ...",
+    "content": "<div>                  <span>Loom Network | FULLTIME | REMOTE | loomx.ioWe make cryptozombies and ethfiddle. We are building tools to scale blockchains. Join us to make dApps scalable. We are making it easier to build solidity based software for the Ethereum blockchain<p>Looking for Senior Golang Engineers with 10+ years experience in server side development</p><p>Email hiring@loomx.io with your resume<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jan 3, 2018 1:30:06 AM",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/manager",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "go"
+    ]
   },
   {
     "id": "VnLfx893QW-UneUqC0SCtA",
@@ -109,7 +163,15 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 11:32:34 PM",
     "tags": [
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``OR(travel,visit) W to 4W OR(offic,headquart,onsit)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=8}",
       "REMOTE1/50",
+      "TECH1/frontend",
       "TITLE1/manager",
       "TZ/America/East"
     ],
@@ -117,7 +179,9 @@
       "50% remote",
       "US East time zone"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend"
+    ]
   },
   {
     "id": "5Gq5tUX5Tp-KnoU9GfGgKA",
@@ -132,14 +196,21 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 9:54:09 PM",
     "tags": [
+      "DBG:classic``&quot;open to remot&quot;",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
       "REMOTE1/50",
+      "TECH1/frontend",
       "TITLE1/manager",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend"
+    ]
   },
   {
     "id": "pCT1lLQJQC6iIfX-kPvFvQ",
@@ -1388,6 +1459,7 @@
       "DBG:surround``work 2W from 2W wherev",
       "DBG_TECH1:k/t/w:dotnet/dotnet/8",
       "DBG_TECH1:k/t/w:drupal/php/5",
+      "DBG_TECH1:k/t/w:elixir/other/10",
       "DBG_TECH1:k/t/w:go/go/3",
       "DBG_TECH1:k/t/w:java/java/2",
       "DBG_TECH1:k/t/w:java/mobile/1",
@@ -1396,8 +1468,9 @@
       "DBG_TECH1:k/t/w:php/php/10",
       "DBG_TECH1:k/t/w:python/python/2",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:rust/other/5",
       "DBG_TECH1:k/t/w:symfony/php/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=8, c=0, mobile=1, go=3, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=47, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=2, other=15, dotnet=8, c=0, mobile=1, go=3, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=47, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/php",
       "TECH2/amazon-web-services",

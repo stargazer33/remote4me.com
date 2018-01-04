@@ -1,6 +1,290 @@
 {
  "items": [
   {
+    "id": "7TVM5GewSFWIXy3-QcskGA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/163590/lead-erlang-developer-scrapinghub?a=SRvpZQcCecg",
+    "title": "Lead Erlang Developer at Scrapinghub () (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Contract</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior, Lead</span>                                        </div>                                        <div>                                            <span>Industry: </span>                                            <span>Big Data</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>Scrapinghub is looking for a Senior Erlang software developer to join and lead our Crawlera team.</p><p><a title=&quot;Crawlera&quot; href='https://scrapinghub.com/crawlera' rel='nofollow'>Crawlera</a> is a smart downloader designed specifically for web crawling and scraping. It allows crawler developers to crawl quickly and reliably by managing thousands of proxies internally. It is part of the Scrapinghub platform, the world’s most comprehensive web crawling stack which powers crawls of over 4 billion pages a month.</p><p>Join us in making the world a better place for web crawler developers with our team of top talented engineers.</p><p><strong>Responsibilities:</strong></p><ul><ul><li>Develop, maintain and support a high load distributed system.</li><li>Leverage the Scrapinghub platform to provide extended functionality, both to end users and for internal purposes.</li><li>Identify and resolve performance and scalability issues with distributed crawling at scale.</li><li>Liaison with other platform teams to provide Crawlera with the best possible integration to the growing Scrapinghub platform.</li><li>Establish and maintain technical and quality standards, in conjunction with our broader Engineering expectations.</li><li>Understand business intent and lead architectural design/decisions to achieve that intent. You won’t be the sole decision maker, and you won’t have all the answers, but you should know how to get the right people to the table for discussions, have a bias towards action (the imperfect system that’s live is often better than the perfect system that is never implemented), and how to use great technical design to help achieve our business goals.</li></ul></ul><p><strong>Required skills:</strong></p><ul><ul><li>2+ years of production experience with Erlang.</li><li>Good communication in written English.</li><li>Strong knowledge of Linux/UNIX, HTTP and Networking.</li><li>Experience managing a technical team: developing talent, creating and enforcing standards, resource allocation.</li><li>A history of achieving both technical and business goals.</li></ul></ul><p><strong>Desired Skills:</strong></p><ul><ul><li>Python Knowledge.</li><li>Familiarity with techniques and tools for crawling, extracting, and processing data.</li><li>Knowledge of ELK, Graylog, Docker and Mesos.</li><li>Good spoken English.</li></ul></ul>                    </div>                            <h2>                About Scrapinghub            </h2>            <div><p>Founded in 2010, Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.</p><p>We’re a globally distributed team of over 100 Scrapinghubbers working from over 30 countries who are passionate about scraping, web crawling, and data science.</p><p>As a new Scrapinghubber, you will:</p><p>Become part of a self-motivated, progressive, multi-cultural team.</p><p>Have the freedom to work from&nbsp;<a href='http://blog.scrapinghub.com/2015/05/12/traveling-tips-for-remote-workers/' rel='nofollow'>wherever you want</a></p><p>Have the opportunity to go to conferences and meet with the team from across the globe.</p><p>Get the chance to work with cutting-edge open source technologies and tools.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Flexible working hours                            </div>                            <div>                                 Remote working                            </div>                            <div>                                 Paid time off                            </div>                            <div>                                 Paid open source work                            </div>                            <div>                                 Global team meet ups                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Jan 4, 2018 10:12:25 AM",
+    "tags": [
+      "DBG:surround``benefit 2N 2N(remot,work)",
+      "DBG:surround``work 2W from 2W wherev",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:erlang/other/15",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=15, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TECH2/design",
+      "TECH2/erlang",
+      "TECH2/linux",
+      "TECH2/python",
+      "TECH2/unix",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "design",
+      "erlang",
+      "linux",
+      "other",
+      "python",
+      "unix"
+    ]
+  },
+  {
+    "id": "O1hcAD_GRuigxioJJvF6QQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16056428",
+    "title": "Mullvad | Gothenburg, Sweden | FULL-TIME | ONSITE or REMOTE | Mobile Rust developer",
+    "content": "<div>                  <span>Mullvad | Gothenburg, Sweden | FULL-TIME | ONSITE or REMOTE | Mobile Rust developer<p>Mullvad is a VPN service that helps keep internet users’ online activity, identity, and location private. We are a team fully dedicated to our goal - making internet censorship and surveillance ineffective.</p><p>We are looking for a Rust engineer, preferably with experience in mobile development, to lead the work on our open source VPN app for mobile platforms.</p><p><i>Requirements</i></p><p></p><pre><code>    * You are skilled in Rust, with proven experience in effective problem solving and engineering.    * You are also fluent in English.</code></pre><i>Nice but not necessary</i><p></p><pre><code>    * Experience with both iOS and Android is a big plus but not a requirement.    * Preferably you have experience with React Native.    * Knowledge of VPN APIs on iOS or Android is also a plus.</code></pre><i>Benefits</i><p>We believe in having a life outside of work. That’s why we offer</p><p></p><pre><code>    * flexible working hours    * 25 days of annual paid vacation    * 300 EUR annually in allowance toward wellness-related activities (friskvårdsbidrag)    * the possibility of working remotely for extended periods of time.</code></pre>We also offer opportunities for growth. Aside from company-initiated opportunities for attending various national and international conferences, you will also have the option to attend one of your choosing per year. In addition, we’ll pay for any reading material that you feel contributes to your professional development.<p>If you’re interested in joining our team, send us an email at jobs@mullvad.net by 31 January 2018.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jan 3, 2018 12:29:05 AM",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:rust/other/20",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=4, java=2, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/50",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "other"
+    ]
+  },
+  {
+    "id": "vWABP6WsQ-Sk_yiXKVqwVA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16055397",
+    "title": "Fold | San Mateo, CA | Software Engineer | ONSITE & REMOTE | Full-time | $120k-180k with equity",
+    "content": "<div>                  <span>Fold | San Mateo, CA | Software Engineer | ONSITE &amp; REMOTE | Full-time | $120k-180k with equity<p>Fold is a cryptocurrency company backed by a number of well-known investors in the space.</p><p>We have opportunities across our flagship payment product, working to implement Lightning and build a cross-currency checkout process, and with Keep (<a href='https://keep.network' rel='nofollow'>https://keep.network</a>), a new project built on Ethereum that adds a privacy layer to the public blockchain.</p><p>Crypto and Python, Clojure, or Go experience are great, but a critical eye and willingness to master new technologies are the real requirements. We embrace remote work, and our team hails from all over.</p><p>If you are looking for the right opportunity to break into the cryptocurrency space, email work at foldapp.com.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jan 2, 2018 10:41:05 PM",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "other"
+    ]
+  },
+  {
+    "id": "zyXp9nerQrKih0Pxo05azA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16053126",
+    "title": "Perl Software Engineer | Assurant (AIZ) | Milwaukee, WI | Full time | Onsite or remote",
+    "content": "<div>                  <span>Perl Software Engineer | Assurant (AIZ) | Milwaukee, WI | Full time | Onsite or remote<p>Assurant Mortgage Solutions is looking for modern Perl developers that can:Architect web scale solutions that never drop a messageWrite elegant code with tests that guarantee the objectivesHarness open source technology and contribute improvements when possibleDream up crazy ideas that will inspire teammates to find the right answer</p><p>Check out our post online or let me know if you want to chat first:  steve.nolte@assurant.com</p><p><a href='https://jobs.assurant.com/job/milwaukee/perl-software-engineer-work-from-home-remote/114/6591728' rel='nofollow'>https://jobs.assurant.com/job/milwaukee/perl-software-engine...</a></p><p><a href='https://www.assurantmortgagesolutions.com/' rel='nofollow'>https://www.assurantmortgagesolutions.com/</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jan 2, 2018 6:53:04 PM",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:perl/other/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "other"
+    ]
+  },
+  {
+    "id": "G5nOULfoQQK0d51xcDNHew",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "wfh.io",
+    "url": "https://www.wfh.io/jobs/4062-elixir-engineer-telnyx",
+    "title": "Elixir Engineer @ Telnyx",
+    "content": "<h2>              Elixir Engineer<small> @ Telnyx</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-12-30 02:40</p></dd>          <dt><span>Description</span></dt>          <dd><p><strong>About Telnyx</strong></p><p>Telnyx is building the global telco of the future. We have deployed an international private software-defined network, with multiple tier-1 interconnects, leveraging all major cloud service providers to deliver a voice and messaging solution with carrier-grade reliability. We sell our services in a totally automated fashion, allowing our users to programmatically scale their voice and messaging on-demand.In addition to providing service and software in major North American and European markets, we are expanding to Asia and are developing a wireless product that will provide licensed spectrum access to our infrastructure.Telnyx has seventy employees (70% engineers) between our Chicago, IL office, Dublin, Ireland office and remote team. We have actual revenue traction, meaningful sequential monthly growth, and a massive addressable market.</p><p><strong>Joining Our Team</strong></p><p>At Telnyx, we’re working to globally democratize access to real-time communications over the internet. We’re building a future where voice, messaging, and wireless services can act as building blocks to facilitate high-fidelity, secure, and modern modes of communication.No matter where you're based, or which team you work on, you’ll be part of a group of people working together to build solutions to mission-critical problems and a company that values the very best ideas. People rely on our products to communicate daily, which means they rely on us to build things with a high degree of resiliency and reliability.</p><p><strong>The Role</strong></p><p>As an Elixir Engineer at Telnyx, you will deploy groundbreaking applications to solve our customers’ hardest problems. Projects often start with a nebulous question and our Engineers lead the way in developing a solution, from high-level system design and prototyping to application development and data integration. As a Telnyx software engineer, you leverage everything around you: Telnyx products, open source technologies, and anything you and your team can build to drive real impact.</p><p>You work with users around the globe, where you help our customers by solving their communications challenges. Each mission presents different challenges, from the regulatory environment to the nature of the data to the user population. You will work to accommodate all aspects of an environment to drive real technical outcomes.</p><p><strong>In this role, you will:</strong></p><p>Build Elixir products for the delivery of mission-critical global communications. These products are latency sensitive and must handle data at scale, all while maintaining an intuitive user experience.Create tools to automate critical aspects of production systems.</p><p><strong>What we value:</strong></p><ul><li>Strong engineering background, preferred in fields such as Computer Science, Mathematics, Software Engineering, Physics.</li><li>3+ years of professional software development experience with either Ruby or a functional programming language (Clojure, Erlang, etc).</li><li>Demonstrated ability to continuously learn, work independently, and make decisions with minimal supervision. You understand that making mistakes means you’re learning, and you actively seek opportunities to grow and develop.</li><li>You want to work on software that is changing the world and you're passionate about creating intuitive, scalable products that magnify the analytical capabilities of our users. </li><li>Experience building and operating scalable infrastructure software or distributed systems.</li><li>Experience with large-scale production databases and major cloud services.</li><li>Familiarity with micro-service architectures.</li><li>Highly proficient in a Linux environment. </li><li>Experience with PostgreSQL.</li><li>Experience working with message queues (RabbitMQ).</li><li>Unit testing (we don’t do TDD, but we like coverage - a lot).</li></ul><p><strong>Technologies we use</strong></p><ul><li>A variety of languages including Python, Java, Elixir, Scala, Go, Angular, and React.</li><li>Open-source technologies like Cassandra, Spark, and ElasticSearch.</li><li>Industry-standard build tooling, including Docker, Consul, Jenkins, Ansible, and Github.</li></ul><p><strong>Our Guiding Principles</strong></p><p>We wrote these principles to be actionable, to inform decision-making and to provide a sense of what’s important and what’s right. We live our values every day. They guide how we hire, train, measure and reward each other.</p><p><em>Stay gritty</em></p><p>Do more with less. We are creative problem solvers that always use constraints to our advantage.</p><p><em>Leverage the experience of others</em></p><p>Avoid unnecessary detours by learning from the mistakes and successes of others. Those who do not learn from history are destined to repeat it.</p><p><em>Improve continually</em></p><p>Perfection is the enemy of progress. Always ask “why.” Think big, start small, collect data, and iterate quickly.</p><p><em>Work together</em></p><p>Seek exponential gains in our work by improving the lives of colleagues and customers.</p><p><em>Practice diligence</em></p><p>Measure twice and cut once. Plan thoughtfully, always have someone double-check your work, and take deliberate action.</p><p><em>Spread integrity</em></p><p>Be transparent and honest. Give direct feedback.</p><p><em>Take action</em></p><p>Err on the side of action. No one is above any task; take ownership and get things done.</p><p><em>Think forward</em>Always think about what you can do today to put the company in the best position in the future.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
+    "urlFetchPending": false,
+    "published": "Dec 30, 2017 4:40:38 AM",
+    "tags": [
+      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:elixir/other/25",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=2, other=35, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=21}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "other"
+    ]
+  },
+  {
+    "id": "8Y5bP1bJR827cYfWhAJt6g",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "remoteok.io",
+    "url": "https://remoteok.io/jobs/64003",
+    "title": "Elixir Engineer",
+    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p><strong>About Telnyx</strong><br><br>Telnyx is building the global telco of the future. We have deployed an international private software-defined network, with multiple tier-1 interconnects, leveraging all major cloud service providers to deliver a voice and messaging solution with carrier-grade reliability. We sell our services in a totally automated fashion, allowing our users to programmatically scale their voice and messaging on-demand.<br>In addition to providing service and software in major North American and European markets, we are expanding to Asia and are developing a wireless product that will provide licensed spectrum access to our infrastructure.<br>Telnyx has seventy employees (70% engineers) between our Chicago, IL office, Dublin, Ireland office and remote team. We have actual revenue traction, meaningful sequential monthly growth, and a massive addressable market.<br><br><strong>Joining Our Team</strong><br><br>At Telnyx, we’re working to globally democratize access to real-time communications over the internet. We’re building a future where voice, messaging, and wireless services can act as building blocks to facilitate high-fidelity, secure, and modern modes of communication.<br>No matter where you're based, or which team you work on, you’ll be part of a group of people working together to build solutions to mission-critical problems and a company that values the very best ideas. People rely on our products to communicate daily, which means they rely on us to build things with a high degree of resiliency and reliability.<br><br><strong>The Role</strong><br><br>As an Elixir Engineer at Telnyx, you will deploy groundbreaking applications to solve our customers’ hardest problems. Projects often start with a nebulous question and our Engineers lead the way in developing a solution, from high-level system design and prototyping to application development and data integration. As a Telnyx software engineer, you leverage everything around you: Telnyx products, open source technologies, and anything you and your team can build to drive real impact.<br><br>You work with users around the globe, where you help our customers by solving their communications challenges. Each mission presents different challenges, from the regulatory environment to the nature of the data to the user population. You will work to accommodate all aspects of an environment to drive real technical outcomes.<br><br><strong>In this role, you will:</strong><br><br>Build Elixir products for the delivery of mission-critical global communications. These products are latency sensitive and must handle data at scale, all while maintaining an intuitive user experience.<br>Create tools to automate critical aspects of production systems.<br><br><strong>What we value:</strong><br><br></p><ul><li>Strong engineering background, preferred in fields such as Computer Science, Mathematics, Software Engineering, Physics.<br></li><li>3+ years of professional software development experience with either Ruby or a functional programming language (Clojure, Erlang, etc).<br></li><li>Demonstrated ability to continuously learn, work independently, and make decisions with minimal supervision. You understand that making mistakes means you’re learning, and you actively seek opportunities to grow and develop.<br></li><li>You want to work on software that is changing the world and you're passionate about creating intuitive, scalable products that magnify the analytical capabilities of our users. <br></li><li>Experience building and operating scalable infrastructure software or distributed systems.<br></li><li>Experience with large-scale production databases and major cloud services.<br></li><li>Familiarity with micro-service architectures.<br></li><li>Highly proficient in a Linux environment. <br></li><li>Experience with PostgreSQL.<br></li><li>Experience working with message queues (RabbitMQ).<br></li><li>Unit testing (we don’t do TDD, but we like coverage - a lot).<br><br><strong>Technologies we use</strong><br><br></li><li>A variety of languages including Python, Java, Elixir, Scala, Go, Angular, and React.<br></li><li>Open-source technologies like Cassandra, Spark, and ElasticSearch.<br></li><li>Industry-standard build tooling, including Docker, Consul, Jenkins, Ansible, and Github.<br><br><strong>Our Guiding Principles</strong><br><br>We wrote these principles to be actionable, to inform decision-making and to provide a sense of what’s important and what’s right. We live our values every day. They guide how we hire, train, measure and reward each other.<br><br><em>Stay gritty</em><br><br>Do more with less. We are creative problem solvers that always use constraints to our advantage.<br><br><em>Leverage the experience of others</em><br><br>Avoid unnecessary detours by learning from the mistakes and successes of others. Those who do not learn from history are destined to repeat it.<br><br><em>Improve continually</em><br><br>Perfection is the enemy of progress. Always ask “why.” Think big, start small, collect data, and iterate quickly.<br><br><em>Work together</em><br><br>Seek exponential gains in our work by improving the lives of colleagues and customers.<br><br><em>Practice diligence</em><br><br>Measure twice and cut once. Plan thoughtfully, always have someone double-check your work, and take deliberate action.<br><br><em>Spread integrity</em><br><br>Be transparent and honest. Give direct feedback.<br><br><em>Take action</em><br><br>Err on the side of action. No one is above any task; take ownership and get things done.<br><br><em>Think forward</em><br>Always think about what you can do today to put the company in the best position in the future.</li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
+    "urlFetchPending": false,
+    "published": "Dec 30, 2017 4:40:38 AM",
+    "tags": [
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:elixir/other/20",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=2, other=30, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=21}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "other"
+    ]
+  },
+  {
+    "id": "QWBy6a-GR3-W6M2EmK6pJg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "weworkremotely.com-programming",
+    "url": "https://weworkremotely.com/jobs/5981-senior-application-developer-us",
+    "title": "Simplecast: Senior Application Developer | US",
+    "content": "<div>  <div>    <h2>Senior Application Developer | US</h2>      <h4>Posted Dec 21</h4>    <h3>      <span>Simplecast</span><br>      <span>Headquarters: Troy, NY</span><br>        <a href='https://simplecast.com' rel='nofollow'>https://simplecast.com</a>    </h3>  </div>    </div>  <div>    <div><span></span></div><div><span>Simplecast is seeking a senior level Application Developer to join our team; someone with a passion for shaping the future of podcasting.</span></div><div><br></div><div><span>As an Application Developer for Simplecast you will dedicate yourself to creating and improving our services’ core technology, codebase, infrastructure, and more. </span></div><div><br></div><div><span><b>What We’re Looking For</b></span></div><ul><li><span>Minimum 3 years full-time development experience</span><br></li><li><span>Highly proficient (at least 1 full year) in Elixir/Phoenix (and possibly Erlang as well)</span><br></li><li><span>Experience with Test-Driven Development</span><br></li><li><span>Experience with PostgreSQL or equivalent</span><br></li><li><span>Experience with Node for AWS Lambda, or other serverless architecture</span><br></li><li><span>Familiarity with Rails is necessary as we migrate our platform from Rails to Elixir</span><br></li><li><span>Familiarity with front-end development requirements to effectively communicate with front-end developers</span><br></li><li><span>Basic knowledge in distributed systems, serverless concepts, version control, CLI, etc.</span><br></li><li><span>Exceptional time management, organizational skills, and ability to work under pressure</span><br></li><li><span>Bonus: We have several utilities written in Python &amp; PHP. Experience with either of these languages is a plus</span><br></li><li><span>Double Bonus: If you’ve got data-crunching skills, we’ll put ‘em to use</span><br></li><li><span>Mega Bonus: Loves podcasts, and has the drive to innovate the industry</span><br></li></ul><div><br></div><div><span><b>Location</b></span></div><div><span>While this is a remote position for the right candidate in the USA, bonus points if you’re located near our CTO in Troy, NY, or in New York’s Hudson Valley.</span></div><div><br></div><div><span><b>Benefits</b></span></div><div><span></span><span><span>Medical, dental, and vision benefits coverage. Generous benefit stipend. Generous PTO. Opportunity to work remotely. 401K. A shiny, new Mac. Tiered budget for continued learning.</span></span></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>If interested, please email us your GitHub link and/or résumé to <a href='mailto:work@simplecast.com' rel='nofollow'>work@simplecast.com</a>.</p>  </div>",
+    "urlFetchPending": false,
+    "published": "Dec 21, 2017 6:36:37 PM",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:elixir/other/10",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:techWeightMap:{python=2, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=16, apple=2, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/other",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "other",
+      "ruby"
+    ]
+  },
+  {
+    "id": "DiMqfr0XTFWLF0M9Hm5p_w",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "remoteok.io",
+    "url": "https://remoteok.io/jobs/63871",
+    "title": "Senior Application Developer | US",
+    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><div><span></span></div><div><span>Simplecast is seeking a senior level Application Developer to join our team; someone with a passion for shaping the future of podcasting.</span></div><div><br></div><div><span>As an Application Developer for Simplecast you will dedicate yourself to creating and improving our services’ core technology, codebase, infrastructure, and more. </span></div><div><br></div><div><span><b>What We’re Looking For</b></span></div><ul><li><span>Minimum 3 years full-time development experience</span><br></li><li><span>Highly proficient (at least 1 full year) in Elixir/Phoenix (and possibly Erlang as well)</span><br></li><li><span>Experience with Test-Driven Development</span><br></li><li><span>Experience with PostgreSQL or equivalent</span><br></li><li><span>Experience with Node for AWS Lambda, or other serverless architecture</span><br></li><li><span>Familiarity with Rails is necessary as we migrate our platform from Rails to Elixir</span><br></li><li><span>Familiarity with front-end development requirements to effectively communicate with front-end developers</span><br></li><li><span>Basic knowledge in distributed systems, serverless concepts, version control, CLI, etc.</span><br></li><li><span>Exceptional time management, organizational skills, and ability to work under pressure</span><br></li><li><span>Bonus: We have several utilities written in Python &amp; PHP. Experience with either of these languages is a plus</span><br></li><li><span>Double Bonus: If you’ve got data-crunching skills, we’ll put ‘em to use</span><br></li><li><span>Mega Bonus: Loves podcasts, and has the drive to innovate the industry</span><br></li></ul><div><br></div><div><span><b>Location</b></span></div><div><span>While this is a remote position for the right candidate in the USA, bonus points if you’re located near our CTO in Troy, NY, or in New York’s Hudson Valley.</span></div><div><br></div><div><span><b>Benefits</b></span></div><div><span></span><span><span>Medical, dental, and vision benefits coverage. Generous benefit stipend. Generous PTO. Opportunity to work remotely. 401K. A shiny, new Mac. Tiered budget for continued learning.</span></span></div><p><strong>To apply:</strong> If interested, please email us your GitHub link and/or résumé to <a href='mailto:work@simplecast.com' rel='nofollow'>work@simplecast.com</a>.</p></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
+    "urlFetchPending": false,
+    "published": "Dec 21, 2017 6:36:37 PM",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:elixir/other/10",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:techWeightMap:{python=2, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=16, apple=2, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/other",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "other",
+      "ruby"
+    ]
+  },
+  {
     "id": "0PBUJEg4QDamTR-wNiBv0Q",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -150,6 +434,35 @@
     ]
   },
   {
+    "id": "4Zm5AnySQY6IyJmxUx2ZCA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "wfh.io",
+    "url": "https://www.wfh.io/jobs/4030-senior-software-developer-elixir-activeprospect",
+    "title": "Senior Software Developer - Elixir @ ActiveProspect",
+    "content": "<h2>              Senior Software Developer - Elixir <small> @ ActiveProspect</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-11-28 21:42</p></dd>          <dt><span>Description</span></dt>          <dd><p><strong>Company Overview</strong></p><p>We provide proven technology and expertise for lead acquisition success. Our SaaS platform helps marketers automate their unique processes for acquiring qualified sales leads, building accurate email subscriber lists, and providing superior transparency for legal compliance. Each month, we process millions of opt-in Internet leads across a wide range of industries. Founded in 2004, ActiveProspect is headquartered in Austin, TX.</p><p>us = %Company{domain: &quot;marketing automation&quot;, team: [:tiny, :distributed, :welcoming], product: [:anti<em>fraud, :successful, :elixir], vc</em>money: nil}</p><p>%{us | you: &quot;BEAMer or sr. generalist taking first sips, ‹3 bits/bytes, trust + autonomy in exchange for responsibility&quot;}</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere*</p></dd>            <dt><span>Location</span></dt>            <dd><p>Austin or Remote</p></dd>        </dl>",
+    "urlFetchPending": false,
+    "published": "Nov 28, 2017 11:40:52 PM",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W remot",
+      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
+      "DBG_TECH1:k/t/w:elixir/other/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "other"
+    ]
+  },
+  {
     "id": "DJDZS3NHQQezfE38sb9hKg",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -268,6 +581,90 @@
     ]
   },
   {
+    "id": "vYzgEQgWRqahGz-s0oJUaA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "weworkremotely.com-programming",
+    "url": "https://weworkremotely.com/jobs/5724-software-engineer",
+    "title": "Packlane: Software Engineer",
+    "content": "<div>  <div>    <h2>Software Engineer</h2>      <h4>Posted Nov  9</h4>    <h3>      <span>Packlane</span><br>      <span>Headquarters: Berkeley, CA </span><br>        <a href='https://packlane.com' rel='nofollow'>https://packlane.com</a>    </h3>  </div>    </div>  <div>    <div>At Packlane, we help customers create impactful custom packaging – and we need you to create the powerful code that makes it all possible. In fact, we’d be OK with you wearing a brightly colored cape at your desk because you have X-ray vision for detecting bugs and a utility belt full of tools to eradicate them. As the ideal candidate, you understand that inventive and stable software is essential to the continued prosperity of our business — and also result in web experiences more forceful than a locomotive.</div><div><br></div><div>Consider Packlane a unique challenge - you’ll be in charge of code that allows people with a range of design knowledge (from novice to expert craftsman) to create a product that truly helps them tell their business’s brand story. It’s a big job, but the generalist engineer we’re looking for will be excited to work on a career-defining start-up that’s pioneering a new approach to designing and manufacturing packaging. Join our team as a software engineer and put your super-skills to work for good.</div><div><br></div><div><b>What You'll Do:</b></div><ul><li>Ideate. Create. Innovate. Help our small (but ultra-productive!) team build new and wonderful products.<br></li><li>Craft the front end and back end of our web applications.<br></li><li>Build reliable systems in Elixir and Phoenix.<br></li><li>Design fabulous user experience with modern JavaScript standards (ECMAScript 2015 via Babel) and scale the front end with React.js and Redux.<br></li><li>Utilize unit testing in Elixir and Javascript with continuous integration to keep the bugs out.<br></li><li>Collaborate with stakeholders, department heads and consultants to provide the best user experience possible.&nbsp;<br></li><li>Bend steel with your bare hands (optional).<br></li></ul><div><span><br></span></div><div><span><b>What You'll Love About Packlane:</b></span></div><ul><li><b>A chance to try new technologies</b> - Packlane is an opportunity to cut your teeth on a novel technology stack, including innovative development frameworks and cutting-edge functional languages.<br></li><li><b>Support Modern Browsers</b> - We’re living in the future and build for modern versions of Chrome, Firefox, Safari and IE. No IE8 here.&nbsp;&nbsp;<br></li><li><b>We’re a small team</b> - You’ll be one of few, which means you’ll have a real chance to make an impact. Expect (and hopefully enjoy!) a lot of control and influence over product decisions and prioritization.<br></li><li><b>You’ll help build our future </b>- We’ve got a lot of ambitious projects in the works, from building manufacturing infrastructure from the ground up, to implementing robust order management systems that orchestrate an intricate production flow, and you’ll be at the forefront of it all.&nbsp;&nbsp;<br></li><li><b>Flexibility</b> - We’re an international team who appreciates the freedom to work remotely/from home when we need to, and we value getting everyone together in-person for the occasional company retreat.&nbsp;</li></ul><div><br></div><div><b>Requirements:</b></div><ul><li>Mid level experience with Javascript and Elixir. You’ve built big projects in production and used both languages in anger.&nbsp;<br></li><li>You’re excited by TDD and also know when perfectionism is the enemy of delivered.<br></li><li>An easy-to-work-with attitude, well-organized and highly self-motivated.<br></li><li>Reliable. Accountable. Dependable. And all the other good -ables. You know what they are.<br></li><li>Great communication and collaboration skills.<br></li><li>Strong work ethic and a healthy obsession with learning new things.<br></li><li>Familiarity with Git, NPM/Yarn, and AWS.<br></li></ul><div><span><br></span></div><div><span><b>Bonus Points:</b></span></div><ul><li>Pragmatic approaches to complex problems.<br></li><li>Capability and interest in championing best practices in React.js.<br></li><li>Functional programming advocates: who value immutability and functional purity.<br></li><li>Previous experience on remote teams.</li></ul>  </div>  <div>    <h4>Apply for this position</h4>    <p>Apply @ <a href='https://packlane.workable.com/jobs/604507' rel='nofollow'>https://packlane.workable.com/jobs/604507</a></p>  </div>",
+    "urlFetchPending": false,
+    "published": "Nov 9, 2017 6:14:02 PM",
+    "tags": [
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:elixir/other/15",
+      "DBG_TECH1:k/t/w:internet-explorer/frontend/4",
+      "DBG_TECH1:k/t/w:javascript/frontend/4",
+      "DBG_TECH1:k/t/w:javascript/nodejs/4",
+      "DBG_TECH1:k/t/w:npm/nodejs/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=9, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "other"
+    ]
+  },
+  {
+    "id": "aS7tdijcRVS0uw6Br2xKSA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/156878/backend-engineer-golang-elixir-heetch?a=QBWAtjecyWc",
+    "title": "Backend Engineer (Golang / Elixir) at Heetch (Paris, France) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Carsharing, Marketplace, Transportation</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>***&nbsp;We offer flexible and full remote work over Europe.</strong></p><p><strong>We are not ready yet to work with people outside EU but will keep you posted on that ;) ***<br></strong></p><p>Hands in hands with the Product, Design, Infrastructure and Mobile team, the Backend team has its great deal of challenges to tackle: scaling our ever growing backend business, pushing data science logics in production, shipping game changer features for our passengers and drivers with the sole goal of creating the most respectful and playful experience for them, across many launched cities, and many to come.</p><p><br>We expect the marketplace we are building to scale so it can support our European expansion ambitions. Fortunately, we can rely on our solid micro-services architecture (Golang, Elixir, Docker…) and our talented team to make it better.</p><p>Welcome behind the scenes !</p><p></p><p><strong>OUR ENGINEERING VALUES</strong></p><ul><li><strong>Move smart</strong>: we are data driven, and employ tools and best practices to ship code quickly and safely (continuous integration, code review, automated testing, etc).</li><li><strong>Distribute knowledge</strong>: we want to scale our engineering team to a point where our contributions do not stop at the company code base. We believe in the Open Source culture and communication with the outside world.</li><li><strong>Leave code better than you found it</strong>: because we constantly raise the bar.</li><li><strong>Unity makes strength</strong>: moving people from A to B is not as easy as it sounds but, we always keep calm and support each other.</li><li><strong>Always improve</strong>: we value personal progress and want you to look back proudly on what you’ve done.</li></ul><p><strong>WHAT YOU’LL DO</strong></p><ul><li>Implement smart models to predict future supply and demand</li><li>Aggregate and play with data coming from various sources</li><li>Work on new features in microservices environment and contribute to the improvement and optimization of our architecture</li><li>Optimize our operational platform to make our support even more awesome.</li></ul><p>&nbsp;Things we’d like to experiment with:</p><ul><li>Event sourcing</li><li>Kafka…</li></ul><p>If your are more an infractructure person wanting to deliver happiness to our backend team by building tools and frameworks please check out our&nbsp;Infrastructure Engineer&nbsp;job offer.</p><p><strong>REQUIREMENTS</strong></p><ul><li>5+ years as a software engineer, mainly focused on backend.</li><li>You are a product oriented developer, you own, design and implement features from A to Z, you help monitor and maintain them after they are shipped with focus on the end.</li><li>You have analytical and diagnostic skills, a proactive problem solving mindset.</li><li>You’ve worked with Ruby-on-Rails or Go in production environments, experience in Elixir would be great…</li><li>… but more than mastering 1 single language, you’re curious and a fast learner, you showed your ability to switch to another technology just to get out of your comfort zone.</li><li>Experience working with high volumes, databases, relational (PostgreSQL) or NoSQL.</li><li>Exposure to architectural patterns of a large, high-scale web application and microservices.</li><li>Good testing skills.</li><li>Sharing is caring, you are generous in your communication and knowledge sharing with your team.</li></ul><p><strong>BONUS POINTS</strong></p><ul><li>Contributions to open source projects</li><li>Experience with message brokers (such as Kafka, RabbitMQ)</li><li>Exposure to real-time technology problems</li><li>Experience with ETL and Hadoop</li><li>Experience with Docker and/or Mesos Marathon (or similar)</li></ul><p><strong>PERKS</strong></p><ul><li>Permanent contract (CDI)&nbsp;</li><li>Stock</li><li>Paid conference attendance/travel and periodic team meetups</li><li>Heetch credits</li><li>A Spotify subscription</li><li>Work from anywhere you want</li></ul>                    </div>                                        <h2>Benefits</h2>                            <div>                                 Full remote (in Europe only) and flexible ways of working                            </div>                            <div>                                 Paid conferences attendance/travel                            </div>                            <div>                                 Periodic team meetups                            </div>                            <div>                                 Stocks                            </div>                            <div>                                 Heetch credits                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Nov 4, 2017 2:06:33 PM",
+    "tags": [
+      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:elixir/other/15",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:golang/go/16",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:unity3d/gamedev/8",
+      "DBG_TECH1:k/t/w:unity3d/mobile/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=5, go=19, nodejs=0, bigdata-ml=16, ruby=8, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/go",
+      "TECH1/other",
+      "TECH2/docker",
+      "TECH2/elixir",
+      "TECH2/go",
+      "TECH2/postgresql",
+      "TECH2/ruby-on-rails",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "100% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml",
+      "docker",
+      "elixir",
+      "go",
+      "other",
+      "postgresql",
+      "ruby-on-rails"
+    ]
+  },
+  {
     "id": "-nVjZOdzQM6SO0jWd5UGGA",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -343,6 +740,58 @@
       "jquery",
       "other",
       "perl"
+    ]
+  },
+  {
+    "id": "F6wH-IRMS8yp3rVQJEltQA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/156742/software-engineer-elixir-on-site-remote-terakeet-llc?a=Qz7ghW1nlGE",
+    "title": "Software Engineer - Elixir (on-site/remote) at Terakeet, LLC (Syracuse, NY) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Full Stack Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Digital Media</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>As an Elixir developer, you will be part of a small core team developing Terakeet’s newest product, a marketing collaboration platform. We're looking for a highly proficient and productive Software Engineer with a strong desire to build high quality, robust applications that users love.</p><p>You should be a passionate technologist with awesome communication skills and the confidence to propose pragmatic solutions to complex problems. &nbsp;You should also be able to make great decisions with minimal direction and be eager to learn from and educate others.</p><p>This is an Elixir position but we will consider candidates with strong backgrounds in other web-application languages. &nbsp;Terakeet's other major platform is in Ruby/Rails and other members of the team have migrated from a Rails-proficiency background. &nbsp;</p><p><strong>What you'll be doing:</strong></p><ul><li>Creating and maintaining complex web applications and services using Elixir, Erlang/OTP, and Phoenix</li><li>Working with developers, product managers, designers and others to ensure features are delivered to a high standard of quality, displaying craftsmanship and expertise</li><li>Keeping security, performance, reliability, and fault-tolerance in mind at all times</li><li>Contributing to our team processes and assisting with technology decisions</li><li>Broadening your architectural/domain knowledge by working on other parts of the system infrastructure</li><li>Prototyping new features, services, and applications</li></ul><p><strong>Core Job Skills</strong></p><ul><li>Experience building and maintaining scalable, concurrent, high-availability systems for the Internet using Elixir</li><li>Experience developing with large scale distributed NoSQL databases (Cassandra), Lucene-based search engines (Elastic), and/or graph databases (Neo4j)</li><li>Experience building RESTful web APIs</li><li>Working with continuous deployment, continuous integration, and code review processes</li><li>Working in highly collaborative Agile-style teams using Jira and GitHub</li></ul><p><strong>Minimum Qualifications</strong></p><ul><li>BA/BS in Computer Science or equivalent</li><li>2+ years industry experience developing with web-scripting languages (Elixir, Rails, JSP, ASP, PHP or Python) and MVC frameworks</li><li>Deep knowledge of contemporary HTML, CSS, and JS best practices</li><li>Strong object-oriented programming and design skills</li></ul><p><strong>Non-technical parts of the job</strong></p><p>You must enjoy working closely with others and enjoy figuring out how to help contribute in a variety of settings including brainstorming sessions and paired programming. You need to be comfortable with lots of communication and collaboration. Our team has succeeded by talking through challenges to find awesome solutions, and your ability to speak up in email, on the phone, on Slack, and in team face-to-face meetings is critical to our mutual success. “T-shaped” thinkers comfortable with exploring the edges of their core skills will be particularly successful in our environment.</p>                    </div>                            <h2>                About Terakeet, LLC            </h2>            <div><p>Terakeet is an engagement marketing technology company that uses our innovative platform, Chorus, to facilitate one-to-one human interactions at scale. We build relationships with online influencers to send authoritative search engine ranking signals, amplify awareness of a brand or message, spark meaningful conversation, and mobilize key audiences. Our customers include global Internet Retail 100 companies, startups, advocacy groups, and political campaigns.</p><p><strong>About Our Location</strong></p><p>This is a full-time position located in Syracuse, NY. &nbsp;Our team currently has both in-office and (domestic) remote employees. &nbsp;Preference will be given to candidates willing to relocate to Syracuse, but we will consider remote applicants for this position as well. &nbsp;We realize our location isn't for everyone- but we're willing to relocate the right Software Engineer from an urban hotspot. If you’re someone who wants options for lakeside living, great schools, lots of outdoor recreation, and easy access to world class cities, we’ve got two Great Lakes, New England, Montreal, Boston, Toronto, NYC, Philadelphia, and 3 major mountain ranges within easy drives. And you can easily enjoy a 20 minute or less commute to our thriving downtown location, or stay in town with lots of options for modern lofts and mixed use neighborhoods.</p><p><strong>Compensation &amp; Benefits Include:</strong></p><ul><li>Salary commensurate with ability and experience</li><li>Flexible Work Arrangement</li><li>Paid Family Leave</li><li>Health Insurance</li><li>Dental &amp; Vision Insurance&nbsp;</li><li>401k w/Company Matching&nbsp;</li><li>Parking Stipend</li><li>Company Sponsored Gym Membership</li></ul>            </div>                                <h2>Benefits</h2>                            <div>                                 Competitive Pay &amp; Bonus Opportunity                            </div>                            <div>                                 Paid Family Leave                            </div>                            <div>                                 Flexible Work Arrangement                            </div>                            <div>                                 Remote Opportunity                            </div>                            <div>                                 Great Health Benefits                            </div>                            <div>                                 Local Coffee Brewed Daily                            </div>                            <div>                                 Parking Stipend                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Nov 4, 2017 2:06:33 PM",
+    "tags": [
+      "DBG:surround``2N( OR(feasibl,OR(consid,consider),occas,possibl), remot)",
+      "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/8",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:elixir/other/30",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jsp/java/8",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:neo4j/bigdata-ml/3",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=35, dotnet=8, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=3, ruby=18, apple=0, java=8, gamedev=0, php=5, embedded=0, frontend=10}",
+      "REMOTE1/50",
+      "TECH1/other",
+      "TECH2/elixir",
+      "TECH2/php",
+      "TECH2/python",
+      "TECH2/ruby-on-rails",
+      "TECH2/web-services",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "elixir",
+      "other",
+      "php",
+      "python",
+      "ruby-on-rails",
+      "web-services"
     ]
   },
   {
@@ -439,7 +888,8 @@
     "tags": [
       "DBG:surround``fulltim 4N remot",
       "DBG_TECH1:k/t/w:clojure/other/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/other",
       "TITLE1/dev",

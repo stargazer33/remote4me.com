@@ -13,7 +13,18 @@
     "urlFetchPending": false,
     "published": "Jan 4, 2018 10:12:25 AM",
     "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
+      "DBG:surround``2W(100, remot)",
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/other",
       "TECH2/amazon-web-services",
       "TECH2/ansible",
       "TECH2/elasticsearch",
@@ -31,6 +42,8 @@
       "ansible",
       "elasticsearch",
       "gcp",
+      "java",
+      "other",
       "qa"
     ]
   },
@@ -47,7 +60,14 @@
     "urlFetchPending": false,
     "published": "Jan 4, 2018 10:12:25 AM",
     "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=14, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
       "REMOTE1/50",
+      "TECH1/c",
       "TECH2/mptcp",
       "TECH2/network-protocols",
       "TECH2/sctp",
@@ -60,6 +80,7 @@
       "50% remote"
     ],
     "tagsNames2": [
+      "c",
       "mptcp",
       "network-protocols",
       "sctp",
@@ -80,7 +101,19 @@
     "urlFetchPending": false,
     "published": "Jan 4, 2018 10:12:25 AM",
     "tags": [
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``OR(travel,visit) W to 4W OR(offic,headquart,onsit)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:boost/c/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:jersey/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=8, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=10, gamedev=0, php=0, embedded=0, frontend=8}",
       "REMOTE1/50",
+      "TECH1/c",
+      "TECH1/frontend",
+      "TECH1/java",
       "TECH2/agile",
       "TECH2/amazon-web-services",
       "TECH2/nosql",
@@ -96,6 +129,9 @@
     "tagsNames2": [
       "agile",
       "amazon-web-services",
+      "c",
+      "frontend",
+      "java",
       "nosql",
       "restful-architecture",
       "web-service"
@@ -114,7 +150,18 @@
     "urlFetchPending": false,
     "published": "Jan 4, 2018 10:12:25 AM",
     "tags": [
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:gradle/java/13",
+      "DBG_TECH1:k/t/w:java-ee/java/13",
+      "DBG_TECH1:k/t/w:maven/java/13",
+      "DBG_TECH1:k/t/w:npm/nodejs/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:windows/dotnet/16",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=16, c=0, mobile=0, go=0, nodejs=5, bigdata-ml=0, ruby=2, apple=0, java=39, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
+      "TECH1/java",
       "TECH2/amazon-cloudformation",
       "TECH2/chef",
       "TECH2/devops",
@@ -131,6 +178,7 @@
       "chef",
       "devops",
       "git",
+      "java",
       "yaml"
     ]
   },
@@ -147,14 +195,34 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 2:27:05 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=26, embedded=0, frontend=33}",
       "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/php",
       "TITLE1/admin",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ]
   },
   {
     "id": "XdAZrAuKS-KZrAmGqduknA",
@@ -169,14 +237,18 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 5:00:06 AM",
     "tags": [
+      "DBG:surround``remot 3W right",
       "REMOTE1/50",
+      "TECH1/unknown",
       "TITLE1/admin",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "unknown"
+    ]
   },
   {
     "id": "d6UXrEBKQz-p0h1C2Jb0Cg",
@@ -191,14 +263,25 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 4:00:05 AM",
     "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=22, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
+      "TECH1/bigdata-ml",
       "TITLE1/admin",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "bigdata-ml"
+    ]
   },
   {
     "id": "VW-cro_SRPW8f_YYGGhrNQ",
@@ -213,36 +296,23 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 1:39:05 AM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:javascript/frontend/7",
+      "DBG_TECH1:k/t/w:javascript/nodejs/7",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=7, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
       "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
       "TITLE1/admin",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
-  },
-  {
-    "id": "sORjHSc1Qp2RZu9s2D3Okg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "hackernews",
-    "url": "https://news.ycombinator.com/item?id=16056912",
-    "title": "Loom Network | FULLTIME | REMOTE | loomx.io We make cryptozombies and ethfiddle. We are building tools to scale blockchains. Join ...",
-    "content": "<div>                  <span>Loom Network | FULLTIME | REMOTE | loomx.ioWe make cryptozombies and ethfiddle. We are building tools to scale blockchains. Join us to make dApps scalable. We are making it easier to build solidity based software for the Ethereum blockchain<p>Looking for Senior Golang Engineers with 10+ years experience in server side development</p><p>Email hiring@loomx.io with your resume<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
-    "urlFetchPending": false,
-    "published": "Jan 3, 2018 1:30:06 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ]
   },
   {
     "id": "ePDYHxkCQS68G4TxoYDyww",
@@ -257,14 +327,20 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 10:38:05 PM",
     "tags": [
+      "DBG:surround``2N( OR(feasibl,OR(consid,consider),occas,possibl), remot)",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
+      "TECH1/nodejs",
       "TITLE1/admin",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "nodejs"
+    ]
   },
   {
     "id": "SUi21u-oRH-XiQZZxQsauQ",
@@ -279,14 +355,18 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 8:17:05 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
       "REMOTE1/100",
+      "TECH1/unknown",
       "TITLE1/admin",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "unknown"
+    ]
   },
   {
     "id": "6Yo6lOvCS4Ga40oQE4lzTA",
@@ -301,14 +381,18 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 7:05:05 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
       "REMOTE1/100",
+      "TECH1/unknown",
       "TITLE1/admin",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "unknown"
+    ]
   },
   {
     "id": "qVcKDqR8S5CEOrRfjmuBQQ",
@@ -716,10 +800,11 @@
     "published": "Dec 21, 2017 6:48:14 PM",
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:elixir/other/5",
       "DBG_TECH1:k/t/w:erlang/other/5",
       "DBG_TECH1:k/t/w:macos/apple/2",
       "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=2, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/other",
       "TITLE1/admin",
@@ -746,10 +831,11 @@
     "published": "Dec 21, 2017 6:48:14 PM",
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:elixir/other/5",
       "DBG_TECH1:k/t/w:erlang/other/5",
       "DBG_TECH1:k/t/w:macos/apple/2",
       "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=2, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/other",
       "TITLE1/admin",
@@ -1595,6 +1681,7 @@
       "DBG_TECH1:k/t/w:c++/c/8",
       "DBG_TECH1:k/t/w:c/c/5",
       "DBG_TECH1:k/t/w:capistrano/ruby/8",
+      "DBG_TECH1:k/t/w:elixir/other/5",
       "DBG_TECH1:k/t/w:java/java/2",
       "DBG_TECH1:k/t/w:java/mobile/1",
       "DBG_TECH1:k/t/w:javascript/frontend/1",
@@ -1602,7 +1689,7 @@
       "DBG_TECH1:k/t/w:python/python/2",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/40",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=13, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=50, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=13, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=50, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1/100",
       "TECH1/ruby",
       "TITLE1/admin",
@@ -1865,6 +1952,7 @@
       "DBG_TECH1:k/t/w:android/java/1",
       "DBG_TECH1:k/t/w:android/mobile/2",
       "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:elixir/other/5",
       "DBG_TECH1:k/t/w:go/go/12",
       "DBG_TECH1:k/t/w:haskell/other/5",
       "DBG_TECH1:k/t/w:ios/apple/2",
@@ -1872,9 +1960,10 @@
       "DBG_TECH1:k/t/w:node.js/nodejs/13",
       "DBG_TECH1:k/t/w:reactjs/frontend/8",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:rust/other/5",
       "DBG_TECH1:k/t/w:scala/java/9",
       "DBG_TECH1:k/t/w:webpack/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=4, go=12, nodejs=13, bigdata-ml=0, ruby=8, apple=2, java=10, gamedev=0, php=0, embedded=0, frontend=13}",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=4, go=12, nodejs=13, bigdata-ml=0, ruby=8, apple=2, java=10, gamedev=0, php=0, embedded=0, frontend=13}",
       "DevOps",
       "Docker",
       "Full Time",
@@ -1885,9 +1974,7 @@
       "San Francisco",
       "Scala",
       "Software Engineer",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TECH1/nodejs",
+      "TECH1/other",
       "TITLE1/admin",
       "TZ/unknown",
       "Terraform"
@@ -1896,9 +1983,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "frontend",
-      "go",
-      "nodejs"
+      "other"
     ]
   },
   {
@@ -3776,12 +3861,13 @@
       "DBG:surround``remot 16W timezon",
       "DBG_TECH1:k/t/w:bash/other/1",
       "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:elixir/other/15",
       "DBG_TECH1:k/t/w:erlang/other/5",
       "DBG_TECH1:k/t/w:go/go/18",
       "DBG_TECH1:k/t/w:node.js/nodejs/39",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
       "DBG_TECH1:k/t/w:ruby/ruby/6",
-      "DBG_TECH1:techWeightMap:{python=0, other=6, dotnet=0, c=5, mobile=0, go=18, nodejs=39, bigdata-ml=0, ruby=14, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=21, dotnet=0, c=5, mobile=0, go=18, nodejs=39, bigdata-ml=0, ruby=14, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/nodejs",
       "TECH2/devops",
@@ -3936,13 +4022,14 @@
       "DBG:surround``OR(locat, anywher, base, resid) 7W OR( australia, japan, newzealand)",
       "DBG:surround``benefit 2N 2N(remot,work)",
       "DBG:surround``headquart 3N remot",
+      "DBG_TECH1:k/t/w:elixir/other/5",
       "DBG_TECH1:k/t/w:node.js/nodejs/13",
       "DBG_TECH1:k/t/w:reactjs/frontend/8",
       "DBG_TECH1:k/t/w:rspec/ruby/8",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
       "DBG_TECH1:k/t/w:ruby/ruby/8",
       "DBG_TECH1:k/t/w:rubygems/ruby/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=40, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=40, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
       "REMOTE1/100",
       "TECH1/ruby",
       "TECH2/elixir",
@@ -4328,6 +4415,7 @@
       "DBG:surround``work 2W from 2W wherev",
       "DBG_TECH1:k/t/w:dotnet/dotnet/8",
       "DBG_TECH1:k/t/w:drupal/php/5",
+      "DBG_TECH1:k/t/w:elixir/other/15",
       "DBG_TECH1:k/t/w:fabric/python/8",
       "DBG_TECH1:k/t/w:go/go/3",
       "DBG_TECH1:k/t/w:golang/go/16",
@@ -4339,10 +4427,12 @@
       "DBG_TECH1:k/t/w:php/php/5",
       "DBG_TECH1:k/t/w:python/python/6",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:rust/other/5",
       "DBG_TECH1:k/t/w:symfony/php/8",
-      "DBG_TECH1:techWeightMap:{python=14, other=5, dotnet=8, c=0, mobile=1, go=19, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=26, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=14, other=25, dotnet=8, c=0, mobile=1, go=19, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=26, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
+      "TECH1/other",
       "TECH1/php",
       "TECH2/amazon-web-services",
       "TECH2/elixir",
@@ -4359,6 +4449,7 @@
       "amazon-web-services",
       "elixir",
       "go",
+      "other",
       "php",
       "python",
       "rust"
@@ -4827,10 +4918,11 @@
       "DBG:surround``remot 3N OR(role, employment)",
       "DBG_TECH1:k/t/w:air/frontend/8",
       "DBG_TECH1:k/t/w:air/mobile/8",
+      "DBG_TECH1:k/t/w:elixir/other/15",
       "DBG_TECH1:k/t/w:go/go/12",
       "DBG_TECH1:k/t/w:node.js/nodejs/26",
       "DBG_TECH1:k/t/w:ruby/ruby/4",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=12, nodejs=26, bigdata-ml=0, ruby=4, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=8, go=12, nodejs=26, bigdata-ml=0, ruby=4, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
       "REMOTE1/50",
       "TECH1/nodejs",
       "TITLE1/admin",
@@ -4863,12 +4955,13 @@
       "DBG:surround``remot 3N OR(role, employment)",
       "DBG_TECH1:k/t/w:bash/other/1",
       "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:elixir/other/15",
       "DBG_TECH1:k/t/w:erlang/other/5",
       "DBG_TECH1:k/t/w:go/go/18",
       "DBG_TECH1:k/t/w:node.js/nodejs/39",
       "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
       "DBG_TECH1:k/t/w:ruby/ruby/6",
-      "DBG_TECH1:techWeightMap:{python=0, other=6, dotnet=0, c=5, mobile=0, go=18, nodejs=39, bigdata-ml=0, ruby=14, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=21, dotnet=0, c=5, mobile=0, go=18, nodejs=39, bigdata-ml=0, ruby=14, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/nodejs",
       "TITLE1/admin",
@@ -4913,6 +5006,39 @@
     ],
     "tagsNames2": [
       "php"
+    ]
+  },
+  {
+    "id": "b41vyRA2RQi6f45JmQoj0w",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "indeed.com-2",
+    "url": "http://www.indeed.com/viewjob?t=Guidewire+Cloud+Customer+Partner&c=Guidewire+Software&l=Remote&jk=b405205ec36d8692&rtk=1bv8d4ffo548gbi6&from=rss",
+    "title": "Guidewire Cloud Customer Partner - Remote, US - Guidewire Software, Inc. - Remote",
+    "content": "<div><b>Guidewire Cloud Customer Partner - Remote, US</b><br><span>Guidewire Software, Inc.</span>     -<span>Remote</span>    </div><span><b>Job Title:</b> Guidewire Cloud Customer Partner<br><b>Job Location:</b> Remote - U.S.<br><br><b>Summary:</b><br>We are looking for a Cloud Customer Partner to join our Guidewire team.<br><br>We are Guidewire Software, and we're perhaps the best company to work for that you've never heard of. We are proud to be voted a “Top 3” employer on Glassdoor by our own employees and positioned as a market leader by industry experts like Gartner. We serve the second-largest financial services industry in the world (after banking), worth $2 trillion USD. We build the core applications that companies use to sell insurance policies, settle claims, and bill their customers. We also have a portfolio of products serving the innovative needs of our customers in areas such as data management, digital online portals, and predictive analytics. We serve customers all over the world, helping them handle billions of dollars of business. This is a lucrative and underserved market, and we have grown rapidly through a combination of quality products, excellent service, innovative technology, and a passionate belief in our core values of rationality, collegiality &amp; integrity.<br><br>The applications we build are large and extraordinarily complex, and they have to work reliably. More importantly, they have to be able to be implemented in a strategic and timely manner, and of course in a way that keeps them flexible yet maintainable. We’re looking for an experienced Customer Partner that can build and maintain a strong relationship with our managed services customers, and whom can provide maintenance and implementation leadership on the ground at the customer’s work location. This role will serve as a customer lead and will work directly with the GPS team back in the Dublin office. As the leader and chief customer advocate, you will collaborate closely with an impressive team of peers whose primary goal is our customer’s success. While leadership capability is important, the successful candidate will also have the ability to roll up their sleeves and get involved in the application configuration and integration work that is required to care for the customer’s implementation. We particularly value demonstrated leadership capability, excellent organization skills, negotiation skills to successfully work as a liaison between the customer and the Guidewire GPS team, and of course the ability to work well as part of an overall team.<br><br><b>The Role:</b><br>The Guidewire Services Center in Dublin, Ireland was established to help meet a growing global customer demand for expertise in implementing Guidewire’s products. Recently, you may have heard of the drive for corporate enterprises to deploy applications in the cloud. This trend will impact our customers and industry in the same way it is forcing other industries to evolve. The Guidewire Production Services (GPS) is part of our Guidewire Services Center in Dublin, Ireland. This team will deploy, enhance, and maintain our customer’s Guidewire product instance(s) in a hosted environment. The Guidewire Cloud Customer Partner will serve as a dedicated customer advocate and trusted advisor and will be responsible for the identification, elaboration, high-level design, and prioritization of the customer’s production defects and system enhancements. These defects and enhancements must then be communicated to the GPS team in the Dublin office, so strong project management and communication skills are a must. For the first 2-3 months after go live, the Customer Partner will work on-site directly with the customer, but it is expected as time goes on this role will be done on a remote basis with occasional on-site visits necessary.<br><br><b>Responsibilities:</b><br>We live by our core principles of integrity, rationality, and collegiality. Your first responsibility is always to adhere to these principles in everything that you do.<br>Authorized to work in the U.S. or Canada, with preference given to somebody located in the Northeastern U.S.<br>This role will require the ability to travel onsite to the customer on a scheduled basis. As the Managed Services customer base grows, you may take on responsibilities for other customers that also require occasional travel.<br>This role has the potential for occasional travel to the Dublin, Ireland office.<br>Build and expand a working knowledge of Guidewire's suite of products (Core, Digital, and Data Management) in order to understand their key functions, and to be able to guide customer requirements and design sessions<br>Partner with client business teams to understand their functional and technical system requirements and be able to lead the effort to estimate and prioritize these requirements.<br>Ability to manage and direct work efforts of a remote team.<br>Ability to clearly communicate functional and technical requirements to a remote team.<br>Contribute to a team environment that will have both local and remote leadership.<br>Aspects of the position involve the commitment to customer SLA’s. While the Customer Partner will work during normal business hours of the customer, occasional high priority work outside of established business hours may be necessary (i.e., to help with urgent customer issues).<br><br><b>Desired Skills/Experience:</b><br>Strong communication and interpersonal skills (mandatory)<br>Applied Project Management experience (mandatory)<br>Demonstrated problem-solving skills (mandatory)<br>Ability to prioritize tasks and differentiate between Production issues and future enhancement work<br>Proven ability to influence customers and build relationships, both with “on the ground” resources and those in Management/Executive roles<br>7+ years of working with Guidewire core applications<br>5+ years of experience leading and managing implementation teams (or team tracks) within a Corporate IT or Consulting environment (Guidewire projects preferred)<br>Flexible, enthusiastic approach to work including a strong desire to learn new products and a new business domain<br>Strong Guidewire Configuration skills necessary to assist with development activity<br>Experience working in an environment with cloud/off-premise enterprise applications<br>Experience working with leading cloud platform Infrastructure as a Service (IaaS) providers such as AWS or Microsoft Azure<br>Experience with a commercial customer incident tracking or CRM system<br>Experience using a software defect tracking system such as JIRA<br>Ability to direct work effort based on a dynamic work environment<br><br><b>Requirements:</b><br>Bachelors in Computer Science or equivalent from higher education institution<br>Advanced exposure to broad technical skills such as Object Oriented programming (JAVA , C#, or similar), relational databases (data modeling/SQL), web UI (design and development), XML, application architecture<br>Software development lifecycle exposure (AGILE) preferred<br><br>Why Guidewire?<br>As a team, our mission is to provide distinguished consulting and support services to prospects, partners, and customers which result in 100 percent reference-able customers which guides us in all that we do.<br><br>Guidewire has pursued one mission from its founding as a company in 2001: to be the pre-eminent provider of next-generation core systems — policy, claims, and billing — to the global property-casualty insurance industry. All of our employees understand that we serve only one industry and strive to solve one problem: to enable insurance carriers to migrate completely from legacy systems to a modern core system platform. We have recruited extensively among experts in the industry to ensure that we learn from veterans of insurance system design and implementation. Today, insurance experience is pervasive throughout the Guidewire organization, especially in our Product Management and Implementation Services groups. The company is headquartered in Foster City, California, US with offices in London, Dublin, Paris, Munich, Sydney, Toronto, Tokyo, Hong Kong, and operations in Poland and mainland China. Guidewire is owned by its employees and is publicly traded on the NYSE under the call sign GWRE.</span>",
+    "urlFetchPending": false,
+    "published": "Nov 2, 2017 3:54:54 AM",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W remot",
+      "DBG:surround``OR(requir,need) 6W OR(travel,visit) 5W OR(offic,headquart,onsit)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=5, c=2, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
     ]
   },
   {
@@ -5380,13 +5506,14 @@
       "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
       "DBG:surround``remot 3W right",
       "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:elixir/other/5",
       "DBG_TECH1:k/t/w:go/go/6",
       "DBG_TECH1:k/t/w:node.js/nodejs/13",
       "DBG_TECH1:k/t/w:php/php/5",
       "DBG_TECH1:k/t/w:python/python/2",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
       "DBG_TECH1:k/t/w:scala/java/3",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=13, bigdata-ml=8, ruby=2, apple=0, java=3, gamedev=0, php=5, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=6, nodejs=13, bigdata-ml=8, ruby=2, apple=0, java=3, gamedev=0, php=5, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/nodejs",
       "TITLE1/admin",
@@ -5414,13 +5541,14 @@
     "tags": [
       "DBG:surround``remot 3W right",
       "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:elixir/other/5",
       "DBG_TECH1:k/t/w:go/go/6",
       "DBG_TECH1:k/t/w:node.js/nodejs/13",
       "DBG_TECH1:k/t/w:php/php/5",
       "DBG_TECH1:k/t/w:python/python/2",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
       "DBG_TECH1:k/t/w:scala/java/3",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=13, bigdata-ml=8, ruby=2, apple=0, java=3, gamedev=0, php=5, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=6, nodejs=13, bigdata-ml=8, ruby=2, apple=0, java=3, gamedev=0, php=5, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/nodejs",
       "TITLE1/admin",
@@ -5563,14 +5691,16 @@
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
       "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:elixir/other/5",
       "DBG_TECH1:k/t/w:erlang/other/5",
       "DBG_TECH1:k/t/w:go/go/3",
       "DBG_TECH1:k/t/w:less/frontend/5",
       "DBG_TECH1:k/t/w:node.js/nodejs/13",
       "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=3, nodejs=13, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "DBG_TECH1:techWeightMap:{python=2, other=10, dotnet=0, c=0, mobile=0, go=3, nodejs=13, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1/100",
       "TECH1/nodejs",
+      "TECH1/other",
       "TITLE1/admin",
       "TZ/unknown"
     ],
@@ -5578,7 +5708,8 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "nodejs"
+      "nodejs",
+      "other"
     ]
   },
   {

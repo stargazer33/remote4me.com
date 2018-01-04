@@ -13,7 +13,9 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 9:14:06 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
       "REMOTE1/100",
+      "TECH1/unknown",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -21,7 +23,9 @@
       "100% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "unknown"
+    ]
   },
   {
     "id": "n_TTqOhpR2S2ehQK7uVhVQ",
@@ -36,7 +40,14 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 8:00:06 AM",
     "tags": [
+      "DBG:surround``2N( OR(feasibl,OR(consid,consider),occas,possibl), remot)",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=21, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
       "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/nodejs",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -44,7 +55,10 @@
       "50% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ]
   },
   {
     "id": "xD1e8x8RR9WNZVm-6Ki98w",
@@ -59,7 +73,18 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 5:00:06 AM",
     "tags": [
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=13, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=17}",
       "REMOTE1/50",
+      "TECH1/c",
+      "TECH1/frontend",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -67,7 +92,10 @@
       "50% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "c",
+      "frontend"
+    ]
   },
   {
     "id": "6ubHeCoQTLKWxwIvnEtWhA",
@@ -82,7 +110,15 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 12:07:04 AM",
     "tags": [
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:arm/embedded/8",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:rust/other/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=13, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
       "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/other",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -90,7 +126,10 @@
       "100% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "c",
+      "other"
+    ]
   },
   {
     "id": "NxIGJA6QQPSIXkKxseNxng",
@@ -105,7 +144,13 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 11:19:05 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=21}",
       "REMOTE1/100",
+      "TECH1/frontend",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -113,7 +158,9 @@
       "100% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend"
+    ]
   },
   {
     "id": "mbJTMXhVT3i0AVYjQGBAFw",
@@ -128,7 +175,19 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 10:38:05 PM",
     "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:javascript/frontend/4",
+      "DBG_TECH1:k/t/w:javascript/nodejs/4",
+      "DBG_TECH1:k/t/w:node.js/nodejs/52",
+      "DBG_TECH1:k/t/w:reactjs/frontend/40",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=56, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=60}",
       "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -136,7 +195,10 @@
       "100% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ]
   },
   {
     "id": "n54OeH8vT46w6yzlotvSXA",
@@ -151,7 +213,12 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 10:33:05 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:haskell/other/15",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:techWeightMap:{python=6, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
+      "TECH1/other",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -159,7 +226,9 @@
       "100% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "other"
+    ]
   },
   {
     "id": "a0OLdGTmQxiEMBc6X744fQ",
@@ -174,7 +243,13 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 9:00:04 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:electron/nodejs/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=1, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
+      "TECH1/nodejs",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -182,7 +257,9 @@
       "100% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "nodejs"
+    ]
   },
   {
     "id": "DmN0cadsRzScPovEGXm_DQ",
@@ -197,7 +274,20 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 8:45:05 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=4, go=8, nodejs=14, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1/100",
+      "TECH1/nodejs",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -205,7 +295,9 @@
       "100% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "nodejs"
+    ]
   },
   {
     "id": "dSmkYnwHR7KumPp9TBBSSA",
@@ -220,7 +312,11 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 7:20:04 PM",
     "tags": [
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1/50",
+      "TECH1/frontend",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -228,7 +324,9 @@
       "50% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend"
+    ]
   },
   {
     "id": "kVDwqs86QtW43wmRYFQJmQ",
@@ -243,7 +341,19 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 6:30:05 PM",
     "tags": [
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=10, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=4, java=6, gamedev=0, php=0, embedded=0, frontend=16}",
       "REMOTE1/50",
+      "TECH1/frontend",
       "TITLE1/unknown",
       "TZ/unknown"
     ],
@@ -251,7 +361,9 @@
       "50% remote",
       "undefined job title"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend"
+    ]
   },
   {
     "id": "3lVHltkzQzC9of6Bom3ndw",
@@ -340,8 +452,10 @@
     "tags": [
       "DBG:surround``OR(countri, locat) 3W remot",
       "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
-      "TECH1/unknown",
+      "TECH1/gamedev",
       "TITLE1/unknown",
       "TZ/America"
     ],
@@ -351,7 +465,7 @@
       "undefined job title"
     ],
     "tagsNames2": [
-      "unknown"
+      "gamedev"
     ]
   },
   {

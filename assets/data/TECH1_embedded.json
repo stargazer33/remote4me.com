@@ -1,6 +1,38 @@
 {
  "items": [
   {
+    "id": "2J5AC4gtTA-wpl3RekHJaQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16057422",
+    "title": "Spydermix | https://www.spydermix.org/ | Engineer | Full-Time | Remote",
+    "content": "<div>                  <span>Spydermix | <a href='https://www.spydermix.org/' rel='nofollow'>https://www.spydermix.org/</a> | Engineer | Full-Time | Remote<p>Interested in giving a giant middle finger to repressive regimes? Do you eat DHTs, blockchains &amp; P2P routing algorithms for lunch? Are ridiculously hard problems your idea of fun? Are you the kind of person who could figure out how to create a uni-directional off-chain micro-payment channel with multi-sig support for a verifiable market with order matching and final settlement via smart contract, without trusted parties - taking into account the impossibility of fair exchange without a trusted third party, maybe based on probabilistic payments and/or zero knowledge contingent payments? Did you smile reading that last part? Good, it’s more fun when you have a sense of humor.</p><p>We’re working on changing the game with the backing of the world’s largest VPN service. An unstoppable multi-protocol decentralized onion routing system that is going to weave privacy into the very fabric of the Internet. Like TOR, if TOR was embedded into everything, had sensible economic incentive mechanisms, and was resistant to sybil attacks.</p><p># Scale of initial deployment</p><p>Servers : 100K+ Traffic : Exabytes Users : Millions</p><p># Things you probably already know in and out</p><p>IP networking, onion routing, VPNs, applied cryptography &amp; blockchains at the protocol level.</p><p># Things you’ll wonder when you read the prototype Apache module for fun</p><p>- Why don’t most HTTP proxies support keep-alives?</p><p>- Can you add a flag to the HTTP_PIPE contract to specify whether or not to use Global Session Support (GSS)?</p><p>- Is there a better way to track a single session across separate processes other than keeping track of session state in shared memory?</p><p>If you think you’re the type of person we’re looking for. Get in touch by sending a shout out to: contact [at] spydermix.org<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jan 3, 2018 3:00:06 AM",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:fabric/python/8",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=0, c=1, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "embedded",
+      "python"
+    ]
+  },
+  {
     "id": "tEmw95NISVqGNPhaDmoWsw",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",

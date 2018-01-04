@@ -13,7 +13,19 @@
     "urlFetchPending": false,
     "published": "Jan 4, 2018 10:12:25 AM",
     "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:capybara/ruby/8",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/13",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=12, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=14}",
       "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/ruby",
       "TECH2/automation",
       "TECH2/qa",
       "TECH2/ruby",
@@ -26,6 +38,7 @@
     ],
     "tagsNames2": [
       "automation",
+      "frontend",
       "qa",
       "ruby",
       "testing"
@@ -44,7 +57,20 @@
     "urlFetchPending": false,
     "published": "Jan 4, 2018 10:12:25 AM",
     "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
+      "DBG:surround``benefit 2N 2N(remot,work)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python-developer/python/13",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:k/t/w:scrapy/python/8",
+      "DBG_TECH1:techWeightMap:{python=31, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=4}",
       "REMOTE1/50",
+      "TECH1/python",
       "TECH2/automated-tests",
       "TECH2/python",
       "TECH2/qa",
@@ -78,14 +104,18 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 2:32:05 PM",
     "tags": [
+      "DBG:surround``remot W ok",
       "REMOTE1/100",
+      "TECH1/unknown",
       "TITLE1/qa",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "unknown"
+    ]
   },
   {
     "id": "Rckv23j8S9-hb5cGB0lf5g",
@@ -100,7 +130,21 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 3:00:29 AM",
     "tags": [
+      "DBG:surround``2W(100, remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=14, bigdata-ml=0, ruby=0, apple=0, java=15, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/nodejs",
       "TITLE1/qa",
       "TZ/America"
     ],
@@ -108,7 +152,10 @@
       "100% remote",
       "American time zones"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "java",
+      "nodejs"
+    ]
   },
   {
     "id": "EQD-G6jBRXSff6_nT9TsHQ",
@@ -123,7 +170,21 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 2:32:33 AM",
     "tags": [
+      "DBG:surround``2W(100, remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=14, bigdata-ml=0, ruby=0, apple=0, java=15, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/nodejs",
       "TITLE1/qa",
       "TZ/America"
     ],
@@ -131,7 +192,10 @@
       "100% remote",
       "American time zones"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "java",
+      "nodejs"
+    ]
   },
   {
     "id": "YYtl-6qhRTOJ0n8Q9Up09Q",
@@ -146,14 +210,18 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 1:12:05 AM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
       "REMOTE1/100",
+      "TECH1/unknown",
       "TITLE1/qa",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "unknown"
+    ]
   },
   {
     "id": "FphjiqPrQp-7A8dSFrO8sQ",
@@ -168,14 +236,30 @@
     "urlFetchPending": false,
     "published": "Jan 1, 2018 6:31:11 PM",
     "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:capybara/ruby/8",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/13",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=12, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=14}",
       "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
       "TITLE1/qa",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ]
   },
   {
     "id": "EJUHKAFiQtCz5OXfpg7PPA",
@@ -190,14 +274,29 @@
     "urlFetchPending": false,
     "published": "Jan 1, 2018 6:31:11 PM",
     "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:capybara/ruby/8",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/13",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=12, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=14}",
       "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/ruby",
       "TITLE1/qa",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "50% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ]
   },
   {
     "id": "FL_PsrIlQjy9LvikICMOoA",
@@ -335,6 +434,7 @@
       "DBG:surround``work 2W from 2W wherev",
       "DBG_TECH1:k/t/w:dotnet/dotnet/8",
       "DBG_TECH1:k/t/w:drupal/php/5",
+      "DBG_TECH1:k/t/w:elixir/other/10",
       "DBG_TECH1:k/t/w:go/go/3",
       "DBG_TECH1:k/t/w:java/java/2",
       "DBG_TECH1:k/t/w:java/mobile/1",
@@ -343,8 +443,9 @@
       "DBG_TECH1:k/t/w:php/php/10",
       "DBG_TECH1:k/t/w:python/python/4",
       "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:rust/other/5",
       "DBG_TECH1:k/t/w:symfony/php/8",
-      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=8, c=0, mobile=1, go=3, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=31, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=4, other=15, dotnet=8, c=0, mobile=1, go=3, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=31, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/php",
       "TECH2/automated-tests",
@@ -709,6 +810,37 @@
     ],
     "tagsNames2": [
       "dotnet"
+    ]
+  },
+  {
+    "id": "_0JoiUN0ROS7KFL_k22fvw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=15872618",
+    "title": "Aerostrat | LA / Seattle / Dallas | 100% Remote | Full Time | Backend Engineer & Test Engineer | Salary: $75-120K + equity",
+    "content": "<div>                  <span>Aerostrat | LA / Seattle / Dallas | 100% Remote | Full Time | Backend Engineer &amp; Test Engineer | Salary: $75-120K + equity<p>Ever wonder how Airlines maintain large fleets, ensuring aircraft are properly maintained while reducing maintenance costs over the lifetime of an extremely expensive asset?  At Aerostrat, we're applying a modern approach to an aging industry to give our customers huge efficiency and cost-savings benefits.</p><p>Aerostrat is a fast growing company focused on building innovative solutions for the aviation industry. We're currently taking aircraft maintenance planning to the next level with a modern, intelligent solution that improves operational efficiency with highly optimized maintenance schedules.</p><p>Frontend Tech: AngularJS</p><p>Backend Tech: C#, Entity Framework</p><p>We're looking for a talented Sr. Backend Engineer as well as a test engineer to join our growing team.  We currently have multiple large airlines as customers and are working to scale internationally. As an engineer at Aerostrat you have an opportunity to be part of modernizing an industry with global reach.</p><p>Apply via Angel below:</p><p><a href='https://angel.co/aerostrat/jobs/300517-senior-software-engineer-backend' rel='nofollow'>https://angel.co/aerostrat/jobs/300517-senior-software-engin...</a></p><p><a href='https://angel.co/aerostrat/jobs/300519-senior-software-engineer-test-focus' rel='nofollow'>https://angel.co/aerostrat/jobs/300519-senior-software-engin...</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Dec 8, 2017 3:00:07 PM",
+    "tags": [
+      "DBG:surround``2W(100, remot)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=5, c=2, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/qa",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "frontend"
     ]
   },
   {
@@ -1268,6 +1400,52 @@
       "dotnet",
       "java",
       "testing"
+    ]
+  },
+  {
+    "id": "CRkKhmgPSMmmhl-CSGjNwQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/125119/mobile-test-engineer-ios-android-remote-creatubbles?a=FXAcQPOcE8g",
+    "title": "Mobile Test Engineer (iOS & Android) - Remote at Creatubbles () (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Contract</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior, Lead</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Mobile Developer, QA/Test Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Information Technology, Social Networking</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>Creatubbles™ is the safe global community for creators of all ages. It is the perfect space for children, families and teachers to save, share, discover and interact with multimedia creativity portfolios. It lets anyone share their experiences and creations safely in more than 50 countries, whether they are at home, school, an event or activity.</p><p>We recognize creativity is a critical life skill to be developed and nurtured like any other form of expression. We believe in the importance of finding and developing your individual voice by being able to express thoughts and ideas freely.</p><p>Creatubbles™ is an integrated creativity ecosystem with a growing list of partners that believe in nurturing creativity through a safe and supportive environment.</p><p><strong>About our company</strong></p><p>We are an ambitious team of around 25 people, covering 14 nationalities and operating as a network of virtual teams around the world.</p><p>To fulfill our mission to nurture the original creativity of children around the world, we are constantly exploring new ways to incorporate the latest ideas, approaches, and technologies into our products and services.</p><p>At Creatubbles, you will be helping to build a product that serves not only the future of the world, but the parents and the teachers that guide them as well.</p><p>Main site:&nbsp;<a href='https://www.creatubbles.com' rel='nofollow'>https://www.creatubbles.com</a> <br>Blog: <a href='https://stateoftheart.creatubbles.com' rel='nofollow'>https://stateoftheart.creatubbles.com</a></p><p><strong>About our development Team and Technologies</strong><br>- We start the day with a standup call and organise our work in weekly iterations.<br>- Slack, Trello, Github, CircleCI and Amazon AWS are just a couple of the many friends we rely on every single day.<br>- ScreenHero allows us to enjoy pair­-programming sessions, even when members are located on the other side of the world.<br>- Our focus is to build and keep iterating on universal experiences and interfaces that work for and delight users between ages of 1 and 99.<br>- The back­end is made available to our web app, our native mobile apps and our partner's applications as a simple REST API.<br>- Security is extremely important to us as want our own kids to use our apps in a safe way.<br>- We follow a Balanced Teams approach whereby design/development/testing is tightly integrated.<br>- Our PMs keep tabs on the work to be done and prepare detailed acceptance criteria for each task.</p><p><br><strong>About you</strong><br>- You have experience working with testing native iOS and Android mobile apps (and Web app test experience is a big plus).<br>- You are a hero when it comes to manual testing but also know how to leverage crowd-based solutions like test.io<br>- You know your way with APIs and how to test apps that rely on them.<br>- You insist on clean and well-­maintained code with a good amount of test coverage that leads to beautiful user-­interfaces. You have experience with data­-driven product development: analytics, A/B testing, etc<br>- You have experience writing tests in some sort of xUnit framework.<br>- You take quality and testing very seriously. Very very seriously. Obviously.<br>- You are fluent in spoken and written English (knowledge of Japanese is a big plus).<br>- You have a pro­active personality, are a real team player and feel comfortable working in a fast-­paced tech startup environment.<br>- You have a fundamental interest in what we are doing and show empathy for our users.<br>- You have a general curiosity and an ability to embrace complexity.<br>- Ideally you are based somewhere in the European time zone to maximize work time overlap with our development teams.<br><br></p>                    </div>                                        <h2>Benefits</h2>                            <div>                                 Remote                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Nov 4, 2017 2:06:33 PM",
+    "tags": [
+      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/3",
+      "DBG_TECH1:k/t/w:android/mobile/6",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=10, go=0, nodejs=8, bigdata-ml=0, ruby=0, apple=4, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TECH1/nodejs",
+      "TECH2/android",
+      "TECH2/circleci",
+      "TECH2/ios",
+      "TECH2/kotlin",
+      "TECH2/swift",
+      "TITLE1/qa",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "100% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "android",
+      "circleci",
+      "ios",
+      "kotlin",
+      "mobile",
+      "nodejs",
+      "swift"
     ]
   },
   {

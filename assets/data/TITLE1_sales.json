@@ -13,14 +13,24 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 6:09:03 PM",
     "tags": [
+      "DBG:surround``seek 2W freelancerescap 4W remot",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:com/dotnet/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
+      "TECH1/dotnet",
       "TITLE1/sales",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "dotnet"
+    ]
   },
   {
     "id": "-WD4uqqQQhSCvTq3x2gPwg",
@@ -361,12 +371,12 @@
     "published": "Dec 7, 2017 9:00:27 PM",
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
       "DBG_TECH1:k/t/w:less/frontend/5",
       "DBG_TECH1:k/t/w:wordpress/php/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=5}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=5, embedded=0, frontend=5}",
       "REMOTE1/50",
-      "TECH1/frontend",
-      "TECH1/php",
+      "TECH1/gamedev",
       "TITLE1/sales",
       "TZ/unknown"
     ],
@@ -374,8 +384,7 @@
       "50% remote"
     ],
     "tagsNames2": [
-      "frontend",
-      "php"
+      "gamedev"
     ]
   },
   {
@@ -392,12 +401,12 @@
     "published": "Dec 7, 2017 8:38:47 PM",
     "tags": [
       "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
       "DBG_TECH1:k/t/w:less/frontend/5",
       "DBG_TECH1:k/t/w:wordpress/php/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=5}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=5, embedded=0, frontend=5}",
       "REMOTE1/50",
-      "TECH1/frontend",
-      "TECH1/php",
+      "TECH1/gamedev",
       "TITLE1/sales",
       "TZ/unknown"
     ],
@@ -405,8 +414,7 @@
       "50% remote"
     ],
     "tagsNames2": [
-      "frontend",
-      "php"
+      "gamedev"
     ]
   },
   {
@@ -1131,6 +1139,8 @@
     "tags": [
       "Business Development",
       "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
       "Enterprise Sales",
       "Enterprise Software",
       "Full Time",
@@ -1141,7 +1151,7 @@
       "SaaS",
       "SaaS Sales",
       "Sales",
-      "TECH1/unknown",
+      "TECH1/gamedev",
       "TITLE1/sales",
       "TZ/unknown"
     ],
@@ -1149,7 +1159,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "unknown"
+      "gamedev"
     ]
   },
   {

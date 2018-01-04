@@ -13,14 +13,28 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 3:00:41 AM",
     "tags": [
+      "DBG:surround``2W(100, remot)",
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:sass/frontend/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=20, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=21}",
       "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
       "TITLE1/designer",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ]
   },
   {
     "id": "Yrsx9BHRSmWwk_zQiaCUZQ",
@@ -35,14 +49,28 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 2:46:17 AM",
     "tags": [
+      "DBG:surround``2W(100, remot)",
+      "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:sass/frontend/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=20, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=21}",
       "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
       "TITLE1/designer",
       "TZ/unknown"
     ],
     "tagsNames1": [
       "100% remote"
     ],
-    "tagsNames2": []
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ]
   },
   {
     "id": "Tncpuh-SQc-nECXV3u1Bnw",
@@ -987,9 +1015,10 @@
       "Animation",
       "Art Direction",
       "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:animation/gamedev/16",
       "DBG_TECH1:k/t/w:unity3d/gamedev/8",
       "DBG_TECH1:k/t/w:unity3d/mobile/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=24, php=0, embedded=0, frontend=0}",
       "Designer",
       "Full Time",
       "Graphic Design",
@@ -1141,10 +1170,12 @@
     "published": "Nov 30, 2017 10:10:57 PM",
     "tags": [
       "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
       "DBG_TECH1:k/t/w:layout/frontend/5",
       "DBG_TECH1:k/t/w:velocity/java/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=5}",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=8, php=0, embedded=0, frontend=5}",
       "REMOTE1/100",
+      "TECH1/gamedev",
       "TECH1/java",
       "TITLE1/designer",
       "TZ/unknown"
@@ -1153,6 +1184,7 @@
       "100% remote"
     ],
     "tagsNames2": [
+      "gamedev",
       "java"
     ]
   },
@@ -1852,8 +1884,10 @@
     "tags": [
       "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
       "DBG:surround``remot 3N (team OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
-      "TECH1/unknown",
+      "TECH1/gamedev",
       "TITLE1/designer",
       "TZ/Europe"
     ],
@@ -1862,7 +1896,7 @@
       "European time zones"
     ],
     "tagsNames2": [
-      "unknown"
+      "gamedev"
     ]
   },
   {
