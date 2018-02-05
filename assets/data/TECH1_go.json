@@ -1,6 +1,395 @@
 {
  "items": [
   {
+    "id": "fcT1EqzcQWK-h790965U6Q",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/152168/go-developer-spideroak?a=P20ErrTYCis",
+    "title": "Go developer at SpiderOak (Kansas City, MO) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Security Software, Secure Messaging, Secure Back Up</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>About the team</strong></p><p>We are working hard in our 2.0 version of the Semaphor messaging system and platform. The software stack for the backend is PostgreSQL and Go. We are looking to expand our team to help us develop the microservices behind Semaphor.</p><p>We are a small team comprised of talented polyglot developers that have chosen Go as their main tool for the past several years to bring Semaphor to life.</p><p><strong>Responsibilities</strong></p><ul><li>Implement already written specifications for distributed services in Go.</li><li>Design and specify new services. We have a lot of work already architected, but there's still a lot to go in the roadmap.</li><li>Iterate over our current codebase to improve it and fix bugs.</li><li>Take ownership of the tasks assigned, regardless of their scope. Working on bug fixes doesn't entail less ownership than writing a new service from scratch.</li></ul><p><strong>Requirements</strong></p><ul><li>2+ years experience in developing services in Go.</li><li>Familiarity with TDD.</li><li>Experience using Docker.</li></ul><p><strong>Nice to have</strong></p><ul><li>Familiarity with multiplatform development. Our client side Go codebase runs in Windows, macOS, Linux, Android and iOS.</li><li>Experience with Kubernetes.</li><li>Some Python skills, all our integration tests are written in Python.</li><li>Familiarity with development focused on security.</li></ul><p>Still interested? Email us your resume (plain text preferred) to <a href='mailto:jobs@spideroak-inc.com' rel='nofollow'>jobs@spideroak-inc.com</a></p>                    </div>                            <h2>                About SpiderOak            </h2>            <div><p>SpiderOak has been working for the past 10+ years bringing security and privacy to consumers and enterprises. First in the backup area with SpiderOak ONE, and now expanding to group messaging with Semaphor.</p><p>We are a remote friendly company, but if you are local to Kansas City you are always welcome to work from the office. Significant overlap with US Central time zone required. You will be expected to communicate regularly with the rest of your team, working out problems and collaborating in a daily basis to drag projects across the finish line. The ability to take lead on projects falling under your responsibility is paramount. While we do not use a strict Agile methodology, you must be comfortable working closely with the rest of the company to ensure an iterative process. We require a basic working proficiency in the written and spoken English language, and the ability to travel to the United States 1-4 times a year for team meet-ups.</p><p>Much as we believe in internet privacy for all, we do not discriminate in who we choose to be part of our team. We know no boundaries based on race, ethnic origin, religion, gender, sexuality, or other terms humans use to separate the 'us' from the 'them'. If you can do the job and communicate readily, we will be happy to work with you.</p><p>We offer a compensation package including paid vacation, holiday, and personal time for all, and US workers enjoy a full benefits package including medical, dental, vision, life, and short and long term disability insurance.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Paid time off and corporate holidays                            </div>                            <div>                                 Full medical, dental, vision                            </div>                            <div>                                 Company provided hardware                            </div>                            <div>                                 Work from anywhere in the world                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Feb 4, 2018 2:27:14 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH2/docker",
+      "TECH2/go",
+      "TECH2/microservices",
+      "TECH2/postgresql",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "100% remote",
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "docker",
+      "go",
+      "microservices",
+      "postgresql"
+    ]
+  },
+  {
+    "id": "_L_EIZseRimsRw6aaR-PTg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/144595/lead-azure-developer-fugue-inc?a=MuxR43sMZji",
+    "title": "Lead Azure Developer at Fugue Inc (Washington, DC) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Cloud Computing, DevOps, Security Software</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>Job Overview</strong></p><p>The Lead Azure Software Engineer will be the go to SME for the Azure cloud within Fugue. You will be mixing reliable industry standards and techniques with a generous dose of your own creativity to pioneer the new solutions in the Azure space of Fugue. We are looking for highly motivated team members who face challenges head-on and are able to work in an innovative, complex, and dynamic environment.</p>                    </div>                            <h2>                About Fugue Inc            </h2>            <div><p>Fugue is a venture-backed software company developing an infrastructure-level operating system for cloud computing. Initially available on Amazon Web Services (AWS), Fugue builds, optimizes, and enforces cloud infrastructure—continuously and automatically. The company has raised a total of $34MM from investors including New Enterprise Associates, The Maryland Venture Fund, and Core Capital Partners. With offices in Frederick, MD, Washington, DC, New York, and Silicon Valley, Fugue is rapidly expanding its talented, high performing team. We are looking for an accomplished Customer Support Engineer to join us!&nbsp;</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Medical, Dental, and Vision plans - some plans fully company paid                            </div>                            <div>                                 401(k) savings plan                            </div>                            <div>                                 Company paid Life, Short and Long Term Disability                            </div>                            <div>                                 Open PTO - use what you need when you need it                            </div>                            <div>                                 Remote Friendly                            </div>                            <div>                                 Flexible Work Schedule                            </div>                            <div>                                 Free Lunch 3-days per week in offices                            </div>                            <div>                                 You're an adult, so we treat you like one!                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Feb 4, 2018 2:27:14 PM",
+    "tags": [
+      "REMOTE1/50",
+      "TECH1/go",
+      "TECH2/amazon-web-services",
+      "TECH2/azure",
+      "TECH2/azure-api-apps",
+      "TECH2/go",
+      "TECH2/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "amazon-web-services",
+      "azure",
+      "azure-api-apps",
+      "go",
+      "python"
+    ]
+  },
+  {
+    "id": "Q9MtHy-CTHGf4uJK0E69_g",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/166783/backend-engineer-driver-experience-heetch?a=TVTHwyWUeQg",
+    "title": "Backend Engineer - Driver Experience at Heetch (Paris, France) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Carsharing, Marketplace, Transportation</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><em>*** Heetch offers remote first positions for its Technical team which means you can be based in Paris or anywhere else you want in Europe like 90% of our tech team.</em></p><p><em>&nbsp;We are still a young structure and we are not ready to work with people outside EU for timezone considerations but will keep you posted on that ;)***</em></p><p><strong>DRIVER EXPERIENCE TEAM @HEETCH</strong></p><p>The top priority of our user-driven team is the happiness of our drivers. From the moment they decide to join us until they enter our marketplace, drivers will be using our products. And our mission is to make sure they get the stellar experience they deserve.</p><p>Given our very large business scope(drivers acquisition, retention and well-being), our team is working side by side with frontend, mobile, product and design teams, allowing us to build features that will empower drivers with new ways to drive and earn.</p><p>From the inside, we’re a caring full-stack team of engineers(IOS, Android, Frontend, Backend, QA) who share the same values:</p><p>• <strong>Transparency</strong>: We discuss everything openly.</p><p>• <strong>Team Unity </strong>: No one is left behind.</p><p>• <strong>Move Fast</strong> : No need to demonstrate for day, just do it.</p><p>• <strong>Knowledge Sharing </strong>: Whether it's organizational, cultural or tech, we're eager to learn!</p><p>•<strong> It's OK to fail </strong>: Succeed together, learn together.</p><p>With the many new challenges we’re facing every day, our team is seeking a product aficionado that will help us take our services to the next level. Our ideal candidate is someone who loves building softwares people genuinely love using, have strong problem-solving skills and great empathy for users.</p><p>What Happens Next Will Surprise You ! </p><p><strong>CHALLENGES YOU’LL BE FACING WITH US</strong></p><p>• Design a flexible driver onboarding flow allowing our international team to easily launch new cities.</p><p>• Provide an optimized solution for company executives to manage their fleet.</p><p>• Build tools that significantly improve our communication with our drivers.</p><p><strong>RESPONSIBILITIES</strong></p><p>• Deploy, monitor and maintain your microservices in production.</p><p>• Design well-tested, and scalable software to handle millions of users.</p><p>• Participate in Code Reviews and provide feedback to your colleagues.</p><p>• Leave code better than you found it.</p><p>• Create a positive environment for the people around you.</p><p>• Lead by example.</p><p>• Share knowledge with your team and help them grow.</p><p><strong>REQUIREMENTS</strong></p><p>• Solid experience as a Backend Engineer.</p><p>• Comfortable building softwares in a polyglot environment (Ruby or Elixir).</p><p>• Delivers elegant APIs that are easy to use.</p><p>• Designs performant systems for high throughput workloads.</p><p>• Awareness and understanding of technical constraints.</p><p>• Not afraid of leaving your technical comfort zone.</p><p>• Bonus : Knowledge in Event Driven Design or DDD, CQRS+ES, Golang</p><p><strong>PERKS</strong></p><p>• Stocks.</p><p>• Paid conference attendance/travel.</p><p>• Heetch credits.</p><p>• A Spotify subscription.</p><p>• Medical care.</p><p>• Code retreats and company retreats.</p><p>• Travel budget (visit your remote coworkers and our offices).</p>                    </div>                                        <h2>Benefits</h2>                            <div>                                 Full remote (in Europe only) and flexible ways of working                            </div>                            <div>                                 Paid conferences attendance/travel                            </div>                            <div>                                 Periodic team meetups                            </div>                            <div>                                 Stocks                            </div>                            <div>                                 Heetch credits                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Feb 4, 2018 1:12:53 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/gamedev",
+      "TECH1/go",
+      "TECH1/mobile",
+      "TECH2/docker",
+      "TECH2/elixir",
+      "TECH2/go",
+      "TECH2/postgresql",
+      "TECH2/ruby-on-rails",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "100% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "docker",
+      "elixir",
+      "gamedev",
+      "go",
+      "mobile",
+      "postgresql",
+      "ruby-on-rails"
+    ]
+  },
+  {
+    "id": "5T4fy-6NSqygLaaHiHGc_Q",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/156878/backend-engineer-ride-marketplace-golang-heetch?a=QBWAtjecyWc",
+    "title": "Backend Engineer - Ride & Marketplace (Golang) at Heetch (Paris, France) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Carsharing, Marketplace, Transportation</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><em>*** Heetch offers remote first positions for its Technical team which means you can be based in Paris or anywhere else you want in Europe like 90% of our tech team.</em></p><p><em>&nbsp;We are still a young structure and we are not ready to work with people outside EU for timezone considerations but will keep you posted on that ;)***</em></p><p><strong><br>RIDE &amp; MARKETPLACE @HEETCH</strong></p><p>The mission of the Ride &amp; Marketplace team is quite simple: <strong>make passengers and drivers meet, and get there where they need to be. </strong></p><p>“Transportation is a serious business”</p><p>— Jason Statham as Frank Martin<br><br></p><p>Our team is responsible for providing the best ride experience, by building both the smoothest ordering experience, and the platform and algorithms responsible for real-time execution and online optimization of Heetch's marketplace across all our markets(matching, dynamic pricing, ETA, heatmaps)</p><p>Our impact on the business and on the experience of both passengers and drivers is unprecedented. Every ride must be reliable, efficient, and affordable, and we're building the algorithms that make that possible by optimizing supply and demand.</p><p>We have high standards and high expectations on our output, we ship fast and we scale our work for all markets.</p><p>To achieve this, we’re all working together amongst Product, Mobile &amp; Backend Devs, Design, Data Analysts &amp; Scientists, and Ops team to successfully target structural next steps, deliver, track and iterate<br><br></p><p><strong>HOW WE WORK</strong></p><p><strong>Mindset</strong></p><p>• Move fast not furious. </p><p>• Don’t be scared of failure, learn from it and try again.</p><p>• Unit and functional tests are as important as code.</p><p>• Code is always evolving we do not think in versions.</p><p>• We’re not just here to push code, product ownerships equally spread amongst the team.<br><br></p><p><strong>Tech Stack</strong></p><p>• Microservices.</p><p>• Docker with Mesos &amp; Marathon.</p><p>• We ship new services on a weekly basis (at least we try to ).</p><p>• Services owned by our teams are written in Go.</p><p>• We follow community guidelines and best practices.</p><p>• Kafka.<br><br></p><p><strong>Team Life</strong></p><p>• <strong>Work wherever you want</strong>: we’ve always been remote first but also have a shiny new office in Paris, London, Stockholm, Milan, Bruxelles and Casablanca.</p><p>• <strong>Open communication</strong>: everything is public within the team.</p><p>• <strong>You are not alone</strong>: we use Slack and video calls every day.</p><p><em>• </em><strong>Continuous improvement</strong>: weekly team retrospective and strong Speak Up value.<br><br></p><p><strong>REQUIREMENTS</strong></p><p>• Experience with microservices in production.</p><p>• +5years as a software engineer.</p><p>• Eager to learn Go.</p><p>• Exposure with real-time problematics.</p><p>• Event driven mindset.<br><br></p><p><strong>Bonus</strong></p><p>• Professional experience in Go.</p><p>• Exposure to Geo related problematics.<br><br></p><p><strong>PERKS</strong></p><p>• Stocks.</p><p>• Paid conference attendance/travel.</p><p>• Heetch credits.</p><p>• A Spotify subscription.</p><p>• Medical care.</p><p>• Code retreats and company retreats.</p><p>• Travel budget (visit your remote coworkers and our offices).</p>                    </div>                                        <h2>Benefits</h2>                            <div>                                 Full remote (in Europe only) and flexible ways of working                            </div>                            <div>                                 Paid conferences attendance/travel                            </div>                            <div>                                 Periodic team meetups                            </div>                            <div>                                 Stocks                            </div>                            <div>                                 Heetch credits                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Feb 4, 2018 1:12:53 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH2/docker",
+      "TECH2/elixir",
+      "TECH2/go",
+      "TECH2/postgresql",
+      "TECH2/ruby-on-rails",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "100% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "docker",
+      "elixir",
+      "go",
+      "postgresql",
+      "ruby-on-rails"
+    ]
+  },
+  {
+    "id": "tD_zJqgITA2Zq-txJxaIUg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/166318/go-developer-ems-software?a=TMef5wE7RSg",
+    "title": "GO Developer at EMS Software (Centennial, CO) (allows remote)",
+    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Enterprise Software</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>VC Funded</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>Leveraged by millions of users every day, EMS Software manages some of the highest profile spaces in the world (including the NASDAQ bell). We are consistently delivering new features to our suite of products. We want to tackle bigger challenges and accomplish some truly amazing things. Our team is always improving our codebase and operations footprint and we have amassed a sizeable backlog of interesting challenges and product initiatives. Our team needs to grow to enable even greater success in our industry, and that's where you come in.</p><p><strong>Responsibilities</strong></p><ul><li>As our Middle Tier developer you will be part of a 4-5 person agile development team</li><li>Your team currently develops and maintains our newly introduced middle tier in our pursuit to transform our technology stack into a multi tenant PAAS solution</li><li>You will embrace developing within our CI/CD pipeline and have the opportunity to improve it</li><li>Your code will efficiently process millions of customers bookings both in our own cloud and on premise installations</li><li>You will work with your development lead, the front end team and product management team during the identification, development and implementation of the work involved</li><li>You will work with our Quality Engineering Architect to make sure changes made are safe and assertable</li></ul><p><strong>Required Experience</strong></p><ul><li>1-3 years production Golang experience</li><li>5+ years backend/middle tier development experience</li><li>1+ years unit tests experience</li><li>1+ years of SQL experience</li><li>Experience working within an Agile SDLC process</li><li>Strong interpersonal, written, and oral communication skills</li><li>Technical documentation skills</li><li>Ability to present ideas in user-friendly language</li><li>Self-motivated and directed, with keen attention to detail</li><li>Able to prioritize and execute tasks in a high-pressure environment</li><li>Devops mentality is a PLUS</li></ul>                    </div>                            <h2>                About EMS Software            </h2>            <div><p>EMS Software offers the most comprehensive, cutting-edge platform to enable innovative work and learning environments. We make it easier to connect people with space, resources, and technology – allowing them to collaborate flawlessly, make informed business decisions, and get more out of each day.</p><p><em>EMS Software is proud to be an Equal Opportunity Employer. Applicants are considered for all positions without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, ancestry, marital or veteran status. We are committed to hiring a diverse and talented workforce, supporting integrity in the workplace and an entrepreneurial atmosphere.</em></p>            </div>                                <h2>Benefits</h2>                            <div>                                 Medical, dental and vision plans                            </div>                            <div>                                 Physical fitness reimbursement plan and on-site fitness center                            </div>                            <div>                                 Self-Directed PTO                            </div>                            <div>                                 Flexible work environment and remote work options                            </div>                            <div>                                 Competitive compensation and employer-matched 401(k) savings plan                            </div>                            <div>                                 &quot;Bug hunts,&quot; casual dress code, open floor plan, collaboration spaces                            </div>                            <div>                                 Two blocks from the Arapahoe Village Center RTD Station                            </div>                            <div>                                 Walking distance to numerous bars, restaurants and coffee shops                            </div>                    ",
+    "urlFetchPending": false,
+    "published": "Feb 4, 2018 1:12:53 PM",
+    "tags": [
+      "REMOTE1/50",
+      "TECH1/go",
+      "TECH2/backend",
+      "TECH2/go",
+      "TECH2/middle-tier",
+      "TECH2/paas",
+      "TECH2/sql",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "backend",
+      "go",
+      "middle-tier",
+      "paas",
+      "sql"
+    ]
+  },
+  {
+    "id": "-QK39G_sRc6lSUMvtfzRuQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "angel.co",
+    "url": "https://angel.co/consensys/jobs/194692-lead-software-developer-consensys-enterprise",
+    "title": "Lead Software Developer - ConsenSys Enterprise",
+    "content": "<div><h2>Lead Software Developer - ConsenSys Enterprise at ConsenSys</h2><div>Brooklyn, Remote · Full Time</div><div></div></div><div><div>Compensation</div><div>$120K–$200K<br>0.01%–0.01%</div><div>Visa Sponsorship</div><div>Available</div></div><h3>Job Description</h3><div><p>Apply Here - <a href='https://consensys.net/open-positions/?bzid=32f59ccd09da' rel='nofollow'>https://consensys.net/open-positions/?bzid=32f59ccd09da</a></p><p>Our developers envision a world where decentralized technologies play a pivotal role in transforming society. At ConsenSys Enterprise, we have been delivering blockchain software solutions to major global institutions for the past two years.</p><p>As consultants, we work on-site with our clients to ensure we’re delivering the best possible solution. Our Lead Dev plays an important role in leading these projects to success.</p><p>Curious what makes a developer a Lead within ConsenSys? A lead is:</p><p>Often the day-to-day primary point of contact with our clients</p><p>Able to strategically lead a project team to successful delivery</p><p>Excited to mentor, influence and lead a team of ConsenSys employees as well as engage and advise clients</p><p>An expert in at least one language or domain, and maybe in 2 or more</p><p>Owner of the technical recommendations to the client - both on technology/tool choices as well as architecture</p><p> </p><p>We believe that to flourish in this role, you have the following competencies::</p><p>Technical Skills</p><p>Core blockchain concepts. Blockchain is a new field of technology that is rapidly evolving. If you are not yet fully immersed in the technology, you should be willing to dive deep down the rabbit hole.</p><p>Architecture. You should be comfortable working with your team to craft a design: choosing the appropriate technology and designing a solution that both answers the problem at hand, and stays within constraints.</p><p>Coding. Our Leads never go post-technical.  We think that it’s important for technical leadership to continue to code.  Our clients don’t all work in one language or platform, and neither do we. As a lead, we’re looking for a breadth of experience in multiple languages, and expertise in one or two: Javascript is high on our list. (Other notables: Python, Java, Haskell, Golang) You should also be up to speed on practices like TDD, continuous integration, pairing, and infrastructure automation.</p><p>Understanding and often playing a major part in the entire cycle of software consulting and delivery, from ideation, to project conception, to UX, to code, to testing, to deployment, and around again.  </p><p>Agile. We believe strongly in agile delivery practices, having implemented them for ourselves and our clients to great success. You should be very comfortable working with Agile, Lean and Continuous Delivery practices -- and love it as much as we do.</p><p>Soft Skills</p><p>Mentoring a team and bringing them up to speed on new languages and skills. We all learn from each other, but with the breadth of technical experience you’ll bring to the table, you’ll be an invaluable teacher to your less-experienced peers.</p><p>Thinking big and acting fast. You’ll need a startup mentality with enterprise awareness. That means you can manage competing priorities, that you’re ready to pivot or adjust plans quickly, and that you understand the role you and your team play in major organizations’ tech strategies.</p><p>Influencing priorities, for both the team and the client. You understand both the business problem and the technical solution, and you’re able to advocate for excellence and effect change when necessary.</p><p>Finesse. As consultants, we navigate within our client’s organizations to influence big decision makers and win trust. In this job, you’ll be using your people skills as much as your coding skills. Managing client expectations and ensuring the team meets deadlines is critical.</p><p>And here are some of the perks of being part of a unique organization like ConsenSys:</p><p>The forefront of a revolution. At ConsenSys we fundamentally believe that a next generation of technologies presents the opportunity to create a more just and equitable society. We believe that there is an opportunity to bring the remaining 2 billion unbanked people into the global economy and to radically transform our society for the enrichment of humankind.</p><p>A dynamic startup environment. ConsenSys is a thought leader in the blockchain space and we are absorbing a significant portion of the mindshare. This is both exciting and challenging, as we learn to scale our organization while adhering to the principles of decentralization.</p><p>Continuous learning. You’ll be constantly exposed to new languages, frameworks and ideas from your peers and as you work on different projects -- challenging you to stay at the top of your game.</p><p>Deep technical challenges. This entire ecosystem is less than 10 years old. Ethereum itself is still a toddler. There is much work to be done before these platforms can scale to the order of millions or billions of users. ConsenSys is building the technology platforms that can get us to those next thresholds of scale.</p><p>ConsenSys was just named a Top 100 FinTech company by KPMG's 2016 Fintech Innovators report</p></div>",
+    "urlFetchPending": false,
+    "published": "Feb 3, 2018 9:40:39 PM",
+    "tags": [
+      "Brooklyn",
+      "Full Time",
+      "REMOTE1/100",
+      "Remote OK",
+      "Software Engineer",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "sBmUU0m7RFKPOgQmT6GR3Q",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16287679",
+    "title": "Circonus | Multiple Positions | Remote, Full-time | https://www.circonus.com/",
+    "content": "<div>                  <span>Circonus | Multiple Positions | Remote, Full-time | <a href='https://www.circonus.com/' rel='nofollow'>https://www.circonus.com/</a><p>Circonus is a software company that is changing the way the world monitors both IT infrastructure and the business it powers. Our SaaS and On-­Premise solutions enable companies to combine monitoring, alerting, event processing, and predictive analytics into a unified solution. Visualize any data, in any application, from any system, in real ­time.</p><p>Circonus is seeking to fill multiple roles.</p><p>* Systems Engineer <a href='https://jobs.lever.co/circonus/01f7ba3f-772d-4487-9607-32307188f9c3' rel='nofollow'>https://jobs.lever.co/circonus/01f7ba3f-772d-4487-9607-32307...</a></p><p>* Go (Golang) Senior Software Engineer <a href='https://jobs.lever.co/circonus/e2f69c78-3417-4520-864e-8a272dcec8e9' rel='nofollow'>https://jobs.lever.co/circonus/e2f69c78-3417-4520-864e-8a272...</a></p><p>* Technical Account Manager <a href='https://jobs.lever.co/circonus/5342c10c-ae13-45f6-816f-cfbee20ee252' rel='nofollow'>https://jobs.lever.co/circonus/5342c10c-ae13-45f6-816f-cfbee...</a></p><p>* Visual Designer <a href='https://jobs.lever.co/circonus/beee6767-164b-4ee0-8f13-b1663c85f335' rel='nofollow'>https://jobs.lever.co/circonus/beee6767-164b-4ee0-8f13-b1663...</a></p><p>All of our positions include a discretionary PTO policy, health insurance, gym reimbursement, a generous 401K, the opportunity for a bonus and more.</p><p>Apply directly via <a href='https://jobs.lever.co/circonus' rel='nofollow'>https://jobs.lever.co/circonus</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Feb 2, 2018 4:00:05 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "mpJvAGP_QnuemrPsOQDKVA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16286009",
+    "title": "Square: Developer Platform, San Francisco + Seattle + Remote. Full Time. ONSITE + REMOTE. VISA sponsorship.",
+    "content": "<div>                  <span>Square: Developer Platform, San Francisco + Seattle + Remote. Full Time. ONSITE + REMOTE. VISA sponsorship.<p>This is our team: Developer Platform. We are hiring! <a href='https://www.squareup.com/developers' rel='nofollow'>https://www.squareup.com/developers</a></p><p>Here are all the open positions: <a href='https://careers.smartrecruiters.com/Square/dev-platform' rel='nofollow'>https://careers.smartrecruiters.com/Square/dev-platform</a></p><p>Fullstack Engineers - we use mostly Go, Ruby, and JS and create the platform that makes Square a Platform, we also own several products, and are releasing many new primitives for devs to build businesses on top of Square</p><p>Frontend Engineers - owning eCommerce API for websites to accept payments (and do card on file) without PCI effort, dev experience, dev portal, and new not-yet-released products!</p><p>Android Engineers - opening up Square's Hardware, so anyone can build their own Point of Sale, plus new not-yet-released products!</p><p>Technical Writer for the platform - be the voice and create an industry leading dev experience</p><p>Also hiring for Product Analyst, Technical Program Manager, Product Manager, SDKs and Examples team (in Seattle).</p><p>Note we are considering remote candidates only for the Technical Writer role.</p><p>Interview process is a phone screen or two, then onsite, then offer.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Feb 1, 2018 11:20:05 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/mobile",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "go",
+      "mobile",
+      "ruby"
+    ]
+  },
+  {
+    "id": "P6zWbvaBSfa3j6Fmd3_8Ag",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16286013",
+    "title": "Kentik | Software Engineer | San Francisco | Onsite/Remote, Full-Time | kentik.com",
+    "content": "<div>                  <span>Kentik | Software Engineer | San Francisco | Onsite/Remote, Full-Time | kentik.com<p>Kentik is a database company masquerading as a network BI tool: <a href='https://www.kentik.com/inside-the-kentik-data-engine-part-1' rel='nofollow'>https://www.kentik.com/inside-the-kentik-data-engine-part-1</a>. We wrote a custom database in go, which at its heart works by taking a time range, storing all events by time-slice and then at query time querying each time segment in parallel. This is hidden behind a Postgres front end using the foreign data wrapper interface PG provides. Then we tried to sell this product and quickly realized that we need a data-visualization layer.</p><p>We're hiring someone primarily to work on our network anomaly detection product -- <a href='https://www.kentik.com/ddos-detection/' rel='nofollow'>https://www.kentik.com/ddos-detection/</a>. This would be kinda a split role, working in a React framework on the client side, node, and then a go codebase which processes traffic data, checks if there's anything to alert on, and then if so does some set of actions.</p><p><a href='https://www.kentik.com/careers' rel='nofollow'>https://www.kentik.com/careers</a> if you are interested.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Feb 1, 2018 11:20:05 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "go"
+    ]
+  },
+  {
+    "id": "Q38A0jSaRn-8d2IbWK3kgg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16285438",
+    "title": "Seed (YC W15) | Backend Engineers | Full Time | REMOTE (US Only) | https://seed.co/",
+    "content": "<div>                  <span>Seed (YC W15) | Backend Engineers | Full Time | REMOTE (US Only) | <a href='https://seed.co/' rel='nofollow'>https://seed.co/</a><p>We’re taking on the challenge of modernizing small business banking. We build beautiful, easy-to-use tools for banking, invoicing, expense tracking, and more, so our members can focus on helping their businesses thrive. Those tools also need to integrate smoothly with often-antiquated banking systems, and be bank-level secure. It’s a huge challenge, but one we enjoy tackling every day. Our customers love us, and we're just getting started.</p><p>As part of the Backend Engineering team you'd be building the core of platform, with no shortage of tough problems.</p><p>Tech Stack: Golang, Docker, AWS, Terraform &amp; Packer for Ops.</p><p>We are a fully remote team and constantly use Slack/Zoom/Github to keep in touch.</p><p>Process:</p><p>Phone intro, phone screen, technical interview with the team (either onsite in Portland/San Fran or remote), decision. We strive to complete this process within 2 weeks if a candidates schedule permits.</p><p>Apply: <a href='https://seed.co/jobs/' rel='nofollow'>https://seed.co/jobs/</a></p><p>Feel free to reach out to me at benji at seed.co if you have any questions.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Feb 1, 2018 10:17:05 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "PI4gJ5fTSUacZVnbHJLKRA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16283822",
+    "title": "AdRoll | San Francisco | On-site/remote | Full-time If you like developing open-source code, languages such as Python, Go, JS, ...",
+    "content": "<div>                  <span>AdRoll | San Francisco | On-site/remote | Full-time<p>If you like developing open-source code, languages such as Python, Go, JS, C, D, Lua, Erlang, AWS, petabytes of data, and distributed low-latency systems, this may be your dream job.</p><p>This time we are particularly interested in finding full stack web developers with good JavaScript experience and experienced developers, tech leads and data scientists with great math knowledge and coding skills. This is a really unique opportunity to get to work with a massive scale (thousands of instances on AWS), low latency (real-time bidding with 100ms max latency and 70B requests daily, real-time machine learning with 1ms max latency), mission-critical systems (this is how we make money) and enjoy working on a strong frontend development team (<a href='http://tech.adroll.com/blog/frontend/2017/08/29/how-to-run-a...' rel='nofollow'>http://tech.adroll.com/blog/frontend/2017/08/29/how-to-run-a...</a>).</p><p>Learn more about us here <a href='http://tech.adroll.com/blog/' rel='nofollow'>http://tech.adroll.com/blog/</a></p><p>I am happy to tell you more over coffee in SF or by email, dialtone@adroll.com<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Feb 1, 2018 7:39:04 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/go",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "c",
+      "go",
+      "other"
+    ]
+  },
+  {
+    "id": "EzPV2MtdSeK6p9E-1pIWXA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "wfh.io",
+    "url": "https://www.wfh.io/jobs/4113-lead-software-engineer-go-status",
+    "title": "Lead Software Engineer - Go @ Status",
+    "content": "<h2>              Lead Software Engineer  - Go<small> @ Status</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-01-25 22:28</p></dd>          <dt><span>Description</span></dt>          <dd><p><strong>Status</strong></p><p>Status is a fast growing, completely decentralized startup developing powerful DApps (decentralized apps) for Ethereum that change the way we do things on the web. To do this we need passionate, talented &amp; self-motivated candidates to join our global decentralized team.</p><p>As a product, Status is an open source discovery tool for Ethereum that makes it easy for anyone to access DApps and services built on the decentralized web. Status also allows users to chat, make payments and more, securely using Ethereum’s protocols.</p><p><strong>Opportunity</strong></p><p>It’s still just the beginning, but the promise of Web 3.0 and Ethereum is here to stay. Our secret weapon is having passionate people on a mission to develop the gateway into this new world. If you want to be part of this adventure, join our disruptive distributed global team</p><p><strong>Job role</strong></p><p>You will lead the team that will improve the Go implementation of Whisper.</p><p>Whisper is a communication protocol, and your team’s challenge will be to make it more robust and tackle the low-bandwidth and unpredictable latency associated with this protocol in a decentralized environment.</p><p>More information here: <a href='https://github.com/ethereum/wiki/wiki/Whisper' rel='nofollow'>https://github.com/ethereum/wiki/wiki/Whisper</a></p><p><strong>Responsibilities</strong></p><ul><li>Deliver high-quality services into production in short sprint cycles</li><li>Ensure strong cooperation among your team and with other teams across the company.</li><li>Allocate tasks, responsibilities, and priorities among your team</li><li>Own responsibility for the performance of your team.</li><li>Onboard and train new members of your team</li><li>Independently design, build, maintain and take on ownership of complex software modules and services</li><li>Shape, facilitate and survey coding guidelines and quality standards</li><li>Support and coach Junior and Professional engineers to expedite their development</li><li>Set up complex development, test and production environments</li></ul><p><strong>Requirements</strong></p><ul><li>7+ years experience building complex applications</li><li>Hands-on experience with Go</li><li>3+ years experience leading teams</li><li>You must be comfortable working with an existing codebase</li><li>Operational experience working with teams, in delegation and prioritization</li><li>You are excited by P2P technologies and cryptocurrencies</li><li>Strong software engineering practices</li><li>Ability to pick up new technologies quickly</li><li>Fluency in written and spoken English</li><li>Excellent people skills, ability to coach, experience in conflict resolution.</li><li>In-depth knowledge of staff development &amp; performance management.</li><li>Confidence in driving architectural decisions</li><li>Excellent communication skills in terms of moderating dialogues and managing conflicts</li></ul><p><strong>Working at Status</strong></p><p>Status is a decentralized organization. You will not have a boss, a work schedule, or vacation limits. What you will have is responsibility to your collaborators to do your best, keep up with your responsibilities, and support your team's priorities. At Status we are all working toward the goal of expanding and supporting the Ethereum space.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
+    "urlFetchPending": false,
+    "published": "Jan 26, 2018 12:28:01 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "pQqy1eMQSHuyhamELkkacg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "wfh.io",
+    "url": "https://www.wfh.io/jobs/4091-go-backend-developer-blockchain-loom-network",
+    "title": "Go Backend Developer - Blockchain @ Loom Network",
+    "content": "<h2>              Go Backend Developer - Blockchain<small> @ Loom Network</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-01-10 03:36</p></dd>          <dt><span>Description</span></dt>          <dd><p>Loom Network makers of <a href='http://cryptozombies.io' rel='nofollow'>Cryptozombies</a> is looking for Senior backend Go developers.  We are building blockchain infrastructure software in Go. This is high performance distributed programming, knowledge of things like Raft, Consensus or Blockchain tech is ideal. Any experience with Solidity is a bonus.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere*</p></dd>            <dt><span>Location</span></dt>            <dd><p>GMT+7 or other Asian timezones</p></dd>        </dl>",
+    "urlFetchPending": false,
+    "published": "Jan 10, 2018 5:28:11 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "100% remote"
+    ],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
     "id": "_e-kNEOsS9OSNX2Zx1OeGg",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -13,11 +402,6 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 6:00:06 AM",
     "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:go-developer/go/13",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=16, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
       "TITLE1/dev",
@@ -43,15 +427,6 @@
     "urlFetchPending": false,
     "published": "Jan 3, 2018 3:59:35 AM",
     "tags": [
-      "DBG:surround``2W(100, remot)",
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:golang/go/24",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=30, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
       "TITLE1/dev",
@@ -77,14 +452,6 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 11:00:26 PM",
     "tags": [
-      "DBG:surround``2W(100, remot)",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:golang/go/32",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=38, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
       "TITLE1/dev",
@@ -110,15 +477,6 @@
     "urlFetchPending": false,
     "published": "Jan 2, 2018 10:04:20 PM",
     "tags": [
-      "DBG:surround``2W(100, remot)",
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:golang/go/24",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=30, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
       "TITLE1/dev",
@@ -144,21 +502,9 @@
     "urlFetchPending": false,
     "published": "Jan 1, 2018 5:18:39 PM",
     "tags": [
-      "DBG:surround``remot W ok",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=11, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=10}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TECH1/go",
-      "TECH2/css",
-      "TECH2/go",
-      "TECH2/html",
-      "TECH2/javascript",
-      "TECH2/reactjs",
       "TITLE1/dev",
       "TZ/unknown"
     ],
@@ -166,12 +512,8 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "css",
       "frontend",
-      "go",
-      "html",
-      "javascript",
-      "reactjs"
+      "go"
     ]
   },
   {
@@ -187,10 +529,6 @@
     "urlFetchPending": false,
     "published": "Dec 23, 2017 4:01:18 AM",
     "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
       "TITLE1/dev",
@@ -216,9 +554,6 @@
     "urlFetchPending": false,
     "published": "Dec 23, 2017 4:01:18 AM",
     "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/go",
       "TITLE1/dev",
@@ -244,11 +579,6 @@
     "urlFetchPending": false,
     "published": "Dec 23, 2017 3:50:11 AM",
     "tags": [
-      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
-      "DBG_TECH1:k/t/w:go/go/9",
-      "DBG_TECH1:k/t/w:javascript/frontend/3",
-      "DBG_TECH1:k/t/w:javascript/nodejs/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=9, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=3}",
       "REMOTE1/100",
       "TECH1/go",
       "TITLE1/dev",
@@ -274,15 +604,6 @@
     "urlFetchPending": false,
     "published": "Dec 13, 2017 6:55:04 PM",
     "tags": [
-      "DBG:surround``headquart 3N remot",
-      "DBG_TECH1:k/t/w:clojurescript/other/5",
-      "DBG_TECH1:k/t/w:go/go/15",
-      "DBG_TECH1:k/t/w:golang/go/32",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=47, nodejs=1, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1/100",
       "TECH1/go",
       "TITLE1/dev",
@@ -308,16 +629,8 @@
     "urlFetchPending": false,
     "published": "Dec 12, 2017 10:59:50 PM",
     "tags": [
-      "DBG:surround``OR(countri, locat) 3W remot",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:go-developer/go/39",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:golang/go/64",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=106, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/go",
-      "TECH2/go",
-      "TECH2/microservices",
       "TITLE1/dev",
       "TZ/unknown"
     ],
@@ -325,8 +638,7 @@
       "100% remote"
     ],
     "tagsNames2": [
-      "go",
-      "microservices"
+      "go"
     ]
   },
   {
@@ -342,19 +654,9 @@
     "urlFetchPending": false,
     "published": "Dec 9, 2017 11:13:54 PM",
     "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1/100",
       "TECH1/go",
       "TECH1/ruby",
-      "TECH2/go",
-      "TECH2/javascript",
-      "TECH2/ruby",
-      "TECH2/ruby-on-rails",
       "TITLE1/dev",
       "TZ/unknown"
     ],
@@ -363,9 +665,7 @@
     ],
     "tagsNames2": [
       "go",
-      "javascript",
-      "ruby",
-      "ruby-on-rails"
+      "ruby"
     ]
   },
   {
@@ -381,9 +681,6 @@
     "urlFetchPending": false,
     "published": "Dec 7, 2017 12:41:09 AM",
     "tags": [
-      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/go",
       "TITLE1/dev",
@@ -391,926 +688,6 @@
     ],
     "tagsNames1": [
       "50% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "VnB_T8yeRwWVNJmzj3FgrQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-programming",
-    "url": "https://weworkremotely.com/jobs/5883-salesforce-developer",
-    "title": "X-Team: Salesforce Developer",
-    "content": "<div>  <div>    <h2>Salesforce Developer</h2>      <h4>Posted Dec  4</h4>    <h3>      <span>X-Team</span><br>      <span>Headquarters: Remote</span><br>        <a href='https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17' rel='nofollow'>https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17</a>    </h3>  </div>    </div>  <div>    <div><b>About X-Team</b></div><div><br></div><div>“Motivated developers, ready to join your team.”</div><div><br></div><div>X-Team is an international company founded in Melbourne, Australia that helps companies scale their development teams by providing them with extraordinary developers from around the world.</div><div><br></div><div>We are 100% remote and believe in building a world where developers can have access to an environment of growth and incredible opportunities regardless of where they live. Our culture is based around the proactive, selfless values that make up every X-Teamer.</div><div><br></div><div>We are a community of people dedicated to unleashing our potential every day. Learn more about how we can help you learn and grow at https://x-team.com/unleash/</div><div><br></div><div><b>About You:</b></div><div>The right individual will be self-driven. Someone who cares about maintainability of the code, automation, deployment processes and how to enable innovation through fostering a growing culture of Open Source. You will go beyond just coding and help to shape the engineering culture and best practices.</div><div><br></div><div><b>Most important:</b></div><div>- Strong knowledge of Salesforce functional and technical best practices and methodologies.</div><div>- Experience in creating Salesforce technical designs, configuration setup and APEX.</div><div>- Experience with SFDC implementation techniques.</div><div>- Salesforce Certified Administrator and/or Salesforce Certified Developer.</div><div><br></div><div><b>Nice to have:</b></div><div>- Experience with working remotely</div><div>- Familiar/involved with open­ source projects</div><div><br></div><div><b>Personal:</b></div><div>- Independent, self-motivated</div><div>- Fluent in English, written and spoken</div><div>- Proven track record of always learning and growing.</div><div>- Proactive attitude</div><div>- Possess a spirit of generosity</div><div><br></div><div><b>Benefits:</b></div><div>- Get the chance to work with big brands like Riot Games, Fox Broadcasting, Kaplan Inc., etc.</div><div>- Live and work in one of our roaming hacker houses (X-Outposts) around the world.</div><div>- Work from anywhere as part of a community of digital nomads.</div><div>- Join our vibrant community, filled with opportunities to join engaging engineering roundtable discussions, AMAs, gaming clubs, LAN parties, charitable fundraisers, fitness programs (+gym membership), etc. This is the community to be in if you're a remote developer.</div><div>- We’ll provide up to $2,500 in funding for your learning and growth through our Unleash program, which provides opportunities to unleash your potential through initiatives that help you grow as a developer and explore your passions more each day. (http://x-team.com/unleash)</div><div><br></div><div><b>FAQ:</b></div><div>Who is X-Team meant for?</div><div>- Any freelance developers with experience working on high-scale, remote teams and projects with a motivated, proactive attitude and compassionate, team-player heart. If you've worked with freelancing platforms before, that's not what we are. X-Team is a community of all likeminded people, carefully chosen to ensure we are able to create an environment of the most motivated people in the world who come together to unleash their potential. What we've created is truly special and not a faceless platform. X-Team is where developers go to feel truly at home together, while becoming more motivated than they've ever been.</div><div><br></div><div>What are you hiring for right now?</div><div>- We are hiring for PHP developers to fill some exciting new opportunities we have. We're also hiring for a variety of other skills, such as React, React Native, Cryptocurrency/blockchain, Node.js, Salesforce, DevOps, and Golang.</div><div><br></div><div>Will I get a job immediately after applying?</div><div>- If your skills, experience and values align with a current opening we have, your chances of getting hired immediately are high. If we discover you're qualified but all opportunities have been taken, we'll continue to work with you to help you get a role in X-Team. The key is having the most relevant, in-demand skills when you apply.</div><div><br></div><div>What kind of opportunities do you provide?</div><div>- We provide full-time opportunities that last, on average, for 10 months. After your role ends (and so long as you've performed well), we continue to give you work internally with us until we find you a new opportunity. This ensures that X-Team can be a stable work option for you as a freelancer.</div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Apply here: <a href='https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17' rel='nofollow'>https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Dec 5, 2017 1:35:37 AM",
-    "tags": [
-      "DBG:surround``2W(100, remot)",
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:reactjs/frontend/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=14, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=16}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "go",
-      "nodejs"
-    ]
-  },
-  {
-    "id": "ZgXgmCfPQYKm8UYXsypvQA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63432",
-    "title": "Salesforce Developer",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><div><b>About X-Team</b></div><div><br></div><div>“Motivated developers, ready to join your team.”</div><div><br></div><div>X-Team is an international company founded in Melbourne, Australia that helps companies scale their development teams by providing them with extraordinary developers from around the world.</div><div><br></div><div>We are 100% remote and believe in building a world where developers can have access to an environment of growth and incredible opportunities regardless of where they live. Our culture is based around the proactive, selfless values that make up every X-Teamer.</div><div><br></div><div>We are a community of people dedicated to unleashing our potential every day. Learn more about how we can help you learn and grow at https://x-team.com/unleash/</div><div><br></div><div><b>About You:</b></div><div>The right individual will be self-driven. Someone who cares about maintainability of the code, automation, deployment processes and how to enable innovation through fostering a growing culture of Open Source. You will go beyond just coding and help to shape the engineering culture and best practices.</div><div><br></div><div><b>Most important:</b></div><div>- Strong knowledge of Salesforce functional and technical best practices and methodologies.</div><div>- Experience in creating Salesforce technical designs, configuration setup and APEX.</div><div>- Experience with SFDC implementation techniques.</div><div>- Salesforce Certified Administrator and/or Salesforce Certified Developer.</div><div><br></div><div><b>Nice to have:</b></div><div>- Experience with working remotely</div><div>- Familiar/involved with open­ source projects</div><div><br></div><div><b>Personal:</b></div><div>- Independent, self-motivated</div><div>- Fluent in English, written and spoken</div><div>- Proven track record of always learning and growing.</div><div>- Proactive attitude</div><div>- Possess a spirit of generosity</div><div><br></div><div><b>Benefits:</b></div><div>- Get the chance to work with big brands like Riot Games, Fox Broadcasting, Kaplan Inc., etc.</div><div>- Live and work in one of our roaming hacker houses (X-Outposts) around the world.</div><div>- Work from anywhere as part of a community of digital nomads.</div><div>- Join our vibrant community, filled with opportunities to join engaging engineering roundtable discussions, AMAs, gaming clubs, LAN parties, charitable fundraisers, fitness programs (+gym membership), etc. This is the community to be in if you're a remote developer.</div><div>- We’ll provide up to $2,500 in funding for your learning and growth through our Unleash program, which provides opportunities to unleash your potential through initiatives that help you grow as a developer and explore your passions more each day. (http://x-team.com/unleash)</div><div><br></div><div><b>FAQ:</b></div><div>Who is X-Team meant for?</div><div>- Any freelance developers with experience working on high-scale, remote teams and projects with a motivated, proactive attitude and compassionate, team-player heart. If you've worked with freelancing platforms before, that's not what we are. X-Team is a community of all likeminded people, carefully chosen to ensure we are able to create an environment of the most motivated people in the world who come together to unleash their potential. What we've created is truly special and not a faceless platform. X-Team is where developers go to feel truly at home together, while becoming more motivated than they've ever been.</div><div><br></div><div>What are you hiring for right now?</div><div>- We are hiring for PHP developers to fill some exciting new opportunities we have. We're also hiring for a variety of other skills, such as React, React Native, Cryptocurrency/blockchain, Node.js, Salesforce, DevOps, and Golang.</div><div><br></div><div>Will I get a job immediately after applying?</div><div>- If your skills, experience and values align with a current opening we have, your chances of getting hired immediately are high. If we discover you're qualified but all opportunities have been taken, we'll continue to work with you to help you get a role in X-Team. The key is having the most relevant, in-demand skills when you apply.</div><div><br></div><div>What kind of opportunities do you provide?</div><div>- We provide full-time opportunities that last, on average, for 10 months. After your role ends (and so long as you've performed well), we continue to give you work internally with us until we find you a new opportunity. This ensures that X-Team can be a stable work option for you as a freelancer.</div><div><br></div><p><strong>To apply:</strong> Apply here: <a href='https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17' rel='nofollow'>https://x-team.com/remote-salesforce-developer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q2-17</a></p></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Dec 5, 2017 1:35:37 AM",
-    "tags": [
-      "DBG:surround``2W(100, remot)",
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:reactjs/frontend/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=14, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=16}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "go",
-      "nodejs"
-    ]
-  },
-  {
-    "id": "ExBUiZCWRZ6dgxsRMmSx5Q",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-programming",
-    "url": "https://weworkremotely.com/jobs/5878-software-engineer-terraform",
-    "title": "HashiCorp: Software Engineer - Terraform",
-    "content": "<div>  <div>    <h2>Software Engineer - Terraform</h2>      <h4>Posted Dec  4</h4>    <h3>      <span>HashiCorp</span><br>      <span>Headquarters: San Francisco</span><br>        <a href='https://www.hashicorp.com/jobs/766376' rel='nofollow'>https://www.hashicorp.com/jobs/766376</a>    </h3>  </div>    </div>  <div>    <div></div><div><a href='https://www.hashicorp.com/' rel='nofollow'>HashiCorp</a><span>&nbsp;builds devops tools for modern applications. We build open source tools, and enterprise products on top of them. The HashiCorp suite empowers organizations to provision hybrid cloud infrastructure, secure secrets across distributed applications, and run dynamic resources.</span></div><div><span>At HashiCorp, we value top-notch collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise level customers.</span></div><div><span>Engineering at HashiCorp is largely a remote team. While prior experience working remotely isn't required, we are looking for team members who perform well given a high level of independence and autonomy.</span></div><div><span>HashiCorp’s Terraform is an open source project that enables you to safely and predictably create, change, and improve production infrastructure via the CLI. It codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</span></div><div><span>We want you to contribute to development and maintenance of&nbsp;</span><a href='https://github.com/terraform-providers' rel='nofollow'>Terraform Providers</a><span>&nbsp;in tight collaboration with the large and growing Terraform community, utilizing operations and engineering skills to work across a diverse set of infrastructure providers.</span></div><div><span>&nbsp;</span></div><div><strong>In this role, you can expect to:</strong></div><ul><li><span>Support integrations with new and existing infrastructure providers</span></li><li><span>Help support open source contributors, new and seasoned, with supportive and constructive code review, documentation improvements, and workflow changes</span></li><li><span>Advocate and support improvements to Terraform APIs and core to improve development and integration of providers</span></li><li><span>Work on issues and improvements in Terraform Providers critical to the success of HashiCorp customers and the broader community</span></li></ul><div><span>&nbsp;</span></div><div><strong>You may be a good fit for our team if:</strong></div><ul><li><span>You have experience in a lower-level language like Go</span></li><li><span>You have experience with customer support or OSS community support to help interface with the Terraform community</span></li><li><span>You have experience operating and maintaining production systems in a Linux and public cloud environment</span></li><li><span>You are familiar with infrastructure management concepts and ecosystem</span></li><li><span>You have experience using Terraform</span></li></ul><div><span>In your cover letter, please describe why you're passionate about working at HashiCorp, and on the Terraform team in particular.</span></div><div><span>At HashiCorp, we are committed to hiring and cultivating a diverse team. If you are on the fence about whether you would be successful working with us, please apply anyway!</span></div><div><span>#LI-WM1&nbsp;</span></div><div></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Apply via the website, to get into our tracking system.</p>  </div>",
-    "urlFetchPending": false,
-    "published": "Dec 4, 2017 7:42:35 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "XYKskm6yTbCL8GLZZjDBmQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63418",
-    "title": "Software Engineer - Terraform",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><div></div><div><a href='https://www.hashicorp.com/' rel='nofollow'>HashiCorp</a><span>&nbsp;builds devops tools for modern applications. We build open source tools, and enterprise products on top of them. The HashiCorp suite empowers organizations to provision hybrid cloud infrastructure, secure secrets across distributed applications, and run dynamic resources.</span></div><div><span>At HashiCorp, we value top-notch collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise level customers.</span></div><div><span>Engineering at HashiCorp is largely a remote team. While prior experience working remotely isn't required, we are looking for team members who perform well given a high level of independence and autonomy.</span></div><div><span>HashiCorp’s Terraform is an open source project that enables you to safely and predictably create, change, and improve production infrastructure via the CLI. It codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</span></div><div><span>We want you to contribute to development and maintenance of&nbsp;</span><a href='https://github.com/terraform-providers' rel='nofollow'>Terraform Providers</a><span>&nbsp;in tight collaboration with the large and growing Terraform community, utilizing operations and engineering skills to work across a diverse set of infrastructure providers.</span></div><div><span>&nbsp;</span></div><div><strong>In this role, you can expect to:</strong></div><ul><li><span>Support integrations with new and existing infrastructure providers</span></li><li><span>Help support open source contributors, new and seasoned, with supportive and constructive code review, documentation improvements, and workflow changes</span></li><li><span>Advocate and support improvements to Terraform APIs and core to improve development and integration of providers</span></li><li><span>Work on issues and improvements in Terraform Providers critical to the success of HashiCorp customers and the broader community</span></li></ul><div><span>&nbsp;</span></div><div><strong>You may be a good fit for our team if:</strong></div><ul><li><span>You have experience in a lower-level language like Go</span></li><li><span>You have experience with customer support or OSS community support to help interface with the Terraform community</span></li><li><span>You have experience operating and maintaining production systems in a Linux and public cloud environment</span></li><li><span>You are familiar with infrastructure management concepts and ecosystem</span></li><li><span>You have experience using Terraform</span></li></ul><div><span>In your cover letter, please describe why you're passionate about working at HashiCorp, and on the Terraform team in particular.</span></div><div><span>At HashiCorp, we are committed to hiring and cultivating a diverse team. If you are on the fence about whether you would be successful working with us, please apply anyway!</span></div><div><span>#LI-WM1&nbsp;</span></div><div></div><p><strong>To apply:</strong> Apply via the website, to get into our tracking system.</p></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Dec 4, 2017 7:42:35 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "TELEydc_Q7KJKVx6sQDeZg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "hackernews",
-    "url": "https://news.ycombinator.com/item?id=15844816",
-    "title": "Canonical | Software Engineer | Full Time | REMOTE Canonical is the company behind Ubuntu Linux. We are a globally distributed team ...",
-    "content": "<div>                  <span>Canonical | Software Engineer | Full Time | REMOTE<p>Canonical is the company behind Ubuntu Linux. We are a globally distributed team passionate about open source. We're looking for python/go developer who has devops experience and a test/QA passion to join our juju engineering team. Juju is a modeling and software orchestration tool that is capable of deploying to clouds, containers or bare metal.</p><p>More details and apply here: <a href='https://ldd.tbe.taleo.net/ldd03/ats/careers/requisition.jsp?org=CANONICAL&amp;cws=1&amp;rid=1320' rel='nofollow'>https://ldd.tbe.taleo.net/ldd03/ats/careers/requisition.jsp?...</a><span>              </span></p><div>        <p>                        </p></div></span></div>",
-    "urlFetchPending": false,
-    "published": "Dec 4, 2017 6:02:12 PM",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:go-developer/go/13",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=16, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "ONxSJC-TS-yV9hijGLKbxA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "hackernews",
-    "url": "https://news.ycombinator.com/item?id=15839634",
-    "title": "Status | Multiple Positions - Clojure and Go Software Engineers | REMOTE, Full-time",
-    "content": "<div>                  <span>Status | Multiple Positions - Clojure and Go Software Engineers | REMOTE, Full-time<p>Status (<a href='https://status.im' rel='nofollow'>https://status.im</a>)</p><p>Status is building powerful decentralized apps on Ethereum that change the way we do things on the web. As a product, Status is an open source discovery tool for the Ethereum blockchain that makes it easy for anyone to access apps and services built on the decentralized web. Status also allows users to browse, chat, make payments and more.</p><p>Roles:</p><p>- We are looking for a Go Developer, preferably with experience in cross-compilation (XGO) and GoMobile and a Clojure (Script) Developer, preferably with experience in React Native and re-frame.</p><p>Working at Status:</p><p>- Status is a decentralized organization. You will not have a boss, a work schedule, or vacation limits. What you will have is responsibility to your collaborators to do your best, keep up with your responsibilities, and support your team's priorities. At Status we are all working toward the goal of expanding and supporting the Ethereum space.</p><p>For full job descriptions, requirements and instructions to apply please visit the following links -</p><p>- Clojure Engineer: <a href='http://grnh.se/mpj1tl1' rel='nofollow'>http://grnh.se/mpj1tl1</a> - Go Engineer: <a href='http://grnh.se/lhaf6g1' rel='nofollow'>http://grnh.se/lhaf6g1</a></p><p>For any questions please contact me at - jason.foote@status.im<span>              </span></p><div>        <p>                        </p></div></span></div>",
-    "urlFetchPending": false,
-    "published": "Dec 3, 2017 11:17:05 PM",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:clojure/other/20",
-      "DBG_TECH1:k/t/w:go-developer/go/26",
-      "DBG_TECH1:k/t/w:go/go/9",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=35, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "RFKr-BwmSUmn_ao4IjkcDA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "hackernews",
-    "url": "https://news.ycombinator.com/item?id=15825249",
-    "title": "Chatlio | Senior Software Engineer Golang | Remote only | HQ in Seattle Chatlio (https://chatlio.com/) is live-chat software that allows ...",
-    "content": "<div>                  <span>Chatlio | Senior Software Engineer Golang | Remote only | HQ in Seattle<p>Chatlio (<a href='https://chatlio.com/' rel='nofollow'>https://chatlio.com/</a>) is live-chat software that allows you to chat with your sites visitors and customers directly from Slack.  We are small and seeking someone with strong golang skills and enjoys working remotely with small team.</p><p>details =&gt; <a href='https://chatlio.com/jobs/#senior-golang-engineer' rel='nofollow'>https://chatlio.com/jobs/#senior-golang-engineer</a> Mention HN on your email if you apply :)<span>              </span></p><div>        <p>                        </p></div></span></div>",
-    "urlFetchPending": false,
-    "published": "Dec 1, 2017 7:11:17 PM",
-    "tags": [
-      "DBG:surround``headquart 3N remot",
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:golang/go/24",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=24, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "I1qcoiEESaGDhu1IpN9YEw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/3998-software-engineer-integrations-f-m-chartmogul",
-    "title": "Software Engineer - Integrations (f/m) @ ChartMogul",
-    "content": "<h2>              Software Engineer - Integrations (f/m)<small> @ ChartMogul</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-11-23 20:19</p></dd>          <dt><span>Description</span></dt>          <dd><p>One of ChartMogul's engineering challenges is building and maintaining a large number of third-party integrations which our customers rely on - from Stripe, Braintree and Recurly (and 9 others) who manage our customers' billing, to other services like Clearbit and Intercom which let our customers enrich their data further. And as we grow, we're going to build even more integrations.</p><p>The Software Engineer - Integrations will be responsible for building and maintaining integrations with ChartMogul. It's a position with end-to-end responsibility to design, build, launch and support integrations that you build in collaboration with Product Management. Some new integrations in the pipeline are with Salesforce, Slack, Segment, and Shopify. We also plan to upgrade some of our existing integrations like the one with PayPal.</p><p>This is a full-time remote position.</p><p><strong>Requirements</strong></p><ul><li>Several years experience building and maintaining high availability web software.</li><li>You're comfortable developing and deploying in a micro-services environment.</li><li>You have extensive experience working with different kinds of APIs.</li><li>Experience in Ruby or Python and at least one other language.</li><li>Experience working on multiple simultaneous projects.</li><li>Fluent, professional English.</li></ul><p><strong>Nice to have</strong></p><ul><li>Exposure to e-commerce, billing systems, or subscriptions.</li><li>Experience working as a remote software engineer.</li><li>Experience with the Go programming language.</li><li>Prior experience with the ChartMogul API.</li></ul></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Nov 23, 2017 10:19:14 PM",
-    "tags": [
-      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/python",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "python",
-      "ruby"
-    ]
-  },
-  {
-    "id": "oNHXXx3JRomzNmsnFrEQMA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63262",
-    "title": "Software Engineer Integrations",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>One of ChartMogul's engineering challenges is building and maintaining a large number of third-party integrations which our customers rely on - from Stripe, Braintree and Recurly (and 9 others) who manage our customers' billing, to other services like Clearbit and Intercom which let our customers enrich their data further. And as we grow, we're going to build even more integrations.<br><br>The Software Engineer - Integrations will be responsible for building and maintaining integrations with ChartMogul. It's a position with end-to-end responsibility to design, build, launch and support integrations that you build in collaboration with Product Management. Some new integrations in the pipeline are with Salesforce, Slack, Segment, and Shopify. We also plan to upgrade some of our existing integrations like the one with PayPal.<br><br>This is a full-time remote position.<br><br><strong>Requirements</strong><br><br></p><ul><li>Several years experience building and maintaining high availability web software.<br></li><li>You're comfortable developing and deploying in a micro-services environment.<br></li><li>You have extensive experience working with different kinds of APIs.<br></li><li>Experience in Ruby or Python and at least one other language.<br></li><li>Experience working on multiple simultaneous projects.<br></li><li>Fluent, professional English.<br><br><strong>Nice to have</strong><br><br></li><li>Exposure to e-commerce, billing systems, or subscriptions.<br></li><li>Experience working as a remote software engineer.<br></li><li>Experience with the Go programming language.<br></li><li>Prior experience with the ChartMogul API.</li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Nov 23, 2017 10:19:14 PM",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/python",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "python",
-      "ruby"
-    ]
-  },
-  {
-    "id": "1n1jbZylSCawjRa-zz_fWQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/3992-senior-software-developer-golang-curoverse",
-    "title": "Senior Software Developer (Golang) @ Curoverse",
-    "content": "<h2>              Senior Software Developer (Golang)<small> @ Curoverse</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-11-23 19:55</p></dd>          <dt><span>Description</span></dt>          <dd><p>Accelerate data science by building the free software platform for verifiable large scale computation.</p><p><strong>JOB DESCRIPTION</strong></p><p>At Curoverse , you'll work on a small team of senior software developers to build the Arvados platform and the Curoverse products that are based on Arvados.</p><p><strong>RESPONSIBILITIES</strong></p><ul><li>Program in Golang, Javascript, Python, Ruby</li><li>Work on hard distributed computing problems</li><li>Use scrum in an agile, self-managed team of peers</li><li>Develop big-data storage and analytical systems</li><li>Help create a massive, in-memory, real-time query engine</li><li>Contribute to a free/open source platform and community</li></ul><p><strong>WE'RE LOOKING FOR SOMEONE WHO...</strong></p><ul><li>Has a solid background in Golang</li><li>Loves writing and improving code</li><li>Works well in a small team of peers</li><li>Has used multiple programming languages to build production systems</li><li>Has substantial experience contributing to free software projects</li><li>Has experience with big data and distributed computing systems</li><li>Can work in a fast-paced startup environment</li></ul><p><strong>OUR STACK</strong></p><p>Some of the technologies we use: Debian, Ubuntu, CentOS, Docker, Git, Golang, Javascript, Jenkins, jQuery, Nginx, PostgreSQL, Python, Puppet, Rails, Ruby, Twitter Bootstrap.</p><p><strong>WHY WORK HERE</strong></p><ul><li>Work that matters - Build software that will be the backbone of modern medicine.</li><li>Hard problems - Solve software engineering problems in distributed computing and big data.</li><li>Diverse tasks - We have a small team with a big project, so you won't be stuck working in some corner.</li><li>Free software - Your code will be released under AGPLv3 / Apache 2.0.</li><li>Sustainable lifestyle - Do great work and have time and energy for the other things life has to offer.</li><li>Convenient office location - Our office is right in Davis Square, Somerville.</li></ul><p><strong>COMPENSATION</strong></p><p>We offer competitive salaries, stock options, health/dental/vision, flexible time off, and other benefits.</p><p><strong>LOCATION</strong></p><p>We prefer candidates who are based in the Boston area or can relocate, but we are open to remote employees. </p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Nov 23, 2017 9:55:24 PM",
-    "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
-      "DBG_TECH1:k/t/w:backbone.js/frontend/8",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/24",
-      "DBG_TECH1:k/t/w:golang/go/40",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/4",
-      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=40, nodejs=2, bigdata-ml=32, ruby=12, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=26}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "go"
-    ]
-  },
-  {
-    "id": "Gh3fQE86T82ByXYSnb99JA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/63256",
-    "title": "Senior Software Developer",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>Accelerate data science by building the free software platform for verifiable large scale computation.<br><br><strong>JOB DESCRIPTION</strong><br><br>At Curoverse , you'll work on a small team of senior software developers to build the Arvados platform and the Curoverse products that are based on Arvados.<br><br><strong>RESPONSIBILITIES</strong><br><br></p><ul><li>Program in Golang, Javascript, Python, Ruby<br></li><li>Work on hard distributed computing problems<br></li><li>Use scrum in an agile, self-managed team of peers<br></li><li>Develop big-data storage and analytical systems<br></li><li>Help create a massive, in-memory, real-time query engine<br></li><li>Contribute to a free/open source platform and community<br><br><strong>WE'RE LOOKING FOR SOMEONE WHO...</strong><br><br></li><li>Has a solid background in Golang<br></li><li>Loves writing and improving code<br></li><li>Works well in a small team of peers<br></li><li>Has used multiple programming languages to build production systems<br></li><li>Has substantial experience contributing to free software projects<br></li><li>Has experience with big data and distributed computing systems<br></li><li>Can work in a fast-paced startup environment<br><br><strong>OUR STACK</strong><br><br>Some of the technologies we use: Debian, Ubuntu, CentOS, Docker, Git, Golang, Javascript, Jenkins, jQuery, Nginx, PostgreSQL, Python, Puppet, Rails, Ruby, Twitter Bootstrap.<br><br><strong>WHY WORK HERE</strong><br><br></li><li>Work that matters - Build software that will be the backbone of modern medicine.<br></li><li>Hard problems - Solve software engineering problems in distributed computing and big data.<br></li><li>Diverse tasks - We have a small team with a big project, so you won't be stuck working in some corner.<br></li><li>Free software - Your code will be released under AGPLv3 / Apache 2.0.<br></li><li>Sustainable lifestyle - Do great work and have time and energy for the other things life has to offer.<br></li><li>Convenient office location - Our office is right in Davis Square, Somerville.<br><br><strong>COMPENSATION</strong><br><br>We offer competitive salaries, stock options, health/dental/vision, flexible time off, and other benefits.<br><br><strong>LOCATION</strong><br><br>We prefer candidates who are based in the Boston area or can relocate, but we are open to remote employees. </li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Nov 23, 2017 9:55:24 PM",
-    "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG_TECH1:k/t/w:backbone.js/frontend/8",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/24",
-      "DBG_TECH1:k/t/w:golang/go/24",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/4",
-      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=24, nodejs=2, bigdata-ml=32, ruby=12, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=26}",
-      "REMOTE1/50",
-      "TECH1/bigdata-ml",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "frontend",
-      "go"
-    ]
-  },
-  {
-    "id": "qPvmIQ5PQn-cricHS-VzVA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/3987-software-engineer-go-status-im",
-    "title": "Software Engineer (Go) @ Status.im",
-    "content": "<h2>              Software Engineer (Go)<small> @ Status.im</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-11-17 19:38</p></dd>          <dt><span>Description</span></dt>          <dd><p>Status</p><p>Status is a fast growing, completely decentralized startup developing powerful DApps (decentralized apps) for Ethereum that change the way we do things on the web. To do this we need passionate, talented &amp; self motivated candidates to join our global decentralized team.</p><p>As a product, Status is an open source discovery tool for Ethereum that makes it easy for anyone to access DApps and services built on the decentralized web. Status also allows users to chat, make payments and more, securely using Ethereum’s protocols.</p><p>Opportunity</p><p>It’s still just the beginning, but the promise of Web 3.0 and Ethereum is here to stay. Our secret weapon is having passionate people on a mission to develop the gateway into this new world. If you want to be part of this adventure, join our disruptive distributed global team.</p><p>Job role</p><p>You will be part of our development team and will be responsible for shaping, developing and implementing our product, while ensuring that we are at the leading edge of technology. Our Development team has a strong desire to learn new things and continually improve themselves, we are looking for someone with a “can do anything” mentality. </p><p>Responsibilities</p><p>Deliver high quality services from designing and iterating new features into production in short sprint cyclesSet up complex development, test and production environmentsCollaborate cross-functionally to inform about design and architectural decisionsMaintain and make use of a good overview of the overall technology stackWork closely together with other engineering disciplines to ensure seamless user experience and efficient overall architectureShape, facilitate and survey coding guidelines and quality standardsIndependently focus on continuous learning and improvement and drive the evolution of our engineering practice</p><p>Requirements</p><p>5+ years experience building complex applicationsHands-on experience with GoYou must be comfortable working with an existing codebaseYou are excited by P2P technologies and cryptocurrenciesStrong software engineering practicesAbility to pick up new technologies quicklyFluency in written and spoken English</p><p>Working at Status</p><p>Status is a decentralized organization. You will not have a boss or a work schedule. What you will have is responsibility to your collaborators to do your best, keep up with your responsibilities, and support your team's priorities. At Status we are all working toward the goal of expanding and supporting the Ethereum space.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Nov 17, 2017 9:35:04 PM",
-    "tags": [
-      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "LRvVNCbgR6aBPV7YxYS5rQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/158014/go-agent-engineer-apm-elasticsearch-elastic?a=QZz4tuIKsUM",
-    "title": "Go Agent Engineer - APM - Elasticsearch at Elastic () (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior</span>                                        </div>                                        <div>                                            <span>Industry: </span>                                            <span>Data &amp; Analytics, Search, Software Development / Engineering</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Company size: </span>                                            <span>501-1k people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>VC Funded</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>At Elastic, we have a simple goal: to solve the world's data problems with products that delight and inspire. As the company behind the popular open source projects — Elasticsearch, Kibana, Logstash, and Beats — we help people around the world do great things with their data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots. The Elastic family unites employees across 30+ countries into one coherent team, while the broader community spans across over 100 countries.</p><p>Innovation at Elastic never stops and we are excited to have recently been joined by the amazing team from Opbeat who are currently working hard to fully integrate their Application Performance Monitoring solution into the Elastic Stack.&nbsp;<strong>Welcome Elastic APM!</strong>&nbsp;We are currently making major changes to the product as we integrate it with the Elastic Stack, and we are now looking for a talented&nbsp;<strong>Go Engineer</strong>&nbsp;to join the team as soon as possible.</p><p>As our first Go agent engineer on the APM team, you will be owning the exciting efforts of adding Go support to APM. Your primary task will be to develop our open source Go agent, take ownership for the feature roadmap, ensuring that the resource footprint is minimal. You will also be engaging with the open source Go community.</p><p>You will also collaborate closely with the APM Server team when adding new features to the server API and with the UI team to ensure that we deliver the best possible experience for Go developers.</p><p>You will become part of a team developing a high quality APM product aimed to help fellow developers successfully and expertly instrument, debug, and monitor their applications.</p><p><strong>What</strong>&nbsp;<strong>you</strong>&nbsp;<strong>will</strong>&nbsp;<strong>be</strong>&nbsp;<strong>doing</strong></p><ul><li>Work on a completely new and exciting Elastic project</li><li>Develop and be responsible for the Go agent for Elastic APM</li><li>The agent is open-source, so the job includes handling community pull requests, issues, etc</li><li>Collaborate with your fellow Engineers on APM Server and UI teams</li></ul><p><strong>What</strong>&nbsp;<strong>you</strong>&nbsp;<strong>will</strong>&nbsp;<strong>bring</strong>&nbsp;<strong>along</strong></p><ul><li>3+ years of professional and in-depth experience with Go</li><li>Previous APM experience is considered a big asset</li><li>Ability to work independently in a globally distributed team</li></ul><p><strong>Additional</strong>&nbsp;<strong>Information</strong></p><ul><li>Competitive pay and benefits</li><li>Option to work 100% remote or from any office</li><li>Stock options</li><li>Catered lunches, snacks, and beverages in most offices</li><li>An environment in which you can balance great work with a great life</li><li>Passionate people building great products</li><li>Employees with a wide variety of interests</li><li>Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.</li><li>Distributed-first company with employees in over 30 countries, spread across 18 time zones, and speaking over 30 languages! Some even fly south for the winter :)</li></ul><p>Elastic is an Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.</p>                    </div>                            <h2>                About Elastic            </h2>            <div><p>Elastic is the world's leading software provider for making structured and unstructured data usable in real time for search, logging, security, and analytics use cases. Founded in 2012 by the people behind the Elasticsearch, Kibana, Beats, and Logstash open source projects, Elastic's global community has more than 80,000 members across 45 countries, and since its initial release. Elastic's products have achieved more than 100 million cumulative downloads. Today thousands of organizations, including Cisco, eBay, Dell, Goldman Sachs, Groupon, HP, Microsoft, Netflix, <em>The New York Times</em>, Uber, Verizon, Yelp, and Wikipedia, use the Elastic Stack, X-Pack, and Elastic Cloud to power mission-critical systems that drive new revenue opportunities and massive cost savings. Elastic is backed by more than $104 million in funding from Benchmark Capital, Index Ventures, and NEA; has headquarters in Amsterdam, the Netherlands, and Mountain View, California; and has over 400 employees in more than 30 countries around the world.</p><p><strong>Additional Information</strong></p><ul><li>Competitive pay and benefits</li><li>Stock options</li><li>Catered lunches, snacks, and beverages in most offices</li><li>An environment in which you can balance great work with a great life</li><li>Passionate people building great products</li><li>Employees with a wide variety of interests</li><li>Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.</li></ul><p>Elastic is an Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 401k Matching Up to 6 % in US and Pensions in some other countries                            </div>                            <div>                                 Health Care Insurance                            </div>                            <div>                                 Vacation Time Determined By Location                            </div>                            <div>                                 Lunch and Breakfast in Most Offices                            </div>                            <div>                                 100% Remote work possible                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 17, 2017 8:18:19 PM",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
-      "DBG:surround``2W(100, remot)",
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG_TECH1:k/t/w:go-developer/go/13",
-      "DBG_TECH1:k/t/w:go/go/24",
-      "DBG_TECH1:k/t/w:wordpress/php/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=37, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH2/apm",
-      "TECH2/go",
-      "TECH2/monitoring",
-      "TECH2/performance",
-      "TITLE1/dev",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "apm",
-      "go",
-      "monitoring",
-      "performance"
-    ]
-  },
-  {
-    "id": "4MFKdH8UQqeCvwArYbBaQw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-programming",
-    "url": "https://weworkremotely.com/jobs/5762-software-engineer-nomad",
-    "title": "HashiCorp: Software Engineer - Nomad",
-    "content": "<div>  <div>    <h2>Software Engineer - Nomad</h2>      <h4>Posted Nov 14</h4>    <h3>      <span>HashiCorp</span><br>      <span>Headquarters: San Francisco, CA</span><br>        <a href='http://www.hashicorp.com' rel='nofollow'>www.hashicorp.com</a>    </h3>  </div></div>  <div>    <div><span>On the Nomad team, we develop tools for service deployment and batch job scheduling. Our customers place a high level of trust in us, relying on our tools to operate their own infrastructure and software effectively, and so we care deeply about reliability and performance.</span></div><div><br></div><div><span>At HashiCorp, we value top-notch collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise level customers.</span></div><div><br></div><div><span>Engineering at HashiCorp is largely a remote team. While prior experience working remotely isn't required, we are looking for team members who perform well given a high level of independence and autonomy.</span></div><div><br></div><div><span>In your cover letter, please describe why you're interested in working at HashiCorp, and what draws you to this role in particular! &nbsp;Specifics of your past experience that are relevant to this role are great to include, too.</span></div><div><br></div><div><h4><span>In this role, you can expect to:</span></h4></div><ul><li><span>Work on next-generation distributed systems for infrastructure management</span></li><li><span>Develop novel algorithms within the context of our open source tools</span></li><li><span>Build and architect systems for managing extremely large-scale global fleets of resources</span></li><li><span>Interface directly with internal teams, users and HashiCorp customers, and represent HashiCorp well to the large Nomad community</span></li><li><span>Own the full lifecycle of feature development from design through testing and release</span></li><li><span>Program mostly in Golang, learning from and contributing to a team committed to continually improving their skills</span></li></ul><div><h4><span>You may be a good fit for our team if:</span></h4></div><ul><li><span>You’re familiar with systems engineering, with networking and operating systems, and are comfortable with low-level programming</span></li><li><span>You have prior experience working in high performance or distributed systems; while we strive to hire at a variety of experience levels, this particular opening is not well-suited for recent graduates</span></li><li><span>You can knowledgeably discuss tradeoffs in distributed systems, such as those made for debugging and performance</span></li><li><span>You're familiar with the pieces of typical modern infrastructure: secret storage, service discovery, etc</span></li><li><span>You’re able to reason about performance, security, and user interactions in complex systems</span></li></ul><div><span>At HashiCorp, we are committed to hiring and cultivating a diverse team. If you are on the fence about whether you meet our requirements, please apply anyway!</span></div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p><a href='https://www.hashicorp.com/jobs/825723' rel='nofollow'>https://www.hashicorp.com/jobs/825723</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Nov 15, 2017 1:24:22 AM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "LDXz98htSSuSTOw17_1JmA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-programming",
-    "url": "https://weworkremotely.com/jobs/5730-sr-fullstack-engineer",
-    "title": "Sticker Mule: Sr. fullstack engineer",
-    "content": "<div>  <div>    <h2>Sr. fullstack engineer</h2>      <h4>Posted Nov 10</h4>    <h3>      <span>Sticker Mule</span><br>      <span>Headquarters: New York, NY</span><br>        <a href='https://www.stickermule.com/blog' rel='nofollow'>https://www.stickermule.com/blog</a>    </h3>  </div>    </div>  <div>    <div>Sticker Mule is the Internet's fastest growing printing company. We are privately-owned, profitable and powered by an outstanding remote team that supports the growth of our manufacturing operations. We aim to build one of the Internet’s best technical teams. Currently, our development team operates in 8 countries and we’re always looking for more exceptional developers to join us.&nbsp;</div><div></div><div><br></div><div></div><div><b>Why we enjoy working here</b>&nbsp;<br></div><div></div><div>1. We work flexible hours with an asynchronous culture.&nbsp;<br></div><div></div><div>2. We work at a sustainable pace without unreasonable external deadlines.&nbsp;<br></div><div></div><div>3. Varied, interesting technical challenges to work on.&nbsp;<br></div><div></div><div>4. Opportunities to make a large impact as part of a small, highly motivated team.&nbsp;<br></div><div></div><div></div><div><br></div><div></div><div><b>What you will do</b>&nbsp;<br></div><div></div><div>1. Design, build, test, deploy and maintain web applications and services.&nbsp;<br></div><div></div><div>2. Write clean, performant code in accordance with our team's code style guidelines.&nbsp;<br></div><div></div><div>3. Work to improve and maintain the code health of all of our software.&nbsp;<br></div><div></div><div>4. Collaborate with team leads and stakeholders to ensure that we're always building the best possible solution in the optimal way.&nbsp;<br></div><div></div><div>5. Participate in peer code reviews.&nbsp;<br></div><div></div><div>6. Share expertise with other members of the team and mentor junior developers.&nbsp;<br></div><div></div><div></div><div><br></div><div></div><div><b>Requirements</b>&nbsp;<br></div><div></div><div>1. 3+ years of professional software development experience.&nbsp;<br></div><div></div><div>2. High competency in at least one of the following languages: JavaScript, Ruby, or Go.&nbsp;<br></div><div></div><div>3. Strong analytical and critical thinking skills.&nbsp;<br></div><div></div><div>4. Strong written and verbal communication skills in English.&nbsp;<br></div><div></div><div>5. Experience with microservices/SOA or DevOps would be beneficial.&nbsp;<br></div><div></div><div></div><div><br></div><div></div><div><b>Application requirements</b>&nbsp;<br></div><div></div><div>1. Applicants will be sent a Hackerrank test within 1-3 days of applying.&nbsp;<br></div><div></div><div>2. Test must be completed within 5 days.&nbsp;</div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Apply here only: <a href='https://www.stickermule.com/jobs?job=178e2cdf-2e15-47e8-9d32-b24ac89032bf&amp;title=sr-fullstack-engineer' rel='nofollow'>https://www.stickermule.com/jobs?job=178e2cdf-2e15-47e8-9d32-b24ac89032bf&amp;title=sr-fullstack-engineer</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Nov 10, 2017 9:22:22 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "ruby"
-    ]
-  },
-  {
-    "id": "79iok_F2TlucQwpU6DoxXw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "jobs.github.com-remote",
-    "url": "http://jobs.github.com/positions/ac896a08-c648-11e7-8b12-6504e462af39",
-    "title": "Full Time: Sr. fullstack engineer at Sticker Mule in Remote",
-    "content": "<p>Sticker Mule is the Internet's fastest growing printing company. We are privately-owned, profitable and powered by an outstanding remote team that supports the growth of our manufacturing operations. We aim to build one of the Internet’s best technical teams. Currently, our development team operates in 8 countries and we’re always looking for more exceptional developers to join us. <br></p><p><strong>Why we enjoy working here</strong> <br> 1. We work flexible hours with an asynchronous culture. <br> 2. We work at a sustainable pace without unreasonable external deadlines. <br> 3. Varied, interesting technical challenges to work on. <br> 4. Opportunities to make a large impact as part of a small, highly motivated team. <br></p><p><strong>What you will do</strong> <br> 1. Design, build, test, deploy and maintain web applications and services. <br> 2. Write clean, performant code in accordance with our team's code style guidelines. <br> 3. Work to improve and maintain the code health of all of our software. <br> 4. Collaborate with team leads and stakeholders to ensure that we're always building the best possible solution in the optimal way. <br> 5. Participate in peer code reviews. <br> 6. Share expertise with other members of the team and mentor junior developers. <br></p><p><strong>Requirements</strong> <br> 1. 3+ years of professional software development experience. <br> 2. High competency in at least one of the following languages: JavaScript, Ruby, or Go. <br> 3. Strong analytical and critical thinking skills. <br> 4. Strong written and verbal communication skills in English. <br> 5. Experience with microservices/SOA or DevOps would be beneficial. <br></p><p><strong>Application requirements</strong> <br> 1. Applicants will be sent a Hackerrank test within 1-3 days of applying. <br> 2. Test must be completed within 5 days. <br></p>",
-    "urlFetchPending": false,
-    "published": "Nov 10, 2017 8:55:59 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "ruby"
-    ]
-  },
-  {
-    "id": "Pl77sBNTQKGs01XmJ1Ln1g",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "workingnomads.co",
-    "url": "https://www.workingnomads.co/jobs/remote-full-time-full-stack-designer-for-saas-company-niteo",
-    "title": "Remote full stack designer for SaaS company",
-    "content": "<p>We are looking for a full-stack designer that will help us make sure that all our websites, documents, emails, slides, videos and everything else looks consistent and beautiful. You do NOT need to do everything on your own - we completely support out-tasking and outsourcing - but you need to own the final product.</p><p>Some examples of work in the first few months: redesign of our company website, UI design of a new SaaS project, writing a design guide, designing &amp; editing sales and tutorial videos, designing Facebook and AdWords banners, designing a company booklet and so much more.</p><p>Niteo is an international remote-only SaaS company with team members from United Kingdom, USA, Slovenia, Romania and Philippines. We have projects in the SEO space and are looking to expand to other markets. We believe in Open Source so you can read about how we work in detail in our&nbsp;<a href='http://workable.com/nr?l=http%3A%2F%2Fworkable.com%2Fnr%3Fl%3Dhttp%253A%252F%252Fworkable.com%252Fnr%253Fl%253Dhttp%25253A%25252F%25252Fworkable.com%25252Fnr%25253Fl%25253Dhttp%2525253A%2525252F%2525252Fworkable.com%2525252Fnr%2525253Fl%2525253Dhttp%252525253A%252525252F%252525252Fworkable.com%252525252Fnr%252525253Fl%252525253Dhttp%25252525253A%25252525252F%25252525252Fworkable.com%25252525252Fnr%25252525253Fl%25252525253Dhttp%2525252525253A%2525252525252F%2525252525252Fworkable.com%2525252525252Fnr%2525252525253Fl%2525252525253Dhttp%252525252525253A%252525252525252F%252525252525252Fworkable.com%252525252525252Fnr%252525252525253Fl%252525252525253Dhttps%25252525252525253A%25252525252525252F%25252525252525252Fgithub.com%25252525252525252Fniteoweb%25252525252525252Fhandbook%25252525252525252Fblob%25252525252525252Fmaster%25252525252525252FREADME.md' rel='nofollow'>public Handbook</a>&nbsp;and on&nbsp;<a href='http://workable.com/nr?l=http%3A%2F%2Fworkable.com%2Fnr%3Fl%3Dhttp%253A%252F%252Fworkable.com%252Fnr%253Fl%253Dhttp%25253A%25252F%25252Fworkable.com%25252Fnr%25253Fl%25253Dhttp%2525253A%2525252F%2525252Fworkable.com%2525252Fnr%2525253Fl%2525253Dhttp%252525253A%252525252F%252525252Fworkable.com%252525252Fnr%252525253Fl%252525253Dhttp%25252525253A%25252525252F%25252525252Fworkable.com%25252525252Fnr%25252525253Fl%25252525253Dhttp%2525252525253A%2525252525252F%2525252525252Fworkable.com%2525252525252Fnr%2525252525253Fl%2525252525253Dhttp%252525252525253A%252525252525252F%252525252525252Fworkable.com%252525252525252Fnr%252525252525253Fl%252525252525253Dhttps%25252525252525253A%25252525252525252F%25252525252525252Fblog.niteoweb.com' rel='nofollow'>our blog</a>.</p><p>It is our belief that the ratio of women and/or people of color in tech teams should be higher. We believe diversity has its challenges, but the benefits far outweigh them. We strongly encourage people from underrepresented groups to apply for this position.</p><p>&nbsp;</p><p><strong>Why work with us?</strong></p><p>You will be regarded as a responsible and reliable adult. We put a lot of trust in you and give you autonomy to do your job the best you can. You receive the training you need to do the job, then we set your goals and define your tasks together. After that you plan and organize yourself. You set your own work schedule. You work on days you want to and from where you want to. You tell us when you go on a vacation and for how long.</p><p>In the end you are judged on your results and how well you work with your peers. The same goes for your coworkers who are all A-players. If you need someone to always tell you what to do and how to do it, then it's best you find something else.</p>",
-    "urlFetchPending": false,
-    "published": "Nov 8, 2017 6:00:10 PM",
-    "tags": [
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG:surround``remot 3W onli",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "aS7tdijcRVS0uw6Br2xKSA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/156878/backend-engineer-golang-elixir-heetch?a=QBWAtjecyWc",
-    "title": "Backend Engineer (Golang / Elixir) at Heetch (Paris, France) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Carsharing, Marketplace, Transportation</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>***&nbsp;We offer flexible and full remote work over Europe.</strong></p><p><strong>We are not ready yet to work with people outside EU but will keep you posted on that ;) ***<br></strong></p><p>Hands in hands with the Product, Design, Infrastructure and Mobile team, the Backend team has its great deal of challenges to tackle: scaling our ever growing backend business, pushing data science logics in production, shipping game changer features for our passengers and drivers with the sole goal of creating the most respectful and playful experience for them, across many launched cities, and many to come.</p><p><br>We expect the marketplace we are building to scale so it can support our European expansion ambitions. Fortunately, we can rely on our solid micro-services architecture (Golang, Elixir, Docker…) and our talented team to make it better.</p><p>Welcome behind the scenes !</p><p></p><p><strong>OUR ENGINEERING VALUES</strong></p><ul><li><strong>Move smart</strong>: we are data driven, and employ tools and best practices to ship code quickly and safely (continuous integration, code review, automated testing, etc).</li><li><strong>Distribute knowledge</strong>: we want to scale our engineering team to a point where our contributions do not stop at the company code base. We believe in the Open Source culture and communication with the outside world.</li><li><strong>Leave code better than you found it</strong>: because we constantly raise the bar.</li><li><strong>Unity makes strength</strong>: moving people from A to B is not as easy as it sounds but, we always keep calm and support each other.</li><li><strong>Always improve</strong>: we value personal progress and want you to look back proudly on what you’ve done.</li></ul><p><strong>WHAT YOU’LL DO</strong></p><ul><li>Implement smart models to predict future supply and demand</li><li>Aggregate and play with data coming from various sources</li><li>Work on new features in microservices environment and contribute to the improvement and optimization of our architecture</li><li>Optimize our operational platform to make our support even more awesome.</li></ul><p>&nbsp;Things we’d like to experiment with:</p><ul><li>Event sourcing</li><li>Kafka…</li></ul><p>If your are more an infractructure person wanting to deliver happiness to our backend team by building tools and frameworks please check out our&nbsp;Infrastructure Engineer&nbsp;job offer.</p><p><strong>REQUIREMENTS</strong></p><ul><li>5+ years as a software engineer, mainly focused on backend.</li><li>You are a product oriented developer, you own, design and implement features from A to Z, you help monitor and maintain them after they are shipped with focus on the end.</li><li>You have analytical and diagnostic skills, a proactive problem solving mindset.</li><li>You’ve worked with Ruby-on-Rails or Go in production environments, experience in Elixir would be great…</li><li>… but more than mastering 1 single language, you’re curious and a fast learner, you showed your ability to switch to another technology just to get out of your comfort zone.</li><li>Experience working with high volumes, databases, relational (PostgreSQL) or NoSQL.</li><li>Exposure to architectural patterns of a large, high-scale web application and microservices.</li><li>Good testing skills.</li><li>Sharing is caring, you are generous in your communication and knowledge sharing with your team.</li></ul><p><strong>BONUS POINTS</strong></p><ul><li>Contributions to open source projects</li><li>Experience with message brokers (such as Kafka, RabbitMQ)</li><li>Exposure to real-time technology problems</li><li>Experience with ETL and Hadoop</li><li>Experience with Docker and/or Mesos Marathon (or similar)</li></ul><p><strong>PERKS</strong></p><ul><li>Permanent contract (CDI)&nbsp;</li><li>Stock</li><li>Paid conference attendance/travel and periodic team meetups</li><li>Heetch credits</li><li>A Spotify subscription</li><li>Work from anywhere you want</li></ul>                    </div>                                        <h2>Benefits</h2>                            <div>                                 Full remote (in Europe only) and flexible ways of working                            </div>                            <div>                                 Paid conferences attendance/travel                            </div>                            <div>                                 Periodic team meetups                            </div>                            <div>                                 Stocks                            </div>                            <div>                                 Heetch credits                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
-      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
-      "DBG:surround``remot 3W onli",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:elixir/other/15",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:golang/go/16",
-      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:unity3d/gamedev/8",
-      "DBG_TECH1:k/t/w:unity3d/mobile/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=5, go=19, nodejs=0, bigdata-ml=16, ruby=8, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/go",
-      "TECH1/other",
-      "TECH2/docker",
-      "TECH2/elixir",
-      "TECH2/go",
-      "TECH2/postgresql",
-      "TECH2/ruby-on-rails",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "docker",
-      "elixir",
-      "go",
-      "other",
-      "postgresql",
-      "ruby-on-rails"
-    ]
-  },
-  {
-    "id": "FdwB3g-3Q7u-Tsq3_EnapA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/152168/go-developer-spideroak?a=P20ErrTYCis",
-    "title": "Go developer at SpiderOak (Kansas City, MO) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Security Software, Secure Messaging, Secure Back Up</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>11-50 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>About the team</strong></p><p>We are working hard in our 2.0 version of the Semaphor messaging system and platform. The software stack for the backend is PostgreSQL and Go. We are looking to expand our team to help us develop the microservices behind Semaphor.</p><p>We are a small team comprised of talented polyglot developers that have chosen Go as their main tool for the past several years to bring Semaphor to life.</p><p><strong>Responsibilities</strong></p><ul><li>Implement already written specifications for distributed services in Go.</li><li>Design and specify new services. We have a lot of work already architected, but there's still a lot to go in the roadmap.</li><li>Iterate over our current codebase to improve it and fix bugs.</li><li>Take ownership of the tasks assigned, regardless of their scope. Working on bug fixes doesn't entail less ownership than writing a new service from scratch.</li></ul><p><strong>Requirements</strong></p><ul><li>2+ years experience in developing services in Go.</li><li>Familiarity with TDD.</li><li>Experience using Docker.</li></ul><p><strong>Nice to have</strong></p><ul><li>Familiarity with multiplatform development. Our client side Go codebase runs in Windows, macOS, Linux, Android and iOS.</li><li>Experience with Kubernetes.</li><li>Some Python skills, all our integration tests are written in Python.</li><li>Familiarity with development focused on security.</li></ul><p>Still interested? Email us your resume (plain text preferred) to <a href='mailto:jobs@spideroak-inc.com' rel='nofollow'>jobs@spideroak-inc.com</a></p>                    </div>                            <h2>                About SpiderOak            </h2>            <div><p>SpiderOak has been working for the past 10+ years bringing security and privacy to consumers and enterprises. First in the backup area with SpiderOak ONE, and now expanding to group messaging with Semaphor.</p><p>We are a remote friendly company, but if you are local to Kansas City you are always welcome to work from the office. Significant overlap with US Central time zone required. You will be expected to communicate regularly with the rest of your team, working out problems and collaborating in a daily basis to drag projects across the finish line. The ability to take lead on projects falling under your responsibility is paramount. While we do not use a strict Agile methodology, you must be comfortable working closely with the rest of the company to ensure an iterative process. We require a basic working proficiency in the written and spoken English language, and the ability to travel to the United States 1-4 times a year for team meet-ups.</p><p>Much as we believe in internet privacy for all, we do not discriminate in who we choose to be part of our team. We know no boundaries based on race, ethnic origin, religion, gender, sexuality, or other terms humans use to separate the 'us' from the 'them'. If you can do the job and communicate readily, we will be happy to work with you.</p><p>We offer a compensation package including paid vacation, holiday, and personal time for all, and US workers enjoy a full benefits package including medical, dental, vision, life, and short and long term disability insurance.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Paid time off and corporate holidays                            </div>                            <div>                                 Full medical, dental, vision                            </div>                            <div>                                 Company provided hardware                            </div>                            <div>                                 Work from anywhere in the world                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
-      "DBG:surround``remot 3N (team OR compani OR worldwide)",
-      "DBG:surround``usa 3W OR(time,timezon)",
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:go-developer/go/13",
-      "DBG_TECH1:k/t/w:go/go/21",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:k/t/w:macos/apple/2",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=8, c=0, mobile=4, go=34, nodejs=0, bigdata-ml=0, ruby=0, apple=4, java=1, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH2/docker",
-      "TECH2/go",
-      "TECH2/microservices",
-      "TECH2/postgresql",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "docker",
-      "go",
-      "microservices",
-      "postgresql"
-    ]
-  },
-  {
-    "id": "d7aDSHKkT9aUoxuejwy_oA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/137659/software-engineer-golang-for-elastic-beats-elastic?a=KakfHXUF5wk",
-    "title": "Software Engineer- Golang- - For Elastic Beats Product- Top Open Source Company at Elastic () (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Data &amp; Analytics, Search, Software Development / Engineering</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>501-1k people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>VC Funded</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><em><strong>Please include a short note to be considered for this position.</strong></em></p><p>The Beats platform is the basis for building open source shippers that collect all kinds of operational data, store it in Elasticsearch, and visualize it with Kibana. They collect data from edge servers, and are used to power application monitoring, infrastructure monitoring, and network monitoring. We currently have five official Beats: Filebeat for gathering logs, Packetbeat for network traffic, Metricbeat for metrics, Winlogbeat for Windows event logs, Heartbeat for uptime monitoring, and Auditbeat for audit data. In addition, the open-source community has created over 40 Beats, collecting data from all sorts of sources.</p><p>All current Beats are written in Golang.</p><p>As part of the Beats team, you will be responsible for maintaining the official Beats, for creating new ones, as well as for supporting the community around Beats. The team is diverse and distributed across the world, and collaborates on daily basis over Github, Zoom, and Slack.</p><p><strong>Your contribution</strong></p><ul><li>Define and create Metricbeat modules to collect metrics and build Kibana dashboards for monitoring various services. This implies understanding the monitored service and finding the most relevant metrics.</li><li>Write open source Golang code for Metricbeat</li><li>Work with our support team to help customers</li><li>Answer community questions</li><li>Collaborate with other development teams, quality engineering team and documentation team to execute on product deliverables</li></ul><p><strong>What you will bring along</strong></p><ul><li>BS, MS or PhD in Computer Science or related engineering discipline and 3+ years of industry experience</li><li>Experience with operating various services and other monitoring systems</li><li>Experience in Golang programming is a big plus</li><li>Excellent verbal and written communication skills, a great teammate with strong analytical, problem solving, debugging, and troubleshooting skills</li><li>Ability to work in a distributed team throughout the world.</li><li>Knowledge and experience in Elasticsearch, Logstash, Distributed Systems is a plus.</li></ul>                    </div>                            <h2>                About Elastic            </h2>            <div><p>Elastic is the world's leading software provider for making structured and unstructured data usable in real time for search, logging, security, and analytics use cases. Founded in 2012 by the people behind the Elasticsearch, Kibana, Beats, and Logstash open source projects, Elastic's global community has more than 80,000 members across 45 countries, and since its initial release. Elastic's products have achieved more than 100 million cumulative downloads. Today thousands of organizations, including Cisco, eBay, Dell, Goldman Sachs, Groupon, HP, Microsoft, Netflix, <em>The New York Times</em>, Uber, Verizon, Yelp, and Wikipedia, use the Elastic Stack, X-Pack, and Elastic Cloud to power mission-critical systems that drive new revenue opportunities and massive cost savings. Elastic is backed by more than $104 million in funding from Benchmark Capital, Index Ventures, and NEA; has headquarters in Amsterdam, the Netherlands, and Mountain View, California; and has over 400 employees in more than 30 countries around the world.</p><p><strong>Additional Information</strong></p><ul><li>Competitive pay and benefits</li><li>Stock options</li><li>Catered lunches, snacks, and beverages in most offices</li><li>An environment in which you can balance great work with a great life</li><li>Passionate people building great products</li><li>Employees with a wide variety of interests</li><li>Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.</li></ul><p>Elastic is an Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 401k Matching Up to 6 % in US and Pensions in some other countries                            </div>                            <div>                                 Health Care Insurance                            </div>                            <div>                                 Vacation Time Determined By Location                            </div>                            <div>                                 Lunch and Breakfast in Most Offices                            </div>                            <div>                                 100% Remote work possible                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, avail, allow, abl, possibl, permit)",
-      "DBG:surround``2W(100, remot)",
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG_TECH1:k/t/w:golang/go/32",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=32, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH2/distributed-system",
-      "TECH2/elasticsearch",
-      "TECH2/go",
-      "TECH2/monitoring",
-      "TECH2/scala",
-      "TITLE1/dev",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "100% remote",
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "distributed-system",
-      "elasticsearch",
-      "go",
-      "monitoring",
-      "scala"
-    ]
-  },
-  {
-    "id": "tzMCrvaDRrWjnSXS50IvAg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/144595/lead-azure-developer-fugue-inc?a=MuxR43sMZji",
-    "title": "Lead Azure Developer at Fugue Inc (Washington, DC) (allows remote)",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Cloud Computing, DevOps, Security Software</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>Job Overview</strong></p><p>The Lead Azure Software Engineer will be the go to SME for the Azure cloud within Fugue. You will be mixing reliable industry standards and techniques with a generous dose of your own creativity to pioneer the new solutions in the Azure space of Fugue. We are looking for highly motivated team members who face challenges head-on and are able to work in an innovative, complex, and dynamic environment.</p>                    </div>                            <h2>                About Fugue Inc            </h2>            <div><p>Fugue is a venture-backed software company developing an infrastructure-level operating system for cloud computing. Initially available on Amazon Web Services (AWS), Fugue builds, optimizes, and enforces cloud infrastructure—continuously and automatically. The company has raised a total of $34MM from investors including New Enterprise Associates, The Maryland Venture Fund, and Core Capital Partners. With offices in Frederick, MD, Washington, DC, New York, and Silicon Valley, Fugue is rapidly expanding its talented, high performing team. We are looking for an accomplished Customer Support Engineer to join us!&nbsp;</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Medical, Dental, and Vision plans - some plans fully company paid                            </div>                            <div>                                 401(k) savings plan                            </div>                            <div>                                 Company paid Life, Short and Long Term Disability                            </div>                            <div>                                 Open PTO - use what you need when you need it                            </div>                            <div>                                 Remote Friendly                            </div>                            <div>                                 Flexible Work Schedule                            </div>                            <div>                                 Free Lunch 3-days per week in offices                            </div>                            <div>                                 You're an adult, so we treat you like one!                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Nov 4, 2017 2:06:33 PM",
-    "tags": [
-      "DBG:surround``12N(work, OR(home,remot), 5N(OR(offic,headquart,onsit), OR(dai,daili,week,weekli,month,monthli)) )",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TECH2/amazon-web-services",
-      "TECH2/azure",
-      "TECH2/azure-api-apps",
-      "TECH2/go",
-      "TECH2/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "amazon-web-services",
-      "azure",
-      "azure-api-apps",
-      "go",
-      "python"
-    ]
-  },
-  {
-    "id": "AAIsHlZCTzaIB5aZEMGKhg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/3960-senior-backend-chief-engineer-outcomes4me",
-    "title": "Senior Backend / Chief Engineer @ Outcomes4Me",
-    "content": "<h2>              Senior Backend / Chief Engineer <small> @ Outcomes4Me</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-11-03 02:25</p></dd>          <dt><span>Description</span></dt>          <dd><p>We’re looking for a senior backend /chief engineer to join our team full time, to help us create anew patient experience with the ambition to improve care. We are offering a unique opportunityto work with an experienced and passionate founding team.</p><p><strong>Challenges we're excited about tackling:</strong></p><ul><li>Mapping and optimizing the patient experience and treatment search journey</li><li>Personalizing contents that addresses known and specific patient needs</li><li>Automatic identification of queries in patients records/profile that represent a standinginterests</li><li>Analyzing and modeling our search to create engaging flow</li><li>Empowering our users with data-informed experiences throughout their journey</li></ul><p><strong>We are looking for engineers with:</strong></p><ul><li>Solid engineering and coding skills</li><li>Experience in any of the languages Java, Python, Go</li><li>Experience or knowledge of Neo4j and graph algorithms</li><li>Experience with relational (e.g. Postgres) and Nosql (e.g. MongoDB) databases</li><li>Experience with cloud services/platforms (e.g., Google, Amazon) , security and HIPAAprotocols</li><li>Practical knowledge with agile practices, continuous software delivery, and DevOps</li><li>Knowledge of data processing algorithms and/or NLP is a plus</li></ul><p>If you’re interested in applying technology to make healthcare better and have relevant skillsand experience, please send your resume to <a href='mailto:jobs@outcomes4me.com' rel='nofollow'>jobs@outcomes4me.com</a> . We offer competitivecompensation and benefit packages, and for the right skill sets are open to remote workingconfigurations.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Nov 3, 2017 4:25:33 AM",
-    "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:neo4j/bigdata-ml/3",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=3, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "go",
-      "python"
-    ]
-  },
-  {
-    "id": "KT5r5tlSS9GAxueROIk5zg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/62439",
-    "title": "Senior Backend Chief Engineer",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>We’re looking for a senior backend /chief engineer to join our team full time, to help us create a<br>new patient experience with the ambition to improve care. We are offering a unique opportunity<br>to work with an experienced and passionate founding team.<br><br><strong>Challenges we're excited about tackling:</strong><br><br></p><ul><li>Mapping and optimizing the patient experience and treatment search journey<br></li><li>Personalizing contents that addresses known and specific patient needs<br></li><li>Automatic identification of queries in patients records/profile that represent a standing<br>interests<br></li><li>Analyzing and modeling our search to create engaging flow<br></li><li>Empowering our users with data-informed experiences throughout their journey<br><br><strong>We are looking for engineers with:</strong><br><br></li><li>Solid engineering and coding skills<br></li><li>Experience in any of the languages Java, Python, Go<br></li><li>Experience or knowledge of Neo4j and graph algorithms<br></li><li>Experience with relational (e.g. Postgres) and Nosql (e.g. MongoDB) databases<br></li><li>Experience with cloud services/platforms (e.g., Google, Amazon) , security and HIPAA<br>protocols<br></li><li>Practical knowledge with agile practices, continuous software delivery, and DevOps<br></li><li>Knowledge of data processing algorithms and/or NLP is a plus<br><br>If you’re interested in applying technology to make healthcare better and have relevant skills<br>and experience, please send your resume to jobs@outcomes4me.com . We offer competitive<br>compensation and benefit packages, and for the right skill sets are open to remote working<br>configurations.</li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Nov 3, 2017 4:25:33 AM",
-    "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:neo4j/bigdata-ml/3",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=3, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/bigdata-ml",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "go",
-      "python"
-    ]
-  },
-  {
-    "id": "vT_UWVgwQKGoxOnW7R2o4Q",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/3940-developer-evangelist-wallaroo-labs",
-    "title": "Developer Evangelist @ Wallaroo Labs",
-    "content": "<h2>              Developer Evangelist<small> @ Wallaroo Labs</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2017-10-23 03:06</p></dd>          <dt><span>Description</span></dt>          <dd><p>Wallaroo Labs is working on a huge idea, and this is a phenomenal opportunity for a person who enjoys challenges. We believe in open source and strive to build on these technologies. Our distributed team is ten people and growing. We had have generated a lot of interest through our product and vision and raised a large seed round with several well-known VCs.</p><p>Faster data, more data sources, and business requirements are driving increasingly sophisticated algorithms and putting more and more demands on data applications. Wallaroo Labs solves these problems with Wallaroo, a data engine for building highly elastic big data applications.</p><p>We are looking for a Developer Evangelist to drive the adoption of Wallaroo open-source offering within the developer community. This position is essential to our success; you will be responsible for identifying friction points with Wallaroo and systematically eliminate to improve the developer experience.</p><p>Although Wallaroo's headquarters is in New York, this position can be remote.  Candidates located in a Tech Hub cities or that have deep connections within existing developer networks would prove invaluable in building our community.</p><p><strong>Responsibilities</strong></p><ul><li>Monitor communication channels (HN, Reddit, StackOverflow, Mailing lists, IRC) and interact with the community, answer questions and assist developers.</li><li>Identify and build relationships with the developer community, meetups, and conferences and leverage relationships to evangelize Wallaroo.</li><li>Own problem resolution and participate with the development team to create solutions.</li><li>Publish content from blog posts to video demos.</li></ul><p><strong>Qualities we are looking for</strong></p><ul><li>Ability to learn new technologies quickly.</li><li>Comfortable with a variety of programming languages, experience with Python, Go, JavaScript are a plus.</li><li>Familiar with Big Data technologies.</li><li>Desire and ability to work with enterprise clients and our open source community.</li><li>Experience working with open source software, GitHub etc.</li><li>Familiar with software development process in a business setting.</li><li>Outstanding verbal and written communication skills.</li></ul><p><strong>Learn more about Wallaroo</strong></p><ul><li>Corporate site: <a href='http://www.wallaroolabs.com' rel='nofollow'>http://www.wallaroolabs.com</a></li><li>Wallaroo Community Site: <a href='http://www.wallaroolabs.com/community' rel='nofollow'>http://www.wallaroolabs.com/community</a></li><li>Wallaroo Blog: <a href='https://blog.wallaroolabs.com/' rel='nofollow'>https://blog.wallaroolabs.com/</a></li><li>GitHub: <a href='https://github.com/WallarooLabs/wallaroo' rel='nofollow'>https://github.com/WallarooLabs/wallaroo</a></li></ul><p><em>We are an equal opportunity employer and value diversity in our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Oct 23, 2017 6:06:14 AM",
-    "tags": [
-      "DBG:surround``(work OR countri OR locat OR contract) 2W anywher",
-      "DBG:surround``OR(work, countri, locat,contract) 2W anywher",
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "python"
-    ]
-  },
-  {
-    "id": "Xno8wcicRX6weSlQQiaa8w",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "remoteok.io",
-    "url": "https://remoteok.io/jobs/62242",
-    "title": "Developer Evangelist",
-    "content": "<td><a rel='nofollow'><div></div></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><a rel='nofollow'></a><a rel='nofollow'></a></td><td><span><p>Wallaroo Labs is working on a huge idea, and this is a phenomenal opportunity for a person who enjoys challenges. We believe in open source and strive to build on these technologies. Our distributed team is ten people and growing. We had have generated a lot of interest through our product and vision and raised a large seed round with several well-known VCs.<br><br>Faster data, more data sources, and business requirements are driving increasingly sophisticated algorithms and putting more and more demands on data applications. Wallaroo Labs solves these problems with Wallaroo, a data engine for building highly elastic big data applications.<br><br>We are looking for a Developer Evangelist to drive the adoption of Wallaroo open-source offering within the developer community. This position is essential to our success; you will be responsible for identifying friction points with Wallaroo and systematically eliminate to improve the developer experience.<br><br>Although Wallaroo's headquarters is in New York, this position can be remote. Candidates located in a Tech Hub cities or that have deep connections within existing developer networks would prove invaluable in building our community.<br><br><strong>Responsibilities</strong><br><br></p><ul><li>Monitor communication channels (HN, Reddit, StackOverflow, Mailing lists, IRC) and interact with the community, answer questions and assist developers.<br></li><li>Identify and build relationships with the developer community, meetups, and conferences and leverage relationships to evangelize Wallaroo.<br></li><li>Own problem resolution and participate with the development team to create solutions.<br></li><li>Publish content from blog posts to video demos.<br><br><strong>Qualities we are looking for</strong><br><br></li><li>Ability to learn new technologies quickly.<br></li><li>Comfortable with a variety of programming languages, experience with Python, Go, JavaScript are a plus.<br></li><li>Familiar with Big Data technologies.<br></li><li>Desire and ability to work with enterprise clients and our open source community.<br></li><li>Experience working with open source software, GitHub etc.<br></li><li>Familiar with software development process in a business setting.<br></li><li>Outstanding verbal and written communication skills.<br><br><strong>Learn more about Wallaroo</strong><br><br></li><li>Corporate site: <a href='http://www.wallaroolabs.com' rel='nofollow'>http://www.wallaroolabs.com</a></li><li>Wallaroo Community Site: <a href='http://www.wallaroolabs.com/community' rel='nofollow'>http://www.wallaroolabs.com/community</a></li><li>Wallaroo Blog: <a href='https://blog.wallaroolabs.com/' rel='nofollow'>https://blog.wallaroolabs.com/</a></li><li>GitHub: <a href='https://github.com/WallarooLabs/wallaroo' rel='nofollow'>https://github.com/WallarooLabs/wallaroo</a><br><em>We are an equal opportunity employer and value diversity in our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></li></ul></span></td><td></td><td></td><td><a rel='nofollow'><div></div></a></td>",
-    "urlFetchPending": false,
-    "published": "Oct 23, 2017 6:06:14 AM",
-    "tags": [
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "python"
-    ]
-  },
-  {
-    "id": "MAQRROCmSC6NZtRoAMZNfQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "angel.co",
-    "url": "https://angel.co/footprintchat/jobs/104145-backend-engineer-go-golang",
-    "title": "Backend Engineer - Go (Golang)",
-    "content": "<div><h2>Backend Engineer - Go (Golang) at Footprint</h2><div>San Francisco, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>Go (Golang), Go</div><div>Compensation</div><div>$100K–$175K<br>0.25%–1.0%</div><div>Visa Sponsorship</div><div>Not available</div></div><h3>Job Description</h3><div><p>Footprint is transforming communication between corporations and their network of stores, branches, and franchise affiliates. </p><p>Between a corporation and its customer communities, too. </p><p>WHO WE ARE<br>We're an early stage product team with expertise in mobile, web, and APIs. </p><p>We're building the Footprint core app and our API across all platforms, all devices. </p><p>Our technology stack is mainly based on Go (Golang) on the backend and Javascript and React on the frontend. </p><p>We have a opportunities for skilled and entrepreneurial engineers who believe the same thing we do: By pushing communication to the edges, real-time messaging will become the OS for the enterprise; apps and chat bots will integrate natively inside; search will bring all data and communications into a single place--available everywhere. </p><p>OUR ENGINEERING ENVIRONMENT<br>We're a distributed bunch relying on a design and API-first approach to product development. We ship software all throughout the day and all around the world.  Our team sizes are kept small. Each individual engineer owns their QA, code quality, and deployments. We ship through a CI/CD mainline. </p><p>WHO YOU ARE<br>- A Senior Developer ready to design and implement awesome new features through innovation and data-driven iterations<br>- Someone who wants to push limits of product innovation using the latest advancements in technology and methods - working closely with product managers, designers and other engineering teams<br>- Someone that works best in an environment with a sense of urgency and can rapidly iterate on product/platform features<br>- Someone who can work in a distributed, continuous integration environment</p><p>QUALIFICATIONS<br>- Strong algorithms, data structures and coding background<br>- Disciplined approach to testing and quality assurance<br>- Experience with web infrastructure and distributed systems<br>- Experience with software engineering best practices (e.g. unit testing, code reviews, design documentation)</p><p>TO APPLY<br>Write a quick cover letter</p></div>",
-    "urlFetchPending": false,
-    "published": "Oct 12, 2017 8:45:35 PM",
-    "tags": [
-      "Backend Developer",
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:go/go/15",
-      "DBG_TECH1:k/t/w:golang/go/32",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=47, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
-      "Full Time",
-      "Go",
-      "Go (Golang)",
-      "REMOTE1/100",
-      "Remote OK",
-      "San Francisco",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "100% remote"
     ],
     "tagsNames2": [
       "go"
