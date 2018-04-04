@@ -1,6 +1,312 @@
 {
  "items": [
   {
+    "id": "Fky6wAaLRAen2bClb54d2g",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16742282",
+    "title": "Loom Network | Go Backend Engineer | Asia | Remote | Full-time",
+    "content": "<div>                  <span>Loom Network | Go Backend Engineer | Asia | Remote | Full-time<p>Loom Network(Techstars '18) famous for Cryptozombies. Is looking for senior Go backend engineerings to work remotely on scaling blockchain software for Ethereum. We have our own core blockchain technologies, and looking for devs that are interested in consensus, distributed computing, and databases.</p><p>Knowledge of Go is required. Bonus if you know k8s, Raft, Paxos or other consensus systems. Solidity bonus also.</p><p>Please email hiring@loomx.io with your resume.</p><p>Check our website <a href='https://loomx.io' rel='nofollow'>https://loomx.io</a> or read one of our blog posts about our tech. <a href='https://medium.com/loom-network' rel='nofollow'>https://medium.com/loom-network</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 3, 2018 10:00:06 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "HTlGPup2Tk2bKg3U19oYnw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16741537",
+    "title": "Abot | Full-Stack Engineer | Venice, CA | Full Time, Onsite, Remote OK",
+    "content": "<div>                  <span>Abot | Full-Stack Engineer | Venice, CA | Full Time, Onsite, Remote OK<p>Abot automates customer service for eCommerce companies using machine learning. We integrate directly into existing tools and work out-of-the-box with a 15-minute setup.</p><p></p><pre><code>  * Early stage company with experienced founding team  * You'll work directly with the CEO/CTO as first engineering hire  * No corporate bullshit. You do you.  * Golang stack we're proud of, very little technical debt  * Our office is steps from the beach</code></pre>No prior Go or ML experience is necessary. No degree required. If you love building things, that's good enough for us. Let's build some amazing technology and have fun doing it.<p>Shoot me an email with a link to a project that you built or are excited about: evan @ abotlabs.com.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 3, 2018 6:00:07 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "_uq3OdxjRs2eoqgukvnHSQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16741111",
+    "title": "InfluxData | Software Engineer | SF | REMOTE or ONSITE | Full-time",
+    "content": "<div>                  <span>InfluxData | Software Engineer | SF | REMOTE or ONSITE | Full-time<p>We are a time series database, looking for experienced Golang SWEs to work on InfluxDB.</p><p>I'm on this team, I work remotely. Company is growing fast, everyone is smart and nice.</p><p>Email me directly jacob.marble@influxdata.com</p><p><a href='https://www.influxdata.com/blog/why-i-joined-influxdata-jacob/' rel='nofollow'>https://www.influxdata.com/blog/why-i-joined-influxdata-jaco...</a></p><p><a href='https://www.influxdata.com/careers/' rel='nofollow'>https://www.influxdata.com/careers/</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 3, 2018 5:00:06 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "jlewoLSyTc66xweIvVSSmQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16738640",
+    "title": "Kentik | Software Engineer | San Francisco | Onsite/Remote | Full-Time | kentik.com",
+    "content": "<div>                  <span>Kentik | Software Engineer | San Francisco | Onsite/Remote | Full-Time | kentik.com<p>Who wants to build a database? A specialized database. Kentik is a tool to ingest and process network metadata: how many bytes, how many packets, are your tcp sessions suddenly seeing an uptick in re-transmits, how does your window size look, are you under attack, did you just get BGP high-jacked?</p><p>We wrote a custom database in go, which at its heart works by taking a time range, storing all events by time-slice and then at query time querying each time segment in parallel. This is hidden behind a Postgres front end using the foreign data wrapper interface PG provides. A data visualization layer on top distills the inputs down into actionable intelligence.</p><p>The end result of all this is that when anything changes on your network you get a slack message.</p><p>Interested? We're hiring for multiple roles, including:</p><p>* Full stack JS engineer working in a react code base. Work up from postgres -&gt; node -&gt; client browser.</p><p>* System engineer fluent in go and/or rust. Build fault tolerant distributed applications capable of handling billions of data points per day.</p><p>* Product manager. You are working with customers and employees to influence product strategy and shepherd projects to completion.</p><p><a href='https://www.kentik.com/careers' rel='nofollow'>https://www.kentik.com/careers</a> to apply. We are a split team 50% based in SF and 50% full time remote.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 2, 2018 10:58:06 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "go"
+    ]
+  },
+  {
+    "id": "o-wQSbHpRWK4UCeBOGVyNQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16738116",
+    "title": "Seed (YC W15) | Backend Engineers | Full Time | REMOTE (US Only) | https://seed.co/",
+    "content": "<div>                  <span>Seed (YC W15) | Backend Engineers | Full Time | REMOTE (US Only) | <a href='https://seed.co/' rel='nofollow'>https://seed.co/</a><p>We’re taking on the challenge of modernizing small business banking. We build beautiful, easy-to-use tools for banking, invoicing, expense tracking, and more, so our members can focus on helping their businesses thrive. Those tools also need to integrate smoothly with often-antiquated banking systems, and be bank-level secure. It’s a huge challenge, but one we enjoy tackling every day. Our customers love us, and we're just getting started.</p><p>As part of the Backend Engineering team you'd be building the core of platform, with no shortage of tough problems.</p><p>Tech Stack: Golang, Docker, AWS, Terraform &amp; Packer for Ops.</p><p>We are a fully remote team and constantly use Slack/Zoom/Github to keep in touch.</p><p>Process:</p><p>Phone intro, phone screen, technical interview with the team (either onsite in Portland/San Fran or remote), decision. We strive to complete this process within 2 weeks if a candidates schedule permits.</p><p>Apply: <a href='https://seed.co/jobs/' rel='nofollow'>https://seed.co/jobs/</a></p><p>Feel free to reach out to me at benji at seed.co if you have any questions.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 2, 2018 10:14:06 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "wb-xee69Q2eAIq5wr-3VTw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "weworkremotely.com-programming",
+    "url": "https://weworkremotely.com/remote-jobs/x-team-data-engineer",
+    "title": "X-Team: Data Engineer",
+    "content": "<div>  <div>    <h2>Data Engineer</h2>      <h4>Posted Apr  2</h4>    <h3>      <span>X-Team</span><br>      <span>Headquarters: Remote</span><br>        <a href='https://x-team.com/remote-data-engineer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q4-18' rel='nofollow'>https://x-team.com/remote-data-engineer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q4-18</a>      <br>      <a rel='nofollow'>View all X-Team jobs →</a>    </h3>  </div>    </div>  <div>    <div><b>About X-Team:</b></div><div><br></div><div>“Motivated developers, ready to join your team.”</div><div><br></div><div>X-Team is an international company founded in Melbourne, Australia that helps companies scale their development teams by providing them with extraordinary developers from around the world.</div><div><br></div><div>We are 100% remote and believe in building a world where developers can have access to an environment of growth and incredible opportunities regardless of where they live. Our culture is based around the proactive, selfless values that make up every X-Teamer.</div><div><br></div><div>We are a community of people dedicated to unleashing our potential every day. Learn more about how we can help you learn and grow at https://x-team.com/unleash/</div><div><br></div><div><b>About You:</b></div><div>The right individual will be self-driven. Someone who cares about maintainability of the code, automation, deployment processes and how to enable innovation through fostering a growing culture of Open Source. You will go beyond just coding and help to shape the engineering culture and best practices.</div><div><br></div><div><b>Most important:</b></div><div><b><br></b></div><ul><li>Experience with high volume data processing and storage, both real-time and historical<br></li><li>Experience with implementing big data Edge services and security<br></li><li>Proficiency in programming / scripting languages (Java, Python, C++, Golang)<br></li><li>Experience with AWS EC2, AWS ECS, Docker, Terraform, Ansible<br></li><li>Experience with ElasticSearch, Flink, Logstash, Kafka, DynamoDB<br></li></ul><div><b><br></b></div><div><b>Nice to have:</b></div><ul><li>Experience with working remotely</li></ul><div><br></div><div><b>Personal:</b></div><ul><li>Independent, self-motivated<br></li><li>Fluent in English, written and spoken<br></li><li>Proven track record of always learning and growing.<br></li><li>Proactive attitude<br></li><li>Possess a spirit of generosity</li></ul><div><br></div><div><b>Perks:</b></div><ul><li>Get the chance to work with big brands like Riot Games, Fox Broadcasting, Kaplan Inc., etc.<br></li><li>Live and work in one of our roaming hacker houses (X-Outposts) around the world. http://x-outpost.com<br></li><li>Work from anywhere as part of a community of digital nomads.<br></li><li>Join our vibrant community, filled with opportunities to learn new skills together in study groups, join clubs (photography, gaming, etc.) and get free camera equipment/games/conferences/courses/massages/etc., charitable fundraisers, fitness &amp; yoga programs (+gym membership), etc. This is the community to be in if you're a remote developer.<br></li><li>We’ll provide up to $2,500 in funding for your learning and growth through our Unleash program, which provides opportunities to unleash your potential through initiatives that help you grow as a developer and explore your passions more each day. (http://x-team.com/unleash)</li></ul><div><br></div><div><b>FAQ:</b></div><div>Who is X-Team meant for?</div><div>- Any freelance developers with experience working on high-scale, remote teams and projects with a motivated, proactive attitude and compassionate, team-player heart. If you've worked with freelancing platforms before, that's not what we are. X-Team is a community of all likeminded people, carefully chosen to ensure we are able to create an environment of the most motivated people in the world who come together to unleash their potential. What we've created is truly special and not a faceless platform. X-Team is where developers go to feel truly at home together, while becoming more motivated than they've ever been.</div><div><br></div><div>What are you hiring for right now?</div><div>- We are hiring for Data Engineers to fill some exciting new opportunities we have. We're also hiring for a variety of other skills, such as PHP, React, React Native, Cryptocurrency/blockchain, Node.js, Salesforce, DevOps, and Golang.</div><div><br></div><div>Will I get a job immediately after applying?</div><div>- If your skills, experience and values align with a current opening we have, your chances of getting hired immediately are high. If we discover you're qualified but all opportunities have been taken, we'll continue to work with you to help you get a role in X-Team. The key is having the most relevant, in-demand skills when you apply.</div><div><br></div><div>What kind of opportunities do you provide?</div><div>- We provide full-time opportunities that last, on average, for 10 months. After your role ends (and so long as you've performed well), we continue to give you work internally with us until we find you a new opportunity. This ensures that X-Team can be a stable work option for you as a freelancer.</div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Apply here: <a href='https://x-team.com/remote-data-engineer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q4-18' rel='nofollow'>https://x-team.com/remote-data-engineer-jobs/?utm_source=weworkremotely&amp;utm_medium=board&amp;utm_campaign=wwr-q4-18</a></p>  </div>",
+    "urlFetchPending": false,
+    "published": "Apr 2, 2018 10:04:11 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend",
+      "go"
+    ]
+  },
+  {
+    "id": "dBT27MNCQaOTXehg7EAFfg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16737687",
+    "title": "Canonical | Software Engineer | Full Time | REMOTE Canonical is the company behind Ubuntu Linux. We are a globally distributed team ...",
+    "content": "<div>                  <span>Canonical | Software Engineer | Full Time | REMOTE<p>Canonical is the company behind Ubuntu Linux. We are a globally distributed team passionate about open source.</p><p>Canonical is hiring for roles across engineering and elsewhere: <a href='https://grnh.se/8kfpq1yt1' rel='nofollow'>https://grnh.se/8kfpq1yt1</a>. Our typical tech stack includes python and golang, and products are generally open source, and openly developed.</p><p>Here's some of the open roles:</p><p>- Software Engineer, Juju: <a href='https://grnh.se/r22x7qu01' rel='nofollow'>https://grnh.se/r22x7qu01</a>Looking for go developer who has networking experience to join our juju engineering team. Juju is a modeling and software orchestration tool that is capable of deploying to clouds, containers or bare metal.</p><p>- Software Engineer, JAAS: <a href='https://grnh.se/svkwm76u1' rel='nofollow'>https://grnh.se/svkwm76u1</a>Looking for go developer who wants to work on SAS offering for modeling software. Challenges include distributed computing, distributed trust models, and availability across public clouds.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 2, 2018 9:37:05 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "v6g-oSY_TQSM3hbH_Xwwcw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "weworkremotely.com-programming",
+    "url": "https://weworkremotely.com/remote-jobs/moveon-org-full-stack-software-engineer",
+    "title": "MoveOn.org: Full Stack Software Engineer",
+    "content": "<div>  <div>    <h2>Full Stack Software Engineer</h2>      <h4>Posted Apr  2</h4>    <h3>      <span>MoveOn.org</span><br>      <span>Headquarters: Virtual</span><br>        <a href='http://www.moveon.org' rel='nofollow'>www.moveon.org</a>      <br>      <a rel='nofollow'>View all MoveOn.org jobs →</a>    </h3>  </div></div>  <div>    <div><span></span></div><div><span>MoveOn.org</span><br></div><div><span>FULL STACK SOFTWARE ENGINEER</span><br></div><div><span>Full-time</span><span> •&nbsp;Starts ASAP and ends Nov 30 •&nbsp;Competitive pay • Excellent benefits</span><br></div><div><span>Work from anywhere in the continental U.S.</span></div><div><br></div><div><span>Our country is in a crisis, and stakes in 2018 couldn’t be higher. Since Donald Trump took office, MoveOn members have been a pillar of the resistance to the radical policies coming out of Congress and the White House. In this election, MoveOn will mobilize a grassroots wave to take back our government and create a nation where all can thrive—one marked by justice, sustainability, economic security, peace, and mutual care</span></div><div><br></div><div><span>MoveOn.org’s </span><a href='https://front.moveon.org/plans-for-15-mil-resist-and-win/' rel='nofollow'><span>“Resist &amp; Win”</span></a><span> 2018 election program centers on recruiting, training, and supporting hundreds of volunteer leaders in more than 100 congressional districts to mobilize thousands of volunteers to join them in strategic movement building and voter engagement actions—paired with the power of our cutting-edge Video Lab, Analytics, Technology, and Digital Campaigning teams. </span></div><div><br></div><div><span>We are determined to make the 2018 elections a turning point, helping Democrats win the U.S. House to create a roadblock to Trump and Republicans’ ability to advance their toxic agenda, while building the movement for racial, economic, immigrant, and climate justice, and electing new progressive champions who can help lead our country to a better future in races down ballot across the country. </span></div><div><br></div><div><span>With millions of members nationwide and a 20-year track record of winning electoral and progressive issue campaigns and breaking new digital and field organizing ground, MoveOn is uniquely suited to power the progressive wave it will take to win back control of the House in 2018 and strengthen our collective movement. </span></div><div><br></div><div><span>Responsibilities:</span></div><div><br></div><ul><li><span>Write code and lead projects that span the entire software stack, including prototyping, rich front-end apps, APIs, high-performance back-end applications, database design, and cloud architecture.</span><br><br></li><li><span>Create and contribute to open source projects that share MoveOn’s innovations with the larger developer community.</span><br><br></li><li><span>Research and adopt new technologies and programming languages to improve our work.</span><br><br></li><li><span>Contribute to software architecture discussions and decisions.</span><br><br></li><li><span>Come up with ideas for new innovative distributed-organizing applications.</span><br><br></li><li><span>Learn, grow, and succeed in your career.</span><br><br></li></ul><div><span>Required skills and experience:</span></div><div><br></div><ul><li><span>Fluent in at least one front-end programming language and web development platform, and at least one back-end programming language and web development platform.</span><br><br></li><li><span>Interested in learning and diving into new languages, tools, and frameworks.</span><br><br></li><li><span>Familiar with agile software development methodologies.</span><br><br></li><li><span>Curious, fearless learner and problem solver.</span><br><br></li><li><span>A determined, thorough, and relentless finisher, able to reliably drive tasks and projects from idea to completion, production, scaling, and beyond.</span><br><br></li><li><span>Ability to be effective in an organization whose staff all work remotely.</span><br><br></li></ul><div><span>Reports to:</span><span> Chief Technology Officer</span></div><div><br></div><div><span>Classification, Salary, and Benefits:</span><span> Full-time; highly competitive salary includes benefits such as 100%-employer-paid premiums for medical, dental, and vision insurance for all staff and their children; employer-paid premiums for life insurance for all staff; 13.32 hours accrued vacation per month; 6.66 hours accrued sick leave per month; floating and all-staff holidays; and reimbursement of home office expenses. &nbsp;</span></div><div><br></div><div><em>MoveOn.org Civic Action and MoveOn.org Political Action provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran, in accordance with applicable federal, state, and local laws.</em><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Go to <a href='https://grnh.se/4j15ysc61' rel='nofollow'>https://grnh.se/4j15ysc61</a> to submit an application</p>  </div>",
+    "urlFetchPending": false,
+    "published": "Apr 2, 2018 9:24:51 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "mgQQnZfjSr-IB7bOPa6XAA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16737051",
+    "title": "Datawire | Telepresence OSS Engineer | Full-time | REMOTE and ONSITE (Boston)",
+    "content": "<div>                  <span>Datawire | Telepresence OSS Engineer | Full-time | REMOTE and ONSITE (Boston)<p>Datawire is a Boston-based startup that builds open source tools so that developers can code faster on Kubernetes. Our tools include Telepresence (<a href='https://www.telepresence.io' rel='nofollow'>https://www.telepresence.io</a>) for local development; Forge (<a href='https://forge.sh' rel='nofollow'>https://forge.sh</a>) for build/deployment; and Ambassador (<a href='https://www.getambassador.io' rel='nofollow'>https://www.getambassador.io</a>), an API Gateway for Kubernetes.</p><p>We're looking for a systems engineer who has a strong understanding of systems and networking. This is <i>not</i> a job if you consider yourself a &quot;full-stack engineer&quot;. If you would be comfortable hacking on a VPN client, consider yourself a strong candidate :-). We're looking for someone who's fluent in at least one of Python/Golang/C. Kubernetes experience a huge plus, but not required.</p><p><a href='https://www.datawire.io/careers/' rel='nofollow'>https://www.datawire.io/careers/</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 2, 2018 8:51:06 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "xFHsfgp2TM247SHywToA0g",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16736706",
+    "title": "CyberArk (Conjur team) | Front End / Backend / DevOps / Security | REMOTE (OR ONSITE NEWTON, MA) | FULL-TIME",
+    "content": "<div>                  <span>CyberArk (Conjur team) | Front End / Backend / DevOps / Security | REMOTE (OR ONSITE NEWTON, MA) | FULL-TIME<p>The CyberArk Conjur team helps people write super reliable software that's hard to hack. We're building tools that make the best security practices convenient for developers, ops, and security teams. We're hiring engineering managers, product owners, and of course, engineers.</p><p>ABOUT US</p><p>We're a fast-growing team, thanks to the increasing success of our product: the Conjur appliance secures the entire software development and deployment lifecycle for companies who want to ship features as fast as possible without increasing their risk of security breaches.</p><p>We are looking for experienced software engineers to join our team. Conjur engineers work on a wide variety of projects, from integrations with some of today's most popular DevOps tools to moonshot projects that seek to revolutionize the way engineering teams factor in security when deploying applications.</p><p>We know that if you're a professional engineer, experience with specific tools or languages can usually be picked up quickly. That being said, Conjur engineers are using the following tools on a more-or-less daily basis:- Ruby, Rails, Golang, Postgres, and JS - Docker, Git, and Jenkins - Kubernetes, OpenShift, Cloud Foundry - Puppet, Chef, Ansible</p><p>FOR MORE INFORMATION</p><p>conjur.org (our secret service, AGPLv3)<a href='https://www.conjur.com/careers/engineering/puzzle' rel='nofollow'>https://www.conjur.com/careers/engineering/puzzle</a> (our coding puzzle)conjur.org/blog (our blog, which talks more about who we are and what we do)<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 2, 2018 8:23:05 PM",
+    "tags": [
+      "REMOTE1/50",
+      "TECH1/go",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "go",
+      "ruby"
+    ]
+  },
+  {
+    "id": "tt7vayvkQ2S2whZqpBvpuQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16736485",
+    "title": "Kolide | Early-Stage | Full-time | Remote first, Onsite optional | Somerville, MA | https://kolide.com/",
+    "content": "<div>                  <span>Kolide | Early-Stage | Full-time | Remote first, Onsite optional | Somerville, MA | <a href='https://kolide.com/' rel='nofollow'>https://kolide.com/</a><p>Kolide is an early-stage startup with a mission to build the world’s next generation endpoint security and infrastructure analytics platform. At it’s core, Kolide enables you to ask computers important questions, get back immediate answers, and take decisive action. Kolide does all this by leveraging the awesome power of Facebook’s osquery framework and extending it with built-in security and operations expertise. You'll have the opportunity to work on open-source software with the creators of osquery, led by a former FireEye executive.</p><p>Our Current Stack:</p><p></p><pre><code>  * Go  * Javascript  * Kubernetes  * C++</code></pre>Roles we are hiring for:<p></p><pre><code>  * Site Reliability Engineer   * Software Engineer: Backend, Frontend, and Host   * Security Engineer </code></pre>Contact us at jobs@kolide.co | More info: <a href='https://kolide.com/careers' rel='nofollow'>https://kolide.com/careers</a><span>              </span><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 2, 2018 8:05:06 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
+    "id": "mG_CoNIaQwunc-YdvomJXw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "angel.co",
+    "url": "https://angel.co/cycloid_io/jobs/117869-cloud-devops-container-engineer-with-go-development-backend-working-in-remote-in-europe-or-on-site-in-paris-on-cycloid-io-devops-platform-with-ci-cd-container-pipeline-devops-services",
+    "title": "Cloud DevOps Container Engineer with Go development backend working in remote in Europe or on-site in Paris on cycloid.io: DevOps platform with CI/CD container pipeline & DevOps Services",
+    "content": "<div><h2>Cloud DevOps Container Engineer with Go development backend working in remote in Europe or on-site in Paris on cycloid.io: DevOps platform with CI/CD container pipeline &amp; DevOps Services at Cycloid</h2><div>Europe, Sweden, Israel, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>Machine Learning, Automation, Continuous Integration, Managed Services, Continuous Deployment, Continuous Delivery, AWS/EC2/ELB/S3/DynamoDB, Docker, Ansible, Sensu, AWS, Kubernetes, Terraform, PACER, concourse, Go</div><div>Compensation</div><div>$40K–$100K<br>No Equity</div><div>Visa Sponsorship</div><div>Not available</div></div><h3>Job Description</h3><div><p>You are a passionate DevOps, which is the most important, with a major expertise in Operations with troubleshooting. You believe that containers (Kubernetes &amp; Docker) are the future. Pacer, Ansible, Terraform, Prometheus are well-known to you.<br> <br>On the Ops side, you have a successful experience in a Cloud provider certifications are preferred.</p><p>You love to design architecture, collaborate with developers to fix problems and provide long-term solutions. Providing service and automation on Cloud is a pleasure and with your experience, you understand why public cloud is the solution.</p><p>On the Dev/R&amp;D side, you want to be a change-maker by developing products that will facilitate DevOps and Cloud adoption for our customers. </p><p>The main difference between a SysOps and a DevOps is that you have an experience in development and that you are able to contribute to Cycloid product roadmap. </p><p>If you have an experience in Development: C / C++, Golang would be better, or any another concrete experience/language. </p><p>If not, you will work then 50% on services &amp; 50% R&amp;D to improve both your skills and break the monotony.</p><p>You can decide to work on-site in Paris or on remote whenever you are located in Europe but all the organization is in an asynchronous manner, keeping a good team culture through Slack and conference meetings. </p><p>You like to identify problems, are capable of commenting in a constructive, positive &amp; open way to the team. Mindset is what is the most important.</p><p>You have adequate written and oral communication skills in English, any others languages would be a plus.</p><p>Cycloid is committed to having equality between women and men. In that way, we strongly encourage women's application. </p><p>The salary will depend on your skills and location.</p></div>",
+    "urlFetchPending": false,
+    "published": "Mar 26, 2018 6:46:19 PM",
+    "tags": [
+      "AWS/EC2/ELB/S3/DynamoDB",
+      "Ansible",
+      "Automation",
+      "Backend Developer",
+      "Continuous Delivery",
+      "Continuous Deployment",
+      "Continuous Integration",
+      "DevOps",
+      "Docker",
+      "Europe",
+      "Full Time",
+      "Israel",
+      "Machine Learning",
+      "Managed Services",
+      "REMOTE1/100",
+      "Remote OK",
+      "Sensu",
+      "Sweden",
+      "Systems Engineer",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "go"
+    ]
+  },
+  {
     "id": "iHVCTi78TRqcT4ZsUQMs-A",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -665,29 +971,6 @@
     "content": "<h2>              Lead Software Engineer  - Go<small> @ Status</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-01-25 22:28</p></dd>          <dt><span>Description</span></dt>          <dd><p><strong>Status</strong></p><p>Status is a fast growing, completely decentralized startup developing powerful DApps (decentralized apps) for Ethereum that change the way we do things on the web. To do this we need passionate, talented &amp; self-motivated candidates to join our global decentralized team.</p><p>As a product, Status is an open source discovery tool for Ethereum that makes it easy for anyone to access DApps and services built on the decentralized web. Status also allows users to chat, make payments and more, securely using Ethereum’s protocols.</p><p><strong>Opportunity</strong></p><p>It’s still just the beginning, but the promise of Web 3.0 and Ethereum is here to stay. Our secret weapon is having passionate people on a mission to develop the gateway into this new world. If you want to be part of this adventure, join our disruptive distributed global team</p><p><strong>Job role</strong></p><p>You will lead the team that will improve the Go implementation of Whisper.</p><p>Whisper is a communication protocol, and your team’s challenge will be to make it more robust and tackle the low-bandwidth and unpredictable latency associated with this protocol in a decentralized environment.</p><p>More information here: <a href='https://github.com/ethereum/wiki/wiki/Whisper' rel='nofollow'>https://github.com/ethereum/wiki/wiki/Whisper</a></p><p><strong>Responsibilities</strong></p><ul><li>Deliver high-quality services into production in short sprint cycles</li><li>Ensure strong cooperation among your team and with other teams across the company.</li><li>Allocate tasks, responsibilities, and priorities among your team</li><li>Own responsibility for the performance of your team.</li><li>Onboard and train new members of your team</li><li>Independently design, build, maintain and take on ownership of complex software modules and services</li><li>Shape, facilitate and survey coding guidelines and quality standards</li><li>Support and coach Junior and Professional engineers to expedite their development</li><li>Set up complex development, test and production environments</li></ul><p><strong>Requirements</strong></p><ul><li>7+ years experience building complex applications</li><li>Hands-on experience with Go</li><li>3+ years experience leading teams</li><li>You must be comfortable working with an existing codebase</li><li>Operational experience working with teams, in delegation and prioritization</li><li>You are excited by P2P technologies and cryptocurrencies</li><li>Strong software engineering practices</li><li>Ability to pick up new technologies quickly</li><li>Fluency in written and spoken English</li><li>Excellent people skills, ability to coach, experience in conflict resolution.</li><li>In-depth knowledge of staff development &amp; performance management.</li><li>Confidence in driving architectural decisions</li><li>Excellent communication skills in terms of moderating dialogues and managing conflicts</li></ul><p><strong>Working at Status</strong></p><p>Status is a decentralized organization. You will not have a boss, a work schedule, or vacation limits. What you will have is responsibility to your collaborators to do your best, keep up with your responsibilities, and support your team's priorities. At Status we are all working toward the goal of expanding and supporting the Ethereum space.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
     "urlFetchPending": false,
     "published": "Jan 26, 2018 12:28:01 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "go"
-    ]
-  },
-  {
-    "id": "pQqy1eMQSHuyhamELkkacg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4091-go-backend-developer-blockchain-loom-network",
-    "title": "Go Backend Developer - Blockchain @ Loom Network",
-    "content": "<h2>              Go Backend Developer - Blockchain<small> @ Loom Network</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-01-10 03:36</p></dd>          <dt><span>Description</span></dt>          <dd><p>Loom Network makers of <a href='http://cryptozombies.io' rel='nofollow'>Cryptozombies</a> is looking for Senior backend Go developers.  We are building blockchain infrastructure software in Go. This is high performance distributed programming, knowledge of things like Raft, Consensus or Blockchain tech is ideal. Any experience with Solidity is a bonus.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere*</p></dd>            <dt><span>Location</span></dt>            <dd><p>GMT+7 or other Asian timezones</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Jan 10, 2018 5:28:11 AM",
     "tags": [
       "REMOTE1/100",
       "TECH1/go",

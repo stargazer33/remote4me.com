@@ -1,6 +1,29 @@
 {
  "items": [
   {
+    "id": "IY27NdzcRI6nW6BfitoYwQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16743193",
+    "title": "Airtame (https://airtame.com) | Copenhagen, Denmark | Full-time, Onsite/Remote",
+    "content": "<div>                  <span>Airtame (<a href='https://airtame.com' rel='nofollow'>https://airtame.com</a>) | Copenhagen, Denmark | Full-time, Onsite/Remote<p>Airtame is a fast-growing startup. Our wireless streaming solution helps people work better. We are based in windy Copenhagen, but have an office in New York that takes care of our U.S. customers. We're currently hiring:</p><p>* Senior Embedded Linux Engineer - Copenhagen, Denmark or Europe (<a href='https://airtame.com/jobs?gh_jid=4010452002' rel='nofollow'>https://airtame.com/jobs?gh_jid=4010452002</a>)</p><p>* Software Engineer in Test - Copenhagen, Denmark or Europe (<a href='https://airtame.com/jobs?gh_jid=4012067002' rel='nofollow'>https://airtame.com/jobs?gh_jid=4012067002</a>)</p><p>* Web Developer - Copenhagen, Denmark (<a href='https://airtame.com/jobs?gh_jid=4017568002' rel='nofollow'>https://airtame.com/jobs?gh_jid=4017568002</a>)</p><p>Our talented engineers are given significant ownership and responsibility over projects. We value rapid iteration, continuous integration and testing, and we are serious about producing high-quality, maintainable software. Frequent code reviews, linting, and pairing are all integral components of our engineering culture. We encourage experimenting with new technologies and constantly challenge ourselves to improve our code, processes, and systems.</p><p>You can read a bit about our values on our Company Culture Favro Board: <a href='https://favro.com/widget/2114a98cde73c1145a93bd8e/28429a244982e81373559868' rel='nofollow'>https://favro.com/widget/2114a98cde73c1145a93bd8e/28429a2449...</a></p><p>We sponsor work visas for non-EU applicants.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 3, 2018 1:00:06 PM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded"
+    ]
+  },
+  {
     "id": "wQoYu37ER3KQrgsv10P-bw",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -229,33 +252,6 @@
     "tagsNames2": [
       "embedded",
       "python"
-    ]
-  },
-  {
-    "id": "b7B40do9TPu1XZma0_A2Rg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4079-embedded-engineer-bread",
-    "title": "Embedded Engineer @ Bread",
-    "content": "<h2>              Embedded Engineer<small> @ Bread</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-01-08 03:45</p></dd>          <dt><span>Description</span></dt>          <dd><p>We are looking for an experienced C developer to join our mobile team to help us build the best crypto currency experience in the world. Our vision is to decentralize banking and bring the power of financial services to everyone in the world, including the nearly 2 billion adults that to this day remain unbanked.</p><p><strong>Embedded development at Bread</strong></p><p>Bread's origins trace back to the desire to build a beautiful product underpinned by beautiful software. Our mobile wallet connects directly to cryptocurrency peer to peer networks and as such has a unique set of requirements that differs from those that depend on a centralized server. To accomplish this task we've built a standalone C library which provides a full bitcoin SPV wallet. Aaron Voisine, the author of the library, has painstakingly crafted this library so it can be used in both our iOS and Android wallets.</p><p>This codebase is responsible for providing access to billions of dollars in assets on customers wallets. It's paramount that we continue to maintain and evolve the library to meet our business and our customer needs. This includes adding support for more cryptocurrencies, and building a testing infrastructure so we can automatically verify correctness.</p><p><strong>What we're doing at Bread</strong></p><p>Bread is at the heart of a financial revolution. We're building the missing piece of infrastructure that ties together the essential functionality of a bank, but where individuals retain complete control over their assets. As a a financial infrastructure company, our mission is unlikely to ever be complete. We need continually strive to bring the power of our apps to new regions of the world, some of which have never had wide access to banking functionality.</p><p>Our approach to this problem heavily focuses on several core tenants. For one, we will never have direct control or visibility over customer funds. It is not our job to interfere in the personal financial lives of our customers. This is accomplished by using digital assets like Bitcoin, and a mobile app like ours which manages its assets on-device.</p><p>The second tenant of our approach is to provide integration with the traditional financial system. Regardless of the currency, people still need to get paid, pay their bills, pay for goods at merchants, and send money to their family and friends. We are building infrastructure that integrates with local financial businesses that tie in with local currencies and adhere to local laws.</p><p>Finally, we need to fight for a quality consumer experience. This is why we try to retain control over every moment of our customer's interaction with our products. We relentlessly design, redesign, test, and experiment to ensure our customers have a positive, safe experience.</p><p><strong>What it's like to work here</strong></p><p>We've built a lively remote work culture that emphasizes regular personal interaction. At Bread, we started as a remote team and have built our workflows around it. This allows us to hire people who want to work with us, regardless of where they've decided to settle (or roam). </p><p>Work-life balance is important to everyone at Bread, and we strive to ensure everyone has enough time for family, exercise, and mental health. In our opinion, a happy and healthy team is an essential ingredient to finding creative solutions to the hard problems we're trying to solve.</p><p>We're more operationally transparent than you may be used to. The entire Bread team has access to a variety of dashboards that help our distributed team make better decisions. If you have a question that can't be answered by a dashboard or an easy query, let's see if we can fix that.</p><p>Bread is committed to building an actively inclusive work environment that makes our team an excellent home for everyone—regardless of gender, sexual orientation, ethnicity, race, education, age, or other personal characteristics.</p><p><strong>Requirements</strong></p><p>There are no hard requirements, so if you see something listed here that you're unsure about, please don't hesitate to ask!</p><ul><li>5+ years of software engineering experience</li><li>Confidence working with low-level C code</li><li>Ability to write unit tests, integration tests</li><li>Comfortable working with threading, sockets, and cryptography </li><li>A desire to learn and grow your skills</li><li>You value your attention to detail</li></ul><p>Nice to haves:</p><ul><li>Experience with the low level concepts in blockchains</li><li>Mobile development experience</li><li>Java and JNI</li><li>Swift and Swift-C bindings</li><li>Crypto currency experience will help you get up to speed quicker</li></ul><p>You should include these in your application:</p><ul><li>Resume and LinkedIn profile</li><li>Links to code samples on Github, Gitlab, etc</li></ul></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere*</p></dd>            <dt><span>Location</span></dt>            <dd><p>USA/Canada/Mexico</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Jan 8, 2018 5:45:28 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/c",
-      "TECH1/embedded",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "c",
-      "embedded"
     ]
   }
 ]
