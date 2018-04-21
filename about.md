@@ -20,7 +20,8 @@ Enjoy (or loathe) it.
 
 
 ### Credits
-I am very grateful to the authors of [Apache Lucene](https://lucene.apache.org/core/) - they created a great instrument; the above-mentioned rules are actually the Lucene queries. A significant part of web crawling code is written by [Sergei Poznanski](https://www.linkedin.com/in/sergei-poznanski/) - without his support this project would not cover so many job boards.
+I am very grateful to the authors of [Apache Lucene](https://lucene.apache.org/core/) - they created a great instrument. 
+A significant part of web crawling code is written by [Sergei Poznanski](https://www.linkedin.com/in/sergei-poznanski/) - without his support this project would not cover so many job boards.
 
 ### Contacts
 <a href="mailto:%22Dmitri%20Geller%22%3cbackend.developer.33@gmail.com%3e">Email: backend.developer.33@gmail.com</a>
