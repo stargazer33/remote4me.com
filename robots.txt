@@ -1,5 +1,10 @@
-User-agent: Browsershots
-Disallow:
-
 User-agent: *
-Disallow: /
+Disallow: /assets/
+Disallow: /misc/
+Disallow: /_data/
+Disallow: /_drafts/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_plugins/
+Disallow: /_posts/
+Disallow: /_site/
