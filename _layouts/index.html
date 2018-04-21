@@ -26,7 +26,7 @@ layout: default
     <div class="container" style="padding-top: 0px; border-bottom: none;">
         <div class="row">
             <div class="col-md-4">
-                <h2 class="section_header elegant">&nbsp;Remote developer jobs<small>For each technology stack</small></h2>
+                <h2 class="section_header elegant">&nbsp;Developer jobs<small>For each technology stack</small></h2>
                 <p></p>
                 {% for node in col1_nodes %}
                 <p><a href="{{ node.url }}">{{ node.title }}</a> - {{ node.tagline }}
@@ -34,7 +34,7 @@ layout: default
                 {% endfor %}
             </div>
             <div class="col-md-4">
-                <h2 class="section_header elegant">&nbsp;Remote tech jobs<small>For techies who are not developers</small></h2>
+                <h2 class="section_header elegant">&nbsp;Tech jobs<small>For techies who are not developers</small></h2>
                 {% for node in site.data.jobnav %}
                 {% if node.col == 2 %}
                 <p><a href="{{ node.url }}">{{ node.title }}</a> - {{ node.tagline }}
@@ -43,7 +43,7 @@ layout: default
                 {% endfor %}
             </div>
             <div class="col-md-4">
-                <h2 class="section_header elegant">&nbsp;Remote non-tech jobs<small>"Remote" is not only for engineers!</small></h2>
+                <h2 class="section_header elegant">&nbsp;Non-tech jobs<small>"Remote" is not only for engineers!</small></h2>
                 {% for node in site.data.jobnav %}
                 {% if node.col == 3 %}
                 <p><a href="{{ node.url }}">{{ node.title }}</a> - {{ node.tagline }}
