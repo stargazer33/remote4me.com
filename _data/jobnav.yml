@@ -19,20 +19,20 @@
       datafile: TECH1_mobile
 
     - title: Remote Java jobs
-      tagline: backend Java and Scala
+      tagline: backend Java and Scala (except Android and (data) science)
       undertagline: "<strong>Includes</strong>: Backend- and Web-programming with Java and Scala <br/><strong>Excludes</strong>: Android programming"
       url: /remote-java-jobs
       datafile: TECH1_java
 
     - title: Remote .NET jobs
-      tagline: C# and other Microsoft technologies.
+      tagline: C#, .NET and other Microsoft technologies (except Windows Phone)
       undertagline: "<strong>Includes:</strong> C# and other .NET languages; VB.NET, ASP.NET, WPF, desktop applications for Windows, Microsoft Azure and other Microsoft technologies. <br/><strong>Excludes:</strong> Windows Phone"
       url: /remote-dotnet-jobs
       datafile: TECH1_dotnet
 
     - title: Remote (Big) Data or Machine Learning or Scientist jobs
-      tagline: statistics, mathematics and algorythms
-      undertagline: "<strong>Includes:</strong> everything related to statistics or mathematics, Big Data, Machine Learning, Data Science. R programming language, Apache Hadoop, Apache Spark. <br/><strong>Excludes:</strong> Web programming with Java or Python"
+      tagline: statistics, mathematics and algorythms, R, Mathlab, neural networks
+      undertagline: "<strong>Includes:</strong> everything related to statistics or mathematics, Big Data, Machine Learning, Data Science. R programming language, Mathlab, neural networks, Apache Hadoop, Apache Spark. <br/><strong>Excludes:</strong> Web programming with Java or Python"
       url: /remote-big-data-science-machine-learning-jobs
       datafile: TECH1_bigdata-ml
 
@@ -61,13 +61,13 @@
       datafile: TECH1_go
 
     - title: Remote C/C++ jobs
-      tagline: using tools like GCC, glibc, STL
+      tagline: using tools like GCC, glibc, STL and Assembly language
       undertagline: "<strong>Includes:</strong> technologies like Qt, GCC, glibc, STL, Boost and Assembly language"
       url: /remote-c-plus-plus-jobs
       datafile: TECH1_c
 
     - title: Remote PHP jobs
-      tagline: frameworks like WordPress, Laravel
+      tagline: frameworks like WordPress, Drupal, Laravel
       undertagline: "<strong>Includes:</strong> PHP frameworks like WordPress, Drupal, Laravel, Symfony, CodeIgniter, Zend"
       url: /remote-php-jobs
       datafile: TECH1_php
@@ -85,13 +85,13 @@
       datafile: TECH1_embedded
 
     - title: Remote gamedev jobs
-      tagline: game development, engines like Unity
+      tagline: game development, engines like Unity, Unreal Engine, GameMaker
       undertagline: "<strong>Includes:</strong> game development, game engines like Unity, Unreal Engine, GameMaker, CryEngine, Cocos2d-x"
       url: /remote-gamedev-jobs
       datafile: TECH1_gamedev
 
     - title: "Remote jobs with other technologies"
-      tagline: Perl, Clojure, Elixir, Rust ...
+      tagline: Perl, Clojure, Haskell, Elixir ...
       undertagline: "<strong>Includes:</strong> Perl, Clojure, Haskell, Elixir, Rust, Shell script, Lisp, Erlang, OCaml, F#"
       url: /remote-other-technologies-jobs
       datafile: TECH1_other
