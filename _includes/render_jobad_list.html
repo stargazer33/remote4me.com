@@ -1,8 +1,20 @@
 {% assign thisnodes = site.data.jobnav | where:"url", page.permalink %}
+
 {% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
 {% if difference contains '-' %}
 {% assign thisnodes = site.data.jobnav[site.jobnav_developers_node].subnodes | where:"url", page.permalink %}
 {% endif %}
+
+{% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
+{% if difference contains '-' %}
+{% assign thisnodes = site.data.jobnav[site.jobnav_tech_node].subnodes | where:"url", page.permalink %}
+{% endif %}
+
+{% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
+{% if difference contains '-' %}
+{% assign thisnodes = site.data.jobnav[site.jobnav_nontech_node].subnodes | where:"url", page.permalink %}
+{% endif %}
+
 {% assign datafile = thisnodes[0].datafile %}
 {% assign jobadlist = site.data[datafile].items %}
 <section class="hgroup">
