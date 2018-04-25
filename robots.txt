@@ -1,5 +1,6 @@
+Sitemap: http://metajob.org/sitemap.xml
+
 User-agent: *
-sitemap: http://metajob.org/sitemap.xml
 Disallow: /_data/
 Disallow: /_drafts/
 Disallow: /_includes/
@@ -7,3 +8,4 @@ Disallow: /_layouts/
 Disallow: /_plugins/
 Disallow: /_posts/
 Disallow: /_site/
+Disallow: /404.html
