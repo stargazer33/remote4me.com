@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 group: navigation
+breadcrumb_title: Miscellaneous
+breadcrumb_url: /misc/pages.html
 ---
 <img style='float:right;height:300px;width:199px;margin: 0px 0px 10px 10px;' src="/assets/img/selfie2_300_200.jpg" />
 I'm Dmitri Geller, a software developer in Odessa/Ukraine responsible for just about everything on this site (including bugs). 

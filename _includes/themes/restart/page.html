@@ -6,6 +6,7 @@
 
         <ul class="breadcrumb pull-right">
             <li><a href="{{ HOME_PATH }}">Home</a> </li>
+            {% if page.breadcrumb_title %}<li><a href="{{ page.breadcrumb_url }}">{{ page.breadcrumb_title }}</a></li>{% endif %}
             <li class="active">{{ page.title }}</li>
         </ul>
     </div>
