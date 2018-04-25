@@ -1,5 +1,5 @@
 This is my personal site [stargazer33.github.io](https://stargazer33.github.io/)
-I use it to publish results of my aggregator for remote tech jobs - Metajob.
+I use it to publish results of my aggregator for remote tech jobs - <a href="http://metajob.org">metajob.org</a>
 
 ## License
 
