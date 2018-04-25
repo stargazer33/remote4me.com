@@ -1,7 +1,53 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
-</div>
+<section class="hgroup">
+  <div class="container">
+    <h1 class="elegant">{{ page.title }}</h1>
+    <h2>{% if page.tagline %}{{ page.tagline }}<br/>{% endif %}
+      <small><span>{{ page.date | date_to_long_string }}</span>
+      {% unless page.categories == empty %}
+      &nbsp;&nbsp;<span>Under {% assign categories_list = page.categories %}{% include JB/categories_list %}</span>
+      {% endunless %}
+      </small>
+    </h2>
+    {% if page.undertagline %}
+    <br>
+    <p>{{ page.undertagline }}</p>
+    {% endif %}
 
+    <ul class="breadcrumb pull-right">
+      <li><a href="{{ HOME_PATH }}">Home</a> </li>
+      {% if page.breadcrumb_title %}<li><a href="{{ page.breadcrumb_url }}">{{ page.breadcrumb_title }}</a></li>{% endif %}
+      <li class="active">{{ page.title }}</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div id="leftcol" class="col-sm-8 col-md-8">
+        <article class="post">
+          <div class="post_content">
+            {{ content }}
+          </div>
+        </article>
+      </div>
+
+      <div id="sidebar" class="col-sm-4 col-md-4">
+        {% unless page.tags == empty %}
+        <aside class="widget">
+          Tags:&nbsp;
+          {% assign tags_list = page.tags %}
+          {% include JB/tags_list %}
+        </aside>
+        {% endunless %}
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+<!--
 <div class="row post-full">
   <div class="col-md-12">
     <div class="date">
@@ -43,6 +89,6 @@
       {% endif %}
     </ul>
     <hr>
-    {% include JB/comments %}
   </div>
 </div>
+-->

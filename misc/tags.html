@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Tags
-header: Posts By Tag
+title: Blog tags
+header: Blog posts by tag
+breadcrumb_title: Miscellaneous
+breadcrumb_url: /misc/pages.html
 ---
 {% comment %}
 group: navigation
@@ -16,7 +18,7 @@ group: navigation
 
 
 {% for tag in site.tags %} 
-  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+  <h3 class="section_header elegant" id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
   <ul>
     {% assign pages_list = tag[1] %}  
     {% include JB/pages_list %}

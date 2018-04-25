@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Categories
-header: Posts By Category
+title: Blog categories
+header: Blog posts by category
+breadcrumb_title: Miscellaneous
+breadcrumb_url: /misc/pages.html
 ---
 {% comment %}
 group: navigation
@@ -15,8 +17,8 @@ group: navigation
 </ul>
 
 
-{% for category in site.categories %} 
-  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
+{% for category in site.categories %}
+  <h3 class="section_header elegant"id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h3>
   <ul>
     {% assign pages_list = category[1] %}  
     {% include JB/pages_list %}
