@@ -11,4 +11,7 @@ Job ads are posted on multiple job boards. Very often the job boards set the che
 
 The author found no site capable to do both the aggregation and the correct classification “remote vs onsite job”. Additionally, the per-technology-stack job classification of existing job boards/aggregators is far from optimal (all the Javascript, Java and, let say, Python jobs are in one huge list: have fun searching it).
 
-Therefore this site was built. It distinguishes between the “100% remote” and the “50% remote” jobs. And it categorizes tech jobs by position and technology stack. Additionally, it tags the job ads with the time zone and work authorization tags.
+Therefore this site was built. It distinguishes between the <a href="/faq/2018/04/22/what-does-a-100-percent-remote-job-mean" >"100% remote"</a> and the <a href="/faq/2018/04/25/what-does-a-50-percent-remote-job-mean">"50% remote"</a> jobs. And it categorizes tech jobs by position and technology stack. Additionally, it tags the job ads with the time zone and work authorization tags.
+
+
+
