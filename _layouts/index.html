@@ -6,8 +6,7 @@ layout: default
     <div class="container" style="padding-top: 0px;">
         <div class="row">
             <div class="col-sm-8">
-                <h1 style="color: #428bca;">AN AGGREGATOR FOR REMOTE JOBS<br/>
-                    <small>in tech and non-tech</small></h1>
+                <h1 style="color: #428bca;">{{ page.tagline }}</h1>
             </div>
             <div class="col-sm-4">
                 <ul style="padding-left: 0px;">
@@ -27,21 +26,21 @@ layout: default
                 <h2 class="section_header elegant">{{ site.data.jobnav[site.jobnav_developers_node].title }}</h2>
                 <p></p>
                 {% for node in site.data.jobnav[site.jobnav_developers_node].subnodes %}
-                <p><a href="{{ node.url }}">{{ node.title }}</a> - {{ node.tagline }}
+                <p><a href="{{ node.url }}">{{ node.home_title }}</a> - {{ node.tagline }}
                 </p>
                 {% endfor %}
             </div>
             <div class="col-md-4">
                 <h2 class="section_header elegant">{{ site.data.jobnav[site.jobnav_tech_node].title }}</h2>
                 {% for node in site.data.jobnav[site.jobnav_tech_node].subnodes %}
-                <p><a href="{{ node.url }}">{{ node.title }}</a> - {{ node.tagline }}
+                <p><a href="{{ node.url }}">{{ node.home_title }}</a> - {{ node.tagline }}
                 </p>
                 {% endfor %}
             </div>
             <div class="col-md-4">
                 <h2 class="section_header elegant">{{ site.data.jobnav[site.jobnav_nontech_node].title }}</h2>
                 {% for node in site.data.jobnav[site.jobnav_nontech_node].subnodes %}
-                <p><a href="{{ node.url }}">{{ node.title }}</a> - {{ node.tagline }}
+                <p><a href="{{ node.url }}">{{ node.home_title }}</a> - {{ node.tagline }}
                 </p>
                 {% endfor %}
             </div>

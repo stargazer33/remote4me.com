@@ -1,4 +1,4 @@
-- title: '&nbsp;Developer jobs<small>For each technology stack</small>'
+- title: '&nbsp;Remote developer jobs<small>For each technology stack</small>'
   tagline: 1
   undertagline:
   url:
@@ -7,191 +7,247 @@
   subnodes:
 
     - title: Remote frontend (JavaScript) jobs
+      home_title: Frontend (JavaScript) jobs
       tagline: HTML/JavaScript and everything else running in browser
       undertagline: "<strong>Includes:</strong> HTML/CSS and JavaScript which runs in browser (AngularJS, React and similar technologies). <br/><strong>Excludes:</strong> Node.js and cross-platform Javascript frameworks like Apache Cordova/PhoneGap"
+      description: 'Includes HTML/CSS and JavaScript which runs in browser (AngularJS, React and similar JS frameworks)'
       url: /remote-frontend-jobs
       datafile: TECH1_frontend
 
-    - title: Remote mobile (iOS, Android) jobs
+    - title: Remote mobile (iOS, Android, Windows Phone) jobs
+      home_title: Mobile (iOS, Android, Windows Phone) jobs
       tagline: iOS, Android and other mobile tech
       undertagline: "<strong>Includes:</strong> iOS, Android, Windows Phone, Apache Cordova/PhoneGap, Xamarin and other technologies for mobile apps. <br/><strong>Excludes:</strong> backend Java and macOS programming"
+      description: 'Includes iOS, Android, Windows Phone, Apache Cordova/PhoneGap, Xamarin and other technologies for mobile apps'
       url: /remote-mobile-jobs
       datafile: TECH1_mobile
 
     - title: Remote Java jobs
+      home_title: Java jobs
       tagline: backend Java and Scala (except Android and (data) science)
       undertagline: "<strong>Includes</strong>: Backend- and Web-programming with Java and Scala <br/><strong>Excludes</strong>: Android programming"
+      description: 'Includes backend- and web-programming with Java and Scala'
       url: /remote-java-jobs
       datafile: TECH1_java
 
     - title: Remote .NET jobs
+      home_title: .NET jobs
       tagline: C#, .NET and other Microsoft technologies (except Windows Phone)
       undertagline: "<strong>Includes:</strong> C# and other .NET languages; VB.NET, ASP.NET, WPF, desktop applications for Windows, Microsoft Azure and other Microsoft technologies. <br/><strong>Excludes:</strong> Windows Phone"
+      description: 'Includes C# and other .NET languages; VB.NET, ASP.NET, WPF, desktop applications for Windows, Microsoft Azure and other Microsoft technologies.'
       url: /remote-dotnet-jobs
       datafile: TECH1_dotnet
 
     - title: Remote (Big) Data or Machine Learning or Scientist jobs
+      home_title: (Big) Data or Machine Learning or Scientist jobs
       tagline: statistics, mathematics and algorythms, R, Mathlab, neural networks
       undertagline: "<strong>Includes:</strong> everything related to statistics or mathematics, Big Data, Machine Learning, Data Science. R programming language, Mathlab, neural networks, Apache Hadoop, Apache Spark. <br/><strong>Excludes:</strong> Web programming with Java or Python"
+      description: 'Includes everything related to statistics or mathematics, Big Data, Machine Learning, Data Science. R programming language, Mathlab, neural networks, Apache Hadoop, Apache Spark.'
       url: /remote-big-data-science-machine-learning-jobs
       datafile: TECH1_bigdata-ml
 
     - title: Remote Python jobs
+      home_title: Python jobs
       tagline: Django, Flask and others frameworks
       undertagline: "<strong>Includes:</strong> Django, Flask, SQLAlchemy and other Python frameworks/libraries <br/><strong>Excludes:</strong> Python for science"
+      description: 'Includes Django, Flask, SQLAlchemy and other Python frameworks/libraries'
       url: /remote-python-jobs
       datafile: TECH1_python
 
     - title: Remote Ruby jobs
+      home_title: Ruby jobs
       tagline: Includes Ruby on Rails and other libraries
       undertagline: "<strong>Includes:</strong> frameworks like Ruby on Rails, Sinatra, RSpec"
+      description: "Includes frameworks like Ruby on Rails, Sinatra, RSpec"
       url: /remote-ruby-jobs
       datafile: TECH1_ruby
 
     - title: Remote Node.js jobs
+      home_title: Node.js jobs
       tagline: backend JavaScript technologies
       undertagline: "<strong>Includes:</strong> backend JavaScript technologies like Node.js, Meteor, Express.js. <br/><strong>Excludes:</strong> frontend and mobile JavaScript"
+      description: 'Includes backend JavaScript technologies like Node.js, Meteor, Express.js'
       url: /remote-nodejs-jobs
       datafile: TECH1_nodejs
 
     - title: "Remote Go, or Golang-related jobs"
+      home_title: "Go, or Golang-related jobs"
       tagline: and related libs
       undertagline: "<strong>Includes:</strong> everything related to Go programming language"
+      description: 'Includes everything related to Go programming language'
       url: /remote-go-golang-jobs
       datafile: TECH1_go
 
     - title: Remote C/C++ jobs
+      home_title: C/C++ jobs
       tagline: using tools like GCC, glibc, STL and Assembly language
       undertagline: "<strong>Includes:</strong> technologies like Qt, GCC, glibc, STL, Boost and Assembly language"
+      description: 'Includes technologies like Qt, GCC, glibc, STL, Boost and Assembly language'
       url: /remote-c-plus-plus-jobs
       datafile: TECH1_c
 
     - title: Remote PHP jobs
+      home_title: PHP jobs
       tagline: frameworks like WordPress, Drupal, Laravel
       undertagline: "<strong>Includes:</strong> PHP frameworks like WordPress, Drupal, Laravel, Symfony, CodeIgniter, Zend"
+      description: 'Includes PHP frameworks like WordPress, Drupal, Laravel, Symfony, CodeIgniter, Zend'
       url: /remote-php-jobs
       datafile: TECH1_php
 
     - title: Remote Apple-related jobs
+      home_title: Apple-related jobs
       tagline: Everything related to Apple, not specifically mobile
       undertagline: "<strong>Includes:</strong> MacOS, Xcode, Cocoa Touch and other Apple-related technologies <br/><strong>Excludes:</strong> iOS, iPhone"
+      description: 'Includes MacOS, Xcode, Cocoa Touch and other Apple-related technologies.'
       url: /remote-apple-jobs
       datafile: TECH1_apple
 
     - title: Remote embedded applications/devices jobs
+      home_title: Embedded applications/devices jobs
       tagline: Firmware programming, Microcontrollers, Arduino, Embedded Linux
       undertagline: "<strong>Includes:</strong> Firmware and hardware development, microcontroller programming, technologies like Embedded Linux, Arduino, ARM, robots"
+      description: 'Includes firmware and hardware development, microcontroller programming, technologies like Embedded Linux, Arduino, ARM, robots'
       url: /remote-embedded-jobs
       datafile: TECH1_embedded
 
     - title: Remote gamedev jobs
+      home_title: Gamedev jobs
       tagline: game development, engines like Unity, Unreal Engine, GameMaker
       undertagline: "<strong>Includes:</strong> game development, game engines like Unity, Unreal Engine, GameMaker, CryEngine, Cocos2d-x"
+      description: 'Includes: game development, game engines like Unity, Unreal Engine, GameMaker, CryEngine, Cocos2d-x'
       url: /remote-gamedev-jobs
       datafile: TECH1_gamedev
 
     - title: "Remote jobs with other technologies"
+      home_title: Jobs with other technologies
       tagline: Perl, Clojure, Haskell, Elixir ...
       undertagline: "<strong>Includes:</strong> Perl, Clojure, Haskell, Elixir, Rust, Shell script, Lisp, Erlang, OCaml, F#"
+      description: 'Includes Perl, Clojure, Haskell, Elixir, Rust, Shell script, Lisp, Erlang, OCaml, F#'
       url: /remote-other-technologies-jobs
       datafile: TECH1_other
 
-- title: '&nbsp;Tech jobs<small>For techies who are not developers</small>'
+- title: '&nbsp;Remote tech jobs<small>For techies who are not developers</small>'
   tagline:
   undertagline:
+  description:
   url:
   datafile:
   col: 2
   subnodes:
 
     - title: Remote DevOps, Sysadmin, SRE jobs
+      home_title: DevOps, Sysadmin, SRE jobs
       tagline: Site Reliability Engineers, (Linux) System Engineers, Network engineers
       undertagline: "<strong>Includes:</strong> DevOps, Site Reliability Engineers (SRE), Linux System Engineers, Cloud Engineers, System administrators, Security Engineers, Operations Engineers, Network engineers <br/><strong>Excludes:</strong> Support Engineers, Support specialists, CRM Administrators, Software developers"
+      description: 'Includes DevOps, Site Reliability Engineers (SRE), Linux System Engineers, Cloud Engineers, System administrators, Security Engineers, Operations Engineers, Network engineers'
       url: /remote-devops-sysadmin-sre-jobs
       datafile: TITLE1_admin
       col: 2
 
     - title: Remote QA engineer jobs
+      home_title: QA engineer jobs
       tagline: Software Quality Assurance (QA), Tester, QA Automation, SDET
       undertagline: "<strong>Includes:</strong> Software Quality Assurance (QA) Engineer, Test engineer, QA Automation Engineer, Software Development Engineer in Test (SDET) <br/><strong>Excludes:</strong> Software Developer, Programmer, Admin"
+      description: 'Includes Software Quality Assurance (QA) Engineer, Test engineer, QA Automation Engineer, Software Development Engineer in Test (SDET)'
       url: /remote-qa-test-engineer-jobs
       datafile: TITLE1_qa
       col: 2
 
     - title: Remote solution engineer (solution architect) jobs
+      home_title: Solution engineer (solution architect) jobs
       tagline: "Solution Engineers and Solution Architects"
       undertagline: "<strong>Includes:</strong> Solution Engineers, Solution Architects, Cloud Architects, Security Architects"
+      description: 'Includes Solution Engineers, Solution Architects, Cloud Architects, Security Architects'
       url: /remote-solution-engineer-architect-jobs
       datafile: TITLE1_solution
       col: 2
 
     - title: Remote database (RDBMS) developer and admin (DBA) jobs
+      home_title: Database (RDBMS) developer and admin (DBA) jobs
       tagline: MySQL/PostgreSQL/Oracle/Redshift Developers and Administrators
       undertagline: "<strong>Includes:</strong> MySQL/PostgreSQL/Oracle/Microsoft SQL Server/Amazon Redshift Database Developers and Administrators, Database Automation Engineers <br/><strong>Excludes:</strong> backend developers"
+      description: 'Includes MySQL/PostgreSQL/Oracle/Microsoft SQL Server/Amazon Redshift Database Developers and Administrators'
       url: /remote-dbms-developer-admin-dba-jobs
       datafile: TITLE1_dbms
       col: 2
 
     - title: Remote integration engineer jobs
+      home_title: Integration engineer jobs
       tagline: Implementation Engineers, Build Release Engineers, Automation Developers
       undertagline: "<strong>Includes:</strong> Implementation Engineers, Build Release Engineers, Automation Developers, Data Integration Engineers <br/> <strong>Excludes:</strong> QA engineers, Software developers"
+      description: 'Includes Implementation Engineers, Build Release Engineers, Automation Developers, Data Integration Engineers'
       url: /remote-integration-build-automation-engineer-jobs
       datafile: TITLE1_integration
       col: 2
 
-- title: '&nbsp;Non-tech jobs<small>"Remote" is not only for engineers!</small>'
+- title: '&nbsp;Remote non-tech jobs<small>"Remote" is not only for engineers!</small>'
   tagline: 3
   undertagline:
+  description:
   url:
   datafile:
   col: 3
   subnodes:
 
     - title: Remote designer, graphic/video artist jobs
+      home_title: Designer, graphic/video artist jobs
       tagline: Graphic artists, UI/UX designers, Stylists, Character artists, Background artists, 2d and 3d artists, Animators
       undertagline: "<strong>Includes:</strong> Graphic artists, Character artists, Background artists, 2d and 3d artists, UI/UX designers, Stylists, Animators"
+      description: 'Includes Graphic artists, Character artists, Background artists, 2d and 3d artists, UI/UX designers, Stylists, Animators'
       url: /remote-designer-graphic-video-artist-jobs
       datafile: TITLE1_designer
       col: 3
 
     - title: Remote support specialist jobs
+      home_title: Support specialist jobs
       tagline: Support Engineers, Customer champions, Support agents, Customer Relationship Management (CRM) Administrators, Microsoft Dynamics CRM administrators
       undertagline: "<strong>Includes:</strong> Support Engineers, Customer champions, Support agents, Customer Relationship Management (CRM) Administrators, Microsoft Dynamics CRM administrators"
+      description: 'Includes Support Engineers, Customer champions, Support agents, Customer Relationship Management (CRM) Administrators, Microsoft Dynamics CRM administrators'
       url: /remote-customer-support-jobs
       datafile: TITLE1_support
       col: 3
 
     - title: Remote (technical) writer/editor jobs
+      home_title: (technical) Writer/editor jobs
       tagline: Content editors, Copywriters, Storytellers, Communication Editors
       undertagline:  "<strong>Includes:</strong> Technical Writers, Content editors, Copywriters, Blog Editors, Storytellers, Communication Editors"
+      description: 'Includes Technical Writers, Content editors, Copywriters, Blog Editors, Storytellers, Communication Editors'
       url: /remote-copywriter-editor-jobs
       datafile: TITLE1_writer
       col: 3
 
     - title: Remote marketing, product specialist, SEO jobs
+      home_title: Marketing, product specialist, SEO jobs
       tagline: "Product Managers, Content Marketing specialists, Search Engine Optimization(SEO) specialists"
       undertagline: "<strong>Includes:</strong> Product Owners, Product Managers, Analysts, Content Marketing specialists, Search Engine Optimization(SEO) specialists"
+      description: 'Includes Product Owners, Product Managers, Analysts, Content Marketing specialists, Search Engine Optimization(SEO) specialists'
       url: /remote-marketing-product-seo-jobs
       datafile: TITLE1_product
       col: 3
 
     - title: Remote sales jobs
+      home_title: Sales jobs
       tagline: Sales and pre-sales specialists, Account- and Relationship Managers
       undertagline: "<strong>Includes:</strong> Salesperson, Sales Manager, Account Manager, Relationship Management, Business Development specialist"
+      description: 'Includes Salesperson, Sales Manager, Account Manager, Relationship Management, Business Development specialist'
       url: /remote-sales-jobs
       datafile: TITLE1_sales
       col: 3
 
     - title: Remote manager/executive jobs
+      home_title: Manager/executive jobs
       tagline: Engineering /QA managers, Line managers, Project Managers, Directors and VP
-      undertagline: "<strong>Includes:</strong> Engineering/QA managers, Delivery managers, Project Managers, Directors and VP, General Managers. Technical Account Managers"
+      undertagline: "<strong>Includes:</strong> Engineering/QA managers, Delivery managers, Project Managers, Directors and VP, General Managers. Technical Account Managers<br/><strong>Excludes:</strong> Team lead."
+      description: 'Includes Engineering/QA managers, Delivery managers, Project Managers, Directors and VP, General Managers. Technical Account Managers'
       url: /remote-manager-executive-jobs
       datafile: TITLE1_manager
       col: 3
 
     - title: Remote recruiter/HR jobs
+      home_title: Recruiter/HR jobs
       tagline: and Talent Acquisition specialists
-      undertagline: "<strong>Includes:</strong> Recruiters, HR, Talent Acquisition specialists"
+      undertagline: "<strong>Includes:</strong> Recruiters, HR, Talent Acquisition specialists, people analytics"
+      description: 'Includes Recruiters, HR, Talent Acquisition specialists'
       url: /remote-hr-recruiter-jobs
       datafile: TITLE1_HR
       col: 3
