@@ -4,7 +4,8 @@
 <head>
 
 <meta charset="utf-8">
-<title>{% if page.permalink == '/' %}{{ site.home_title }}{% else %}{{ thisnodes[0].title }}{% endif %}</title>
+<title>{% if page.permalink == '/' %}{{ page.title }}{% else %}{{ thisnodes[0].title }}{% endif %}</title>
+{% if thisnodes[0].description %}<meta name="description" content="{{ thisnodes[0].description }}">{% endif %}
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="viewport" content="width=device-width, initial-scale=1">
