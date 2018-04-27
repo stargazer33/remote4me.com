@@ -1,3 +1,5 @@
+# title of the homepage
+home_title: 'metajob.org - an aggregator for remote jobs'
 
 # see _data/jobnav.yml
 # this is index of a node having the subnodes (node containing "developers/technology stacks")
@@ -31,6 +33,7 @@ author :
 #  github : username
 #  twitter : username
 #  feedburner : feedname
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt

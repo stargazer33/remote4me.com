@@ -1,0 +1,33 @@
+{% comment %}<!--
+Arguments:
+  page.permalink
+Result:
+  thisnodes
+
+Computes variable 'thisnodes' based on 'page.permalink'
+(performs search in YAML file)
+
+Special case: page.permalink == '/'
+-->{% endcomment %}
+
+{% if page.permalink == '/' %}
+{% else %}
+
+    {% assign thisnodes = site.data.jobnav | where:"url", page.permalink %}
+
+    {% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
+    {% if difference contains '-' %}
+      {% assign thisnodes = site.data.jobnav[site.jobnav_developers_node].subnodes | where:"url", page.permalink %}
+    {% endif %}
+
+    {% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
+    {% if difference contains '-' %}
+    {% assign thisnodes = site.data.jobnav[site.jobnav_tech_node].subnodes | where:"url", page.permalink %}
+    {% endif %}
+
+    {% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
+    {% if difference contains '-' %}
+    {% assign thisnodes = site.data.jobnav[site.jobnav_nontech_node].subnodes | where:"url", page.permalink %}
+    {% endif %}
+
+{% endif %}
