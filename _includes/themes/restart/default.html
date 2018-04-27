@@ -1,14 +1,10 @@
-{% assign thisnodes = site.data.jobnav | where:"url", page.permalink %}
-{% capture difference %} {{ thisnodes | size | minus:1 }} {% endcapture %}
-{% if difference contains '-' %}
-{% assign thisnodes = site.data.jobnav[site.jobnav_developers_node].subnodes | where:"url", page.permalink %}
-{% endif %}
+{% include compute_thisnodes %}
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
 
 <meta charset="utf-8">
-<title>{{ thisnodes[0].title }}</title>
+<title>{% if page.permalink == '/' %}{{ site.home_title }}{% else %}{{ thisnodes[0].title }}{% endif %}</title>
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -108,10 +104,11 @@
     <script type="text/javascript" src="{{ ASSET_PATH }}/js/restart_theme.js"></script>
     <script type="text/javascript" src="{{ ASSET_PATH }}/js/collapser.js"></script>
 
+  {% if thisnodes[0].datafile %}
   <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table.js"></script>
   <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table-en-US.min.js"></script>
   <script type="text/javascript" src="{{ ASSET_PATH }}/js/render_jobad_list_filter.js"></script>
-
+  {% endif %}
   {% include JB/analytics %}
   </body>
 </html>
