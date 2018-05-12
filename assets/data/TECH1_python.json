@@ -679,6 +679,29 @@
     ]
   },
   {
+    "id": "Yy-LS-QuTC-lf7ao9D2Duw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16778368",
+    "title": "SEEKING FREELANCER Remote: YES Technologies: Python, Git, AWS, Terraform, CI/CD I'm looking to kickstart a simple python microservice ...",
+    "content": "<div>                  <span>SEEKING FREELANCERRemote: YES<p>Technologies: Python, Git, AWS, Terraform, CI/CD</p><p>I'm looking to kickstart a simple python microservice template that: - Spins up a pair of EC2s (some security group details) - Deploys the microservice and dependencies (via custom image, packer, dockerized container, whatever) - Terraform scripts for prod vs test - Best efforts via supervisord (or whatever) to restart the python process if it dies - Prefer Gitlab CI/CD pipeline - Would be great if could drop to packet.net as well as AWS (just a nice-to-have)</p><p>Would like this to be a starting place for quickly building &quot;production-ish&quot; python services, and am 110% happy with it being open source forever.</p><p>contact(me) jrg[AT]kitsunecap{DOT}com<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 7, 2018 2:23:03 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ]
+  },
+  {
     "id": "RXyPCSvxRfSgTCc1vqUAug",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -1609,31 +1632,6 @@
     "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior, Lead</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Full Stack Developer</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>This is a remote role for developers from Madrid or Barcelona.</p><p>We’re Talking Circles - a small team with a big mission and we believe that people are a company’s most valuable asset. We’re funded and are revenue generating. We already have customers who believe in our mission and product, including Hilton, Carglass and DIA (*cough* humblebrag *cough*).</p><p>We’re looking for a rockstar hands-on Senior Full Stack Developer, a key owner of driving product and technology alongside the founders and rest of the team. The ideal candidate is someone who’s strategically minded - able to debate the future of the product and make product and technology recommendations that drive business results. But really, no two days are alike. Like in any fast-growth startup, we’re looking for a skilled jack-of-all-trades who isn’t afraid of wearing many hats.</p><p><strong>What you’ll do:</strong><br>- Sprint planning and establish the overall technology vision and roadmap&nbsp;<br>- Deliver architecture and product initiatives that will drive revenue in line with business strategy&nbsp;<br>- Design, procure, deploy, and maintain technology infrastructure&nbsp;<br>- Works directly with customers and prospects to understand their needs and help map solutions</p><p><strong>Who we’re looking for:</strong><br>- 3+ years of Software development experience&nbsp;<br>- Experience in building web applications in Django and Python&nbsp;<br>- You enjoy coding, have pet projects and know how to MVP and validate new ideas&nbsp;<br>- Ability to shape and execute the product roadmap, provide input on technical feasibility &amp; design architecture&nbsp;<br>- Exceptional data driven and analytical problem solving skills&nbsp;<br>- Excellent ability to proactively communicate both internally and externally&nbsp;<br>- Strong financial accountability and control&nbsp;<br>- [Nice to have] Previously co-founded another startup&nbsp;<br>- [Nice to have] Familiarity with Machine Learning, REST APIs; Automated Testing; Familiarity with AWS&nbsp;<br>- [Nice to have] Comfortable in leading a team</p><p><strong>Our tech stack:</strong><br>- Django Web Framework (Python)&nbsp;<br>- REST APIs over Django Rest Framework&nbsp;<br>- AngularJS + Bootstrap + SASS&nbsp;<br>- Grunt for Task Automation&nbsp;<br>- Deployed on AWS&nbsp;<br>- MySQL + Redis&nbsp;<br>- Testing Tools: Jasmine, Karma, Selenium/WebDriver</p>                    </div>                            <h2>                About Talking Circles            </h2>            <div><p>We are a UK based award-winning SaaS company revolutionising and digitalising knowledge sharing between peers across large organisations. We hire smart individuals who have a passion for applying technical innovation to sales and marketing problems. We recognize talented people, support their creativity and help them grow. We believe in openness, cooperation, respect, dedication and diligence – and we live that way every day!</p>            </div>        ",
     "urlFetchPending": false,
     "published": "Feb 26, 2018 9:31:15 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "python"
-    ]
-  },
-  {
-    "id": "FtjzrAu3Su2RjEMjcJdNJw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/168663/full-stack-developer-much-better-adventures?a=UyZjPcVv8mQ",
-    "title": "Full Stack Developer at Much Better Adventures (London, UK) ",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><strong>About us</strong></p><p>Much Better Adventures is fast becoming the leading marketplace for one of the fastest growing sectors in travel - adventure. We're on a mission to inspire people to live a more adventure-rich life, help a global community of local and independent businesses to make a great living doing what they love, and protect the planet’s most inspiring natural landscapes in the process.</p><p>We were voted the UK’s ‘Best for Experiences’ in 2016, are continually rated 5* by our tribe of loyal customers, and are founded by the UK's 'Young Travel Entrepreneurs of the Year' 2017. </p><p>We’re backed by some of Europe’s leading investors and entrepreneurs, and are partly-community owned. Now we're building a team of super talented, passionate and ambitious people to join us.</p><p><br></p><p><strong>The role</strong></p><p>We are looking for exceptional and ambitious developers who enjoy working both on frontend and backend development. This role is ideal for somebody who is passionate about building great online experiences for consumer brands. We are looking for a developer who loves being part of a team but is also self-motivated and likes the idea of working remotely.</p><p>As a full-stack developer in the Much Better Adventures tech team, you will be working on developing and improving features built primarily in Python/Django, JavaScript/React, and PostgreSQL. You will be keen to learn and leverage new technologies best suited to the task at hand. Our stack is broad and wide ranging: <a href='http://workable.com/nr?l=https%3A%2F%2Fstackshare.io%2Fmuch-better-adventures%2Fmuch-better-adventures' rel='nofollow'>https://stackshare.io/much-better-adventures/much-better-adventures</a></p><br><p><strong>Benefits</strong></p><br><p>If you want disrupt one of the fastest growing sectors of travel, get a kick out of supporting local and independent businesses around the world, and are in your element on skis, a bike, a surfboard or something equally exciting, you are in the right place.<br></p><ul> <li>Competitive salary with share options</li> <li>An entrepreneurial environment where great ideas are actively encouraged, and taking responsibility for them is expected</li> <li>Flexible working arrangements - work where/when you want</li> <li>25 days paid holiday a year</li> <li>Monthly company meet-ups in a variety of inspiring and adventurous settings</li> <li>Budget and time for continued learning and self development, including courses, monthly audible/books budget, and access to training, classes and talks from Europe's leading entrepreneurs and mentors</li> <li>Budget for home-working set up, your choice of laptop etc</li> <li>Pension scheme (UK-based employees)</li> <li>The warm fuzzy feeling that comes with knowing you are making a huge difference to small independent business, local economies and communities. Did we mention our <a href='http://workable.com/nr?l=http%3A%2F%2Fworkable.com%2Fnr%3Fl%3Dhttps%253A%252F%252Fwww.muchbetteradventures.com%252Fabout%252Ffoundation' rel='nofollow'>Foundation</a>?</li> </ul><p><strong>Application process</strong></p>We'll do short video calls to get to know each other a bit better, and in-person or longer video interviews with the top candidates after that.                    </div>                            <h2>                About Much Better Adventures            </h2>            <div><p>The way we travel is changing. This is the work-hard, play-harder generation. We are time-poor, experience-hungry, and usually have a nightmare trying to organise our next trip...<br></p><p>So we're here to sort it out. </p><p>Much Better Adventures is fast becoming the leading marketplace for one of the fastest growing sectors in travel - adventure. We're on a mission to inspire people to live a more adventure-rich life, help a global community of local and independent businesses to make a great living doing what they love, and protect the planet’s most inspiring natural landscapes in the process.</p><p>We were voted the UK’s ‘Best for Experiences’ in 2016, are continually rated 5* by our tribe of loyal customers, and are founded by the UK's 'Young Travel Entrepreneurs of the Year' 2017.</p><p>We’re backed by some of Europe’s leading investors and entrepreneurs, and are partly-community owned. Now we're building a team of super talented, passionate and ambitious people to join us.</p><p>If you want to build a global travel-tech business in one of the fastest growing sectors of travel, get a kick out of supporting local and independent businesses around the world, and are in your element on skis, a bike, a surfboard or something equally exciting, you are in the right place.</p><p>----</p><p>You can see our current openings below.</p><p>Nothing there quite you? Fear not. We always like to hear from awesome people in the tech, marketing, sales, travel and creative worlds, so feel free to contact us anytime if your perfect role isn’t listed above just now.<br></p><p>No agents please (unless you’re looking for a career change) ;)</p>            </div>        ",
-    "urlFetchPending": false,
-    "published": "Feb 23, 2018 10:10:12 PM",
     "tags": [
       "REMOTE1/100",
       "TECH1/frontend",
