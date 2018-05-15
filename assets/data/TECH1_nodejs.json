@@ -1,6 +1,58 @@
 {
  "items": [
   {
+    "id": "tCNhtr_qQCeLZFYpx42ydQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/185532/javascript-full-stack-engineer-clevertech?a=10dK8dfgNunu",
+    "title": "Javascript Full Stack Engineer at Clevertech  ",
+    "content": "            <h2>About Clevertech</h2>            <div><p><strong>We’re always looking for smart, driven, entrepreneurial developers to join our team.</strong></p><p><strong>If you like new ideas and want to work with a virtual but absurdly talented group of people in a learning-friendly environment, check out the open positions.</strong></p><p><strong>No matter what you do at Clevertech, you'll play a part in transforming ideas into software that changes the world.</strong></p><p><strong>Just answer a few quick questions and learn a little more about our culture.</strong></p><p><strong>We’re waiting for you, and ready to do great things together!</strong></p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>Full-Time Telecommuting</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Schedules</span>                            </li>                            <li>                                <span></span>                                <span>Paid Time Off</span>                            </li>                            <li>                                <span></span>                                <span>Ability to Work with Cutting-Edge Technology</span>                            </li>                            <li>                                <span></span>                                <span>Opportunity to Work with and Learn from Top Developers</span>                            </li>                            <li>                                <span></span>                                <span>Contribute to Open Source</span>                            </li>                    </ul>                ",
+    "urlFetchPending": false,
+    "published": "May 15, 2018 10:14:46 AM",
+    "tags": [
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ]
+  },
+  {
+    "id": "JAZcq87kSJu4Ht8pC3ANpw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=17061359",
+    "title": "Free Software Foundation | Contract opportunity: JavaScript Developer for GNU LibreJS | full-time | remote",
+    "content": "<div>                  <span>Free Software Foundation | Contract opportunity: JavaScript Developer for GNU LibreJS | full-time | remote<p>Join us in our worldwide mission to protect computer user freedom.</p><p><a href='https://www.fsf.org/news/contract-opportunity-javascript-developer-for-gnu-librejs' rel='nofollow'>https://www.fsf.org/news/contract-opportunity-javascript-dev...</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "May 14, 2018 1:29:07 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ]
+  },
+  {
     "id": "2UPNxZGiS92w1XpE72wTkw",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -2820,256 +2872,6 @@
     ],
     "tagsNames1": [],
     "tagsNames2": [
-      "nodejs"
-    ]
-  },
-  {
-    "id": "irc5djeAQwukC9IVplTScg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4195-federation-team-lead-rocket-chat",
-    "title": "Federation Team Lead @ Rocket.Chat",
-    "content": "<h2>              Federation Team Lead<small> @ Rocket.Chat</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-02-28 21:48</p></dd>          <dt><span>Description</span></dt>          <dd><p>Rocket.Chat is looking for a Federation Team Leader with a masters or PhD degree in a cluster computing, networking or distributed systems discipline in computer science or engineering to join us for an exciting opportunity. Working as lead for our federation team – you will help design and test out your hypothesis against a next generation federation mechanism optimized specifically for Rocket.Chat servers – uniting them globally across all geo-political boundaries to dynamically form “One Rocket.Chat”.</p><p>Rocket.Chat is more than your average company, we are the leading open source team chat community. When you choose Rocket.Chat, you become part of a global community comprised of a core team, hundreds of open source developers, testers and writers and millions of users.</p><p>As a community, we are unified around creating the ultimate open communication platform, where you have complete control of your data and platform - no restrictions, no limits. The result, Rocket.Chat is the most open and customizable team chat platform on the market, with no compromises on features, our core platform was built for enterprises and will always be free.</p><p>We are building the future of communication and would love to build it with you. Join the largest and most active open source team chat community today.</p><p><strong>Some of the challenging problems that you will be tasked to solve include:</strong></p><ul><li>Turning a non-federated system into a federated system</li><li>Discover other Rocket.Chat servers to federate</li><li>Consensus among the servers participating in the federation</li><li>Federated servers will update independently and will have different versions of Rocket.Chat running</li><li>Authenticate server to server communication</li><li>Servers that are part of the federation will not be reachable</li></ul><p>This work will leverage all existing current research in this domain. You must already be familiar with the work of giants – such as matrix.org – and be ready to break all conventions to improve and innovate upon existing paradigms. </p><p>You will be rewarded with production working experience on this bleeding-edge discipline, in a world-leading open source team environment with a like-minded team. An incredible and unique opportunity in 2018.</p><p><strong>Requirements</strong></p><ul><li>Graph theory</li><li>Directed Acyclic Graphs</li><li>Designing and implementing APIs</li><li>REST</li><li>JSON incl. signing</li><li>Consensus algorithms</li><li>JavaScript/TypeScript</li></ul><p><strong>Would also be nice:</strong></p><ul><li>Cryptography</li><li>Previous experience with federated protocols like Matrix.org, XMPP/Jabber, etc</li></ul></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Feb 28, 2018 11:48:14 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "nodejs"
-    ]
-  },
-  {
-    "id": "cInzg_3-RiOKwZdSdi7SQw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4188-senior-front-end-software-engineer-plectica",
-    "title": "Senior Front End Software Engineer @ Plectica",
-    "content": "<h2>              Senior Front End Software Engineer<small> @ Plectica</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-02-28 00:43</p></dd>          <dt><span>Description</span></dt>          <dd><p>We are looking for great engineers to join our startup team as we build the next generation of content mapping tools. These are enterprise-strength tools anyone can quickly learn to use to map and track complex thoughts or systems of any kind.</p><p>Our software is underpinned by the state of the art in systems thinking methodology and the pioneering work of our cofounder Dr. Derek Cabrera, an internationally renowned cognitive scientist based at Cornell University.</p><p>Systems Thinking is an increasingly popular method of analysis and problem solving, widely applicable in industry, government, not-for-profit, education, business, and civic sectors. Its real promise lies in visually unpacking complex systems, thereby helping experts develop solutions to seemingly intractable and often transdisciplinary issues, including those which contain competing interests and touch economic, political, social, and other systems.</p><p>Our tech stack includes Riot.js atop SVG for interactive map building and visualization; Redis / Node.js / WebSockets for real-time collaboration; MySQL for a source of truth; and some other tools and services around text-understanding and image processing in Python.</p><p>We are based in NYC but can be flexible on your location...</p><p>You are: a highly-skilled front-end engineer who has demonstrated experience owning, shaping, building a product that gained real traction with users in a production setting.</p><p>Strong candidates will have...</p><ul><li>Strong proficiency with modern ES6+ JavaScript</li><li>Strong command of CSS (transforms, animation, filters, flexbox etc)</li><li>Familiarity working directly with SVG and/or Canvas APIs</li><li>Experience with visualization libraries like d3.js, Raphael, Fabric.js, Processing.js, etc</li><li>Experience with application frameworks such as Riot.js / React.js / Vue.js</li><li>Familiarity with WebSockets and surrounding real-time techniques</li><li>Full-stack inclination with some backend experience with Node.js/Python/Ruby</li><li>Experience in an Agile product development environment</li><li>A passion for getting things in front of customers and iterating fast</li></ul></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Feb 28, 2018 2:43:46 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "nodejs"
-    ]
-  },
-  {
-    "id": "S982ZIZHTVO-FWf0iTkhyA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4187-senior-full-stack-software-engineer-plectica",
-    "title": "Senior Full Stack Software Engineer @ Plectica",
-    "content": "<h2>              Senior Full Stack Software Engineer<small> @ Plectica</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-02-28 00:43</p></dd>          <dt><span>Description</span></dt>          <dd><p>We are looking for great engineers to join our startup team as we build the next generation of content mapping tools. These are enterprise-strength tools anyone can quickly learn to use to map and track complex thoughts or systems of any kind.</p><p>Our software (<a href='http://www.plectica.com' rel='nofollow'>www.plectica.com</a>) is underpinned by the state of the art in systems thinking methodology and the pioneering work of our cofounder Dr. Derek Cabrera, an internationally renowned cognitive scientist based at Cornell University.</p><p>Systems Thinking is an increasingly popular method of analysis and problem solving, widely applicable in industry, government, not-for-profit, education, business, and civic sectors. Its real promise lies in visually unpacking complex systems, thereby helping experts develop solutions to seemingly intractable and often transdisciplinary issues, including those which contain competing interests and touch economic, political, social, and other systems.</p><p>We’re dedicated to this project because, in addition to containing some extremely difficult technical challenges, it is both financially and socially rewarding. The products we build have a tangible impact in the world, in education, in knowledge management, strategic planning, and countless other key contexts.</p><p>We are based in NYC but can be flexible on your location...</p><p>You are: a highly-skilled software engineer who has demonstrated experience owning, shaping, building a product that gained real traction with users in a production setting.</p><p>Strong candidates will have...</p><ul><li>experience/interest in building real-time collaborative applications</li><li>experience with high concurrency systems in any of Node.js / Go / Erlang</li><li>experience building and consuming REST APIs in Node.js / Python / Ruby</li><li>interest in Graph databases and experience with relational data modeling</li><li>interest in eventual-consistency data structures and techniques such as OT/CRDT</li><li>experience with data stores like PostgreSQL / Cassandra / Redis in production</li><li>proficiency in the browser with JS/CSS and some experience with frameworks such as React.js / Angular</li></ul></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Feb 28, 2018 2:42:59 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "nodejs"
-    ]
-  },
-  {
-    "id": "Z6eYQLsjQWKYFshYMLt0Sg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "jobs.github.com-remote",
-    "url": "http://jobs.github.com/positions/13d5c004-1bf7-11e8-8e49-0c4f0d08a955",
-    "title": "Full Time: Full-Stack Node.js Developer for Established Ed-Tech Startup at Yoyo Chinese in Los Angeles (Remote OK)",
-    "content": "<p>YoyoChinese is looking for an experienced full stack Node.js developer to join our company as tech-lead and help us with the ongoing maintenance and future development of our interactive Chinese language learning web app, Yoyo Chinese. (<a href='https://www.yoyochinese.com' rel='nofollow'>https://www.yoyochinese.com</a>)</p><p>Yoyo Chinese helps thousands of language learners around the world learn Mandarin using hundreds of video lessons and other interactive learning tools like flashcards, quizzes, and progress tracking.</p><p>Our site is built in Node.js and we're looking for a full-time (or close to full-time) developer who can join our team and is capable of taking over our existing code and maintaining what we've already built (general site maintenance and squashing bugs) as well as helping us continue to develop and improve the app into the future with updates and new features as the company grows.</p><p>You'll work directly with our product and project managers as a Yoyo team member. We're also beginning development on a mobile app and you'll work directly with our mobile developers to help ensure the Yoyo Chinese experience is seamless across all platforms.</p><p>We'd like to find a developer who believes in our mission of teaching the world Chinese and is looking for a long-term relationship with our company. You must have proven experience as a qualified Node.js developer and excellent English communication and project management skills.</p><p>We’re located in LA county, but your time zone and working location are flexible and can be discussed.</p><p>Responsibilities</p><ul><li>Maintaining the daily operation of our website, yoyochinese.com</li><li>Improving existing website features and helping with the development of new ones</li><li>General code optimization and refactoring</li><li>Development work includes both front-end and back-end, as well as database development. </li><li>Ongoing maintenance and improvement of the general performance and stability of the website</li><li>Working with mobile development team to help turn our web-app into a 5-star mobile app on both iOS and Android platforms, launching both apps simultaneously</li></ul><p>Qualifications</p><ul><li>At least 2 years of Node.js full-stack development, having participated in the development of - 2 products with ample experience with iterative development. </li><li>Proficient in Node.js server-side frameworks</li><li>Proficient in basic HTML5/Javascript/CSS3/Ajax</li><li>Proficient in Express + Jade framework, with relevant development experience using similar technology. </li><li>Familiar with CSS Front end UI framework such as BootStrap/LESS/SASS, etc.</li><li>Can be independently in charge of planning, designing and executing MySQL database </li><li>Experience with and Agile Scrum development</li><li>Good coding practices, using clean and tidy code with a high level of maintainability. </li><li>Strong ability to drive requirement analysis</li><li>A good sense of team spirit and collaboration, in addition to good communication skills with a desire to learn. </li><li>Good self-management skills and an ability to work independently on tasks in a successful and efficient manner.</li></ul>",
-    "urlFetchPending": false,
-    "published": "Feb 27, 2018 9:48:57 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "nodejs"
-    ]
-  },
-  {
-    "id": "UKa6SwSCTP6DnnIS77uklA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4178-backend-engineer-remind",
-    "title": "Backend Engineer @ Remind",
-    "content": "<h2>              Backend Engineer<small> @ Remind</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-02-27 02:07</p></dd>          <dt><span>Description</span></dt>          <dd><p><strong>About Us</strong></p><p>Remind is a communication platform that helps educators reach students and parents where they are: their phones. With 27 million active users, we’re one of the fastest-growing companies in education technology, but we have our sights set on something bigger: giving every student the opportunity to succeed.</p><p>The Remind <a href='http://engineering.remind.com/' rel='nofollow'>Engineering Team</a> tackles hard and interesting technical challenges, embodies our value of finding a way, and open-sources projects like <a href='http://empire.readthedocs.io/en/latest/' rel='nofollow'>Empire</a> and <a href='http://stacker.readthedocs.io/en/latest/' rel='nofollow'>stacker</a>. The main tools we use in our backend include Go, Ruby, NodeJS, PostgreSQL, Redis, RabbitMQ, and many AWS services (DynamoDB, RDS, ECS, Aurora, Lambda, SNS, SQS, and more).</p><p>Our investors include First Round Capital, GSV, Kleiner Perkins Caufield Byers, and Social Capital, and we want you to join us.</p><p>Remote work ok within +/-3 hours of Pacific Time.</p><p><strong>Some of the projects that backend engineers at Remind have worked on this year:</strong></p><ul><li>Improved and scaled a messaging system that's sent over <a href='https://www.remind.com/stories' rel='nofollow'>10 billion messages</a> to teachers, parents, and students</li><li>Built a graph service to power the relationships of 27 million monthly active users</li><li>Built out standardized tooling for increasing the fault tolerance of our distributed services, including tiered load shedding, circuit breakers, and back pressure mechanisms</li><li>Moved a significant amount of traffic to a GraphQL proxy to relieve the load from older systems</li><li>Created a <a href='http://engineering.remind.com/permissions-service/' rel='nofollow'>declarative permissions system</a> to make authorization code easy to read and write</li><li>Increased the stability of our chats database by introducing a write-through buffer using Redis</li></ul><p><strong>What will be critical to your success as a backend engineer at Remind:</strong></p><ul><li>Others enjoy working with you because of your positive attitude and technical competence</li><li>You have consistently shipped high quality code to production as part of a team</li><li>You enjoy tackling interesting, complicated problems and following them through to the end</li><li>You collaborate effectively with engineers, product managers, and designers to break down product requirements and maintain visibility on projects</li><li>You write clean, scalable code and have significant experience with one or more programming languages</li><li>You have built scalable, performant, highly available services and understand the value of a good SLA</li><li>You understand the importance of writing pragmatic, comprehensive unit and integration tests</li></ul><p><strong>Benefits and Perks</strong></p><ul><li>Competitive salary and equity</li><li>100% health coverage for you and your dependents</li><li>Open vacation policy</li><li>Parental leave</li><li>Catered meals and fully stocked kitchen</li><li>Parking and commuter benefits</li></ul><p>Remind is an equal opportunity employer, and we're committed to diversity and inclusion in the workplace. We aim to represent the students, teachers, and parents we serve, and we welcome, support, and empower all the diverse individuals in our community.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere*</p></dd>            <dt><span>Location</span></dt>            <dd><p>Remote work ok within +/-3 hours of Pacific Time.</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Feb 27, 2018 4:06:44 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/America/West"
-    ],
-    "tagsNames1": [
-      "US Pacific time zone"
-    ],
-    "tagsNames2": [
-      "nodejs"
-    ]
-  },
-  {
-    "id": "XiFnFoiATAeDJBOlKQ7bDg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4176-senior-web-engineer-kindly-care",
-    "title": "Senior Web Engineer @ Kindly Care",
-    "content": "<h2>              Senior Web Engineer<small> @ Kindly Care</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-02-27 01:55</p></dd>          <dt><span>Description</span></dt>          <dd><p><strong>About Us:</strong></p><p>Kindly Care helps families find, hire, and manage private caregivers so that their elderly loved ones can age in their homes rather having to move into assisted living facilities. We take pride in the fact that we’re working on one of the most pressing problems in our society: ensuring that our seniors are taken care of despite seemingly endless challenges caused by fiscal and labor shortages.</p><p>We’re a geographically distributed company, with 6 team members working out of our office in San Francisco and about 50 others working from all over the US, Canada, Mexico and a number of other countries. We have built all products and processes to equally accommodate on-site and remote team members, and we highly value this ability to attract the best talent from across the world.</p><p><strong>About This Role:</strong></p><p>We are looking for two full-stack engineers to help us build fully featured web experiences, enabling both sides of our caregiver marketplace to connect and communicate. You will be reporting to the CTO, but will be expected to work mostly autonomously.</p><p>Our current workflows often involve live call center agents, who assist our clients in all the necessary steps from specifying their needs to hiring their caregivers. With our steadily increasing lead volume, we have had to 10x the size of our call center in a short amount of time, so we’re now looking for ways to productize as many parts of the client journey as possible.</p><p>We just closed a Series A in January 2018, and have raised a total of $9.5m to date from some of the Valley’s top investors. To find out more about Kindly Care, check out our (slightly outdated) <a href='https://techcrunch.com/2016/10/11/kindly-care-launches-with-3-1m-to-help-loved-ones-access-vetted-caregivers/' rel='nofollow'>Techcrunch coverage</a>.</p><p><strong>Responsibilities</strong></p><ul><li>Identify manual workflows that can be replaced with automation or consumer-directed product solutions</li><li>Leverage our design resources, but ultimately be in charge of the product and make/defend high-level decisions</li><li>Keep an eye on the metrics and make data-informed decisions</li><li>Find the right balance between building ambitious products and moving fast</li></ul><p><strong>Qualifications</strong></p><ul><li>Experience building rich single-page applications with JavaScript, CSS3, and HTML5</li><li>Experience with React, AngularJS, jQuery (or similar) libraries/frameworks</li><li>Previous full stack developer experience</li><li>Expert at building high-performance RESTful APIs</li><li>Comprehensive experience working with AWS, including EC2, RDS, ELB, VPC, and S3</li><li>Database administration and performance tuning (ideally PostgreSQL)</li><li>Prefer candidate with strong background in NodeJS/Express or StrongLoop/LoopBack</li></ul><p>Last but not least, you need to have the leadership skills that will help you motivate your teams and energize them to do the best work of their lives.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Feb 27, 2018 3:55:33 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "nodejs"
-    ]
-  },
-  {
-    "id": "vCfOdE3UTAmCFVNATzg4xw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/168618/expert-javascript-developer-simplyanalytics-inc?a=Uy3j4AHGs92",
-    "title": "Expert JavaScript Developer at SimplyAnalytics, Inc. (Toronto, ON, Canada) ",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Frontend Developer</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>We are looking for a client-side&nbsp;JavaScript developer with experience working on complex single-page applications. The ideal candidate is a self-starter, has a high level of attention to detail, is comfortable asking questions, enjoys working with talented colleagues, and has an interest in analytics and data visualization.&nbsp;</p><p>Our developers can live and work anywhere in Canada or the United States. This is a full-time salaried position.</p><p>Skills &amp; Requirements:</p><ul><li>Expert client-side JavaScript Skills (this is not a Node.js or&nbsp;full-stack position)</li><li>Strong UI development skills (CSS &amp; HTML)</li><li>Open to learning new technologies</li><li>Self-starter who gets things done</li><li>Attention to detail</li></ul><p>We look forward to receiving your application.</p>                    </div>                            <h2>                About SimplyAnalytics, Inc.            </h2>            <div><p>SimplyAnalytics is a B2B SaaS mapping, visualization, and data analytics application that makes it easy for anyone to create interactive maps, charts, and reports using 100,000+ data variables. With SimplyAnalytics, users can identify target locations, map the competition, track how places change over time, and identify where to market products. We are passionate about creating outstanding software, and we believe in automated testing, continuous integration, and code review.&nbsp;</p>            </div>        ",
-    "urlFetchPending": false,
-    "published": "Feb 26, 2018 9:31:15 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "nodejs"
-    ]
-  },
-  {
-    "id": "ngItLibHTXy2alpP8bP7aQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4171-salesforce-engineer-simple",
-    "title": "Salesforce Engineer @ Simple",
-    "content": "<h2>              Salesforce Engineer<small> @ Simple</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-02-26 19:21</p></dd>          <dt><span>Description</span></dt>          <dd><h5>The Company</h5><p>We’re a tech company that’s changing how people bank and think about their finances. We value empathy, curiosity, craft and efficacy. Our mission is to help people feel confident with their money. We do that by bringing humanity, elegance and ease to the consumer banking experience. And we make banking beautiful.</p><h5>The Job</h5><p>You'll work with various groups within Simple, including Customer Operations and individual product engineering teams, as well as our external Salesforce engineering partner.</p><h5>The Team</h5><p>The Salesforce development team is a new group within Simple’s Engineering organization.  It will be a small team that is responsible for working with product engineering teams, as they create amazing new customer-facing features, to build out Salesforce-specific components that support these new features in our internal customer service application.  This team will also be responsible for Salesforce administrative duties in support of the changing needs of the Customer Operations teams, as well as the ongoing maintenance of the Salesforce app.</p><p>You'll work with various groups within Simple, including Customer Operations and individual product engineering teams, as well as our external Salesforce engineering partner.</p><p>While Simple is based in Portland, Oregon, most of our engineering team works remotely, which means both local and remote candidates will be considered.</p><h5>About You</h5><p>You value open, active collaboration and work well with others, helping teammates who need it, and asking for the help, in turn, when you need it. You’re excited to pick up new skills, techniques, and technologies, and love to share what you’ve learned. You enjoy solving difficult problems such as occur in distributed systems, care about metrics, monitoring, and testing. You’re excited about working closely with people across the organization, from your direct teammates to members of ops, and customer service. You want to be a part of building something beautiful and meaningful, even if user interface isn’t your specialty. You respond well to change, and can navigate the ambiguity and fluidity of shifting customer needs.</p><h5>What You’ll Do All Day</h5><p>You will be a member of a team of Salesforce Engineers, doing project-based work, as well as supporting existing custom Salesforce deployments.  You'll implement, debug, deploy and support features for a custom Salesforce application. You will be writing code using Salesforce custom development technologies, like Apex and Lightning, as well as some Javascript.  Simple is built on a REST-based service oriented architecture, so the majority of the interaction between Salesforce and Simple will be via our API endpoints.</p><ul><li>You’ll develop custom Salesforce screens and workflows using Apex triggers &amp; classes, Javascript, Lightning Components, etc.</li><li>Support and maintain existing custom Salesforce application, which includes working with QA and Customer Operations to troubleshoot issues and fix bugs</li><li>Partner with engineering teams to agree on strategies and mechanics for integrating with Simple’s backend system</li><li>Work in close alignment with Salesforce Administrator, and can perform various administrative tasks when required, such as workflow configuration and external object modification</li></ul><h5>We’d Like To See</h5><ul><li>2+ years of professional experience developing Salesforce applications, using Apex, Visualforce pages and Lightning Components</li><li>Salesforce certification, with one or more of the following:<ul><li>Platform Developer I or II</li><li>Platform App Builder</li><li>Service Cloud Consultant</li></ul></li><li>Hands on experience with:<ul><li>RESTful web services/JSON, SF External Objects, SF Service Cloud, SF Communities</li></ul></li><li>Bachelor's Degree or equivalent professional experience</li></ul><h5>Details</h5><p>We recognize the dire lack of diversity in our industry, and we’re not okay with it. We actively seek to address it with our hiring and retention processes, as well as our office culture. If you’re on the fence about whether you’re a fit, we say go for it, and apply!</p><h5>Why Simple’s a Great Place to Work</h5><ul><li>Based in Portland, Oregon-- a beautiful place to live and work (or just see in the background if you work remotely).</li><li>Competitive salary and benefits package.</li><li>A supportive and nurturing place to work. We actively consider how we can improve employees’ quality of life--both inside and outside the office.</li><li>Committed to hiring quality human beings. Simple is a place where others will watch out for you and help you learn. We actually like and respect each other.</li><li>We give a damn about what we do, both as individual contributors and as a company on a mission to change banking. We’re passionate and nerdy about our work; in fact we’re kind of that way about things outside of work, too.</li></ul><p>In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. Email our team at <a href='mailto:careers@simple.com' rel='nofollow'>careers@simple.com</a> if you need an accommodation in the application process.</p><p>A background check will be required for this opportunity.</p><p>Simple provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, Simple complies with all applicable state and local laws governing nondiscrimination in employment in every location in which the company has employees. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</p><p>By submitting this application, you certify that the facts contained in your application are true and complete to the best of your knowledge. If you are employed, false statements on your application will be grounds for termination.</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>United States</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Feb 26, 2018 9:21:18 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "go",
-      "nodejs"
-    ]
-  },
-  {
-    "id": "69pFc-d3SVydZp494DqWHw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-programming",
-    "url": "https://weworkremotely.com/remote-jobs/third-iron-llc-senior-full-stack-software-developer",
-    "title": "Third Iron, LLC: Senior Full-Stack Software Developer",
-    "content": "<div>  <div>    <h2>Senior Full-Stack Software Developer</h2>      <h4>Posted Feb 26</h4>    <h3>      <span>Third Iron, LLC</span><br>      <span>Headquarters: Minneapolis, MN</span><br>        <a href='https://thirdiron.com/careers/senior-full-stack-developer/' rel='nofollow'>https://thirdiron.com/careers/senior-full-stack-developer/</a>      <br>      <a rel='nofollow'>View all Third Iron, LLC jobs →</a>    </h3>  </div>    </div>  <div>    <div>We're a small remote team responsible for the world's most popular academic journal reading and engagement service called BrowZine. Used by hundreds of universities, hospitals, government research labs, and companies around the world, BrowZine has introduced new and better ways for researchers to stay up-to-date in their field, helping the speed of science advance faster.&nbsp;</div><div><br></div><div>Are you passionate about remote working, building ambitious web applications, and automated testing? Join our remote US-based team as a self-motivated developer contributing to our back-end, built mostly NodeJS and Postgres, and some of our front-end, which uses EmberJS.</div><div><br></div><div>Third Iron is dedicated to bringing next-generation technologies to libraries. We were founded by technologists and librarians with broad experience in the information industry. We care deeply about increased engagement with peer-reviewed research journals, and are dedicated to building a great team to support our customers, which includes professors and researchers at world-renowned institutions.</div><div><br></div><div>Libraries are going through a rapid transformation, and Third Iron helps libraries provide a great user experience for their patrons.&nbsp; If you have not been in a library lately, you may be surprised how technology is truly at the center of everything a library does. Our multi-platform service, BrowZine, enables academic &amp; research libraries to make their peer-reviewed journals available to their patrons in an easy-to-use interface.&nbsp; <a href='http://thirdiron.com/customer-feedback/' rel='nofollow'>Response has been terrific</a>.</div><div><br></div><div><b>Your Role</b></div><div><br></div><div>As a Senior Full-Stack Developer, you will help make architectural decisions, write automated tests, code the implementation, review code, and collaborate with our team of polyglot programmers for Third Iron's flagship product, BrowZine &lt;<a href='https://browzine.com' rel='nofollow'>browzine.com</a>&gt;, and its supporting services.</div><div><br></div><div>Third Iron is a remote-first company. Everyone contributes remotely, whether software developer, customer support, or sales. We stay tightly in step with the needs of our customers - researchers and librarians - to help them browse, read, discover, and organize scholarly information.</div><div><br></div><div><b>Key Responsibilities:</b></div><div><br></div><div>You will contribute to our existing BrowZine Content Management System, written in Node.js and Postgres, and used by our internal operations team to manage large amounts of data from our hundreds of library customers. We have a thorough automated test suite on this and the rest of our backend code, and you will get experience writing new tests, modifying existing tests, and generally avoiding regressions thanks to these automated tests.</div><div><br></div><div>You will help shape and build our API, also written in Node.js combined with Postgres, which powers our BrowZine clients, available at browzine.com and as native apps on iOS and Android. Additionally, our third-party API is starting to be used by a variety of libraries directly to enhance other services at libraries.</div><div><br></div><div>You will help scale our Heroku/AWS cloud-based systems as our customer base continues to grow to ensure solid performance for all users, including managing user data stored in CouchDB.</div><div><br></div><div>There is also opportunity to help improve our web front-end app, browzine.com, which is built using Ember.js. &nbsp;Between improving the API and improving our front-end app, you will build new features and enhance existing ones to improve journal reading for academic librarians and researchers at hundreds of research institutions around the world.</div><div><br></div><div>Check out<span>&nbsp;</span><a href='https://stackshare.io/third-iron/third-iron' rel='nofollow'>our software stack on StackShare</a><span>&nbsp;-&nbsp;</span>https://stackshare.io/third-iron/third-iron &nbsp;</div><div><br></div><div>The technologies you'll likely work with the most are:</div><ul><li>NodeJS<br></li><li>Postgres<br></li><li>RabbitMQ<br></li><li>AWS<br></li><li>Ember.JS</li></ul><div><br></div><div><b>What We're Looking For:</b></div><div><br></div><div>A passion for automated testing, continuous integration, and constantly improving how you do things is important to us.</div><div><br></div><div>Experience with Javascript on the server and a desire to keep up with new JavaScript developments as they come out (ES2017/2018 and beyond) is something we think is important for success in this position.</div><div><br></div><div>Strong communication skills are absolutely critical on our team, since we are a remote-first team, timely responses and clear communication is essential.</div><div><br></div><div>Experience writing test-focused code is important to all of our teammates. &nbsp;We rely on acceptance-level and lower unit-level automated tests to reduce the likelihood of regressions, and we have a pretty thorough suite of them.</div><div><br></div><div>A high comfort level with source control - especially git - is important for our team.&nbsp;</div><div><br></div><div>Being a self-motivated developer who can work independently is important for remote work in general, and on our team.</div><div><br></div><div>A strong desire to learn new technologies is something our teammates share. We want to embrace the tools and techniques that help us build great software and let us sleep soundly at night, knowing our users are having a delightful experience and our servers are not catching fire.</div><ul></ul><div><br></div><div>When applying,&nbsp;please include anything that helps demonstrate your development abilities, such as:</div><div><br></div><ul><li>your GitHub or Bitbucket profile</li><li>sample code you can share</li><li>articles &amp; tutorials you have written</li><li>presentations you have given</li><li>Stack Overflow contributions</li><li>bug reports on open source projects</li><li>...or anything else you can share that is indicative of how you best contribute to a team</li></ul><div><br></div><div><b>About Third Iron</b></div><div><br></div><div>Third Iron, founded in 2011 as a remote-first software development company, creates innovative library technologies to help academic libraries and the researchers they support. BrowZine, our flagship service, is used by hundreds of universities, hospitals, corporations and government facilities around the world. &nbsp;Third Iron is a&nbsp;Minnesota, USA, company, but our software development team is distributed throughout the USA. We have been included in a list of the <a href='https://www.virtualvocations.com/blog/telecommuting-news/top-telecommute-companies-2016-pt2' rel='nofollow'>Top Telecommute Companies</a>.</div><div><br></div><div><b>About BrowZine</b></div><div><br></div><div>BrowZine is a service that helps researchers&nbsp;browse, read and monitor academic literature. Whether a researcher's interest is in science/engineering/STEM, social science, humanities, or any other area of study, BrowZine provides them with convenient workflow tool firmly integrated into other library systems to help them keep up with their journal reading.<br></div><div></div><div></div><div></div><div></div><div></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Send a resume to <a href='mailto:careers@thirdiron.com' rel='nofollow'>careers@thirdiron.com</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Feb 26, 2018 6:26:24 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "nodejs"
-    ]
-  },
-  {
-    "id": "Gs3JfrzJTKCeQ3Qimm2fmg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-sysadmin",
-    "url": "https://weworkremotely.com/remote-jobs/everus-technologies-sdn-bhd-full-stack-engineer",
-    "title": "Everus Technologies Sdn. Bhd.: Full Stack Engineer",
-    "content": "<div>  <div>    <h2>Full Stack Engineer</h2>      <h4>Posted Feb 26</h4>    <h3>      <span>Everus Technologies Sdn. Bhd.</span><br>      <span>Headquarters: Kuala Lumpur, Malaysia</span><br>        <a href='https://everus.org' rel='nofollow'>https://everus.org</a>      <br>      <a rel='nofollow'>View all Everus Technologies Sdn. Bhd. jobs →</a>    </h3>  </div>    </div>  <div>    <div>                           </div><div>            </div><div>                </div><div>                    </div><div>                        </div><div>            </div><div>                </div><div>                    </div><div>                        </div><div>            </div><div>                </div><div>                    </div><div>                        </div><div><span>Everus Technologies is looking for a full stack engineer with experience using Node.js, working with Cryptocurrencies such as Ethereum and Bitcoin, building RESTful web services, and working with templating engines. You’ll be a self-driven individual who is comfortable working remotely and in an agile environment. </span></div><div><br></div><div>                        </div><div><span>For engineers serious about blockchain and crypto this is a perfect opportunity to work fulltime in a dedicated crypto-based company and continue expanding your skills in our R&amp;D projects such as Blockchain as a service, mining and merchant APIs. </span></div><div><br></div><div>                        </div><div><span>Requirements </span></div><div><br></div><div>                        </div><div><span>We’re looking for a driven and focused engineer with a proven record of delivering projects using agile methodologies. You’ll also have experience:&nbsp;</span></div><div><br></div><div>                        </div><ul><li>                                <span>Building applications using JavaScript, Node.js, and NPM </span><br><br>                            </li><li>                                <span>Using templating engines such as React and Angular </span><br><br>                            </li><li>                                <span>Designing &amp; developing frontends with HTML, CSS/SCSS, and JavaScript </span><br><br>                            </li><li>                                <span>Creating, securing and maintaining APIs in Node or Golang. </span><br><br>                            </li><li>                                <span>Working productively in a Unix/Linux environment with Bash shell </span><br><br>                            </li><li>                                <span>Managing source code with version control such as Git </span><br><br>                            </li><li>                                <span>Working in an agile environment </span><br><br>                            </li></ul><div>                    </div><div>                </div><div>            </div><div>        </div><div>            </div><div>                </div><div>                    </div><div>                        </div><div><span>Bonus skills &amp; experience </span></div><div><br></div><div>                        </div><div><span>In addition to the requirements above, it’d be great if you have: </span></div><div><br></div><div>                        <span></span></div><ul><li><span>An understanding of API first philosophy&nbsp;</span><br></li><li><span>Experience with networking and cloud platforms such as AWS&nbsp;</span><br></li><li><span>Working knowledge of NoSQL (especially MongoDB) and MySQL&nbsp;</span><br></li><li><span>Bitcoin, Etherum and Litecoin experience.&nbsp;</span><br></li><li><span>Unit and acceptance testing experience&nbsp;</span><br></li><li><span>Experience with automation including CI/CD (such as Jenkins)&nbsp;</span><br></li><li><span>Familiarity with additional templating engines (React, Angular, Mustache, Handlebars etc)&nbsp;</span></li></ul><div><span></span></div><div><span><br></span></div><div>Benefits&nbsp;</div><div><br></div><div><span></span></div><ul><li><span>Work asynchronously</span><span> </span><span>. Individual team members more or less work at their own pace, with collaboration and agreement being handled by asynchronous mechanisms.&nbsp;</span></li></ul><div><br></div><ul><li><span>No 9 to 5</span><span> </span><span>. Get the job done on time (and don't upset the client) and you can work the hours you want.&nbsp;</span></li></ul><div><br></div><ul><li><span>Work at your own pace</span><span> </span><span>. We handle things like collaboration and sign off through the best tools for the job, all in support of asynchronous working.&nbsp;</span></li></ul><div><br></div><ul><li><span>Minimal meetings</span><span> </span><span>. We will keep in touch over Skype and Basecamp, there will possibly be an optional meet-up once a year for developers who wish to join.</span></li></ul><div><br></div><div>            </div><div>                </div><div>                    </div><div>                        </div><ul><li><span>Work where you want</span><span> </span><span>. Yes, be diligent, stick to deadlines and do great work. But where and how you do it is entirely up to you.&nbsp;</span></li></ul><div><br></div><div>                    </div><div>                </div><div>            </div><div>        </div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Send your resume and cover letter to: <a href='mailto:marc.tanner@everus.org' rel='nofollow'>marc.tanner@everus.org</a>, <a href='mailto:tom.whitbread@everus.org' rel='nofollow'>tom.whitbread@everus.org</a> and <a href='mailto:stefanos.spanoudakis@everus.org' rel='nofollow'>stefanos.spanoudakis@everus.org</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Feb 26, 2018 9:16:31 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/Any"
-    ],
-    "tagsNames1": [
-      "Any time zone"
-    ],
-    "tagsNames2": [
-      "frontend",
       "nodejs"
     ]
   }
