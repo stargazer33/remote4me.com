@@ -14,6 +14,8 @@ jobnav_nontech_node : 2
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title
 
+include: [".well-known/acme-challenge/PuV6PE47UDB-GBCRnjS3CixSArz9eEyfie_H87lqSVY"]
+
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 
