@@ -1,6 +1,29 @@
 {
  "items": [
   {
+    "id": "iJ0fxCA0Te66JyKCTGim-A",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "weworkremotely.com-programming",
+    "url": "https://weworkremotely.com/remote-jobs/bevy-labs-inc-software-engineer-1",
+    "title": "Bevy Labs, Inc: Software Engineer",
+    "content": "<div>  <div>    <h2>Software Engineer</h2>      <h4>Posted May 15</h4>    <h3>      <span>Bevy Labs, Inc</span><br>      <span>Headquarters: Palo Alto </span><br>        <a href='https://www.bevylabs.com/' rel='nofollow'>https://www.bevylabs.com/</a>      <br>      <a rel='nofollow'>View all Bevy Labs, Inc jobs →</a>    </h3>  </div>    </div>  <div>    <div><span></span></div><div><span>Bevy Labs</span><br></div><div><span>At Bevy Labs we have deep experience building community from the ground up. We are building the best products to help companies manage and scale their user groups and event communities all over the world. We are a distributed company and strive to be as diverse as the people using our products.</span></div><div><br></div><div><span>Bevy Labs Engineering</span><br></div><div><span>On the engineering team you are at the heart of the action, contributing to products that are actively used by world-class communities to create connections and experiences for their people. </span></div><div><br></div><div><span>We care about solving challenging problems to build products that make a real difference in the lives of our customers and their users. We also care about the craft of software engineering and how we can always become better at what we do, individually as well as collectively.</span></div><div><br></div><div><span>This means continuous integration, lots of automated test coverage, thorough reviews, good thinking and lots of experiments to discover new ways of improvement.</span></div><div><br></div><div><span>We are still small and nimble, but we are excited to grow.</span></div><div></div><div><br></div><div><span>You?</span><br></div><div><span>You will fit in well with us, if you:</span></div><div><br></div><ul><li><span>Reside in North or South America. Yes, we are a distributed company, but since we are still small, we like to minimize the time zone spread within the team.</span><br><br></li><li><span>Are an excellent communicator. In our small team, English is the official language. You need to be able to articulate complex ideas efficiently and effectively. When people do not share an office, it is essential to pay extra attention to communication.</span><br><br></li><li><span>Have a solid technical background. You should have at least 5 years of professional software development experience and be able to point to a track record of caring about software engineering practices.</span><br><br></li><li><span>Feel at home with Python/Django, JavaScript/React.js and the shell command line. You have been working in current cloud-based environments (such as AWS or GCP), but you don’t feel tied one platform and generally appreciate picking the “right tool for the job.”</span><br><br></li><li><span>Like to learn and strive to do so often. As a company we improve to the extent that our team does. It starts with each individual. Humility and an open mind help a lot.</span><br><br></li><li><span>Ideally know what it is like to work in distributed development teams, or better yet, thrive in them. It probably means you already know you don’t need a structured office environment with a manager who checks in on you once a day. Likewise, you know that you will do best from your home office.</span><br><br></li><li><span>Can teach us about things like distributed web application architectures, implementing large payment systems, secure coding practices, implementing security controls in software architectures or localizing web applications for non-American audiences.</span><br></li></ul><div><br></div><div><span>If you recognize yourself in the above, please reach out to </span><a href='mailto:jobs@bevylabs.com' rel='nofollow'><span>jobs@bevylabs.com</span></a><span> with your resume and more information about yourself and let us know why you think we would work well together. We are looking forward to hearing from you!</span></div><div><br></div><div><span>We are proud to foster a workplace free from discrimination. We strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for our users and the communities we serve.</span></div><div></div><div><br></div><div><span>Principals only please.</span></div><div><br></div><div><span><br></span></div>  </div>  <div>    <h4>Apply for this position</h4>    <p><a href='mailto:jobs@bevylabs.com' rel='nofollow'>jobs@bevylabs.com</a></p>  </div>",
+    "urlFetchPending": false,
+    "published": "May 15, 2018 11:41:12 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ]
+  },
+  {
     "id": "nOUGd0PNQt2q5T0oG0yC0g",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -721,29 +744,6 @@
     ],
     "tagsNames2": [
       "frontend",
-      "python"
-    ]
-  },
-  {
-    "id": "Yy-LS-QuTC-lf7ao9D2Duw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "hackernews",
-    "url": "https://news.ycombinator.com/item?id=16778368",
-    "title": "SEEKING FREELANCER Remote: YES Technologies: Python, Git, AWS, Terraform, CI/CD I'm looking to kickstart a simple python microservice ...",
-    "content": "<div>                  <span>SEEKING FREELANCERRemote: YES<p>Technologies: Python, Git, AWS, Terraform, CI/CD</p><p>I'm looking to kickstart a simple python microservice template that: - Spins up a pair of EC2s (some security group details) - Deploys the microservice and dependencies (via custom image, packer, dockerized container, whatever) - Terraform scripts for prod vs test - Best efforts via supervisord (or whatever) to restart the python process if it dies - Prefer Gitlab CI/CD pipeline - Would be great if could drop to packet.net as well as AWS (just a nice-to-have)</p><p>Would like this to be a starting place for quickly building &quot;production-ish&quot; python services, and am 110% happy with it being open source forever.</p><p>contact(me) jrg[AT]kitsunecap{DOT}com<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
-    "urlFetchPending": false,
-    "published": "Apr 7, 2018 2:23:03 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
       "python"
     ]
   },
@@ -1485,110 +1485,6 @@
     "tagsNames2": [
       "python",
       "ruby"
-    ]
-  },
-  {
-    "id": "mFzm138WR4eR62ayE2zbzA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "hackernews",
-    "url": "https://news.ycombinator.com/item?id=16496019",
-    "title": "Dotdash | New York, NY | Senior/Lead Software Engineer, Growth | Full Time Onsite",
-    "content": "<div>                  <span>Dotdash | New York, NY | Senior/Lead Software Engineer, Growth | Full Time Onsite<p>As a Senior Software Engineer, Growth you will build the tools that power our content strategy. You will work closely with Agile teams in New York and Eastern Europe to build databases and applications that empower our writers, editors, and growth team. You will have significant autonomy over your code and contributions.</p><p>About Your Contributions:</p><p>- Take over as tech lead on existing analytics application (Django/React)</p><p>- Architect and build new web applications and internal tools</p><p>- Work with and help lead a team of remote developers</p><p>- Manage and maintain the ETL pipelines that power our insights</p><p>About You:</p><p>- 5+ years experience building web apps and APIs</p><p>- 2+ years experience data engineering in Python</p><p>- Excellent with: Python, PostgreSQL, AWS</p><p>- Tech lead/application owner on multiple projects</p><p>- Experience with distributed team</p><p>- Bonus: Modern Javascript (we use React)</p><p>About Us:</p><p>Dotdash's vibrant brands help over 100 million users each month find answers, solve problems, and get inspired. Dotdash is among the fastest-growing publishers online, and its brands are the fastest-growing in their respective categories. Dotdash brands include Verywell, The Spruce, The Balance, Lifewire, ThoughtCo, and TripSavvy.</p><p><a href='http://jobs.jobvite.com/dotdash/job/oh5L6fwX' rel='nofollow'>http://jobs.jobvite.com/dotdash/job/oh5L6fwX</a><span>              </span></p><div>        <p>                        </p></div></span></div>",
-    "urlFetchPending": false,
-    "published": "Mar 1, 2018 10:39:07 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "python"
-    ]
-  },
-  {
-    "id": "3hYKDVw0RtqApP0vuCRWoA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "hackernews",
-    "url": "https://news.ycombinator.com/item?id=16493712",
-    "title": "Spydermix | https://www.spydermix.org/ | Engineer | Full-Time | Remote",
-    "content": "<div>                  <span>Spydermix | <a href='https://www.spydermix.org/' rel='nofollow'>https://www.spydermix.org/</a> | Engineer | Full-Time | Remote<p>Interested in giving a giant middle finger to repressive regimes? Do you eat DHTs, blockchains &amp; P2P routing algorithms for lunch? Are ridiculously hard problems your idea of fun? Are you the kind of person who could figure out how to create a uni-directional off-chain micro-payment channel with multi-sig support for a verifiable market with order matching and final settlement via smart contract, without trusted parties - taking into account the impossibility of fair exchange without a trusted third party, maybe based on probabilistic payments and/or zero knowledge contingent payments? Did you smile reading that last part? Good, it’s more fun when you have a sense of humor.</p><p>We’re working on changing the game with the backing of the world’s largest VPN service. An unstoppable multi-protocol decentralized onion routing system that is going to weave privacy into the very fabric of the Internet. Like TOR, if TOR was embedded into everything, had sensible economic incentive mechanisms, and was resistant to sybil attacks.</p><p># Scale of initial deployment</p><p>Servers : 100K+ Traffic : Exabytes Users : Millions</p><p># Things you probably already know in and out</p><p>IP networking, onion routing, VPNs, applied cryptography &amp; blockchains at the protocol level.</p><p># Things you’ll wonder when you read the prototype Apache module for fun</p><p>- Why don’t most HTTP proxies support keep-alives?</p><p>- Can you add a flag to the HTTP_PIPE contract to specify whether or not to use Global Session Support (GSS)?</p><p>- Is there a better way to track a single session across separate processes other than keeping track of session state in shared memory?</p><p>If you think you’re the type of person we’re looking for. Get in touch by sending a shout out to: contact [at] spydermix.org<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
-    "urlFetchPending": false,
-    "published": "Mar 1, 2018 7:00:14 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/embedded",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "embedded",
-      "python"
-    ]
-  },
-  {
-    "id": "n1kGMXPQQbCJV1VRp8SakA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "hackernews",
-    "url": "https://news.ycombinator.com/item?id=16493367",
-    "title": "Royal Circuits | Full-Stack Dev | Bay Area - Hollister, CA | Full-Time | ONSITE | https://www.RoyalPCB.io",
-    "content": "<div>                  <span>Royal Circuits | Full-Stack Dev | Bay Area - Hollister, CA | Full-Time | ONSITE | <a href='https://www.RoyalPCB.io' rel='nofollow'>https://www.RoyalPCB.io</a><p>We're a printed circuit board manufacturer that specializes in quick turn prototype orders. We're one of Silicon Valley's best kept secrets – we manufacture printed circuit boards (PCB’s) for thousands of customers nation-wide, including engineers at some of the world's biggest tech companies.</p><p>We’re building up a team of engineers at our internal startup, dubbed “Factory of the Future”, to completely revolutionize the electronics manufacturing industry. We’re looking for a full-stack web developer to work on custom web-apps that enhance and streamline the PCB manufacturing process. You'll be involved in developing tools that get orders through production as seamlessly as possible, with the opportunity to drive interesting projects involving automation, data visualization, and machine/3rd party integration. These include developing 3rd party integrations for use with popular CAD and CAM packages, optimizing our factory processes to get real-time feedback to and from jobs on the floor, and offering real-time feedback on the manufacturability of a customer’s design the instant design files are uploaded.</p><p>Our stack is built around React, GraphQL, Python, Django, Postgres.</p><p>We're happy to offer excellent benefits and competitive salaries, flex hours, and the opportunity to work remotely. Our main office is in Hollister, CA, just south of San Jose. Love nature? We're conveniently near Pinnacles National Park, the country's newest national park.</p><p>I’m Director of Special Projects here at Royal, and a former electrical engineer at companies like Tesla and Taser. If you’re interested in joining our team and genuinely changing the electronics manufacturing industry, send your resume to jobs@royalcircuits.com and we’ll get back to you right away!<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
-    "urlFetchPending": false,
-    "published": "Mar 1, 2018 6:31:06 PM",
-    "tags": [
-      "REMOTE1/50",
-      "TECH1/frontend",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "python"
-    ]
-  },
-  {
-    "id": "3zGRNQ6JRO--cBJCyvWrLw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-programming",
-    "url": "https://weworkremotely.com/remote-jobs/petal-senior-software-engineer-platform",
-    "title": "Petal: Senior Software Engineer - Backend",
-    "content": "<div>  <div>    <h2>Senior Software Engineer - Backend</h2>      <h4>Posted Mar  1</h4>    <h3>      <span>Petal</span><br>      <span>Headquarters: New York, NY</span><br>        <a href='https://www.petalcard.com/' rel='nofollow'>https://www.petalcard.com/</a>      <br>      <a rel='nofollow'>View all Petal jobs →</a>    </h3>  </div>    </div>  <div>    <div><span>At Petal, we're re-inventing credit by unleashing machine learning and modern product design on an industry in sore need of innovation and fairness. We do this by analyzing actual spending behavior to aid in our credit decisions, then providing a simple, delightful credit card with no fees. So, no minimum credit score is required to apply for our card, unlocking access to credit to tens of millions of potential customers to improve their financial lives.</span></div><div><span><br></span></div><div><span>We're just raised venture capital from leading investors (led by Peter Thiel's fund Valar Ventures); you can read more about us here:&nbsp;</span>https://techcrunch.com/2018/01/10/petal-gets-13-million-to-build-a-credit-card-for-those-without-a-credit-history/</div><div><span><br></span></div><div><span>As a Senior Software Engineer, you'll architect, design, and implement the next-generation of financial services products. We're looking for engineers with deep industry experience that can bring fresh ideas they're looking to put into action.</span></div><div><span><br></span></div><div><span><b>What You'll Do</b></span></div><ul><li>Lead projects and provide technical leadership in subject matter expertise.<br></li><li>Own large portions of the code base.<br></li><li>Design secure and highly reliable services to integrate with our data and credit card processing partners.<br></li><li>Build frameworks and products which will be used by other engineering teams at Petal.<br></li><li>Write tests and constantly seek to improve code quality and reliability.<br></li><li>Bring positive energy to every meeting and make your colleagues feel included and heard.<br></li></ul><div><span><br></span></div><div><span><b>Experience and Qualifications</b></span></div><ul><li>You've demonstrated your ability to build, test, release, and maintain complex products with 3+ years of experience doing so.<br></li><li>You demand high-quality code of yourself and others.<br></li><li>You love trying new tools, technologies, and frameworks, but are pragmatic—you get stuff done with what solves the problem you’re facing.<br></li><li>You love shipping new things rapidly, and iterating based on real user behavior. You have a knack for finding and eliminating inefficiency in your users’ workflows.<br></li><li>You’re enthusiastic about unit testing and performance, and knowing how to communicate the value of technical excellence to non-technical teammates.<br></li><li>You’re a great listener, but are willing to speak up when you see something that needs to be fixed. You ask questions when something isn’t clear. You have experience working remotely or with remote colleagues.</li><li>You live within 3 hours of the US Eastern Standard Time zone.</li></ul><div><span><i><br></i></span></div><div><span><b>Nice-to-Haves</b></span></div><ul><li>Experience mentoring engineers.<br></li><li>Experience in financial services.<br></li><li>You've contributed to open source projects to scratch an itch instead of building solutions from the ground up.<br></li><li>Love of immutable state.<br></li><li>Love of idempotent operations.<br></li></ul><div><span><br></span></div><div><span><b>Technologies We Use</b></span></div><ul><li>Python 3 (Flask)<br></li><li>Airflow<br></li><li>Celery</li><li>PostgreSQL<br></li><li>React.js/React Native<br></li><li>Redis<br></li><li>Redshift<br></li><li>Go</li></ul>  </div>  <div>    <h4>Apply for this position</h4>    <p>Send a resume to <a href='mailto:nathan@petalcard.com' rel='nofollow'>nathan@petalcard.com</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Mar 1, 2018 5:27:04 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "python"
     ]
   }
 ]
