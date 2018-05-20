@@ -17,6 +17,7 @@ var isLunarIndexLoaded = false;
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
 var mapIdToJob = new Map();
 var json_data_original = [];
+var detailFormatterTemplate = null;
 
 /**
  * runs when page load complete
@@ -84,6 +85,10 @@ $(document).ready(function () {
 
         $("#jobSearchForm").submit(handleJobSearchFormSubmit);
         $(".filter-checkbox").click(handleClickOnFilterCheckbox);
+
+        var source   = document.getElementById("detailFormatter").innerHTML;
+        detailFormatterTemplate = Handlebars.compile(source);
+
     } catch (err) {
         console.log(err);
     }
@@ -383,32 +388,8 @@ function tableLoad(isFirstLoad) {
  * @return {string} table detail as HTML
  */
 function detailFormatter(index, jobAd) {
-    var html = [];
-    html.push('<div class="detail-view"><td colspan="3"><span class="detailFooter"></span>');
-    html.push('<div class="detailContent"><div class="row">');
-    html.push('<div class="highlight">');
-
-        html.push('<div class="col-xs-12 col-sm-12 col-md-12">');
-              html.push(jobAd.content);
-        html.push('</div>');
-
-        html.push('<div class="col-xs-12 col-sm-12 col-md-12">');
-        html.push('&nbsp;</div>');
-
-        html.push('<div class="col-xs-12 col-sm-12 col-md-12">');
-            html.push('<div style="padding-left: 0;" class="col-xs-6 col-md-6">');
-            html.push('<a href="' + jobAd.url + '">View original job desription <i class="fa fa-external-link" aria-hidden="true"></i></a>');
-            html.push('</div>');
-            html.push('<div style="padding-right: 0;" class="col-sm-6 col-md-6 text-right">');
-            html.push('<a href="#' + jobAd.id + '">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>');
-            html.push('</div>');
-            html.push('</div>'); // div class="col-xs-12 col-sm-12 col-md-12"
-        html.push('<span class="detailFooter">&nbsp;</span>');
-
-    html.push('</div>'); //highlight
-    html.push('</div></div>'); //detailContent row
-    html.push('</td></div>'); //detail-view
-    return html.join('');
+    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id};
+    return detailFormatterTemplate(context);
 }
 
 
