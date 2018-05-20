@@ -748,6 +748,29 @@
     ]
   },
   {
+    "id": "Yy-LS-QuTC-lf7ao9D2Duw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=16778368",
+    "title": "SEEKING FREELANCER Remote: YES Technologies: Python, Git, AWS, Terraform, CI/CD I'm looking to kickstart a simple python microservice ...",
+    "content": "<div>                  <span>SEEKING FREELANCERRemote: YES<p>Technologies: Python, Git, AWS, Terraform, CI/CD</p><p>I'm looking to kickstart a simple python microservice template that: - Spins up a pair of EC2s (some security group details) - Deploys the microservice and dependencies (via custom image, packer, dockerized container, whatever) - Terraform scripts for prod vs test - Best efforts via supervisord (or whatever) to restart the python process if it dies - Prefer Gitlab CI/CD pipeline - Would be great if could drop to packet.net as well as AWS (just a nice-to-have)</p><p>Would like this to be a starting place for quickly building &quot;production-ish&quot; python services, and am 110% happy with it being open source forever.</p><p>contact(me) jrg[AT]kitsunecap{DOT}com<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Apr 7, 2018 2:23:03 AM",
+    "tags": [
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ]
+  },
+  {
     "id": "RXyPCSvxRfSgTCc1vqUAug",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
