@@ -1,6 +1,34 @@
 {
  "items": [
   {
+    "id": "Pvg2N_zrTpyYUss45i5FCw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/186054/senior-design-researcher-wikimedia-foundation-inc?a=10oB4xcfSAyQ",
+    "title": "Senior Design Researcher at Wikimedia Foundation, Inc. (San Francisco, CA) ",
+    "content": "            <h2>About Wikimedia Foundation, Inc.</h2>            <div><p><strong>The Wikimedia Foundation is...</strong></p><p>...the nonprofit organization that supports Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared&nbsp;knowledge,&nbsp;and that everyone should be able to access that knowledge, free of interference. We host the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive&nbsp;<a href='https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&amp;uselang=en&amp;utm_medium=wmfWikiLink&amp;utm_source=B_FAQ&amp;utm_campaign=C_FAQ' rel='nofollow'>financial support</a>&nbsp;from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p><p><em>The Wikimedia Foundation is an equal opportunity employer, and we encourage people with a diverse range of backgrounds to apply.</em></p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>Fully paid premiums for medical, dental &amp; vision insurance premiums</span>                            </li>                            <li>                                <span></span>                                <span>401(k) with 4% matching contribution</span>                            </li>                            <li>                                <span></span>                                <span>7-12 weeks parental leave with 100% pay + lactation room</span>                            </li>                            <li>                                <span></span>                                <span>Wellness Program ($1800 annual) to promote wellness &amp; personal growth</span>                            </li>                            <li>                                <span></span>                                <span>Pre-tax savings plans for Transportation &amp; Parking</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work schedules and remote working options</span>                            </li>                            <li>                                <span></span>                                <span>Pet Friendly office</span>                            </li>                            <li>                                <span></span>                                <span>Commitment to diversity &amp; inclusion throughout the employee lifecycle</span>                            </li>                            <li>                                <span></span>                                <span>12 days vacation, 19 days holiday, 2 days volunteer work and more!</span>                            </li>                            <li>                                <span></span>                                <span>Lean more at https://wikimediafoundation.org/wiki/Work_with_us</span>                            </li>                    </ul>                ",
+    "urlFetchPending": false,
+    "published": "May 22, 2018 5:30:05 PM",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/c",
+      "TITLE1/designer",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "c"
+    ]
+  },
+  {
     "id": "efD6agSSTU-_lNwWEhKuwg",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
@@ -13,6 +41,12 @@
     "urlFetchPending": false,
     "published": "May 19, 2018 6:02:34 PM",
     "tags": [
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1/100",
       "TECH1/dotnet",
       "TITLE1/designer",
@@ -36,6 +70,10 @@
     "urlFetchPending": false,
     "published": "May 18, 2018 10:28:55 PM",
     "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:responsive-design/frontend/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -62,6 +100,8 @@
       "Brooklyn",
       "Building Coalitions",
       "Change Management",
+      "DBG:surround``fulltim 4N remot",
+      "DBG:surround``remot W OR(career,first)",
       "Full Time",
       "Operations",
       "Operations Manager",
@@ -90,6 +130,10 @@
     "urlFetchPending": false,
     "published": "May 16, 2018 11:01:54 PM",
     "tags": [
+      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=3}",
       "REMOTE1/100",
       "TECH1/gamedev",
       "TITLE1/designer",
@@ -113,6 +157,8 @@
     "urlFetchPending": false,
     "published": "May 16, 2018 3:03:13 AM",
     "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
       "REMOTE1/50",
       "TECH1/unknown",
       "TITLE1/designer",
@@ -138,6 +184,11 @@
     "urlFetchPending": false,
     "published": "May 15, 2018 12:48:45 PM",
     "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/bigdata-ml",
       "TITLE1/designer",
@@ -164,6 +215,11 @@
     "urlFetchPending": false,
     "published": "May 12, 2018 1:21:33 AM",
     "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(&quot;not&quot;,no,doesn't) W matter 3W OR(locat,live,resid)",
+      "DBG:surround``avail 8W 2N( OR(core,busi), hour)",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -187,6 +243,11 @@
     "urlFetchPending": false,
     "published": "May 12, 2018 12:58:03 AM",
     "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(&quot;not&quot;,no,doesn't) W matter 3W OR(locat,live,resid)",
+      "DBG:surround``avail 8W 2N( OR(core,busi), hour)",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -210,6 +271,17 @@
     "urlFetchPending": false,
     "published": "May 11, 2018 11:29:23 PM",
     "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG:surround``headquart 3N remot",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:embedded/c/2",
+      "DBG_TECH1:k/t/w:embedded/embedded/16",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=2, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=16, frontend=4}",
       "REMOTE1/100",
       "TECH1/embedded",
       "TITLE1/designer",
@@ -235,6 +307,11 @@
     "urlFetchPending": false,
     "published": "May 10, 2018 8:53:35 PM",
     "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=10}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -258,6 +335,14 @@
     "urlFetchPending": false,
     "published": "May 10, 2018 5:28:17 PM",
     "tags": [
+      "DBG:surround``can 2W remot",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:php-7/php/8",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:symfony/php/8",
+      "DBG_TECH1:k/t/w:zend-framework/php/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=29, embedded=0, frontend=10}",
       "REMOTE1/50",
       "TECH1/php",
       "TITLE1/designer",
@@ -283,6 +368,7 @@
     "urlFetchPending": false,
     "published": "May 7, 2018 10:22:52 AM",
     "tags": [
+      "DBG:surround``3N(telecommut, posit) NOT fulltim",
       "REMOTE1/50",
       "TECH1/unknown",
       "TITLE1/designer",
@@ -308,6 +394,12 @@
     "urlFetchPending": false,
     "published": "May 5, 2018 8:03:36 PM",
     "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1/100",
       "TECH1/bigdata-ml",
       "TITLE1/designer",
@@ -333,6 +425,12 @@
     "urlFetchPending": false,
     "published": "May 3, 2018 4:06:29 PM",
     "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=4}",
       "REMOTE1/100",
       "TECH1/gamedev",
       "TITLE1/designer",
@@ -356,6 +454,10 @@
     "urlFetchPending": false,
     "published": "May 3, 2018 1:51:06 AM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TECH1/nodejs",
@@ -381,6 +483,10 @@
     "urlFetchPending": false,
     "published": "May 2, 2018 8:50:05 PM",
     "tags": [
+      "DBG:surround``2N( OR(feasibl,OR(consid,consider),occas,possibl), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=3}",
       "REMOTE1/50",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -406,6 +512,16 @@
     "urlFetchPending": false,
     "published": "May 2, 2018 7:01:06 PM",
     "tags": [
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:swift/apple/10",
+      "DBG_TECH1:k/t/w:swift/mobile/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=24, go=0, nodejs=0, bigdata-ml=0, ruby=20, apple=14, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/mobile",
       "TECH1/ruby",
@@ -431,6 +547,14 @@
     "urlFetchPending": false,
     "published": "May 1, 2018 12:52:42 PM",
     "tags": [
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=14}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -456,6 +580,9 @@
     "urlFetchPending": false,
     "published": "Apr 26, 2018 11:40:01 AM",
     "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR( australia, japan, newzealand)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
       "REMOTE1/100",
       "TECH1/unknown",
       "TITLE1/designer",
@@ -481,6 +608,8 @@
     "urlFetchPending": false,
     "published": "Apr 24, 2018 10:44:01 PM",
     "tags": [
+      "DBG:surround``fulltim 4N telecommut",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
       "REMOTE1/50",
       "TECH1/unknown",
       "TITLE1/designer",
@@ -506,6 +635,9 @@
     "urlFetchPending": false,
     "published": "Apr 22, 2018 1:03:05 PM",
     "tags": [
+      "DBG:surround``OR(employe,develop,engin,team,workmat) 2W locat",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/bigdata-ml",
       "TITLE1/designer",
@@ -529,6 +661,7 @@
     "urlFetchPending": false,
     "published": "Apr 16, 2018 10:29:27 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
       "Full Time",
       "Mobile UI Design",
       "Mobile UX Design",
@@ -560,6 +693,10 @@
     "urlFetchPending": false,
     "published": "Apr 16, 2018 12:19:40 PM",
     "tags": [
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -585,6 +722,24 @@
     "urlFetchPending": false,
     "published": "Apr 15, 2018 2:07:51 AM",
     "tags": [
+      "DBG:surround``OR(requir,need) 6W OR(travel,visit) 5W OR(offic,headquart,onsit)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/16",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/26",
+      "DBG_TECH1:k/t/w:gruntjs/nodejs/5",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/nodejs/5",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:npm/nodejs/5",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:k/t/w:underscore.js/nodejs/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=34, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=77}",
       "REMOTE1/50",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -612,6 +767,10 @@
     "tags": [
       "Advertising",
       "Customer Acquisition",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=3}",
       "Digital Marketing",
       "Dublin",
       "Facebook Advertising",
@@ -650,6 +809,10 @@
     "urlFetchPending": false,
     "published": "Apr 12, 2018 9:54:15 AM",
     "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
       "REMOTE1/50",
       "TECH1/frontend",
       "TECH1/nodejs",
@@ -677,6 +840,13 @@
     "urlFetchPending": false,
     "published": "Apr 12, 2018 7:56:58 AM",
     "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=4}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TECH1/php",
@@ -702,6 +872,7 @@
     "urlFetchPending": false,
     "published": "Apr 5, 2018 3:55:07 PM",
     "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
       "REMOTE1/50",
       "TECH1/unknown",
       "TITLE1/designer",
@@ -727,6 +898,13 @@
     "urlFetchPending": false,
     "published": "Apr 4, 2018 7:00:46 PM",
     "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``remot 4W OR(skype, slack)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1/50",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -752,6 +930,13 @@
     "urlFetchPending": false,
     "published": "Apr 4, 2018 4:22:13 PM",
     "tags": [
+      "DBG:surround``2N( OR(employe,develop,engin,team,workmat), spread, OR(out,across) )",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:app-store/mobile/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=12, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/mobile",
       "TITLE1/designer",
@@ -775,6 +960,12 @@
     "urlFetchPending": false,
     "published": "Apr 4, 2018 3:54:36 PM",
     "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/mobile",
       "TITLE1/designer",
@@ -798,6 +989,13 @@
     "urlFetchPending": false,
     "published": "Apr 4, 2018 3:40:37 PM",
     "tags": [
+      "DBG:surround``2N( OR(employe,develop,engin,team,workmat), spread, OR(out,across) )",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:app-store/mobile/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=12, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/mobile",
       "TITLE1/designer",
@@ -821,6 +1019,9 @@
     "urlFetchPending": false,
     "published": "Apr 4, 2018 1:48:19 AM",
     "tags": [
+      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
+      "DBG_TECH1:k/t/w:express/nodejs/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=16, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "Design Facillitation",
       "Design Thinking",
       "Designer",
@@ -853,6 +1054,7 @@
     "published": "Apr 4, 2018 1:48:19 AM",
     "tags": [
       "Brooklyn",
+      "DBG:surround``fulltim 4N remot",
       "Design Thinking",
       "Designer",
       "Full Time",
@@ -883,6 +1085,7 @@
     "urlFetchPending": false,
     "published": "Apr 3, 2018 12:08:03 AM",
     "tags": [
+      "DBG:surround``seek 2W freelancerescap 4W remot",
       "REMOTE1/100",
       "TECH1/unknown",
       "TITLE1/designer",
@@ -906,6 +1109,12 @@
     "urlFetchPending": false,
     "published": "Apr 2, 2018 11:53:06 PM",
     "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
+      "DBG_TECH1:k/t/w:css/frontend/6",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
       "REMOTE1/50",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -931,6 +1140,9 @@
     "urlFetchPending": false,
     "published": "Apr 2, 2018 7:57:06 PM",
     "tags": [
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=3}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -954,6 +1166,8 @@
     "urlFetchPending": false,
     "published": "Mar 30, 2018 10:19:40 PM",
     "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
       "REMOTE1/100",
       "TECH1/unknown",
       "TITLE1/designer",
@@ -977,6 +1191,14 @@
     "urlFetchPending": false,
     "published": "Mar 29, 2018 11:02:44 PM",
     "tags": [
+      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=4, java=1, gamedev=8, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/gamedev",
       "TITLE1/designer",
@@ -1000,6 +1222,11 @@
     "urlFetchPending": false,
     "published": "Mar 27, 2018 3:17:26 PM",
     "tags": [
+      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=8}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -1023,6 +1250,9 @@
     "urlFetchPending": false,
     "published": "Mar 26, 2018 11:26:12 PM",
     "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG_TECH1:k/t/w:animation/gamedev/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=16, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/gamedev",
       "TITLE1/designer",
@@ -1048,6 +1278,11 @@
     "urlFetchPending": false,
     "published": "Mar 26, 2018 5:50:23 PM",
     "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=10}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -1071,6 +1306,11 @@
     "urlFetchPending": false,
     "published": "Mar 26, 2018 5:36:55 PM",
     "tags": [
+      "DBG:surround``choos 5W locat",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=10}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -1094,6 +1334,12 @@
     "urlFetchPending": false,
     "published": "Mar 26, 2018 11:56:44 AM",
     "tags": [
+      "DBG:surround``remot 4W OR(skype, slack)",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1/100",
       "TECH1/bigdata-ml",
       "TITLE1/designer",
@@ -1117,6 +1363,16 @@
     "urlFetchPending": false,
     "published": "Mar 26, 2018 11:20:30 AM",
     "tags": [
+      "DBG:surround``remot 4W OR(skype, slack)",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=8, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=17}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -1140,6 +1396,12 @@
     "urlFetchPending": false,
     "published": "Mar 24, 2018 1:55:37 AM",
     "tags": [
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TITLE1/designer",
@@ -1163,6 +1425,27 @@
     "urlFetchPending": false,
     "published": "Mar 23, 2018 2:20:56 PM",
     "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:air/frontend/8",
+      "DBG_TECH1:k/t/w:air/mobile/8",
+      "DBG_TECH1:k/t/w:android/java/3",
+      "DBG_TECH1:k/t/w:android/mobile/6",
+      "DBG_TECH1:k/t/w:animation/gamedev/16",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/5",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/5",
+      "DBG_TECH1:k/t/w:css/frontend/6",
+      "DBG_TECH1:k/t/w:go/go/42",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:iphone/apple/2",
+      "DBG_TECH1:k/t/w:iphone/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:wordpress/php/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=20, go=42, nodejs=7, bigdata-ml=0, ruby=0, apple=6, java=3, gamedev=16, php=10, embedded=0, frontend=42}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TECH1/go",
@@ -1173,304 +1456,6 @@
     "tagsNames2": [
       "frontend",
       "go"
-    ]
-  },
-  {
-    "id": "7Be_DKbWQZevYk3QFFNaOw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "workinstartups-designers",
-    "url": "http://workinstartups.com/job-board/job/67333/ntw-designs-job-as-a-web-designer-remote-at-ntw-designs/",
-    "title": "Ntw Designs - Job as a Web Designer Remote",
-    "content": "Company Backgrround: Ntw designs is a USA based web design company that has won numerous awards and worked with thousands of clients. <br />Ntw designs is a web design company that is known to create custom web designs and full service custom packages for companies around the world.<br /><br />Job Position Available: <br />Remote Website design that is proficient in PHP and Magento <br /><br />Requirements of Submission: <br />Email us your resume, prior work experience, 3 references  By email to &quot;ntw designs&quot;:http://www.ntwdesigns.com    <br /><br />Also on a quick side note: <br />Please include the subject of the source you found this listing along with your full name. Leaving a video intro that is a couple of seconds is also another plus on your submission that we will take in consideration. ",
-    "urlFetchPending": false,
-    "published": "Mar 22, 2018 7:01:10 AM",
-    "tags": [
-      "REMOTE1/50",
-      "TECH1/php",
-      "TITLE1/designer",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "php"
-    ]
-  },
-  {
-    "id": "of2JRlfwTautFKNsHfsFIg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "jobmote",
-    "url": "http://jobmote.com/jobs/1165-contract-freelance-web-designer",
-    "title": "Contract/Freelance Web Designer",
-    "content": "Contract/Freelance Web&nbsp;Designer - Jobmote<div><div><h2>Contract/Freelance Web&nbsp;Designer</h2><h5>Parachute Design Group Inc.</h5></div></div><div><div><div><div></div></div><div><div><div><p></p><p>We are currently seeking a professional freelance website designer to expand our team of elite web design specialists. The ideal candidate is a knowledgeable, self-managed designer with 5+ years experience in web and user interface design available for full time or part-time freelance work. The candidate should have exceptional, pixel-perfect attention to detail and the ability to deliver top-notch work on time and on budget.&nbsp;</p><p>Our design and development team is entirely virtual, meaning we are all scattered around the world. What makes our team successful is their ability to self-manage, ask questions and a shared commitment to creating beautiful, professional work on time.&nbsp;</p><p><strong>Requirements:</strong></p><ul><li>Excellent knowledge of the Adobe Creative Suite.</li><li>Excellent knowledge of Sketch.</li><li>Expert in design theory and fundamentals.</li><li>Available for freelance/contract work during regular business hours in Eastern Standard Time.</li></ul><p><strong>Nice to Have:</strong></p><ul><li>Excellent strategy and wireframing skills.</li><li>Branding and logo design experience.</li><li>Ability to take a project from discovery to completion.</li><li>Project management/client management experience.</li><li>RGD or GDC designation considered an asset.</li></ul><p><strong>Think you are the person we’re looking for?</strong></p><ul><li>Please send us your three (3) favourite real-world portfolio pieces with a very brief overview of the project goals and challenges you faced.</li><li>Your hourly rate.</li><li>Your contact information.</li><li>References if available.</li></ul></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>",
-    "urlFetchPending": false,
-    "published": "Mar 20, 2018 12:21:21 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/designer",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ]
-  },
-  {
-    "id": "UIg5uNxzRzyj7SsKlW4INg",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "authenticjobs.com",
-    "url": "https://authenticjobs.com/jobs/30444?r=rss2",
-    "title": "Parachute Design Group Inc.: Contract/Freelance Web Designer",
-    "content": "<p>Part-time</p><p><strong>(Anywhere, &quot;Canada Preferred&quot;)</strong> </p><p>We are currently seeking a professional freelance website designer to expand our team of elite web design specialists. The ideal candidate is a knowledgeable, self-managed designer with 5+ years experience in web and user interface design available for full time or part-time freelance work. The candidate should have exceptional, pixel-perfect attention to detail and the ability to deliver top-notch work on time and on budget.&nbsp;</p><p>Our design and development team is entirely virtual, meaning we are all scattered around the world. What makes our team successful is their ability to self-manage, ask questions and a shared commitment to creating beautiful, professional work on time.&nbsp;</p><p><strong>Requirements:</strong></p><ul><li>Excellent knowledge of the Adobe Creative Suite.</li><li>Excellent knowledge of Sketch.</li><li>Expert in design theory and fundamentals.</li><li>Available for freelance/contract work during regular business hours in Eastern Standard Time.</li></ul><p><strong>Nice to Have: </strong></p><ul><li>Excellent strategy and wireframing skills.</li><li>Branding and logo design experience.</li><li>Ability to take a project from discovery to completion.</li><li>Project management/client management experience.</li><li>RGD or GDC designation considered an asset.</li></ul><p><strong>Think you are the person we’re looking for? </strong></p><ul><li>Please send us your three (3) favourite real-world portfolio pieces with a very brief overview of the project goals and challenges you faced.</li><li>Your hourly rate.</li><li>Your contact information.</li><li>References if available.</li></ul><p></p><p><strong>Job Perks:</strong> Work remotely on a wide range of clients from startups to tech, healthcare and government.</p><p><strong>Apply:</strong> </p>",
-    "urlFetchPending": false,
-    "published": "Mar 19, 2018 11:29:10 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/designer",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ]
-  },
-  {
-    "id": "pWeWZ4lVQnqmtTCtp0cNSA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "angel.co",
-    "url": "https://angel.co/consensys/jobs/331729-senior-product-designer-truset",
-    "title": "Senior Product Designer (TruSet)",
-    "content": "<div><h2>Senior Product Designer (TruSet) at ConsenSys</h2><div>Brooklyn, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>User Experience Design, Design Thinking, Systems Design, Product Design</div><div>Compensation</div><div>$120K–$140K<br>0.01%–0.01%</div><div>Visa Sponsorship</div><div>Not available</div></div><h3>Job Description</h3><div><p>We are currently seeking a Senior Product Designer with a passion for enterprise solutions in financial services in the Ethereum ecosystem. You have an interest and/or SaaS based experience in fintech, data management tools, market data services and/or the emerging crypto token markets—you are passionate about the needs of users in relation to these areas. As a Product Designer at ConsenSys, you will take products from ideation and rough prototypes to high fidelity designs, relentlessly validating and pushing for accessible, delightful design solutions. </p><p>The TruSet spoke within ConsenSys is introducing a new community-based approach for creating and maintaining the shared reference data required to execute business in the emerging crypto token markets, global financial industry and other information intensive industries. TruSet is creating n-sided marketplaces to enable the collection, validation, publication, and commercialization of business critical data without requiring the intervention of intermediary vendors or service providers. As a community operated resource, TruSet can better ensure quality and accuracy, as it benefits from validation by actual market participants. The TruSet solution will be enterprise scale, will integrate with both front office and back office applications at major financial institutions and will look to develop innovative marketplaces and reward schemes based on decentralized technologies and crypto-tokens to incentive the data publishing and cleansing participation of network members. </p><p>The first two marketplaces TruSet will enable are the crypto token / blockchain project industry and fixed income (e.g. bonds) security master data . Over time, TruSet will expand its platform to enable marketplaces for other types of financial data and reference data in other industries.</p><p>As a Senior Product Designer, you will:<br>Lead a collaborative design process from conception to launch: partner with small, global teams of engineers, product managers, and researchers to identify user needs, define product strategy, and create roadmaps<br>Develop storyboards, prototypes, and high-fidelity visual design to effectively communicate interaction and design ideas<br>Actively give and solicit feedback from other designers in order to continually raise the bar for quality<br>Mentor junior designers or interns, growing and iterating on our design culture by participating in design-team-wide initiatives such as recruiting, developing design principles, and improving design tools and process<br>Evangelize design and product thinking methodology<br>Fearlessly take on highly complex problem areas and then publish what you learn<br>Grow a design team as products mature</p><p>What we ask for:<br>You have 5+ years of experience working as a product designer on agile teams<br>You have demonstrable UX experience in enterprise focused products<br>You have solved complex problems with elegant, shipped product—evidenced in an online portfolio featuring end-to-end product design<br>You demonstrate product vision and use data and experimentation to provide product direction.<br>While you may not have a branding or marketing background, you understand customer experience and the relationship between brand and product design<br>You’re excellent at articulating design decisions, presenting to clients or stakeholders<br>You’re effective at prototyping at varying levels of fidelity<br>You demonstrate solid leadership skills and an ability to develop strong partnerships with product managers and engineers</p><p>Even better if:<br>You have front-end development experience<br>You’re interested in or have experience with decentralized applications and blockchain<br>You’re interested in or have experience designing for fintech and accounting<br>You have experience at both large organizations and start-ups<br>You are able to facilitate design thinking workshops<br>You enjoy some amount of ambiguity and freedom to experiment<br>You’ve built or worked with design systems</p></div>",
-    "urlFetchPending": false,
-    "published": "Mar 19, 2018 1:40:29 PM",
-    "tags": [
-      "Brooklyn",
-      "Design Thinking",
-      "Designer",
-      "Full Time",
-      "Product Design",
-      "REMOTE1/100",
-      "Remote OK",
-      "Systems Design",
-      "TECH1/unknown",
-      "TITLE1/designer",
-      "TZ/unknown",
-      "User Experience Design"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ]
-  },
-  {
-    "id": "-tkGGK24QSeAFJUrkeVpeQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "wfh.io",
-    "url": "https://www.wfh.io/jobs/4276-frontend-developer-ux-ui-designer-scale-it",
-    "title": "Frontend Developer UX / UI Designer @ Scale-it",
-    "content": "<h2>              Frontend Developer UX / UI Designer<small> @ Scale-it</small>          </h2><dl>          <dt></dt>          <dd><p></p></dd>          <dt></dt>          <dd><p>2018-03-19 12:33</p></dd>          <dt><span>Description</span></dt>          <dd><p>We are looking for a passionate frontend developer with strong UI design skills for a simple single page web site related to FIFA World Cup 2018 and Blockchain.</p><p>Requirements:</p><ul><li>Crafting web pages and UI /UX expertise is your expertise.</li><li>React / Vue.js skills are nice to have</li><li>You prefer and want to focus on the nowadays web frontend development, where frontends aren’t any more a simple mirror of information.</li></ul><p>Time: 1 month (possible to extend)</p><p>Remuneration: 2000eur</p></dd>          <dt></dt>            <dd>              <p>                              </p>            </dd>          <dt><span>Country</span></dt>          <dd><p>Anywhere*</p></dd>            <dt><span>Location</span></dt>            <dd><p>Europe</p></dd>        </dl>",
-    "urlFetchPending": false,
-    "published": "Mar 19, 2018 12:48:03 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/designer",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "frontend"
-    ]
-  },
-  {
-    "id": "qKsUNw6LQVe7bPyak_jjTA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "workingnomads.co",
-    "url": "https://www.workingnomads.co/jobs/dream-position-for-remote-employee-that-wants-to-make-a-difference-smart-wires-19079",
-    "title": "Dream Position for Remote Employee that Wants to Make a Difference",
-    "content": "<p>What if you could work in an environment that offered:</p><ul><li>Great company</li><li>Important and Noble Mission – Meaningfully contribute to Saving the Planet</li><li>Valuable Work and a Great Team that Really Values Your Contributions</li><li>Unusually Nice People that are really passionate about their mission</li><li>Flexible hours and freedom to mold work to your schedule</li></ul><p>If that sounds too good to be true, read on to learn about a Silicon Valley company with a fantastic culture that is already having an impact on reducing climate change with the potential to meaningfully contribute to solving one of the most important challenges of our generation.</p><p>Smart Wires is looking to hire two valuable remote employees that can help our team achieve a much higher impact every day.&nbsp;&nbsp; We call these employees “Project Coordinators”, but it is tricky to describe the role and their impact in just a couple words.</p><p>We have two of these incredibly valuable Project Coordinators today, and our goal is to double the team immediately. Our Project Coordinators have shared that one of the things they like most about their jobs is that they get to learn every day from some of the most progressive management leaders in the entire tech industry and help transform a power grid that should no longer be running on carbon based fuels. Supporting a variety of work streams, you will be in a unique position at a company that is revolutionizing the energy industry with a culture that 99% of the world only dreams about.</p><p><br><strong>The Company:</strong><br>Smart Wires (www.smartwires.com) has developed an innovative technology that dramatically improves the efficiency of today’s power grid. Driven by a world-class leadership team, Smart Wires works with utilities globally to address the unique challenges of the rapidly evolving electric system. We deploy our revolutionary technologies to “re-route power” around overloaded lines and address the most serious problems challenging our transmission system.&nbsp; Our solutions offer a superior value proposition to all other solutions that a utility will consider and represent a complete paradigm shift for utilities that are finding it very difficult to build new lines in a world with so much uncertainty around the future needs of the grid.&nbsp; These utilities recognize that their grids are running with concerning levels of inefficiency today and are under immense pressure to “get more out of their existing grids”, which is why Smart Wires has accumulated a true “Who’s Who” list of customers and forced the entire industry to take notice of this revolutionary technology solution.<br>&nbsp;</p><p><strong>The Culture: </strong><br>We are carefully engineering our culture to attract stunning performers who thrive in a “Freedom and Responsibility” environment. Borrowing heavily from the cultural breakthroughs offered by Netflix, this culture rejects tight management of detailed tasks, focusing instead on hiring great people capable of managing important missions with fairly limited direction and supervision.&nbsp; We give even those with limited work experience the resources they need and believe that certain “superstars” are hard-wired to deliver nothing but truly excellent results.&nbsp; This is an atmosphere of rapid professional development and incredible learning.&nbsp; Our goal is to place superstars in every role so that we rely and trust each other to do our jobs brilliantly, knowing that this strategy ensures a fun, exciting workplace and nearly guarantees continued commercial success.<br>&nbsp;</p><p><strong>The Position:</strong><br>We are looking to add two more virtual Project Coordinators to our team.&nbsp; Our current thinking is that one of these will be a dedicated full time resource working 30 – 40 hours per week. The other may work on part time basis with the potential to migrate to full time status based on how much they enjoy working with the company and whether we have enough volume of work that fits well with this person’s key skill set.</p><p>These roles will be personally responsible for managing many of our team’s most important tasks, coordinating with people at all levels of the organization to allow for better utilization of the entire team. The dynamic candidate we seek will be sharp, strategic, organized, detail-oriented, flexible, creative, serious (but still able to laugh at themselves…), committed, and passionate about their work.</p><p>The ideal candidate possesses superior communication skills, is a strong team player who enjoys working with all levels of staff, and is prepared to roll their sleeves up and dig in on a new task every day.&nbsp; Some of the tasks you are likely to tackle in your first six months include:</p><ul><li>Performing research on a variety of topics from customer bios and market trends to office equipment evaluations</li><li>Creating, collating, and presenting valuable insights in MS PowerPoint and Excel&nbsp;</li><li>Organizing and preparing necessary materials for stakeholder meetings</li><li>Scheduling and coordinating meetings and appointments for a variety of projects</li><li>Providing administrative support as needed</li><li>Ensuring projects adhere to designed frameworks and that we have proper documentation on the most critical elements of each key project</li></ul><p>Smart Wires is looking for the Project Coordinator to become another indispensable and highly recognized company superstar. If you can do all of the aforementioned things, this one should be straightforward. We want someone who will master these and other tasks in just a few months and then we want them asking, “What else can I do to contribute?”&nbsp; And that’s when the real fun begins…</p><p>&nbsp;</p><p><strong>The Ideal Candidate:</strong></p><ul><li>Is an excellent communicator with fantastic interpersonal skills</li><li>Can effectively conduct online research and produce quality / professional work with limited supervision</li><li>Has the ability to work efficiently and comfortably on multiple projects / tasks concurrently</li><li>Can work effectively with a variety of different people at all levels</li><li>Has the ability to problem solve independently and synthesize information from various sources</li><li>Has reasonably strong fluency with Microsoft office, specifically PowerPoint and Outlook</li><li>Appreciates the value of learning from unusually bright and passionate coworkers and supervisors that are committed to rapid professional development</li></ul>",
-    "urlFetchPending": false,
-    "published": "Mar 16, 2018 7:25:41 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/designer",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ]
-  },
-  {
-    "id": "OauMqmHjSlOCJK6pqCl8_A",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "smashingmagazine.com",
-    "url": "https://www.smashingmagazine.com/2018/03/ethical-design-practical-getting-started-guide/",
-    "title": "Ethical Design: The Practical Getting-Started Guide",
-    "content": "        Ethical Design: The Practical Getting-Started Guide — Smashing Magazine                                                                                  <div></div>  <a rel='nofollow'>Skip to main content</a>  <a rel='nofollow'>Start reading the article</a>  <a rel='nofollow'>Jump to list of all articles</a>        <div>                <div>            <div>    <a title=&quot;← Back to the homepage&quot; rel='nofollow'>                                            </a></div>            <div>                  <a rel='nofollow'>        Search        Topics            </a>              <div>                    <ul>                                                                                                  <li>                    <a rel='nofollow'>                                                    <span>                                                            </span>                                                          <h3>                                <span>Articles <span>.</span></span>                              </h3>                              <p>Design &amp; development</p>                                                                        </a>                </li>                <li>                    <a rel='nofollow'>                                                    <span>                                                            </span>                                                          <h3>                                <span>Books <span>.</span></span>                              </h3>                              <p>Physical &amp; digital books</p>                                                                        </a>                </li>                <li>                    <a rel='nofollow'>                                                    <span>                                                            </span>                                                          <h3>                                <span>Events <span>.</span></span>                              </h3>                              <p>Conferences &amp; workshops</p>                                                                        </a>                </li>                <li>                    <a rel='nofollow'>                                                    <span>                                                            </span>                                                          <h3>                                <span>Jobs <span>.</span></span>                              </h3>                              <p>Find work &amp; employees</p>                                                                        </a>                </li>                <li>                    <a rel='nofollow'>                                                    <span>                                                            </span>                                                          <h3>                                <span>Membership <span>.</span></span>                              </h3>                              <p>Webinars &amp; early-birds</p>                                                                        </a>                </li>                <li>                    <a rel='nofollow'>                        Browse All Topics                    </a>                </li>            </ul>        </div>            </div>            <div>    <div>                    <div>                                    <a rel='nofollow'>                                    Clear Search                                                </a>        </div>                <div>        <a href='https://www.algolia.com/' rel='nofollow'>                    </a>    </div></div>    <div></div>    <div>    <h5>Browse All Topics</h5>    <ul>              <li>            <a rel='nofollow'>Accessibility</a>        </li>              <li>            <a rel='nofollow'>Android</a>        </li>              <li>            <a rel='nofollow'>Animation</a>        </li>              <li>            <a rel='nofollow'>Apps</a>        </li>              <li>            <a rel='nofollow'>CSS</a>        </li>              <li>            <a rel='nofollow'>Design</a>        </li>              <li>            <a rel='nofollow'>Design Patterns</a>        </li>              <li>            <a rel='nofollow'>Design Systems</a>        </li>              <li>            <a rel='nofollow'>E-Commerce</a>        </li>              <li>            <a rel='nofollow'>Freebies</a>        </li>              <li>            <a rel='nofollow'>Graphics</a>        </li>              <li>            <a rel='nofollow'>HTML</a>        </li>              <li>            <a rel='nofollow'>Illustrator</a>        </li>              <li>            <a rel='nofollow'>Inspiration</a>        </li>              <li>            <a rel='nofollow'>iOS</a>        </li>              <li>            <a rel='nofollow'>JavaScript</a>        </li>              <li>            <a rel='nofollow'>Mobile</a>        </li>              <li>            <a rel='nofollow'>Pattern Libraries</a>        </li>              <li>            <a rel='nofollow'>Performance</a>        </li>              <li>            <a rel='nofollow'>Photoshop</a>        </li>              <li>            <a rel='nofollow'>Plugins</a>        </li>              <li>            <a rel='nofollow'>React</a>        </li>              <li>            <a rel='nofollow'>Responsive Web Design</a>        </li>              <li>            <a rel='nofollow'>Service Workers</a>        </li>              <li>            <a rel='nofollow'>Sketch</a>        </li>              <li>            <a rel='nofollow'>Typography</a>        </li>              <li>            <a rel='nofollow'>UI</a>        </li>              <li>            <a rel='nofollow'>Usability</a>        </li>              <li>            <a rel='nofollow'>User Experience</a>        </li>              <li>            <a rel='nofollow'>Wallpapers</a>        </li>              <li>            <a rel='nofollow'>Web Design</a>        </li>              <li>            <a rel='nofollow'>WordPress</a>        </li>              <li>            <a rel='nofollow'>Workflow</a>        </li>          </ul></div>                                                    <div>                <div>                                  </div>              </div>                        <span>Seriously, red? <span>Switch contrast</span></span>          </div>          </div>                                                            <div>                <div>                                  </div>              </div>                        <span>Seriously, red? <span>Switch contrast</span></span>              </div>          <div>        <div>            <div>                    <a rel='nofollow'>        <div>            <div>                <div></div>            </div>        </div>    </a>            <h4>About The Author</h4>        <p>            Trine Falbe is a researcher, consultant, speaker and lecturer focused on empowering people through ethical design. She is the author of the book <a href='https://www.smashingmagazine.com/printed-books/white-hat-ux/' rel='nofollow'>White Hat UX</a>.            <a rel='nofollow'>More about <span>Trine</span>…</a>        </p>                                        <ul>                        <li>                                                            <span>March</span>              16, 2018                                                </li>                        <li>                            <span><a rel='nofollow'>                                <span>Leave a comment</span>                            </a></span>                        </li>                    </ul>                    <h2>Ethical Design: The Practical Getting-Started Guide</h2>                    <ul>                                      <li>                              <a rel='nofollow'>User Experience</a>                <span>                                    <span>(</span>                                    202                                    <span> articles )</span>                                </span>                          </li>                                      <li>                              <a rel='nofollow'>Patterns</a>                <span>                                    <span>(</span>                                    5                                    <span> articles )</span>                                </span>                          </li>                                      <li>                              <a rel='nofollow'>Guides</a>                <span>                                    <span>(</span>                                    7                                    <span> articles )</span>                                </span>                          </li>                                </ul>                    <div></div>                            </div>            <div>                                <div> <div>  <ul>    <li>        Summary    </li>    <li>        Table of Contents    </li>      </ul></div>    <div>        <h6>Quick Summary</h6>        <p>                                            As designers and developers, we have an obligation to build experiences that are better than the norm. This article explains how unethical design happens, and how to do ethical design through a set of best practices.                            </p>    </div>    <div>        <h6>Table of Contents</h6>        <div></div>    </div></div>        <div>  <div>    <div>      <a rel='nofollow'></a>    </div>      <div>      <h3>Members support Smashing</h3>    </div>  </div>  <p><em>Wonderful</em>, friendly people who keep this lil' site alive — and <strong>get smarter</strong> every&nbsp;day.</p>  <a rel='nofollow'>Are you smashing, too?&nbsp;→</a></div>                   </div>            <div>                <div>    </div>                <p>By now, most people working in tech know and feel the deep concerns related to surveillance capitalism fostered and upheld by the tech giants. We understand that the root of the problem lies within the business model of capitalising and monetising user data. Stories of how people are being exploited surface on a daily basis, like the recent story about how <a href='https://www.theglobeandmail.com/technology/your-smartphone-is-making-you-stupid/article37511900/' rel='nofollow'>Instagram withholds like notifications to certain users</a>, with the purpose of increasing the rate of which they open the app. In the same story, The Globe and Mail describe how former <a href='https://www.theglobeandmail.com/technology/your-smartphone-is-making-you-stupid/article37511900/' rel='nofollow'>high level employees of Facebook are growing a conscience and tell horrifying stories</a> about how features are meticulously being built to exploit human behavior and make us addicts of social media.</p><p>As designers and developers we have an obligation to build experiences that are better than that. This article explains how unethical design happens, and how to do ethical design through a set of best practices. It also helps you understand how you can plant the seed to change the meaning within the company you work for and in the design community, even if you are not part of the management layer. Change starts with a movement!</p><h4>Ethical Design</h4><p>Let’s start with the core terminology: According to <a href='https://www.merriam-webster.com/dictionary/ethic' rel='nofollow'>Merriam Webster</a>, ethics is “the discipline dealing with what is good and bad and with moral duty and obligation.” For the purpose of this article, ethics will be defined as a system of moral principles that defines what is perceived as good and evil. Ethical design is, therefore, design made with the intent to do good, and unethical design is its black hat counterpart.</p>      <div>      <div>        <p>          Is your pattern library up to date today? <em>Alla Kholmatova</em> has just finished a fully fledged book on <strong>Design Systems</strong> and how to get them right. With common traps, gotchas and the lessons she learned. Hardcover, eBook. <em>Just sayin'.</em>        </p>        <a rel='nofollow'>                      Table of Contents&nbsp;→                  </a>      </div>      <div>        <a rel='nofollow'>        <div>                  </div>      </a>      </div>    </div>      <div><p><a href='https://ind.ie/' rel='nofollow'>Ind.ie</a> is a social enterprise striving for justice in the digital age. It is founded by Aral Balkan and Laura Kalbag who defined an “<a href='https://ind.ie/ethical-design/' rel='nofollow'>Ethical Hierarchy of Needs</a>” that describe the core of ethical design very well.</p>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4bb28749-d346-4d08-8e81-17ede0c2a4df/ethical-design-hierarcy.png' rel='nofollow'>            </a>                        The 'Ethical Hierarchy of Needs' (licensed under <a href='https://creativecommons.org/licenses/by/4.0/' rel='nofollow'>CC BY 4.0</a>) (Source: <a href='https://ind.ie/' rel='nofollow'>ind.ie</a>)            <p>As with any pyramid-shaped structure, the layers in the <em>Ethical Hierarchy of Needs</em> rest on the layer below it. If any layer is broken, the layers resting on top of it will collapse. If a design does not support human rights, it is unethical. If it supports human rights but does not respect human effort by being functional, convenient and reliable (and usable!), then it is <em>unethical</em>. If it respects human effort but does not respect human experience by making a better life for the people using it, then it is still <em>unethical</em>.</p><p>From a practical viewpoint, this means that products and services which exploit user data, use dark patterns and generally are only out to make money, disregarding its human purpose, are unethical. Let’s look at how unethical design manifests itself in business models and design decisions.</p><h4>Unethical Design: The Black Hat Of The Business </h4><h5>Surveillance Capitalism</h5><p>Data-driven design can be used to do good. But more often than not it is used with monetary intent also known as surveillance capitalism.</p><p>As <a href='https://twitter.com/aral' rel='nofollow'>Aral Balkan</a>, ethical designer and founder of <a href='https://ind.ie/' rel='nofollow'>ind.ie</a> puts it:</p><blockquote>“When a company like Facebook improves the experience of its products, it’s like the massages we give to Kobe beef: they’re not for the benefit of the cow but to make the cow a better product. In this analogy, you are the cow.”</blockquote><p>Surveillance capitalism is unethical by nature because at its core, it takes advantage of rich data to profile people and understand their behavior with the sole purpose of making money. The most chilling thought of all is how data is being used not just to predict and manipulate current behavior, but how it is used to profile our future selves through machine learning, ultimately giving companies the power to impact our future decisions and behavioral patterns.</p><p>As Cracked Labs, independent research institute and creative laboratory, states in their report about <a href='http://crackedlabs.org/en/data-against-people' rel='nofollow'>Data Against People</a>:</p><blockquote>“Systems that make <strong>decisions about people</strong> based on their data produce substantial adverse effects that can massively limit their choices, opportunities, and life-chances”.</blockquote><p>This happens on a daily basis to everyone who use Facebook, where the individualized feed is carefully filtered to show the posts most likely to trigger engagement and activity. Pricing is also becoming increasingly individualized because companies are able to use rich data to assess the long-term value of customers, also known as <a href='http://crackedlabs.org/en/corporate-surveillance/info' rel='nofollow'>data-driven persuasion</a>.</p><p>Data trade and data tracking is big business. According to the report “<a href='http://crackedlabs.org/en/corporate-surveillance/#3' rel='nofollow'>Corporate Surveillance in Everyday Life</a>”, Oracle provides access to 5 billion (yes, billion!) unique user ID’s (this is confirmed on <a href='https://www.oracle.com/webfolder/s/dataexplorer/data-providers.html' rel='nofollow'>Oracle’s website</a>). The word “scared” does not cover the emotional state which we should all be in over that fact.</p>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170938ae-3f05-4571-bff3-67841f2751e1/ethical-design-data-trade.png' rel='nofollow'>            </a>                        An overview of the amount of profiles held by online platforms, credit reporting agencies and consumer data brokers as of June 2017. (Source: <a href='http://crackedlabs.org/en/corporate-surveillance/#3' rel='nofollow'>Corporate Surveillance in Everyday Life</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0/' rel='nofollow'>CC BY-SA 4.0</a>, <a href='http://crackedlabs.org/en' rel='nofollow'>Cracked Labs</a>)            <p>One can only imagine how companies will be able to utilize data to profile which of us are more likely to develop mental health or physical issues, thus putting us in the “no thanks” pile of applications for our future jobs. With this in mind, I fear for the future of my children.</p><p>To some the above sounds like something out of a science fiction movie, but it is not far-fetched at all. Unethical companies are exposed daily, from the <a href='https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-know-smartphones-activity-what-do-not-use-social-network-account-media-privacy-security-a7892761.html' rel='nofollow'>VPN app</a> who claimed to protect the data of their 24 million users, but sold it to Facebook to the software called <a href='http://alphonso.tv/' rel='nofollow'>Alphonso</a> which, according to an <a href='https://www.nytimes.com/2017/12/28/business/media/alphonso-app-tracking.html' rel='nofollow'>article in The New York Times</a>, is used in more than 250 game apps (some of which are designed for children) to monitor what tv ads people watch, even if the app is not in active use. The list of companies who harvest and use data with deeply unethical purposes goes on and on and on.</p><h5>Black Hat Design</h5><p>Nevertheless, data tracking is not the only way that unethical design plays out. <a href='https://darkpatterns.org/' rel='nofollow'>Dark patterns</a> fall under unethical design too, as they are black hat design patterns specifically designed to trick us into doing something we don’t necessarily want to do. It may not be considered unethical when a company makes use of the dark pattern called <em>Roach Motel</em> to make it nearly impossible to delete your account (looking at you, Skype). But looking at the motivation of the business side, it is not hard to see the unethical nature of the design, naming the <a href='https://medium.com/shanghaiist/chinese-shoe-company-tricks-people-into-swiping-instagram-ad-with-fake-strand-of-hair-54d8a2d8ec1d' rel='nofollow'>Chinese shoe company</a> who tricked people to swipe by adding a fake strand of hair on their Instagram ad as just one example.</p>  <div></div><p>Harry Brignull, one of the originators and driving forces behind <a href='https://darkpatterns.org/' rel='nofollow'>Dark Patterns</a>, states that dark patterns work because they take advantage of the human brain’s weaknesses and the way we are hard-wired. That counts as unethical in my book, and we have a moral obligation to the people who design these products to do <em>better</em>.</p><p>Businesses who nurture consumerism and manipulate people into buying more stuff are unethical by design. It is common practice in e-commerce, and it takes advantage of a phenomenon called “<a href='https://en.wikipedia.org/wiki/Loss_aversion' rel='nofollow'>loss aversion</a>”. <a href='https://www.hotels.com/' rel='nofollow'>Hotels.com</a> is particularly aggressive, sending several notifications within seconds about how many people have booked and are looking at the same room as you.</p>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a69293cb-38d9-4c21-a639-30b38659ae4a/ethical-design-hotels.png' rel='nofollow'>            </a>                        <a href='https://de.hotels.com/' rel='nofollow'>Hotels.com</a> loves letting us know just how many others are looking at a room to 'motivate' us into booking fast.            <h4>The General Data Protection Regulation</h4><p>The effectuation of the <a href='https://en.wikipedia.org/wiki/General_Data_Protection_Regulation' rel='nofollow'>General Data Protection Regulation (GDPR)</a> in late May 2018 will be an efficient tool in the fight against companies that are unethical by design.</p><p>GDPR is an extensive regulation that amongst the highlights include:</p><ul><li>The requirement of any organization that collects data to do so in a secure manner by design;</li><li>Heavy fines for data breaches;</li><li>Data must only be collected after explicit consent, and the language used to explain why the data is collected must be plain and simple. In addition, consent must be withdrawable at any time and must be as easy to do as it was giving it (which, by the way, includes <code>Sign up</code> → <code>Delete profile</code>);</li><li>“The right to be forgotten,” meaning that people have the right to have their data deleted;</li><li>The right for people to get access to their personal data in any organization, alongside information about how this data is processed;</li><li>Data portability, meaning that people have the right to get hold of their data in one company and transfer it to another company;</li><li>Heavy fines for non-compliance of GDPR.</li></ul><p>All in all, May 25, 2018, is a pretty good day for the people, and a sign of a much different future for all the unethically designed organizations out there.</p><p>But let’s not kid ourselves and think that change will happen overnight or across all organizations in a heartbeat. A deeper change is needed in order to make that happen over time.</p><h4>Change Happens Through Change Of Meaning</h4><p>GDPR is not likely to solve all of our problems. Believing that would be naive. That’s why it will continue to be up to the people within company walls to make a difference. The good news is that making a change is possible even if you’re not part of the management team who decides on the business model.</p><p>This type of change towards a more ethical design approach is not claimed to happen overnight. Rather, it is possible to make changes incrementally and foster long-term, organizational change through what Don Norman and Roberto Verganti call Meaning-driven Innovation (read more in their article about “<a href='http://www.jnd.org/dn.mss/Norman%20&amp;%20Verganti.%20Design%20Research%20&amp;%20Innovation-18%20Mar%202012.pdf' rel='nofollow'>Incremental and Radical Innovation</a>”).</p><p>Meaning-driven innovation is a result of people starting to articulate new thoughts that create new dynamics, which ultimately lead to radically new meanings.</p><p>Don Norman and Roberto Verganti say that radical innovation only happens when one of the following things occur:</p><ol><li>A new enabling technology is available in a reliable, economical form (it took 20 years for touch interfaces to exit the labs and enter the phone and tablet market);</li><li>When the meaning of something changes in society — also referred to as meaning-driven innovation.</li></ol><p>I think that the increasing awareness, focus, and concern about our privacy in respect to data-driven businesses will in a not so distinct future spark radical innovation and change in society. Ironically, the companies who founded surveillance capitalism have also sparked a change in how we perceive our right to privacy, and we are already starting to see companies and organizations innovate and foster privacy driven solutions.</p><p>The meaning of companies who track and surveil us is already changing. We used to not think very hard about, and maybe even find it convenient when ads served on Facebook were based on our browsing history. But with the escalation of surveillance capitalism, I will argue that we are going through a meaning change as an increasing mass of people are finding it not only uncomfortable but directly unacceptable to be spied on in the name of a business.</p><p><a href='https://duckduckgo.com/' rel='nofollow'>DuckDuckGo</a>, a search engine that doesn’t track, had an <a href='https://en.wikipedia.org/wiki/DuckDuckGo#Traffic' rel='nofollow'>average of 16 million search queries per day in 2017</a>, a sign that privacy is an increasing concern among people when using the web. Also, we are seeing apps devoted to privacy reaching markets, such as <a href='https://signal.org/' rel='nofollow'>Signal</a>, a secure phone and messenger app designed to protect privacy. Furthermore, it is highly likely that GDPR will spark further meaning change related to privacy.</p><h4>Transition To A Human-Centered Design Approach</h4><p>Human-Centered Design (HCD) is a philosophy developed by Don Norman (among others). According to the <a href='https://uxpa.org/' rel='nofollow'>User Experience Professionals Association</a> (UXPA), HCD is defined by “the active involvement of users and a clear understanding of user and task requirements”.</p><p>Don Norman and Roberto Verganti conclude in their substantial study that HCD is only suitable for incremental innovation — step by step improvements — because new ideas are not discovered while constantly looking at the existing state of things as it is done through user research.</p><p>While this sounds reasonable, I believe that HCD can prove to be the offset to meaning-driven innovation, ultimately leading to a broad meaning change about what people will accept and won’t accept from unethical organizations. The reason why I believe this, is that HCD fosters a deeper sense of empathy than any other experience design method.</p><p>Human-Centered Design is a framework as well as a mindset. At its core, working “human-centered” means involving the people you serve early and continuously in the process, i.e. using research to establish the needs of these people, understanding what problems they have, and how your product can help solve these problems.</p><p>It falls within the natural sphere of experience designers to work human-centered, but what do you do if your job is in design and development, and you are constantly occupied by sprint reviews and daily tasks?</p><p>While working with a remote development team, I learned that the developers didn’t have any contact with the people who used the product. This often led to heated discussions where statements like “I think…”, “From a technical perspective…”, and “I feel…” were the main arguments.</p><p>The biggest problem with basing decisions on what you think and feel, or what is easiest from a technical perspective, is that it doesn’t involve the people you are serving. The people who your product or service is put in the world to solve problems for. That’s where HCD comes in.</p><p>UX designers and researchers typically conduct research, document the insights and bring them forward in a refined state to the design- and product team in the shape of personas, user needs descriptions, user flows, journeys, and so on. And that’s all well and good. The problem is, however, that the distance between the organisation and people you serve remains large, because no one except the UX designers talked to them or have seen them use the product. So they keep going back to “I feel…”, “I think…” and “From a technical perspective…”</p><p>To help establish empathy towards the people you serve, there are a couple of very impactful things designers and developers — and the rest of the organization — can do (and can ask for from the UX team).</p><ol>    <li><strong>Involve all team members in watching videos from user testing sessions.</strong><br>Actually going through the pains and delights of the people who use your products (or prototypes, depending on what you’re testing) is worth every second. It cannot be stressed enough how important it is to watch other people interact with and comment on the stuff you’re building (and no, your team doesn't count as “people” here!).<br><br>If this is not part of the routine in your company, ask for it to be included. Certainly, the vast majority of UX designers who would not be thrilled to organize and facilitate such sessions. You are guaranteed to go through pain, agony, frustration, happiness and get multiple eye openers, and it will all serve as the stepping stone towards growing a human-centered mindset.</li>    <li><strong>Ask for actual, living portraits of the people you serve.</strong><br>This includes photos and video from contextual studies (link), stories from their daily life and stories about them. Getting a deeper sense of the people on the other side of the product you develop creates instant empathy and makes it a lot harder to design things that knowingly are bad for them.</li>    <li><strong>Insist on continuous testing.</strong><br>It cannot be emphasized enough how crucial testing is in HCD. This includes early proof of concept tests, prototype tests, and usability tests. A side bonus of early and continuous involvement from the people who are meant to use the product is that it saves money in the long run. The earlier you realize a bad call or error, the cheaper it is to fix.<br><br>A lot has been said about the nuclear alarm that was triggered by mistake in Hawaii on January 13. However, it’s pretty safe to say that early and continuous testing would have helped prevent it.<br>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f1258cce-f17d-41e4-9374-6f087a651794/ethical-design-hawaii.png' rel='nofollow'>            </a>                        A poorly designed screen has been named the cause of a false ballistic missile alert in Hawaii. (Source: <a href='https://twitter.com/civilbeat/status/953127542050795520' rel='nofollow'>Honolulu Civil Beat</a>)            </li><li><strong>Always ask “why?”</strong><br>To start a change of meaning in an organization or community, the first important step is to start asking “why.” Ask why something is being done unethically; ask why you are told to make a black hat feature; question the current state of things.<br><br>Ask on what grounds design decisions are being made. If it’s because of what the CEO or someone else thinks, and it has no root in insights from the people you are serving, ask for that validation. Meaning change grows through small steps.</li></ol><h4>Ethical Design Best Practices</h4><p>Alongside establishing a human-centered design tradition in the organization, it is also important to make use of the best practices of ethical design. People who do so are part of taking the lead and showing the rest of the organization how things can be done in a more ethical way, all of which will add to the incremental meaning change. Just as dark patterns fall under unethical design, we have White Hat design patterns that can be utilized to ensure ethical design, some of which you can learn about in the following.</p><h5>Use Data To Improve The Human Experience</h5><p>Despite numerous companies using data for unethical purposes, such as increasing consumption and traffic, data can, in fact, be used to actually improve the human experience.</p><p>This is the case on the <a href='https://ind.ie/' rel='nofollow'>ind.ie</a> forum where setting up an account is suggested as a way to customize your experience by remembering what you’ve read.</p>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e353509-58d4-4e0b-b759-842d1361aac6/ethical-design-indie.png' rel='nofollow'>            </a>                        <a href='https://ind.ie/' rel='nofollow'>ind.ie</a>'s forum highlights the benefits of setting up an account — one that won’t harvest your data and use it unethically.            <p>In a current project in which I am involved in making an app for students to more easily access their Learning Management System, we are sorting the student’s individual courses by “last visited”; we know through research that the students most often revisit a small number of pages that relate to the courses they are currently enrolled in. This customization is not designed to change behavior or nudge them into using parts of the app they didn’t intend to. Instead, it is designed to make their experience faster and more efficient.</p>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46eefbc4-bd90-49f3-ab1b-23d6aeeae473/ethical-design-student-app.png' rel='nofollow'>            </a>                        In this early wireframe from a current project, it it shown how we used knowledge about current usage of the product to increase efficiency in the app by sorting the student’s courses by 'last visited'.            <p>Another positive example is the American pharmacy <a href='https://www.walgreens.com/' rel='nofollow'>Walgreens</a>, who sends out reminders when it’s time to refill on things like vitamins. This is an extremely helpful feature that solves a problem a lot of us have.</p><p>Data can help inform research initiatives to understand how you’re not tackling the problems people have when interacting with your product.</p><p><a href='https://www.skyscanner.net/' rel='nofollow'>Skyscanner</a>, a travel search engine, noticed through their data that their newly launched design didn’t go down well for the people who used their service to fly out of Amsterdam. That data helped inform a research initiative that ultimately lead to a customized solution for people flying to and from Amsterdam that broke down the barriers the new design had initially built (here’s the <a href='https://hackernoon.com/look-at-your-product-from-a-new-perspective-f0709760614b' rel='nofollow'>background story</a>).</p><h5>Advertising Without Tracking</h5><p>Advertising is not necessarily unethical. Advertising based on granular data is. It is careless (if not stupid) to rely on a single platform for the majority of a brand’s marketing efforts, especially considering that said platform owns and controls the data the brand uses as the foundation for its ad targeting.</p><p>Facebook, Instagram, and Google care just about as little about their advertisers as they do about the people who they see as “users,” i.e. they can make any change they want to, disregarding any consequences it might have for people or businesses using their platform. For example, there was a time when they started blocking fake accounts en masse, which hurt numerous companies whose social media admins had set up fake accounts to administer business pages because they (understandably) didn’t want to use their private accounts for this purpose. This is standard procedure from Facebook who <a href='https://www.facebook.com/terms' rel='nofollow'>only allows one profile per person</a> (likely because allowing several would contaminate their data tracking).</p><p>The platform is always the weakest link in a marketing strategy because it is a third party beyond the control of companies. Thinking back to the 90’s when I worked in marketing at a regional newspaper, granular data tracking was not an option. When a store had placed an ad in the paper about an event, they would simply monitor how many people showed up, and compare that to their expectations to determine the success rate.</p><p>While “the good old days” were certainly not good in all aspects, the thought of not basing advertising on granular user data tracking is an appealing thought. John Gruber’s blog, <a href='https://daringfireball.net' rel='nofollow'>Daring Fireball</a> is an example of a site that doesn’t allow ad tracking. Instead, John Gruber encourages advertisers to add a custom link to their ads enabling them to monitor the click rate on their end.</p><p>As John Gruber rightfully states:</p><blockquote>“If you pay (say) Facebook for an ad, why in the world would you, the advertiser, trust Facebook’s numbers for how the ad performed?”<br><br>— <a href='https://daringfireball.net/2017/07/df_display_ads' rel='nofollow'>Source</a></blockquote><p>Another great example worth highlighting is <a href='https://www.goodwings.com/en-us' rel='nofollow'>Goodwings</a>, a hotel booking site that donates half of their commission to charity. They can do so because of a close collaboration with a large number of NGO’s which means they spend very little on traditional marketing.</p>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb1a5ade-edf2-4257-835d-1d10f93fb624/ethical-design-goodwings.png' rel='nofollow'>            </a>                        <a href='https://www.goodwings.com/en-us' rel='nofollow'>Goodwings</a> is a hotel search engine that donates half of their commission to charity.            <p>And if you think Google Analytics is your only option for collecting meaningful data, think again: <a href='https://matomo.org/' rel='nofollow'>Matamo</a> is an open source tool that is installed directly on your own server. It guarantees that data is not shared with advertising agencies such as Google.</p><h4>Always, Always Prioritize Usability</h4><p>Surveillance capitalism and data tracking are heavily talked about problems related to ethical design these days. But we must not forget the importance of complying with the best practices of usability. Without it, design is unethical, as a lack of usability almost always entails the use of dark patterns. A good place to go to read more about core usability is <a href='https://www.nngroup.com/articles/usability-101-introduction-to-usability/' rel='nofollow'>Nielsen Norman Group</a>.</p><p>Back in the early days, Jakob Nielsen defined 5 core components of usability:</p><ul><li>Learnability,</li><li>Efficiency,</li><li>Memorability</li><li>Errors, and</li><li>Satisfaction.</li></ul><p>To ensure a usable product, it’s crucial that these five components are front and center in the design and development process.</p>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a1486fe-7a36-4e46-9588-881d2608f0a7/ethical-design-usability.png' rel='nofollow'>            </a>                        While it may not be the most interesting 404 page around, <a href='https://www.apple.com/404' rel='nofollow'>Apple’s version</a> focuses on error prevention by offering us a forward path when we hit a lost page.            <p></p><h5>Don’t Ask For More Than You Need</h5><p>As with many other aspects in life, asking for more than you need results in exploitation. It’s common for e-commerce sites to ask for tons of information when people sign up for an account or buy a product. But if someone is buying a digital product (such as a book), there really is no need to ask for anything other than their email address.</p><p><a href='https://signal.org/' rel='nofollow'>Signal</a> is a great example. Private at its core, it doesn’t ask for anything more than the information that is absolutely necessary for people to start using the app right away.</p>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a5c39747-ea0d-4756-a44f-bbd02f6f6523/ethical-design-signal.png' rel='nofollow'>            </a>                        <a href='https://signal.org/' rel='nofollow'>Signal</a> only asks for the phone number of the device during signup.            <h5>Be Transparent</h5><p><a href='https://www.norwegian.com/' rel='nofollow'>Norwegian.com</a> has perhaps one of the best airfare booking systems in the world. Not only is it convenient to use but they also offer full transparency in relation to their optional service fees, something that is often hidden away. Anyone who lives outside of an Amazon storage country knows how hard it is to find the actual delivery price of their location.</p>    <a href='https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bc539d50-3e47-4ac7-a8a0-a2fd08d39346/ethical-design-norwegian.png' rel='nofollow'>            </a>                        <a href='https://www.norwegian.com/' rel='nofollow'>Norwegian.com</a> offers full transparency on all additional charges.            <h4>Conclusion</h4><p>The movement towards a more ethical future has begun. Change doesn’t happen radically short term unless it’s built into the core of the business model. But that doesn’t mean we cannot change the current state for the better. We can do so through incremental change; one step at a time. By working human-centered, by asking why, and by using best practices for ethical design. That’s our obligation as the ones who build products so deeply ingrained in people’s lives. What we do changes and shapes lives for better or for worse. I choose better.</p><h5>Learn More</h5><p>There are a lot of valuable resources available for anyone interested in ethical design. Here are a few to get you started:</p><ul><li><a href='http://www.designkit.org/' rel='nofollow'>IDEO’s Human-Centered Design Kit</a> is extremely helpful to understand HCD and offers a wide range of <a href='http://www.designkit.org/methods' rel='nofollow'>methods</a> on how to work human-centered.</li><li><a href='https://simplysecure.org/' rel='nofollow'>Simply Secure</a> is an organization that supports and educates practitioners in ethical design processes. They offer a thorough <a href='https://simplysecure.org/knowledge-base/' rel='nofollow'>knowledge base</a> for people interested in building trustworthy technology</li><li><a href='http://whitehatux.com/' rel='nofollow'>White Hat UX — The Next Generation in User Experience</a> is a book that offers lots of practical advice on how to design experiences that are transparent, honest and ethical. Written by Trine Falbe, Martin Frederiksen, and Kim Andersen.</li><li><a href='http://crackedlabs.org/en' rel='nofollow'>Cracked Labs</a> is an independent research institute and a creative laboratory based in Vienna, Austria. It investigates the socio-cultural impacts of information technology and develops social innovations in the field of digital culture. They offer in-depth reports about most things related to privacy.</li></ul><div>    <span>(ah, ra, il)</span></div></div>            </div>        </div>                 <div>            <div>                                                </div>        </div>                    <div></div>                </div>     <div>        <div>            <div>    <h5>Browse All Smashing Magazine Topics</h5>    <ul>              <li>            <a rel='nofollow'>Accessibility</a>        </li>              <li>            <a rel='nofollow'>Android</a>        </li>              <li>            <a rel='nofollow'>Animation</a>        </li>              <li>            <a rel='nofollow'>Apps</a>        </li>              <li>            <a rel='nofollow'>CSS</a>        </li>              <li>            <a rel='nofollow'>Design</a>        </li>              <li>            <a rel='nofollow'>Design Patterns</a>        </li>              <li>            <a rel='nofollow'>Design Systems</a>        </li>              <li>            <a rel='nofollow'>E-Commerce</a>        </li>              <li>            <a rel='nofollow'>Freebies</a>        </li>              <li>            <a rel='nofollow'>Graphics</a>        </li>              <li>            <a rel='nofollow'>HTML</a>        </li>              <li>            <a rel='nofollow'>Illustrator</a>        </li>              <li>            <a rel='nofollow'>Inspiration</a>        </li>              <li>            <a rel='nofollow'>iOS</a>        </li>              <li>            <a rel='nofollow'>JavaScript</a>        </li>              <li>            <a rel='nofollow'>Mobile</a>        </li>              <li>            <a rel='nofollow'>Pattern Libraries</a>        </li>              <li>            <a rel='nofollow'>Performance</a>        </li>              <li>            <a rel='nofollow'>Photoshop</a>        </li>              <li>            <a rel='nofollow'>Plugins</a>        </li>              <li>            <a rel='nofollow'>React</a>        </li>              <li>            <a rel='nofollow'>Responsive Web Design</a>        </li>              <li>            <a rel='nofollow'>Service Workers</a>        </li>              <li>            <a rel='nofollow'>Sketch</a>        </li>              <li>            <a rel='nofollow'>Typography</a>        </li>              <li>            <a rel='nofollow'>UI</a>        </li>              <li>            <a rel='nofollow'>Usability</a>        </li>              <li>            <a rel='nofollow'>User Experience</a>        </li>              <li>            <a rel='nofollow'>Wallpapers</a>        </li>              <li>            <a rel='nofollow'>Web Design</a>        </li>              <li>            <a rel='nofollow'>WordPress</a>        </li>              <li>            <a rel='nofollow'>Workflow</a>        </li>          </ul></div>        </div>        <div>            <div>                <p>With a commitment to quality content for the design community.</p>                <p>Founded by Vitaly Friedman and Sven Lennartz. <span>2006–2018</span>.</p>                <p>Smashing is proudly running on <a href='https://www.netlify.com/?utm_source=link&amp;utm_medium=parter&amp;utm_campaign=sm-footer' rel='nofollow'>Netlify</a>.</p>                <p>Fonts by <a href='http://latinotype.com/' rel='nofollow'>Latinotype</a>.</p>            </div>            <ul>                <li>✎ <a rel='nofollow'>Write for us</a></li>                <li><a rel='nofollow'>Contact us</a></li>                <li><a rel='nofollow'>About us (Impressum)</a></li>                <li><a rel='nofollow'>Privacy policy</a></li>                <li><a rel='nofollow'>Membership login</a></li>                <li><a href='mailto:markus.seyfferth@smashingmagazine.com?subject=Let’s talk about advertising' rel='nofollow'>Advertise</a></li>            </ul>        </div>    </div>    <div>    <a title=&quot;Back to top&quot; rel='nofollow'>                    Back to top                                    </a></div>    <div></div>  <div></div>                ",
-    "urlFetchPending": false,
-    "published": "Mar 16, 2018 12:00:36 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/designer",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "frontend"
-    ]
-  },
-  {
-    "id": "eDtETPVBRBSs1jrpKQhTTw",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "jobmote",
-    "url": "http://jobmote.com/jobs/1086-project-manager-web-design-development",
-    "title": "Project Manager (Web Design / Development)",
-    "content": "Project Manager (Web Design /&nbsp;Development) - Jobmote<div><div><h2>Project Manager (Web Design /&nbsp;Development)</h2><h5>Optuno</h5></div></div><div><div><div><div></div></div><div><div><div><p></p><p>Optuno is a web design and development company that provides 100% customized, stress-free websites for businesses for a fraction of the cost of going to a traditional web design firm. The company grew out of a desperate need for professional, streamlined and affordable website development. Optuno provides a unique, stress-free and fully-managed experience for the creation, maintenance and marketing of websites.</p><p>You will be working with a virtual team to deliver awesome, customized websites to our clients, interfacing between our clients and our website development team.</p><p>We are a fast-paced, fast growing company looking for someone who can keep up the pace. Drop us a line if you can manage projects efficiently, are extremely organized, a wizard at multi-tasking, can think through problems and develop solutions, and can work at breakneck speeds with a keen eye for detail. Did we mention you will be communicating to our clients? That means, we need a natural problem solver and someone who can communicate in a way to build relationships, offer support and anticipate needs.</p><p>Experience in website design and development preferred, however, we are looking for someone with a strong ability to manage projects and interact with clients. This is a great opportunity for a professional with a few years of experience.</p><p><strong>Key Responsibilities</strong></p><ul><li>Manage multiple projects at one time, while delivering amazing customer service</li><li>Collaborate with clients to determine website requirements</li><li>Provide web design and development team with information to create websites, filling in any missing information&nbsp; </li><li>Assign milestones and maintain schedule for each project</li><li>Update client and team on milestones and timelines</li><li>Review project work to ensure the highest level of quality</li><li>Perform content or visual updates to websites, as needed</li><li>Develop content for websites</li><li>Troubleshoot technical problems related to client’s website or Optuno platform</li><li>Able to work remotely</li></ul><p><strong>Requirements&nbsp;</strong></p><ul><li>Proficiency in HTML and principles of web design and development </li><li>Experience using Wordpress (content updates and design tweaks)</li><li>Experience multi-tasking across a variety of projects</li><li>Former experience in web development, design, or experience planning preferred.</li><li>Exceptional written and verbal communication skills.</li><li>Ability to manage multiple projects with minimal direction. </li><li>Ability to work and communicate with a diverse range of people and clients.</li><li>Availability to work Monday through Friday, 8:30 AM - 5:00 PM.</li></ul><p><strong>Our Values</strong></p><p>Optuno is a fast-paced environment. Here are our values. If you value these things, too, then we hope you will apply!</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Excellence:</strong> We strive for pixel-perfect work. Details are important.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Problem-Solver:</strong> We dive in and figure things out.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Zeal for Clients:</strong> This is our business. We help our clients develop websites, every step of the way, with an upbeat attitude.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Honesty:</strong> We provide truth wrapped in kindness topped with a helpful approach.</p><p>Although this position doesn’t have supervisory duties, you will be directing the project related activities of the web design and development team.</p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>",
-    "urlFetchPending": false,
-    "published": "Mar 13, 2018 12:22:31 AM",
-    "tags": [
-      "REMOTE1/50",
-      "TECH1/php",
-      "TITLE1/designer",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "php"
-    ]
-  },
-  {
-    "id": "yaODtAd4Qx-l3xJ26GcBYQ",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "authenticjobs.com",
-    "url": "https://authenticjobs.com/jobs/30406?r=rss2",
-    "title": "Optuno: Project Manager (Web Design / Development)",
-    "content": "<p>Part-time</p><p><strong>(Anywhere)</strong> </p><p></p><p></p><p><span>Optuno is a web design and development company that provides 100% customized, stress-free websites for businesses for a fraction of the cost of going to a traditional web design firm. The company grew out of a desperate need for professional, streamlined and affordable website development. Optuno provides a unique, stress-free and fully-managed experience for the creation, maintenance and marketing of websites. </span></p><p><span>You will be working with a virtual team to deliver awesome, customized websites to our clients, interfacing between our clients and our website development team. </span></p><p><span>We are a fast-paced, fast growing company looking for someone who can keep up the pace. Drop us a line if you can manage projects efficiently, are extremely organized, a wizard at multi-tasking, can think through problems and develop solutions, and can work at breakneck speeds with a keen eye for detail. Did we mention you will be communicating to our clients? That means, we need a natural problem solver and someone who can communicate in a way to build relationships, offer support and anticipate needs.</span></p><p><span>Experience in website design and development preferred, however, we are looking for someone with a strong ability to manage projects and interact with clients. This is a great opportunity for a professional with a few years of experience.</span></p><p><strong><span>Key Responsibilities</span></strong></p><ul type=&quot;disc&quot;><li><span>Manage multiple projects at one time, while delivering amazing customer service</span></li><li><span>Collaborate with clients to determine website requirements</span></li><li><span>Provide web design and development team with information to create websites, filling in any missing information<span>&nbsp; </span></span></li><li><span>Assign milestones and maintain schedule for each project</span></li><li><span>Update client and team on milestones and timelines</span></li><li><span>Review project work to ensure the highest level of quality</span></li><li><span>Perform content or visual updates to websites, as needed</span></li><li><span>Develop content for websites</span></li><li><span>Troubleshoot technical problems related to client’s website or Optuno platform</span></li><li><span>Able to work remotely</span></li></ul><p><strong><span>Requirements&nbsp;</span></strong></p><ul type=&quot;disc&quot;><li><span>Proficiency in HTML and principles of web design and development </span></li><li><span>Experience using Wordpress (content updates and design tweaks)</span></li><li><span>Experience multi-tasking across a variety of projects</span></li><li><span>Former experience in web development, design, or experience planning preferred.</span></li><li><span>Exceptional written and verbal communication skills.</span></li><li><span>Ability to manage multiple projects with minimal direction. </span></li><li><span>Ability to work and communicate with a diverse range of people and clients.</span></li><li><span>Availability to work Monday through Friday, 8:30 AM - 5:00 PM.</span></li></ul><p><strong><span>Our Values</span></strong></p><p><span>Optuno is a fast-paced environment. Here are our values. If you value these things, too, then we hope you will apply! </span></p><p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span>Excellence: </span></strong><span>We strive for pixel-perfect work. Details are important.</span></p><p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span>Problem-Solver: </span></strong><span>We dive in and figure things out.</span></p><p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span>Zeal for Clients: </span></strong><span>This is our business. We help our clients develop websites, every step of the way, with an upbeat attitude.</span></p><p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span>Honesty:</span></strong><span> We provide truth wrapped in kindness topped with a helpful approach. </span></p><p><span>Although this position doesn’t have supervisory duties, you will be directing the project related activities of the web design and development team. </span></p><p></p><p><strong>Job Perks:</strong> Bonuses</p><p><strong>Apply:</strong> </p>",
-    "urlFetchPending": false,
-    "published": "Mar 12, 2018 11:26:35 PM",
-    "tags": [
-      "REMOTE1/50",
-      "TECH1/php",
-      "TITLE1/designer",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "php"
-    ]
-  },
-  {
-    "id": "Gaj2uDgZQW6ERv4is156hA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "workinstartups-designers",
-    "url": "http://workinstartups.com/job-board/job/66986/designer-at-hero/",
-    "title": "Designer",
-    "content": "About Hero:<br /><br />21 billion sq ft of physical retail space is siloed from e-commerce. Our team is on a mission to change that.<br />We’re only two years into our journey, but already 350m shoppers on websites like J.Crew, Harvey Nichols and Ted Baker can use Hero to connect live with an associate in their nearest store - perfect for when they need real-time advice from someone in the know. For retail associates, our app represents a whole new way to do their jobs, giving them access to millions of online shoppers, not just customers who pass by the store. <br />This omnichannel approach is evolving billions of sq ft of analogue retail space into hyper-connected smart stores of the future; in cities including London, Paris, New York, Los Angeles and Hong Kong.<br /><br />We’re an energetic team that moves fast. From our offices in London and New York, we’re bringing together a world class collective of problem solvers passionate about blending technology, fashion and retail. Hero was founded in 2015 by the team that previously launched Europe’s largest app commerce company and is privately funded.<br /><br />Find out more at www.usehero.com<br /><br /><br />The Role:<br /><br />We’re looking for someone to play a pivotal role in helping grow awareness of the Hero brand through the creation of visual content, video, marketing collateral, branded merchandise, digital campaigns, social media posts, email designs and much more.<br />Ideally, you’ll be someone that thrives in a fast moving environment and enjoys diversity of challenges. One day you could be working directly with the founder helping design presentations, the next you could be creating social posts for our community of associates before moving on to work with our head of design to create new UI/UX app concepts.<br /><br /><br /><br />What We’re Looking For:<br /><br />* You’re a designer with a 1-3 years experience of design in a commercial environment, ideally at a startup or digital agency<br />* You’re proficient across a range of design and production applications including Adobe Suite (Sketch a bonus)<br />* You have a great design eye and a knack for brand communication and copywriting<br />* You thrive in an a fast moving environment and enjoy diversity<br />* Driven by purpose, you have a desire to be part of something meaningful and innovative<br /><br /><br /><br />Our Culture & Benefits:<br /><br />Hero’s culture has been designed to give our team the freedom to do their best work, where they can freely contribute ideas and instantly see the impact of their work - irrespective of their backgrounds, education or years of experience. Our values guide the team to ‘leave their ego at the door’, ‘follow their instincts’ and ‘to become a master of their jungle’. <br /><br />Sound like a good fit? Here’s some other benefits we offer:<br /><br />* Work with a talented team of likeminds who truly love what they do<br />* A competitive salary and stock options in the company<br />* A shiny new MacBook Pro, big screen and all the software you need<br />* A chance to work in a creative, productive environment in London’s Fitzrovia with all the snacks, fruit, coffee and tea you can eat/drink<br />* Plenty of team dinners and social events (think karaoke, boat trips and chicken wing eating competitions)<br />* An employee assistance program available 24/7<br />* Optional pension plan<br /><br />Please send your CV, a portfolio  and a cover letter to jobs@sayhero.com. No recruitment agencies please. ",
-    "urlFetchPending": false,
-    "published": "Mar 12, 2018 11:55:33 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/designer",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ]
-  },
-  {
-    "id": "Sxhey7ioTl2G-357gf4-KA",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "weworkremotely.com-design",
-    "url": "https://weworkremotely.com/remote-jobs/zapier-platform-design-manager",
-    "title": "Zapier: Platform Design Manager",
-    "content": "<div>  <div>    <h2>Platform Design Manager</h2>      <h4>Posted Mar  7</h4>    <h3>      <span>Zapier</span><br>      <span>Headquarters: San Francisco</span><br>        <a href='https://zapier.com/about/' rel='nofollow'>https://zapier.com/about/</a>      <br>      <a rel='nofollow'>View all Zapier jobs →</a>    </h3>  </div>    </div>  <div>    <div>Hi there! We're looking for a Design Manager to help manage and grow our Platform Design Team at Zapier. Are you excited to foster a user-centered design culture in 100% remote company? Then keep reading!</div><div><br></div><div><h3>About You</h3></div><div><b><span>You put your teammate's and customer's needs first.</span>&nbsp;</b>You enjoy helping and enabling designers do great work. You set design strategy by aligning business strategy and our user's needs. You use data and user research to make human-centered design decisions. You challenge assumptions about what makes a design successful through encouraging divergent exploration and talking to users.</div><div><br></div><div><span><b>You're technically inclined.</b></span>&nbsp;The Platform team is responsible for all of the apps on Zapier. Notably, we have over 1000 partners who create, test, launch, maintain, and improve apps on the Zapier platform – and add dozens every month. The Platform is unique inside Zapier. They have&nbsp;<em>two</em>&nbsp;users: the end-users who use the apps on Zapier and the developers/partners building the apps. Serving both users effectively requires getting to know some of the technical inner-workings to help your team design effective solutions.</div><div><br></div><div><b><span>You wear many hats.</span>&nbsp;</b>You are constantly learning and leveling up your management skills. You have the relevant design skills to build rapport with the Design Team. On a regular basis you can expect to be holding one on ones with designers, thinking through tricky design problems, reviewing design iterations, and helping prioritize design needs across the company that align with our business strategy.</div><div><br></div><div><b><span>You have experience hiring and managing UX Researchers and Designers.</span>&nbsp;</b>This isn't your first rodeo. You may not have hired or managed hundreds of people before, but you have hired, trained and managed before.</div><div><br></div><div><span><b>You love collaboration and feedback.</b></span>&nbsp;You understand successful design doesn't happen in a vacuum or in secret. You believe in sharing work early, openly, and often. You enjoy working closely with Product Managers, Engineers, Data Scientists, and Customers to help make the Design Team's designs achieve effective results.</div><div><br></div><div><span><b>You know how design impacts development.</b></span>&nbsp;You've built functional web apps before. You understand the technical complexities a design might introduce, and can work through them with your teammates. You don't believe in “tossing designs over the wall,” and would dread doing so.</div><div><br></div><div><h3>Things You Might Do</h3></div><div>Zapier is a small, fast-growing, and remote-first company, so you'll likely get experience on many different projects across the organization. That said, your primary goal is to help achieve better design outcomes and here are some things you'll probably do:</div><div><br></div><ul><li>Hold weekly one on ones with members of the Platform Design Team (Product Designers and UX Researchers).</li><li>Build rapport with each member of the Platform Design Team and work hard to help them level up their skills</li><li>Collaborate with platform leadership to understand business strategy and apply it to your team's work</li><li>Work to serve developers, product managers, and business development teams at our 1000+ partner organizations</li><li>Collaborate across functions to help set roadmaps that will achieve business goals through design</li><li>Advocate for and teach design skills across the organization. Find ways to involve non-designers in the design process through design sprints and other creative means</li><li>Help champion our Zapier design standards and visual identity</li><li>Provide feedback on design solutions through wireframes, mockups, and interactive prototypes</li><li>Participate in user research and other experiments to inform design decisions</li><li>Give, seek, and receive thoughtful critical feedback</li><li>Give back to the community via open source, blog posts, and&nbsp;<a href='https://dribbble.com/zapier?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier' rel='nofollow'>sharing design team work</a></li><li>Help recruit, onboard and train new Design Team members at Zapier</li><li>Help customers via All Hands Support to learn about Zapier and the product</li></ul><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p><a href='https://zapier.workable.com/j/E51078ADCA' rel='nofollow'>https://zapier.workable.com/j/E51078ADCA</a></p>  </div>",
-    "urlFetchPending": false,
-    "published": "Mar 7, 2018 5:54:35 PM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/designer",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ]
-  },
-  {
-    "id": "lxtxLccQS8iqGSC5knmF8Q",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "workinstartups-designers",
-    "url": "http://workinstartups.com/job-board/job/66838/junior-digital-designer-for-ad-hoc-multi-platform-design-work-at-citysocializer/",
-    "title": "Junior Digital Designer for Ad Hoc Multi-platform Design Work",
-    "content": "WANTED! Freelance Junior Digital Designer is required for ad hoc support to meet the design demands of Citysocializer's web, mobile web and iPhone app product and feature development.<br /><br />Working directly with the CEO you will work on a mixture of small and larger projects at a number of stages, if you're as comfortable creating concepts as you are applying existing designs to new wireframes we want to hear from you.<br /><br />Naturally, you'll need to be fully conversed with Adobe Photoshop, InDesign, Illustrator, HTML and CSS - jQuery. PHP & JavaScript and other back-end programs will be an added benefit.<br /><br />The role would suit an ambitious and talented student designer who is looking to build on their portfolio and hands-on experience in multi-platform digital design and UX and fit freelancing work around their studies. <br /><br />Office @ WeWork Paddington however the role can be worked remotely. Ideally London-based for some face to face but will fully remote candidates will be considered as well.",
-    "urlFetchPending": false,
-    "published": "Mar 7, 2018 11:31:10 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/designer",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend"
     ]
   }
 ]

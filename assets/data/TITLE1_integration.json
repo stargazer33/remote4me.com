@@ -13,6 +13,13 @@
     "urlFetchPending": false,
     "published": "May 12, 2018 11:21:53 AM",
     "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/python",
       "TITLE1/integration",
@@ -38,6 +45,14 @@
     "urlFetchPending": false,
     "published": "May 9, 2018 11:06:20 PM",
     "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:elixir/other/15",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:f#/other/5",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=30, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/other",
       "TITLE1/integration",
@@ -63,6 +78,14 @@
     "urlFetchPending": false,
     "published": "May 7, 2018 6:13:51 PM",
     "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:elixir/other/20",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:f#/other/5",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=35, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/50",
       "TECH1/other",
       "TITLE1/integration",
@@ -88,6 +111,11 @@
     "urlFetchPending": false,
     "published": "May 2, 2018 8:57:29 AM",
     "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
       "REMOTE1/100",
       "TECH1/frontend",
       "TECH1/nodejs",
@@ -113,6 +141,7 @@
     "urlFetchPending": false,
     "published": "May 1, 2018 8:36:06 PM",
     "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
       "REMOTE1/100",
       "TECH1/unknown",
       "TITLE1/integration",
@@ -136,6 +165,10 @@
     "urlFetchPending": false,
     "published": "Apr 24, 2018 10:44:01 PM",
     "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/php",
       "TITLE1/integration",
@@ -159,6 +192,23 @@
     "urlFetchPending": false,
     "published": "Apr 24, 2018 10:44:01 PM",
     "tags": [
+      "DBG:surround``2N( OR(across,digit),     2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/3",
+      "DBG_TECH1:k/t/w:android/mobile/6",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:objective-c/apple/3",
+      "DBG_TECH1:k/t/w:objective-c/c/2",
+      "DBG_TECH1:k/t/w:objective-c/mobile/8",
+      "DBG_TECH1:k/t/w:phonegap/gamedev/2",
+      "DBG_TECH1:k/t/w:phonegap/mobile/8",
+      "DBG_TECH1:k/t/w:swift/apple/10",
+      "DBG_TECH1:k/t/w:swift/mobile/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=2, mobile=43, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=17, java=5, gamedev=2, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/mobile",
       "TITLE1/integration",
@@ -184,6 +234,17 @@
     "urlFetchPending": false,
     "published": "Apr 13, 2018 6:12:20 AM",
     "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:meteor/nodejs/8",
+      "DBG_TECH1:k/t/w:npm/nodejs/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=22, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
       "REMOTE1/100",
       "TECH1/nodejs",
       "TITLE1/integration",
@@ -194,56 +255,6 @@
     ],
     "tagsNames2": [
       "nodejs"
-    ]
-  },
-  {
-    "id": "DPWBHmGIQUa59KuNeQUB7w",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "stackoverflow.com",
-    "url": "https://stackoverflow.com/jobs/170433/cloud-build-and-release-engineer-elastic?a=V9N847GZfNe",
-    "title": "Cloud- Build and Release Engineer at Elastic  ",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Permanent</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior</span>                                        </div>                                        <div>                                            <span>Industry: </span>                                            <span>Data &amp; Analytics, Search, Software Development / Engineering</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Company size: </span>                                            <span>501-1k people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>VC Funded</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>At Elastic, we have a simple goal: to pursue the world's data problems with products that delight and inspire. We help people around the world do exceptional things with their data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots. Often, what you can do with our products is only limited by what you can dream up. We believe that diversity drives our vibe. We unite employees across 30+ countries into one unified team, while the broader community spans across over 100 countries.</p><p>Elastic is building out our Elastic Cloud Team focusing on Elastic as a Service. This is a great opportunity to help lead our Cloud efforts and make an immediate impact to our strategy and implementation.</p><p>Our cloud product allows users to create new clusters or expand existing ones easily This product would be built on technologies such as OpenStack, AWS, Docker, and others to enable the Operations Teams to easily create and manage multiple Elastic Clusters.</p><p><strong>Job Duties and Requirements</strong></p><ul><li>Work closely with Elastic’s engineering teams (like Elasticsearch, Kibana, Logstash and Beats) to plan releases on Cloud’s infrastructure</li><li>Add automation to continuously deploy nightly snapshot releases and release candidates to staging/production environments</li><li>Managing git branching processes and automation</li><li>Managing the scala sbt/make build framework for Cloud</li><li>Collaborate with the infra team on CI workflows</li><li>Simplifying and automating developer workflows</li></ul><p><strong>Qualifications</strong></p><ul><li>Experience or familiarity with Docker</li><li>Experience in automating release deployments in SaaS infrastructure</li><li>Deep knowledge of at least one build system (preferably sbt) and one CI system (preferably Jenkins)</li><li>Strong knowledge and experience with git and git workflows</li><li>Good working knowledge of Unix based operating systems</li></ul><p><strong>Additional Information</strong></p><ul><li>Competitive pay and benefits</li><li>Stock options</li><li>Catered lunches, snacks, and beverages in most offices</li><li>An environment in which you can balance great work with a great life</li><li>Passionate people building great products</li><li>Employees with a wide variety of interests</li></ul><p>Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.</p><p>Elastic is an&nbsp;Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees.&nbsp;Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status&nbsp;or any other basis protected by federal, state or local law, ordinance or regulation.&nbsp;Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.&nbsp;</p>                    </div>                            <h2>                About Elastic            </h2>            <div><p>Elastic builds software to make data usable in real time and at scale for search, logging, security, and analytics use cases. Founded in 2012, the company develops the open source Elastic Stack (Elasticsearch, Kibana, Beats, and Logstash), X-Pack (commercial features), and Elastic Cloud (a SaaS offering). To date, there have been more than 100 million cumulative downloads. The Elastic community is 100,000 members strong. Thousands of organizations including Cisco, eBay, Goldman Sachs, NASA, Microsoft, Mayo Clinic, <em>The New York Times</em>, Wikipedia, and Verizon use Elastic to power mission-critical systems. Backed by Benchmark Capital, Index Ventures, and NEA with more than $100 million in funding, Elastic has a distributed workforce with more than 600 employees in 30 countries. Learn more at <a href='http://www.elastic.co' rel='nofollow'>elastic.co</a></p>            </div>                                <h2>Benefits</h2>                            <div>                                 401k Matching Up to 6 % in US and Pensions in some other countries                            </div>                            <div>                                 Health Care Insurance                            </div>                            <div>                                 Vacation Time Determined By Location                            </div>                            <div>                                 Lunch and Breakfast in Most Offices                            </div>                            <div>                                 100% Remote work possible                            </div>                    ",
-    "urlFetchPending": false,
-    "published": "Mar 20, 2018 12:52:38 AM",
-    "tags": [
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/integration",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "php"
-    ]
-  },
-  {
-    "id": "BQj5yzPER7axU8g6YzaA_w",
-    "source": {
-      "contentTransform": "TEXT_STRIP_FORMATTING",
-      "jobAdContentRegExp": ""
-    },
-    "sourceName": "workinstartups-programmers",
-    "url": "http://workinstartups.com/job-board/job/67134/help-needed-to-build-simple-alexa-skills-at-desire-path/",
-    "title": "Help needed to build simple Alexa Skills",
-    "content": "We are a small team of designers and developers creating experiences for mobile, chatbots and now voice!<br /><br />I'm looking for a talented programmer to help develop an Alexa Skill. Initially just one skill is needed, but more will be required for the right person.<br /><br />You must have experience in creating skills and can point to existing Alexa skills you have created in the marketplace. <br /><br />The first skill to be created is a simple one, but more information about the projects can be supplied during selection process.<br /><br />It is immediate start for the right person! This would suit a freelancer or evening/weekend work. Remote work acceptable!<br /><br />Thanks!<br />",
-    "urlFetchPending": false,
-    "published": "Mar 15, 2018 7:57:15 PM",
-    "tags": [
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/integration",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "unknown"
     ]
   }
 ]
