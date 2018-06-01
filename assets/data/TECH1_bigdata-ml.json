@@ -1,6 +1,211 @@
 {
  "items": [
   {
+    "id": "WiLYiQTHQuCS01ukTkNOhA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/191007/senior-backend-engineer-for-cloud-services-scrapinghub?a=123Ah1AnV0NW",
+    "title": "Senior Backend Engineer for Cloud Services at Scrapinghub  ",
+    "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Contract</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Big Data</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>python</a><a rel='nofollow'>machine-learning</a><a rel='nofollow'>web-scraping</a><a rel='nofollow'>distributed-system</a><a rel='nofollow'>scala</a>                    </div>                                            <h2>Job description</h2>                <div><p><strong>About the job:</strong></p><p>We are looking for two Senior Backend Engineers to develop and grow our crawling and extraction services. Our automated service is used directly by our customers via API, as well as by us for internal projects. Our extraction capabilities include automated product and article extraction from single pages or whole domains using machine learning and custom built components and we plan to expand it for jobs and news. The service is still in early stages of development, serving its first customers.</p><p>As a professional services company we are often required to build a custom crawling and extraction pipeline for a specific customer. That requires crawl and extraction planning with respect to customer needs, including crawling time estimation and HW allocation. The volume is often very high, and solutions have to be properly designed to provide the required performance, reliability and maintainability.</p><p>Our platform has several components communicating via Apache Kafka and using HBase as a permanent storage. Most components are written in Python, while several crucial components are made using Scala and Kafka Streams. Currently, main priorities are improving reliability and scalability of the system, integration with other Scrapinghub services, implementation of auto-scaling and other features. This is going to be a challenging journey for every good Backend Engineer!</p><p><strong>Job Responsibilities:</strong></p><ul><li>Design and implementation of a large scale web crawling and extraction service.</li><li>Solution architecture for large scale crawling and data extraction: design, hardware and development effort estimations, writing proposal drafts, explaining and motivating the solution for customers,</li><li>Implementation and troubleshooting of Apache Kafka applications: workers, HW estimation, performance tuning, debugging,</li><li>Interaction with data science engineers and customers</li><li>Write code carefully for critical and production environments along with good communication and learning skills.</li></ul><p><strong>Requirements:</strong></p><ul><li>Experience building at least one large scale data processing system or high load service. Understanding what CPU/memory effort the particular code requires,</li><li>Good knowledge of Python</li><li>experience with any distributed messaging system (Rabbitmq, Kafka, ZeroMQ, etc),</li><li>Docker containers basics,</li><li>Linux knowledge.</li><li>Good communication skills in English,</li><li>Understand a ways to solve problem, and ability to wisely choose between: quick hotfix, long-term solution, or design change.</li></ul><p><strong>Bonus points for:</strong></p><ul><li>Kafka Streams and microservices based on Apache Kafka, understanding Kafka message delivery semantics and how to achieve them on practice,</li><li>HBase: data model, selecting the access patterns, maintenance processes,</li><li>Understanding how web works: research on link structure, major components on link graphs,</li><li>Algorithms and data structures background,</li><li>Experience with web data processing tasks: web crawling, finding similar items, mining data streams, link analysis, etc.</li><li>Experience with Microservices,</li><li>Experience with JVM,</li><li>Open source activity.</li></ul>                </div>                                    <div>                                    <div>                                        <div>        <a href='https://jobs.lever.co/scrapinghub/ab15a390-4362-4606-b304-d429e0af51ba/apply' rel='nofollow'>                        Apply now        </a></div>                                    </div>                        </div>        </div>            <h2>About Scrapinghub</h2>            <div><p>Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.</p><p>We’re a globally distributed team of 120 Shubbers working from over 30 countries who are passionate about scraping, web crawling, and data science.</p><p>As a new Shubber, you will:</p><p>Become part of a self-motivated, progressive, multi-cultural team.</p><p>Autonomy to make the role your own, supported by great people</p><p>Join a team with huge opportunity to make a difference</p><p>Have the freedom to work from&nbsp;<a href='http://blog.scrapinghub.com/2015/05/12/traveling-tips-for-remote-workers/' rel='nofollow'>wherever you want</a>.</p><p>Have the opportunity to go to conferences and meet with the team from across the globe.</p><p>Get the chance to work with cutting-edge open source technologies and tools.</p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>Flexible working hours</span>                            </li>                            <li>                                <span></span>                                <span>Remote working</span>                            </li>                            <li>                                <span></span>                                <span>Paid time off</span>                            </li>                            <li>                                <span></span>                                <span>Paid open source work</span>                            </li>                            <li>                                <span></span>                                <span>Global team meet ups</span>                            </li>                    </ul>                ",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 7:40:45 PM",
+    "tags": [
+      "DBG:surround``OR(thrive,benefit,comfort,hour) 3N 2N(remot,work)",
+      "DBG:surround``OR(work,2W(work,remot)) 3W from 2W OR(wherev,wherev,where)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=18, ruby=0, apple=0, java=16, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "java"
+    ]
+  },
+  {
+    "id": "TYYXYxKeQdyTyTNUXRQPeQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/187796/senior-software-engineer-data-engineer-wikimedia-foundation-inc?a=10YOMNpWTVFC",
+    "title": "Senior Software Engineer - Data Engineer at Wikimedia Foundation, Inc. (San Francisco, CA) ",
+    "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Mobile Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Education Technology, eLearning, Non-Profit</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>201-500 people</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>android</a><a rel='nofollow'>java</a><a rel='nofollow'>scala</a>                    </div>                                            <h2>Job description</h2>                <div><p><strong>Location: San Francisco, CA or Remote</strong></p><p><strong>Summary</strong></p><p>Our product infrastructure team is looking for a data engineer to reform the Wikimedia Foundation’s approach to data instrumentation, so that we can continuously learn how to make Wikipedia and its sister projects more useful. This is a great position for you if you love instrumenting the full stack and cherish the opportunity to help software engineers, data scientists, and product managers through better data engineering tools and techniques. You will play an important role in improving our data insight capabilities, nurturing an even more data informed culture in our products and programs.</p><p>You will have the opportunity to work with software that serves&nbsp;<a href='https://tools.wmflabs.org/siteviews/?platform=all-access&amp;source=pageviews&amp;agent=user&amp;start=2018-02-01&amp;end=2018-02-28&amp;sites=all-projects' rel='nofollow'>over half a billion pages per day</a>&nbsp;through Wikipedia (and other Wikimedia sites), build components that operate in a privacy first manner, and modernize code and practices that support experimentation, measurement, monitoring &amp; alerting, and reporting in our product department.</p><p>Are you ready to write open source software that operates on data at the scale and speed of Wikipedia traffic, innovate in applied data science that respects user privacy, and help create&nbsp;<a href='https://wikimediafoundation.org/wiki/Vision' rel='nofollow'>a world in which everyone can freely share in the sum of all knowledge</a>?</p><p><em>We are a family friendly employer and have a&nbsp;great benefits package. We look forward to your application.</em></p><p><strong>You will do these things:</strong></p><ul><li>Develop an overall approach to product instrumentation that fits the Wikimedia Foundation’s unique goals and responsibilities to our communities</li><li>Clearly and concisely communicate complex ideas about software, instrumentation, and statistics</li><li>Author polished code that makes it possible to generate and validate data, using a number of languages in contexts such as A/B testing and the data pipeline - Python, JavaScript, PHP, Java, Scala and more</li><li>Work with product analysts to integrate incoming data into ad hoc analytics tasks and automated analytics workflows</li><li>Coach web and native iOS &amp; Android software engineers on effective use of instrumentation and other data tooling</li><li>Build up a collection of repeatable patterns and practices and ensure that data engineering components and architecture will scale sustainably</li><li>Partner with our Analytics Engineering team and Product Analytics team on enhancements to big data architecture</li></ul><p><strong>We would like you to have these skills:</strong></p><ul><li>3+ years experience working with data in a professional environment</li><li>2+ years building web and apps involving instrumentation components, frameworks, and data models.</li><li>Experience with Hadoop (HDFS, Hive, YARN, MapReduce) and later technology like Spark</li><li>Experience with NoSQL databases like Cassandra or Druid and “conventional” SQL ones like MySQL</li><li>Experience with data friendly languages like Python, R, Scala, or Hadoop-flavored Java</li><li>Application server experience such as PHP or Node.js</li><li>Focused software engineering: you enjoy writing unit tests, reviewing code and responding to code reviews, and discussing architectural approach</li><li>A bachelor’s, master’s, or doctorate in data science, computer science, or other scientific field; or equivalent experience.</li><li>A love of free knowledge and open access</li></ul><p><strong>These are also pluses:</strong></p><ul><li>Exposure to applied machine learning (ML), deep learning, natural language processing (NLP)</li><li>Native apps programming experience (e.g., Objective-C, Swift, Android Java / Android SDK, Kotlin)</li><li>Experience with Jupyter, Mathematica, or similar notebook technology</li><li>Professional use of distributed and in-memory databases</li><li>Application of information security to big data</li><li>Experience with an internet software environment operating at scale. For example: messaging platforms that process hundreds of thousands of events per second.</li><li>Track record of working remotely with teams distributed across many time zones</li><li>Examples of connecting software to CI tools like Jenkins or Travis</li><li>Contributions to Wikipedia (or editing wikitext on other wikis) and other open access / open source ecosystems</li></ul><p><strong>Code</strong></p><p>If you have any existing open source software that you've developed (these could be your own software or patches to other packages), please share the URLs for the source. Links to your projects on GitHub, GitLab, BitBucket, etc. are exceptionally useful.</p><p><strong>The Wikimedia Foundation is...&nbsp;</strong></p><p>...the nonprofit organization that supports Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge, free of interference. We host the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive financial support from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p><p><em>The Wikimedia Foundation is an equal opportunity employer, and we encourage people with a diverse range of backgrounds to apply</em></p><p><strong>Benefits &amp; Perks *</strong></p><ul><li>Fully paid medical, dental and vision coverage for employees and their eligible families (yes, fully paid premiums!)</li><li>The Wellness Program provides reimbursement for mind, body and soul activities such as fitness memberships, baby sitting, continuing education&nbsp;and much more</li><li>The 401(k) retirement plan offers matched contributions at 4% of annual salary</li><li>Flexible and generous time off - vacation, sick and volunteer days, plus 19 paid holidays - including the last week of the year.</li><li>Family friendly! 100% paid new parent leave for seven weeks plus an additional five weeks for pregnancy, flexible options to phase back in after leave, fully equipped lactation room.</li><li>For those emergency moments - long and short term disability, life insurance (2x salary) and an employee assistance program</li><li>Pre-tax savings plans for health care, child care, elder care, public transportation and parking expenses</li><li>Telecommuting and flexible work schedules available</li><li>Appropriate fuel for thinking and coding (aka, a pantry full of treats) and monthly massages to help staff relax</li><li>Great colleagues - diverse staff and contractors speaking dozens of languages from around the world, fantastic intellectual discourse, mission-driven and intensely passionate people</li></ul><p><strong>More information</strong></p><p><a href='https://wikimediafoundation.org/' rel='nofollow'>WMF</a></p><p><a href='https://blog.wikimedia.org/' rel='nofollow'>Blog</a></p><p><a href='https://annual.wikimedia.org/2017/' rel='nofollow'>Annual Report - 2017</a></p><p><a href='https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017' rel='nofollow'>Wikimedia 2030</a></p>                </div>                                    <div>                                    <div>                                        <div>        <a href='https://stackoverflow.com/jobs/apply/187796?reset=False&amp;ra=10YOMNpWTVFC&amp;oqs=a%3D10YOMNpWTVFC' rel='nofollow'>Apply now</a></div>                                    </div>                        </div>        </div>            <h2>About Wikimedia Foundation, Inc.</h2>            <div><p><strong>The Wikimedia Foundation is...</strong></p><p>...the nonprofit organization that supports Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared&nbsp;knowledge,&nbsp;and that everyone should be able to access that knowledge, free of interference. We host the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive&nbsp;<a href='https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&amp;uselang=en&amp;utm_medium=wmfWikiLink&amp;utm_source=B_FAQ&amp;utm_campaign=C_FAQ' rel='nofollow'>financial support</a>&nbsp;from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p><p><em>The Wikimedia Foundation is an equal opportunity employer, and we encourage people with a diverse range of backgrounds to apply.</em></p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>Fully paid premiums for medical, dental &amp; vision insurance premiums</span>                            </li>                            <li>                                <span></span>                                <span>401(k) with 4% matching contribution</span>                            </li>                            <li>                                <span></span>                                <span>7-12 weeks parental leave with 100% pay + lactation room</span>                            </li>                            <li>                                <span></span>                                <span>Wellness Program ($1800 annual) to promote wellness &amp; personal growth</span>                            </li>                            <li>                                <span></span>                                <span>Pre-tax savings plans for Transportation &amp; Parking</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work schedules and remote working options</span>                            </li>                            <li>                                <span></span>                                <span>Pet Friendly office</span>                            </li>                            <li>                                <span></span>                                <span>Commitment to diversity &amp; inclusion throughout the employee lifecycle</span>                            </li>                            <li>                                <span></span>                                <span>12 days vacation, 19 days holiday, 2 days volunteer work and more!</span>                            </li>                            <li>                                <span></span>                                <span>Lean more at https://wikimediafoundation.org/wiki/Work_with_us</span>                            </li>                    </ul>                ",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 7:40:45 PM",
+    "tags": [
+      "DBG:surround``2N( OR(across,digit),     2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/4",
+      "DBG_TECH1:k/t/w:android/mobile/8",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:c/c/10",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/48",
+      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:mapreduce/bigdata-ml/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:objective-c/apple/3",
+      "DBG_TECH1:k/t/w:objective-c/c/2",
+      "DBG_TECH1:k/t/w:objective-c/mobile/8",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:scala/java/6",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=12, mobile=34, go=0, nodejs=14, bigdata-ml=73, ruby=0, apple=10, java=16, gamedev=0, php=10, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ]
+  },
+  {
+    "id": "l1bBpqboQIymvcG8BKqlbg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=17206939",
+    "title": "Starsky Robotics (YC S16) | Electrical Engineer, Perception, Gen. Software Engineer, ML Engineer, Test Engineer | San Francisco, ...",
+    "content": "<div>                  <span>Starsky Robotics (YC S16) | Electrical Engineer, Perception, Gen. Software Engineer, ML Engineer, Test Engineer | San Francisco, CA | Onsite | Full-timeWe're working to make trucks autonomous on the highway and remote controlled by experienced drivers for the first and last mile. Our self driving trucks will make roads safer while giving drivers meaningful work close to their homes and families. Looking for:<p>- Gen software engineering (Platform team) - C++ expertise</p><p>- Controls Engineer</p><p>- Behavior Planning Engineer (Machine Learning &amp; Data Science combo)</p><p>- Perception Engineeer, Machine Learning Engineer</p><p>- SW Engineer - Test (SF): Testing Infrastructure &amp; Automation</p><p>- Field Test Engineer Florida: 50% software 50% hardware, Miami/Fort Lauderdale area</p><p>- &quot;Full Stack&quot; Truck Tech Engineer: Help scale our trucking operations in any way possible. In charge of product discovery, development, deployment, and design for our trucking business.</p><p>- Internship (SW or EE): On a limited basis, we are open to extremely talented internship candidates. In addition to a resume, attach anything that will show us that you’re exceptional (non-school projects, side-businesses, etc).</p><p>We currently run our trucks autonomously on the highway, with freight. We are looking for awesome engineers who are comfortable working on a scrappy, driven engineering team. The team takes an extremely active role in the development and testing of Starsky Trucks on highways across the US.</p><p>We use Python, C++, and lots of bash scripting. We are a group of PhDs, masters, bachelors, college dropouts, and high school interns all working together. No matter your experience, we're looking for intelligent folks who have a history of diving excitedly into new fields. Able to sponsor all visas. All positions non-remote unless otherwise specified.</p><p>Apply here: <a href='https://jobs.lever.co/starskyrobotics/' rel='nofollow'>https://jobs.lever.co/starskyrobotics/</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 7:26:05 PM",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c++/c/16",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=16, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/c",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "c"
+    ]
+  },
+  {
+    "id": "dF_WLcMeRqqF0OHNef7uPA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=17206502",
+    "title": "Windfall Data | Lead Data Scientist, Data Engineer | SF | Full Time | ONSITE or REMOTE (US-based only)",
+    "content": "<div>                  <span>Windfall Data | Lead Data Scientist, Data Engineer | SF | Full Time | ONSITE or REMOTE (US-based only)<p>At Windfall, our goal is to determine the net worth of every person in the world.Its a super hard problem with broad applications.  We work with hundreds of non-profit organizations acrossthe US to help them better understand and engage their donors. We also work with for-profit companies ina wide array of industries (finance, travel, hospitality &amp; gaming, luxury goods, etc) to help them betterunderstand their clientele and targeting affluent households for net-new acquisition.</p><p>Our team is super small and every new hire will have the ability to make a huge impact!</p><p>We're looking for:</p><p>* An experienced data scientist to lead our team in developing our predictive models. Data and data scienceis core to our business, so this role will be incredibly influential in the success of the company.</p><p>* A sharp backend/data engineer to help build our data pipeline and other infrastructure.</p><p>Roles are onsite in SF, or remote for the right candidate with prior remote work experience.</p><p>If you're interested in hearing more, send a message to cory@windfalldata.com<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 6:51:05 PM",
+    "tags": [
+      "DBG:surround``remot 2W work W experi",
+      "DBG:surround``remot 3W onli",
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/48",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=48, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ]
+  },
+  {
+    "id": "kddJB_-vS9qskDAsT9Ca6g",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=17206342",
+    "title": "SolarWinds Cloud | Sr Data Engineer | SF / US-REMOTE | Full-time | https://solarwinds.jobs/jobs/?q=cloud We're looking for a full-time software engineer to take a key ...",
+    "content": "<div>                  <span>SolarWinds Cloud | Sr Data Engineer | SF / US-REMOTE | Full-time | <a href='https://solarwinds.jobs/jobs/?q=cloud' rel='nofollow'>https://solarwinds.jobs/jobs/?q=cloud</a><p>We're looking for a full-time software engineer to take a key role in building the large-scale distributed systems that power Solarwinds Cloud products: Papertrail (Real Time Logging), AppOptics (Server, Infrastructure, Application Performance Monitoring and Distributed Tracing), Pingdom (DEM) and Loggly (Structured Log Analysis).</p><p>We’re a small team so everyone has the opportunity to have a big impact. We’ve built our platform out largely on Java8 Dropwizard services, a handful of Golang services and some C++ where performance is critical. We leverage Kafka as our main service bus, Cassandra for long term storage, our in-house stream processing framework for online analytics, ClickHouse for large scale log storage, and we rely on Zookeeper as a core part of intra/inter-service coordination. Our data pipeline pushes millions of messages a second and 50TB of logs per day.</p><p>All team members, whether in one of our offices or those remote, commit code to Github, communicate over Slack and Hangouts, push code to production via our ChatOps bot, and run all production applications on AWS. We also use an array of best-breed SaaS applications to get code to production quickly and reliably. We are a team that is committed to a healthy work/life balance.</p><p>At SolarWinds Cloud you get all the benefits of a small startup, with the backing of a big company so there is no worry about the next round of funding. SolarWinds offers competitive bonus and matching 401k programs that create an attractive total compensation package.</p><p>Learn more at: <a href='https://solarwinds.jobs/jobs/?q=cloud' rel='nofollow'>https://solarwinds.jobs/jobs/?q=cloud</a> or contact me directly at mike-at-solarwinds.cloud (no recruiters).<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 6:41:05 PM",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:dropwizard/java/8",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=8, mobile=0, go=8, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ]
+  },
+  {
+    "id": "mdlZA6lVS3mxPTL9VNJMiw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=17205871",
+    "title": "Photofeeler (https://www.photofeeler.com) | Software Engineers, Marketing Roles | REMOTE or Onsite near Boulder, CO If you were ...",
+    "content": "<div>                  <span>Photofeeler (<a href='https://www.photofeeler.com' rel='nofollow'>https://www.photofeeler.com</a>) | Software Engineers, Marketing Roles | REMOTE or Onsite near Boulder, CO<p>If you were a fan of the old OkCupid blog or Christian Rudder's &quot;Dataclysm,&quot; you will love it here.</p><p>Photofeeler is a tool for photo feedback, but we're primarily a data science company. We do math to maximize the statistical value of small, noisy data samples. Our company is changing the future of online profiles.</p><p>The gig offers unparalleled freedom without beauracratic nonsense (think: can work remote, work flexible hours, no unnecessary meetings). Our users are eager and enthusiastic for everything that we build.</p><p>More info: <a href='https://www.photofeeler.com/jobs' rel='nofollow'>https://www.photofeeler.com/jobs</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 6:04:06 PM",
+    "tags": [
+      "DBG:surround``can 2W remot",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ]
+  },
+  {
     "id": "mg-hSSjaQS2F8tgKdhQ3Og",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",

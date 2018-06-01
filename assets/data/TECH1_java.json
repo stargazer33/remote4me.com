@@ -1,6 +1,224 @@
 {
  "items": [
   {
+    "id": "WiLYiQTHQuCS01ukTkNOhA",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/191007/senior-backend-engineer-for-cloud-services-scrapinghub?a=123Ah1AnV0NW",
+    "title": "Senior Backend Engineer for Cloud Services at Scrapinghub  ",
+    "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Contract</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Big Data</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>python</a><a rel='nofollow'>machine-learning</a><a rel='nofollow'>web-scraping</a><a rel='nofollow'>distributed-system</a><a rel='nofollow'>scala</a>                    </div>                                            <h2>Job description</h2>                <div><p><strong>About the job:</strong></p><p>We are looking for two Senior Backend Engineers to develop and grow our crawling and extraction services. Our automated service is used directly by our customers via API, as well as by us for internal projects. Our extraction capabilities include automated product and article extraction from single pages or whole domains using machine learning and custom built components and we plan to expand it for jobs and news. The service is still in early stages of development, serving its first customers.</p><p>As a professional services company we are often required to build a custom crawling and extraction pipeline for a specific customer. That requires crawl and extraction planning with respect to customer needs, including crawling time estimation and HW allocation. The volume is often very high, and solutions have to be properly designed to provide the required performance, reliability and maintainability.</p><p>Our platform has several components communicating via Apache Kafka and using HBase as a permanent storage. Most components are written in Python, while several crucial components are made using Scala and Kafka Streams. Currently, main priorities are improving reliability and scalability of the system, integration with other Scrapinghub services, implementation of auto-scaling and other features. This is going to be a challenging journey for every good Backend Engineer!</p><p><strong>Job Responsibilities:</strong></p><ul><li>Design and implementation of a large scale web crawling and extraction service.</li><li>Solution architecture for large scale crawling and data extraction: design, hardware and development effort estimations, writing proposal drafts, explaining and motivating the solution for customers,</li><li>Implementation and troubleshooting of Apache Kafka applications: workers, HW estimation, performance tuning, debugging,</li><li>Interaction with data science engineers and customers</li><li>Write code carefully for critical and production environments along with good communication and learning skills.</li></ul><p><strong>Requirements:</strong></p><ul><li>Experience building at least one large scale data processing system or high load service. Understanding what CPU/memory effort the particular code requires,</li><li>Good knowledge of Python</li><li>experience with any distributed messaging system (Rabbitmq, Kafka, ZeroMQ, etc),</li><li>Docker containers basics,</li><li>Linux knowledge.</li><li>Good communication skills in English,</li><li>Understand a ways to solve problem, and ability to wisely choose between: quick hotfix, long-term solution, or design change.</li></ul><p><strong>Bonus points for:</strong></p><ul><li>Kafka Streams and microservices based on Apache Kafka, understanding Kafka message delivery semantics and how to achieve them on practice,</li><li>HBase: data model, selecting the access patterns, maintenance processes,</li><li>Understanding how web works: research on link structure, major components on link graphs,</li><li>Algorithms and data structures background,</li><li>Experience with web data processing tasks: web crawling, finding similar items, mining data streams, link analysis, etc.</li><li>Experience with Microservices,</li><li>Experience with JVM,</li><li>Open source activity.</li></ul>                </div>                                    <div>                                    <div>                                        <div>        <a href='https://jobs.lever.co/scrapinghub/ab15a390-4362-4606-b304-d429e0af51ba/apply' rel='nofollow'>                        Apply now        </a></div>                                    </div>                        </div>        </div>            <h2>About Scrapinghub</h2>            <div><p>Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.</p><p>We’re a globally distributed team of 120 Shubbers working from over 30 countries who are passionate about scraping, web crawling, and data science.</p><p>As a new Shubber, you will:</p><p>Become part of a self-motivated, progressive, multi-cultural team.</p><p>Autonomy to make the role your own, supported by great people</p><p>Join a team with huge opportunity to make a difference</p><p>Have the freedom to work from&nbsp;<a href='http://blog.scrapinghub.com/2015/05/12/traveling-tips-for-remote-workers/' rel='nofollow'>wherever you want</a>.</p><p>Have the opportunity to go to conferences and meet with the team from across the globe.</p><p>Get the chance to work with cutting-edge open source technologies and tools.</p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>Flexible working hours</span>                            </li>                            <li>                                <span></span>                                <span>Remote working</span>                            </li>                            <li>                                <span></span>                                <span>Paid time off</span>                            </li>                            <li>                                <span></span>                                <span>Paid open source work</span>                            </li>                            <li>                                <span></span>                                <span>Global team meet ups</span>                            </li>                    </ul>                ",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 7:40:45 PM",
+    "tags": [
+      "DBG:surround``OR(thrive,benefit,comfort,hour) 3N 2N(remot,work)",
+      "DBG:surround``OR(work,2W(work,remot)) 3W from 2W OR(wherev,wherev,where)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=18, ruby=0, apple=0, java=16, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "java"
+    ]
+  },
+  {
+    "id": "q0K0e2QvRZCzYwtxmR7BKw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/190524/contract-remote-full-stack-developer-located-in-twin-technologies?a=11TxBT6opzlC",
+    "title": "Contract Remote Full Stack Developer (located in the US) at Twin Technologies  ",
+    "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Contract</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Consulting, Design, Digital Agency</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>java</a><a rel='nofollow'>reactjs</a><a rel='nofollow'>jenkins</a><a rel='nofollow'>node.js</a><a rel='nofollow'>docker</a>                    </div>                                            <h2>Job description</h2>                <div><p><strong>Company Description</strong></p><p>We dream, create, and deliver digital solutions that transform what’s possible for enterprises, government institutions and organizations and partner with our clients through every stage of digital transformation: from strategy, to activation, to delivery to decrease risk and increase speed-to-market.</p><p>We are Remotely Awesome! We understand that quality of life directly impacts quality of work, and we know that talent is all over the place. Our team is not limited by geography, and seeks top talent where it exists. Our remote work model encourages independent thinking, requires professional discipline, and contributes to a high quality work/life balance.</p><p>What’s does this mean for you? Many of our team members have the flexibility to work from anywhere in the United States, and is provided the tools and infrastructure to successfully collaborate across the globe. We will continue to grow and evolve with the market and provide an environment where creativity, leadership, mentoring, planning, and resources are in place to achieve our shared goals.</p><p><strong>Job Description</strong></p><p>The Full-stack Developer will serve as part of a development team supporting both established projects and creating from the ground up. The ideal candidate is an experienced leader and team player who is adept at both frontend and backend development.&nbsp; They are passionate about technology and committed to lifelong learning, possessing the ability to apply their technical knowledge, skills and experience to solve complex/real-world problems.</p><p><strong>Technologies and Disciplines:</strong></p><p>We use several different technologies in our development stack across multiple clients and projects. We continuously evaluate new technologies to make sure we are fully aware and always using the right tool for the job. Examples of the technologies we currently use include:</p><ul><li>Java, JPA, Dropwizard, JBoss, Javascript</li><li>Docker, Kubernetes, Linkerd, Consul</li><li>SQL Server, Oracle</li><li>Jenkins, Maven, Stash, Git</li><li>AWS EC2, Lambda, S3</li></ul><p><strong>Responsibilities:</strong></p><ul><li>Solving complex problems with elegant and maintainable solutions</li><li>Updating back-end components using modern Java frameworks</li><li>Creating front-end experiences using modern Javascript frameworks and RESTful APIs</li><li>Developing and bringing security processes in line with current best practices</li><li>Integrating customer experiences with microservice/mesh architecture based APIs</li><li>Participating on an agile / scrum software delivery team</li></ul><p><strong>Qualifications</strong></p><ul><li>5+ years software engineering experience</li><li>Exposure to all aspects of modern web application architectures, visual design, and mobile web development</li><li>Familiar with Kubernetes resource APIs and related CLI tools</li><li>Experience with running and defining Docker containers</li><li>Comfortable using and configuring software on Linux based operating systems</li><li>Experience with a variety of data systems such as SQL, LDAP, NoSQL</li><li>Versatility developing with multiple front-end and back-end technologies (Example: Java, Spring, Dropwizard, React, SCSS, HTML5, Node.js, Python/Bash scripting)</li><li>Capable of integrating software build processes into CI/CD automation pipelines using tools like Spinnaker or Jenkins</li><li>BS in Computer Science or equivalent experience</li><li>Applicants&nbsp;<strong>MUST&nbsp;</strong>be US&nbsp;<strong>Citizens</strong>, due to the nature of the work</li><li>Applicants&nbsp;<strong>MUST&nbsp;</strong>live in the US, with a remote home office</li><li>This is a contract position to start</li></ul><p><strong>Additional Information</strong></p><p>Twin Technologies offers a competitive and comprehensive employee compensation and benefits package that includes medical, dental and vision insurance, LTD, STD, life insurance, 401k program with company match, and an unlimited PTO plan</p><p>Twin Technologies is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, or protected veteran status.</p>                </div>                                    <div>                                    <div>                                        <div>        <a href='http://smrtr.io/KhLExw' rel='nofollow'>                        Apply now        </a></div>                                    </div>                        </div>        </div>            <h2>About Twin Technologies</h2>            <div><p>At Twin Technologies, Inc. we dream, create, and deliver digital solutions that transform what’s possible for enterprises, government institutions and organizations.&nbsp;We partner with our clients through every stage of digital transformation: from strategy- to activation - to delivery, while we decrease risk and increase speed-to-market.</p><p>Twin has been a “Remotely Awesome” company for the past 14+ years and continues to master best practices and strategies around collaboration, communication, and tools, across our high-performing distributed teams.</p><p>What’s does this mean for you?&nbsp;&nbsp;We will continue to grow and evolve with the market to provide an environment where creativity, leadership, mentoring, and some of the best resources are in place to achieve high standards in the consulting and digital space</p><p>You will work on a variety of projects that integrate digital designs into products, services and environments.&nbsp;</p><p>Twin Technologies offers a competitive and comprehensive employee compensation and benefits package, which includes medical, dental, and vision insurance, LTD, STD, life insurance, a 401k plan with company match, and an unlimited PTO plan.</p><p>Twin Technologies is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, or protected veteran status.</p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>annual stipend for hardware</span>                            </li>                            <li>                                <span></span>                                <span>progressive 401k matching plan</span>                            </li>                            <li>                                <span></span>                                <span>generous health and dental coverage</span>                            </li>                            <li>                                <span></span>                                <span>growth, support, and mentorship</span>                            </li>                            <li>                                <span></span>                                <span>company hosted and sponsored events</span>                            </li>                            <li>                                <span></span>                                <span>training and conferences stipend</span>                            </li>                            <li>                                <span></span>                                <span>telecommuting reimbursement program</span>                            </li>                            <li>                                <span></span>                                <span>unlimited PTO</span>                            </li>                            <li>                                <span></span>                                <span>work remote from home office</span>                            </li>                            <li>                                <span></span>                                <span>work with amazing people</span>                            </li>                    </ul>                ",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 7:40:45 PM",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(employe,develop,engin,team,workmat) 2W locat",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:dropwizard/java/16",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:jboss/java/8",
+      "DBG_TECH1:k/t/w:jpa/java/8",
+      "DBG_TECH1:k/t/w:maven/java/13",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=1, c=0, mobile=3, go=0, nodejs=15, bigdata-ml=0, ruby=0, apple=0, java=59, gamedev=0, php=0, embedded=0, frontend=20}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "java"
+    ]
+  },
+  {
+    "id": "Q2zyWZXESqGZ2cIG6e_dPQ",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "stackoverflow.com",
+    "url": "https://stackoverflow.com/jobs/190589/experienced-microservices-engineer-citrusbyte?a=11UTpcdnHFe0",
+    "title": "Experienced Microservices Engineer at Citrusbyte (Indianapolis, IN) ",
+    "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead, Manager</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Development, Web Design</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>ruby</a><a rel='nofollow'>java</a><a rel='nofollow'>apache-kafka</a><a rel='nofollow'>rabbitmq</a><a rel='nofollow'>microservices</a>                    </div>                                            <h2>Job description</h2>                <div><p>Citrusbyte&nbsp;is a software consultancy that believes in&nbsp;simplicity as a core priority in software design. We build custom systems for both startups and enterprises - You can see our&nbsp;<a href='https://citrusbyte.com/portfolio' rel='nofollow'>portfolio</a>&nbsp;for more information about our clients.</p><p>We have offices in Los Angeles and New York, but we work remotely with people from all around the world.</p><p>Our engineers have experience in a consultative environment, excellent communication skills and a desire to work with talented teams building innovative products. We work closely with our clients, sharing our experience and processes to help them define and create their products.</p><p>We are looking for&nbsp;experienced backend engineers with&nbsp;experience building <strong>service-oriented architectures</strong>, using tools like <strong>Kafka</strong> and RabbitMQ and&nbsp;having experience with languages such as Java, Ruby, Elixir, Go, JavaScript.</p><p>Job Requirements:</p><ul><li>Proficient in Ruby or Java and at least one other programming language.</li><li>Proficient with Kafka.</li><li>Experience building&nbsp;service-oriented&nbsp;architectures.</li><li>Experience as a software consultant.</li><li>Experience working remotely in a distributed company</li><li>Open-minded&nbsp;and demonstrates a passion for continuous learning.</li><li>Smart, gets things done.</li></ul>                </div>                                    <div>                                    <div>                                        <div>        <a href='https://citrusbyte.applytojob.com/apply/yO2gVYWNF7/Experienced-Microservices-Engineer?source=stackoverflow' rel='nofollow'>                        Apply now        </a></div>                                    </div>                        </div>        </div>            <h2>About Citrusbyte</h2>            <div><p><strong><a href='https://citrusbyte.com/' rel='nofollow'>Citrusbyte</a></strong>&nbsp;is a software consultancy that believes in using simple tools to solve all types of problems. Our teams&nbsp;work closely with clients to create products of great quality and improve existing ones. We have considerable experience building custom systems for both startups and enterprises - check out our <a href='https://citrusbyte.com/portfolio' rel='nofollow'>portfolio</a>&nbsp;for more information about our clients.</p><p>We strongly advocate minimalism and this is represented in the tools we choose to work with. Every team gets to decide their own stack depending on the requirements of the project.</p><p>Our main offices are in Los Angeles and New York, but we work remotely with people from all around the world.</p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>Open Vacation Policy</span>                            </li>                            <li>                                <span></span>                                <span>Hardware</span>                            </li>                            <li>                                <span></span>                                <span>Health, Vision, Dental Benefits</span>                            </li>                            <li>                                <span></span>                                <span>Fitness Reimbursement Program</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Work Hours</span>                            </li>                            <li>                                <span></span>                                <span>Paternity &amp; Maternity Leave</span>                            </li>                            <li>                                <span></span>                                <span>Education Allowance</span>                            </li>                            <li>                                <span></span>                                <span>Conference Assistance</span>                            </li>                            <li>                                <span></span>                                <span>Annual Company Retreat</span>                            </li>                    </ul>                ",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 7:40:45 PM",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=2, go=3, nodejs=1, bigdata-ml=0, ruby=4, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/other",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java",
+      "other",
+      "ruby"
+    ]
+  },
+  {
+    "id": "ufrCAnwgTu-U1FOwsipiIg",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=17206491",
+    "title": "Clover Health | San Francisco, CA or Jersey City, NJ | Software Engineers & Data Scientists | Full-Time ONSITE or REMOTE",
+    "content": "<div>                  <span>Clover Health | San Francisco, CA or Jersey City, NJ | Software Engineers &amp; Data Scientists | Full-Time ONSITE or REMOTE<p>Clover is reinventing health insurance by working to keep people healthier. We're looking for seasoned engineers and data scientists to help us solve the most complicated problem in the world: healthcare.</p><p>We're using sophisticated data analytics, custom software, and machine learning to coordinate care and build a clearer model of our member's health and risk factors. We are on a mission to help seniors and low-income members live healthier while keeping costs down. This is an opportunity for those who want to be at the intersection of health and technology and thrive in a collaborative environment as well as the freedom of self-direction.</p><p>Tech Stack: Postgres, Python, Flask/Django, Frontend: React Cloud Services: Aptible, AWS, GCP Data Stack: Airflow</p><p>If you are interested in any of the Data Science and Engineering roles: <a href='https://www.cloverhealth.com/en/about-us/careers' rel='nofollow'>https://www.cloverhealth.com/en/about-us/careers</a></p><p>To learn more about working here, check out our tech blog: <a href='https://technology.cloverhealth.com/' rel='nofollow'>https://technology.cloverhealth.com/</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 6:51:05 PM",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:jersey/java/16",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=18, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=10, ruby=0, apple=0, java=16, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java",
+      "python"
+    ]
+  },
+  {
+    "id": "3P5CrNW3QCmKPlDNHUb66Q",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=17205990",
+    "title": "Cyient | FULL TIME | ONSITE (remote for the right candidate) | Melbourne, FL; Bangalore, India; or Hyderabad, India ...",
+    "content": "<div>                  <span>Cyient | FULL TIME | ONSITE (remote for the right candidate) | Melbourne, FL; Bangalore, India; or Hyderabad, India | <a href='http://certsafe.com/' rel='nofollow'>http://certsafe.com/</a><p>CertSAFE is a software suite developed by Cyient for the design, development, simulation, verification, and validation of safety-critical systems. CertSAFE features a graphical development environment for a visual modeling language based on dataflow/circuit diagram notation, a simulation engine and interactive testing interface, an automatic test generator based on Satisfiability Modulo Theories (SMT) solving, and more.</p><p>As a member of the CertSAFE team, you will get to apply your software engineering and computer science knowledge in diverse areas, including programming language theory, graph theory, user interface design, concurrent and parallel software design, and software test automation. You will get to interact on a day-to-day basis with real-world users and customers working on safety-critical applications in aerospace, defense, transportation, medical devices, and other fields.</p><p>CertSAFE is developed by a small team with a Lean Kanban development process. We use a variety of technologies including Java, Maven, Jenkins, Python, and AWS, and also especially appreciate experience with functional languages such as Haskell, F#, OCaml, Lisp, etc.</p><p>Positions available include Software Engineer, Software Quality Assurance Engineer, Application Engineer, and DevOps Engineer. Visit <a href='http://certsafe.com/careers/' rel='nofollow'>http://certsafe.com/careers/</a> for full position descriptions.</p><p>If you plan on working outside of Melbourne, FL, these roles require travel to Melbourne, FL for 90-180 days to undergo necessary training. Visa assistance is available.</p><p>Interested? Email your resume to careers@certsafe.com.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 6:12:06 PM",
+    "tags": [
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:f#/other/5",
+      "DBG_TECH1:k/t/w:haskell/other/5",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lisp/other/5",
+      "DBG_TECH1:k/t/w:maven/java/13",
+      "DBG_TECH1:k/t/w:ocaml/other/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=20, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=15, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java",
+      "other"
+    ]
+  },
+  {
+    "id": "EwQK21gPR5mPwEA4Hw5Hcw",
+    "source": {
+      "contentTransform": "TEXT_STRIP_FORMATTING",
+      "jobAdContentRegExp": ""
+    },
+    "sourceName": "workingnomads.co",
+    "url": "https://www.workingnomads.co/jobs/software-engineer-backend-remote-numbrs-personal-finance-ag",
+    "title": "Software Engineer, Backend - Remote",
+    "content": "<p>Numbrs is among the world’s leading FinTech companies. Our vision is to build the globally leading technology platform in the financial services industry. At the centre of our activities is the development of the “Numbrs” banking app. Numbrs is not a bank, nor will it ever become a bank. Our highest priority is the satisfaction of our users.</p><p>Responsibilities include but are not limited to designing, developing, deploying, supporting, monitoring and troubleshooting large scale micro-service based distributed systems with high transaction volume. Applicants are also expected to participate in after-hours work.</p><p><strong>All candidates will have</strong></p><ul><li>a Bachelor's or higher degree in technical field of study</li><li>a minimum of two years experience&nbsp;designing, developing and troubleshooting large scaledistributed systems</li><li>hands-on experience with highly concurrent production grade systems</li><li>excellent knowledge of at least one modern programming language, such as Go, Java, C++ and Scala</li><li>excellent troubleshooting and creative problem-solving abilities</li><li>excellent written and oral communication and interpersonal skills</li></ul><p><strong>Ideally, candidates will also have</strong></p><ul><li>experience with systems for automating deployment, scaling, and management of containerised applications, such as Kubernetes and Mesos</li><li>experience with big data technologies, such as Kafka, Spark, Storm, Flink and Cassandra</li><li>experience with encryption and cryptography standards</li></ul>",
+    "urlFetchPending": false,
+    "published": "Jun 1, 2018 5:58:25 PM",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:apache-flink/java/8",
+      "DBG_TECH1:k/t/w:apache-storm/java/8",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=8, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=21, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ]
+  },
+  {
     "id": "KvzPifSRQGqLkfd0E7GScw",
     "source": {
       "contentTransform": "TEXT_STRIP_FORMATTING",
