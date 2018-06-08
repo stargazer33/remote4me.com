@@ -95,6 +95,11 @@ $(document).ready(function () {
         var source   = document.getElementById("detailFormatter").innerHTML;
         detailFormatterTemplate = Handlebars.compile(source);
 
+        $('#reportthisjob-modal').on('show.bs.modal', function (event) {
+            var button = $(event.relatedTarget),
+                recipient = button.data('postid');
+        })
+        //modal window (end)
     } catch (err) {
         console.log(err);
     }
