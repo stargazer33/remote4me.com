@@ -8376,3 +8376,26 @@ blockquote p {
   color: #428bca;
   border: none;
 }
+.page-jobad-modal-tell-more {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.page-jobad-modal-tell-more > div:first-child {
+  margin-right: 10px;
+}
+
+.page-jobad-modal-tell-more > div:first-child {
+    margin-right: 10px;
+}
+
+.page-jobad-modal-tell-more > div:last-child span {
+  font-size: larger;
+  display: block;
+}
+
+.page-jobad-modal-tell-more label {
+  font-weight: normal;
+  cursor: pointer;
+}
+
