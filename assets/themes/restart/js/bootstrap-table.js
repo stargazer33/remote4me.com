@@ -353,7 +353,7 @@
         searchText: '',
         iconSize: undefined,
         buttonsClass: 'default',
-        iconsPrefix: 'glyphicon', // glyphicon of fa (font awesome)
+        iconsPrefix: '', // glyphicon of fa (font awesome)
         icons: {
             paginationSwitchDown: 'glyphicon-collapse-down icon-chevron-down',
             paginationSwitchUp: 'glyphicon-collapse-up icon-chevron-up',
