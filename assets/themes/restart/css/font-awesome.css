@@ -10,15 +10,21 @@
   font-weight: normal;
   font-style: normal;
 }
+
 .fa {
   display: inline-block;
   font-family: FontAwesome;
   font-style: normal;
   font-weight: normal;
   line-height: 1;
+  text-transform: none;
+  text-rendering: auto;
+  speak: none;
+  vertical-align: middle;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
   font-size: 1.3333333333333333em;
