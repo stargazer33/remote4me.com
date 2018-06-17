@@ -2,11 +2,11 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src:  url('../fonts/FontAwesome.eot?le8wd5');
-  src:  url('../fonts/FontAwesome.eot?le8wd5#iefix') format('embedded-opentype'),
-  url('../fonts/FontAwesome.ttf?le8wd5') format('truetype'),
-  url('../fonts/FontAwesome.woff?le8wd5') format('woff'),
-  url('../fonts/FontAwesome.svg?le8wd5#fontawesome') format('svg');
+  src:  url('../fonts/FontAwesome.eot?534jp9');
+  src:  url('../fonts/FontAwesome.eot?534jp9#iefix') format('embedded-opentype'),
+  url('../fonts/FontAwesome.ttf?534jp9') format('truetype'),
+  url('../fonts/FontAwesome.woff?534jp9') format('woff'),
+  url('../fonts/FontAwesome.svg?534jp9#fontawesome') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -43,6 +43,14 @@
 .fa-5x {
   font-size: 5em;
 }
+.fa-6x {
+  font-size: 6em;
+}
+.fa-7x {
+  font-size: 7em;
+}
+
+
 .fa-fw {
   width: 1.2857142857142858em;
   text-align: center;
@@ -362,9 +370,6 @@
 .fa-folder-open-o:before {
   content: "\f115";
 }
-.fa-gamepad:before {
-  content: "\f11b";
-}
 .fa-flag-o:before {
   content: "\f11d";
 }
@@ -422,150 +427,105 @@
 .fa-font-awesome:before {
   content: "\f2b4";
 }
-.fa-microchip:before {
-  content: "\f2db";
+.fa-php:before {
+  content: "\e901";
 }
-.fa-android:before {
-  content: "\ea03";
+.fa-python:before {
+  content: "\e902";
 }
-.fa-ios:before {
-  content: "\ea40";
+.fa-java:before {
+  content: "\e900";
 }
-.fa-lang-angular:before {
-  content: "\ea42";
+.fa-javascript:before {
+  content: "\e903";
 }
-.fa-lang-c:before {
-  content: "\ea43";
+.fa-node:before {
+  content: "\e904";
 }
-.fa-lang-clojure:before {
-  content: "\ea44";
+.fa-hr:before {
+  content: "\e921";
 }
-.fa-lang-coffeescript:before {
-  content: "\ea45";
+.fa-qa5:before {
+  content: "\e914";
 }
-.fa-lang-cpp:before {
-  content: "\ea46";
+.fa-mobile:before {
+  content: "\e90f";
 }
-.fa-lang-crystal:before {
-  content: "\ea47";
+.fa-marketing:before {
+  content: "\e915";
 }
-.fa-lang-csharp:before {
-  content: "\ea48";
+.fa-sales5:before {
+  content: "\e916";
 }
-.fa-lang-css:before {
-  content: "\ea49";
+.fa-sales2:before {
+  content: "\e917";
 }
-.fa-lang-dart:before {
-  content: "\ea4a";
+.fa-sales1:before {
+  content: "\e918";
 }
-.fa-lang-django:before {
-  content: "\ea4b";
+.fa-manager2:before {
+  content: "\e919";
 }
-.fa-lang-elasticsearch:before {
-  content: "\ea4c";
+.fa-support1:before {
+  content: "\e91a";
 }
-.fa-lang-elixir:before {
-  content: "\ea4d";
+.fa-writer:before {
+  content: "\e91b";
 }
-.fa-lang-erlang:before {
-  content: "\ea4e";
+.fa-designer2:before {
+  content: "\e91c";
 }
-.fa-lang-fsharp:before {
-  content: "\ea4f";
+.fa-implementation-engineer:before {
+  content: "\e91d";
 }
-.fa-lang-go:before {
-  content: "\ea50";
+.fa-database:before {
+  content: "\e91e";
 }
-.fa-lang-groovy:before {
-  content: "\ea51";
+.fa-solution_engineer:before {
+  content: "\e91f";
 }
-.fa-lang-haskell:before {
-  content: "\ea52";
+.fa-devops:before {
+  content: "\e920";
 }
-.fa-lang-html:before {
-  content: "\ea53";
+.fa-filter_search_job:before {
+  content: "\e905";
 }
-.fa-lang-java:before {
-  content: "\ea54";
+.fa-categorization2:before {
+  content: "\e906";
 }
-.fa-lang-javascript:before {
-  content: "\ea55";
+.fa-collection:before {
+  content: "\e907";
 }
-.fa-lang-jquery:before {
-  content: "\ea56";
+.fa-categorization:before {
+  content: "\e908";
 }
-.fa-lang-kotlin:before {
-  content: "\ea57";
+.fa-filter2:before {
+  content: "\e909";
 }
-.fa-lang-lua:before {
-  content: "\ea58";
+.fa-otherlang:before {
+  content: "\e90a";
 }
-.fa-lang-mongo:before {
-  content: "\ea59";
+.fa-apple2:before {
+  content: "\e90b";
 }
-.fa-lang-mysql:before {
-  content: "\ea5a";
+.fa-embedded:before {
+  content: "\e90c";
 }
-.fa-lang-net:before {
-  content: "\ea5b";
+.fa-gamedev:before {
+  content: "\e90d";
 }
-.fa-lang-nodejs:before {
-  content: "\ea5c";
+.fa-machine-learnin:before {
+  content: "\e90e";
 }
-.fa-lang-objc:before {
-  content: "\ea5d";
+.fa-ruby:before {
+  content: "\e910";
 }
-.fa-lang-ocaml:before {
-  content: "\ea5e";
+.fa-golang:before {
+  content: "\e911";
 }
-.fa-lang-php:before {
-  content: "\ea5f";
+.fa-dotnet:before {
+  content: "\e912";
 }
-.fa-lang-postgresql:before {
-  content: "\ea60";
-}
-.fa-lang-python:before {
-  content: "\ea61";
-}
-.fa-lang-r:before {
-  content: "\ea62";
-}
-.fa-lang-rails:before {
-  content: "\ea63";
-}
-.fa-lang-react:before {
-  content: "\ea64";
-}
-.fa-lang-redis:before {
-  content: "\ea65";
-}
-.fa-lang-ruby:before {
-  content: "\ea66";
-}
-.fa-lang-rust:before {
-  content: "\ea67";
-}
-.fa-lang-scala:before {
-  content: "\ea68";
-}
-.fa-lang-shell:before {
-  content: "\ea69";
-}
-.fa-lang-solidity:before {
-  content: "\ea6a";
-}
-.fa-lang-sql:before {
-  content: "\ea6b";
-}
-.fa-lang-sqlite:before {
-  content: "\ea6c";
-}
-.fa-lang-swift:before {
-  content: "\ea6d";
-}
-.fa-lang-typescript:before {
-  content: "\ea6e";
-}
-.fa-search2:before {
-  content: "\e003";
+.fa-cplusplus:before {
+  content: "\e913";
 }

@@ -17,14 +17,17 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="feature_teaser col-sm-4 col-md-4">
-        <h3>PRE-FILTERED 100% REMOTE JOBS</h3>
-        This site shows you only the jobs having phrases like “team is entirely remote” or “work from whenever you want” in the job description. Jobs saying something like “remotely on Friday” or “occasional remote working” are filtered out.</p>
+          <i class="fa fa-7x fa-filter_search_job"></i>
+          <h3>PRE-FILTERED 100% REMOTE JOBS</h3>
+          <p>This site shows you only the jobs having phrases like “team is entirely remote” or “work from whenever you want” in the job description. Jobs saying something like “remotely on Friday” or “occasional remote working” are filtered out.</p>
       </div>
       <div class="feature_teaser col-sm-4 col-md-4">
-        <h3>REMOTE JOBS CATEGORIZED BY JOB TITLE AND TECHNOLOGY STACK</h3>
-        <p>Correct job classification: for every remote role in a tech company this site offers a separate page. Developers: open a page listing remote jobs for your technology stack!</p>
+          <i class="fa fa-7x fa-categorization"></i>
+          <h3>REMOTE JOBS CATEGORIZED BY JOB TITLE AND TECHNOLOGY STACK</h3>
+          <p>Correct job classification: for every remote role in a tech company this site offers a separate page. Developers: open a page listing remote jobs for your technology stack!</p>
       </div>
       <div class="feature_teaser col-sm-4 col-md-4">
+          <i class="fa fa-7x fa-collection"></i>
         <h3>SEARCH 872 JOBS FROM 12 JOB BOARDS IN ONE PLACE</h3>
         <p>Remote jobs scattered across generic job sites, job boards for developers/designers and specialized remote job board. This site makes the process of finding a remote job easier.</p>
       </div>
@@ -39,26 +42,30 @@ layout: default
 <section class="hgroup">
     <div class="container" style="padding-top: 0px; border-bottom: none;">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <a id="jobs"><h2 class="section_header elegant">{{ site.data.jobnav[site.jobnav_developers_node].title }}</h2></a>
-                <p></p>
                 {% for node in site.data.jobnav[site.jobnav_developers_node].subnodes %}
-                <p><a href="{{ node.url }}">{{ node.home_title }}</a> - {{ node.tagline }}
-                </p>
+                    <a href="{{ node.url }}"><i style="{{ node.img_style }}" class="{{ node.img }}"></i></a>
+                    <strong><a href="{{ node.url }}">{{ node.home_title }}.</a></strong>
+                    {{ node.tagline }}
+                    <p style="line-height: 1;">&nbsp;</p>
                 {% endfor %}
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <h2 class="section_header elegant">{{ site.data.jobnav[site.jobnav_tech_node].title }}</h2>
                 {% for node in site.data.jobnav[site.jobnav_tech_node].subnodes %}
-                <p><a href="{{ node.url }}">{{ node.home_title }}</a> - {{ node.tagline }}
-                </p>
+                    <a href="{{ node.url }}"><i style="{{ node.img_style }}" class="{{ node.img }}"></i></a>
+                    <strong><a href="{{ node.url }}">{{ node.home_title }}.</a></strong>
+                    {{ node.tagline }}
+                    <p style="line-height: 1;">&nbsp;</p>
                 {% endfor %}
-            </div>
-            <div class="col-md-4">
+
                 <h2 class="section_header elegant">{{ site.data.jobnav[site.jobnav_nontech_node].title }}</h2>
                 {% for node in site.data.jobnav[site.jobnav_nontech_node].subnodes %}
-                <p><a href="{{ node.url }}">{{ node.home_title }}</a> - {{ node.tagline }}
-                </p>
+                    <a href="{{ node.url }}"><i style="{{ node.img_style }}" class="{{ node.img }}"></i></a>
+                    <strong><a href="{{ node.url }}">{{ node.home_title }}.</a></strong>
+                    {{ node.tagline }}
+                    <p style="line-height: 1;">&nbsp;</p>
                 {% endfor %}
             </div>
         </div>
