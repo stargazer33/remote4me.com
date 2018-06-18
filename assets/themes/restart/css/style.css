@@ -6066,7 +6066,8 @@ header .container {
   float: left;
   margin: 0 6px 0 0;
   height: 90px;
-  padding-bottom: 23px;
+  padding-top: 16px;
+  padding-bottom: 22px;
 }
 .navbar a.navbar-brand span.logo_title {
   font-size: 36px;
