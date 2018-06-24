@@ -107,7 +107,7 @@ div.homepage-f1 {
 }
 
 div.homepage-f2 {
-    background-image: url(/assets/svg/f_categorized_1_min.svg);
+    background-image: url(/assets/svg/f_categorized_1_v2_min.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -119,4 +119,5 @@ div.homepage-f3 {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    text-align: center;
 }
