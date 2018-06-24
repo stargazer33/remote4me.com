@@ -88,6 +88,7 @@ a.detail-icon:visited{
 
 }
 
+/* background on the home page */
 @media screen and (min-width: 768px) {
     section.call_to_action {
         background-image: url(/assets/svg/background1-15_opt.svg);
@@ -96,3 +97,26 @@ a.detail-icon:visited{
     }
 }
 
+/* features on the home page */
+div.homepage-f1 {
+    background-image: url(/assets/svg/f_prefiltered_v2_min.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+div.homepage-f2 {
+    background-image: url(/assets/svg/f_categorized_1_min.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+div.homepage-f3 {
+    background-image: url(/assets/svg/f_one_place_min.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
