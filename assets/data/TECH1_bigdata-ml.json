@@ -3636,44 +3636,6 @@
     "published": "May 1, 2018 6:58:05 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<div>                  <span>SolarWinds Cloud | Sr Data Engineer | SF / US-REMOTE | Full-time | <a href='https://solarwinds.jobs/jobs/?q=cloud' rel='nofollow'>https://solarwinds.jobs/jobs/?q=cloud</a><p>We're looking for a full-time software engineer to take a key role in building the large-scale distributed systems that power Solarwinds Cloud products: Papertrail (Real Time Logging), AppOptics (Server, Infrastructure, Application Performance Monitoring and Distributed Tracing), Pingdom (DEM) and Loggly (Structured Log Analysis).</p><p>We’re a small team so everyone has the opportunity to have a big impact. We’ve built our platform out largely on Java8 Dropwizard services, a handful of Golang services and some C++ where performance is critical. We leverage Kafka as our main service bus, Cassandra for long term storage, our in-house stream processing framework for online analytics, ClickHouse for large scale log storage, and we rely on Zookeeper as a core part of intra/inter-service coordination. Our data pipeline pushes millions of messages a second and tens of terabytes of logs per day.</p><p>All team members, whether in San Francisco, one of many offices, or remote, commit code to Github, communicate over Slack and Hangouts, push code to production via our ChatOps bot, and run all production applications on AWS. We also use an array of best-breed SaaS applications to get code to production quickly and reliably. We are a team that is committed to a healthy work/life balance.</p><p>At SolarWinds Cloud you get all the benefits of a small startup, with the backing of a big company so there is no worry about the next round of funding. SolarWinds offers competitive bonus and matching 401k programs that create an attractive total compensation package.</p><p>This is an example of some of the technology we build and work with on a regular basis: <a href='http://www.heavybit.com/library/blog/streamlining-distributed-stream-processing-with-superchief/' rel='nofollow'>http://www.heavybit.com/library/blog/streamlining-distribute...</a>.</p><p>Learn more at: <a href='https://solarwinds.jobs/jobs/?q=cloud' rel='nofollow'>https://solarwinds.jobs/jobs/?q=cloud</a> or contact me directly at mike-at-solarwinds.cloud (no recruiters).<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>"
-  },
-  {
-    "id": "CuxUkfcwQx6ldHdEVgPNAA",
-    "url": "https://remote.com/jobs/browse/preview/backend-developer-18",
-    "title": "Backend Developer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=10, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/nodejs",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml",
-      "nodejs"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 30, 2018 7:44:12 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "JOB TYPE: Full time<br /><br />EXPERIENCE: intermediate<br /><br />COMPANY: Waldo; 0-25 employees; 0-25% remote;<br /><br />SKILLS: <br />• Node.js<br /><br />Backend Developer, working with a team of 4 strong engineers on very deep technical problems. Computer Vision, Machine Learning experience is a plus."
   }
 ]
 }
