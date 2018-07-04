@@ -1,6 +1,228 @@
 {
  "items": [
   {
+    "id": "3rKcQGVBQWWto0nqZillVQ",
+    "url": "https://www.remotejobr.com/jobs/integrations-and-backend-engineer",
+    "title": "Integrations and Backend Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:embedded-linux/embedded/8",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lisp/other/10",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=18, other=10, dotnet=0, c=1, mobile=5, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=4, gamedev=0, php=0, embedded=16, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 4, 2018 2:45:16 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div>                <br>                <div><p></p>                            <h2>Integrations and Backend Engineer</h2>                            <p>      </p><p>  <strong>Headquarters:</strong> Austin, TX    <br><strong>URL:</strong> <a href='https://mavn.is' rel='nofollow'>https://mavn.is</a></p><div>Integrations and Backend Engineer</div><div><br></div><div>MAVN is growing! This listing is for an Integrations and Backend Services Engineer.</div><div><br></div><div>MAVN provides high quality and affordable online ordering services for restaurants all over America. Our clients depend on our field devices, backend services, and point-of-sale integrations for serious fractions of overall revenue. Customers using our product depend on it working all the time, every time, so that their tacos come up as close as possible to the promised time.</div><div><br></div><div>MAVN is building out more systems than ever to support our growing client list and the integrations their customers clamor for. The good ship MAVN needs a few additional hands in the engine room to work on our Postgres database, APIs, background services and new integrations with point-of-sale systems, loyalty companies, gift card companies, payment companies, and more! The number of orders we deliver to restaurants is growing at an awesome monthly rate, and we need folks who can help us scale this monster.</div><div><br></div><div>In your first few quarters with MAVN, you'll build a few integrations between our systems and third-party systems, in the process learning our data model, and loading our infrastructure, deploy, tooling, and software philosophy into your head. As we grow comfortable with each other's work, we may task you with carving parts of our legacy monolith into services, or shanghaied into the frontend rewrite. As you integrate as a full member of the team, you will help us set standards, design systems, think rigorously, and do the right thing for our clients, their customers, and the whole company.</div><div><br></div><div>We're big fans of RDBMSen, and leverage our database's type system wherever we can. We're pragmatic testers, with a custom DB-layer testing system that you'll probably get a kick out of.</div><div><br></div><div>Since we're growing quickly, you'll have a lot of autonomy in how you perform your work. Our short term roadmap is focused on launching a complete rewrite of the customer-facing software, but once the bulk of that is off of the Engineering team's plate, there will be a bunch of awesome new projects that we'll need your hands on.</div><div><br></div><div>MAVN is a Texas company with remote employees in far-flung parts of the United States. We collaborate over git, email, and chat.</div><div><br></div><div>Organizational and technical responsibilities:</div><div>- new systems development</div><div>- uptime of the systems that you build</div><div>- support core MAVN products</div><div>- maintenance and bug fixes against your and others' code</div><div>- support of customer-facing staff as appropriate</div><div><br></div><div>Technical qualifications:</div><div>- several years of experience with Linux</div><div>- experience working with common backend languages (Python, Java, Ruby)</div><div>- experience with Common Lisp or similar (nice-to-have)</div><div><br></div><div>Personality and interpersonal characteristics:</div><div>- comfortable working remotely, and collaborating asynchronously over chat</div><div>- receptive to code review feedback</div><div>- comfortable with the oncall lifestyle</div><div>- curious, self-starting, hard-working, detail-oriented</div><div>- know when you're stuck, can ask questions instead of spinning fruitlessly</div><div><br></div><div>The MAVN engineering team:</div><div>- opinionated and argumentative, but never dogmatic</div><div>- preference for strong type systems and data integrity</div><div>- values prudence and caution in the code we write and how we deploy it (we're responsible for other people's money and their tacos coming up on time)</div><div>- takes the time to build things well</div><div>- strong preference for simplicity and correctness</div><div>- 100% remote</div><div>- very few meetings or phone calls</div><div><br></div><div>The MAVN stack and roadmap:</div><div>- we're migrating our embedded Linux product to an Android application</div><div>- we're chipping a legacy Django monolith apart</div><div>- new APIs are completely decoupled from legacy Django machinery</div><div>- we run on a SQL data store</div><div>- we use AWS judiciously</div><div>- we write APIs largely with stored procedures</div><div>- we write services largely with Common Lisp</div><div>- we write frontend applications with React and Typescript</div><div><br></div><div>Career opportunities:</div><div>- build software merchants rely on for a significant fraction of their revenue</div><div>- scale our database horizontally as we add ever-larger customers and serve ever more tacos</div><div>- build out new services to grow our competetive advantage</div><div>- build APIs to support growth and integration with more partners</div><div>- invent and build new products for the restaurant industry</div><div>- tackle scaling challenges as we hit them</div><div><br></div><p><strong>To apply:</strong> <a rel='nofollow'><span>[email&nbsp;protected]</span></a></p>    <p></p>        <p>            </p></div>        <br>            </div><div>            </div>"
+  },
+  {
+    "id": "ZS5x-zJZTwuG7SIdRt2mmg",
+    "url": "https://weworkremotely.com/remote-jobs/mavn-integrations-and-backend-engineer",
+    "title": "MAVN: Integrations and Backend Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:embedded-linux/embedded/8",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lisp/other/10",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=18, other=10, dotnet=0, c=1, mobile=5, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=4, gamedev=0, php=0, embedded=16, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 4, 2018 2:37:15 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div>  <div>    <h2>Integrations and Backend Engineer</h2>      <h4>Posted Jul  3</h4>    <h3>      <span>MAVN</span><br>      <span>Headquarters: Austin, TX</span><br>        <a href='https://mavn.is' rel='nofollow'>https://mavn.is</a>      <br>      <a rel='nofollow'>View all MAVN jobs →</a>    </h3>  </div></div>  <div>    <div>Integrations and Backend Engineer</div><div><br></div><div>MAVN is growing! This listing is for an Integrations and Backend Services Engineer.</div><div><br></div><div>MAVN provides high quality and affordable online ordering services for restaurants all over America. Our clients depend on our field devices, backend services, and point-of-sale integrations for serious fractions of overall revenue. Customers using our product depend on it working all the time, every time, so that their tacos come up as close as possible to the promised time.</div><div><br></div><div>MAVN is building out more systems than ever to support our growing client list and the integrations their customers clamor for. The good ship MAVN needs a few additional hands in the engine room to work on our Postgres database, APIs, background services and new integrations with point-of-sale systems, loyalty companies, gift card companies, payment companies, and more! The number of orders we deliver to restaurants is growing at an awesome monthly rate, and we need folks who can help us scale this monster.</div><div><br></div><div>In your first few quarters with MAVN, you'll build a few integrations between our systems and third-party systems, in the process learning our data model, and loading our infrastructure, deploy, tooling, and software philosophy into your head. As we grow comfortable with each other's work, we may task you with carving parts of our legacy monolith into services, or shanghaied into the frontend rewrite. As you integrate as a full member of the team, you will help us set standards, design systems, think rigorously, and do the right thing for our clients, their customers, and the whole company.</div><div><br></div><div>We're big fans of RDBMSen, and leverage our database's type system wherever we can. We're pragmatic testers, with a custom DB-layer testing system that you'll probably get a kick out of.</div><div><br></div><div>Since we're growing quickly, you'll have a lot of autonomy in how you perform your work. Our short term roadmap is focused on launching a complete rewrite of the customer-facing software, but once the bulk of that is off of the Engineering team's plate, there will be a bunch of awesome new projects that we'll need your hands on.</div><div><br></div><div>MAVN is a Texas company with remote employees in far-flung parts of the United States. We collaborate over git, email, and chat.</div><div><br></div><div>Organizational and technical responsibilities:</div><div>- new systems development</div><div>- uptime of the systems that you build</div><div>- support core MAVN products</div><div>- maintenance and bug fixes against your and others' code</div><div>- support of customer-facing staff as appropriate</div><div><br></div><div>Technical qualifications:</div><div>- several years of experience with Linux</div><div>- experience working with common backend languages (Python, Java, Ruby)</div><div>- experience with Common Lisp or similar (nice-to-have)</div><div><br></div><div>Personality and interpersonal characteristics:</div><div>- comfortable working remotely, and collaborating asynchronously over chat</div><div>- receptive to code review feedback</div><div>- comfortable with the oncall lifestyle</div><div>- curious, self-starting, hard-working, detail-oriented</div><div>- know when you're stuck, can ask questions instead of spinning fruitlessly</div><div><br></div><div>The MAVN engineering team:</div><div>- opinionated and argumentative, but never dogmatic</div><div>- preference for strong type systems and data integrity</div><div>- values prudence and caution in the code we write and how we deploy it (we're responsible for other people's money and their tacos coming up on time)</div><div>- takes the time to build things well</div><div>- strong preference for simplicity and correctness</div><div>- 100% remote</div><div>- very few meetings or phone calls</div><div><br></div><div>The MAVN stack and roadmap:</div><div>- we're migrating our embedded Linux product to an Android application</div><div>- we're chipping a legacy Django monolith apart</div><div>- new APIs are completely decoupled from legacy Django machinery</div><div>- we run on a SQL data store</div><div>- we use AWS judiciously</div><div>- we write APIs largely with stored procedures</div><div>- we write services largely with Common Lisp</div><div>- we write frontend applications with React and Typescript</div><div><br></div><div>Career opportunities:</div><div>- build software merchants rely on for a significant fraction of their revenue</div><div>- scale our database horizontally as we add ever-larger customers and serve ever more tacos</div><div>- build out new services to grow our competetive advantage</div><div>- build APIs to support growth and integration with more partners</div><div>- invent and build new products for the restaurant industry</div><div>- tackle scaling challenges as we hit them</div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p><a href='mailto:benv%2Bjobs@mavn.is' rel='nofollow'>benv+jobs@mavn.is</a></p>  </div>"
+  },
+  {
+    "id": "6ZuHcp6mQbSRRg7eQdwejg",
+    "url": "https://news.ycombinator.com/item?id=17446233",
+    "title": "CAPTIVATEIQ (WELL-FUNDED+PAYING CUSTOMERS, YC-W18)| BACK-END and FRONT-END ENGINEERS | SF, CA (HQ) or REMOTE (US/Canada-Only) | $100K - $140K + EQUITY",
+    "tags": [
+      "DBG:surround``headquart 3N remot",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 3, 2018 2:32:07 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<span>CAPTIVATEIQ (WELL-FUNDED+PAYING CUSTOMERS, YC-W18)| BACK-END and FRONT-END ENGINEERS | SF, CA (HQ) or REMOTE (US/Canada-Only) | $100K - $140K + EQUITY<p>At CaptivateIQ, we are working hard at enabling companies to create, calculate, and optimize incentive plans for their sales force. You will work on projects and features that directly empower customers to drive their top line. As a young and well-funded start-up, you will also have direct impact and autonomy to affect all aspects of the business.</p><p>CaptivateIQ is backed by Amity Ventures, Bessemer Venture Partners, Foundation Capital, S28 Capital, and Y-Combinator.</p><p>Ideal Background: - 2+ years of experience in a software engineer role - Experience with Python, Django, JavaScript, and React - Prior start-up experience</p><p>About Our Benefits: - Defined / protected vacation days (we want our employees to take a break without feeling guilty) - Medical, dental, and vision insurance</p><p>Contact: mark@captivateiq.com</p><p>Please no recruiters / headhunters.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span>"
+  },
+  {
+    "id": "KEexAP2JSUOVMVUs13dm_Q",
+    "url": "https://news.ycombinator.com/item?id=17446184",
+    "title": "Elation Health | Software Engineer/Lead & QA | REMOTE & San Francisco, CA & San Diego / Encinitas, CA | Full Time",
+    "tags": [
+      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 2W hour",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/America/West"
+    ],
+    "tagsNames1": [
+      "US Pacific time zone"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 3, 2018 2:22:06 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<span>Elation Health | Software Engineer/Lead &amp; QA | REMOTE &amp; San Francisco, CA &amp; San Diego / Encinitas, CA | Full Time<p>At Elation we make tools for physicians and their patients that improve the efficiency and fidelity of their relationship, and help to make the delivery of excellent, proactive healthcare possible. We've got a number of roles available in engineering, design, and sales. See them all here: <a href='https://www.elationhealth.com/careers/' rel='nofollow'>https://www.elationhealth.com/careers/</a></p><p>Specifically I'm closely involved with trying to fill our positions in engineering. Looking for Eng Leads, Software Developers, Quality Assurance Analysts. Our engineering team is about half based in our San Francisco office and half remote (remote for us is PST +/- 3 hours). Tech stack is AWS/Python/Django/MySQL/ReactJS. We have a great team full of folks that really value working closely with product, customer-experience, and users. Lots of interesting problems to solve! We're also looking to grow our footprint in north-San Diego Count, where I'm based.</p><p>Apply online or reach out to me directly if you have any questions or are curious! I'm always happy to chat with folks about healthcare, startups, whatever. Contact info's in profile.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span>"
+  },
+  {
+    "id": "vzQn3aWrRkuETsOqCl-R5w",
+    "url": "https://news.ycombinator.com/item?id=17445599",
+    "title": "Doctor On Demand | Engineering, Clinical, Product/Design, and Business Positions | SF, MN, DC | Full-time | REMOTE",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 3, 2018 12:49:06 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<span>Doctor On Demand | Engineering, Clinical, Product/Design, and Business Positions | SF, MN, DC | Full-time | REMOTE<p>Doctor On Demand’s mission is to improve the world’s health through compassionate care and innovation. We enable anyone to see a Physician, Psychologist or Psychiatrist using their smartphone or computer anytime, anywhere. Four years after launch, we are now one of the leading telemedicine providers in the country and are growing our engineering team. We have hubs in San Francisco, Minnesota and DC but also have a strong remote work culture with some of our best engineers working remotely full-time across the US.</p><p>We are also actively hiring Physicians and Mental Health professionals for 100% remote positions.</p><p>Stack: Python, Django, PostgreSQL, Redis, Celery / RabbitMQ, Angular, Kubernetes (and more)</p><p>More info: <a href='https://doctorondemand.com/about-us/careers' rel='nofollow'>https://doctorondemand.com/about-us/careers</a></p><p>Apply Here: <a href='https://www.doctorondemand.com/jobs' rel='nofollow'>https://www.doctorondemand.com/jobs</a> (use Other -&gt; Hacker News as the source)</p><p>Questions? hn@doctorondemand.com<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span>"
+  },
+  {
     "id": "BPx-1S8STZC5N-AHD4Utuw",
     "url": "https://stackoverflow.com/jobs/161873/software-engineer-product-development-britecore?a=ShNVVJXW9EI",
     "title": "Software Engineer (Product Development) at BriteCore (Springfield, MO) ",
@@ -198,6 +420,232 @@
     "published": "Jul 2, 2018 8:32:07 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<span>Clover Health | San Francisco, CA or Jersey City, NJ | Software Engineers &amp; Data Scientists | Full-Time ONSITE or REMOTEClover is reinventing health insurance by working to keep people healthier. We're looking for seasoned engineers and data scientists to help us solve the most complicated problem in the world: healthcare.<p>We're using sophisticated data analytics, custom software, and machine learning to coordinate care and build a clearer model of our member's health and risk factors. We are on a mission to help seniors and low-income members live healthier while keeping costs down. This is an opportunity for those who want to be at the intersection of health and technology and thrive in a collaborative environment as well as the freedom of self-direction.</p><p>Tech Stack: Postgres, Python, Flask/Django, Frontend: React Cloud Services: Aptible, AWS, GCP Data Stack: Airflow</p><p>If you are interested in any of the Data Science and Engineering roles: <a href='https://www.cloverhealth.com/en/about-us/careers' rel='nofollow'>https://www.cloverhealth.com/en/about-us/careers</a></p><p>To learn more about working here, check out our tech blog: <a href='https://technology.cloverhealth.com/' rel='nofollow'>https://technology.cloverhealth.com/</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span>"
+  },
+  {
+    "id": "1a6bSaprS7SRPJMJWvTEHQ",
+    "url": "https://www.remoteage.com/remote-jobs/back-end-developer-krit/",
+    "title": "Back-end developer",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:django/python/24",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:techWeightMap:{python=32, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=16, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2018 4:55:05 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2> Back-end developer</h2><div>Anywhere in the US</div><div>Company: Krit<p></p></div><div>FULL-TIME</div><div><h3>Overview</h3><h2><strong>Who we’re looking for</strong></h2><p><b>Talented back-end developer</b></p><p>We’re looking for a talented backend developer to take the lead on two new projects. We use Django on most projects but have also used Flask and Node as back-end frameworks.&nbsp;If you’re fresh out of college or a code-school, then this probably isn’t the right fit. Someone who’s in a junior role and is ready to take on more responsibility or is more senior, but loves working on a small team could be a great fit.</p><p><b>Familiarity with an opinionated framework</b><br> Experience with an opinionated framework is a must. But if Django isn’t your cup of tea we’re open to working with Rails, Phoenix, etc.</p><p><b>Willingness to help out with front-end</b><br> Because we’re a small team working on a wide variety of projects, you’ll have to be comfortable jumping around and learning new skills with us. You don’t have to be a unicorn. You do need to be willing to step in and help out on the front end.</p><p><b>Excellent communication skills</b><br> Communication is the key to just about everything in life, and this job is no different. We value communication skills over intense experience building scalable applications.</p><p><b>Other qualifiers</b><br> If this sounds like you, then consider applying! You’d be a great fit if:</p><ul><li>You are comfortable working with an opinionated framework like Django, Rails or Phoenix.</li><li>You’re able to make smart architectural choices and balance the trade-offs that come with building a Minimum Viable Product.</li><li>You’re comfortable shipping updates almost every day and tweaking things as you go rather than polishing a feature until it’s perfect.</li><li>You can write well-tested and documented code.</li><li>You’re not afraid of JavaScript and front-end frameworks.</li></ul><p>We’re based in Charleston, SC and would prefer to find someone who is here or willing to relocate. But we are open to working remotely with the right candidate.</p><h2><strong>What it’s like to be a Kritter</strong></h2><p><b>You’ll be a human, not a number</b></p><p>While we’re not perfect, we are crazy-passionate about creating a great place to work. We’re striving to build a culture that’s respectful, kind, supportive, and challenging. You won’t just be a number here, you’ll have a measurable impact on the direction of the business.<br> <b>You’ll enjoy the perks of a startup AND a balanced life</b></p><p>Working here is like working at a startup without the roller coaster. Or at least a much smaller, more manageable rollercoaster. We have flexible hours, a dog-friendly office, and a mini-fridge full of LaCroix. But we don’t expect you to be here until 10:00 every night.&nbsp;After breaks, meetings and life, we expect everyone to get in about 6 billable hours in a day. We don’t have unlimited vacation, because we want to make sure you actually use your vacation days.</p><p><b>You’ll be a part of an inclusive, transparent company</b></p><p>One of our goals is to build a more diverse company. To us, this means diversity of race, gender, sexual orientation, religion, ethnicity, and national origin. We strongly believe in building an inclusive workplace where everyone feels safe and invited. We are also a fully transparent company. We share our finances, salaries, pipeline and more.</p><p><b>As developers:&nbsp;</b></p><ul><li>We’re focused on hitting business goals for our clients. Not building for building’s sake.</li><li>Design is core to everything we do; development often yields to design.</li><li>We use opinionated frameworks, so we can spend less time building the same old crap and more time focusing on what matters.</li><li>We write our code as if we’ll need to hand it off at any moment. That means tests, documentation, and lots of comments.</li><li>We’re not perfect. We’re always learning and getting better.</li></ul><p><b>You’ll be part of an engaged team</b></p><p>Every day at 4:00 we have a standing meeting where we check in and make sure we’re staying on track. Each week we have a team meeting where we look at project management, our finances, and the pipeline. Once a month you’ll have a one-to-one meeting with Andrew (our CEO) where you’ll look at your goals, progress, and be encouraged to give us feedback.</p><h2><strong>All roles at Krit come with:</strong></h2><p>&nbsp;<b>Competitive&nbsp;Salary:&nbsp;</b>This will be a salaried position paid $70,200 per year, with opportunity to move up in salary as the company grows and becomes more profitable.</p><p>⚕️&nbsp;<b>Health, dental and vision:</b>&nbsp;We offer access to health insurance, dental and vision plans for all employees.</p><p>&nbsp;<b>Work from home optional:&nbsp;</b>While we like to have everyone in our office in Charleston when possible, we have experience working remotely. If you’re in Charleston but just need to work from home, that’s fine.</p><p>⏰&nbsp;<b>Flexible hours:&nbsp;</b>Everyone is different. As long as you can be available for team meetings and are able to communicate effectively with the team, work when you work best. We do expect you to average about 6 billable hours per day.</p><p><b>&nbsp;Equipment budget:&nbsp;</b>Every new employee gets $2,500 to spend on equipment, so you can pick whatever works best for you.</p><p><b>&nbsp;Free books (and/or Audible subscription):&nbsp;</b>Reading makes you smarter, and smarter people do better work. We’ll pay for an audible subscription or buy you any new books, related to your work, that you’re craving to read.</p><p>&nbsp;<b>Fitbit:&nbsp;</b>We value living a healthy lifestyle and weren’t sure how to manage gym memberships. So we’ll buy you a fitbit when you join the team.</p><p><b>&nbsp;Dog-friendly office:&nbsp;</b>Bring your pups to work! Duck (Andrew’s dog) is currently our office mascot, and he’s always looking for new furry friends.</p><p>&nbsp;<b>Krit Day:&nbsp;</b>On April 10, we take the day off and do something fun that doesn’t involve work in the slightest. Last year we devoured pounds of barbecue, went bowling, and played Clue. Yes, that Clue.</p><p>&nbsp;<b>Team lunches:&nbsp;</b>At least once a month we get out of the office and eat food together. It’s a chance to spend some quality time as a team and try a tasty place in Charleston!</p><h2><strong>How to apply</strong></h2><p>First, submit an application. If we think you might be a good fit, we’ll schedule a short, 30-minute phone interview with Andrew. During this time, you’ll get to know each other and dive into your background., If the phone interview indicates you’re a good fit, we’ll schedule a more in-depth 1-2 hour technical interview with our team.</p><p><b>The technical interview will consist of 3 parts:<br> </b></p><ul><li>Get to know the other Kritters and talk about your past projects.</li><li>Code review – you’ll review code that we’ve written and talk through how you would improve it.</li><li>System design – we’ll present a project and talk through the design and architecture of the system with you.</li></ul><p>There isn’t a coding portion of the interview, but you will be expected to communicate effectively, interpret code, and discuss architecture trade-offs.</p><p>We’re looking to fill this position by August 1st. During the process we’ll do our best to let you know if it’s not going to be a good fit. Thank you for taking the time to read this far, we can’t wait to meet you!</p><p></p><p></p><p></p><div> <a href='https://krit.homerun.co/back-end-developer/en/apply' rel='nofollow'>Apply for job</a></div></div>"
+  },
+  {
+    "id": "mGa9p5QXTPikbd6223QpZQ",
+    "url": "https://whereverjobs.com/listing/3374/full-stack-engineer-strong-python-build-the-smartest-way-to-buy-a-car",
+    "title": "Full Stack Engineer (Strong Python) - Build the smartest way to buy a car",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG:surround``posit 5W 2N(from,anywher)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=28, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2018 5:02:11 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Full Stack Engineer (Strong Python) - Build the smartest way to buy a car</h3><div>Company: Unhaggle Inc.<br><br></div><div>                                <div>Unhaggle is currently the #1 web portal in Canada for new car buying. The data we provide powers our own tools and products, including our flagship consumer car buying service at Unhaggle.com and leading automotive portals including Yahoo Autos, MSN Autos, Autofocus, AutoGuide, Globe Drive, and others. We have also recently partnered with auto makers to launch a large eCommerce platform allowing the complete purchase of new cars online.</div><div><br></div><div>We are looking for a Full Stack Engineer with experience in Python and web application development. This is a full-time remote position, we accept applications from anywhere in the world.</div><div><br></div><div>We use GitHub to manage tasks and code reviews as well as tools/services like Travis-CI, Docker, New Relic, Sentry, Browserstack, Stripe, Twilio and Redis. Our dev team is regularly connected in Slack for communication. We are constantly seeking the best tools available for our development team.</div><div><br></div><div><b>You will be primarily involved in the following projects/areas:</b></div><div><br></div><div>* Our new eCommerce platform for new car buying, serving major car brands</div><div>* Our web portal unhaggle.com</div><div>* Several enterprise SaaS products</div><div>* REST APIs, for integration with different partners<br></div><div></div><div>* An internal and innovative SaaS web application we built for industry clients</div><div>* Widgets we built for third-party integration, they run in some of the most popular auto websites in Canada.</div><div>* Maintenance of our test suite and code base</div><div>* Implementation of new features</div><div>* We take quality seriously and you should expect to be involved in well written code bases following standards such as PEP-8 and good software engineering practices.</div><div><br></div><div><b>Requirements:</b></div><div><br></div><div>* Strong hands on experience with Python, experience with Django is important, but we might still be willing to consider candidates with strong Python skills and none or little knowledge with Django.</div><div>* Strong web development experience: we expect that you know XHTML, CSS and Javascript well. Hands on experience with Javascript frameworks is a big plus</div><div>* Track record of delivering completed projects, preferably web-based</div><div>* Good SQL knowledge and databases, PostgreSQL is a plus</div><div>* You should be very familiar with Linux</div><div>* Experience using version control software, Git is a plus</div><div>* Understanding of code best practices and standards. We also expect that you follow PEP-8 style guide and use tools like Pyflakes and Pylint very often</div><div>* Experience writing Python test cases is a plus. Prior experience with TDD and/or Selenium is a plus.</div><div>* Easy-going personality. You will actively participate in design discussions and code review</div><div>* This position might grow into a technical lead position. Experience leading development teams is a plus</div><div><br></div><div>We are helping consumers to get the best price on new cars in Canada and changing the industry along the way. Working at Unhaggle brings unique challenges, you will have the opportunity to leave a large footprint and have real impact in the product we ship every day to our customers.</div><div><br></div><div>No relocation available, we are a distributed team.</div><div><br></div>            </div><div>Please submit resume and cover letter to <a href='mailto:evandro@unhaggle.com' rel='nofollow'>evandro@unhaggle.com</a></div>"
+  },
+  {
+    "id": "hnSZE6o_Qs61hMTS2FYPog",
+    "url": "https://whereverjobs.com/listing/3373/experienced-3d-software-engineers-for-awesome-cutting-edge-projects-ar-vr-raytracing-webgl-ios-and-more",
+    "title": "Experienced 3D Software Engineers for AWESOME cutting edge projects (AR, VR, raytracing, webgl, iOS, and more)",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:ios/apple/6",
+      "DBG_TECH1:k/t/w:ios/mobile/6",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:opengl/c/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:k/t/w:unity3d/gamedev/16",
+      "DBG_TECH1:k/t/w:unity3d/mobile/10",
+      "DBG_TECH1:k/t/w:unreal-engine/gamedev/8",
+      "DBG_TECH1:techWeightMap:{python=18, other=0, dotnet=5, c=15, mobile=24, go=0, nodejs=1, bigdata-ml=8, ruby=0, apple=11, java=0, gamedev=24, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/gamedev",
+      "TECH1/mobile",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "gamedev",
+      "mobile",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2018 5:02:10 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Experienced 3D Software Engineers for AWESOME cutting edge projects (AR, VR, raytracing, webgl, iOS, and more)</h3><div>Company: 4D Pipeline<br><br></div><div>                                <div>Come join one of the best teams you can imagine. Work on great projects, getting sh!t done, make products people love!</div><div><br></div><div>Having a Great Team has been our simple formula for our success.<br></div><div></div><div>We are looking for seasoned and experienced developers who are brilliant at what they do.<br></div><div></div><div>In return - we will give you great work, great clients, great team, and a long term great profitable relationship.<br></div><div></div><div>You get to work with some of the best Brands and companies in the world, companies like Epic Games, AUDI, AMD, Intel, NVIDIA, IKEA, BMW Mini, VANS, Unity Technology, Xerox PARC, and many others, including fast growing startups.&nbsp;</div><div><br></div><div>You'll be playing a key role in each project and will be&nbsp;continuously&nbsp;learning new technologies and working on cutting edge products. Most of all, you'll enjoy your work and the people you work with and we'll do all that we can to help you meet and exceed your goals.</div><div><br></div><div>Conditions:<br></div><div></div><div>- Work from anywhere in the world (Europe or Eastern Europe preferred (but not required)).<br></div><div></div><div>- Unless otherwise stated, a minimum of 30 hours per week (ideally 40) - must be able to work week days - not just weekends. If you have a fulltime job please do not apply.<br></div><div></div><div>- Must be an individual not an agency/firm.<br></div><div></div><div>- As part of our hiring process you will have a video interview and a programming test.&nbsp;<br></div><div></div><div>- Working English required</div><div><br></div><div>We are looking for experienced programmers with:</div><div>- 3D graphics development experience with a focus on working with OpenGL/DirectX/WebGL, and 3D engines.&nbsp;</div><div>- Ideally with Virtual Reality and/or Augmented Reality experience.&nbsp;</div><div>- Strong bonus to have Unity or Unreal Engine experience&nbsp;</div><div>- Bonus to have mobile experience (esp. iOS Swift experience)</div><div>- Bonus to have WebGL experience&nbsp;</div><div>- Bonus to have Shader experience&nbsp;</div><div>- Bonus to have Raytracing experience Background in games, 3D visualization, or CAD a bonus&nbsp;</div><div>- Bonus to have web experience and/or Django experience (we are also seeking a Django developer)&nbsp;</div><div>- Primarily languages - C++ / C# / Javascript / Python</div><div><br></div><div>Any questions - happy to answer.</div><div><br></div><div>&nbsp;</div><div><br></div>            </div><div>Please send in your CV and/or LinkedIN profile to:awesomejob@<a href='http://4Dpipeline.com' rel='nofollow'>4Dpipeline.com</a>Please highlight some of your past 3D graphics experience you have. </div>"
+  },
+  {
+    "id": "55Op_7_hRE-m_uVk_v3CJg",
+    "url": "https://whereverjobs.com/listing/3372/senior-backend-engineer",
+    "title": "Senior Backend Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=12, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=15}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2018 5:02:09 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Senior Backend Engineer</h3><div>Company: DataQuest<br><br></div><div>                                <div>At&nbsp;<a href='https://dataquest.io/' rel='nofollow'>Dataquest</a>, we teach data science to a community of hundreds of thousands of students worldwide. We help students deeply learn concepts, build projects, work together, and gain the confidence they need to start new careers. Read more about our philosophy&nbsp;<a href='https://www.dataquest.io/blog/the-perfect-data-science-learning-tool/' rel='nofollow'>here</a>, and read what students think&nbsp;<a href='https://www.switchup.org/bootcamps/dataquest' rel='nofollow'>here</a>.</div><div><br></div><div>We're looking for a senior backend engineer with operations experience to help support and evolve our learning platform. We currently need the most help in migrating our existing monolithic codebase to a more distributed architecture, but you will also likely be jumping in on crafting an infrastructure roadmap, developing new microservices, mentoring other engineers, and offering opinions on devops. You'll have a lot of autonomy in how you work and what you work on, as long as it's having an impact on our students.</div><div><br></div><div>This is a fully remote role and we are open to applications worldwide. You don't have to match all of the listed requirements to apply -- we're looking for people who can grow along with our team, so please reach out if this job is interesting to you.</div><div><br></div><div><span>Requirements</span></div><div><br></div><div>We don't have a concrete set of requirements on skills. We know that any problem you are working on requires research; otherwise it wouldn't be a problem. Rather, we'd like to describe some traits that a successful developer in this role might have:</div><div><br></div><ul><li>You’re able to dive into a complicated Python codebase and confidently make changes.</li><li>You think about how to measure the effectiveness of the features you work on.</li><li>You can lead architectural discussions and create roadmaps.</li><li>You enjoy mentoring other engineers, and sometimes you stare into space thinking about how you would explain a topic to someone less familiar with it.</li><li>If a merge request deletes more code than it creates, you think it's a good day.</li><li>You aim to improve reliability and performance when you refactor.</li><li>You’re eager to ask questions if you don't understand something and initial research isn't helping.</li><li>If you're blocked on something, you instinctively find other things to contribute while you wait.</li><li>When you hear about a new technology, you wonder how it can improve your work rather than worrying about having to learn it.</li><li>You’re excited about Devops, and you enjoy architecting and improving infrastructure.</li></ul><div></div><div></div><div><br></div><div><span>Our Stack</span></div><div><br></div><div>These are some of the technologies you'll be working with at Dataquest, though you may end up introducing new ones:</div><div><br></div><ul><li>Our frontend is a modern react/redux stack utilizing cutting edge javascript/ecmascript features.</li><li>Communication with the backend happens over a combination of websockets, GraphQL, and REST APIs.</li><li>The main backend is Django on Python 3 utilizing Celery, Django-channels, and graphene.</li><li>We have a few microservices in Asyncio and Node, and plan to build more.</li><li>We use Docker extensively, both for student code execution, and for deployment of our services.</li><li>We use Kubernetes on Google Cloud to orchestrate our containers in production.</li><li>Our data is largely stored in Postgres, with some caching in Redis.</li><li>We use git for source control and Circle CI for pipelines.</li></ul><div><span>Why you should work at Dataquest</span></div><div><br></div><div>At Dataquest, you'll get:</div><div><br></div><ul><li>The opportunity to see your impact on the lives of our students every day.</li><li>The chance to work with an engaged and mission-driven team.</li><li>The chance to contribute to product direction and decisions.</li><li>Autonomy and control over how you work.</li><li>The ability to work remotely.</li><li>A supportive environment where you can get help when you run into blockers.</li></ul><div></div><div><br></div><div>The salary range for this role is $80k USD - $100k USD per year, and it's a full-time remote role.</div><div><br></div>            </div><div><a href='https://dataquest.breezy.hr/p/9f6b02bf5fec-senior-backend-engineer?sourceWhereverJobs' rel='nofollow'>dataquest.breezy.hr/p/9f6b02bf5fec-senior-backend-engineer</a></div>"
+  },
+  {
+    "id": "Xf-VGf6NT8GhpBT-ay4Jng",
+    "url": "https://whereverjobs.com/listing/3369/backend-engineer",
+    "title": "Backend Engineer",
+    "tags": [
+      "DBG:surround``5N( cultur, 2N(remot, OR(work,worker)) )",
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/24",
+      "DBG_TECH1:k/t/w:time-series/bigdata-ml/5",
+      "DBG_TECH1:techWeightMap:{python=20, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=5, ruby=0, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=26}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2018 5:02:06 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Backend Engineer</h3><div>Company: Density Inc.<br><br></div><div>                                <div><span></span></div><div><span>When someone installs Density in a location, they get access to real time, accurate people count. The experience is magical to a customer, but the process involved in accomplishing it is complex. We are seeking a talented backend engineer to help architect a suite of web-based products for our customers and for ourselves, to transform our data into knowledge.</span></div><div><br></div><div><span>The software systems that support Density are foundational: our customer facing APIs and applications, the systems that manage and orchestrate our fleet of devices, and the internal tools that keep our organization running smoothly. We put a high value on the infrastructure that supports our systems, and love approaching problems through research, prototyping, and experimentation. We are not afraid to embrace new technologies, but are mindful in what we choose. &nbsp;</span></div><div><br></div><div><span>As an organization, we understand the importance of design, focusing on fundamental problems, and decentralizing decision making. As an engineering team, we design, build, and test with simplicity and scalability in mind. As individuals, we take ownership in our work and decisions. We’re looking for someone with a deep understanding of the web who shares these ideals.</span></div><div><br></div><div><span>This position reports to Density's Director of Web &amp; Mobile Applications.</span></div><div><br></div><div><h3><span>What you'll work on</span></h3></div><ul><li><span>Lead backend development on internal and customer facing projects, utilizing Python and Django</span><br></li><li><span>Build APIs and data delivery mechanisms for applications such as web dashboards, alerting &amp; health systems, mobile applications, and third party integrations</span><br></li><li><span>Contribute to frontend application development using ES6, React, and Redux</span><br></li><li><span>React to customer needs and feedback through tight-looped, iterative development</span><br></li><li><span>Contribute to open source initiatives</span><br></li><li><span>Document and teach best practices across our stack</span><br><br></li></ul><div><h3><span>What we're looking for</span></h3></div><ul><li><span>5+ years industry experience building and scaling web applications and APIs</span><br></li><li><span>Deep experience with Python and Django</span><br></li><li><span>Experience with relational &amp; non-relational databases</span><br></li><li><span>An understanding and appreciation for application performance monitoring and profiling tools</span><br></li><li><span>A desire to define, document, and teach web engineering standards</span><br></li><li><span>Strong writing skills, with experience crafting clear and concise documentation</span><br></li><li><span>A motivation for constant learning</span><br><br></li></ul><div><h3><span>Icing on the cake</span></h3></div><ul><li><span>A strong appreciation for design</span><br></li><li><span>Experience with building applications using ES6, React, and Redux</span><br></li><li><span>Experience building data-centric applications, including analytics pipelines, report generation systems, and alerting &amp; health systems</span><br></li><li><span>Experience with statistical analysis and trend data modeling</span><br></li><li><span>Experience working with time series databases</span><br><br></li></ul><div><span>While we have offices in Syracuse (NY), San Francisco, and NYC, we embrace and have built a culture around remote work.</span><br></div><div></div>            </div><div><a href='https://jobs.lever.co/density/48c5dc5b-b108-4fdd-bfc8-bb341445b165/apply?lever-sourceWhereverJobs' rel='nofollow'>jobs.lever.co/density/48c5dc5b-b108-4fdd-bfc8-bb341445b165/apply</a></div>"
   },
   {
     "id": "X9KQJ9LrTWK_vOwDKDfTmw",
@@ -789,6 +1237,56 @@
     "published": "Jun 27, 2018 4:07:45 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<div>  <div>    <h2>Senior Backend Engineer</h2>      <h4>Posted Jun 27</h4>    <h3>      <span>DataQuest</span><br>      <span>Headquarters: San Francisco, CA</span><br>        <a href='https://dataquest.breezy.hr/p/9f6b02bf5fec-senior-backend-engineer?source=weworkremotely' rel='nofollow'>https://dataquest.breezy.hr/p/9f6b02bf5fec-senior-backend-engineer?source=weworkremotely</a>      <br>      <a rel='nofollow'>View all DataQuest jobs →</a>    </h3>  </div>    </div>  <div>    <div>At&nbsp;<a href='https://dataquest.io/' rel='nofollow'>Dataquest</a>, we teach data science to a community of hundreds of thousands of students worldwide. We help students deeply learn concepts, build projects, work together, and gain the confidence they need to start new careers. Read more about our philosophy&nbsp;<a href='https://www.dataquest.io/blog/the-perfect-data-science-learning-tool/' rel='nofollow'>here</a>, and read what students think&nbsp;<a href='https://www.switchup.org/bootcamps/dataquest' rel='nofollow'>here</a>.</div><div><br></div><div>We're looking for a senior backend engineer with operations experience to help support and evolve our learning platform. We currently need the most help in migrating our existing monolithic codebase to a more distributed architecture, but you will also likely be jumping in on crafting an infrastructure roadmap, developing new microservices, mentoring other engineers, and offering opinions on devops. You'll have a lot of autonomy in how you work and what you work on, as long as it's having an impact on our students.</div><div><br></div><div>This is a fully remote role and we are open to applications worldwide. You don't have to match all of the listed requirements to apply -- we're looking for people who can grow along with our team, so please reach out if this job is interesting to you.</div><div><br></div><div><span>Requirements</span></div><div><br></div><div>We don't have a concrete set of requirements on skills. We know that any problem you are working on requires research; otherwise it wouldn't be a problem. Rather, we'd like to describe some traits that a successful developer in this role might have:</div><div><br></div><ul><li>You’re able to dive into a complicated Python codebase and confidently make changes.</li><li>You think about how to measure the effectiveness of the features you work on.</li><li>You can lead architectural discussions and create roadmaps.</li><li>You enjoy mentoring other engineers, and sometimes you stare into space thinking about how you would explain a topic to someone less familiar with it.</li><li>If a merge request deletes more code than it creates, you think it's a good day.</li><li>You aim to improve reliability and performance when you refactor.</li><li>You’re eager to ask questions if you don't understand something and initial research isn't helping.</li><li>If you're blocked on something, you instinctively find other things to contribute while you wait.</li><li>When you hear about a new technology, you wonder how it can improve your work rather than worrying about having to learn it.</li><li>You’re excited about Devops, and you enjoy architecting and improving infrastructure.</li></ul><div></div><div></div><div><br></div><div><span>Our Stack</span></div><div><br></div><div>These are some of the technologies you'll be working with at Dataquest, though you may end up introducing new ones:</div><div><br></div><ul><li>Our frontend is a modern react/redux stack utilizing cutting edge javascript/ecmascript features.</li><li>Communication with the backend happens over a combination of websockets, GraphQL, and REST APIs.</li><li>The main backend is Django on Python 3 utilizing Celery, Django-channels, and graphene.</li><li>We have a few microservices in Asyncio and Node, and plan to build more.</li><li>We use Docker extensively, both for student code execution, and for deployment of our services.</li><li>We use Kubernetes on Google Cloud to orchestrate our containers in production.</li><li>Our data is largely stored in Postgres, with some caching in Redis.</li><li>We use git for source control and Circle CI for pipelines.</li></ul><div><span>Why you should work at Dataquest</span></div><div><br></div><div>At Dataquest, you'll get:</div><div><br></div><ul><li>The opportunity to see your impact on the lives of our students every day.</li><li>The chance to work with an engaged and mission-driven team.</li><li>The chance to contribute to product direction and decisions.</li><li>Autonomy and control over how you work.</li><li>The ability to work remotely.</li><li>A supportive environment where you can get help when you run into blockers.</li></ul><div></div><div><br></div><div>The salary range for this role is $80k USD - $100k USD per year, and it's a full-time remote role.</div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p><a href='https://dataquest.breezy.hr/p/9f6b02bf5fec-senior-backend-engineer?source=weworkremotely' rel='nofollow'>https://dataquest.breezy.hr/p/9f6b02bf5fec-senior-backend-engineer?source=weworkremotely</a></p>  </div>"
+  },
+  {
+    "id": "Q6cW6ZFFSuChKu41vsFngQ",
+    "url": "https://whereverjobs.com/listing/3313/remote-software-qa-engineer-europe-full-time",
+    "title": "Remote Software QA Engineer - Europe - Full Time",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c#/c/4",
+      "DBG_TECH1:k/t/w:c#/dotnet/10",
+      "DBG_TECH1:k/t/w:c++/c/16",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:com/dotnet/8",
+      "DBG_TECH1:k/t/w:py.test/python/16",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:shell/other/4",
+      "DBG_TECH1:k/t/w:unity3d/gamedev/8",
+      "DBG_TECH1:k/t/w:unity3d/mobile/5",
+      "DBG_TECH1:techWeightMap:{python=22, other=4, dotnet=18, c=25, mobile=5, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/dotnet",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "c",
+      "dotnet",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 27, 2018 5:02:08 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Remote Software QA Engineer - Europe - Full Time</h3><div>Company: Cvedia PTE. LTD.<br><br></div><div>                                <div><span></span></div><div><span>CVEDIA is looking for a QA generalist to help us develop, maintain and expand our tests and mission critical CI/CD. Focusing on keeping systems sane for weekly builds on several concurrent projects you will be also writing documentation among with mainly pytest based functional tests and some unit tests for our jenkins testing framework.</span></div><div></div><div><br></div><div><span>Responsibilities:</span></div><div></div><div><br></div><div><span>- Creating and maintaining automated tests for our CI/CD pipeline (python, shell, c#, c++)</span></div><div><br></div><div><span>- Maintaining and expanding the existing CI/CD pipeline (jenkins, shell)</span></div><div><br></div><div><span>- Expanding and perfecting systems public documentation (markdown)</span></div><div><br></div><div><span>- Help educating developers improving code, QA and workflows</span></div><div><br></div><div><span>- Provide and develop overview and metrics to improve project development and quality overall</span></div><div></div><div><br></div><div><span>Required qualifications:</span></div><div></div><div><br></div><div><span>- Python</span></div><div><br></div><div><span>- C#</span></div><div><br></div><div><span>- Shell scripting</span></div><div><br></div><div><span>- Linux</span></div><div><br></div><div><span>- Jenkins</span></div><div><br></div><div><span>- Strong written and verbal communication skills</span></div><div><br></div><div><span>- Strong attention to detail</span></div><div></div><div><br></div><div><span>Desired qualifications:</span></div><div></div><div><br></div><div><span>- C/C++</span></div><div><br></div><div><span>- Unity3D</span></div><div><br></div><div><span>- Unreal</span></div><div><br></div><div><span>- pytest</span></div><div><br></div><div><span>- Docker</span></div><div><br></div><div><span>- Image manipulation understanding</span></div><div></div><div><br></div><div><span>What we offer:</span></div><div></div><div><br></div><div><span>Job location is in Cyberspace.</span></div><div></div><div><br></div><div><span>- Communication with the all team members is done through Skype</span></div><div><br></div><div><span>- Salary will be paid once a month with a wire transfer</span></div><div><br></div><div><span>- Job capacity: Monday - Friday (8 hours daily) </span></div><div></div><div><br></div><div><span>How should you apply for this job?</span></div><div></div><div><br></div><ul><li><span>Please state on the mail subject the job position you are applying for.</span><br><br></li><li><span>Only applications written in English are going to be processed!</span><br><br></li><li><span>Due to time zone difficulties Only applications that are based in Europe will be processed.</span><br><br></li><li><span>Please mention your country of origin in the email. </span><br><br></li><li><span>Please send your applications to jobs at cvedia dot com</span><br></li></ul><div><br></div>            </div><div>Send a resume to <a href='mailto:jobs@cvedia.com' rel='nofollow'>jobs@cvedia.com</a></div>"
   },
   {
     "id": "2E8MFuEIShyFiSazJz3xCA",
@@ -3398,43 +3896,6 @@
     "published": "May 7, 2018 6:13:51 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Full-time</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>System Administrator</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Banking, Bitcoin, Cryptocurrency</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>Xapo is a leading bitcoin wallet, and we have a mission to bring bitcoin to the everyday lives of people across the world. We are looking for REMOTE Senior Python Developer, ideally with Netsuite experience to join us!</p><p>We&nbsp;need top-tier engineers with a successful track record of finding solutions for complex problems. Xapo has a unique, dynamic work environment as most of our teams work remotely, hence we need engineers who are self-sufficient, flexible and able to learn our technologies and the Xapo way of doing things with minimal supervision quickly.</p><p>The ideal candidate will be a seasoned developer with proven experience in backend development using python, with strong knowledge of MySQL programming and Redis. The successful candidate will lead the development of&nbsp;horizontally scalable, high-performance applications.&nbsp;This position is 90% backend and 10% front end. Experience with fin-tech and trading platforms development is a strong plus.</p><p>We are looking for 5+ Developers</p><p><strong>Some perks of working with Xapo:</strong></p><ul><li>Attractive compensation – highly competitive!</li><li>Stock Options Grant</li><li>Flexible working hours</li><li>Remote job/working from wherever you want!</li><li>To join a successful startup Company growing passably</li></ul><p><strong>Requirements</strong></p><p><strong>Must Haves</strong></p><p>- 7+ years of Python experience</p><p>- 5+ years of MySql and Redis experience</p><p>-&nbsp;3-5 years experience of REST/RESTful, JSON, or Web API&nbsp;</p><p>- Strong problem-solving and communication skills and enjoys a collaborative environment&nbsp;</p><p>- Flexible, self-starter, fast-learner – willing and able to quickly learn new technologies and skills</p><p><strong>Nice to Have</strong></p><p>- Flask, docker, uwsgi and NGINX, experience.</p><p>- Cryptocurrency experience [ideally Bitcoin]</p><p>- Netsuite experience(strong nice to have)</p><p>- Solid Javascript and jquery skills</p><p>- Knowledge of HTML, CSS development</p><p>- Experience using Git, Stash, Jira</p><p>- Experience with other major development language and frameworks like C, C++, Java or.NET, Node.js is&nbsp; desirable</p><p>- Experience with other front-end frameworks like Prototype, Undersore.js, etc&nbsp;</p><p>- Mobile development knowledge</p><p>- Bilingual in English and Spanish</p><p>- Experience within fin-tech and knowledge of Bitcoins would be ideal</p>                    </div>                            <h2>                About Xapo            </h2>            <div><p>Xapo is a leading bitcoin wallet, and we have a mission to bring bitcoin to the everyday lives of people across the world. Our business is growing fast, and we want to make sure we can keep providing the best quality support to our customers. We’re known for our fast responses to users, positive attitude, and a real desire to find the best working solutions to the people who chose to use Xapo’s products and services.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Attractive compensation – highly competitive!                            </div>                            <div>                                 Remote job/working from wherever you want!                            </div>                            <div>                                 Flexible working hours                            </div>                            <div>                                 Equity opportunities                            </div>                            <div>                                 Stock Options Grant                            </div>                    "
-  },
-  {
-    "id": "45gnoLufR2iuK464CZj8RA",
-    "url": "https://news.ycombinator.com/item?id=16995417",
-    "title": "Springbuk | Principal Backend Engineer | Growth-Stage | Full-time | Indianapolis | REMOTE | Competitive Salary + Equity",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python",
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 4, 2018 6:43:06 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<div>                  <span>Springbuk | Principal Backend Engineer | Growth-Stage | Full-time | Indianapolis | REMOTE | Competitive Salary + Equity<p>At Springbuk, we’re undergoing a major platform re-architecture in response to our rapidly scaling customer base. We need your help to lead that transition from monolith to microservices and from data analysis that works to data analysis that scales.</p><p>• Product: Health Intelligence Platform for Self Insured Employers, Brokers, and Wellness Companies (<a href='https://www.springbuk.com' rel='nofollow'>https://www.springbuk.com</a>)</p><p>• Raised our $20M Series B in Feb. Total money in ~$25M.</p><p>• Strong revenue and product growth 3 years in a row.</p><p>• 1500+ paid employer customers on the platform</p><p>• Tech: Ruby, Python, Postgres, Elasticsearch, AWS</p><p>== Full Description / Apply ==</p><p><a href='https://hire.withgoogle.com/public/jobs/springbukcom/view/P_AAAAAADAAADPNsE0Xc1T-t' rel='nofollow'>https://hire.withgoogle.com/public/jobs/springbukcom/view/P_...</a><span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>"
   }
 ]
 }

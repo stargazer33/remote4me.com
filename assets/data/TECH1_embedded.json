@@ -1,6 +1,295 @@
 {
  "items": [
   {
+    "id": "3rKcQGVBQWWto0nqZillVQ",
+    "url": "https://www.remotejobr.com/jobs/integrations-and-backend-engineer",
+    "title": "Integrations and Backend Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:embedded-linux/embedded/8",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lisp/other/10",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=18, other=10, dotnet=0, c=1, mobile=5, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=4, gamedev=0, php=0, embedded=16, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 4, 2018 2:45:16 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div>                <br>                <div><p></p>                            <h2>Integrations and Backend Engineer</h2>                            <p>      </p><p>  <strong>Headquarters:</strong> Austin, TX    <br><strong>URL:</strong> <a href='https://mavn.is' rel='nofollow'>https://mavn.is</a></p><div>Integrations and Backend Engineer</div><div><br></div><div>MAVN is growing! This listing is for an Integrations and Backend Services Engineer.</div><div><br></div><div>MAVN provides high quality and affordable online ordering services for restaurants all over America. Our clients depend on our field devices, backend services, and point-of-sale integrations for serious fractions of overall revenue. Customers using our product depend on it working all the time, every time, so that their tacos come up as close as possible to the promised time.</div><div><br></div><div>MAVN is building out more systems than ever to support our growing client list and the integrations their customers clamor for. The good ship MAVN needs a few additional hands in the engine room to work on our Postgres database, APIs, background services and new integrations with point-of-sale systems, loyalty companies, gift card companies, payment companies, and more! The number of orders we deliver to restaurants is growing at an awesome monthly rate, and we need folks who can help us scale this monster.</div><div><br></div><div>In your first few quarters with MAVN, you'll build a few integrations between our systems and third-party systems, in the process learning our data model, and loading our infrastructure, deploy, tooling, and software philosophy into your head. As we grow comfortable with each other's work, we may task you with carving parts of our legacy monolith into services, or shanghaied into the frontend rewrite. As you integrate as a full member of the team, you will help us set standards, design systems, think rigorously, and do the right thing for our clients, their customers, and the whole company.</div><div><br></div><div>We're big fans of RDBMSen, and leverage our database's type system wherever we can. We're pragmatic testers, with a custom DB-layer testing system that you'll probably get a kick out of.</div><div><br></div><div>Since we're growing quickly, you'll have a lot of autonomy in how you perform your work. Our short term roadmap is focused on launching a complete rewrite of the customer-facing software, but once the bulk of that is off of the Engineering team's plate, there will be a bunch of awesome new projects that we'll need your hands on.</div><div><br></div><div>MAVN is a Texas company with remote employees in far-flung parts of the United States. We collaborate over git, email, and chat.</div><div><br></div><div>Organizational and technical responsibilities:</div><div>- new systems development</div><div>- uptime of the systems that you build</div><div>- support core MAVN products</div><div>- maintenance and bug fixes against your and others' code</div><div>- support of customer-facing staff as appropriate</div><div><br></div><div>Technical qualifications:</div><div>- several years of experience with Linux</div><div>- experience working with common backend languages (Python, Java, Ruby)</div><div>- experience with Common Lisp or similar (nice-to-have)</div><div><br></div><div>Personality and interpersonal characteristics:</div><div>- comfortable working remotely, and collaborating asynchronously over chat</div><div>- receptive to code review feedback</div><div>- comfortable with the oncall lifestyle</div><div>- curious, self-starting, hard-working, detail-oriented</div><div>- know when you're stuck, can ask questions instead of spinning fruitlessly</div><div><br></div><div>The MAVN engineering team:</div><div>- opinionated and argumentative, but never dogmatic</div><div>- preference for strong type systems and data integrity</div><div>- values prudence and caution in the code we write and how we deploy it (we're responsible for other people's money and their tacos coming up on time)</div><div>- takes the time to build things well</div><div>- strong preference for simplicity and correctness</div><div>- 100% remote</div><div>- very few meetings or phone calls</div><div><br></div><div>The MAVN stack and roadmap:</div><div>- we're migrating our embedded Linux product to an Android application</div><div>- we're chipping a legacy Django monolith apart</div><div>- new APIs are completely decoupled from legacy Django machinery</div><div>- we run on a SQL data store</div><div>- we use AWS judiciously</div><div>- we write APIs largely with stored procedures</div><div>- we write services largely with Common Lisp</div><div>- we write frontend applications with React and Typescript</div><div><br></div><div>Career opportunities:</div><div>- build software merchants rely on for a significant fraction of their revenue</div><div>- scale our database horizontally as we add ever-larger customers and serve ever more tacos</div><div>- build out new services to grow our competetive advantage</div><div>- build APIs to support growth and integration with more partners</div><div>- invent and build new products for the restaurant industry</div><div>- tackle scaling challenges as we hit them</div><div><br></div><p><strong>To apply:</strong> <a rel='nofollow'><span>[email&nbsp;protected]</span></a></p>    <p></p>        <p>            </p></div>        <br>            </div><div>            </div>"
+  },
+  {
+    "id": "xkNbBomvQ1eBKH4nMplQwA",
+    "url": "https://www.remotejobr.com/jobs/android-and-web-developer",
+    "title": "Android and Web Developer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/17",
+      "DBG_TECH1:k/t/w:android/mobile/34",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:embedded-linux/embedded/32",
+      "DBG_TECH1:k/t/w:embedded/c/4",
+      "DBG_TECH1:k/t/w:embedded/embedded/32",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lisp/other/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=16, other=5, dotnet=0, c=4, mobile=35, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=19, gamedev=0, php=0, embedded=64, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 4, 2018 2:45:16 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div>                <br>                <div><p></p>                            <h2>Android and Web Developer</h2>                            <p>      </p><p>  <strong>Headquarters:</strong> Austin, TX    <br><strong>URL:</strong> <a href='https://mavn.is' rel='nofollow'>https://mavn.is</a></p><div>Android and Web Engineer</div><div><br></div><div>MAVN is growing! This listing is for an Android/Web Technologies engineer.</div><div><br></div><div>MAVN provides high quality and affordable online ordering services for restaurants all over America. Our clients depend on our field devices and point-of-sale integrations to be as bulletproof as possible given that we deploy to actual physical restaurants.</div><div><br></div><div>We're sunsetting the embedded Linux device we use to print orders and notify restaurants in favor of an Android application. We have grand designs for what merchants will be able to use this new app for, but for now the big focus is in migrating from the embedded Linux machines to Android tablets. This area of responsibility could be yours!</div><div><br></div><div>In your first few quarters with MAVN, you'll take the code that powers our existing Android integration services, and adapt it for use as a standalone app. As other engineers on the team build out APIs to support our backoffice rewrite, you'll help design and implement APIs that the new Android app will consume as well.</div><div><br></div><div>MAVN is a Texas company with remote employees in far-flung parts of the United States. Work happens over git, email, and chat.</div><div><br></div><div>Organizational and technical responsibilities:</div><div>- leverage and rewrite existing Android code</div><div>- reimplement the core functionality of our embedded Linux devices on Android tablets</div><div>- support other core MAVN products</div><div>- support stability of your Android code in the field</div><div>- uptime and reliability for services that you write</div><div>- supporting our Customer Support staff</div><div><br></div><div>Technical qualifications:</div><div>- several years experience in a professional software development environment</div><div>- strong knowledge of the Android ecosystem and build toolchain</div><div>- strong Java abilities</div><div>- professional experience with user interface development in Android and the browser stack</div><div><br></div><div>Personality and interpersonal:</div><div>- comfortable working from home and collaborating asynchronously over chat</div><div>- receptive to code review feedback</div><div>- curious, self-starting, hard-working, detail-oriented</div><div>- know when you're stuck, can ask questions instead of spinning fruitlessly</div><div><br></div><div>The MAVN engineering team:</div><div>- opinionated and argumentative, but never dogmatic</div><div>- preference for strong type systems and data integrity</div><div>- values prudence and caution in the code we write and how we deploy it (we're responsible for other people's money and their tacos coming up on time)</div><div>- takes the time to build things well</div><div>- strong preference for simplicity and correctness</div><div>- 100% remote</div><div>- very few meetings or phone calls</div><div><br></div><div>The MAVN stack and roadmap:</div><div>- we're migrating our embedded Linux product to an Android application</div><div>- we're chipping a legacy Django monolith apart</div><div>- new APIs are completely decoupled from legacy Django machinery</div><div>- we run on a SQL data store</div><div>- we use AWS judiciously</div><div>- we write APIs largely with stored procedures</div><div>- we write services largely with Common Lisp</div><div>- we write frontend applications with React and Typescript</div><div><br></div><div>Career opportunities:</div><div>- build an app that merchants will rely on for a significant fraction of their revenue</div><div>- enable our support staff to be the superstars our clients need</div><div>- scale our database horizontally as we add ever-larger customers and serve ever more tacos</div><div>- work on Android and Web applications, delivering best-in-class user experiences for online ordering</div><div>- build APIs to support growth and integration with more partners</div><div>- invent and build new products for the restaurant industry</div><div><br></div><p><strong>To apply:</strong> <a rel='nofollow'><span>[email&nbsp;protected]</span></a></p>    <p></p>        <p>            </p></div>        <br>            </div><div>            </div>"
+  },
+  {
+    "id": "d9TQUGpzSkWRSA-D_qL9pQ",
+    "url": "https://weworkremotely.com/remote-jobs/mavn-android-and-web-developer",
+    "title": "MAVN: Android and Web Developer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/17",
+      "DBG_TECH1:k/t/w:android/mobile/34",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:embedded-linux/embedded/32",
+      "DBG_TECH1:k/t/w:embedded/c/4",
+      "DBG_TECH1:k/t/w:embedded/embedded/32",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lisp/other/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=16, other=5, dotnet=0, c=4, mobile=35, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=19, gamedev=0, php=0, embedded=64, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 4, 2018 2:42:06 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div>  <div>    <h2>Android and Web Developer</h2>      <h4>Posted Jul  3</h4>    <h3>      <span>MAVN</span><br>      <span>Headquarters: Austin, TX</span><br>        <a href='https://mavn.is' rel='nofollow'>https://mavn.is</a>      <br>      <a rel='nofollow'>View all MAVN jobs →</a>    </h3>  </div></div>  <div>    <div>Android and Web Engineer</div><div><br></div><div>MAVN is growing! This listing is for an Android/Web Technologies engineer.</div><div><br></div><div>MAVN provides high quality and affordable online ordering services for restaurants all over America. Our clients depend on our field devices and point-of-sale integrations to be as bulletproof as possible given that we deploy to actual physical restaurants.</div><div><br></div><div>We're sunsetting the embedded Linux device we use to print orders and notify restaurants in favor of an Android application. We have grand designs for what merchants will be able to use this new app for, but for now the big focus is in migrating from the embedded Linux machines to Android tablets. This area of responsibility could be yours!</div><div><br></div><div>In your first few quarters with MAVN, you'll take the code that powers our existing Android integration services, and adapt it for use as a standalone app. As other engineers on the team build out APIs to support our backoffice rewrite, you'll help design and implement APIs that the new Android app will consume as well.</div><div><br></div><div>MAVN is a Texas company with remote employees in far-flung parts of the United States. Work happens over git, email, and chat.</div><div><br></div><div>Organizational and technical responsibilities:</div><div>- leverage and rewrite existing Android code</div><div>- reimplement the core functionality of our embedded Linux devices on Android tablets</div><div>- support other core MAVN products</div><div>- support stability of your Android code in the field</div><div>- uptime and reliability for services that you write</div><div>- supporting our Customer Support staff</div><div><br></div><div>Technical qualifications:</div><div>- several years experience in a professional software development environment</div><div>- strong knowledge of the Android ecosystem and build toolchain</div><div>- strong Java abilities</div><div>- professional experience with user interface development in Android and the browser stack</div><div><br></div><div>Personality and interpersonal:</div><div>- comfortable working from home and collaborating asynchronously over chat</div><div>- receptive to code review feedback</div><div>- curious, self-starting, hard-working, detail-oriented</div><div>- know when you're stuck, can ask questions instead of spinning fruitlessly</div><div><br></div><div>The MAVN engineering team:</div><div>- opinionated and argumentative, but never dogmatic</div><div>- preference for strong type systems and data integrity</div><div>- values prudence and caution in the code we write and how we deploy it (we're responsible for other people's money and their tacos coming up on time)</div><div>- takes the time to build things well</div><div>- strong preference for simplicity and correctness</div><div>- 100% remote</div><div>- very few meetings or phone calls</div><div><br></div><div>The MAVN stack and roadmap:</div><div>- we're migrating our embedded Linux product to an Android application</div><div>- we're chipping a legacy Django monolith apart</div><div>- new APIs are completely decoupled from legacy Django machinery</div><div>- we run on a SQL data store</div><div>- we use AWS judiciously</div><div>- we write APIs largely with stored procedures</div><div>- we write services largely with Common Lisp</div><div>- we write frontend applications with React and Typescript</div><div><br></div><div>Career opportunities:</div><div>- build an app that merchants will rely on for a significant fraction of their revenue</div><div>- enable our support staff to be the superstars our clients need</div><div>- scale our database horizontally as we add ever-larger customers and serve ever more tacos</div><div>- work on Android and Web applications, delivering best-in-class user experiences for online ordering</div><div>- build APIs to support growth and integration with more partners</div><div>- invent and build new products for the restaurant industry</div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p><a href='mailto:benv%2Bjobs@mavn.is' rel='nofollow'>benv+jobs@mavn.is</a></p>  </div>"
+  },
+  {
+    "id": "ZS5x-zJZTwuG7SIdRt2mmg",
+    "url": "https://weworkremotely.com/remote-jobs/mavn-integrations-and-backend-engineer",
+    "title": "MAVN: Integrations and Backend Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:embedded-linux/embedded/8",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lisp/other/10",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=18, other=10, dotnet=0, c=1, mobile=5, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=4, gamedev=0, php=0, embedded=16, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 4, 2018 2:37:15 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div>  <div>    <h2>Integrations and Backend Engineer</h2>      <h4>Posted Jul  3</h4>    <h3>      <span>MAVN</span><br>      <span>Headquarters: Austin, TX</span><br>        <a href='https://mavn.is' rel='nofollow'>https://mavn.is</a>      <br>      <a rel='nofollow'>View all MAVN jobs →</a>    </h3>  </div></div>  <div>    <div>Integrations and Backend Engineer</div><div><br></div><div>MAVN is growing! This listing is for an Integrations and Backend Services Engineer.</div><div><br></div><div>MAVN provides high quality and affordable online ordering services for restaurants all over America. Our clients depend on our field devices, backend services, and point-of-sale integrations for serious fractions of overall revenue. Customers using our product depend on it working all the time, every time, so that their tacos come up as close as possible to the promised time.</div><div><br></div><div>MAVN is building out more systems than ever to support our growing client list and the integrations their customers clamor for. The good ship MAVN needs a few additional hands in the engine room to work on our Postgres database, APIs, background services and new integrations with point-of-sale systems, loyalty companies, gift card companies, payment companies, and more! The number of orders we deliver to restaurants is growing at an awesome monthly rate, and we need folks who can help us scale this monster.</div><div><br></div><div>In your first few quarters with MAVN, you'll build a few integrations between our systems and third-party systems, in the process learning our data model, and loading our infrastructure, deploy, tooling, and software philosophy into your head. As we grow comfortable with each other's work, we may task you with carving parts of our legacy monolith into services, or shanghaied into the frontend rewrite. As you integrate as a full member of the team, you will help us set standards, design systems, think rigorously, and do the right thing for our clients, their customers, and the whole company.</div><div><br></div><div>We're big fans of RDBMSen, and leverage our database's type system wherever we can. We're pragmatic testers, with a custom DB-layer testing system that you'll probably get a kick out of.</div><div><br></div><div>Since we're growing quickly, you'll have a lot of autonomy in how you perform your work. Our short term roadmap is focused on launching a complete rewrite of the customer-facing software, but once the bulk of that is off of the Engineering team's plate, there will be a bunch of awesome new projects that we'll need your hands on.</div><div><br></div><div>MAVN is a Texas company with remote employees in far-flung parts of the United States. We collaborate over git, email, and chat.</div><div><br></div><div>Organizational and technical responsibilities:</div><div>- new systems development</div><div>- uptime of the systems that you build</div><div>- support core MAVN products</div><div>- maintenance and bug fixes against your and others' code</div><div>- support of customer-facing staff as appropriate</div><div><br></div><div>Technical qualifications:</div><div>- several years of experience with Linux</div><div>- experience working with common backend languages (Python, Java, Ruby)</div><div>- experience with Common Lisp or similar (nice-to-have)</div><div><br></div><div>Personality and interpersonal characteristics:</div><div>- comfortable working remotely, and collaborating asynchronously over chat</div><div>- receptive to code review feedback</div><div>- comfortable with the oncall lifestyle</div><div>- curious, self-starting, hard-working, detail-oriented</div><div>- know when you're stuck, can ask questions instead of spinning fruitlessly</div><div><br></div><div>The MAVN engineering team:</div><div>- opinionated and argumentative, but never dogmatic</div><div>- preference for strong type systems and data integrity</div><div>- values prudence and caution in the code we write and how we deploy it (we're responsible for other people's money and their tacos coming up on time)</div><div>- takes the time to build things well</div><div>- strong preference for simplicity and correctness</div><div>- 100% remote</div><div>- very few meetings or phone calls</div><div><br></div><div>The MAVN stack and roadmap:</div><div>- we're migrating our embedded Linux product to an Android application</div><div>- we're chipping a legacy Django monolith apart</div><div>- new APIs are completely decoupled from legacy Django machinery</div><div>- we run on a SQL data store</div><div>- we use AWS judiciously</div><div>- we write APIs largely with stored procedures</div><div>- we write services largely with Common Lisp</div><div>- we write frontend applications with React and Typescript</div><div><br></div><div>Career opportunities:</div><div>- build software merchants rely on for a significant fraction of their revenue</div><div>- scale our database horizontally as we add ever-larger customers and serve ever more tacos</div><div>- build out new services to grow our competetive advantage</div><div>- build APIs to support growth and integration with more partners</div><div>- invent and build new products for the restaurant industry</div><div>- tackle scaling challenges as we hit them</div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p><a href='mailto:benv%2Bjobs@mavn.is' rel='nofollow'>benv+jobs@mavn.is</a></p>  </div>"
+  },
+  {
+    "id": "toTc83ZjS_2Ufuwdp_P9vw",
+    "url": "https://news.ycombinator.com/item?id=17453684",
+    "title": "Airtame (https://airtame.com) | Copenhagen, Denmark | Full-time, Onsite/Remote",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:embedded-linux/embedded/8",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=1, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=16, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 4, 2018 12:19:07 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<span>Airtame (<a href='https://airtame.com' rel='nofollow'>https://airtame.com</a>) | Copenhagen, Denmark | Full-time, Onsite/Remote<p>Airtame is a fast-growing startup. Our wireless streaming solution helps people work better. We are based in windy Copenhagen, but have an office in New York that takes care of our U.S. customers. We're currently hiring:</p><p>* Lead DevOps Engineer - Copenhagen, Denmark (<a href='https://airtame.com/jobs?gh_jid=4036513002' rel='nofollow'>https://airtame.com/jobs?gh_jid=4036513002</a>)</p><p>* Head of Engineering - Copenhagen, Denmark (<a href='https://airtame.com/jobs?gh_jid=4031232002' rel='nofollow'>https://airtame.com/jobs?gh_jid=4031232002</a>)</p><p>* Senior Embedded Linux Engineer - Copenhagen, Denmark or Europe (<a href='https://airtame.com/jobs?gh_jid=4010452002' rel='nofollow'>https://airtame.com/jobs?gh_jid=4010452002</a>)</p><p>* Senior Digital Designer - Copenhagen, Denmark (<a href='https://airtame.com/jobs?gh_jid=4010466002' rel='nofollow'>https://airtame.com/jobs?gh_jid=4010466002</a>)</p><p>* Web Developer - Copenhagen, Denmark (<a href='https://airtame.com/jobs?gh_jid=4017568002' rel='nofollow'>https://airtame.com/jobs?gh_jid=4017568002</a>)</p><p>Our talented engineers are given significant ownership and responsibility over projects. We value rapid iteration, continuous integration and testing, and we are serious about producing high-quality, maintainable software. Frequent code reviews, linting, and pairing are all integral components of our engineering culture. We encourage experimenting with new technologies and constantly challenge ourselves to improve our code, processes, and systems.</p><p>Get to know about our Engineering team: <a href='https://www.youtube.com/watch?v=4jUqPWEvMlg' rel='nofollow'>https://www.youtube.com/watch?v=4jUqPWEvMlg</a></p><p>We sponsor work visas for non-EU applicants.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span>"
+  },
+  {
+    "id": "CfBVDLEITAu1rTqRSsTShQ",
+    "url": "https://whereverjobs.com/listing/3333/senior-full-stack-dev-with-ruby-python-react-100-remote-flexible-hours",
+    "title": "SENIOR FULL-STACK DEV WITH RUBY/PYTHON/REACT -- 100% REMOTE, FLEXIBLE HOURS",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``usa 3W OR(time,timezon)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/10",
+      "DBG_TECH1:k/t/w:embedded-linux/embedded/8",
+      "DBG_TECH1:k/t/w:embedded/c/3",
+      "DBG_TECH1:k/t/w:embedded/embedded/24",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:k/t/w:reactjs/frontend/24",
+      "DBG_TECH1:k/t/w:ruby/ruby/10",
+      "DBG_TECH1:k/t/w:velocity/java/8",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=21, mobile=4, go=0, nodejs=14, bigdata-ml=4, ruby=10, apple=2, java=9, gamedev=0, php=0, embedded=32, frontend=33}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "embedded",
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 29, 2018 5:02:07 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>SENIOR FULL-STACK DEV WITH RUBY/PYTHON/REACT -- 100% REMOTE, FLEXIBLE HOURS</h3><div>Company: Analytics Fire<br><br></div><div>                                <div><span><h2><span>Job Description</span></h2></span></div><div><span><br></span></div><div><span>Analytics Fire builds custom software for the solar power industry. We’re looking for a senior full-stack developer with a willingness to acquire deep expertise around Ruby, Python, and React.js, in order to help us expand to support additional new high-tech sectors.</span></div><div><br></div><div><span>Analytics Fire is a small, distributed team working on a range of interesting projects. For example, last year we worked on a scalable IoT platform for utility grade solar power plants, a sales and design tool for residential solar, and a machine-learning powered autonomous cleaning robot. We’re looking for a fun, reliable, and highly collaborative, senior dev to join our team.</span></div><div><br></div><div><span>For reference, here is a list of technologies and tools we are currently actively using on a day-to-day basis:</span></div><div><br></div><ul><li><span>Front-end: JavaScript / React / Angular</span><br><br></li><li><span>Back-end: Ruby / Python / Node.js</span><br><br></li><li><span>Embedded (IoT): C, Embedded Linux, MQTT</span><br><br></li><li><span>Embedded (robotics): C/C++, ROS</span><br><br></li><li><span>Modern software techniques: RESTful APIs, SOA, PaaS, etc</span><br><br></li><li><span>Agile collaboration and DevOps tools: Github, Trello, Slack, Chef, Ansible, Docker, Vagrant, etc</span><br><br></li><li><span>Occasionally we need to do a small amount of work around: SFDC, iOS, Android, ARKit</span><br><br></li></ul><div><span>This is a remote position. We’re flexible about location and hours, so long as your working hours are in a very heavily US-overlapping time zone (eg: North America, Central America, South America, etc). We’re a really great match for a senior dev in a US-overlapping timezone who wants to work hard on interesting projects, while also having flexibility around time and geography.</span><br></div><div></div><div><span><br></span></div><div><h2><span>Skills &amp; Requirements</span></h2></div><div><span><br></span></div><div><span>Ideally, you should have 5+ years commercial full stack development, ideally within a startup environment. You should be comfortable autonomously driving your own high quality / high velocity contributions using a range of technologies.</span></div><div><br></div><div><span>We work with a variety of technologies, but are currently specifically looking for someone that has or can obtain expert level skills around Python, Ruby, and React.js.</span></div><div><br></div><div><h2><span>About Analytics Fire</span></h2></div><div><span><br></span></div><div><span>Analytics Fire was founded by a couple of data-nerds -- one a PHd in machine learning and the other a former VP of Engineering for an analytics platform -- who both are also serial entrepreneurs backed by prominent angels and VCs including Y Combinator and 500 Startups.</span></div><div><br></div><div><span>“Our goal founding, Analytics Fire, was to create the engineering department that we always dreamed of working for. Our dream is to be able to spend our time working on interesting problems, while simultaneously having flexibility around time and geography and being part of a small, tightly-knit team of world-class engineers.”</span></div><div><br></div>            </div><div><a href='mailto:join-us@analyticsfire.com' rel='nofollow'>join-us@analyticsfire.com</a></div>"
+  },
+  {
     "id": "w4qnZcKvT7y0a580z734xg",
     "url": "https://stackoverflow.com/jobs/136187/senior-full-stack-dev-ruby-python-react-100-analytics-fire?a=JFIBXryxPKo",
     "title": "Senior Full-Stack Dev (Ruby/Python/React) - 100% Remote, Flexible Hours at Analytics Fire  ",
