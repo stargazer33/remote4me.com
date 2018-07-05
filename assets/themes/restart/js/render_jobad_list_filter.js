@@ -383,7 +383,7 @@ function computeAuthButtonText() {
 function computeRemoteButtonText() {
   var remoteStr = "Remoteness: 100%";
   if (check50remote) {
-    remoteStr = remoteStr + ", 50% remote";
+    remoteStr = remoteStr + ", 50%";
   }
   return remoteStr;
 }
