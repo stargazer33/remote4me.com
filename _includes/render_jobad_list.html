@@ -3,72 +3,116 @@
 {% assign datafile = thisnodes[0].datafile %}
 {% assign jobadlist = site.data[datafile].items %}
 <section class="hgroup">
-    <div class="container" style="padding-bottom: 0px; padding-top: 0px;">
-        <div class="row searchRow">
-            <form class="col-sm-4 col-md-4" id="jobSearchForm">
-                <div class="input-group">
-                    <label class="sr-only" for="jobSearchInputID">Search</label>
-                    <input type="search" class="form-control" id="jobSearchInputID" placeholder="Search">
-                    <span class="input-group-btn" id="jobSearchGroup">
-                                   <button type="submit" class="btn btn-default btn-primary" id="jobSearchButton">
-                                       <i class="fa fa-search"></i>
-                                   </button>
-                              </span>
-                </div>
+    <div class="container" id="filter-container">
+        <div class="row search-bar">
+
+          <div class="col-lg-6 col-md-5 col-sm-4 col-xs-12">
+            <form id="jobSearchForm">
+              <div class="input-group">
+                  <label class="sr-only" for="jobSearchInputID">Search</label>
+                  <input type="search" class="form-control" id="jobSearchInputID" placeholder="Search">
+                  <span class="input-group-btn" id="jobSearchGroup">
+                     <button type="submit" class="btn btn-default btn-primary" id="jobSearchButton">
+                         <i class="fa fa-search"></i>
+                     </button>
+                  </span>
+              </div>
             </form>
-        </div>
+          </div>
 
-        <div class="row">
-        </div>
+          <div class="col-lg-6 col-md-7 col-sm-8 col-xs-12">
 
-        <div class="row">
-            <div class="col-sm-4 col-md-4">
-                <fieldset style="font-size: 14px; font-weight: 300;line-height: 1.5em;">
+            <div class="btn-group btn-div">
+                <button class="btn btn-default dropdown-toggle btn-filter btn-block" type="button"
+                  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <span id="btn-tz">TZ: Worldwide</span>
+                  <span class="caret"></span>
+                </button>
+                <div class="dropdown-menu">
+                  <fieldset class="dropdown-fields">
                     <div class="radio">
-                        <label><input type="radio" id="checkboxWorldwide" class="filter-checkbox"
-                                      name="optradio" checked="" data-filter="all">Show jobs
-                            worldwide</label>
+                      <input type="radio" id="checkboxWorldwide" class="filter-checkbox"
+                            name="optradio" checked="" data-filter="all">
+                      <label for="checkboxWorldwide">Show jobs worldwide</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" id="checkboxUStz" class="filter-checkbox">Show jobs in
-                            America timezones</label>
+                      <input type="checkbox" id="checkboxUStz" class="filter-checkbox">
+                      <label for="checkboxUStz">
+                        Show jobs in America timezones
+                        <span class="fa fa-check_icon_2" id="checkmark"></span>
+                      </label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" id="checkboxEUtz" class="filter-checkbox">Show jobs in
-                            European timezones</label>
+                      <input type="checkbox" id="checkboxEUtz" class="filter-checkbox">
+                      <label for="checkboxEUtz">
+                        Show jobs in European timezones
+                        <span class="fa fa-check_icon_2" id="checkmark"></span>
+                      </label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" id="checkboxASIAtz" class="filter-checkbox">Show jobs
-                            in Asia\Pacific timezones</label>
+                      <input type="checkbox" id="checkboxASIAtz" class="filter-checkbox">
+                      <label for="checkboxASIAtz">
+                        Show jobs in Asia\Pacific timezones
+                        <span class="fa fa-check_icon_2" id="checkmark"></span>
+                      </label>
                     </div>
-                </fieldset>
-            </div>
-            <div class="col-sm-4 col-md-4">
-                <fieldset>
+                  </fieldset>
+                </div>
+              </div>
+
+            <!-- <div class="btn-group btn-div">
+              <button class="btn btn-default dropdown-toggle btn-filter btn-block" type="button"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span id="btn-auth">Work auth:</span>
+                <span class="caret"></span>
+              </button>
+              <div class="dropdown-menu">
+                <fieldset class="dropdown-fields">
                     <div class="checkbox">
-                        <label><input type="checkbox" id="checkboxUSauth" aria-describedby="help50workauth" class="filter-checkbox">Hide jobs
-                            requiring US work authorization</label>
+                      <input type="checkbox" id="checkboxUSauth" aria-describedby="help50workauth" class="filter-checkbox">
+                      <label for="checkboxUSauth">
+                        Hide jobs requiring US work authorization
+                        <span class="fa fa-check_icon_2" id="checkmark"></span>
+                      </label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" id="checkboxEUauth" aria-describedby="help50workauth" class="filter-checkbox">Hide jobs
-                            requiring EU work authorization</label>
+                      <input type="checkbox" id="checkboxEUauth" aria-describedby="help50workauth" class="filter-checkbox">
+                      <label for="checkboxEUauth">
+                        Hide jobs requiring EU work authorization
+                        <span class="fa fa-check_icon_2" id="checkmark"></span>
+                      </label>
                     </div>
                     <span id="help50workauth" class="help-block filterTip smalltext">Some jobs require that you "..must be GCH(Green Card Holder).." In
                         case you have no such authorization - you can hide such jobs</span>
                 </fieldset>
-            </div>
-            <div class="col-sm-4 col-md-4">
-                <fieldset>
+              </div>
+            </div> -->
+
+            <div class="btn-group btn-div">
+              <button class="btn btn-default dropdown-toggle btn-filter btn-block" type="button"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span  id="btn-remote">Remoteness: 100% remote</span>
+                <span class="caret"></span>
+              </button>
+              <div class="dropdown-menu">
+                <fieldset class="dropdown-fields">
                     <div class="checkbox">
-                        <label><input type="checkbox" id="checkbox50remote" aria-describedby="help50remote" class="filter-checkbox">Show 50%
-                            remote jobs</label>
+                      <input type="checkbox" id="checkbox50remote" aria-describedby="help50remote" class="filter-checkbox">
+                      <label for="checkbox50remote">
+                        Show 50% remote jobs
+                        <span class="fa fa-check_icon_2" id="checkmark"></span>
+                      </label>
                     </div>
                     <span id="help50remote" class="help-block filterTip smalltext">Some job descriptions mention "remote working days" or "occasional
                         remote working". This is a clear indicator that you can not work remote from
                         anywhere. <a href="/faq/2018/04/25/what-does-a-50-percent-remote-job-mean">We name such jobs "50% remote"</a>.</span>
                 </fieldset>
-            </div>
+              </div>
+              </div>
+          </div>
+
         </div>
+
     </div>
 </section>
 

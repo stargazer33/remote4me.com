@@ -86,6 +86,12 @@ $(document).ready(function () {
         $("#jobSearchForm").submit(handleJobSearchFormSubmit);
         $(".filter-checkbox").click(handleClickOnFilterCheckbox);
 
+        // Stop dropdown menu from closing (keep it open) when clicked on one of its elements
+        $("div.dropdown-menu").click(function(event){
+          event.stopPropagation();
+        });
+
+
         var source   = document.getElementById("detailFormatter").innerHTML;
         detailFormatterTemplate = Handlebars.compile(source);
 
@@ -330,6 +336,56 @@ function readCheckboxesState() {
     checkUStz = $('#checkboxUStz').prop('checked');
     checkEUtz = $('#checkboxEUtz').prop('checked');
     checkASIAtz = $('#checkboxASIAtz').prop('checked');
+    handleTextChangeInFilterButtons();
+}
+//Change button text when checkbox or radiobutton is clicked
+function handleTextChangeInFilterButtons() {
+  $("#btn-tz").text(computeTimezoneButtonText());
+  $("#btn-auth").text(computeAuthButtonText());
+  $("#btn-remote").text(computeRemoteButtonText());
+}
+
+// Compute text for timezone button depending on the checked inputs
+function computeTimezoneButtonText() {
+  var tzStr = "TZ:";
+  if (checkWorldwide) {
+    tzStr = tzStr + " Worldwide";
+  }
+  if (checkUStz) {
+    tzStr = tzStr + " US,";
+  }
+  if (checkEUtz) {
+    tzStr = tzStr + " EU,";
+  }
+  if (checkASIAtz) {
+    tzStr = tzStr + " Asia"
+  }
+  if (tzStr.slice(-1) == ",") {
+    tzStr = tzStr.slice(0, -1);
+  }
+  return tzStr;
+}
+// Compute text for authentification button depending on the checked inputs
+function computeAuthButtonText() {
+  var authStr = "Work auth:";
+  if (checkUSauth) {
+    authStr = authStr + " US,";
+  }
+  if (checkEUauth) {
+    authStr = authStr + " EU";
+  }
+  if (authStr.slice(-1) == ",") {
+    authStr = authStr.slice(0, -1);
+  }
+  return authStr;
+}
+// Compute text for remoteness button depending on the checked inputs
+function computeRemoteButtonText() {
+  var remoteStr = "Remoteness: 100%";
+  if (check50remote) {
+    remoteStr = remoteStr + ", 50% remote";
+  }
+  return remoteStr;
 }
 
 /**
