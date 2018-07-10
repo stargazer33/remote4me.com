@@ -1,6 +1,386 @@
 {
  "items": [
   {
+    "id": "vwAaaHh3TleRHS9je3SHlw",
+    "url": "https://weworkremotely.com/remote-jobs/supportbee-backend-hacker-ruby-on-rails",
+    "title": "SupportBee: Backend Hacker - Ruby on Rails",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``5N( cultur, 2N(remot, OR(work,worker)) )",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:capistrano/ruby/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:rspec/ruby/16",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
+      "DBG_TECH1:k/t/w:ruby/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=56, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=4}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 2:41:50 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2>Backend Hacker - Ruby on Rails</h2><span>Company: SupportBee<br></span><span>Headquarters: Earth<br></span><span>https://supportbee.com/<br><br></span>  <div>    <div><span></span></div><div><span>SupportBee makes software for managing high touch customer relationships. We are bootstrapped, profitable, and hungry for growth. Both in business, and our personal lives. Join us for a rewarding journey! </span></div><div><br></div><div><span>As a backend engineer, you will work on the code that powers the email importing, ticketing API, admin interface, and the reporting (analytics) infrastructure. </span></div><div><br></div><div><span><b>Why Work at SupportBee</b></span></div><div><br></div><div><span><b>Tech-focused</b></span></div><div>We pride ourselves on the quality of our tech stack and strive to maintain it. One of the founders wrote a ton of the early code and shaped the tech culture. Checkout our developer blog - https://developers.supportbee.com/blog/</div><div><br></div><div><span><b>Data-driven</b></span></div><div>We use Mixpanel and Google Analytics to track an array of events and properties on the app’s usage. We have a data-driven culture — as a team, we rely on data to drive decisions about the product.</div><div><br></div><div><span><b>Deep domain expertise</b></span></div><div>We have been working on SupportBee since 2011. We launched the product in September 2012. Since then we have learned a ton about our domain — problems customers face, technical challenges in solving them, and ways to monetize effectively (aligning value provided with monetization strategies).</div><div><br></div><div><span><b>Remote Work Culture</b></span></div><div>We don’t have an office, and all of us join in from around the world. Currently, we are from Bolivia, Europe, United States, and India. All we require is a great internet connection, a few hours of overlap with the team, and presence in the daily standup meeting at 9am EST. Our work happens on Github, Trello, and Slack and we believe in the power of asynchronous, and clear written communication.</div><div><br></div><div><span><b>A culture based on respect and acceptance</b></span></div><div>We founded the company first and foremost to be a great place to work. We wanted to create a workspace where we would enjoy working every day. That goal is more important to us now than ever before. We value diversity - our team comes from many different parts of the world. Founded by two women, we have had several women contribute to the company over the last decade. A company's culture is a living thing and forever evolving. Ours isn't perfect, and we want you to help us shape it.</div><div><br></div><div><span><b>The road ahead is exciting</b></span></div><div>While customer support is a crowded space, ticketing hasn't inherently changed in the last decade or two. With our domain understanding, we want to create a new kind of customer support software, and we want you to be a part of this exciting journey. &nbsp;We'll talk more about this when we chat with you.</div><div><br></div><div><span><b>Tech Stack</b></span></div><div>The tech stack is forever evolving and at the moment it is</div><div><br></div><div><span>* Ruby on Rails + Nginx</span></div><div>* Rspec/Cucumber for testing<br></div><div></div><div></div><div>* Postgres/Redis/Memcached<br></div><div></div><div></div><div>* Sidekiq Pro for background jobs<br></div><div></div><div></div><div>* Elasticsearch for search and logging<br></div><div></div><div></div><div>* ScoutApp for performance monitoring<br></div><div></div><div></div><div>* Codeship for continuous integration</div><div><br></div><div><span>We are hosted on dedicated servers from Hetzner with AWS for file storage.</span></div><div><br></div><div><span>Code stats - https://gist.github.com/unamashana/b082bc3dcceb6047debdbb5eb648f5d3</span></div><div><br></div><div><span>Peak Throughput: 11k requests/min</span></div><div><br></div><div><span><b>Your role</b></span></div><div><br></div><div><span>* Write new features and API endpoints</span></div><div><span>* Fix bugs reported by customers (and team)</span></div><div><span>* Build tools to improve customer support&nbsp;</span></div><div>* Improve the codebase by continually refactoring it. Our goal is to break down the monolithic app into smaller services that are independently run and monitored.<br></div><div></div><div></div><div>* Monitor and improve the performance of the system<br></div><div></div><div></div><div>* Help us hire more hackers (review and interview prospective team members, and help them onboard)</div><div><br></div><div><span><b>To excel at the job, you need</b></span></div><div><br></div><div>* A passion for engineering</div><div><span>* 4+ years of experience writing test driven Ruby on Rails code. Most of it on apps with users (and bug reports!)</span></div><div>* 2+ years of experience designing and implementing REST API<br></div><div></div><div></div><div>* 1+ years of experience with devops - servers, Capistrano, and performance monitoring<br></div><div></div><div></div><div>* Good working experience with CSS/HTML/Javascript<br></div><div></div><div></div><div>* Excellent written and verbal communication skill (in English)<br></div><div></div><div></div><div>* Customer empathy - all of us participate in customer support and learn from customers.</div><div><br></div><div><span><b>What we are offering</b></span></div><div><br></div><div><span>* Work from anywhere - 40 hours a week</span></div><div>* USD 35k - 45k/year based on your experience and skills<br></div><div></div><div></div><div>* 0.1% - 0.5% stock options (we are a Delaware C Corp)<br></div><div></div><div></div><div>* Allowance for hardware and software you need to stay productive<br></div><div></div><div></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Please send an email to <a href='mailto:hello@supportbee.com' rel='nofollow'>hello@supportbee.com</a> with the subject &quot;Backend Hacker - WeWorkRemotely&quot;, and answer the following questions - * How much experience do you have writing test-driven code? Have you used both Rspec and Cucumber?* If you could build anything, what would it be?* How do you define and measure productivity?* We love reading! Do you have a book recommendation for us? </p>  </div>"
+  },
+  {
+    "id": "QDS_E0ozTcOSzcgdR1lt6A",
+    "url": "http://jobmote.com/jobs/16420-ruby-on-rails-developer-remote",
+    "title": "Ruby On Rails Developer - Remote",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/39",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/12",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=67, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 2:21:25 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p><strong>Ruby Developer ( and Ruby on Rails )</strong><br><strong>Remote - 6 Month Contract</strong><br><strong>Hertfordshire</strong><br>Our client is looking for a Ruby Developer to help them with the development of a new product. </p><p>Significant commercial experience with Ruby and Ruby on Rails<br>Experienced in designing..... click apply for full job details </p></div></div><div></div></div></div>"
+  },
+  {
+    "id": "EmMYoYTTQmGkgEC1nO3ayQ",
+    "url": "https://rails.42jobs.io/jobs/667-rails-engineer",
+    "title": "Rails Engineer",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/26",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/32",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=58, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 9:45:58 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Rails Engineer</h3><div>Company: G2i inc</div><div>Remote<br><br></div><div><p></p><div>We’re looking for talented Rails engineers to partner with amazing product companies to work as part of a small team. We regularly partner with&nbsp;<a href='http://www.ycombinator.com/' rel='nofollow'>Y Combinator</a>&nbsp;&amp; other well funded product companies that place a high value on engineering. Strong communication and documentation skills are needed as this is a fast paced engineering environment. At least 4 years of Rails experience is required.</div><div><br></div><div>We are a hiring platform for engineers by engineers and have a client that is looking for remote Senior level Rails contractors to start quickly.</div><div><h3>Requirements</h3></div><ul><li>Fluent with both verbal and written English</li><li>Relevant code samples we can review (or a willingness to complete a 6-8 hour code challenge)</li><li>40 hours per week of availability starting July 9th</li><li>Mid-Senior or Senior level Position (4+ years of professional experience)</li><li>4 years of Rails experience (in production)</li></ul><p></p><p> Please apply using this link: </p></div><p><strong>To apply:</strong> Please apply using this link: <a href='https://jobs.lever.co/g2i/223b9d8f-588a-4e0c-ae6c-64671570d8a8/apply' rel='nofollow'>https://jobs.lever.co/g2i/223b9d8f-588a-4e0c-ae6c-64671570d8a8/apply</a></p>"
+  },
+  {
+    "id": "y7BD0hSrRSGjzaxfvpbNOQ",
+    "url": "https://whereverjobs.com/listing/3474/microservices-engineer",
+    "title": "Microservices Engineer",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=2, go=3, nodejs=1, bigdata-ml=0, ruby=4, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/other",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java",
+      "other",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 5:02:14 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Microservices Engineer</h3><div>Company: Citrusbyte<br><br></div><div>                                <div>Citrusbyte&nbsp;is a software consultancy that believes in&nbsp;simplicity as a core priority in software design. We build custom systems for both startups and enterprises - You can see our&nbsp;<a href='https://citrusbyte.com/portfolio' rel='nofollow'>portfolio</a>&nbsp;for more information about our clients.</div><div><br></div><div>We have offices in Los Angeles and New York, but we work remotely with people from all around the world.</div><div><br></div><div>Our engineers have experience in a consultative environment, excellent communication skills and a desire to work with talented teams building innovative products. We work closely with our clients, sharing our experience and processes to help them define and create their products.</div><div><br></div><div>We are looking for&nbsp;experienced backend engineers with&nbsp;experience building&nbsp;<span>service-oriented architectures</span>, using tools like&nbsp;<span>Kafka</span>&nbsp;and RabbitMQ and&nbsp;having experience with languages such as Java, Ruby, Elixir, Go, JavaScript.</div><div><br></div><div><span>Job Requirements:</span><br></div><ul><li>Proficient in Ruby or Java and at least one other programming language.</li><li>Proficient with&nbsp;<span>Kafka</span>.</li><li>Experience building&nbsp;service-oriented&nbsp;architectures.</li><li>Experience as a software consultant.</li><li>Experience working remotely in a distributed company</li><li>Open-minded&nbsp;and demonstrates a passion for continuous learning.</li><li>Smart, gets things done.</li></ul>            </div><div>How to apply:<br>You can apply directly at our career page: <a href='http://careers.citrusbyte.com/apply/yO2gVYWNF7/Experienced-Microservices-Engineer?source=WJ' rel='nofollow'>careers.citrusbyte.com/apply/yO2gVYWNF7/Experienced-Microservices-Engineer</a></div>"
+  },
+  {
+    "id": "E7GqJuaSTOO-FJpT_wyK3w",
+    "url": "https://whereverjobs.com/listing/3472/ruby-on-rails-developers",
+    "title": "Ruby on Rails Developers",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG:surround``posit 5W 2N(from,anywher)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:devise/ruby/8",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:rake/ruby/8",
+      "DBG_TECH1:k/t/w:rspec/ruby/8",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/13",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
+      "DBG_TECH1:k/t/w:ruby/ruby/14",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:slim/php/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=75, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=27}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 5:02:12 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Ruby on Rails Developers</h3><div>Company: Toptal LLC<br><br></div><div>                                <div><span></span></div><div><span>About Toptal</span></div><div><br></div><div>Toptal is one of the most innovative and rapidly expanding tech start-ups from Silicon Valley. With backing from investors such as Andreessen Horowitz and Adam D’Angelo, our platform is the fastest growing labor marketplace in the history of the Internet—connecting thousands of elite engineers all over the world. In the last four years, Toptal has become the #1 choice for tech companies requiring top-tier engineering talent and for the <a href='http://toptal.com/top-3-percent?utm_source=WhereverJobs&amp;utm_medium=jobdescription&amp;utm_campaign=rails_jobs' rel='nofollow'><span><b>top 3%</b></span></a><b> </b>of freelancers looking for their next challenge.</div><div><br></div><div><span>Position Description</span></div><div><br></div><div><span>We are looking for a Ruby on Rails developer to be responsible for managing the interchange of data between the server and users. Your primary focus will be to develop all server-side logic, define and maintain the central database, and ensure high performance and responsiveness to requests from the front-end. You will also be responsible for integrating front-end elements built by other team members into the application, so a basic understanding of front-end technologies is necessary as well.</span></div><div><br></div><div><span>By joining the Toptal network, you’ll have the opportunity to work on many client projects, ranging from start-ups to Fortune 500s, with teams of highly skilled experts from around the world.</span></div><div><br></div><div><span>This is a remote position that can be done from anywhere.</span></div><div><br></div><div><span>Benefits:</span></div><div><br></div><ul><li><span>Freedom to choose your own schedule and choose from a variety of hourly, part-time, and full-time projects.</span><br></li><li><span>The ability to work from wherever you want. Whether you prefer traveling and working from exotic beaches or spending time with your family and working from home, the choice is yours.</span><br></li><li><span>Access to a thriving, collaborative community of talented peers.</span><br></li><li><span>Invitations to frequent Toptal events going on around the world, including dinners, tech talks, conferences, and more.</span><br></li><li><span>Extremely competitive compensation.</span><br><br></li></ul><div><span>Responsibilities:</span></div><div><br></div><ul><li><span>Design, build, and maintain efficient, reusable, and reliable Ruby code.</span><br></li><li><span>Integrate data storage solutions, including databases, key-value stores, blob stores, etc.</span><br></li><li><span>Integrate user-facing elements built by your front-end developer teammates with server side logic.</span><br></li><li><span>Identify bottlenecks and bugs, and devise solutions to these problems.</span><br></li><li><span>Help maintain code quality, organization, and automation.</span><br></li><li><span>Optimize applications for speed and scalability.</span><br></li><li><span>Collaborate with other team members and stakeholders.</span><br></li><li><span>Take smart risks and champion new ideas.</span><br><br></li></ul><div><span>Requirements:</span></div><div><br></div><ul><li><span>Senior-level Ruby on Rails expertise, along with strong experience in common libraries such as RSpec and Resque.</span><br></li><li><span>Strong understanding of the syntax of Ruby and its nuances.</span><br></li><li><span>Strong understanding of object-oriented programming principles.</span><br></li><li><span>Experience with server-side templating languages such as Liquid, Slim, etc.</span><br></li><li><span>Experience with server-side CSS preprocessors such as Sass.</span><br></li><li><span>Basic understanding of front-end technologies, including JavaScript, HTML5, and CSS3.</span><br></li><li><span>Familiarity with MVC, Mocking, ORM, and RESTful principles and best practices.</span><br></li><li><span>A knack for writing clean, readable Ruby code.</span><br></li><li><span>Ability to integrate multiple data sources and databases into one system.</span><br></li><li><span>Understanding of fundamental design principles behind a scalable application.</span><br></li><li><span>Ability to create database schemas that represent and support business processes.</span><br></li><li><span>Ability to implement automated testing platforms and unit tests.</span><br></li><li><span>Proficient understanding of code versioning tools such as Git, Mercurial, or SVN.</span><br></li><li><span>Familiarity with tools to aid development such as Bower, Bundler, Rake, etc.</span><br></li><li><span>Familiarity with continuous integration.</span><br></li><li><span>Be willing to help your teammates, share your knowledge with them, and learn from them.</span><br></li><li><span>Be open to receiving feedback.</span><br><br></li></ul>            </div><div>How to apply:<br>Please use the following link to apply: <a href='http://topt.al/gHZFNTYqzbhvn' rel='nofollow'>topt.al/gHZFNTYqzbhvn</a></div>"
+  },
+  {
+    "id": "KoNRqldMQVCWgksz3az_MA",
+    "url": "https://whereverjobs.com/listing/3470/experienced-backend-engineer",
+    "title": "Experienced Backend Engineer",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:sinatra/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=3, nodejs=13, bigdata-ml=0, ruby=20, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 5:02:10 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Experienced Backend Engineer</h3><div>Company: Citrusbyte<br><br></div><div>                                <div><a href='https://citrusbyte.com/' rel='nofollow'>Citrusbyte</a>&nbsp;is a software consultancy that believes in using simple tools to solve problems. We build custom systems for both startups and enterprises - You can see our&nbsp;<a href='https://citrusbyte.com/portfolio' rel='nofollow'>portfolio</a>&nbsp;for more information about our clients.</div><div><br></div><div>We have offices in Los Angeles and New York, but we work remotely with people from all around the world.</div><div><br></div><div>Our engineers have experience in a consultative environment, excellent communication skills and a desire to work with talented teams building innovative products. We work closely with our clients, sharing our experience and processes to help them define and create their products.</div><div><br></div><div>Most of our projects are written in&nbsp;<span>Ruby</span>, so experience in this language is required, but we are looking for polyglot engineers who have a hunger for learning new languages and tools. At Citrusbyte, learning is part of the job, and you should always be able to answer the question: &quot;what have I learned this week?&quot;</div><div><br></div><div>We believe that less is more and we vehemently value simplicity. This is reflected in the tools we choose to work with. For this reason we tend to avoid using big frameworks like Ruby on Rails and instead lean towards smaller tools like Sinatra, Roda or Cuba.</div><div><br></div><div>We have also done projects in Elixir, Node.js, Go, Python, Lua, etc. And strive to learn new tools and languages everyday. We believe in always choosing the right tool for the job and we are very open minded about trying different technologies.</div><div><br></div><div><span>Skills &amp; Requirements:</span><br></div><ul><li>Smart, gets things done</li><li>Excellent communication skills</li><li>Consulting experience</li><li>Passionate about software development</li><li>Experience working in a highly distributed company</li><li>Open minded and&nbsp;<span>always&nbsp;learning</span></li></ul><div><br></div><div><span>Duties &amp; Responsibilities:</span></div><ul><li>Architect and build web applications.</li><li>Work with product designers and clients to clarify requirements, prototype functionality and build products.</li><li>Plan, estimate and prioritize work in a collaborative and distributed team.</li></ul>            </div><div>How to apply:<br>You can apply directly at our careers page: <a href='http://careers.citrusbyte.com/apply/tPTZOv/Experienced-Backend-Engineer?source=WJ' rel='nofollow'>careers.citrusbyte.com/apply/tPTZOv/Experienced-Backend-Engineer</a></div>"
+  },
+  {
+    "id": "GAZViYZuSf2BYEiDiKcGHA",
+    "url": "https://whereverjobs.com/listing/3466/software-engineer-ruby-on-rails",
+    "title": "Software Engineer (Ruby on Rails)",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:capybara/ruby/8",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:magento/php/8",
+      "DBG_TECH1:k/t/w:rspec/ruby/16",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/26",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/40",
+      "DBG_TECH1:k/t/w:ruby/ruby/6",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:k/t/w:woocommerce/php/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=96, apple=0, java=0, gamedev=0, php=16, embedded=0, frontend=8}",
+      "REMOTE1/50",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 5:02:05 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Software Engineer (Ruby on Rails)</h3><div>Company: TaxJar<br><br></div><div>                                <div>TaxJar is the leading technology solution for busy eCommerce sellers to manage sales tax and is trusted by more than 10,000 businesses. Our mission is is to make eCommerce easier for everyone.&nbsp;</div><div><br></div><div>OUR CORE VALUES</div><div><br></div><ul><li>We do the right thing for our customers.</li><li>We're a team, built on trust.</li><li>We're proud to be remote.</li><li>We're in control of our own destiny.</li></ul><div><span><br></span></div><div><span>We want you to join one of our product engineering teams and help us build a product our customers love. The product engineering team at TaxJar is solving complex problems on a daily basis, supporting our growing customer base and creating new solutions in a complex domain. We deal with large datasets, complex frequently-changing sales tax rules, and automating complex processes for thousands of business customers.</span><span><br></span></div><div></div><div><span><br></span></div><div><span>*This is a full-time remote position, available to folks located in the US.</span><span><br></span></div><div></div><div><span><br></span></div><div>AS A RAILS DEVELOPER YOU WILL<br></div><div></div><div><br></div><ul><li>Write strong Ruby on Rails code daily</li><li>Be challenged to solve new problems</li><li>Review and test your teammates pull requests</li><li>Contribute to and maintain our existing Rspec test suites</li><li>Maintain and update our sales tax reporting application</li><li>Build out apps and services for managing thousands of sales tax rules</li><li>Help with improving and scaling our&nbsp;<a href='https://workable.com/nr?l=https%3A%2F%2Fdevelopers.taxjar.com%2Fapi%2F' rel='nofollow'>SmartCalcs API</a></li><li>Work with Rails, Elixir, Vue.js, Heroku, Postgres, Sidekiq, Magento, WooCommerce, and more</li><li>Help monitor and support 24/7 Rails applications and services</li><li>Spend time working the customer success inbox. Our employees, even the CEO, spend time doing this - we’re all in it together.</li></ul><div><span><br></span></div><div><span>REQUIREMENTS</span><span><br></span></div><div></div><div><span><br></span></div><ul><li>3+ years production experience with: Rails 4, Postgres, Sidekiq</li><li>Ability to write clear and accurate tests using RSpec/Capybara</li><li>Write code that is maintainable and readable by your team</li><li>Be accountable for the code you deliver to production</li><li>Manage development tasks from assignment through to production</li><li>Agile, humble, trustworthy, and a team player</li><li>Rapid learner who thrives in a fast-paced and demanding environment</li><li>Passion for building simple and intuitive solutions for complex problems in ecommerce</li><li>Prior SaaS development, API development or similar app dev experience</li><li>Excel at communicating with the team remotely (chat, video, email, etc)</li></ul><div><span><br></span></div><div>YOU'LL BE A GREAT FIT FOR OUR TEAM IF YOU<br></div><div></div><div><span><br></span></div><ul><li>Only want to work remotely</li><li>Are a PRO at communicating and collaboration</li><li>Highly value working with people you like and respect</li><li>Are accountable</li><li>Are confident in your skills and a solid team player (We’re peers here, no egos please) but also comfortable working asynchronously</li><li>Hungry to play an impactful role and not afraid to fail</li></ul><div><br></div><div><a href='https://workable.com/nr?l=https%3A%2F%2Flife.taxjar.com%2F' rel='nofollow'>We’re a happy team</a>&nbsp;and we all really love what we do. We've created a space where high-achievers can succeed, but are also safe to fail. We're profitable and focused on growing TaxJar sustainably. We're always learning how to make TaxJar the best place to work for all of us, and not just another tech startup. We’re always looking for an amazing new teammates to come share in the excitement of solving real-world problems with technology.<br></div><div></div><div><br></div><div>BENEFITS</div><div><br></div><ul><li>Excellent health, vision and dental benefits</li><li>Flexible vacation policy (we’ll actually pay you $500 a year to take time off!)</li><li>$1,000 in professional development credit</li><li>Home office stipend</li><li>Equity in a profitable company&nbsp;</li><li>2x year all-company in person retreats (fully paid for by us of course)</li><li>Brand new Macbook computer&nbsp;</li><li>Mandatory Birthday holiday!</li><li>12 week paid maternity/ 6 week paid paternity leave</li><li>Monthly perks reimbursement for things like Netflix, Amazon Prime, your gym membership, home internet and more.</li></ul><div><br></div><div>We offer all of our employees amazing benefits. Visit&nbsp;<a href='https://workable.com/nr?l=https%3A%2F%2Fwww.taxjar.com%2Fjobs' rel='nofollow'>www.TaxJar.com/jobs</a>&nbsp;for a full list of our benefits and to learn more about how we work and what we stand for.</div><div><br></div><div><span><b>If you're not the perfect fit for this position, but you know someone who is, we'll pay you $1,000 if you refer us to the person we hire.</b></span></div>            </div><div>How to apply:<br>Apply here: <a href='https://taxjar.workable.com/jobs/712896/candidates/new' rel='nofollow'>taxjar.workable.com/jobs/712896/candidates/new</a>. Please treat this as your first interview. We receive lots of resumes, so here's your chance to stand out from the crowd.</div>"
+  },
+  {
+    "id": "EXvSTqiLTqW-E37VmYotOQ",
+    "url": "https://whereverjobs.com/listing/3465/platform-developer",
+    "title": "Platform Developer",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/8",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=8, c=0, mobile=0, go=0, nodejs=14, bigdata-ml=0, ruby=10, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 5:02:04 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Platform Developer</h3><div>Company: TeamSnap<br><br></div><div>                                <div><span></span></div><div><span>TeamSnap is an award-winning mobile and web service for managing recreational and competitive sports teams and groups. With almost 20 million enthusiastic customers in 195 countries, TeamSnap has quickly become one of the fastest-growing team and group management solutions on the planet.</span></div><div><br></div><div><span>We are looking for fun people with big ideas and tiny egos who do great work. We hire awesome people, give them the tools to achieve great things and provide strong two-way communication so everyone can grow in their roles and find passion in their work. We strive for long-term, committed employees who feel strong ownership of the company, culture and product.</span></div><div><br></div><div><span>TeamSnap is seeking a Platform Developer to help us continue our impressive growth. You should be self-directed and able to juggle multiple balls without dropping any of them. There are no sacred cows at TeamSnap. No matter what your “job” is, you’re welcome to suggest better ways of doing anything. We are all owners. Everyone has a stake in the company.</span></div><div><br></div><div><span>What You’ll Be Doing</span></div><div><span>You will be focused on enhancing, refactoring, and maintaining the TeamSnap Platform (web, API, services, functions, et cetera) which serves over 20 million users. You will work with us as we build additional features, functionality, services, and applications to continue our rapid growth. You’re willing to help out anywhere your talents are required, including occasional customer support and on-call duties, staying in touch with our internal and external customers' needs.</span></div><div></div><div><br></div><div><span>Some things that are pretty important to us</span></div><div><span>We're</span><span> l</span><span>ooking for a person with a naturally curious and passionate engineering mind who was taking apart their parents’ VCR, DVD player, toaster, (you get the idea) when they were a kid, and who has been tinkering ever since. If you're someone who loves to learn, is down to earth, super positive, likes to mentor others, is a good communicator, not afraid to jump in or ask questions and is always involved in side projects in addition to whatever paid work you're doing, then this is the right role for you. </span></div><div><br></div><ul><li><span>3+ years experience building scalable web applications and services.</span><br></li><li><span>We're looking for &quot;T-shaped&quot; developers. You should be an expert in one of Ruby, Elixir, or JavaScript and have functional knowledge of the others.</span><br></li><li><span>Significant experience with frameworks and libraries surrounding your areas of expertise such as Rails, Phoenix, or Node.js</span><br></li><li><span>Adaptability to learn and extend custom frameworks. We have massive scale and often are building new technology to match our growth requirements.</span><br></li><li><span>Experience with building APIs or Service Mesh networks.</span><br></li><li><span>Experience with direct usage of SQL and general database administration knowledge.</span><br></li><li><span>You can work independently inside a distributed team.</span><br></li><li><span>Passion for great user experience - we have designers on staff, but we want you to be interested in what makes a great feature for our customers (whether TeamSnap users or other developers).</span><br></li><li><span>A witty sense of humor.</span><br></li><li><span>Experience working on an agile team.</span><br></li><li><span>A customer-focused attitude, with an ability and willingness to work with customers to develop great features as well as diagnose and fix problems.</span><br></li><li><span>Big ideas and a tiny ego. Tiny Eggo™ optional. We’ll accept waffles of any size. But no pancakes.</span><br></li><li><span>A &quot;Test First&quot; attitude and experience writing automated tests using a tdd, bdd, or whatever *dd methodology you jive with.</span><br></li><li><span>Experience with automated build and deployment systems.</span><br></li><li><span>Experience with git or Github as a version control tool.</span><br></li><li><span>A willingness to travel to other parts of the country, on average once a quarter, for all company gatherings, team meetings, conferences, and the like.</span><br></li><li><span>A strong computer science background.</span><br></li></ul><div><br></div><div><span>Other things that would be nice to have:</span></div><ul><li><span>Involvement in youth or adult recreational sports, as a player, parent or coach. We’d love for you to experience firsthand how our customers use our product and how it could be improved.</span><br></li><li><span>Creating and deploying services and applications within a PaaS or Service Mesh.</span><br></li><li><span>Experience working as part of a distributed team.</span><br></li><li><span>Free Superbowl tickets for all your co-workers (hey, we can dream).</span><br></li><li><span>Experience with Docker-based development environments and Kubernetes-based production environments.</span><br></li></ul><div><br></div><div><span>Why TeamSnap?</span></div><ul><li><span>This is a unique opportunity for an ambitious, innovative professional to join a revolutionary, award-winning company that has been named Outside Magazine’s Best Places To Work since 2016.</span><br></li><li><span>Our culture is based around trust and empowerment.</span><br></li><li><span>Work with an energetic, rapidly-growing organization as we continue our quest to hire the best and brightest.</span><br></li><li><span>TeamSnap is a fun product – you’ll have fans.</span><br></li><li><span>We’re not a fly-by-night startup. We’re an established player in a massive market. We have a proven revenue model, an experienced management team, solid funding and a strong plan moving forward.</span><br><br></li></ul><div><span>Benefits and Perks</span><br></div><div><span>We offer competitive benefits, lots of opportunity to develop professionally, and the ability to demonstrate what you can achieve. TeamSnap is still small enough that your actions will help drive our success.</span></div><div><br></div><div><span>Location</span><br></div><div><span>This position is remote, unless are within driving distance of our Boulder office. Our company is 70% distributed and we value people who excel at working and communicating remotely.</span></div><div><br></div><div><span>Diversity and Inclusion</span><span> </span></div><div><span>TeamSnap is a company built around trust, kindness and collaboration, where diverse backgrounds, experiences and beliefs are celebrated and valued. This is a place where everybody belongs.</span></div><div><br></div><div><span>If you’re looking for an opportunity to show off the very best of your skills, in an environment of trust, respect and flexibility, this might very well be the best job you ever have. We’re passionate about helping our customers spend less time organizing and more time playing.</span></div><div><br></div><div><span>P.S. We highly recommend that you sign up for a free trial of TeamSnap to learn more about the web and mobile applications. If you'd like us to extend the trial beyond 21 days, just let us know.</span></div><div></div><div><br></div>            </div><div>How to apply:<br>Apply at <a href='https://teamsnap.applytojob.com/apply/63mJ9lwpzQ/Platform-Developer?sourceWhereverJobs' rel='nofollow'>teamsnap.applytojob.com/apply/63mJ9lwpzQ/Platform-Developer</a></div>"
+  },
+  {
+    "id": "GZmG2FQwQ56qkkpC4MlYQg",
+    "url": "https://rails.42jobs.io/jobs/666-experienced-software-engineers",
+    "title": "Experienced Software Engineers",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=8, ruby=20, apple=4, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 9, 2018 8:39:42 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Experienced Software Engineers</h3><div>Company: Loco2</div><div>Remote<br><br></div><div><p>Loco2's mission is to make booking trains anywhere in Europe as easy and affordable as possible, from epic international adventures to everyday local commutes. Our booking coverage is unrivalled and growing.</p><p>We're looking for 2 experienced Ruby engineers to join our existing team of six, where you'll help us maintain and improve our existing infrastructure, integrate new rail operator booking systems and scale effectively for our rapidly expanding user base.</p><p>At Loco2 we care deeply about building an inclusive, open and supportive work environment. We behave with respect for people and the planet and are seeking a diverse range of candidates that share these values.</p><p><strong>About us</strong></p><p>We're a , with a healthy remote-first culture and an office in London. Our success is built on trust, empathy and shared knowledge, with our users at the centre of what we do.  after 22,000 reviews.</p><p>We’ve been selling tickets since 2012 (read our ), and we’re growing rapidly as the business matures. Our goal is to scale effectively whilst continuing to delight our users.</p><p><em>Why join us?</em></p><ul><li>We have high codings standards, and follow best practices such as continuous testing and delivery</li><li>We strive to learn and improve together in a supportive environment as the wider tech ecosystem evolves</li><li>Our team enjoys a healthy work-life balance and don’t think caffeine-fuelled all-nighters are a good way to grow a company that’s built to last</li><li>We offer flexible hours and a well-designed remote working culture built on trust. Work around your schedule and when you’re most productive</li><li>Our days are not full of meetings and needless distractions, allowing others to achieve flow is a big part of supporting each other</li><li>Everyone is encouraged to ask questions, think creatively and suggest new working practices. We have a small team so your voice will be heard</li><li>You will be provided with a laptop and are empowered to make changes that improve your working environment</li></ul><p><strong>Technical challenges</strong></p><p>Our software stack consists of a pure-Ruby backend library which we use to communicate with train booking APIs, a modern Rails application, a PostgreSQL database, and two native mobile applications (iOS and Android).</p><p>We’re integrated with multiple rail operator booking systems (with our current team we usually complete at least 1-2 major integrations each year), and we’re increasingly consuming other types of data too (e.g. timetable data for routing, real-time arrivals/departures etc).</p><p>We need to diligently manage technical complexity, as each external system works in a slightly different way, with its own features and quirks. SOAP is (unfortunately) used by many operator APIs, which is why we released our open source library, .</p><p>Some of the most difficult challenges we face relate to routing and making sense of lots of data. Which routes are best to get from A to B? Which booking systems should be queried? How might we cache data without affecting accuracy of results?</p><p>We’ve recently released mobile applications for iOS and Android. Further developing our mobile strategy is a key goal for the business.</p><p>Because Loco2 is the merchant of record for all transactions we are also responsible for fraud prevention, and handling currency and other finance-related issues.</p><p>We frequently release new features that drive rapid organic growth, and so it’s vital that we anticipate and address scaling challenges before they occur.</p><p><strong>About you</strong></p><p>An ideal candidate:</p><ul><li>Has 4+ years of professional programming experience</li><li>Has deep knowledge and experience of Ruby</li><li>Is fluent in English and confident communicating and sharing complex information and learnings with both technical and non-technical team members</li><li>Has a good working knowledge of modern devops technologies such as Docker</li><li>Is comfortable designing object oriented software from scratch, not just implementing CRUD Rails apps; a pragmatist who can see the trade-offs involved in the different approaches to solving a problem</li><li>Strives to discover and understand the root cause of problems, suggesting new and improved solutions, rather than treating the symptoms</li><li>Actively considers future maintainability when deciding how to implement something</li><li>Has a keen appetite for self-improvement and growth, but doesn't hesitate to ask for help when needed</li><li>Enjoys getting their teeth stuck into complicated problems, as well as being willing to pitch in on some of the more routine tasks which inevitably arise</li><li>Is willing to participate in an on-call rota to cover technical emergencies out of hours</li><li>Can work hours that have some overlap with London daytime</li><li>Is motivated by Loco2's mission</li></ul></div><p>Email <a href='mailto:jobs@loco2.com' rel='nofollow'>jobs@loco2.com</a> and tell us about your skills and experience, plus include links to any relevant public repositories. You can send a CV if you want, but we particularly like reading a well-written email instead/as well.</p><p><strong>Unfortunately we can currently only accept applications from within the EU (including the UK).</strong></p><p>There are some specific questions we'd like you to answer (feel free to be brief if you’d prefer to elaborate in other areas):</p><p>We welcome applications from everybody, regardless of race, gender, or sexual orientation.</p><p>To try to make the hiring process as fair as possible, if we are interested in your application, then you'll be asked to complete a programming challenge which is judged anonymously. We deliberately anonymise responses to this task in order to mitigate any inherent biases in this regard.</p><p>Our emphasis is on finding somebody with demonstrable skills rather than somebody who is good at self-marketing. This process helps us focus on that.</p><p><em>Please note that we do not respond to approaches from recruitment agencies, and emails will be marked as spam.</em></p>"
+  },
+  {
     "id": "d8KjOxMtRc-8ThS9xbU2cQ",
     "url": "https://stackoverflow.com/jobs/191253/ruby-on-rails-full-stack-developer-100-remote-outmatch?a=128HpgGNR09G",
     "title": "Ruby on Rails Full Stack Developer - 100% Remote at OutMatch  ",
@@ -82,6 +462,56 @@
     "published": "Jul 9, 2018 6:32:37 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<p>Loco2's mission is to make booking trains anywhere in Europe as easy and affordable as possible, from epic international adventures to everyday local commutes. Our booking coverage is unrivalled and growing.</p><p>We're looking for 2 experienced Ruby engineers to join our existing team of six, where you'll help us maintain and improve our existing infrastructure, integrate new rail operator booking systems and scale effectively for our rapidly expanding user base.</p><p>At Loco2 we care deeply about building an inclusive, open and supportive work environment. We behave with respect for people and the planet and are seeking a diverse range of candidates that share these values.</p><p><strong>About us</strong></p><p>We're a <a href='https://loco2.com/team' rel='nofollow'>small, passionate and cosmopolitan team</a>, with a healthy remote-first culture and an office in London. Our success is built on trust, empathy and shared knowledge, with our users at the centre of what we do. <a href='https://uk.trustpilot.com/review/loco2.com' rel='nofollow'>We're proud to have an average rating of 9.3 out of 10 on Trustpilot</a> after 22,000 reviews.</p><p>We’ve been selling tickets since 2012 (read our <a href='https://loco2.com/our-story' rel='nofollow'>full story here</a>), and we’re growing rapidly as the business matures. Our goal is to scale effectively whilst continuing to delight our users.</p><p><em>Why join us?</em></p><ul><li>We have high codings standards, and follow best practices such as continuous testing and delivery</li><li>We strive to learn and improve together in a supportive environment as the wider tech ecosystem evolves</li><li>Our team enjoys a healthy work-life balance and don’t think caffeine-fuelled all-nighters are a good way to grow a company that’s built to last</li><li>We offer flexible hours and a well-designed remote working culture built on trust. Work around your schedule and when you’re most productive</li><li>Our days are not full of meetings and needless distractions, allowing others to achieve flow is a big part of supporting each other</li><li>Everyone is encouraged to ask questions, think creatively and suggest new working practices. We have a small team so your voice will be heard</li><li>You will be provided with a laptop and are empowered to make changes that improve your working environment</li></ul><p><strong>Technical challenges</strong></p><p>Our software stack consists of a pure-Ruby backend library which we use to communicate with train booking APIs, a modern Rails application, a PostgreSQL database, and two native mobile applications (iOS and Android).</p><p>We’re integrated with multiple rail operator booking systems (with our current team we usually complete at least 1-2 major integrations each year), and we’re increasingly consuming other types of data too (e.g. timetable data for routing, real-time arrivals/departures etc).</p><p>We need to diligently manage technical complexity, as each external system works in a slightly different way, with its own features and quirks. SOAP is (unfortunately) used by many operator APIs, which is why we released our open source library, <a href='https://github.com/loco2/lolsoap' rel='nofollow'>LolSoap</a>.</p><p>Some of the most difficult challenges we face relate to routing and making sense of lots of data. Which routes are best to get from A to B? Which booking systems should be queried? How might we cache data without affecting accuracy of results?</p><p>We’ve recently released mobile applications for iOS and Android. Further developing our mobile strategy is a key goal for the business.</p><p>Because Loco2 is the merchant of record for all transactions we are also responsible for fraud prevention, and handling currency and other finance-related issues.</p><p>We frequently release new features that drive rapid organic growth, and so it’s vital that we anticipate and address scaling challenges before they occur.</p><p><strong>About you</strong></p><p>An ideal candidate:</p><ul><li>Has 4+ years of professional programming experience</li><li>Has deep knowledge and experience of Ruby</li><li>Is fluent in English and confident communicating and sharing complex information and learnings with both technical and non-technical team members</li><li>Has a good working knowledge of modern devops technologies such as Docker</li><li>Is comfortable designing object oriented software from scratch, not just implementing CRUD Rails apps; a pragmatist who can see the trade-offs involved in the different approaches to solving a problem</li><li>Strives to discover and understand the root cause of problems, suggesting new and improved solutions, rather than treating the symptoms</li><li>Actively considers future maintainability when deciding how to implement something</li><li>Has a keen appetite for self-improvement and growth, but doesn't hesitate to ask for help when needed</li><li>Enjoys getting their teeth stuck into complicated problems, as well as being willing to pitch in on some of the more routine tasks which inevitably arise</li><li>Is willing to participate in an on-call rota to cover technical emergencies out of hours</li><li>Can work hours that have some overlap with London daytime</li><li>Is motivated by Loco2's mission</li></ul>"
+  },
+  {
+    "id": "oicwt7LqSP2tesw9bQdXug",
+    "url": "https://remote.com/jobs/browse/preview/ror-software-developer-art-tech-full-stack",
+    "title": "RoR SOFTWARE DEVELOPER (ART-TECH) - FULL STACK",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=4, bigdata-ml=2, ruby=18, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=23}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 8, 2018 9:45:56 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "JOB TYPE: Full time<br /><br />LOCATION:<br />Berlin, Germany<br />(Partial remote)<br /><br />Anywhere in<br />Berlin<br /><br />EXPERIENCE: intermediate<br /><br />COMPANY: Book a Street Artist; 1-10 employees; 25-50% remote;<br /><br />SKILLS:<br />• Ruby on Rail<br />• JavaScript<br />• Git<br />• ReactJS<br /><br />EMPOWERING THE ART WORLD WITH TECH: At Book a Street Artist we have a clear vision: empowering artistic talent and making it universally accessible. We believe that talent should be valued independently from the context it is presented in. Therefore, we want to build tech products and tools to enable artists to manage and promote themselves in a more efficient way, and to match clients and artists with each other perfectly.<br /><br />Our core product is a web app that connects talented artists with art-loving clients who book them for their occasions: marketing campaigns, parties, events, festivals, venues, painting their office walls. For artists, we want to build a true alternative to the corporate & capitalist art world which is focused on exploiting the artist and compromising creativity for capital.<br /><br />You are welcome to join us if you want to apply your tech & product skills to this cause and vision. You will be in charge of building exciting tech tools from booking mechanisms, to matching technologies using machine learning and recommendation engines.<br /><br />YOUR TASKS<br /><br />- Develop new features in our main web app for artists and clients. <br />- Help our software development team to review the code, and deploy.<br />- Solve tickets for both frontend and backend.<br /><br />YOUR BENEFITS <br /><br />- An awesome start-up environment in the middle of Berlin with flat hierarchies, fast decision-making, and a great company culture. <br />- A highly passionate and dedicated team of young entrepreneurs, designers and many many artists, i.e. people who love what they do on a daily basis. We are an international mix of countries like Colombia, Mexico, Lithuania, Germany, Uruguay, Portugal, Belgium, and many more. <br />- Develop and implement your own ideas to develop and grow the company. <br />- Access to our artists' and clients' events. <br />- We are a for-profit startup with social mindset. We put people before money, and we have strong ethical values. If you are aligned with these ideas, this is your place to be! <br />- Flexible hours and remote work is available. <br />- Monthly event gatherings such as living room concerts, gallery, and art museum trips, and many other exciting activities related to the tech industry and arts scene in Berlin. <br />- Club mate, cereal, milk, coffee, and fresh fruits available at all times in our cozy kitchen. <br />- Our artsy office feels like home. We sometimes eat cake in the middle of the day or celebrate with a glass of prosecco while playing some guitar, ukulele, or hula hooping. <br /><br />YOUR QUALIFICATIONS <br /><br />- Experience in developing, deploying and maintaining Rails projects.<br />- Experience using Git.<br />- Experience in writing maintainable HTML and CSS, compatible with most modern browsers.<br />- Experience in building front-end applications with ReactJS using ES6.<br />- Eager to stay up to date with modern JavaScript libraries.<br />- You are familiar with SQL, specifically with PostgreSQL to build and maintain the data set.<br />- You test the code you write.<br />- You are comfortable working collaboratively with a team.<br />- Excellent English communication skills, both verbal and written (German is not required).<br /><br />Something here sounds like right down your alley? <br /><br />Please apply here: https://goo.gl/forms/FrjopYNDYT2sbigD2"
   },
   {
     "id": "2SzCKqQfQPCLX-sikusxEg",
