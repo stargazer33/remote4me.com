@@ -347,7 +347,7 @@ function handleTextChangeInFilterButtons() {
 
 // Compute text for timezone button depending on the checked inputs
 function computeTimezoneButtonText() {
-  var tzStr = "TZ:";
+  var tzStr = "Timezone:";
   if (checkWorldwide) {
     tzStr = tzStr + " Worldwide";
   }
