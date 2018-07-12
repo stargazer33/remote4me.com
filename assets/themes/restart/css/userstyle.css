@@ -175,7 +175,7 @@ input[type="radio"]:hover + label:before {
 }
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
-  box-shadow: 0 0 0 11px #428bca inset;
+  box-shadow: 0 0 0 12px #428bca inset;
 }
 
 span#checkmark {
