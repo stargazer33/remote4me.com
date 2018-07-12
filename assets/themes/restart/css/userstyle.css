@@ -124,7 +124,7 @@ div.homepage-f3 {
 /* Search Filters */
 
 .search-bar {
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 .dropdown-fields {
   padding-left: 12px;
@@ -175,7 +175,7 @@ input[type="radio"]:hover + label:before {
 }
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
-  box-shadow: 0 0 0 11px #428bca inset;
+  box-shadow: 0 0 0 12px #428bca inset;
 }
 
 span#checkmark {
@@ -221,9 +221,30 @@ input[type=radio]:focus:checked+label:before {
     }
 }
 
-
+/*
 div#filter-container {
   padding-bottom: 0px;
   padding-top: 0px;
   border: 0px;
+} */
+
+/* Clear default button styles
+Create custom navbar-like custom styles */
+.btn-filter {
+  border: 0;
+  border-radius: 0;
+  color: #555555;
+}
+.btn-filter:hover,
+.btn-filter:focus,
+.btn-filter:active,
+.open > .dropdown-toggle.btn-filter {
+  background-color: transparent;
+  color: #000000;
+}
+.btn-filter:active {
+  box-shadow: none;
+}
+.btn-div.open .dropdown-toggle {
+  box-shadow: none;
 }
