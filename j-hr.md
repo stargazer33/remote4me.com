@@ -1,6 +1,6 @@
 ---
 permalink: /remote-hr-recruiter-jobs
 layout: page-jobad-list
-last_modified_at: 2018-07-15T18:37:57+0300
+last_modified_at: 2018-07-18T18:37:42+0300
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
