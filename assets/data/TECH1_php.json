@@ -1,6 +1,91 @@
 {
  "items": [
   {
+    "id": "xTuljsEkTFaM4yMY9QSMiQ",
+    "url": "http://workinstartups.com/job-board/job/71364/backend-developer-at-weengs/",
+    "title": "Backend Developer",
+    "tags": [
+      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:electron/nodejs/16",
+      "DBG_TECH1:k/t/w:laravel/php/48",
+      "DBG_TECH1:k/t/w:magento/php/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:k/t/w:php/php/35",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/24",
+      "DBG_TECH1:k/t/w:woocommerce/php/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=42, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=99, embedded=0, frontend=40}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 40000,
+      "maxValue": 70000,
+      "info": "",
+      "unit": "YEAR",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 26, 2018 11:41:13 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "Weengs is writing e-commerce history, day by day, providing Amazon-like fulfilment infrastructure and services to small e-commerce businesses. When Amazon has Prime, small businesses have Weengs.<br /><br />We're the definition of a promising, fun, fast-growing startup. The next European unicorn in the make. We started from a flat in London, shipping 6,000 parcels without getting kicked out (our neighbours love us), running operations during day and writing code during night. We're now over 60 people, shipping thousands of parcels every day, operating through a big warehouse.<br /><br />Since our start in 2015, customers have expressed their love with fan mail, we’ve been backed by top-tier investors and we’ve grown 700% since last year.<br /><br />Here’s how Weengs works: we collect unboxed orders from our customers, bring them to our warehouse, package them carefully with our own materials, then ship them using major shipping carriers like Royal Mail, DHL etc at the best available prices.<br /><br />We work with small businesses around London via our web app as well as with e-commerce platforms that are integrated with our system via an API.<br /><br />Our technology<br /><br />We build proprietary software for fulfilment process within our warehouse, a smart shipping engine and integrations with e-commerce platforms and carriers. You’ll see your work in action not only by customers on a web dashboard, but also in complex physical operations in a warehouse, allowing people to perform physical tasks efficiently and reliably. We put together many moving parts from the digital world with the physical world. This requires an authentic engineering mindset, with attention to reliability and performance.<br /><br />Here’s what  you’ll be asked to work on:<br /><br />A web app on Vue.js for our merchants<br />A public API build on PHP Laravel<br />A few internal apps build on PHP Laravel<br />A mobile app for drivers build on React Native<br />A few internal apps build on Electron & Vue.js<br />A few microservices build on Node.js<br />This is the stack we’re currently using<br /><br />All our infrastructure is on AWS<br />Our data lives on MySQL and PostgreSQL<br />Backend on PHP/Laravel<br />Front-end on Vue.js<br />Internal desktop apps on Electron<br />Microservices on AWS Lambda + Node.js<br />Heavy use of queues - SQS + Database<br />These are the practices and tools we use<br /><br />We currently have a hybrid Monolithic Microkernel architecture, and exploring our next direction<br />Delivering continuously using JIRA, BitBucket, CircleCI and Elastic Beanstalk<br />Logging, monitoring and troubleshooting with Loggly, Monitis, NewRelic and Sentry<br />As we serve web apps, mobile clients, drivers, warehouses, and carriers, you'll also need to be able to integrate with a range of third-party APIs. You’ll need to be able to iterate fast and deploy daily, but you’ll do so without bureaucracy or boring meetings. You’ll be exposed to the whole business in an environment where your ideas count.<br /><br />Our tech team<br /><br />We are currently a team of 7 engineers with a plan to reach 18 engineers within 2019. We work in 2-week sprints and our developers can touch any part of the business. Our main principle is to keep an open team where everybody can contribute and influence technical decisions.<br /><br />We love writing good code and keeping a good architecture in place. We love PHP & Laravel and we upgrade to latest versions asap. We devote Fridays to refactoring and improving our codebase, allowing us to develop better and faster the rest of the week.<br /><br />About you<br /><br />We're interested only in people who want to be part of the success story of a startup, put their DNA in the product, building the foundation and evolve together with the company. We want you to own your field of responsibility, take decisions, be proactive, screw up things with pride and fix broken things with more pride. We help each other learn and improve, no matter which your starting point is, and we need you to be curious and brave. You are a team player and love giving or receiving constructive feedback. We also have zero tolerance for big egos, heros or blaming, no matter how good developer you are.<br /><br />We’d like you to be good in communicating ideas, as you’ll regularly present your ideas and projects to the team, as also work directly with non-developers when working on their projects.<br /><br />RESPONSIBILITIES<br /><br />Have ownership of new projects as also collaborate on existing projects<br />Work with our team to refine the architectural and functional roadmap of our product.<br />Work directly with and report to Alex (co-founder & CTO) to build the foundation of the company's software.<br />Write robust application code in PHP/Laravel that powers the company’s demanding web and mobile client APIs.<br />Refactor existing software and functionality into discrete services.<br />Make sure all systems are adequately tested and monitored for uptime, consistency and performance.<br />Review your teammates’ code before going in action<br /><br />REQUIREMENTS<br /><br />Professional experience with server-side PHP scripting (5+ years). You love PHP and know how to use the latest version of it.<br />Experience with Laravel or any modern web framework (2+ years).<br />Know what a technical debt is, when to create it and how to pay it back.<br />Experience in designing, building, and consuming public APIs.<br />Familiar with AWS for full stack implementation: EC2, S3, RDS, Route 53 etc.<br />Experience with relational databases (MySQL).<br />Understanding of modern web stacks and architecture (HTTP, REST).<br />Knowledge of the value of well-written documentation, continuous integration, and security rules.<br />Knowledge of design patterns, good practices and latest evolvements in software development.<br />Eager to work in a fast-paced startup environment and a desire to disrupt logistics.<br />Not throwing out GoT spoilers on Monday mornings (even though we watch it live, of course).<br />A sense of humour.<br /><br /><br />PREFERENCE GIVEN TO APPLICANTS WITH THE FOLLOWING<br /><br />Experience with ecommerce platforms (Magento, WooCommerce, Amazon etc).<br />Experience with web architecture at scale.<br />Experience with key-value stores (Memcache, Redis).<br />Experience with logistics.<br /><br />BENEFITS<br /><br />£40-£70K salary, depending on experience<br />Work remotely often<br />Top-notch kit. We'll get you a shiny new Macbook with a monitor of your preference and all the bells and whistles.<br />Weengs Academy: £1,000 personal budget for education with conferences, courses etc, and unlimited purchases of books<br />Friday free lunch<br />Free snacks and drinks every day<br />Cycle to work scheme, get a bike and let's make a team ride!"
+  },
+  {
+    "id": "NvyEK9OXQICTc8aAcufrRw",
+    "url": "https://stackoverflow.com/jobs/186051/senior-wordpress-backend-developer-boyle-software?a=10oxcKCDL4Os",
+    "title": "Senior WordPress Backend Developer at Boyle Software (Kyiv, Ukraine) ",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:wordpress/php/20",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=25, embedded=0, frontend=31}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 28000,
+      "maxValue": 47000,
+      "info": "",
+      "unit": "YEAR",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 26, 2018 12:06:14 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Senior WordPress Backend Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer, Frontend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Custom IT Solutions, Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Boyle Software | Kyiv, Ukraine<br></div>                        <h3>Remote details</h3>                        <div>                            <div>                                                                                                    <div>                                        <span>Office Location:</span>                                        <span>Kyiv, Ukraine.</span>                                            <span>Employees can also work full time from this office.</span>                                    </div>                                                                                            </div>                        </div>                    <h3>Technologies</h3><div></div><div>wordpress</div><div>backend</div><div>frontend</div><div>php</div>                <h3>Job description</h3>                <div><p><strong>Requirements:</strong></p><ul><li>3+ years of experience with&nbsp;WordPress as backend developer</li><li>Experience with MySQL, HTML5, CSS3, JavaScript, jQuery, Git, Memcached</li><li>Experience with&nbsp;CSS/JS compilation with Gulp/Yarn</li><li>English communication skills</li></ul><p><strong>Extras:</strong></p><ul><li>React.js</li><li>Curiosity</li><li>Sense of Humor</li></ul><p>These positions are for&nbsp;remote full-time&nbsp;developers in Ukraine. Compensation will depend upon the candidate's experience ($15 - $25 per hour).</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/186051?reset=False&amp;ra=10oxcKCDL4Os&amp;oqs=a%3D10oxcKCDL4Os' rel='nofollow'>Apply now</a></div>            <h3>About Boyle Software</h3>            <div><p>Boyle Software is more than the sum of its parts. We are a successful company because we attract and retain the top talent in the industry. Challenging each other with the latest technology packages, frameworks and platforms, we are constantly evolving and improving ourselves. Boyle Software is a family full of talent and passion for the latest technology with offices in New York City and Kiev, Ukraine.</p><p>We design, develop, and deliver custom technology solutions for Fortune 1000 clients. We offer great benefits and re-invest in our staff.</p><p>Please explore our website for more information about us.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Generous salaries</span>                            </li>                            <li>                                <span></span>                                <span>Full health insurance</span>                            </li>                            <li>                                <span></span>                                <span>Dental reimbursement plan</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work hours</span>                            </li>                    </ul>                "
+  },
+  {
     "id": "5Y6HvhWTQdeZ5oL1Wp888Q",
     "url": "https://remote.co/job/senior-backup-architect/",
     "title": "Backend Web Developer",
@@ -94,6 +179,42 @@
     "published": "Jul 25, 2018 5:21:24 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<div><div><div></div></div><div><div><div><p><strong>Developer (PHP, JavaScript) - Theale - 3 days remote!</strong></p><p>Avanti Recruitment is currently partnering with an impressive software provider based near Reading. They are growing at a rapid pace globally and therefore have an exciting opportunity for a Mid-level full stack web developer to develop a SAAS based solution used by some huge players.</p><p>Ideally with experience in multiple technologies, you will join a highly skilled development team and write clean, maintainable, well-structured performant code. You will work alongside cross functional teams of passionate Developers, Testers, DevOps and UX professionals.</p><p>This is an amazing opportunity to join a rapidly growing organisation with a very cool software product that is being used by some of the biggest players in e-commerce. The culture is collaborative and fun as well as flexible. Developers tend to work from home 2 or 3 days a week so the remote working policy is a big plus for a lot of people.</p><p>Ideal Skills required;</p><ul><li>Experience using PHP 7</li><li>Experience of Yii2 or similar</li><li>Experience of JavaScript ES5/ES6</li><li>Experience developing Single Page Applications using VueJS and Vuex or similar</li><li>Experience in CSS</li><li>Developing for MySQL/MariaDB database</li><li>Experience of using Apache and Nginx<br></li></ul><p>Even more bonus points;</p><ul><li>Developing with the use of Dockers</li><li>Knowledge of data structures for NoSQL databases</li><li>Designing and working with RESTful APIs and / or GraphQL<br></li></ul><p>For more information on this enticing opportunity please feel free to contact Mike Walton at Avanti or apply online now for immediate consideration.</p><p></p></div></div><div></div></div></div>"
+  },
+  {
+    "id": "npnEYCBBR8yxShnM2uhPaA",
+    "url": "https://authenticjobs.com/jobs/30767?r=rss2",
+    "title": "EthoStream: App Developer",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 25, 2018 4:56:42 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<p>Full-time</p><p><strong>(Anywhere)</strong> </p><p>Our company provides the hospitality industry with solutions to get data and voice systems up and running in their properties. We provide a suite of services to them through some cool apps that we create and maintain. We’re a company making some changes and looking for some real talent.&nbsp;&nbsp; In an industry that is ready for a ton of innovation we are investing in building a top notch team that can build the future...join us.</p><p>We are looking to build a team of smart motivated people to continue killing it in the hospitality industry. If that’s you, please reach out, we’re really excited to talk to you.</p><p><strong>Principle Duties</strong></p><ul><li>Write some good PHP or Javascript (preferably both) and know what you’re doing</li><li>Be organized, detailed and professional in all aspects of your work</li><li>Work well with others - Be a reliable teammate</li><li>Speak up and be heard. You’ll be a valued member of the team and your opinion will matter...we’re building stuff together</li><li>Work on and interact with a large web app and understand the environments in which it runs</li></ul><p><strong>Qualifications</strong></p><ul><li>PHP and/or Javascript development experience. You should have already built large apps and understand some best practices (any other language abilities are a plus here)</li><li>The ability to prove your experience. Like a portfolio of some work you’ve done...preferably in production</li><li>Experience being a professional and working within a larger organization</li><li>Great communication, presentation, and organization skills; Be someone that can own work; Be a self-starter; Like to solve problems</li><li>Be able to document your code. Experience with Git and a couple of other modern web technologies for development and communication. (AWS, Slack, Trello, etc.)</li><li>Have a grasp of Linux based systems. Some sysadmin experience is great</li><li>Be security minded...understand some common defense strategies to keep our apps safe and warm</li></ul><p><strong>The Other Important Stuff…</strong></p><p>Your pay is negotiable and dependent on your ability and experience. Along with your salary we offer really great healthcare, dental and vision benefits and a great amount of paid leave. Mixed into all of it are periodic company trips and parties so we can all get to know each other better.</p><p></p><p><strong>Apply:</strong> </p>"
   },
   {
     "id": "D2WKSC49RliovxefngvENw",
@@ -1777,47 +1898,6 @@
     "published": "Jul 13, 2018 6:33:02 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<h2><span>Linux Full Stack Developers (Offsite Development) - Sports Publishing</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Junior, Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Education, E-Sports, Publishing</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: VNN Inc | Ann Arbor, MI<br></div>                        <h3>Remote details</h3>                        <div>                            <div>                                                                                                    <div>                                        <span>Office Location:</span>                                        <span>Ann Arbor, MI.</span>                                            <span>Employees can also work full time from this office.</span>                                    </div>                                                                                            </div>                        </div>                    <h3>Technologies</h3><div></div><div>php</div><div>reactjs</div><div>angular</div><div>node.js</div><div>ansible</div>                <h3>Job description</h3>                <div><p>VNN is looking for experienced Linux full stack/PHP/Javascript Application developers. People who can make insightful, rapid, every-day decisions needed in a startup environment with an interest in sports, sports marketing, or related activities.</p><p>While development is 100% offsite team, based in Ann Arbor MI, candidate should be within driving distance of Grand Rapids, Michigan for in person planning meetings and company meetings and celebrations 2 or 3 times a year.</p><p>VNN enables athletic departments to leverage social technologies to promote their sports teams, in doing so crafting a unique and memorable experience for athletes. This person will be comfortable joining a small team leading that charge, based on a keen understanding of VNN’s business goals and strategy.</p><p>We need those who thrive on the pace of a start-up and embrace the many different roles they will have to play. Yet you will still be able to adapt processes and maintain strong design principles, making the trade-offs needed to meet timely delivery schedules.</p><p>While you’ll be responsible to work with a small team to ensure the successful execution of our technology strategy, you shouldn’t view yourself as a simple “developer”. Your success will also result from cultivating an ongoing relationship with operations, sales, marketing, technology partners, and advertisers leveraging those unique insights to craft user experience. Being able to work independently and in collaborative phases is a must.</p><p><strong>Skills &amp; Requirements</strong></p><p>The ideal candidate can currently describe themselves or wish to develop into the type of software professional defined here: <a href='https://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer' rel='nofollow'>What is a Full Stack Developer?</a></p><p>Preferred qualifications:</p><ul><li>4+ years experience application programming languages including PHP/MySQL&nbsp;</li><li>Ability to program in various scripting languages: Angular, React, Ansible, NodeJS, Javascript etc</li><li>Working knowledge of LAMP or equivalent Linux Stack</li><li>Ability to change directions and priorities often and quickly</li><li>Strong written and spoken communication skills needed for the success of a remote group that leverages Slack and Hangouts</li><li>Interested in sports, sports marketing, or related activities</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/142249?reset=False&amp;ra=LHLuoQE2yeA&amp;oqs=a%3DLHLuoQE2yeA' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About VNN Inc</h3>            <div><p>VNN Inc is a rapidly growing, highly progressive company that is reshaping high school sports media from the ground up.&nbsp; Regardless of the role, the VNN team embraces the power of storytelling, and works to bring clarity, beauty and fun to technology that enables fans to share the stories of high school athletes.&nbsp; We are a company of 60 passionate makers and hustlers, who believe in the disruptive impact the right team and technology can have on an industry.&nbsp; Our work begins with a deep understanding of the parents, athletes, coaches and administrators that make up high school sports, and ends with simple fun products that impact real people across the country.&nbsp;</p><p>Working with our tight-knit team, you won’t have to worry about big company bureaucracy or not having an impact, the code you work on will be used by thousands on a daily basis.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Free Snacks</span>                            </li>                            <li>                                <span></span>                                <span>Great working environment</span>                            </li>                            <li>                                <span></span>                                <span>Get Paid What you Deserve</span>                            </li>                            <li>                                <span></span>                                <span>Health Care</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Remote Team</span>                            </li>                    </ul>                "
-  },
-  {
-    "id": "erdRvKo8TiW07wMsadjw6A",
-    "url": "https://stackoverflow.com/jobs/196930/drupal-cloud-developer-platformsh?a=142JXv2Et0ic",
-    "title": "Drupal Cloud Developer at Platform.sh  ",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG:surround``OR(work,2W(work,remot)) 3W from 2W OR(wherev,wherev,where)",
-      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:drupal/php/40",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:techWeightMap:{python=6, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=2, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=45, embedded=0, frontend=2}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 13, 2018 6:33:02 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<h2><span>Drupal Cloud Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud-Based Solutions, Continuous Delivery, PaaS</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Platform.sh | No office location<br></div><h3>Technologies</h3><div></div><div>cloud</div><div>python</div><div>drupal</div>                <h3>Job description</h3>                <div><p><strong>Mission</strong></p><p>We're looking for a senior Drupal developer with significant experience in back-end development of Drupal sites, especially with experience in the e-commerce arena. We're looking to add build features, upgrade and maintain our existing systems, as well as plan for a transition where pieces of these systems are either migrated to Drupal 8 or other new solutions over the course of the next couple years. All of this work is intimately connected to the rest of our cloud hosting and devops tooling product -- interest in the &quot;devops&quot; problem space and solving problems for our cloud customers is key. Our team stands at the forefront of user experience, as well as new features being offered to our customers and partners. Being comfortable tackling programming problems from the architecture level all the way down to proper code implementation is a big plus -- the team is small, the to-do list long, and engineers generally have a great deal of autonomy to implement features and drive the product forward. &nbsp;Your contribution matters.&nbsp;</p><p><strong>Must Have</strong></p><p>- Senior-level experience with Drupal back-end development (both 7 and 8 ideally) -- custom modules and product/feature builds in Drupal</p><p>- Desire to tackle feature implementation and user experience design challenges from a high-level user story view through final implementation</p><p>- Solid experience with web development patterns and the needs of engineers using a web app development and hosting tool</p><p><strong>Nice to have</strong></p><p>- Familiarity with the other languages in our stack (Javascript, Go, Python)</p><p>- Experience or interest in the &quot;cloud computing&quot; stuff that makes up our back end, anything from distributed computing to networking to devops and the big box that is &quot;make a bunch of Linux containers play nicely together&quot;</p>                </div>            <div>        <a href='https://grnh.se/7ecddeb52' rel='nofollow'>                        Apply now        </a></div>            <h3>About Platform.sh</h3>            <div><p>Platform.sh is a next-generation hosting and development tool for a wide variety of web applications. Our platform-as-a-service model is designed to take an application from the developer's app codebase to a working set of cloud environments with as few traditional &quot;devops&quot; challenges as possible. This involves a lot of really cool software (mostly written in a mix of Python and Go, and with user-facing tools in PHP and Javascript) that helps us make magical features at all layers of the traditional hosting stack: distributed and redundant storage, automated container orchestration, highly-available applications and services, fast creation and replication of environments, etc.</p><p>The company is entirely distributed with an HQ in Paris that 10-15% of the company works out of. Various team meetups or occasional get togethers both there and around the world are common.</p><p>Travel to various developer-oriented events available to developers who are interested in conferences both, for marketing and educational purposes.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Work from home, wherever you are</span>                            </li>                            <li>                                <span></span>                                <span>Safe and friendly working environment</span>                            </li>                            <li>                                <span></span>                                <span>Stock options for everyone</span>                            </li>                            <li>                                <span></span>                                <span>Rest and recovery are essential to health and happiness; we get that</span>                            </li>                    </ul>                "
   },
   {
     "id": "Y33UMT-6QkKGUFIh8fngcQ",
@@ -6601,126 +6681,6 @@
     "published": "May 28, 2018 3:48:54 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "JOB TYPE: Full time<br /><br />LOCATION: <br />Bangkok, Thailand<br /> (Partial remote)<br /><br />Anywhere in<br />Bangkok<br /><br /><br />EXPERIENCE: intermediate<br /><br />COMPANY: Outsourcify; 0-25 employees; 0-25% remote;<br /><br />We are looking for senior PHP engineers to join our team to work on the development of complex web applications and eventually to become team leaders and manage junior developers.<br /><br />One of our customers is a large online Forex and CFD Broker from Australia, they provide technological solutions for traders around the world : a client portal with different payment gateway integrated and internal application to manage the client base (custom built CRM, ERP). We are creating to work on their projects from our Bangkok office.<br /><br />This position requires solid knowledge of PHP, if possible of the Symfony framework. It is “coding focused”, but it should evolve into a team leader role to manage junior PHP developers that will be recruited eventually.<br /><br />After a few months discovering the different web applications and the work processes, you role will evolve to become a team leader and manage junior PHP developers."
-  },
-  {
-    "id": "S4fC3zs1RHqg9mzgpDwmmw",
-    "url": "http://jobmote.com/jobs/11498-sr-php-developer-remote-experience-10-years-required",
-    "title": "Sr. PHP Developer (Remote) Experience (10+ Years required)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:extjs/frontend/8",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:php/php/35",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=35, embedded=0, frontend=13}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 26, 2018 1:20:58 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "Sr. PHP Developer (Remote) Experience (10+ Years required) - Jobmote<div><div><h2>Sr. PHP Developer (Remote) Experience (10+ Years required)</h2><h5>Accolite Inc</h5></div></div><div><div><div><div></div></div><div><div><div><p>Role: PHP Developer Remote position Duration : Long Term Contract Job Description:- Technologies you'll work with: PHP, JavaScript, ExtJS, HTML, CSS PostgreSQL, Redis, Puppet, Skills you'll need Expertise in PHP and JavaScript programming Experience working in Linux environments Knowledge of object oriented programming - provided by Dice </p><p>PHP Developer </p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
-  },
-  {
-    "id": "i4wVvSraSN2ak4YsFXnhMw",
-    "url": "http://jobmote.com/jobs/11468-full-stack-php-developer-remote-london-30k",
-    "title": "Full Stack PHP Developer - Remote/London - £30k",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
-      "DBG_TECH1:k/t/w:php/php/20",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=20, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 26, 2018 10:21:04 AM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "Full Stack PHP Developer - Remote/London - £30k - Jobmote<div><div><h2>Full Stack PHP Developer - Remote/London - £30k</h2><h5>SR2</h5></div></div><div><div><div><div></div></div><div><div><div><p>A website design agency based in London are looking a Full stack PHP Developer to join their small but successful team. This position is fully remote and available for someone who is based in the UK as there will be monthly meetings along with constant feedback and mentoring (ideally you will live near London).<br>The job<br>..... click apply for full job details </p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
-  },
-  {
-    "id": "MAikiqnZRi6vtoMDEW_mCA",
-    "url": "https://remote.com/jobs/browse/preview/web-developer-remote-google-api-adwords-facebook-api",
-    "title": "Web Developer (Remote, Google API, AdWords, Facebook API)",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:devise/ruby/8",
-      "DBG_TECH1:k/t/w:javascript/frontend/4",
-      "DBG_TECH1:k/t/w:javascript/nodejs/4",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:php/php/15",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=1, c=0, mobile=0, go=0, nodejs=4, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=15}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 26, 2018 3:22:46 AM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "JOB TYPE: Part Time<br /><br />EXPERIENCE: expert<br /><br />COMPANY: NEARiX; 75-100 employees; 75-100% remote;<br /><br />SKILLS: <br />• Facebook API<br />• JavaScript<br />• PHP4/5<br />• Google AdWords<br />• Google API<br /><br />Job Description:<br /><br />We are seeking a Full Stack Web Developer responsible for building Analytics applications using JavaScript, PHP or relevant languages and tools. Your primary responsibility will be to engineer, design and develop solutions using Google Analytics and or Facebook Analytics API, as well as Google Adwords . Coordinate with the rest of the team working on different layers of the infrastructure. A commitment to collaborative problem solving, sophisticated design, and quality product is essential.<br /><br />Responsibilities:<br /><br />* Translate application storyboards and use cases into functional applications<br />* Design, build, and maintain efficient, reusable, and reliable code<br />* Integrate data storage solutions<br />* Ensure the best possible performance, quality, and responsiveness of applications<br />* Identify bottlenecks and bugs, and devise solutions to mitigate and address these issues<br />* Help maintain code quality, organization, and automatization<br />* Advise and consult on current and emerging technologies for optimal implementation and performance of tag management solution<br /><br /><br />Qualification/Skills:<br /><br />* Bachelor’s Degree in Computer Science or equivalent experience<br />* Professional web development experience user server-side and client-side web programming in a commercial environment (5+ years exp.)<br />* Considerable experience in tracking pixel and tag management methodologies & concepts<br />* Experience developing for business-to-business and corporate marketing program<br />* Strong understanding of object-oriented programming<br />* Skill for writing reusable libraries<br />* Utilize established development tools, guidelines and conventions including but not limited to PHP, HTML, CSS, JavaScript, JQuery amongst others.<br />* Familiar with various design and architectural patterns<br />* Knowledge of concurrency patterns<br />* 3+ years with MySql, PostgreSQL, Microsoft SQL Server.<br />* Experience with popular web application frameworks<br />* Proficient at writing clean, readable, and easily maintainable code<br />* Understanding of fundamental design principles for building a scalable application<br />* Experience creating database schemas that represent and support business processes<br />* Experience implementing automated testing platforms and unit tests<br />* Proficient understanding of code versioning tools such as GIT, and TFS<br />* Strong analytical and solid troubleshooting abilities<br />* Excellent interpersonal, communication, and organization skills required<br />* Strong attention to detail, highly developed critical thinking skills<br /><br />Really Nice to Have:<br />* Experience with JavaScript of PHP, Google API, AdWords or Facebook API is a must"
   }
 ]
 }
