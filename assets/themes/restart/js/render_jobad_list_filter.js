@@ -58,8 +58,8 @@ $(document).ready(function () {
                 locale: 'en-US',
                 uniqueId: 'id',
                 icons: {
-                    detailOpen: 'fa fa-plus-square iconStyle',
-                    detailClose: 'fa fa-minus-square iconStyle'
+                    detailOpen: 'fa fa-caret-right iconStyle',
+                    detailClose: 'fa fa-caret-down iconStyle'
                 },
                 columns: [
                     {
@@ -472,7 +472,7 @@ function publishedFormatter(value) {
  * @return {string} the "title" column as HTML
  */
 function titleFormatter(value, row) {
-    return '<a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'"><b>' + row.title + '</b></a><br>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2);
+    return '<a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'">' + row.title + '</a><br>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2);
 }
 
 /**
