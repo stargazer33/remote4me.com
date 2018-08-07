@@ -241,8 +241,9 @@ tr[data-index] {
   padding: 20px;
 }
 .labelTag {
-    background: #428bca17;
-    color: #428bca;
+    background: #ffffff;
+    color: #777777;
+    border: 1px solid #dddddd;
     float: left;
     font-weight: normal;
     font-size: 12px;

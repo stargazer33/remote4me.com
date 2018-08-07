@@ -472,7 +472,7 @@ function publishedFormatter(value) {
  * @return {string} the "title" column as HTML
  */
 function titleFormatter(value, row) {
-    return '<a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'">' + row.title + '</a>' + '<p class="job-info">' + row.hiringOrganization.name + ' — Remote/Europe</p>' + '<p class="job-info">Salary: ' + row.salary.currency + ' ' + row.salary.maxValue + '–' + row.salary.minValue + '</p>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2);
+    return '<a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'">' + row.title + '</a> <br>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2);
 }
 
 /**
