@@ -251,14 +251,19 @@ tr[data-index] {
     margin-top: 7px;
     padding: 5px;
 }
-td a .fa {
+td a .fa-caret-right, td a .fa-caret-down {
   padding: 24px;
 }
 .highlight {
     padding: 9px 14px;
-    border-left: 1px solid #dddddd;
-    border-right: 1px solid #dddddd;
+}
+tr.detail-view {
+  border-left: 1px solid #dddddd;
+  border-right: 1px solid #dddddd;
 }
 .job-info {
 margin: 5px 0;
+}
+.footer-row {
+  margin-top: 20px;
 }
