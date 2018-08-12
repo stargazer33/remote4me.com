@@ -472,7 +472,20 @@ function publishedFormatter(value) {
  * @return {string} the "title" column as HTML
  */
 function titleFormatter(value, row) {
-    return '<a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'">' + row.title + '</a> <br>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2);
+    var title = '<p  class="job-title"><a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'">' + row.title + '</a></p>';
+    var tags = '<div>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2) + '</div>';
+    var organization = '';
+    var salary = '';
+    if (row.hiringOrganization.name !== "UNSET") {
+      organization = '<p class="job-info">' + row.hiringOrganization.name + '</p>';
+      if (row.hiringOrganization.sameAs !== "UNSET") {
+        organization = '<p class="job-info"><a href="'+ row.hiringOrganization.sameAs + '">' + row.hiringOrganization.name + '</a></p>';
+      }
+    }
+    if (row.salary.currency !== "UNSET" && row.salary.minValue !== 0 && row.salary.maxValue !== 0) {
+      salary = '<p class="job-info">' + row.salary.minValue + "–" + row.salary.maxValue + ' ' + row.salary.currency + '</p>';
+    }
+    return title + organization + salary + tags;
 }
 
 /**

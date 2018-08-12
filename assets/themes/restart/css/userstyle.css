@@ -228,7 +228,7 @@ Create custom navbar-like custom styles */
 }
 
 /* Table styling */
-td.spanLink a {
+a.rowTitleClass {
   font-size: 1.3em;
 }
 tr[data-index] {
@@ -261,9 +261,13 @@ tr.detail-view {
   border-left: 1px solid #dddddd;
   border-right: 1px solid #dddddd;
 }
-.job-info {
-margin: 5px 0;
-}
 .footer-row {
   margin-top: 20px;
+}
+.job-info {
+  margin: 0;
+}
+.job-title {
+  margin: 0;
+  margin-bottom: 2px;
 }
