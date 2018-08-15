@@ -479,34 +479,47 @@ function titleFormatter(value, row) {
     return title + organization + salary + tags;
 }
 
-function organizationFormatter(row) {
-  if (!row.hasOwnProperty("hiringOrganization")) {
-    return '';
-  } else if (row.hiringOrganization.name == "UNSET") {
-    return '';
-  } else if (row.hiringOrganization.sameAs !== "UNSET") {
-    return '<p class="job-info"><a href="'+ row.hiringOrganization.sameAs + '">' + row.hiringOrganization.name + '</a></p>';
-  } else {
-    return '<p class="job-info">' + row.hiringOrganization.name + '</p>';
-  }
+/**
+ * @return {string} HTML for job.hiringOrganization
+ */
+function organizationFormatter(job) {
+    if (!job.hasOwnProperty("hiringOrganization"))
+        return '';
+    if (job.hiringOrganization.name == "UNSET")
+        return '';
+
+    if (job.hiringOrganization.sameAs !== "UNSET") {
+        return '<p class="job-info"><a href="' + job.hiringOrganization.sameAs + '">' + job.hiringOrganization.name + '</a></p>';
+    }
+    else {
+        return '<p class="job-info">' + job.hiringOrganization.name + '</p>';
+    }
 }
 
-function salaryFormatter(row) {
-  if (!row.hasOwnProperty("salary")) {
-    return '';
-  } else if (row.salary.currency == "UNSET" && row.salary.unit == "UNSET") {
-    return '';
-  } else if (row.salary.minValue == 0 && row.salary.maxValue == 0) {
-    return '';
-  } else if (row.salary.minValue == row.salary.maxValue) {
-    return '<p class="job-info">' + row.salary.maxValue + ' ' + row.salary.currency + '/' + row.salary.unit + '</p>';
-  } else {
-    return '<p class="job-info">' + row.salary.minValue + '–' + row.salary.maxValue + ' ' + row.salary.currency + '/' + row.salary.unit + '</p>';
-  }
+/**
+ * @return {string} HTML for job.salary
+ */
+function salaryFormatter(job) {
+    if (!job.hasOwnProperty("salary"))
+        return '';
+    if (job.salary.currency == "UNSET" && job.salary.unit == "UNSET")
+        return '';
+    if (job.salary.minValue == 0 && job.salary.maxValue == 0)
+        return '';
+
+    if (job.salary.minValue == job.salary.maxValue) {
+        return '<p class="job-info">' + job.salary.maxValue + ' ' + job.salary.currency + '/' + job.salary.unit + '</p>';
+    }
+    else {
+        return '<p class="job-info">' + job.salary.minValue + '–' + job.salary.maxValue + ' ' + job.salary.currency + '/' + job.salary.unit + '</p>';
+    }
 }
 
-function tagsFormatter(row) {
-  return '<div>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2) + '</div>';
+/**
+ * @return {string} HTML for job.tagsNames1 and job.tagsNames2
+ */
+function tagsFormatter(job) {
+    return '<div>' + tagsDeco(job.tagsNames1) + tagsDeco(job.tagsNames2) + '</div>';
 }
 
 /**
