@@ -473,19 +473,40 @@ function publishedFormatter(value) {
  */
 function titleFormatter(value, row) {
     var title = '<p  class="job-title"><a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'">' + row.title + '</a></p>';
-    var tags = '<div>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2) + '</div>';
-    var organization = '';
-    var salary = '';
-    if (row.hiringOrganization.name !== "UNSET") {
-      organization = '<p class="job-info">' + row.hiringOrganization.name + '</p>';
-      if (row.hiringOrganization.sameAs !== "UNSET") {
-        organization = '<p class="job-info"><a href="'+ row.hiringOrganization.sameAs + '">' + row.hiringOrganization.name + '</a></p>';
-      }
-    }
-    if (row.salary.currency !== "UNSET" && row.salary.minValue !== 0 && row.salary.maxValue !== 0) {
-      salary = '<p class="job-info">' + row.salary.minValue + "–" + row.salary.maxValue + ' ' + row.salary.currency + '</p>';
-    }
+    var tags = tagsFormatter(row);
+    var organization = organizationFormatter(row);
+    var salary = salaryFormatter(row);
     return title + organization + salary + tags;
+}
+
+function organizationFormatter(row) {
+  if (!row.hasOwnProperty("hiringOrganization")) {
+    return '';
+  } else if (row.hiringOrganization.name == "UNSET") {
+    return '';
+  } else if (row.hiringOrganization.sameAs !== "UNSET") {
+    return '<p class="job-info"><a href="'+ row.hiringOrganization.sameAs + '">' + row.hiringOrganization.name + '</a></p>';
+  } else {
+    return '<p class="job-info">' + row.hiringOrganization.name + '</p>';
+  }
+}
+
+function salaryFormatter(row) {
+  if (!row.hasOwnProperty("salary")) {
+    return '';
+  } else if (row.salary.currency == "UNSET" && row.salary.unit == "UNSET") {
+    return '';
+  } else if (row.salary.minValue == 0 && row.salary.maxValue == 0) {
+    return '';
+  } else if (row.salary.minValue == row.salary.maxValue) {
+    return '<p class="job-info">' + row.salary.maxValue + ' ' + row.salary.currency + '/' + row.salary.unit + '</p>';
+  } else {
+    return '<p class="job-info">' + row.salary.minValue + '–' + row.salary.maxValue + ' ' + row.salary.currency + '/' + row.salary.unit + '</p>';
+  }
+}
+
+function tagsFormatter(row) {
+  return '<div>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2) + '</div>';
 }
 
 /**
@@ -526,7 +547,7 @@ function rowTitleClick(aNode) {
     markHrefAsVisited(aNode.href);
 
     // send click to PlusMinus Node
-    var nodePlusMinus=aNode.parentNode.parentNode.children[2].children[0];
+    var nodePlusMinus=aNode.parentNode.parentNode.parentNode.children[2].children[0];
     nodePlusMinus.click();
     return false;
 }
@@ -541,6 +562,6 @@ function rowPlusMinusClick( eventObject) {
         return;
     }
     // mark "title" anchor visited
-    var titleNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0];
+    var titleNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0].children[0];
     markHrefAsVisited(titleNode.href);
 }

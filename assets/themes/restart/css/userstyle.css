@@ -271,3 +271,9 @@ tr.detail-view {
   margin: 0;
   margin-bottom: 2px;
 }
+.job-info a {
+  color: #333333;
+}
+.job-info a:hover {
+  color: #000000;
+}
