@@ -489,10 +489,10 @@ function organizationFormatter(job) {
         return '';
 
     if (job.hiringOrganization.sameAs !== "UNSET") {
-        return '<p class="job-info"><a href="' + job.hiringOrganization.sameAs + '">' + job.hiringOrganization.name + '</a></p>';
+        return '<p class="job-info org-info"><a href="' + job.hiringOrganization.sameAs + '">' + job.hiringOrganization.name + '</a></p>';
     }
     else {
-        return '<p class="job-info">' + job.hiringOrganization.name + '</p>';
+        return '<p class="job-info org-info">' + job.hiringOrganization.name + '</p>';
     }
 }
 

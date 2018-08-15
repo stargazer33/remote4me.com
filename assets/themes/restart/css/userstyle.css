@@ -241,6 +241,8 @@ tr[data-index] {
   padding: 20px;
 }
 .labelTag {
+    /* background: #428bca17;
+    color: #428bca; */
     background: #ffffff;
     color: #777777;
     border: 1px solid #dddddd;
@@ -250,6 +252,7 @@ tr[data-index] {
     margin-right: 5px;
     margin-top: 7px;
     padding: 5px;
+
 }
 td a .fa-caret-right, td a .fa-caret-down {
   padding: 24px;
@@ -271,9 +274,15 @@ tr.detail-view {
   margin: 0;
   margin-bottom: 2px;
 }
-.job-info a {
+/* .job-info a {
   color: #333333;
 }
 .job-info a:hover {
   color: #000000;
+} */
+.org-info {
+    background: #83838321;
+    display: inline-block;
+    padding: 2px 5px;
+    border-radius: .15em;
 }
