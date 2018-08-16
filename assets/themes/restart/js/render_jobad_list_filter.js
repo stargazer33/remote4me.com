@@ -521,16 +521,25 @@ function salaryFormatter(job) {
     return result;
 }
 
+/**
+ * @returns info (salary.info) formatted
+ */
 function infoFormatter(info) {
     if(info)
         return " | " + info;
     return info;
 }
 
+/**
+ * @returns {string} salary.unit formatted: MONTH->Month, YEAR->Year etc
+ */
 function salaryUnitFormatter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase();
 }
 
+/**
+ * @returns {string} salary.currency formatted
+ */
 function currencyFormatter(curr){
     if(curr.length > 1)
         return curr + ' ';
