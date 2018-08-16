@@ -513,11 +513,13 @@ function salaryFormatter(job) {
     else
         result = kFormatter(job.salary.minValue) + ' – ' + kFormatter(job.salary.maxValue);
 
-    result =    currencyFormatter(job.salary.currency) +
+    result =    '<p class="job-info">' +
+                currencyFormatter(job.salary.currency) +
                 result +
                 ' /' +
                 salaryUnitFormatter(job.salary.unit) +
-                infoFormatter(job.salary.info);
+                infoFormatter(job.salary.info) +
+                '</p>'
     return result;
 }
 
