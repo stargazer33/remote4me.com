@@ -281,8 +281,7 @@ tr.detail-view {
   color: #000000;
 } */
 .org-info {
-    background: #83838321;
     display: inline-block;
-    padding: 2px 5px;
     border-radius: .15em;
+    padding: 2px 5px 2px 0px;
 }
