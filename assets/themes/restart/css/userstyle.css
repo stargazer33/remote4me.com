@@ -228,7 +228,7 @@ Create custom navbar-like custom styles */
 }
 
 /* Table styling */
-td.spanLink a {
+a.rowTitleClass {
   font-size: 1.3em;
 }
 tr[data-index] {
@@ -241,6 +241,8 @@ tr[data-index] {
   padding: 20px;
 }
 .labelTag {
+    /* background: #428bca17;
+    color: #428bca; */
     background: #ffffff;
     color: #777777;
     border: 1px solid #dddddd;
@@ -250,6 +252,7 @@ tr[data-index] {
     margin-right: 5px;
     margin-top: 7px;
     padding: 5px;
+
 }
 td a .fa-caret-right, td a .fa-caret-down {
   padding: 24px;
@@ -261,9 +264,25 @@ tr.detail-view {
   border-left: 1px solid #dddddd;
   border-right: 1px solid #dddddd;
 }
-.job-info {
-margin: 5px 0;
-}
 .footer-row {
   margin-top: 20px;
+}
+.job-info {
+  margin: 0;
+}
+.job-title {
+  margin: 0;
+  margin-bottom: 2px;
+}
+/* .job-info a {
+  color: #333333;
+}
+.job-info a:hover {
+  color: #000000;
+} */
+.org-info {
+    background: #83838321;
+    display: inline-block;
+    padding: 2px 5px;
+    border-radius: .15em;
 }
