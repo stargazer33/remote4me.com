@@ -472,7 +472,54 @@ function publishedFormatter(value) {
  * @return {string} the "title" column as HTML
  */
 function titleFormatter(value, row) {
-    return '<a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'">' + row.title + '</a> <br>' + tagsDeco(row.tagsNames1) + tagsDeco(row.tagsNames2);
+    var title = '<p  class="job-title"><a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'">' + row.title + '</a></p>';
+    var tags = tagsFormatter(row);
+    var organization = organizationFormatter(row);
+    var salary = salaryFormatter(row);
+    return title + organization + salary + tags;
+}
+
+/**
+ * @return {string} HTML for job.hiringOrganization
+ */
+function organizationFormatter(job) {
+    if (!job.hasOwnProperty("hiringOrganization"))
+        return '';
+    if (job.hiringOrganization.name == "UNSET")
+        return '';
+
+    if (job.hiringOrganization.sameAs !== "UNSET") {
+        return '<p class="job-info org-info"><a href="' + job.hiringOrganization.sameAs + '">' + job.hiringOrganization.name + '</a></p>';
+    }
+    else {
+        return '<p class="job-info org-info">' + job.hiringOrganization.name + '</p>';
+    }
+}
+
+/**
+ * @return {string} HTML for job.salary
+ */
+function salaryFormatter(job) {
+    if (!job.hasOwnProperty("salary"))
+        return '';
+    if (job.salary.currency == "UNSET" && job.salary.unit == "UNSET")
+        return '';
+    if (job.salary.minValue == 0 && job.salary.maxValue == 0)
+        return '';
+
+    if (job.salary.minValue == job.salary.maxValue) {
+        return '<p class="job-info">' + job.salary.maxValue + ' ' + job.salary.currency + '/' + job.salary.unit + '</p>';
+    }
+    else {
+        return '<p class="job-info">' + job.salary.minValue + '–' + job.salary.maxValue + ' ' + job.salary.currency + '/' + job.salary.unit + '</p>';
+    }
+}
+
+/**
+ * @return {string} HTML for job.tagsNames1 and job.tagsNames2
+ */
+function tagsFormatter(job) {
+    return '<div>' + tagsDeco(job.tagsNames1) + tagsDeco(job.tagsNames2) + '</div>';
 }
 
 /**
@@ -513,7 +560,7 @@ function rowTitleClick(aNode) {
     markHrefAsVisited(aNode.href);
 
     // send click to PlusMinus Node
-    var nodePlusMinus=aNode.parentNode.parentNode.children[2].children[0];
+    var nodePlusMinus=aNode.parentNode.parentNode.parentNode.children[2].children[0];
     nodePlusMinus.click();
     return false;
 }
@@ -528,6 +575,6 @@ function rowPlusMinusClick( eventObject) {
         return;
     }
     // mark "title" anchor visited
-    var titleNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0];
+    var titleNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0].children[0];
     markHrefAsVisited(titleNode.href);
 }
