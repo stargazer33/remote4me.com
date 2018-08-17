@@ -507,12 +507,55 @@ function salaryFormatter(job) {
     if (job.salary.minValue == 0 && job.salary.maxValue == 0)
         return '';
 
-    if (job.salary.minValue == job.salary.maxValue) {
-        return '<p class="job-info">' + job.salary.maxValue + ' ' + job.salary.currency + '/' + job.salary.unit + '</p>';
-    }
-    else {
-        return '<p class="job-info">' + job.salary.minValue + '–' + job.salary.maxValue + ' ' + job.salary.currency + '/' + job.salary.unit + '</p>';
-    }
+    var result;
+    if (job.salary.minValue == job.salary.maxValue)
+        result = kFormatter(job.salary.maxValue);
+    else
+        result = kFormatter(job.salary.minValue) + ' – ' + kFormatter(job.salary.maxValue);
+
+    result =    '<p class="job-info">' +
+                currencyFormatter(job.salary.currency) +
+                result +
+                ' /' +
+                salaryUnitFormatter(job.salary.unit) +
+                infoFormatter(job.salary.info) +
+                '</p>'
+    return result;
+}
+
+/**
+ * @returns info (salary.info) formatted
+ */
+function infoFormatter(info) {
+    if(info)
+        return " | " + info;
+    return info;
+}
+
+/**
+ * @returns {string} salary.unit formatted: MONTH->Month, YEAR->Year etc
+ */
+function salaryUnitFormatter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase();
+}
+
+/**
+ * @returns {string} salary.currency formatted
+ */
+function currencyFormatter(curr){
+    if(curr.length > 1)
+        return curr + ' ';
+    return curr;
+}
+
+/**
+ * See https://stackoverflow.com/questions/9461621/how-to-format-a-number-as-2-5k-if-a-thousand-or-more-otherwise-900-in-javascrip
+ *
+ * @param num the number to format
+ * @returns {string} the "num" in "k format"
+ */
+function kFormatter(num) {
+    return num > 4999 ? (num/1000).toFixed(1).replace(/\.0$/, '') + 'k' : num
 }
 
 /**
