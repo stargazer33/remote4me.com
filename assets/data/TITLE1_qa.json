@@ -68,7 +68,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 50000,
       "maxValue": 75000,
       "info": "Equity",
@@ -771,7 +771,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 100000,
       "maxValue": 150000,
       "info": "No Equity",
@@ -896,7 +896,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 75000,
       "maxValue": 100000,
       "info": "",
@@ -972,7 +972,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 85000,
       "maxValue": 120000,
       "info": "",
@@ -1045,7 +1045,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "EUR",
+      "currency": "€",
       "minValue": 45000,
       "maxValue": 65000,
       "info": "",

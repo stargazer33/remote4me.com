@@ -433,7 +433,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 40000,
       "maxValue": 120000,
       "info": "0.0% – 5.0%",
@@ -472,7 +472,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 50,
       "maxValue": 50,
       "info": "More than 50",
@@ -763,7 +763,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 85000,
       "maxValue": 100000,
       "info": "0.2% – 0.5%",
@@ -862,7 +862,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "INR",
+      "currency": "Rs",
       "minValue": 100000,
       "maxValue": 900000,
       "info": "3.0% – 1.0%",
@@ -1030,7 +1030,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "GBP",
+      "currency": "£",
       "minValue": 30000,
       "maxValue": 60000,
       "info": "",

@@ -346,7 +346,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "GBP",
+      "currency": "£",
       "minValue": 60000,
       "maxValue": 80000,
       "info": "",
@@ -745,7 +745,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 100000,
       "maxValue": 180000,
       "info": "0.001% – 1.0%",
@@ -825,7 +825,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 70000,
       "maxValue": 110000,
       "info": "Equity",

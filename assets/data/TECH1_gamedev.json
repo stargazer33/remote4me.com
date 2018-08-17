@@ -207,7 +207,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "INR",
+      "currency": "Rs",
       "minValue": 30000,
       "maxValue": 50000,
       "info": "4.0% – 10.0%",
@@ -295,7 +295,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 90000,
       "maxValue": 150000,
       "info": "0.25% – 1.0%",
@@ -338,7 +338,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 90000,
       "maxValue": 130000,
       "info": "1.0% – 2.5%",

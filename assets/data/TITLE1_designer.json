@@ -369,7 +369,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 0,
       "maxValue": 20,
       "info": "Less than 20",
@@ -923,7 +923,7 @@
       "sameAs": "https://angel.co/job_lists/1/browse_startups_table?startups[]=277508&listings[0][]=116242"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 60000,
       "maxValue": 110000,
       "info": "0.25% – 2.0%",
@@ -1236,7 +1236,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "INR",
+      "currency": "Rs",
       "minValue": 20000,
       "maxValue": 100000,
       "info": "No Equity",
@@ -1345,7 +1345,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 85000,
       "maxValue": 110000,
       "info": "",
@@ -1381,7 +1381,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "GBP",
+      "currency": "£",
       "minValue": 35,
       "maxValue": 45,
       "info": "",
@@ -1425,7 +1425,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 5000,
       "maxValue": 10000,
       "info": "",
@@ -1505,7 +1505,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 1000,
       "maxValue": 1000,
       "info": "0.5% – 2.0%",
@@ -1618,7 +1618,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "INR",
+      "currency": "Rs",
       "minValue": 200000,
       "maxValue": 500000,
       "info": "1.0% – 5.0%",
@@ -1662,7 +1662,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 40000,
       "maxValue": 120000,
       "info": "0.0% – 5.0%",
@@ -2008,7 +2008,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "INR",
+      "currency": "Rs",
       "minValue": 120000,
       "maxValue": 300000,
       "info": "No Equity",
@@ -2052,7 +2052,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 135000,
       "maxValue": 145000,
       "info": "0.001% – 0.001%",
@@ -2126,7 +2126,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 115000,
       "maxValue": 125000,
       "info": "",
@@ -2205,7 +2205,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 75000,
       "maxValue": 125000,
       "info": "",
@@ -2251,7 +2251,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "INR",
+      "currency": "Rs",
       "minValue": 25000,
       "maxValue": 100000,
       "info": "No Equity",
@@ -2377,7 +2377,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "INR",
+      "currency": "Rs",
       "minValue": 500000,
       "maxValue": 1500000,
       "info": "1.0% – 10.0%",
@@ -2421,7 +2421,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "GBP",
+      "currency": "£",
       "minValue": 30000,
       "maxValue": 50000,
       "info": "No Equity",
@@ -2475,7 +2475,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 75000,
       "maxValue": 100000,
       "info": "0.0% – 0.02%",
@@ -2629,7 +2629,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 2000,
       "maxValue": 15000,
       "info": "No Equity",
@@ -2826,7 +2826,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 50000,
       "maxValue": 80000,
       "info": "2.0% – 4.0%",
@@ -2866,7 +2866,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 24000,
       "maxValue": 35000,
       "info": "30.0% – 40.0%",
@@ -3052,7 +3052,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "EUR",
+      "currency": "€",
       "minValue": 30000,
       "maxValue": 50000,
       "info": "No Equity",
@@ -3281,7 +3281,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 45000,
       "maxValue": 50000,
       "info": "1.0% – 1.0%",
@@ -3364,7 +3364,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "USD",
+      "currency": "$",
       "minValue": 5000,
       "maxValue": 12000,
       "info": "No Equity",
