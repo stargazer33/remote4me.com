@@ -99,6 +99,43 @@ $(document).ready(function () {
             var button = $(event.relatedTarget),
                 recipient = button.data('postid');
         })
+
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyDWCBNGKq5wX4t7TNosOLVViWTvGzHKWvw",
+            authDomain: "metajob-org.firebaseapp.com",
+            databaseURL: "https://metajob-org.firebaseio.com",
+            projectId: "metajob-org",
+            storageBucket: "metajob-org.appspot.com",
+            messagingSenderId: "652084187155"
+        };
+        firebase.initializeApp(config);
+
+        firebase.auth().onAuthStateChanged(function(user) {
+            if (user) {
+                $('#firebaseui-auth-container-wrapper').hide();
+                $('#reportthisjob-modal-body').show();
+
+            } else {
+                $('#reportthisjob-modal-body').hide();
+                $('#firebaseui-auth-container-wrapper').show();
+            }
+        });
+
+        // Initialize the FirebaseUI Widget using Firebase.
+        var ui = new firebaseui.auth.AuthUI(firebase.auth());
+        // The start method will wait until the DOM is loaded.
+        ui.start('#firebaseui-auth-container', {
+            signInOptions: [
+                firebase.auth.EmailAuthProvider.PROVIDER_ID,
+                firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+                firebase.auth.GithubAuthProvider.PROVIDER_ID
+            ],
+            signInFlow: 'popup',
+            // Other config options...
+        });
+        // Firebase (end)
+
         //modal window (end)
     } catch (err) {
         console.log(err);
