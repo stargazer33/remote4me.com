@@ -285,3 +285,6 @@ tr.detail-view {
     border-radius: .15em;
     padding: 2px 5px 2px 0px;
 }
+td.detail-td {
+    width: 56px;
+}
