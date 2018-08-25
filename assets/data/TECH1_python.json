@@ -30,6 +30,7 @@
       "maxValue": 16200,
       "info": "",
       "unit": "MONTH",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -65,6 +66,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -101,6 +103,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -143,6 +146,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -184,6 +188,7 @@
       "maxValue": 55000,
       "info": "",
       "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -228,6 +233,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -270,6 +276,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -311,6 +318,7 @@
       "maxValue": 150000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -349,6 +357,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -388,6 +397,7 @@
       "maxValue": 90000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -435,6 +445,7 @@
       "maxValue": 60000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -479,6 +490,7 @@
       "maxValue": 120000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -525,6 +537,7 @@
       "maxValue": 65000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -572,6 +585,7 @@
       "maxValue": 100000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -612,6 +626,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -660,6 +675,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -701,6 +717,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -747,6 +764,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -789,6 +807,7 @@
       "maxValue": 160000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -843,6 +862,7 @@
       "maxValue": 50,
       "info": "",
       "unit": "HOUR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -896,6 +916,7 @@
       "maxValue": 125000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -945,12 +966,128 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
     "published": "Aug 24, 2018 7:56:26 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<h2><span>Software Engineer- Back End</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud Computing, Information Technology, Software Development / Engineering</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Insynq | Gig Harbor, WA<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Gig Harbor, WA.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                        <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h3>Technologies</h3><div></div><div>django</div><div>python</div><div>linux</div><div>javascript</div><div>reactjs</div>                <h3>Job description</h3>                <div><p>CloudRunner/Insynq is currently seeking a Software Engineer (Back End) to contribute to the effort of building the next generation CloudRunner platform. This exciting opportunity will bring Desktop-as-a-Service with Single Sign On, together with Software-as-a-Service, further empowering our customers with the most collaborative work environment yet. You will collaborate on new feature development and initiatives focused on enhancing CloudRunner’s customer experiences. You will be responsible for software architecture, technology stack improvement, engineering processes and systems, platform and shared components. We are a small and nimble company focused on accelerating growth through transformative innovation and engineering. You will have key responsibilities and the visibility that goes with ownership of your work.</p><p>Responsibilities include:</p><ul><li>Developing new features for CloudRunner/Insynq products, including:<ul><li>Creating new user administrative tools to manage users on the platform</li><li>Create APIs and create rest endpoints</li><li>Interact with the database as well as database design and schemes</li><li>Gather metrics on usage regarding system login and auditing</li></ul></li><li>Integrating APIs with existing CloudRunner technology and third party APIs.</li><li>Conducting code reviews to ensure code adheres to development standards.</li><li>Maintaining deployments in production using devops tools and methods.</li><li>Collaborating with colleagues in IT, Sales and other teams to collect requirements, describe features, build technical designs, and drive product strategy.</li><li>Collaborating with other technical leaders across the organization to develop best practices</li></ul><p><strong>QUALIFICATIONS</strong></p><p>We are looking for talented individuals willing to learn and explore new technologies. To be successful in this role you will be excited to take on new challenges and adapt quickly, and instill best practices for software development and documentation.</p><p>Additional qualifications include:</p><ul><li>Demonstrated skills in a high level programming languages. Experience across the entire stack from the front-end user interface (UI) to the back-end and analytics, including operations.</li><li>Previous experience working with back-end architecture and programming.</li><li>Experience developing services/APIs and consuming services/APIs. RESTful preferred</li><li>Experience building web applications, full-stack. Our technology stack is currently: Python, Django REST Framework, JavaScript (ES6) + React.js and PostgreSQL</li><li>Experience with Linux.</li><li>Experience with Django or similar web framework.</li><li>Some understanding of front-end languages and leading development efforts to enhance user experiences.</li><li>Experience working with modern JavaScript tooling. Including but not limited to npm, webpack and ES6 transpilers such as babel.</li><li>Experience with public cloud infrastructure such as AWS, Azure or Google Cloud</li><li>Experience developing deployment tools and scripts, such as dockerfiles, CI/CD build scripts and/or other tool configurations such as chef/ansible</li><li>Comfortable using git for source control.</li><li>Familiaritiy working in an agile environment.</li><li>Proven analytical skills and technical problem-solving skills in the face of difficult situations.</li><li>Effective time management and communication skills.</li><li>Bachelor’s degree in Computer Science, Information Systems, another related discipline, or equivalent work experience in the software development field will be considered.</li></ul><p>&nbsp;Our company believes in the power of diversity and is an Equal Opportunity Employer. We do not discriminate against any individuals, regardless of race, color, religion, gender, sexual orientation, marital status, gender identity or expression, national origin, genetics, age, disability status, or veteran status.</p>                </div>            <div>        <a href='https://boards.greenhouse.io/insynq/jobs/1008897#.Wr0Xey749hE' rel='nofollow'>                        Apply now        </a></div>            <h3>About Insynq</h3>            <div><p>Insynq, LLC&nbsp;is an institutionally owned cloud specialist that developed&nbsp;Your Customized Cloud&nbsp;that has been in business for over 20 years. Supporting the most extensive application library on the market, and specializing in legacy applications, is our niche. With our U.S. based, 24/7 support team, we offer customized support that allows businesses to work without any restrictions.</p><p>CloudRunner is our new product that is currently being developed which simplifies enterprise security and password management technologies to enable business owners to manage their users and applications for their employees and clients with no IT or software development skills required. CloudRunner provides all this nestled in a familiar and user friendly collaborative work environment accessed with a single password. (SSO) Instantly provision applications and manage user access with a single click.</p><p>Insynq and CloudRunner are two companies owned under a group of investors (including our CEO) by our parent company, Cloud X Partners. Our teams take pride in being smaller because this enables us to accomplish more, with the freedom of working independently. We work in a relaxed environment, with food, snacks, and drinks, and go to lunches and outings frequently. We offer lots of opportunity for growth and individual recognition. We are super flexible with your schedule and allow you to come and go as you please or even work remotely. Come see why Insynq and CloudRunner is a good fit for you.&nbsp;</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Paid time off</span>                            </li>                            <li>                                <span></span>                                <span>Company holiday time off</span>                            </li>                            <li>                                <span></span>                                <span>Medical, dental, vision, and life insurance</span>                            </li>                            <li>                                <span></span>                                <span>401K</span>                            </li>                            <li>                                <span></span>                                <span>Unlimited snacks and food in break room</span>                            </li>                            <li>                                <span></span>                                <span>Unlimited drinks in fridges around office (and coffee!)</span>                            </li>                            <li>                                <span></span>                                <span>Paid bridge tolls</span>                            </li>                            <li>                                <span></span>                                <span>Employee bonuses</span>                            </li>                            <li>                                <span></span>                                <span>Monthly team and company wide events</span>                            </li>                            <li>                                <span></span>                                <span>Flexible/Remote working opportunities</span>                            </li>                    </ul>                "
+  },
+  {
+    "id": "kJ_iQPMBRG2EGz9scB7MTQ",
+    "url": "https://angel.co/awaaz-de/jobs/49220-full-stack-developer-ahmedabad-mumbai-or-pune",
+    "title": "Full Stack Developer (Ahmedabad, Mumbai, or Pune)",
+    "tags": [
+      "Ahmedabad",
+      "Angular.JS",
+      "Celery",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:angularjs/frontend/16",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:django/python/40",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:techWeightMap:{python=44, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=35}",
+      "Django",
+      "Front-End Development",
+      "Full Time",
+      "Full-Stack Developer",
+      "HTML5 & CSS3",
+      "Javascript",
+      "Mumbai",
+      "MySQL",
+      "PostgreSQL",
+      "Pune",
+      "Python",
+      "REMOTE1/100",
+      "Remote OK",
+      "Software Architecture",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Awaaz.De",
+      "sameAs": "https://angel.co/job_lists/1/browse_startups_table?startups[]=24285&listings[0][]=49221&listings[0][]=49220&listings[0][]=49219"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "3.0% – 1.0%",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 24, 2018 6:49:17 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "Full Stack Developer (Ahmedabad, Mumbai, or Pune) Job at Awaaz.De - AngelList<div><div><div><div><div><div><a title=&quot;Awaaz.De&quot; href='https://angel.co/awaaz-de/jobs' rel='nofollow'></a></div><div></div><ul><li><span>Awaaz.De</span></li><li><span>Product</span></li><li><span>Jobs</span></li><li><span>Team</span></li></ul><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div><div><div><span>Share</span></div></div></div></div></div></div></div><div><div><div></div></div><div><div><div><a title=&quot;Awaaz.De&quot; href='https://angel.co/awaaz-de' rel='nofollow'></a></div><div><h2>Full Stack Developer (Ahmedabad, Mumbai, or Pune) at Awaaz.De</h2><div>Pune, Mumbai, Ahmedabad, Remote · Full Time</div><div><div><div><div><div><div><span>Awaaz.De develops inclusive mobile solutions (with capabilities in IVR, SMS, mobile apps, and web) that enable organizations to achieve last-mile connectivity for social impact. We have worked in 23 Indian states, 6 different countries and count over 500,000 users.<span>Read More</span></span></div><div><p>Awaaz.De develops inclusive mobile solutions (with capabilities in IVR, SMS, mobile apps, and web) that enable organizations to achieve last-mile connectivity for social impact. We have worked in 23 Indian states, 6 different countries and count over 500,000 users.</p><p>Awaaz.De’s easy-to-use communication and data tools, including Streams, and Surveys, cut across language and literacy barriers. There are currently hundreds of organizations, including IFMR, Aga Khan Rural Support Network, Digital Green, and American India Foundation,  using Awaaz.De mobile solutions to reach previously unreachable individuals, with proven impact. </p><p>Our head office is in Ahmadabad. We are accepting candidates for head office location.</p></div></div></div></div></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply to Awaaz.De</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div><div><div><div><h3>Job Description</h3></div><div><div><p>As a full-stack developer, you'll work with everything from front-end HTML, CSS and JS to server-side Python/Django and several different data stores including PostgreSQL, MySQL, Redis, and Elasticsearch.</p><p>Responsibilities:</p><p>* Work collaboratively in a fast-growing startup building products and services for positive social impact<br>* Implementing an elegant, intuitive user experience using latest front-end technologies<br>* Implementing server-side code and designing the data architecture using modern web frameworks<br>* Write, test, and release world-class, production-ready code</p><p>Qualifications:</p><p>* 3-10 years experience building web-scale, highly available backends for web and/or mobile. Degree in Computer Science or related field a plus<br>* 3+ years experience with Django, Celery, and Django REST Framework<br>* Expertise writing with and using Django extensions<br>* 3+ years experience developing apps in AngularJS<br>* Strong problem solving skills; attention to detail<br>* Comfort with Debian + Ubuntu environments<br>* Knowledge of document, key/value or other non-relational database system such as Elastic Search, Redis, HBase, BigTable, Dynamo a plus.</p></div></div><div><div>Skills</div><div>Python, Javascript, Django, MySQL, Software Architecture, Front-End Development, PostgreSQL, Celery, HTML5 &amp; CSS3, Angular.JS, Unit Testing</div><div>Compensation</div><div>$10K–$25K<br>0.0%–10.0%</div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><div><h4>People also viewed</h4></div><div><div><div><a href='https://angel.co/glib-dot-ai/jobs/319418-full-stack-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/glib-dot-ai/jobs/319418-full-stack-developer?src=rec' rel='nofollow'>Full-Stack Developer</a></div><div><a href='https://angel.co/glib-dot-ai/jobs/319418-full-stack-developer?src=rec' rel='nofollow'>Glib</a></div><div>Ahmedabad, Pune</div></div></div><div><div><div><a href='https://angel.co/intouchapp/jobs/226854-fullstack-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/intouchapp/jobs/226854-fullstack-developer?src=rec' rel='nofollow'>FullStack Developer</a></div><div><a href='https://angel.co/intouchapp/jobs/226854-fullstack-developer?src=rec' rel='nofollow'>InTouchApp</a></div><div>Pune</div></div></div><div><div><div><a href='https://angel.co/shoppinpal/jobs/141650-software-engineer-front-end-back-end-full-stack-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/shoppinpal/jobs/141650-software-engineer-front-end-back-end-full-stack-developer?src=rec' rel='nofollow'>Software Engineer (Front-end / B...</a></div><div><a href='https://angel.co/shoppinpal/jobs/141650-software-engineer-front-end-back-end-full-stack-developer?src=rec' rel='nofollow'>ShoppinPal</a></div><div>Pune, Pune</div></div></div><div><div><div><a href='https://angel.co/edubrite-systems-1/jobs/200246-full-stack-developer-pune-thane?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/edubrite-systems-1/jobs/200246-full-stack-developer-pune-thane?src=rec' rel='nofollow'>Full-Stack Developer (Pune / Thane)</a></div><div><a href='https://angel.co/edubrite-systems-1/jobs/200246-full-stack-developer-pune-thane?src=rec' rel='nofollow'>EduBrite Systems</a></div><div>Pune</div></div></div><div><div><div><a href='https://angel.co/terribly-tiny-tales/jobs/274683-software-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/terribly-tiny-tales/jobs/274683-software-developer?src=rec' rel='nofollow'>Software Developer</a></div><div><a href='https://angel.co/terribly-tiny-tales/jobs/274683-software-developer?src=rec' rel='nofollow'>Terribly Tiny Tales (TTT)</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/agrostar/jobs/320625-data-scientist?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/agrostar/jobs/320625-data-scientist?src=rec' rel='nofollow'>Data Scientist</a></div><div><a href='https://angel.co/agrostar/jobs/320625-data-scientist?src=rec' rel='nofollow'>AgroStar</a></div><div>Pune</div></div></div><div><div><div><a href='https://angel.co/aadhaarapi/jobs/230250-full-stack-developer-node-js-and-javascript?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/aadhaarapi/jobs/230250-full-stack-developer-node-js-and-javascript?src=rec' rel='nofollow'>Full-stack Developer (Node Js an...</a></div><div><a href='https://angel.co/aadhaarapi/jobs/230250-full-stack-developer-node-js-and-javascript?src=rec' rel='nofollow'>AadhaarAPI.com</a></div><div>Pune</div></div></div><div><div><div><a href='https://angel.co/awaaz-de/jobs/49219-backend-developer-ahmedabad-mumbai-or-pune?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/awaaz-de/jobs/49219-backend-developer-ahmedabad-mumbai-or-pune?src=rec' rel='nofollow'>Backend Developer (Ahmedabad, Mu...</a></div><div><a href='https://angel.co/awaaz-de/jobs/49219-backend-developer-ahmedabad-mumbai-or-pune?src=rec' rel='nofollow'>Awaaz.De</a></div><div>Ahmedabad, Pune, Mumbai</div></div></div><div><div><div><a href='https://angel.co/finance-republic/jobs/303178-full-stack-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/finance-republic/jobs/303178-full-stack-developer?src=rec' rel='nofollow'>Full stack developer</a></div><div><a href='https://angel.co/finance-republic/jobs/303178-full-stack-developer?src=rec' rel='nofollow'>Finance Republic</a></div><div>Bengaluru</div></div></div></div></div></div><div><div><div><div><h3>What We're Building</h3></div><div><div><p>Awaaz.De lets semi- and disconnected communities communicate without the Internet, in local languages. Streams, Awaaz.De's group voice messaging application, delivers messages through regular phone calls. These voice broadcasts are interactive; group members can send responses (voice or touchtone) that the group owner accesses over the phone or web. Group members can discover and subscribe to any Stream, and forward messages to their own contacts. Awaaz.De offers three other voice-based products: Forums (for many-to-many communication like Q&amp;A), Surveys (data collection), and Xact (personalized voice messaging API). These products have been used across the agriculture, health, education, and microfinance sectors in India by hundreds of social enterprises, foundations, media companies, SMEs, NGOs, government agencies and research groups. Till date, Awaaz.De has served over one million phone calls to over 400,000 unique callers in 13 Indian states and 5 countries.</p></div></div><div><div><div><div><div></div><div>Hiring in <span>Pune</span>, <span>Mumbai</span>, <span>Ahmedabad</span>, Remote OK</div><div></div></div><div><div></div><div>1-10 Employees</div><div></div></div><div><div></div><div>$40K Seed in 2012</div><div></div></div><div><div></div><span>Mobile</span>, <span>Social Media</span>, <span>Q&amp;A</span></div><div><div></div><a href='https://twitter.com/awaazde' rel='nofollow'>@awaazde</a></div><div><div></div><a href='http://awaaz.de/blog' rel='nofollow'>http://awaaz.de/blog</a></div><div><div></div><a href='http://awaaz.de' rel='nofollow'>awaaz.de</a></div></div></div></div></div></div></div><div><div><div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/137/350/137350-201509ce4f4fc5046b89f876e424fa50becfbbbb.JPG?1395430468' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/137/351/137351-dcbc59550cb7bcbfd9fda68cc0794dd2d4a5c5fb.JPG?1395364258' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/182/611/182611-7a259733b55c8f0ceda1dd93fc9a5e7abe6c4ba1.png?1395364259' rel='nofollow'></a></div></div></div></div><div><div><div><div></div><div>Add testimonials, product launches, and photos that highlight your company</div>Add Highlight</div></div></div><div></div></div></div><div><div><div><h3>Other Jobs at Awaaz.De</h3><ul><li><div>Software Engineering Jobs</div><div><div><div><div><a href='https://angel.co/awaaz-de/jobs/49219-backend-developer-ahmedabad-mumbai-or-pune' rel='nofollow'>Backend Developer (Ahmedabad, Mumbai, or Pune)</a><div>Ahmedabad, Pune, Mumbai·Full Time<span></span><span>·$10K – $25K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><a href='https://angel.co/awaaz-de/jobs/49221-qe-qa-engineer-ahmedabad' rel='nofollow'>QE/QA Engineer (Ahmedabad)</a><div>Ahmedabad·Full Time<span></span><span>·₹400K – ₹750K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></li></ul></div></div></div><div><div><div><h3>Awaaz.De Team</h3><div><div><div><div><div><a href='https://angel.co/neil-patel-1' rel='nofollow'></a></div><div><div><a href='https://angel.co/neil-patel-1' rel='nofollow'>Neil Patel</a><span>,</span></div><div>CEO of <a href='https://angel.co/awaaz-de' title=&quot;Awaaz.De&quot; rel='nofollow'><span>@</span><span>Awaaz.De</span></a>. PhD in CS from <a href='https://angel.co/stanford-university' rel='nofollow'><span>@</span><span>Stanford University</span></a>, B.S. in CS and Bus. from Berkeley. Award-winning PhD research led to starting <a href='https://angel.co/awaaz-de' title=&quot;Awaaz.De&quot; rel='nofollow'><span>@</span><span>Awaaz.De</span></a> in India, a social enterprise</div></div></div><div><div><a href='https://angel.co/tapan-parikh' rel='nofollow'></a></div><div><div><a href='https://angel.co/tapan-parikh' rel='nofollow'>Tapan Parikh</a><span>,</span></div><div>Assistant Professor at UC <a href='https://angel.co/university-of-california-berkeley' rel='nofollow'><span>@</span><span>University of California Berkeley</span></a></div></div></div><div><div><a href='https://angel.co/nikhil-navadiya' rel='nofollow'></a></div><div><div><a href='https://angel.co/nikhil-navadiya' rel='nofollow'>Nikhil Navadiya</a><span>,</span></div><div>Senior Full-Stack Engineer <a href='https://angel.co/awaaz-de' title=&quot;Awaaz.De&quot; rel='nofollow'><span>@</span><span>Awaaz.De</span></a>,  Owner @coderthemes @formsubmit.io  • Studied at <a href='https://angel.co/daiict-1' rel='nofollow'><span>@</span><span>Daiict</span></a></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div><div>Awaaz.De is one of 26,450 startups hiring on AngelList</div><div></div></div><div><div><span>Browse All Startup Jobs</span><a href='https://angel.co/recruiting/signup?src=job-showcase' rel='nofollow'>Post a Job</a></div></div><div><span>Help</span>·<span>Terms</span>·<span>Jobs by location</span><span>Problem?<span>Report this company</span></span></div></div></div></div></div><div></div>"
+  },
+  {
+    "id": "SMQdVJrpQ4K-mtGEE2fOaA",
+    "url": "https://angel.co/awaaz-de/jobs/49219-backend-developer-ahmedabad-mumbai-or-pune",
+    "title": "Backend Developer (Ahmedabad, Mumbai, or Pune)",
+    "tags": [
+      "Ahmedabad",
+      "Backend Developer",
+      "Celery",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:django/python/32",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=34, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "Django",
+      "ElasticSearch",
+      "Full Time",
+      "Mumbai",
+      "MySQL",
+      "PostgreSQL",
+      "Pune",
+      "Python",
+      "REMOTE1/100",
+      "Redis",
+      "Remote OK",
+      "Software Architecture",
+      "Software Testing",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Awaaz.De",
+      "sameAs": "https://angel.co/job_lists/1/browse_startups_table?startups[]=24285&listings[0][]=49221&listings[0][]=49220&listings[0][]=49219"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "3.0% – 1.0%",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 24, 2018 6:49:17 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "Backend Developer (Ahmedabad, Mumbai, or Pune) Job at Awaaz.De - AngelList<div><div><div><div><div><div><a title=&quot;Awaaz.De&quot; href='https://angel.co/awaaz-de/jobs' rel='nofollow'></a></div><div></div><ul><li><span>Awaaz.De</span></li><li><span>Product</span></li><li><span>Jobs</span></li><li><span>Team</span></li></ul><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div><div><div><span>Share</span></div></div></div></div></div></div></div><div><div><div></div></div><div><div><div><a title=&quot;Awaaz.De&quot; href='https://angel.co/awaaz-de' rel='nofollow'></a></div><div><h2>Backend Developer (Ahmedabad, Mumbai, or Pune) at Awaaz.De</h2><div>Ahmedabad, Pune, Mumbai, Remote · Full Time</div><div><div><div><div><div><div><span>Awaaz.De develops inclusive mobile solutions (with capabilities in IVR, SMS, mobile apps, and web) that enable organizations to achieve last-mile connectivity for social impact. We have worked in 23 Indian states, 6 different countries and count over 500,000 users.<span>Read More</span></span></div><div><p>Awaaz.De develops inclusive mobile solutions (with capabilities in IVR, SMS, mobile apps, and web) that enable organizations to achieve last-mile connectivity for social impact. We have worked in 23 Indian states, 6 different countries and count over 500,000 users.</p><p>Awaaz.De’s easy-to-use communication and data tools, including Streams, and Surveys, cut across language and literacy barriers. There are currently hundreds of organizations, including IFMR, Aga Khan Rural Support Network, Digital Green, and American India Foundation,  using Awaaz.De mobile solutions to reach previously unreachable individuals, with proven impact. </p><p>Our head office is in Ahmadabad. We are accepting candidates for head office location.</p></div></div></div></div></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply to Awaaz.De</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div><div><div><div><h3>Job Description</h3></div><div><div><p>Work in a sprint-based agile development team, participate in the full cycle including release/sprint planning, feature design, story definition, daily standups, development, testing, code review, and release packaging. You will also work on the automated build, test and package environment.</p><p>Responsibilities:</p><p>* Work collaboratively in a fast-growing startup building products and services for positive social impact<br>* From the ground-up, architect available, secure, reliable back-end systems for the web, mobile, and IVR<br>* Write, test, and release world-class, production-ready code</p><p>Qualifications:</p><p>* 2-10 years experience building web-scale, highly available backends for web and/or mobile. Degree in Computer Science or related field a plus<br>* 3+ years experience with Django, Celery, and Django REST Framework<br>* Expertise writing with and using Django extensions<br>* Experience in data model design and data manipulation in MySQL and Postgres<br>* Strong problem solving skills; attention to detail<br>* Skill in deploying and maintaining services in the Debian + Ubuntu environments<br>* Knowledge of document, key/value or other non-relational database system such as Elastic Search, Redis, HBase, BigTable, Dynamo a plus.</p></div></div><div><div>Skills</div><div>Python, Django, MySQL, Software Architecture, Redis, PostgreSQL, Software Testing, Celery, ElasticSearch </div><div>Compensation</div><div>$10K–$25K<br>No Equity</div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><div><h4>People also viewed</h4></div><div><div><div><a href='https://angel.co/websites-co-in/jobs/225054-backend-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/websites-co-in/jobs/225054-backend-developer?src=rec' rel='nofollow'>Backend Developer</a></div><div><a href='https://angel.co/websites-co-in/jobs/225054-backend-developer?src=rec' rel='nofollow'>Websites.co.in</a></div><div>Mumbai Suburban, Mumbai, Borivali</div></div></div><div><div><div><a href='https://angel.co/totalresq/jobs/312426-php-backend-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/totalresq/jobs/312426-php-backend-developer?src=rec' rel='nofollow'>PHP BACKEND DEVELOPER.</a></div><div><a href='https://angel.co/totalresq/jobs/312426-php-backend-developer?src=rec' rel='nofollow'>TotalresQ</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/nanonets/jobs/285710-senior-software-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/nanonets/jobs/285710-senior-software-developer?src=rec' rel='nofollow'>Senior Software Developer</a></div><div><a href='https://angel.co/nanonets/jobs/285710-senior-software-developer?src=rec' rel='nofollow'>NanoNets</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/upstox/jobs/208100-only-5-years-exp-software-engineer-backend?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/upstox/jobs/208100-only-5-years-exp-software-engineer-backend?src=rec' rel='nofollow'>** ONLY 5+ Years Exp ** Software...</a></div><div><a href='https://angel.co/upstox/jobs/208100-only-5-years-exp-software-engineer-backend?src=rec' rel='nofollow'>Upstox</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/chatterbox-technologies-1/jobs/221272-backend-engineer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/chatterbox-technologies-1/jobs/221272-backend-engineer?src=rec' rel='nofollow'>Backend Engineer</a></div><div><a href='https://angel.co/chatterbox-technologies-1/jobs/221272-backend-engineer?src=rec' rel='nofollow'>Chatterbox Technologies</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/testbook/jobs/237880-back-end-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/testbook/jobs/237880-back-end-developer?src=rec' rel='nofollow'>Back End Developer</a></div><div><a href='https://angel.co/testbook/jobs/237880-back-end-developer?src=rec' rel='nofollow'>Testbook</a></div><div>Navi Mumbai, Mumbai</div></div></div><div><div><div><a href='https://angel.co/hiveai/jobs/307515-data-scientist?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/hiveai/jobs/307515-data-scientist?src=rec' rel='nofollow'>Data Scientist</a></div><div><a href='https://angel.co/hiveai/jobs/307515-data-scientist?src=rec' rel='nofollow'>Hive</a></div><div>San Francisco</div></div></div><div><div><div><a href='https://angel.co/revcloud/jobs/180330-remote-ok-calling-big-data-engineers-help-us-build-a-world-s-first-customer-search-engine?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/revcloud/jobs/180330-remote-ok-calling-big-data-engineers-help-us-build-a-world-s-first-customer-search-engine?src=rec' rel='nofollow'>Remote OK - Calling Big Data  En...</a></div><div><a href='https://angel.co/revcloud/jobs/180330-remote-ok-calling-big-data-engineers-help-us-build-a-world-s-first-customer-search-engine?src=rec' rel='nofollow'>Revcloud</a></div><div>San Francisco, Orange County, Earth</div></div></div><div><div><div><a href='https://angel.co/pivotchain-solutions-1/jobs/221767-deep-learning-experts?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/pivotchain-solutions-1/jobs/221767-deep-learning-experts?src=rec' rel='nofollow'>Deep Learning Experts</a></div><div><a href='https://angel.co/pivotchain-solutions-1/jobs/221767-deep-learning-experts?src=rec' rel='nofollow'>Pivotchain Solutions</a></div><div>Pune</div></div></div></div></div></div><div><div><div><div><h3>What We're Building</h3></div><div><div><p>Awaaz.De lets semi- and disconnected communities communicate without the Internet, in local languages. Streams, Awaaz.De's group voice messaging application, delivers messages through regular phone calls. These voice broadcasts are interactive; group members can send responses (voice or touchtone) that the group owner accesses over the phone or web. Group members can discover and subscribe to any Stream, and forward messages to their own contacts. Awaaz.De offers three other voice-based products: Forums (for many-to-many communication like Q&amp;A), Surveys (data collection), and Xact (personalized voice messaging API). These products have been used across the agriculture, health, education, and microfinance sectors in India by hundreds of social enterprises, foundations, media companies, SMEs, NGOs, government agencies and research groups. Till date, Awaaz.De has served over one million phone calls to over 400,000 unique callers in 13 Indian states and 5 countries.</p></div></div><div><div><div><div><div></div><div>Hiring in <span>Ahmedabad</span>, <span>Pune</span>, <span>Mumbai</span>, Remote OK</div><div></div></div><div><div></div><div>1-10 Employees</div><div></div></div><div><div></div><div>$40K Seed in 2012</div><div></div></div><div><div></div><span>Mobile</span>, <span>Social Media</span>, <span>Q&amp;A</span></div><div><div></div><a href='https://twitter.com/awaazde' rel='nofollow'>@awaazde</a></div><div><div></div><a href='http://awaaz.de/blog' rel='nofollow'>http://awaaz.de/blog</a></div><div><div></div><a href='http://awaaz.de' rel='nofollow'>awaaz.de</a></div></div></div></div></div></div></div><div><div><div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/137/350/137350-201509ce4f4fc5046b89f876e424fa50becfbbbb.JPG?1395430468' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/137/351/137351-dcbc59550cb7bcbfd9fda68cc0794dd2d4a5c5fb.JPG?1395364258' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/182/611/182611-7a259733b55c8f0ceda1dd93fc9a5e7abe6c4ba1.png?1395364259' rel='nofollow'></a></div></div></div></div><div><div><div><div></div><div>Add testimonials, product launches, and photos that highlight your company</div>Add Highlight</div></div></div><div></div></div></div><div><div><div><h3>Other Jobs at Awaaz.De</h3><ul><li><div>Software Engineering Jobs</div><div><div><div><div><a href='https://angel.co/awaaz-de/jobs/49220-full-stack-developer-ahmedabad-mumbai-or-pune' rel='nofollow'>Full Stack Developer (Ahmedabad, Mumbai, or Pune)</a><div>Pune, Mumbai, Ahmedabad·Full Time<span></span><span>·$10K – $25K · 0.0% – 10.0%</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><a href='https://angel.co/awaaz-de/jobs/49221-qe-qa-engineer-ahmedabad' rel='nofollow'>QE/QA Engineer (Ahmedabad)</a><div>Ahmedabad·Full Time<span></span><span>·₹400K – ₹750K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Awaaz.De</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></li></ul></div></div></div><div><div><div><h3>Awaaz.De Team</h3><div><div><div><div><div><a href='https://angel.co/neil-patel-1' rel='nofollow'></a></div><div><div><a href='https://angel.co/neil-patel-1' rel='nofollow'>Neil Patel</a><span>,</span></div><div>CEO of <a href='https://angel.co/awaaz-de' title=&quot;Awaaz.De&quot; rel='nofollow'><span>@</span><span>Awaaz.De</span></a>. PhD in CS from <a href='https://angel.co/stanford-university' rel='nofollow'><span>@</span><span>Stanford University</span></a>, B.S. in CS and Bus. from Berkeley. Award-winning PhD research led to starting <a href='https://angel.co/awaaz-de' title=&quot;Awaaz.De&quot; rel='nofollow'><span>@</span><span>Awaaz.De</span></a> in India, a social enterprise</div></div></div><div><div><a href='https://angel.co/tapan-parikh' rel='nofollow'></a></div><div><div><a href='https://angel.co/tapan-parikh' rel='nofollow'>Tapan Parikh</a><span>,</span></div><div>Assistant Professor at UC <a href='https://angel.co/university-of-california-berkeley' rel='nofollow'><span>@</span><span>University of California Berkeley</span></a></div></div></div><div><div><a href='https://angel.co/nikhil-navadiya' rel='nofollow'></a></div><div><div><a href='https://angel.co/nikhil-navadiya' rel='nofollow'>Nikhil Navadiya</a><span>,</span></div><div>Senior Full-Stack Engineer <a href='https://angel.co/awaaz-de' title=&quot;Awaaz.De&quot; rel='nofollow'><span>@</span><span>Awaaz.De</span></a>,  Owner @coderthemes @formsubmit.io  • Studied at <a href='https://angel.co/daiict-1' rel='nofollow'><span>@</span><span>Daiict</span></a></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div><div>Awaaz.De is one of 26,465 startups hiring on AngelList</div><div></div></div><div><div><span>Browse All Startup Jobs</span><a href='https://angel.co/recruiting/signup?src=job-showcase' rel='nofollow'>Post a Job</a></div></div><div><span>Help</span>·<span>Terms</span>·<span>Jobs by location</span><span>Problem?<span>Report this company</span></span></div></div></div></div></div><div></div>"
   },
   {
     "id": "KTMFH7LkQqeJ-_XdrY4WFw",
@@ -984,6 +1121,7 @@
       "maxValue": 120000,
       "info": "",
       "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1032,12 +1170,60 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
     "published": "Aug 22, 2018 11:22:28 AM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<p><b>Summary </b></p><p>We are looking for a motivated and high-achieving Senior Python Developer based anywhere in Europe to join the team working on an exciting new Big Data/Machine Learning platform. This is a full time placement with significant opportunities for growth and advancement as one of the first employees of the company. </p><p><b>The Company </b></p><p>causaLens is high-tech startup based in London. We are bringing the next level of Automation, Automated Machine Learning for time-series predictions to the World’s most sophisticated organizations. We are an extraordinary team and the founders have worked for some of the most prominent global hedge funds and scientific institutions. </p><p><b>Core requirements: </b></p><p>- Smart, capable and can write clean code. </p><p>- Ability to design and architect high-performance distributed software. </p><p>- Development experience in at least one scripting language - preferably Python. </p><p>- Interest in machine learning/big data (prior experience plus). </p><p>- Knowledge of the Git version control system. </p><p>- Good organisational skills both in management of time and code. </p><p>- Ability to effectively work remotely (from home or a coworking space). </p><p><b>Roles and Responsibilities: </b></p><p>Developing an automated machine learning platform for quantitative finance. The application stack is Python, Numpy, Scipy, Sklearn, Keras, Django, Celery, Postgres, AWS, GCP. </p><p><b>Benefits: </b></p><p>Successful candidate will have the opportunity to join a fast-growing, agile, and international team passionate about innovation and making a difference. We will offer guidance, mentorship, and opportunities for professional development. </p>"
+  },
+  {
+    "id": "BGWqo8uhRL2LHEfVXNmApw",
+    "url": "https://angel.co/mozio/jobs/99544-python-engineer",
+    "title": "Python Engineer",
+    "tags": [
+      "Backend Developer",
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:express/nodejs/32",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:python-developer/python/52",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:techWeightMap:{python=78, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=32, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "Earth",
+      "Full Time",
+      "Python",
+      "REMOTE1/100",
+      "Remote OK",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Mozio",
+      "sameAs": "https://angel.co/job_lists/1/browse_startups_table?startups[]=27047&listings[0][]=99544"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "3.0% – 1.0%",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 18, 2018 6:53:29 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "Python Engineer Job at Mozio - AngelList<div><div><div><div><div><div><a title=&quot;Mozio&quot; href='https://angel.co/mozio/jobs' rel='nofollow'></a></div><div></div><ul><li><span>Mozio</span></li><li><span>Product</span></li><li><span>Jobs</span></li><li><span>Team</span></li><li><span>Q&amp;A</span></li><li><span>Investors</span></li></ul><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Mozio</div>Apply<div></div></div></div></div></div></div><div></div></div></div><div><div><span>Share</span></div></div></div></div></div></div></div><div><div><div></div></div><div><div><div><a title=&quot;Mozio&quot; href='https://angel.co/mozio' rel='nofollow'></a></div><div><h2>Python Engineer at Mozio</h2><div>Earth, Remote · Full Time</div><div><div><div><div><div><div><span>The Product:<span>Read More</span></span></div><div><p>The Product:</p><p>You land in London and Mozio sends you a push notification to book the Heathrow Express train. Later that day you use Mozio to book an on-demand sedan, tap onto the London Tube, and make a reservation for a minicab to pick you up the next morning. When you land in Munich, Mozio sends you a push notification for the Lufthansa Airport Bus to the city center, at which point you purchase a ticket on the U-bahn or S-bahn, also through Mozio, to get you to your hotel. 3 days later in Dallas you purchase a DART ticket to take public transit back to your home in Dallas.</p><p>All of those examples of transportation, from shuttles, taxis, limos and even public transit, currently have some form of digital ticketing.</p><p>Mozio is tying it all together.</p><p>Build the transportation app of the future.</p><p>The Perks &amp; Culture:<br>- Yearly 10-day group retreats.<br>- Fun, small, flexible team. You need to work from New York for a week? Feel free. You want to work and travel? Go ahead.<br>- Unlimited Vacation Policy: As long as you get your work done, we don't micromanage your time.<br>- We think it's important to invest in the personal development of our employees, and will be flexible with what you want to learn.<br>- We are all friends: when you are going to spend 50+ hours a week with each other it's important that you don't just tolerate your coworkers but actually like them. Mozio was started by two friends, and we want to bring on other people we can be friends with.</p></div></div></div></div></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply to Mozio</span><div><div></div><div></div><div><div><div><div>Add a message to Mozio</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div><div><div><div><h3>Job Description</h3></div><div><div><p>Come help us integrate APIs &amp; build out our backend stack. We run on Python, MySql &amp; Redis with Celery and RabbitMQ.</p><p>The ideal candidates will have a demonstrated ability to get things done. A proactive nature, resourcefulness, and ability to figure new things out are key assets in this role.</p><p>Successful candidates will have experience in Python/Django or other python or MVC frameworks for at least 2 years.</p><p>In exchange for their long hours and hard work, Mozio's engineering team members earn competitive salaries, equity, the ability to work remotely from anywhere, and a flexible vacation policy.</p><p>We have a rigorous recruiting process so you will be working with only the best, and we can promise that you will be able to use the best new technologies and will be constantly intellectually stimulated.</p><p>We do not have a training program and can unfortunately not afford to take on coders with less experience.</p><p>Mozio offers great leadership opportunities and flexibility to individuals who demonstrate an ability to get things done.</p><p>Combine that with a &quot;flat&quot; organizational culture and lack of bureaucracy, and what's not to love?</p><p>Salary and equity are flexible and based on experience, location and other factors.</p></div></div><div><div>Skills</div><div>Python</div><div>Compensation</div><div>$12K–$40K<br>0.01%–0.02%</div><div>Visa Sponsorship</div><div>Not available</div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Mozio</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><div><h4>People also viewed</h4></div><div><div><div><a href='https://angel.co/zenput/jobs/178663-senior-backend-engineer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/zenput/jobs/178663-senior-backend-engineer?src=rec' rel='nofollow'>Senior Backend Engineer</a></div><div><a href='https://angel.co/zenput/jobs/178663-senior-backend-engineer?src=rec' rel='nofollow'>Zenput</a></div><div>Atlanta</div></div></div><div><div><div><a href='https://angel.co/constructor-io/jobs/312721-senior-back-end-api-engineer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/constructor-io/jobs/312721-senior-back-end-api-engineer?src=rec' rel='nofollow'>Senior Back-end/API Engineer</a></div><div><a href='https://angel.co/constructor-io/jobs/312721-senior-back-end-api-engineer?src=rec' rel='nofollow'>Constructor.io</a></div><div>Headquarters</div></div></div><div><div><div><a href='https://angel.co/gitcoin/jobs/284977-software-engineer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/gitcoin/jobs/284977-software-engineer?src=rec' rel='nofollow'>Software Engineer</a></div><div><a href='https://angel.co/gitcoin/jobs/284977-software-engineer?src=rec' rel='nofollow'>Gitcoin</a></div><div>Boulder</div></div></div><div><div><div><a href='https://angel.co/monetizemore/jobs/147300-python-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/monetizemore/jobs/147300-python-developer?src=rec' rel='nofollow'>Python Developer</a></div><div><a href='https://angel.co/monetizemore/jobs/147300-python-developer?src=rec' rel='nofollow'>MonetizeMore</a></div><div>Earth</div></div></div><div><div><div><a href='https://angel.co/blue-canvas/jobs/306537-backend-engineer-at-3-person-startup?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/blue-canvas/jobs/306537-backend-engineer-at-3-person-startup?src=rec' rel='nofollow'>Backend Engineer at 3 Person Sta...</a></div><div><a href='https://angel.co/blue-canvas/jobs/306537-backend-engineer-at-3-person-startup?src=rec' rel='nofollow'>Blue Canvas</a></div><div>Barcelona, San Francisco, Remote</div></div></div><div><div><div><a href='https://angel.co/exhibia/jobs/79393-django-developer-cofounder?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/exhibia/jobs/79393-django-developer-cofounder?src=rec' rel='nofollow'>Django Developer Cofounder</a></div><div><a href='https://angel.co/exhibia/jobs/79393-django-developer-cofounder?src=rec' rel='nofollow'>Exhibia</a></div><div>Finland</div></div></div><div><div><div><a href='https://angel.co/ping-x/jobs/351144-backend-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/ping-x/jobs/351144-backend-developer?src=rec' rel='nofollow'>Backend Developer</a></div><div><a href='https://angel.co/ping-x/jobs/351144-backend-developer?src=rec' rel='nofollow'>Ping</a></div><div>Zurich, Remote</div></div></div><div><div><div><a href='https://angel.co/krishiyog-1/jobs/214605-full-stack-software-engineer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/krishiyog-1/jobs/214605-full-stack-software-engineer?src=rec' rel='nofollow'>Full Stack Software Engineer</a></div><div><a href='https://angel.co/krishiyog-1/jobs/214605-full-stack-software-engineer?src=rec' rel='nofollow'>Krishiyog</a></div><div>Hyderabad</div></div></div><div><div><div><a href='https://angel.co/quartzy/jobs/109582-software-engineer-palo-alto-remote-us?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/quartzy/jobs/109582-software-engineer-palo-alto-remote-us?src=rec' rel='nofollow'>Software Engineer (Palo Alto / R...</a></div><div><a href='https://angel.co/quartzy/jobs/109582-software-engineer-palo-alto-remote-us?src=rec' rel='nofollow'>Quartzy</a></div><div>Palo Alto, United States</div></div></div></div></div></div><div><div><div><div><h3>What We're Building</h3></div><div><div><p>Mozio is building the ultimate city mobility app: one app to book public transit, shuttles, limos, taxis, express trains and express buses.</p><p>The world is bigger than Uber: of the $450 billion spent on local transportation every year, the majority are on other options like public transit.  And each city has it's own transportation stack: you move around SF differently than you move around London, Munich or Oslo.</p><p>Each one of those different transportation options in each city are on completely different technology stacks with different ticket redemption choices. Very often their fare structures are arcane, making you choose between &quot;Tariff AB, BC or ABC.&quot;</p><p>Mozio seeks to plug into all these sources and build your ultimate city mobility solution: we want you to be able to book a Supershuttle in Dallas, the Heathrow Express train in London, the U-Bahn in Germany, and Lyft when you get back home to SF.</p></div></div><div><div><div><div><div></div><div>Hiring in <span>Earth</span>, Remote OK</div><div></div></div><div><div></div><div>11-50 Employees</div><div></div></div><div><div></div><div>$2.5M Seed in 2016...</div><div></div></div><div><div></div><span>Search</span>, <span>Online Travel</span>, <span>Marketplaces</span>, <span>Transportation</span></div><div><div></div><a href='http://twitter.com/letsmozio' rel='nofollow'>@letsmozio</a></div><div><div></div><a href='http://blog.mozio.com' rel='nofollow'>http://blog.mozio.com</a></div><div><div></div><a href='http://www.mozio.com' rel='nofollow'>mozio.com</a></div></div></div></div></div></div></div><div><div><div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/658/500/658500-c38c97f614c4c4b8f25f32e0687e6448b8fa39ab.jpg?1455924135' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/658/501/658501-c148630fe355dc1b07f5713abb623d4b606621ad.JPG?1455924182' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/000/675000-5ccde3ae5b4d47e031725ca39a80c2f49b26ab69.jpg?1459095937' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/001/675001-f12cc3c886ad66bd61a04bf161f9356e311affb7.jpg?1459095964' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/002/675002-a21af10604c96f2f4afa4384517cc517ebe31254.jpg?1459096020' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/003/675003-089394efd09cf8721d629b5b3d77d6e89288b36b.jpg?1459096057' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/004/675004-3de7faf9d070943a2c2f73a8154fb98ab06117fd.jpg?1459096109' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/005/675005-440df439037d2ccebd3139554edaaf3d8f1b1342.jpg?1459096183' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/007/675007-b0801f312737731bfb3ba971f0b91299c874be2e.jpg?1459096268' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/013/675013-92d03127455076fb62601f8505ff36ef0fb63c76.jpg?1459096981' rel='nofollow'></a></div></div></div></div><div><span>See More</span></div><div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/014/675014-f3ca91dc61ed73b250fdf2950eec8444b2aec3c4.jpg?1459097019' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/015/675015-c150de5d9b1c9124619ecfc4fb0aeda68fe0fac1.jpg?1459097057' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/016/675016-2c64fbb7e5d07e41e30ba726daefee477480fa4a.jpg?1459097095' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/017/675017-3b0d96d06a9ce7f779a8586f45c630ad09e5c9aa.jpg?1459097126' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/018/675018-c4741ef0e07c0632df309a37680032a0798f788f.jpg?1459097156' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/020/675020-079d33b8c02102e39d0b74a5407a50831895d58c.jpg?1459097236' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/021/675021-b47c5daaccdac819b80c6a6ddea09e070d7ab148.jpg?1459097263' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/022/675022-bfb1fdd6e346af6459f8184718c4ab54774c4f59.jpg?1459097289' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/023/675023-23320d1fab31255ed8dcc01ec528278d8927fc46.jpg?1459097319' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/024/675024-7e565a891029d56b3ae356be35cf350fc02f1b20.jpg?1459097347' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/025/675025-e44eab1578b6a2564913a7b88d9e2a788d558ce6.jpg?1459097381' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/675/026/675026-d1071daf656e06a86a5ab3d9167dcb58aa4a6bbb.png?1459097696' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/680/435/680435-736654e3d57099c1c0bbe20a7bb746ab0259d97c.jpg?1459982218' rel='nofollow'></a></div></div></div></div><div><div><div><div></div><div>Add testimonials, product launches, and photos that highlight your company</div>Add Highlight</div></div></div><div></div></div></div><div><div><div><h3>Other Jobs at Mozio</h3><ul><li><div>Software Engineering Jobs</div><div><div><div><div><a href='https://angel.co/mozio/jobs/388425-senior-mobile-sdk-engineer-initial-development-stage' rel='nofollow'>Senior Mobile SDK Engineer - Initial development stage</a><div>Earth·Full Time<span></span><span>·$30K – $48K · 0.025% – 0.05%</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Mozio</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></li></ul></div></div></div><div><div><div><h3>Mozio Team</h3><div><div><div><div><div><a href='https://angel.co/david-litwak' rel='nofollow'></a></div><div><div><a href='https://angel.co/david-litwak' rel='nofollow'>David Litwak</a><span>,</span></div><div>Founder <a href='https://angel.co/mozio' title=&quot;Mozio&quot; rel='nofollow'><span>@</span><span>Mozio</span></a> • Founder <a href='https://angel.co/supperclub-1' title=&quot;SupperClub&quot; rel='nofollow'><span>@</span><span>SupperClub</span></a> <a href='https://angel.co/ucberkeley' title=&quot;UCBerkeley&quot; rel='nofollow'><span>@</span><span>UCBerkeley</span></a> EECS, <a href='https://angel.co/skype' title=&quot;Skype&quot; rel='nofollow'><span>@</span><span>Skype</span></a>, U.S./Estonian dual citizen, world traveler to 85 countries, FIRST Robotics, Angel Investor.</div></div></div><div><div><a href='https://angel.co/joseph-metzinger' rel='nofollow'></a></div><div><div><a href='https://angel.co/joseph-metzinger' rel='nofollow'>Joseph Metzinger</a><span>,</span></div><div>Founder &amp; CTO at <a href='https://angel.co/mozio' title=&quot;Mozio&quot; rel='nofollow'><span>@</span><span>Mozio</span></a>. Worked at Hewlett-Packard and Lockheed Martin. BA from <a href='https://angel.co/university-of-california-berkeley' rel='nofollow'><span>@</span><span>University of California Berkeley</span></a> Computer Science.</div></div></div><div><div><a href='https://angel.co/emre-mangir' rel='nofollow'></a></div><div><div><a href='https://angel.co/emre-mangir' rel='nofollow'>Emre Mangir</a><span>,</span></div><div>Growth <a href='https://angel.co/mozio' title=&quot;Mozio&quot; rel='nofollow'><span>@</span><span>Mozio</span></a> Focused on helping get travelers to their final destination and allowing travel providers to provide door-to-destination solutions.</div></div></div><div><div><a href='https://angel.co/john-mcginty-1' rel='nofollow'></a></div><div><div><a href='https://angel.co/john-mcginty-1' rel='nofollow'>John McGinty</a><span>,</span></div><div>Entrepreneurial project manager directing business development for an urban mobility startup. Former management consultant &amp; think tanker.</div></div></div><div><div><a href='https://angel.co/ezequiel-alloatti' rel='nofollow'></a></div><div><div><a href='https://angel.co/ezequiel-alloatti' rel='nofollow'>Ezequiel Alloatti</a><span>,</span></div><div>Customer Service Representative, Administrative Assistant, Training Specialist at HR, Methodology Specialist</div></div></div><div><div><a href='https://angel.co/aida-sancho-lopez' rel='nofollow'></a></div><div><div><a href='https://angel.co/aida-sancho-lopez' rel='nofollow'>Aida Sancho López</a><span>,</span></div><div>Problem solver. Team builder. My definition of success is contributing to others' success.</div></div></div></div></div></div><div></div><div><span>See More</span><span></span></div><div></div></div></div></div><div><div><div><h3>Have Questions? Ask Us Anything</h3><div><div><a href='https://angel.co/jobs/signup' rel='nofollow'>Ask a Question</a></div></div><div></div><div><span>Show Hidden Questions</span></div><div></div><div><span>Hide Hidden Questions</span></div></div></div></div><div><div><div><h3>Mozio Investors</h3><div><div><div><div><div><a title=&quot;Galvanize Ventures&quot; href='https://angel.co/galvanize-ventures' rel='nofollow'></a></div><div><div><a href='https://angel.co/galvanize-ventures' rel='nofollow'>Galvanize Ventures</a></div><div>Invested in<div><div><a href='https://angel.co/changecoin' rel='nofollow'><span>@</span><span>ChangeCoin</span></a></div><div><a href='https://angel.co/lenda' rel='nofollow'><span>@</span><span>Lenda</span></a></div><div><a href='https://angel.co/tapslash' rel='nofollow'><span>@</span><span>Tapslash</span></a></div><div><a href='https://angel.co/stream' rel='nofollow'><span>@</span><span>Stream</span></a></div>and 50 more</div></div></div></div><div><div><a title=&quot;Corigin Ventures&quot; href='https://angel.co/corigin-ventures' rel='nofollow'></a></div><div><div><a href='https://angel.co/corigin-ventures' rel='nofollow'>Corigin Ventures</a></div><div>Invested in<div><div><a href='https://angel.co/zeel' rel='nofollow'><span>@</span><span>Zeel</span></a></div><div><a href='https://angel.co/perch-interactive' rel='nofollow'><span>@</span><span>Perch Interactive</span></a></div><div><a href='https://angel.co/morty' rel='nofollow'><span>@</span><span>Morty</span></a></div><div><a href='https://angel.co/latch-2' rel='nofollow'><span>@</span><span>Latch</span></a></div>and 27 more</div></div></div></div><div><div><a title=&quot;Asset Management Ventures&quot; href='https://angel.co/asset-management-ventures' rel='nofollow'></a></div><div><div><a href='https://angel.co/asset-management-ventures' rel='nofollow'>Asset Management Ventures</a></div><div>Invested in<div><div><a href='https://angel.co/skybox-imaging' rel='nofollow'><span>@</span><span>Skybox Imaging</span></a></div><div><a href='https://angel.co/ooma' rel='nofollow'><span>@</span><span>Ooma</span></a></div><div><a href='https://angel.co/evidation' rel='nofollow'><span>@</span><span>Evidation Health</span></a></div><div><a href='https://angel.co/healthtap' rel='nofollow'><span>@</span><span>HealthTap</span></a></div>and 20 more</div></div></div></div><div><div><a href='https://angel.co/chrisonan' rel='nofollow'></a></div><div><div><a href='https://angel.co/chrisonan' rel='nofollow'>Chris Onan</a><span>,</span></div><div>Managing Director of Galvanize Ventures.   Galvanize co-founder and former COO/CFO</div></div></div><div><div><a href='https://angel.co/nickwyman' rel='nofollow'></a></div><div><div><a href='https://angel.co/nickwyman' rel='nofollow'>Nick Wyman</a><span>,</span></div><div> Director <a href='https://angel.co/galvanize-ventures' title=&quot;Galvanize Ventures&quot; rel='nofollow'><span>@</span><span>Galvanize Ventures</span></a> and Angel Investor. Ex -  <a href='https://angel.co/foundry-group' title=&quot;Foundry Group&quot; rel='nofollow'><span>@</span><span>Foundry Group</span></a> Special Projects, <a href='https://angel.co/techstars' title=&quot;Techstars&quot; rel='nofollow'><span>@</span><span>Techstars</span></a> Associate &amp; @BoulderBeta Producer.   </div></div></div><div><div><a href='https://angel.co/dukeblue' rel='nofollow'></a></div><div><div><a href='https://angel.co/dukeblue' rel='nofollow'>Matt Johnson</a><span>,</span></div><div>3 time startup veteran with 2 successful exits (IPO &amp; 200M acquisition).  Currently Managing Director of global pricing strategy firm</div></div></div></div></div></div><div></div><div><span>See More</span><span></span></div><div></div></div></div></div><div><div><div><div><div>Mozio is one of 26,465 startups hiring on AngelList</div><div></div></div><div><div><span>Browse All Startup Jobs</span><a href='https://angel.co/recruiting/signup?src=job-showcase' rel='nofollow'>Post a Job</a></div></div><div><span>Help</span>·<span>Terms</span>·<span>Jobs by location</span><span>Problem?<span>Report this company</span></span></div></div></div></div></div><div></div>"
   },
   {
     "id": "C5qQPc2nTBKAZr9LMVZ86g",
@@ -1074,6 +1260,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1115,6 +1302,7 @@
       "maxValue": 0,
       "info": "3.0% – 1.0%",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1166,6 +1354,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1206,6 +1395,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1257,6 +1447,7 @@
       "maxValue": 0,
       "info": "3.0% – 1.0%",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1303,6 +1494,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1346,6 +1538,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1387,6 +1580,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1428,6 +1622,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1470,6 +1665,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1507,6 +1703,7 @@
       "maxValue": 180000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1548,6 +1745,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1591,6 +1789,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1630,6 +1829,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1667,6 +1867,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1713,6 +1914,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1753,6 +1955,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1794,6 +1997,7 @@
       "maxValue": 80000,
       "info": "",
       "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1835,6 +2039,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1881,6 +2086,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1916,6 +2122,7 @@
       "maxValue": 240000,
       "info": "",
       "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",

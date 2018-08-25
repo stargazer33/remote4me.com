@@ -36,6 +36,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -68,11 +69,12 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "$",
-      "minValue": 10,
-      "maxValue": 10,
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
       "info": "",
-      "unit": "YEAR",
+      "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -111,6 +113,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -152,6 +155,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -198,6 +202,7 @@
       "maxValue": 120000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -242,6 +247,7 @@
       "maxValue": 135000,
       "info": "Equity",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -289,6 +295,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -323,6 +330,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -360,6 +368,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -400,6 +409,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -445,6 +455,7 @@
       "maxValue": 110000,
       "info": "Equity",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -486,6 +497,7 @@
       "maxValue": 120000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -532,6 +544,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -572,6 +585,7 @@
       "maxValue": 125000,
       "info": "Equity",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -620,6 +634,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -665,6 +680,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -707,6 +723,7 @@
       "maxValue": 140000,
       "info": "Equity",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -760,6 +777,7 @@
       "maxValue": 110000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -813,6 +831,7 @@
       "maxValue": 120000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -864,6 +883,7 @@
       "maxValue": 75000,
       "info": "Equity",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -912,6 +932,7 @@
       "maxValue": 130000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -947,6 +968,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -985,6 +1007,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1025,6 +1048,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1069,6 +1093,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1106,6 +1131,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1148,6 +1174,7 @@
       "maxValue": 60000,
       "info": "Equity",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1197,6 +1224,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1235,6 +1263,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1277,6 +1306,7 @@
       "maxValue": 150000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1316,6 +1346,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1357,6 +1388,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1401,6 +1433,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1441,6 +1474,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1488,6 +1522,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1539,6 +1574,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1579,6 +1615,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1614,6 +1651,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1662,12 +1700,53 @@
       "maxValue": 0,
       "info": "3.0% – 1.0%",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
     "published": "Aug 24, 2018 6:08:28 AM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "Full stack engineer Job at Insider - AngelList<div><div><div><div><div><div><a title=&quot;Insider&quot; href='https://angel.co/insider-2/jobs' rel='nofollow'></a></div><div></div><ul><li><span>Insider</span></li><li><span>Product</span></li><li><span>Jobs</span></li><li><span>Team</span></li><li><span>Q&amp;A</span></li></ul><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Insider</div>Apply<div></div></div></div></div></div></div><div></div></div></div><div><div><span>Share</span></div></div></div></div></div></div></div><div><div><div></div></div><div><div><div><a title=&quot;Insider&quot; href='https://angel.co/insider-2' rel='nofollow'></a></div><div><h2>Full stack engineer at Insider</h2><div>Mumbai, Bengaluru, Remote · Full Time</div><div><div><div><div><div><p>Insider helps you discover the best things to do! Go out and buy tickets to the best in comedy, music, sports and weekend travel in your city or Stay in and cut through the clutter to find the best new movies, music or TV shows.</p></div></div></div></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply to Insider</span><div><div></div><div></div><div><div><div><div>Add a message to Insider</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div><div><div><div><h3>Job Description</h3></div><div><div><p>We are looking to hire Node.js programmers who understand the MEAN stack and love to build fast and modern consumer facing web applications.</p><p>We love javascript, our complete stack is built on it. As we continue to grow out the site and its features, we are looking for somebody to join our tech team and help build out the next set of kick-ass features.</p><p>If selected, you get to be a part of a small but committed group of technologists who are trying to improve how events are ticketed and marketed in India. </p><p>Qualifications</p><p>- Working knowledge of the MEAN stack. Prior experience in shipping a Node.js app is a definite plus<br>- Stellar problem solving skills<br>- Hunger to learn new things and ability to grasp new concepts quickly<br>- Ability to move quickly without breaking things too much (we are dreamers)<br>- Passion for developing awesome user experiences<br>- Ability to work under immense pressure which is balanced by a sense of responsibility and ownership</p></div></div><div><div>Skills</div><div>Javascript</div><div>Compensation</div><div>₹1200K–₹1500K<br>No Equity</div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Insider</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><div><h4>People also viewed</h4></div><div><div><div><a href='https://angel.co/ambient-ai-1/jobs/318477-full-stack-software-engineer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/ambient-ai-1/jobs/318477-full-stack-software-engineer?src=rec' rel='nofollow'>Full-Stack Software Engineer</a></div><div><a href='https://angel.co/ambient-ai-1/jobs/318477-full-stack-software-engineer?src=rec' rel='nofollow'>Ambient.ai</a></div><div>Bengaluru, Mumbai, Delhi</div></div></div><div><div><div><a href='https://angel.co/peoplegrove/jobs/242378-full-stack-software-engineer-india?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/peoplegrove/jobs/242378-full-stack-software-engineer-india?src=rec' rel='nofollow'>Full-Stack Software Engineer (In...</a></div><div><a href='https://angel.co/peoplegrove/jobs/242378-full-stack-software-engineer-india?src=rec' rel='nofollow'>PeopleGrove</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/instamojo/jobs/5785-senior-backend-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/instamojo/jobs/5785-senior-backend-developer?src=rec' rel='nofollow'>Senior Backend Developer</a></div><div><a href='https://angel.co/instamojo/jobs/5785-senior-backend-developer?src=rec' rel='nofollow'>Instamojo</a></div><div>Bengaluru</div></div></div><div><div><div><a href='https://angel.co/coupondunia/jobs/305209-full-stack-developer-mumbai?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/coupondunia/jobs/305209-full-stack-developer-mumbai?src=rec' rel='nofollow'>Full Stack Developer - Mumbai</a></div><div><a href='https://angel.co/coupondunia/jobs/305209-full-stack-developer-mumbai?src=rec' rel='nofollow'>CouponDunia</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/fork-media/jobs/62557-full-stack-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/fork-media/jobs/62557-full-stack-developer?src=rec' rel='nofollow'>Full Stack Developer</a></div><div><a href='https://angel.co/fork-media/jobs/62557-full-stack-developer?src=rec' rel='nofollow'>Fork Media</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/terribly-tiny-tales/jobs/274683-software-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/terribly-tiny-tales/jobs/274683-software-developer?src=rec' rel='nofollow'>Software Developer</a></div><div><a href='https://angel.co/terribly-tiny-tales/jobs/274683-software-developer?src=rec' rel='nofollow'>Terribly Tiny Tales (TTT)</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/coupondunia/jobs/15766-tech-lead-vp-engineering-mumbai?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/coupondunia/jobs/15766-tech-lead-vp-engineering-mumbai?src=rec' rel='nofollow'>Tech Lead / VP Engineering - Mumbai</a></div><div><a href='https://angel.co/coupondunia/jobs/15766-tech-lead-vp-engineering-mumbai?src=rec' rel='nofollow'>CouponDunia</a></div><div>Mumbai</div></div></div><div><div><div><a href='https://angel.co/rentomojo/jobs/221998-javascript-developer?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/rentomojo/jobs/221998-javascript-developer?src=rec' rel='nofollow'>Javascript Developer</a></div><div><a href='https://angel.co/rentomojo/jobs/221998-javascript-developer?src=rec' rel='nofollow'>RentoMojo</a></div><div>Mumbai, Bengaluru</div></div></div><div><div><div><a href='https://angel.co/upstox/jobs/208100-only-5-years-exp-software-engineer-backend?src=rec' rel='nofollow'></a></div><div><a href='https://angel.co/upstox/jobs/208100-only-5-years-exp-software-engineer-backend?src=rec' rel='nofollow'>** ONLY 5+ Years Exp ** Software...</a></div><div><a href='https://angel.co/upstox/jobs/208100-only-5-years-exp-software-engineer-backend?src=rec' rel='nofollow'>Upstox</a></div><div>Mumbai</div></div></div></div></div></div><div><div><div><div><h3>What We're Building</h3></div><div><div><p>Insider.in is a market place for curated events and experiences in India. We have a website which allows people to buy event tickets (both seated and non-seated) for select events across India.</p></div></div><div><div><div><div><div></div><div>Hiring in <span>Mumbai</span>, <span>Bengaluru</span>, Remote OK</div><div></div></div><div><div></div><div>11-50 Employees</div><div></div></div><div><div></div><span>Mobile</span>, <span>Events</span>, <span>Ticketing</span></div><div><div></div><a href='https://twitter.com/insiderdotin' rel='nofollow'>@insiderdotin</a></div><div><div></div><a href='https://insider.in' rel='nofollow'>insider.in</a></div></div></div></div></div></div></div><div><div><div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/588/485/588485-36b3ed05580d9ba51743e2235c3f597dd8efe796.png?1442554040' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/588/486/588486-9b0813de47d0f2d1bff13f1223a6ec75eaf88dc4.png?1442554122' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/588/487/588487-1ef228c5ce8db0019ab44bb22b590a7064bd6bc3.png?1442554469' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/588/488/588488-1c8fb93afdfa8486de78a8385712e5b6aecfefa3.png?1442554563' rel='nofollow'></a></div></div></div><div><div><div><a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/588/490/588490-af30d35d4d17acc961bda8f08ad3b7ce47854070.png?1442555886' rel='nofollow'></a></div></div></div></div><div><div><div><div></div><div>Add testimonials, product launches, and photos that highlight your company</div>Add Highlight</div></div></div><div></div></div></div><div><div><div><h3>Other Jobs at Insider</h3><ul><li><div>Software Engineering Jobs</div><div><div><div><div><a href='https://angel.co/insider-2/jobs/76173-frontend-developer' rel='nofollow'>Frontend Developer</a><div>Mumbai, Bengaluru·Full Time<span></span><span>·₹800K – ₹1300K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Insider</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><a href='https://angel.co/insider-2/jobs/79324-android-developer' rel='nofollow'>Android Developer</a><div>Mumbai·Full Time<span></span><span>·₹1000K – ₹1300K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Insider</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><a href='https://angel.co/insider-2/jobs/254054-devops-engineer' rel='nofollow'>DevOps Engineer</a><div>Mumbai·Full Time<span></span><span>·₹900K – ₹1500K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Insider</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></li></ul></div></div></div><div><div><div><h3>Insider Team</h3><div><div><div><div><div><a href='https://angel.co/sshreyas' rel='nofollow'></a></div><div><div><a href='https://angel.co/sshreyas' rel='nofollow'>Shreyas Srinivasan</a><span>,</span></div><div>Founder/ CEO Insider.in </div></div></div><div><div><a href='https://angel.co/neeharv' rel='nofollow'></a></div><div><div><a href='https://angel.co/neeharv' rel='nofollow'>Neehar Venugopal</a><span>,</span></div><div>Javascript all the things! I make and break things @insiderdotin</div></div></div><div><div><a href='https://angel.co/sayan-chakraborty' rel='nofollow'></a></div><div><div><a href='https://angel.co/sayan-chakraborty' rel='nofollow'>Sayan Chakraborty</a><span>,</span></div><div>Full Stack Software Engineer | Rails + DuckDuckGo contributor | Simplicity &gt; Complexity | FOSS enthusiast</div></div></div><div><div><a href='https://angel.co/alpesh-gajbe-1' rel='nofollow'></a></div><div><div><a href='https://angel.co/alpesh-gajbe-1' rel='nofollow'>Alpesh Gajbe</a></div></div></div><div><div><a href='https://angel.co/prashaantt' rel='nofollow'></a></div><div><div><a href='https://angel.co/prashaantt' rel='nofollow'>Prashant Tiwari</a><span>,</span></div><div>Head of Engineering at Insider.in</div></div></div><div><div><a href='https://angel.co/dipti-goel' rel='nofollow'></a></div><div><div><a href='https://angel.co/dipti-goel' rel='nofollow'>Dipti Goel</a></div></div></div></div></div></div><div></div><div><span>See More</span><span></span></div><div></div></div></div></div><div><div><div><h3>Have Questions? Ask Us Anything</h3><div><div><a href='https://angel.co/jobs/signup' rel='nofollow'>Ask a Question</a></div></div><div></div><div><span>Show Hidden Questions</span></div><div></div><div><span>Hide Hidden Questions</span></div></div></div></div><div><div><div><div><div>Insider is one of 26,444 startups hiring on AngelList</div><div></div></div><div><div><span>Browse All Startup Jobs</span><a href='https://angel.co/recruiting/signup?src=job-showcase' rel='nofollow'>Post a Job</a></div></div><div><span>Help</span>·<span>Terms</span>·<span>Jobs by location</span><span>Problem?<span>Report this company</span></span></div></div></div></div></div><div></div>"
+  },
+  {
+    "id": "BUz7s6IfQ-COh__RNh1FLQ",
+    "url": "https://remote.com/jobs/browse/preview/senior-frontend-software-engineer-5",
+    "title": "Senior Frontend Software Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:css/frontend/9",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/52",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=53, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=18}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Path Network",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 23, 2018 10:10:51 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "JOB TYPE: Full time<br /><br />LOCATION:<br />Remote<br />Anywhere in<br />North America<br /><br />EXPERIENCE: expert<br /><br />COMPANY: Path Network; 1-10 employees; 75-100% remote;<br /><br />SKILLS:<br />• Nodejs<br />• AWS<br />• HTML<br />• API Development<br />• ReactJS<br />• CSS<br />• Amazon Web Services<br />• Node.js<br /><br />Path Network is looking for an expert in front-end development to join our ranks. Path Network is a blockchain-powered analytics, monitoring, application performance and cybersecurity startup. We're fully funded and have no signs of slowing down anytime soon.<br /><br />The role will primarily be focused on the development of our administrative panel for our business clients. The panel is used for configuring, launching, and viewing analytics for the monitoring jobs performed by our network of user-powered monitoring nodes.<br /><br />We're looking for someone who can act as a senior resource to provide technical leadership as well as expertise in front-end design, development, and engineering amongst their peers. The ideal candidate will be someone who prides themselves on their JavaScript and CSS abilities and has unrivaled front-end skills, but is also versatile to work on back-end Node.js serverless APIs.<br /><br />Candidates should have experience with:<br />- React.js<br />- Redux<br />- API design & development<br />- GraphQL<br />- Jest<br />- Flow<br />- Node.js<br />- Back-end development experience, especially serverless<br />- Amazon Web Services (DynamoDB, Lambda, EC2, S3)<br />- HTML<br />- CSS<br /><br />Bonus skills:<br />- D3.js / Data visualization<br />- Kafka Experience<br />- Docker / Kubernetes<br /><br />Employment perks include:<br />- Competitive compensation and bonuses<br />- Flexible work hours<br />- Health, dental, and vision insurance<br />- Unlimited PTO<br />- Company provided hardware<br /><br /><br />Role is available to those seeking full-time employment as well as contractors. Must be a US citizen."
   },
   {
     "id": "-U61MZ3MQFy9BoqXg_qd0A",
@@ -1710,6 +1789,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1762,6 +1842,7 @@
       "maxValue": 0,
       "info": "3.0% – 1.0%",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1805,6 +1886,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1844,6 +1926,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1882,6 +1965,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1936,6 +2020,7 @@
       "maxValue": 0,
       "info": "3.0% – 1.0%",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -1974,6 +2059,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2016,6 +2102,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2052,6 +2139,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2094,6 +2182,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2133,6 +2222,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2174,6 +2264,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2216,6 +2307,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2253,6 +2345,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2306,6 +2399,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2359,6 +2453,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2396,6 +2491,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2437,6 +2533,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2475,6 +2572,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2515,6 +2613,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2555,6 +2654,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2592,6 +2692,7 @@
       "maxValue": 150000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2629,6 +2730,7 @@
       "maxValue": 70000,
       "info": "",
       "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2670,6 +2772,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2709,6 +2812,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2748,6 +2852,7 @@
       "maxValue": 220000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2788,6 +2893,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2830,6 +2936,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2875,6 +2982,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2916,6 +3024,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2954,6 +3063,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -2996,6 +3106,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3033,6 +3144,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3079,6 +3191,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3123,6 +3236,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3161,6 +3275,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3202,6 +3317,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3243,6 +3359,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3282,6 +3399,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3328,6 +3446,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3366,12 +3485,55 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
     "published": "Jul 11, 2018 4:43:24 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "*About Fluidly*<br />Fluidly is a seed stage fintech startup that launched to the public in October 2017. We’re building a new category - intelligent business finance.<br /><br />We want to solve the biggest problem facing small businesses - poor cashflow. We use technology to provide real-time cashflow forecasting and automated credit control that helps small businesses and their accountants to be more confident about future cash position and to help them make better financial decisions. Fluidly plugs into accounting software packages such as Xero, QuickBooks and Sage and combines financial data with machine learning techniques to produce a cashflow forecast that requires absolutely no modelling.<br /><br />We’ve recently been selected for the FinTech50 2018 “Hot 10” list and we are really excited that we’re one of 12 finalists for the Nesta Open Up challenge, designed for companies who are transforming small business banking.<br /><br />Within the accounting industry we’ve been nominated for the AccountingWeb Forecasting, Planning & Analysis Software of the Year and Innovation of the Year. We’ve also recently been featured in the Sunday Times, the Telegraph and Wired and have been described as “one of the true disruptors of the fintech industry”.<br /><br />Fluidly is backed by some of the UK’s leading technology investors and we have a diverse, top-tier team across the board, drawn from leading firms and universities. Our Founder/CEO is a serial entrepreneur, recently awarded an OBE for services to Business: https://www.linkedin.com/in/carolineplumb/<br /><br />*About the role*<br />You will be reporting to the CTO and will be a senior member of the engineering team. Initially, your job is to help us focus on scaling out the product as we bring on more users. You must be comfortable working across the stack, implementing UI features and scaling our infrastructure and databases as the amount of data we handle increases. You will also be involved in monitoring and management of our services. It’s a small team and we all need to help each other out - this helps us all communicate better.<br /><br />You’ll have significant experience building production software and thoroughly understand the quirks of web development, ideally with React.js and Node.js. You will also have been deep into the data tier and will be comfortable tuning SQL and Mongo queries, identifying bottlenecks in distributed systems and fixing them, and automating platform-related maintenance tasks. On the front end, you should be able to build out a feature so that it just works (don’t worry, we have a designer who will make sure that it is pretty and user-friendly!).<br /><br />Technology wise, the solution is a full stack javascript (React + Node) monolithic application. We aim to add other tech such as golang, clojure and microservices to the stack as we scale, but for now productivity is our main priority so we are keeping things simple.<br /><br />*Interview process*<br /><br />*Skype call* <br />A short conversation of 15-30 minutes to find out a little bit more about you and tell you all about the company and what we are trying to achieve.<br /><br />*Take home technical exercise* <br />Everyone hates technical exercises so we want this to be as painless as possible. We have a standard exercise that will take 1-2 hours depending on experience - you can do this at home on your own equipment without a stranger standing over you.<br /><br />*On site interview* <br />You will bring in your technical exercise and we’ll talk through your solution and your experience more generally. After that we will do a pair programming exercise that’ll take about an hour.<br /><br />*Meet the Team* <br />Depending on our / your schedules this might be a on different day to the technical interview. Come and meet the rest of the team and ask us anything.<br /><br />*Compensation*<br /><br />* The most competitive salary we can afford. We are an early stage startup and have to make our seed funding last. This means we can’t afford to compete directly on salary. As we grow, we will close this gap quickly. Dependent on experience (DOE).<br />* Meaningful equity. We want people to have a serious stake in the business so that all of our interests are aligned. It’s your baby too. DOE.<br />* 25 days holiday - and we will make you take it. Sure, there will be some long days, but burnout is not big or clever.<br />* Limitless challenge and scope for development.<br />* As much of our time as you need. You professional growth is important to us, and we want to help you to be awesome. It’s not just technical, Caroline will be helping build your commercial and business skills too, if that’s something you are interested in.<br />* Sensible problem that will add real value to real people. This isn’t an HBO parody company.<br />* Flexible working where possible. We like being in the office because it should be fun. All the same if you need to leave early on ${DAY} to make the school run, that’s no problem.<br />* All the crisps (and fruit) you can eat.<br /><br /><br />You can learn a little more about us here:<br /><br />https://www.accountingweb.co.uk/tech/tech-pulse/fluidlys-top-10-partnership-shows-professions-ai-appetite<br /><br />https://www.managementtoday.co.uk/why-entrepreneur-turned-down-richard-branson-mckinsey-start-own-business/entrepreneurs/article/1463042<br /><br />https://www.managementtoday.co.uk/why-entrepreneur-turned-down-richard-branson-mckinsey-start-own-business/entrepreneurs/article/1463042"
+  },
+  {
+    "id": "iM2246MIQcKb2XroFHT8tg",
+    "url": "https://cjl.ist/2uuM06T",
+    "title": "Blockchain Developer",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=17, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=4}",
+      "REMOTE1/50",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 11, 2018 7:54:57 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Blockchain Developer</h2>   Location:    Remote    Singapore  <div>  Role and job type: Full-time </div> <div>  <h3>Job Description</h3>  <p>We are looking for a Back-end developer who has a strong interest in blockchain technology,<br>open-source, decentralization, security, and testing. You can work autonomously, have a strong<br>integrity and are up for the challenge to build a more efficient future.</p>  <p>You will join the Request Network Foundation team, and specifically the Protocol Team, which is<br>part of the YCombinator network. We share strong values and have been working together for<br>several years.</p>  <h4>Responsibilities</h4>  <ul>   <li>Develop the Request Network protocol by adding new features, new currencies and improve<br>scalability through research on Plasma and Tendermint</li>   <li>Implement and improving our JS library, helping support our nodes architecture</li>   <li>Help educating our community about how to build on Request</li>   <li>Contribute to a decentralized payment protocol built on the blockchain</li>  </ul>  <h4>Qualifications</h4>  <ul>   <li>Passionate about creating and releasing projects, as well as learning new languages</li>   <li>Be able to identify relations between parts of complex projects</li>   <li>Be able to demonstrate a deep understanding of the blockchain architecture</li>   <li>Hold a Master’s in computer science or an equivalent field (STEM)</li>   <li>Proven analytical and proactive problem solving skills</li>   <li>Experience with modern development (ES6, Typescript, NodeJS, etc.). Knowledge of Solidity<br>and Web3JS library is a plus</li>   <li>Optional: You have the skills to recreate the Rick and Morty Portal Gun and an opinion on how<br>to avoid being trapped into one of the Black Mirror scenarios of the future</li>  </ul>  <p><em>Location</em>: Singapore for six months, one of the major European capitals afterwards.<br>Part-time remote work possible after a while.</p>  <h4>Salary range</h4>  <p>Competitive</p> </div>"
   },
   {
     "id": "I5a2WNGNR8Cm_ajRedFv0g",
@@ -3401,6 +3563,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3445,6 +3608,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3489,6 +3653,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3528,6 +3693,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3567,6 +3733,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3606,6 +3773,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3646,6 +3814,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -3696,6 +3865,7 @@
       "maxValue": 80000,
       "info": "",
       "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",

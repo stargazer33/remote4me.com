@@ -29,6 +29,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -61,6 +62,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -118,12 +120,51 @@
       "maxValue": 110000,
       "info": "",
       "unit": "YEAR",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
     "published": "Aug 24, 2018 7:56:26 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<h2><span>Full Stack Developer (C#/ React/SQL Server/Azure)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Development / Engineering</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                            </div>                    </div>                <div>Company: AssureSign | Atlanta, GA<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Atlanta, GA.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div></div><div>c#</div><div>javascript</div><div>azure</div><div>react</div><div>typescript</div>                <h3>Job description</h3>                <div><p><strong>Javascript/C# Software Developer</strong></p><p><strong>Job Description</strong></p><p>Growing software company looking for a self-starting, experienced, and versatile software developer based in Atlanta, GA or remote.</p><p>This team meets (virtually) and is responsible for rolling out regular releases to several web, mobile, and desktop applications.&nbsp; At a high level, this developer will be responsible for:</p><ul><li>designing and implementing new features and functionality for both new and existing web, mobile, and desktop applications</li><li>conducting R&amp;D with new libraries, frameworks, and technologies</li><li>reviewing code and mentoring junior level developers</li><li>fixing bugs (nobody likes it, but we’ve all got to do it)</li><li>contributing to product documentation</li><li>responding to more technical questions from customers than we care about</li><li>communicating openly and effectively with co-workers and customers</li></ul><p>We utilize agile methodologies and typically follow a 2-week release cadence. In addition to our daily scrum meetings via Skype, we also meet weekly (virtually) to share our progress with the entire time. Once or twice a year we meet for in-person for meetings/ training.</p><p>We make heavy use of Visual Studio Online for backlog and issue tracking. We love Open Source, but we don’t shy away from spending money to make sure we have the right tools for the job.&nbsp; We aren’t afraid of trying new technology and make a point of regularly evaluating new tooling, libraries, and frameworks.&nbsp;</p><p>Work schedules are flexible, but reasonable availability for meetings, collaboration, and customer support during core business hours is required.</p><p><strong>Skills &amp; Requirements</strong></p><p>Our ideal candidate will exhibit:</p><ul><li>proven experience developing large, rich JavaScript applications</li><li>demonstrable skills working with responsive design, HTML 5, and CSS</li><li>a solid command and understanding of C# and ASP.NET</li><li>the ability to work easily in a variety of programming languages and environments to support a variety of web, mobile, and desktop applications</li><li>an approach of always writing code as if they are the ones that will have to maintain it over the long haul (because who knows, maybe they will be…)</li><li>a serious interest in learning about and trying out new technologies and platforms</li></ul><p>In addition, the following would be beneficial:</p><ul><li>a working knowledge of SQL (ideally SQL Server)</li><li>experience developing JavaScript applications using TypeScript</li><li>experience working with cloud services, SQL Database, and BLOB storage in Microsoft Azure</li><li>professional-level written and verbal communications skills</li></ul><p>If you have the experience and skills listed, we’d love to hear from you.</p><p>NO recruiters please.</p><p><strong>About Us</strong></p><p>AssureSign has been providing mission-critical electronic signature solutions to enterprise customers since 1999.&nbsp; With over 400 million global signature events to-date, AssureSign is a clear leader in the market in both cloud and on-premise deployments.</p><p>We are headquartered in Atlanta, GA and are fortunate to call the Atlanta Tech Village our home.&nbsp; We work in a mixed physical/virtual environment with some employees based out of our Atlanta office and others working from home.&nbsp; We’ve worked hard over the past couple of years to completely virtualize our network and server infrastructure.&nbsp; All of those services now reside in the Microsoft Azure cloud.</p><p><strong>Our Technology Stack</strong></p><p><strong>Web Applications</strong></p><p>On the server-side, our web applications typically leverage ASP.NET (C#) and SQL Server (typically Azure SQL Database).&nbsp; With a service oriented architectural style, we rely on Nancy FX to develop our light-weight .NET-based HTTP services.</p><p>On the client-side, we make heavy use of JavaScript to create rich client-side experiences.&nbsp; Most of our code is written in TypeScript using React and Redux. &nbsp;We typically utilize a Gulp-based build system to generate our client-side code (CSS, JavaScript) from our source TypeScript and LESS files and to maximize our control over the build process.</p><p><strong>Mobile Applications</strong></p><p>We currently offer native mobile applications that work with our core SaaS product and specifically target: iOS, Android, and the Universal Windows Platform (UWP).</p><p><strong>Desktop Applications</strong></p><p>Our .NET based Windows desktop applications are designed to complement our core SaaS web application and make heavy use of the web-based API for our core application.</p><p><strong>Why Work at AssureSign?</strong></p><p>Our product: We’re <strong>customer centric</strong> and committed to continuous improvements to stand out from the competition.&nbsp; The backlog never gets smaller, but the product continues to evolve and improve.</p><p>Our Team: We’re <strong>team players</strong> - We’re committed to the growth of our company and product and are <strong>supportive</strong> of one another.&nbsp; We’re looking for a <strong>motivated</strong> developer to join us who thrives in a fast pace environment.&nbsp;</p><p>We’re passionate about what we do, and have an ‘all hands on deck’ mentality when it comes to the success of our company and product.&nbsp; We <strong>adapt</strong>, we find solutions, and are willing to question assumptions and think outside the box. We are looking for someone who shares those characteristics and is truly passionate about coding.</p><p><strong>Benefits</strong></p><p>In addition to competitive pay, AssureSign offers the following benefits:</p><ul><li>Medical</li><li>Dental</li><li>Vision</li><li>Supplemental Insurance</li><li>401k with company match and immediate full vesting</li><li>And an open vacation/time off policy: yes, you read that correctly</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/157867?reset=False&amp;ra=QWvz5lAOnfO&amp;oqs=a%3DQWvz5lAOnfO' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About AssureSign</h3>            <div><p>AssureSign has been providing mission-critical electronic signature solutions to enterprise customers since 1999.&nbsp; With over 180 million global signature events to-date, AssureSign is a clear leader in the market in both cloud and on-premise deployments.</p><p>We are headquartered in Atlanta, GA and are fortunate to call the Atlanta Tech Village our home.&nbsp; We work in a mixed physical/virtual environment with some employees based out of our Atlanta office and others working from home.&nbsp; We’ve worked hard over the past couple of years to completely virtualize our network and server infrastructure.&nbsp; All of those services now reside in the Microsoft Azure cloud.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Medical</span>                            </li>                            <li>                                <span></span>                                <span>Dental</span>                            </li>                            <li>                                <span></span>                                <span>Vision</span>                            </li>                            <li>                                <span></span>                                <span>Supplemental Insurance</span>                            </li>                            <li>                                <span></span>                                <span>401k with matching and full vesting</span>                            </li>                            <li>                                <span></span>                                <span>Open vacation/time off policy</span>                            </li>                    </ul>                "
+  },
+  {
+    "id": "WhWnZqUzQHG9IjrcwHeptA",
+    "url": "https://remote.com/jobs/browse/preview/phpmysql-developer",
+    "title": "PHP/MySQL Developer",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/30",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=38, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dbms",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "CreditBPO Tech Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 24, 2018 12:00:50 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "JOB TYPE: Full time<br /><br />LOCATION:<br />Asia<br />(Partial remote)<br /><br />Anywhere in<br />Asia<br /><br />EXPERIENCE: intermediate<br /><br />COMPANY: CreditBPO Tech Inc.; 1-10 employees; 0-25% remote;<br /><br />CreditBPO is looking for developers to manage back end services and the flow of data between servers and users. Primary responsibilities will lie in maintenance and expansion of databases, development of server-side logic and applications to meet business needs, and ensuring a comfortable, high performance experience for customers.<br /><br />Elegant solutions to abstract problems are our forte and so any CreditBPO developer will have to perform the following responsibilities:<br /><br />Write reusable, efficient, testable PHP code and MySQL data structures.<br />Develop, record and maintain web-based PHP modules.<br />Prepare and maintain all applications utilizing industry ideal development tools.<br />Write clear specifications and analyses for technological initiatives.<br />Produce, maintain and update complete project and code documentation.<br />Effectively communicate all task progress, evaluations and suggestions alongside technical and process-related issues to Project Manager.<br />Ensure resolution of technical issues involving internal customers ranging from senior project managers to various technical personnel.<br />Besides the raw technical aspect, community is vital to us given the specialized business logic we work with and the sort of experience we want to provide our customers. <br /><br />Given that, CreditBPO developer tasks will need to possess the following requirements:<br /><br />Strong knowledge of PHP Laravel framework.<br />In-depth understanding of PHP syncronicty.<br />Practicing knowledge of object-oriented PHP programming.<br />Understanding of user security and confidentiality issues.<br />Ability to create clean, scalable data schemas that support business processes.<br />Skill in communicating with all project-relevant employees to thoroughly pursue relevant questions, specify project parameters and set expectations.<br />We need proactive team players. The type of person who asks questions and attempts solutions. Who understands that just doing what they're told is not enough - that there is always a goal in mind and that reviewing alternative paths is always ideal. <br /><br />If you're willing to be part of a dynamic, collaborative team apply now!"
   },
   {
     "id": "iRrqIgePQIu42tmljr8QxQ",
@@ -160,6 +201,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -196,6 +238,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
+      "parser": "UNSET",
       "isEquity": false
     },
     "employmentType": "UNSET",
