@@ -6,67 +6,110 @@
 <!-- Plotly chart will be drawn inside this DIV -->
 <div id="myDiv"></div>
 <script>
-    var x1 = ["70000", "125000", "50000", "90000", "50000", "60000", "90000", "70000", "80000", "90000", "120000", "60000", "50000", "85000", "75000", "80000", "130000", "30000", "50000", "10000", "85000", "20000", "40000", "90000", "70000", "90000", "130000", "40000", "60000", "150000", "120000", "24000", "45000", "100000", "90000", "100000", "10000", "70000", "70000", "75000", "78000", "50000", "50000", "50000", "70000", "50000", "85000", "65000", "90000", "90000", "90000", "100000", "75000", "120000", "150000", "55000", "60000"];
-    var x2 = ["90000", "130000", "75000", "130000", "200000", "135000", "120000", "110000", "115000", "125000", "125000", "120000", "65000", "100000", "125000", "120000", "175000", "60000", "60000", "110000", "120000", "120000", "60000", "130000", "100000", "130000", "165000", "90000", "150000", "160000", "42000", "80000", "180000", "120000", "125000", "25000", "150000", "150000", "75000", "114000", "50000", "74000", "50000", "110000", "80000", "100000", "130000", "120000", "120000", "110000", "149000", "99000", "70000", "80000"];
+    var isMinLoaded=false;
+    var isMaxLoaded=false;
+    var xMin = [];
+    var xMax = [];
 
-    var trace1 = {
-        x: x1,
-        //orientation: 'h',
-        name: "Min range",
-        type: "box",
-        //boxpoints: 'suspectedoutliers',
-        boxpoints: 'all',
-        jitter: 0.3,
-        //boxpoints: 'Outliers',
-        marker: {
-            color: 'rgb(107,174,214)',
-            outliercolor: 'rgba(219, 64, 82, 0.6)',
-            line: {
-                outliercolor: 'rgba(219, 64, 82, 1.0)',
-                outlierwidth: 2
-            }
+    function loadFiles() {
+        Plotly.d3.csv("/assets/diagram/salary-frontend-min.csv",
+            function(data){ processDataMin(data) }
+        );
+
+        Plotly.d3.csv("/assets/diagram/salary-frontend-max.csv",
+            function(data){ processDataMax(data) }
+        );
+
+    };
+
+    function processDataMin(allRows) {
+        //console.log(allRows);
+        for (var i=0; i<allRows.length; i++) {
+            row = allRows[i];
+            xMin.push( row['salaryminvalue'] );
         }
-    };
+        isMinLoaded=true;
+        makePlotly();
+    }
 
-    var trace2 = {
-        x: x2,
-        type: 'box',
-        name: "Max range",
-        //boxpoints: 'suspectedoutliers',
-        boxpoints: 'all',
-        jitter: 0.3,
-        //boxpoints: 'Outliers',
-        marker: {
-            color: 'rgb(8,81,156)',
-            outliercolor: 'rgba(219, 64, 82, 0.6)',
-            line: {
-                outliercolor: 'rgba(219, 64, 82, 1.0)',
-                outlierwidth: 2
-            }
-        },
-    };
-
-    var data = [trace1, trace2];
-
-    var layout = {
-        title: "EARLY PROTOTYPE: Remote frontend (JavaScript) jobs - a BOX PLOT of min/max salary",
-        paper_bgcolor: 'rgb(243, 243, 243)',
-        plot_bgcolor: 'rgb(243, 243, 243)',
-        showlegend: false,
-
-        xaxis: {
-            dtick: 10000,
-            autorange: true,
-            showgrid: true,
-            zeroline: true,
-            //dtick: 5,
-            gridcolor: 'rgb(255, 255, 255)',
-            gridwidth: 1,
-            zerolinecolor: 'rgb(255, 255, 255)',
-            zerolinewidth: 2,
-            "title": "Salary, USD/Year"
+    function processDataMax(allRows) {
+        //console.log(allRows);
+        for (var i = 0; i < allRows.length; i++) {
+            row = allRows[i];
+            xMax.push(row['salarymaxvalue']);
         }
-    };
-    Plotly.newPlot('myDiv', data, layout, {displayModeBar: false});
+        isMaxLoaded = true;
+        makePlotly();
+    }
+
+    function makePlotly() {
+        if(isMaxLoaded==false || isMinLoaded==false){
+            return;
+        }
+
+        var trace1 = {
+            x: xMin,
+            //orientation: 'h',
+            name: "Min range",
+            type: "box",
+            boxpoints: 'suspectedoutliers',
+            //boxpoints: 'all',
+            jitter: 0.3,
+            //boxpoints: 'Outliers',
+            marker: {
+                color: 'rgb(107,174,214)',
+                outliercolor: 'rgba(219, 64, 82, 0.6)',
+                line: {
+                    outliercolor: 'rgba(219, 64, 82, 1.0)',
+                    outlierwidth: 2
+                }
+            }
+        };
+
+        var trace2 = {
+            x: xMax,
+            type: 'box',
+            name: "Max range",
+            boxpoints: 'suspectedoutliers',
+            //boxpoints: 'all',
+            jitter: 0.3,
+            //boxpoints: 'Outliers',
+            marker: {
+                color: 'rgb(8,81,156)',
+                outliercolor: 'rgba(219, 64, 82, 0.6)',
+                line: {
+                    outliercolor: 'rgba(219, 64, 82, 1.0)',
+                    outlierwidth: 2
+                }
+            },
+        };
+
+        var data = [trace1, trace2];
+
+        var layout = {
+            title: "EARLY PROTOTYPE: Remote frontend (JavaScript) jobs - a BOX PLOT of min/max salary",
+            autosize: true,
+            paper_bgcolor: 'rgb(243, 243, 243)',
+            plot_bgcolor: 'rgb(243, 243, 243)',
+            showlegend: false,
+
+            xaxis: {
+                dtick: 10000,
+                autorange: true,
+                showgrid: true,
+                zeroline: true,
+                //dtick: 5,
+                gridcolor: 'rgb(255, 255, 255)',
+                gridwidth: 1,
+                zerolinecolor: 'rgb(255, 255, 255)',
+                zerolinewidth: 2,
+                "title": "Salary, USD/Year"
+            }
+        };
+        Plotly.newPlot('myDiv', data, layout, {displayModeBar: false});
+    }
+
+    loadFiles();
+
 </script>
 </body>
