@@ -1,0 +1,132 @@
+<head>
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+<!-- Plotly chart will be drawn inside this DIV -->
+<div id="myDiv"></div>
+<script>
+
+    var isMinLoaded=false;
+    var isMaxLoaded=false;
+    var xMin = [];
+    var xMax = [];
+
+    function loadFiles() {
+        Plotly.d3.csv("/assets/diagram/salary-frontend-min.csv",
+            function(data){ processDataMin(data) }
+        );
+
+        Plotly.d3.csv("/assets/diagram/salary-frontend-max.csv",
+            function(data){ processDataMax(data) }
+        );
+
+    };
+
+    function processDataMin(allRows) {
+        //console.log(allRows);
+        for (var i=0; i<allRows.length; i++) {
+            row = allRows[i];
+            xMin.push( row['salaryminvalue'] );
+        }
+        isMinLoaded=true;
+        makePlotly();
+    }
+
+    function processDataMax(allRows) {
+        //console.log(allRows);
+        for (var i=0; i<allRows.length; i++) {
+            row = allRows[i];
+            xMax.push( row['salarymaxvalue'] );
+        }
+        isMaxLoaded=true;
+        makePlotly();
+    }
+
+    function makePlotly(){
+        if(isMaxLoaded==false || isMinLoaded==false){
+            return;
+        }
+
+        var rangeArr = [];
+        var s = 0;
+        for (var i = 0; s <= 260000; i ++) {
+            rangeArr[i] = s;
+            s = s + 10000;
+        }
+
+        var trace1 = {
+            x: xMin,
+            opacity: 0.5,
+            name: "Min range (USD/Year)",
+            histnorm: "count",
+            marker: {
+                color: 'rgb(107,174,214, 0.4)',
+                line: {
+                    color: 'rgb(107,174,214, 1)',
+                    width: 1
+                }
+            },
+            type: "histogram",
+            xbins: {
+                start: 0,
+                end: 260000,
+                size: 10000
+            }
+
+        };
+        var trace2 = {
+            x: xMax,
+            opacity: 1,
+            marker: {
+                color: 'rgb(8,81,156, 0.2)',
+                line: {
+                    color: 'rgb(8,81,156, 1)',
+                    width: 1
+                }
+            },
+            name: "Max range (USD/Year)",
+            type: "histogram",
+            xbins: {
+                start: 0,
+                end: 260000,
+                size: 10000
+            }
+        };
+        var data = [trace2, trace1];
+
+        var layout = {
+            autosize: true,
+            showlegend: true,
+            paper_bgcolor: 'rgb(243, 243, 243)',
+            plot_bgcolor: 'rgb(243, 243, 243)',
+            "breakpoints": [],
+            barmode: "overlay",
+            title: "EARLY PROTOTYPE: Remote frontend (JavaScript) jobs - a HISTOGRAM of min/max salary",
+
+            yaxis: {
+                autorange: true,
+                fixedrange: true,
+                "title": "Number of Jobs (Frequency)"
+            },
+
+            xaxis: {
+                dtick: 10000,
+                //autorange: false,
+                range: rangeArr,
+                fixedrange: true,
+                showgrid: true,
+                zeroline: true,
+                gridcolor: 'rgb(255, 255, 255)',
+                gridwidth: 1,
+                zerolinecolor: 'rgb(255, 255, 255)',
+                zerolinewidth: 2,
+                "title": "Salary, USD"
+            }
+        };
+        Plotly.newPlot('myDiv', data, layout, {displayModeBar: false});
+    };
+
+    loadFiles();
+</script>
+</body>
