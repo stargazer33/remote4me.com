@@ -1,0 +1,162 @@
+<head>
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+<!-- Plotly chart will be drawn inside this DIV -->
+<div id="myDiv"></div>
+<script>
+    var isMinLoaded=false;
+    var isMaxLoaded=false;
+    var xMin = [];
+    var xMax = [];
+
+    function loadFiles() {
+        Plotly.d3.csv("/assets/diagram/salary-frontend-min.csv",
+            function(data){ processDataMin(data) }
+        );
+
+        Plotly.d3.csv("/assets/diagram/salary-frontend-max.csv",
+            function(data){ processDataMax(data) }
+        );
+
+    };
+
+    function processDataMin(allRows) {
+        //console.log(allRows);
+        for (var i=0; i<allRows.length; i++) {
+            row = allRows[i];
+            xMin.push( row['salaryminvalue'] );
+        }
+        isMinLoaded=true;
+        makePlotly();
+    }
+
+    function processDataMax(allRows) {
+        //console.log(allRows);
+        for (var i = 0; i < allRows.length; i++) {
+            row = allRows[i];
+            xMax.push(row['salarymaxvalue']);
+        }
+        isMaxLoaded = true;
+        makePlotly();
+    }
+
+    function makePlotly() {
+        if(isMaxLoaded==false || isMinLoaded==false){
+            return;
+        }
+
+        var traceBox1 = {
+            x: xMin,
+            type: "box",
+            name: "Min (boxplot)",
+            boxmean: true,
+            boxpoints: 'all',
+            jitter: 0.3,
+            marker: {
+                color: 'rgb(107,174,214)',
+                line: {
+                    outliercolor: 'rgba(219, 64, 82, 1.0)',
+                }
+            }
+        };
+
+        var traceBox2 = {
+            x: xMax,
+            type: 'box',
+            name: "Max (boxplot)",
+            boxpoints: 'all',
+            boxmean: true,
+            jitter: 0.3,
+            marker: {
+                color: 'rgb(8,81,156)',
+                line: {
+                    outliercolor: 'rgba(219, 64, 82, 1.0)',
+                }
+            },
+        };
+
+        var traceHistogram1 = {
+            x: xMin,
+            xaxis: 'x',
+            yaxis: 'y3',
+            type: "histogram",
+            opacity: 0.5,
+            name: "Min (histogram)",
+            histnorm: "count",
+            marker: {
+                color: 'rgb(107,174,214, 0.4)',
+                line: {
+                    color: 'rgb(107,174,214, 1)',
+                    width: 1
+                }
+            },
+            xbins: {
+                start: 0,
+                end: 260000,
+                size: 10000
+            }
+
+        };
+
+        var traceHistogram2 = {
+            x: xMax,
+            xaxis: 'x',
+            yaxis: 'y3',
+            type: "histogram",
+            opacity: 1,
+            marker: {
+                color: 'rgb(8,81,156, 0.2)',
+                line: {
+                    color: 'rgb(8,81,156, 1)',
+                    width: 1
+                }
+            },
+            name: "Max (histogram)",
+            xbins: {
+                start: 0,
+                end: 260000,
+                size: 10000
+            }
+        };
+
+        var data = [traceBox1, traceBox2, traceHistogram1, traceHistogram2];
+
+        var layout = {
+            title: "EARLY PROTOTYPE: Remote frontend (JavaScript) jobs - HISTOGRAM and BOX PLOT of min/max salary",
+            autosize: true,
+            paper_bgcolor: 'rgb(243, 243, 243)',
+            plot_bgcolor: 'rgb(243, 243, 243)',
+            height: 700,
+
+
+            yaxis3: {
+                domain: [0.7, 1],
+                "title": "Num jobs (Frequency)"
+            },
+
+            yaxis: {
+                domain: [0, 0.7],
+            },
+
+            xaxis: {
+                domain: [0, 1],
+                dtick: 10000,
+                gridcolor: 'rgb(255, 255, 255)',
+                gridwidth: 1,
+                zerolinecolor: 'rgb(255, 255, 255)',
+                zerolinewidth: 2,
+                "title": "Salary, USD/Year"
+            },
+
+
+
+        };
+        Plotly.newPlot('myDiv', data, layout, {displayModeBar: false});
+    }
+
+    loadFiles();
+
+</script>
+</body>
