@@ -1,6 +1,117 @@
 {
  "items": [
   {
+    "id": "Nz-bJMYNSuCeFXU9xG42Ag",
+    "url": "http://jobs.github.com/positions/a70f5eb8-083b-11e8-80e2-6aeb265cb22e",
+    "title": "Full Time: Experienced Software Engineers at Loco2 in Remote within EU",
+    "tags": [
+      "DBG:surround``2N( OR(employe,develop,engin,team,workmat), spread, OR(out,across) )",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=20, apple=4, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 28, 2018 6:30:10 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<p>Loco2 is an online booking service for train travel throughout the UK and Europe. Our mission is to make booking trains anywhere in Europe as easy and affordable as possible, from epic international adventures to everyday local commutes. </p><p>We’ve been selling tickets since 2012 and having reached market leader status, we recently became part of the Voyages-sncf group. We remain operationally independent but this partnership has given us the resources to get to the next stage of our journey.</p><p><strong>About us</strong></p><p>We're a <a href='https://loco2.com/team' rel='nofollow'>close-knit, passionate and cosmopolitan team</a>, and care deeply about building an inclusive, open and supportive work environment. We have a flexible location-agnostic approach to hiring, which means we hire the best person for the job, regardless of geography. Our team is spread across eight countries and we’re growing fast! </p><p>Our success is built on trust, empathy and shared knowledge, with both customers and colleagues at the centre of what we do. <a href='https://uk.trustpilot.com/review/loco2.com' rel='nofollow'>We're proud to have an average rating of 9.3 out of 10 on Trustpilot</a> after over 30,000 reviews and a <a href='https://www.glassdoor.co.uk/Overview/Working-at-Loco2-EI_IE1950853.11,16.htm' rel='nofollow'>4.9 out of 5-star rating</a> on Glassdoor! </p><p><em>Why join us?</em></p><ul><li>Freedom: base yourself in our bright, modern office in central London or take advantage of our remote-friendly culture by working from home.</li><li>We offer flexible hours: work around your schedule and when you’re most productive.</li><li>Our team enjoys a healthy work-life balance and don’t think caffeine-fuelled all-nighters are a good way to grow a company that’s built to last.</li><li>Team activities: Developer conferences, annual retreats and monthly Lunch &amp; Learns.</li><li>We have high coding standards, and follow best practices such as continuous testing and delivery.</li><li>We strive to learn and improve together in a supportive environment as the wider tech ecosystem evolves.</li><li>Our days are not full of meetings and distractions. Allowing others to achieve flow is a big part of supporting each other.</li><li>Everyone is encouraged to ask questions, think creatively and suggest new working practices. We have a small team so your voice will be heard.</li></ul><p>We believe that diversity of background and experience contributes to a broader collective perspective that will consistently lead to a better company and better products. We are working hard to increase the diversity of our team wherever we can and we actively encourage everyone to consider becoming a part of it.</p><p><strong>Role description and tech stack</strong></p><p>We’re hiring experienced Ruby engineers to join our existing team, where you'll help us maintain and improve our existing infrastructure, integrate new rail operator booking systems and scale effectively for our rapidly expanding user base.</p><p>Our software stack consists of a pure-Ruby backend library which we use to communicate with train booking APIs, a modern Rails application, a PostgreSQL database, and two native mobile applications (iOS and Android).</p><p>We’re integrated with multiple rail operator booking systems (with our current team we usually complete at least 1-2 major integrations each year), and we’re increasingly consuming other types of data too (e.g. timetable data for routing, real-time arrivals/departures etc).</p><p>We need to diligently manage technical complexity, as each external system works in a slightly different way, with its own features and quirks. SOAP is (unfortunately) used by many operator APIs, which is why we released our open source library, <a href='https://github.com/loco2/lolsoap' rel='nofollow'>LolSoap</a>.</p><p>Some of the most difficult challenges we face relate to routing and making sense of lots of data. Which routes are best to get from A to B? Which booking systems should be queried? How might we cache data without affecting the accuracy of results?</p><p>We’ve recently released mobile applications for iOS and Android. Further developing our mobile strategy is a key goal for the business.</p><p>Because Loco2 is the merchant of record for all transactions we are also responsible for fraud prevention, and handling currency and other finance-related issues.</p><p>We frequently release new features that drive rapid organic growth, and so it’s vital that we anticipate and address scaling challenges before they occur.</p><p><strong>About you</strong></p><p>An ideal candidate:</p><ul><li>Has 4+ years of professional programming experience</li><li>Has deep knowledge and experience of Ruby</li><li>Is fluent in English and confident communicating and sharing complex information and learnings with both technical and non-technical team members</li><li>Has a good working knowledge of modern devops technologies such as Docker</li><li>Is comfortable designing object oriented software from scratch, not just implementing CRUD Rails apps; a pragmatist who can see the trade-offs involved in the different approaches to solving a problem</li><li>Strives to discover and understand the root cause of problems, suggesting new and improved solutions, rather than treating the symptoms</li><li>Actively considers future maintainability when deciding how to implement something</li><li>Has a keen appetite for self-improvement and growth, but doesn't hesitate to ask for help when needed</li><li>Enjoys getting their teeth stuck into complicated problems, as well as being willing to pitch in on some of the more routine tasks which inevitably arise</li><li>Is willing to participate in an on-call rota to cover technical emergencies out of hours</li><li>Can work hours that have some overlap with London daytime</li><li>Is motivated by Loco2's mission</li></ul>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "kkHSB1U7Q5C4JzKohu-V8w",
+    "url": "http://jobmote.com/jobs/23802-mid-level-software-engineer-remote-working-flexi-hours-modern-te",
+    "title": "Mid-Level Software Engineer - Remote working / Flexi hours / Modern te",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:rspec/ruby/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=5, c=2, mobile=1, go=0, nodejs=2, bigdata-ml=0, ruby=26, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Finsbury Digital",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 28, 2018 8:21:31 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p><strong>Mid-level Software Engineer</strong></p><p>A leading and award winning FinTech company with a unique and enjoyable working culture consisting of flexible hours / working from home, regular team events, paid company trips abroad, funding for training/conferences, a modern open plan office and free daily breakfast and regular snacks.</p><p>The client use technology and bleeding-edge data capability to create the best possible experience and products for their customers using their best-in-class price comparison platform and technology.</p><p>The client use Ruby, but they are technology agnostic when hiring so they have hired plenty of people from Java, PHP, C# etc backgounds in the past (with no ruby experience), and it's a great opportunity to learn new modern and open source technologies.</p><p><strong>Some things the client believe in:</strong></p><ul><li>Continuous delivery (the team deploy code to production about 14 times a day on average)</li><li>Cross functional teams where business and tech are seen as 'one team'</li><li>Agile and Lean Startup methodologies</li><li>TDD, BDD and fostering a strong DevOps culture.</li><li>Thought leadership - my client host meetup groups and present talks in their office and the community.</li><li>Creating the best company in the world to work for (they've already been named the best in UK by the Sunday Times)</li><li>Data driven decision making</li></ul><p><strong>The role</strong></p><ul><li>Being hands on with code in developing customer focused products using best practices, appropriate tools, and technologies</li><li>Working within small cross functional collaborative project teams (Dev, QA, Product Owners and other Business stakeholders), helping to clarify requirements at the onset of projects and suggesting different and relevant technical approaches</li><li>Championing Agile processes whilst creating amazingly useful systems in a collaborative way</li><li>Being proactive in suggesting new tools, technologies and ways of working - anything which will help the team continuously improve!</li></ul><p><strong>Skills and behaviours required:</strong></p><ul><li>Strong programming skills (in any language. The client use Ruby and will support you in crossing over. It's a great opportunity to learn a new tech stack!)</li><li>The ability to challenge and be proactive in suggesting new ways of working and approaches! The client love people who can come in and not be afraid to raise questions and help them continuously improve</li><li>Strong communication and collaborative skills</li><li>An advocate of engineering best practices</li><li>A strong desire to work with business teams and to understand the business side of product development</li><li>An understanding and appreciation of Agile methodologies</li></ul><p><strong>Tech Stack (experience with this tech stack is NOT required to apply as the client are technology agnostic when hiring):</strong></p><p>Ruby, Ruby on Rails, MongoDB, Spark, Elasticsearch, RabbitMQ, Puppet, Ansible, Kafka, AWS, HTML, CSS, JavaScript, React, Redux, CoffeeScript, Cucumber, RSpec, Jasmine, amongst others.</p><p><strong>The client offers:</strong></p><ul><li>Competitive Salary</li><li>Discretionary Bonus scheme</li><li>Flexible working hours</li><li>Working from home</li><li>Life insurance</li><li>5% Pension scheme</li><li>Gym membership</li><li>Private medical care</li><li>Dental cover</li><li>Extra holidays</li><li>Money back on daily well-being costs (massage, contact lenses etc)</li><li>A fun &amp; social working environment</li><li>The opportunity to work with a best-in-class team who are at the forefront of tech providing thought leadership and hosting meetup groups in their office and presenting talks in the community</li><li>Paid company trips abroad</li><li>Career development - funding for conferences / training</li><li>Free daily breakfast, snacks &amp; hot &amp; cold drinks</li></ul><p>The client are based in Bank, City of London.</p><p>Due to the volume of applications we receive we unfortunately cannot respond to each applicant with individual feedback. If you have not heard from us within 3 working days then please assume you have been unsuccessful.</p><p><strong>Our client are hiring ASAP and use us excluseively to recruit for ther Engineering roles - please apply now and if your applications is suitable then you will get a callback or email from our team to discuss within 24 hours</strong></p><p></p></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "YTgzfkX0Rrifzw-qn-Vsiw",
     "url": "https://www.remoteage.com/remote-jobs/software-engineer-back-end/",
     "title": "Software Engineer (Back End)",
@@ -1565,6 +1676,52 @@
     "published": "Aug 24, 2018 7:56:26 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<h2><span>Full Stack Rails and Javascript Web Developer (Great Opportunity)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Information Technology</span>                                    </div>                            </div>                    </div>                <div>Company: Facilities Exchange | No office location<br></div><h3>Technologies</h3><div></div><div>ruby-on-rails</div><div>javascript</div><div>postgresql</div><div>extjs</div><div>amazon-web-services</div>                <h3>Job description</h3>                <div><p><strong>Job Description</strong></p><p><strong>The Web Developer will create Ruby on Rails server side code and Javascript code as part of a Facilities Management application. The Web developer will also interface with clients to improve and change existing application installations. This position is on a small team of developers who work hard, are highly motivated and enjoy the freedom of working from home.</strong></p><p><strong>We are looking for a candidate with the following qualities:</strong></p><ul><li>Participate in the product line life cycle from strategic planning to tactical activities</li><li>Work independently to design, create RoR APIs and application components</li><li>Work Independently to design, create Web Gui components using Javascript/EXTJS</li><li>Contribute to business discussions about the project and user interfaces</li><li>Document development projects</li><li>Familiar with Git, CI Tools and Deployment Scripts&nbsp;</li><li>Writes tests when working on some products</li></ul><p><strong>Skills &amp; Requirements</strong></p><ul><li>Experience developing Ruby on Rails APIs and applications using development tools</li><li>Experience developing Javascript applications using&nbsp;frameworks&nbsp;like EXTJS</li><li>Experience with XML/JSON</li><li>Experience with SQL language</li><li>Experience developing and testing software user interfaces</li><li>Design skills for implementing attractive, simple, and effective software products</li><li>Capable communicator and comfortable working with customers, product management, other developers</li><li>Ability to work independently and coordinate remotely with project team</li><li>Blend of business and technical knowledge and experience</li><li>Willing to spend time in the field for beta testing and usability assessments</li><li>High energy and self-motivated</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/116132?reset=False&amp;ra=CWIxxmezFaE&amp;oqs=a%3DCWIxxmezFaE' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Facilities Exchange</h3>            <div><p>Facilities Exchange has created a best in class&nbsp;CMMS application. We have doubled in size year over year becasue we have an amazing team and culture. We are able to achieve this kind of growth by hiring people who can work with a team but also accomplish things independently, while sharing their experience with the rest of the team. &nbsp;We encourage team members to speak their mind and articulate ideas that will make us a better company. We are a completely remote organization and plan to keep it that way. We feel that allowing our employees to work from home provides benefits to their families which we feel is an important aspect of our family first oriented culture. We work hard, we work smart and it doesn't feel like work at all. As a forward looking company we are always prototyping the latest valuable technologies for our platform, which keeps us far ahead of our competition. Additionally our business has a firm understanding of technology all the way to the top. We are a technology company run by technology people.&nbsp;</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Remote working office</span>                            </li>                            <li>                                <span></span>                                <span>Reimbursement for phone and internet</span>                            </li>                            <li>                                <span></span>                                <span>2 weeks of PTO</span>                            </li>                            <li>                                <span></span>                                <span>MacBook Pro</span>                            </li>                            <li>                                <span></span>                                <span>Awesome colleagues</span>                            </li>                            <li>                                <span></span>                                <span>No Commute!</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "2ks7pVCiQ-WFDp-X_Gsriw",
+    "url": "http://workinstartups.com/job-board/job/72351/rails-developer-at-sh24/",
+    "title": "Rails Developer",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/13",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=29, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "SH:24",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 24, 2018 11:00:40 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "We're looking for a couple of senior developers in the UK.<br /><br />Working in partnership with the NHS, SH:24 (http://sh24.org.uk) are <br />an award winning, not for profit online sexual health service, working <br />across the UK to deliver STI testing, clinical support and <br />contraception. We are a well-funded rapidly growing start-up, with a true <br />social cause. <br /><br />Our HQ is Central London but much of our excellent team work remotely.<br /><br />We're Rails based (Rails 5.2 but still working on upgrading one last <br />4.2 app) with a pretty common stack (Postgres, Sidekiq, Redis, AWS). <br />Much of our current work is green field.<br /><br />We're TDD true believers and we take the health of our code seriously - part of the reason we're <br />hiring is to let us pay down some tech debt. <br /><br />This is not your run-of-the-mill company, team, service or opportunity. <br />If you fancy doing some good with good code, please get in touch!",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
