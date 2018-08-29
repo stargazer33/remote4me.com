@@ -1,6 +1,681 @@
 {
  "items": [
   {
+    "id": "688N2E2ZT9GJNJu1IMkUCQ",
+    "url": "https://vuejobs.com/jobs/473-senior-front-end-engineer",
+    "title": "Senior Front End Engineer",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``OR(we,compani,organ,organis) 2W OR(promot,encourag) 4W remot",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:backbone.js/frontend/8",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:less/frontend/10",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:npm/nodejs/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:sass/frontend/15",
+      "DBG_TECH1:k/t/w:vue.js/frontend/40",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=8, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=108}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Agrando",
+      "sameAs": "https://www.agrando.de"
+    },
+    "salary": {
+      "currency": "€",
+      "minValue": 54000,
+      "maxValue": 85000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 5:34:35 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Senior Front End Engineer</h3><div>Company: Agrando<br></div> Location: Munich, Germany<br>Job type: Full-time<br>Salary: EUR 54000-85000<br>Skills: <li>Bulma</li><li>CircleCI</li><li>Django</li><li>Docker</li><li>Github</li><li>Google Cloud</li><li>Jest</li><li>Node</li><li>Nuxt.js</li><li>Python</li><li>Sentry</li><li>Slack</li><li>Vue.js</li><li>Webpack</li><li>SASS</li><div>                        <h3>Company description</h3>                        Agrando is an independent SaaS trading platform for farmers and retailers. Our vision is a borderless network of farmers and retailers - no matter what size or region - who work together to overcome current and future challenges of digitization. Our core features include digital channels to trade agricultural inputs and in-depth data analytics and benchmarking functionalities about individual trading economics. Agricultural trading today is characterised by analogue and cumbersome processes and a fundamental lack of transparency. We are creating a future for farmers and retailers in which they are able to share data in an anonymous and secure way, work together and do business smarter.                    </div><div>                    <h2>Job description</h2>                    <p>We’re looking for a Senior Front End Engineer that has a passion for hacking, building and owning a great product with high-end customer facing features, internal tools and experiences that help us and our customers become smarter. You have a proven track record of writing clean and performant code with emphasis on user accessibility.</p><p><strong>Why you should work with us</strong></p><p>Agrando is a project absolutely dear to our heart. We act by conviction in order to contribute to the progress of agriculture. Our main cause is to support the farmer because in the end, it's all about mutual care and cooperation. Agriculture is our home and our origin and we speak from our own experience and know about the specific needs, which makes us the perfect partner for the agricultural trading of the next centuries. We want to push the agricultural trade forward using state of the art technologies and constantly stay in motion by taking one step at a time while being excited about everything that comes along. Working with us means to make a difference and to help us developing a meaningful product that in the end has an impact on the future of sustainable agriculture and thus the food you eat everyday.</p><p><strong>What you should bring</strong></p><ul><li>Great communication skills, ability to work in an agile team and workflow experience (git-flow, scrum, etc.)</li><li>2+ years proven JS work experience in a professional or institutional environment (including usage of node/npm/yarn)</li><li>Demonstrable experiences with Vue.js (or at least one out of the following: Backbone/Ember/Angular/React)</li><li>Demonstrated facility in a HTML/CSS/SASS/LESS environment</li><li>General understanding of core computer programming, distributed systems, logic &amp; cloud infrastructure</li><li>Open-mindedness and an attitude that encourages nurturing your skills, learning new ones while at the same time passing on knowledge in areas you excel</li><li>Passion for writing quality, high-performance and maintainable code following best practices by heart</li><li>Farming experience (just joking but having played Farming Simulator does count)</li></ul><p><strong>What to expect</strong></p><p>As a <em>Senior Front End Engineer</em> at Agrando you will support us in the creation of our SPA frontend for the stakeholders on our trading platform (farmers, retailers, producers). You will make technologies or frameworks like Jest, Bulma and SASS work for you and learn about how to contribute to our CI/CD Pipelines supporting our DevOps specialists. Most importantly, you will deep dive into latest JavaScript frameworks since our frontend core is based on <strong>Vue.js</strong>, <strong>Nuxt.js</strong> (apart from having an SPA part we also use SSR on top of Vue), Vuex, Axios, REST APIs and GraphQL. You will improve the UX and UI together with our Designers and guide them in their implementation efforts to align the product to their design philosophies. On the other hand, you will directly influence decisions supporting our DevOps, Analytics, Design and Product Department while keeping yourself in sync with the Sales &amp; Marketing team.</p><p>Since future logic is also driven by our data intensive infrastructure it is a plus if you want to get in touch with other parts of our product like our BI &amp; Big Data Pipeline (GCP) and Machine Learning strategies. We constantly explore latest technologies to find the best solutions to our next-gen problems - thus hacking around and bringing in your own ideas is something we highly encourage.</p><p><strong>Perks</strong></p><ul><li>Remote &amp; Flexible: It is possible to work from home if physical presence is not needed and we have a non-clock-watching culture.</li><li>Events Around the Globe: Since we are an aspiring AgTech Startup you can join us on various Trips, Conventions, Conferences (We just went to Vue.js Amsterdam and it has been a total blast), Tech Fairs, Trade Shows and other Events around the World, related to our business or the technologies involved.</li><li>Make a Difference: In the end we try to save our farmers money by purchasing agricultural inputs more cost-efficiently, which in turn can save farms with less revenues than production costs from bankruptcy (e.g. coming from low milk prices), while at the same time enabling private suppliers to compete and advance in the digitized agricultural trade of the future.</li><li>Equity Grants: We grant incentives (company shares) to employees that influence and push our company success in the long-term.</li><li>Advanced Training: At Agrando we believe in nurturing our skills through proper knowledge management and personal development. We encourage our employees to learn, teach and improve also through advanced trainings, workshops, (hosted) meetups or other external activities and provide them with the best resources (Udemy for Business, Nanodegrees from Udacity) for free.</li><li>Additional Benefits: Weapons of choice (MBP etc.), Coffee &amp; Beer, Organic Fruits &amp; YumYum Soups, SNES &amp; XBOX360 Gaming</li></ul><p><strong>Social</strong></p><ul><li>Frequent weißwurst breakfasts (Max Muniger Gold - best weißwurst in town)</li><li>Agrando summer &amp; winter parties</li><li>Mandatory Agrando-Tables at the Oktoberfest &amp; Frühlingsfest</li><li>We are not your average team - there are no fancy HR phrases that could properly describe our working atmosphere and team spirit. Everyone is passionate about the company and our cause and we do our best every day. Although we distance ourselves from the hip berlin-casual-startup-family-work-hard-party-hard-stuff, we are more than colleagues and Agrando is more than just our workplace. An employee turnover of 0% should speak for itself but believe us when we say that within the first few weeks we will win your heart!</li></ul>                </div><a href='mailto:hueber@agrando.de' rel='nofollow'>Apply now!</a>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "JOyny1gxSeS69BcEH1nccA",
+    "url": "https://stackoverflow.com/jobs/200960/software-engineer-oreilly-auto-parts?a=15oxgC1WySGc",
+    "title": "Software Engineer at O'Reilly Auto Parts (Springfield, MO) ",
+    "tags": [
+      "DBG:surround``3N(locat,remot)",
+      "DBG_TECH1:k/t/w:css/frontend/6",
+      "DBG_TECH1:k/t/w:eclipse/java/1",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:gruntjs/nodejs/5",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:intellij-idea/java/8",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=8, bigdata-ml=2, ruby=0, apple=0, java=15, gamedev=0, php=0, embedded=0, frontend=27}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "O'Reilly Auto Parts",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 5:06:07 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Software Engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead, Manager</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Frontend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Automotive</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>10k+ people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Public</span>                                    </div>                            </div>                    </div>                <div>Company: O'Reilly Auto Parts | Springfield, MO<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Springfield, MO.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                        <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h3>Technologies</h3><div></div><div>design-patterns</div><div>java</div><div>database-design</div><div>machine-learning</div>                <h3>Job description</h3>                <div><p>Have you ever heard of O, O, O, O'Reilly Auto Parts...Ow?! This is not your standard&nbsp;Engineer position&nbsp;and we are not your standard brand! We are the dominant auto parts retailer in all our market areas.</p><p>Our development&nbsp;teams work on&nbsp;projects adding directly to the O’Reilly Auto Parts bottom line and we are looking for exceptional developers to help us succeed! Some of the tools we use to implement our projects are Java, JavaScript &amp; CSS, PostgreSQL, Eclipse, IntelliJ, SublimeText, Axure, &amp; Balsamiq for development. We also&nbsp;utilize Slack and Atlassian tools such as Jira, Confluence, Fisheye, &amp; Crucible for developer productivity.</p><p>What we look for in our developers:</p><ul><li>Love solving complex problems related to serving our customers better – both internal &amp; external customers</li><li>Enjoy working with teams</li><li>Senior level experience with Java, HTML5, CSS/preprocessers, and JavaScript/JS Frameworks</li><li>Experience with Grunt, Gulp, &amp; GIT is a plus</li><li>Ability &amp; desire to interface with business stakeholders and users to define and refine requirements when appropriate</li></ul><p>About our team:</p><ul><li>We create and customize 90% of our applications in house</li><li>We are a “work family”! We have fun together and support each other</li><li>We respect a healthy work-life balance</li><li>The team keeps open communication through different outlets – video conferencing, team messaging applications, and daily scrums/stand-up meetings</li><li>Our managers really value collaboration between team members and encourage developers to bring forth creative problem-solving ideas from both a technical and functional aspect</li></ul><p>Growth&nbsp;within our&nbsp;teams&nbsp;at O’Reilly Auto Parts:</p><ul><li>We have several career paths, whether you want to be a manager, project manager, or stay technical – there’s a documented growth plan to help you follow the path you choose</li><li>We want to grow our people – we help to make you better by providing training for both technical and professional development</li><li>We look to promote from within – O’Reilly is diligent to promote from within our organization with qualified team members</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/200960?reset=False&amp;ra=15oxgC1WySGc&amp;oqs=a%3D15oxgC1WySGc' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About O'Reilly Auto Parts</h3>            <div><p>O'Reilly Auto Parts is a Fortune 500 company with 59 straight years of continuous growth and over 73,000 team members at more than 4,600 stores and 26 distribution centers in 44 states. We are determined to be the leader in the auto parts industry and believe that our team members are the most important asset in our business.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Diverse tech stacks and cross-training</span>                            </li>                            <li>                                <span></span>                                <span>Work/life balance</span>                            </li>                            <li>                                <span></span>                                <span>Team member discounts</span>                            </li>                            <li>                                <span></span>                                <span>Competitive compensation</span>                            </li>                            <li>                                <span></span>                                <span>Competitive benefits package</span>                            </li>                            <li>                                <span></span>                                <span>401K</span>                            </li>                            <li>                                <span></span>                                <span>Paid vacation</span>                            </li>                            <li>                                <span></span>                                <span>Remote work</span>                            </li>                            <li>                                <span></span>                                <span>Collaborative and solution-oriented teams</span>                            </li>                            <li>                                <span></span>                                <span>Rapid growth</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "hHmAVXcMTO6hzGCQo3-uLw",
+    "url": "https://www.remoteage.com/remote-jobs/full-stack-engineer-britecore/",
+    "title": "Full Stack Engineer",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``choos 5W locat",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:knockout.js/frontend/8",
+      "DBG_TECH1:k/t/w:pandas/python/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:sqlalchemy/python/8",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=15, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=31}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "BriteCore",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 50000,
+      "maxValue": 70000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 5:02:40 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2> Full Stack Engineer</h2><div>Anywhere in the US</div><div>Company: BriteCore<p></p></div><div>FULL-TIME</div><div><h3>Overview</h3><p>Do you want want to make a difference? Do you love interesting challenges? Do you want to influence the direction of your career? Do you love open source technologies? Do you program for fun? If you answered “Yes!” to all of those questions then you might be the great fit for&nbsp;. Work with some of the best engineers in the US to develop solutions to complex problems using a variety of cutting-edge technologies, libraries, and software. We are looking for team members with the skill, attitude, and determination to become a great member of our engineering team.We are currently looking for full stack developers to work in new product development, enterprise support, and data integrity. If you have expertise in these areas, please apply with us today.</p><h2><strong>Benefits and Compensation</strong></h2><ul><li>$50k-$70k based on experience and proven performance</li><li>Benefit from working alongside and observing world-class developers first hand</li><li>Comprehensive health insurance coverage including medical, dental, and vision</li><li>Flexible schedule</li><li>Relaxed work environment</li><li>Remote work</li><li>Flexible learning time – explore your ideas and new technologies on the clock</li></ul><h2><strong>Technologies We Utilize</strong></h2><ul><li>Python</li><li>HTML5</li><li>Bootstrap</li><li>SQLAlchemy / MySQL</li><li>GitHub</li><li>Linux (Command line knowledge such as BASH, ZSH, or FISH)</li><li>Javascript + jQuery</li><li>Knockout JS</li><li>Jupyter / Pandas</li><li>Amazon Web Services</li><li>Docker</li></ul><h2><strong>Skills and Requirements<br> </strong></h2><ul><li>Loves programming</li><li>Ships code on time</li><li>Welcomes feedback and collaboration</li><li>Self-directs</li><li>Communicates clearly</li><li>Follows emerging technology</li><li>Is friendly, confident, and patient with others</li><li>Has 3+ years of experience</li></ul><h2><strong>About the Company</strong></h2><p>At BriteCore, we build gorgeous, scalable, and usable cloud-based insurance software. This is a company founded by, and run by software engineers. We have created a team of top performers developing modern systems for the insurance industry. Our team enjoys working together, and takes tremendous pride and ownership in our platform. The environment is progressive, deploying through AWS using continuous integration principles. We love great technology and it shows in every aspect of our product. Our team enjoys a very flexible, balanced, and stimulating environment. We promote a high quality of life for our employees by allowing them to choose their own schedule and location. Bring creativity, focus, and productivity to your job, and enjoy 40 hour work weeks, flexible paid time off, and remote work.</p><p>If you don’t hear from us, you can guarantee an interview by completing&nbsp;.</p><p></p><div> <a href='https://hire.withgoogle.com/public/jobs/britecorecom/view/P_AAAAAAEAAADB8szZSoNLdj' rel='nofollow'>Apply for job</a></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "4zZk55YaTUaz6HN5So14hQ",
+    "url": "https://www.remoteage.com/remote-jobs/css-styling-specialist/",
+    "title": "CSS Styling Specialist and Drupal Themer (Senior)",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:css/frontend/12",
+      "DBG_TECH1:k/t/w:drupal/php/30",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=35, embedded=0, frontend=30}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Compucorp",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 4:21:46 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2> CSS Styling Specialist and Drupal Themer (Senior)</h2><div>Worldwide</div><div>Company: Compucorp<p></p></div><div>FULL-TIME</div><div><h3>Overview</h3><p>We like to build stuff… sometimes complicated stuff… for Art Galleries, Non-Profits and Charities.</p><p>We’re an innovative bootstrapped startup based in London in the UK. We’ve grown to over 30 staff in the past 2 years based solely on the quality of the work we’ve been producing for our clients and we’re on the lookout for a talented CSS Styling Specialist and Drupal Themer to join our team.</p><p>We do things a little differently, basing all our solutions on open source products, having flexible working hours and a real team mentality. Our work covers web design, app development and branding for Charities, Art Galleries and Non-profit organisations across the country. Our clients include Charities such as Wikimedia, Amnesty and Farm Africa, galleries such as the Photographers Gallery and Craft Central but we’ve got a long client list that includes other companies, trade associations and government bodies.</p><p>The role will expose you to a really wide range of projects and you can expect to be developing all sorts of web applications, sites and apps for a range of clients. Your principle focus will be in converting complex and challenging designs into responsive pixel perfect themes for the Drupal platform but we also develop other stand alone sites and platforms which will also require your styling expertise. There is also the opportunity to contribute to the design and UX process on a number of fronts and the ideal candidate will help us to achieve the best user experience solutions for our clients.</p><h2><strong>The ideal candidate will have:</strong></h2><p>– Excellent HTML and CSS skills including working knowledge of LESS or SASS, Bootstrap or Zurb Foundation and other frameworks etc<br> – Excellent experience with Drupal themeing (both Drupal 7 and 8 experience a positive)<br> – Git experience<br> – Confidence in a PHP based environment</p><p>As part a small (but growing) team of 30 you’ll have instant responsibility and an opportunity to learn new skills and explore new technologies.</p><p>What were looking for is someone who can grasp concepts quickly, has great attention to detail, and most importantly loves a tech challenge. In short, we’re a team of self confessed geeks who love tinkering and tweaking until something is just right and are looking for someone who thinks and acts like us.</p><p><b>Please note that this is a remote position.</b></p><p></p><div> <a href='https://www.compucorp.co.uk/applicationformfeengineer' rel='nofollow'>Apply for job</a></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "EGypjP41QcmsDPb5SQmSjA",
+    "url": "http://www.indeed.com/viewjob?jk=57f2191ea1d2ea63",
+    "title": "Senior React JS Developer (Virtual/Remote) - Perficient - National, WV",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/16",
+      "DBG_TECH1:k/t/w:classification/bigdata-ml/1",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/8",
+      "DBG_TECH1:k/t/w:javascript/nodejs/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/48",
+      "DBG_TECH1:k/t/w:spring-boot/java/16",
+      "DBG_TECH1:k/t/w:spring/java/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=16, bigdata-ml=1, ruby=0, apple=0, java=36, gamedev=0, php=0, embedded=0, frontend=75}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 4:47:33 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Senior React JS Developer (Virtual/Remote)</h3><div>Company: Perficient<br></div><div>Location: National, WV<br></div><span><div><h2><b>Overview</b></h2><div><div><div><br><br><div>At Perficient you’ll deliver mission-critical technology and business solutions to Fortune 500 companies and some of the most recognized brands on the planet. And you’ll do it with cutting-edge technologies, thanks to our close partnerships with the world’s biggest vendors. Our network of offices across North America, as well as locations in India and China, will give you the opportunity to spread your wings, too.</div><br><div>We’re proud to be publicly recognized as a “Top Workplace” year after year. This is due, in no small part, to our entrepreneurial attitude and collaborative spirit that sets us apart and keeps our colleagues impassioned, driven, and fulfilled.</div><br><div>Perficient currently has a career opportunity for a <b>Senior Technical Consultant</b> in our growing National practice.</div><div><b>The ideal candidate's will demonstrate expertise and acquired knowledge utilizing React.JS and related tools.</b></div><br><div><b>This role will largely be remote with minimal travel requirements.</b></div><br><ul><li>Travel expenses will be managed by Perficient for full-time permanent W2 employees (Travel/Lodging, Misc approved)</li></ul><div><b>These roles are permanent Salaried W2-with full benefits-including a 401K that is matched, strong PTO package as well as an incentive bonus.</b></div><div>Compensation is determined by the management team after the interview process based on the recommendation for role/title assignment.</div><br><br><div><b>Job Overview:</b></div><div>As a Senior React JS Consultant you will participate in all aspects of the software development lifecycle which includes estimating, technical design, implementation, documentation, testing, deployment and support of application developed for our clients. While your primary focus will be developing software using React JS, you will have an opportunity to work with full stack development technologies. As a member working in a team environment you will take direction from solution architects and Leads on development activities.</div><br></div></div></div><h2><b>Responsibilities</b><b></b></h2><div><div><div><ul><li>Participate in technical planning &amp; requirements gathering phases including Design, code, test, troubleshoot, and document engineering software applications.</li><li>Ensuring that technical software development process is followed on the project, familiar with industry best practices for software development.</li><li>Develop applications in languages including React JS, Angular and Java with Spring Boot.</li><li>Demonstrate the ability to adapt and work with team members of various experience level.</li></ul><br></div></div></div><h2><b>Qualifications</b><b></b></h2><div><div><div><br><div><b>Senior-Level experience of a minimum of FIVE YEARS</b></div><p><b>Qualified Candidates should demonstrate strong acquired expertise,</b></p><p><b>knowledge and hands on practical experience within the following core competencies</b></p><br><ul><li>React JS<br></li><li>Angular JS</li><li>JavaScript</li><li>HTML</li><li>CSS</li></ul><br><div><b>Desired Qualifications</b></div><ul><li>Experience developing for Cloud based solutions</li></ul><ul><li>Express</li><li>Client Side Stores: Redux, Ngrx, etc.</li><li>Java with Spring Boot</li><li>MySQL, PostgreSQL</li><li>NoSQL: MongoDB, CouchDB, etc.</li><li>Container experience (Docker with Linux)</li><li>Strong debugging, problem solving and investigative skills. Ability to assimilate disparate information (log files, error messages etc.) and pursue leads to find root cause problems.</li><li>Experience with Agile/Scrum methodology.</li></ul><div><b>Personal Qualifications</b></div><ul><li>Self-starter who can work independently.</li><li>Skilled problem solvers with the desire and proven ability to create innovative solutions.</li><li>Flexible and adaptable attitude, disciplined to manage multiple responsibilities and adjust to varied environments.</li><li>Future technology leaders- dynamic individuals energized by fast paced personal and professional growth.</li><li>Phenomenal communicators who can explain and present concepts to technical and non-technical audiences alike, including high level decision makers.</li><li>Bachelor’s Degree in MIS, Computer Science, Math, Engineering or comparable major.</li><li>Solid foundation in Computer Science, with strong competencies in data structures, algorithms and software design.</li><li>Knowledge and experience in developing software using agile methodologies.</li><li>Proficient in authoring, editing and presenting technical documents.</li><li>Ability to communicate effectively via multiple channels (verbal, written, etc.) with technical and non-technical staff.</li></ul><p>Perficient full-time employees receive complete and competitive benefits. We offer a collaborative work environment, competitive compensation, generous work/life opportunities and an outstanding benefits package that includes paid time off plus holidays. In addition, all colleagues are eligible for a number of rewards and recognition programs including billable bonus opportunities. Encouraging a healthy work/life balance and providing our colleagues great benefits are just part of what makes Perficient a great place to work.</p><br><div><b>More About Perficient</b><b></b></div><br><div>Perficient is the leading digital transformation consulting firm serving Global 2000 and enterprise customers throughout North America. With unparalleled information technology, management consulting and creative capabilities, Perficient and its Perficient Digital agency deliver vision, execution and value with outstanding digital experience, business optimization and industry solutions.</div><br><div>Our work enables clients to improve productivity and competitiveness; grow and strengthen relationships with customers, suppliers and partners; and reduce costs. Perficient's professionals serve clients from a network of offices across North America and offshore locations in India and China. Traded on the Nasdaq Global Select Market, Perficient is a member of the Russell 2000 index and the S&amp;P SmallCap 600 index.</div><br><div><i>Perficient is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national, origin, disability status, protected veteran status, or any other characteristic protected by law.</i></div><br><p><b><i>Disclaimer:</i></b><i> The above statements are not intended to be a complete statement of job content, rather to act as a guide to the essential functions performed by the employee assigned to this classification. Management retains the discretion to add or change the duties of the position at any time.</i></p><br><div><b>#LI-JB1</b></div></div></div></div></div></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "0H-AyK5pTTagaBfcJaBU7A",
+    "url": "https://jobspresso.co/job/front-end-engineer-12/",
+    "title": "Front-End Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/39",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=63}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Doist",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 4:27:28 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2> Front-End Engineer</h2><div>Developer<br></div><div>Anywhere<br></div><div>Company: Doist<br></div><div>Full Time<br></div><h3>Overview</h3><p>At Doist, our mission is to inspire the workplace of the future by creating simple yet powerful productivity tools that promote a calmer, more balanced, more fulfilling way to work and live.</p><p>We envision a future in which people can work without distractions from anywhere in the world on things that they are passionate about, and then unplug at the end of the day with the reassuring peace-of-mind that their tasks and teamwork are accounted for.</p><p>We are a multidisciplinary team that’s passionate about creating products, like&nbsp;&nbsp;and&nbsp;, that improve people’s lives. We thrive on innovating new solutions to old productivity challenges and seek to change how productivity tools are made.</p><a href='https://workable.com/nr?l=https%3A%2F%2Fwww.todoist.com%2F' rel='nofollow'>Todoist</a><a href='https://workable.com/nr?l=http%3A%2F%2Fwww.twistapp.com' rel='nofollow'>Twist</a><p>When you become a Doister, you’re not only joining a global, remote-first company, but a team of 62 people (and counting!) who value:</p><ul></ul><li>Inclusivity, open-mindedness, and diversity</li><li>Taking care of ourselves and each other</li><li>Empowering people to live fulfilling lives</li><li>Making long-term decisions, even if they’re harder</li><p>Our values aren’t just meant to paint a nice picture—they are the core of how we think, work, and interact.</p><p>We invite you to learn more about us, our values, and how we work at our&nbsp;.</p><a href='https://workable.com/nr?l=https%3A%2F%2Fblog.doist.com%2F' rel='nofollow'>Ambition &amp; Balance blog</a><p>Your role:</p><p>As a Front-end Engineer, you’ll be joining a small team of developers to work on our core product, the Todoist web app. The Todoist web app is highly interactive and complex, allowing you to leverage modern tools such as React and Redux, to deliver a unique experience to over a million of our active users around the world. Like every member of the team, you’ll own the project from day one and help the team to make core architectural decisions. Within this role you’ll also have the opportunity to collaborate in cross-functional teams to drive exciting initiatives.</p><p>Requirements</p><p>About you:</p><p>You are a skilled JavaScript developer with a deep understanding of the latest Internet technologies, a keen engineering intuition, and outstanding communication skills. In addition, you should have:</p><ul></ul><li>Experience building complex interactive web applications.</li><li>Solid knowledge of modern JavaScript. You should have a substantial grasp of concepts like prototypes, closures, asynchronous programming and ES6.</li><li>The ability to use and customize tools (i.e. Webpack, Gulp) to streamline your development/build process.</li><li>Good computer science fundamentals, especially regarding your knowledge related to the web technology stack.</li><li>Proven ability to work autonomously and stay self-motivated, or previous experience working in remote teams.</li><li>Fluency in written and spoken English.</li><li>&nbsp;Experience working with React and Redux.</li><em>Bonus:</em><p>Benefits</p><p>We’re bootstrapped, profitable, and committed to building a sustainable company that will grow for decades to come. We’ve built a benefits package that invests in our employee’s long-term personal and professional growth and well-being. Here’s a sample of what that includes:</p><ul></ul><li>Work-Life balance.&nbsp;That means 8 hours of work, 5 days each week (for a total of 40 hours) because the time you spend outside of work is just as important as the time you spend working.</li><li>Flexible schedule and location.&nbsp;This is a fully remote position, so you can work from wherever you please and on a schedule that works best for you. All you need is a computer and access to a stable internet connection (which we sponsor!).</li><li>Generous paid vacation + national holidays.&nbsp;You’ll receive 5 weeks of paid time off + national holidays where you live.</li><li>Paid parental leave.&nbsp;18 weeks of paid maternity leave and 5 weeks of paid paternity/adoption leave.</li><li>Education stipend.&nbsp;You’ll have a monthly budget to buy books, courses, and other resources you need to continue learning and developing.</li><li>Healthy snacks.&nbsp;You’ll have a budget to spend on fruit, nuts, and any other healthy snacks you need to keep you energized throughout the day.</li><li>Annual company retreats.&nbsp;Although we work remotely, we still enjoy bringing the whole team together to get to know each other, bond, and have face-to-face discussions in places like Spain (2015), Iceland (2016), Greece (2017), and Chile (2018).</li><li>Amazing people.&nbsp;Being a part of the Doist team means you get to work with incredibly diverse, talented people who also enjoy having fun!</li><li>And much more!</li><p>—</p><p>All information collected through this application is stored in Workable, Doist’s Applicant Tracking System, where it will be used for recruitment purposes only. For more information on how we handle candidate data at</p><em>&nbsp;Doist, we invite you to review our&nbsp;. For questions, please contact us at jobs@doist.com.</em><a href='https://workable.com/nr?l=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1QeOFjp53JeGtfTCxluScbeuRgGeOeRuLA1y7HP_-bpU%2Fedit%3Fusp%3Dsharing' rel='nofollow'>recruitment privacy notice</a><div> <div><div><p>To apply for this job please visit the following URL: <a href='https://doist.com/jobs/#front-end-engineer-javascript' rel='nofollow'>https://doist.com/jobs/#front-end-engineer-javascript →</a></p></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "uFiARO9mQW-Aa5xvX7A0AA",
+    "url": "https://jobspresso.co/job/full-stack-marketing-developer/",
+    "title": "Full-Stack Marketing Developer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=6}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/gamedev",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "gamedev"
+    ],
+    "hiringOrganization": {
+      "name": "Doist",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 4:26:53 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2> Full-Stack Marketing Developer</h2><div>Developer<br></div><div>Anywhere<br></div><div>Company: Doist<br></div><div>Full Time<br></div><h3>Overview</h3><p>At Doist, our mission is to inspire the workplace of the future by creating simple yet powerful productivity tools that promote a calmer, more balanced, more fulfilling way to work and live.</p><p>We envision a future in which people can work without distractions from anywhere in the world on things that they are passionate about, and then unplug at the end of the day with the reassuring peace-of-mind that their tasks and teamwork are accounted for.</p><p>We are a multidisciplinary team that’s passionate about creating products, like&nbsp;&nbsp;and&nbsp;, that improve people’s lives. We thrive on innovating new solutions to old productivity challenges and seek to change how productivity tools are made.</p><a href='https://workable.com/nr?l=https%3A%2F%2Fwww.todoist.com%2F' rel='nofollow'>Todoist</a><a href='https://workable.com/nr?l=http%3A%2F%2Fwww.twistapp.com' rel='nofollow'>Twist</a><p>When you become a Doister, you’re not only joining a global, remote-first company, but a team of 62 people (and counting!) who value:</p><ul></ul><li>Inclusivity, open-mindedness, and diversity</li><li>Taking care of ourselves and each other</li><li>Empowering people to live fulfilling lives</li><li>Making long-term decisions, even if they’re harder</li><p>Our values aren’t just meant to paint a nice picture—they are the core of how we think, work, and interact.</p><p>We invite you to learn more about us, our values, and how we work at our&nbsp;.</p><a href='https://workable.com/nr?l=https%3A%2F%2Fblog.doist.com%2F' rel='nofollow'>Ambition &amp; Balance blog</a><p>Your role</p><p>At Doist, marketing isn’t just a pretty coat of paint and nice words to sell a product – it’s the process of distilling the values we stand for as a company and communicating those to the world in unique and engaging ways.</p><p>As a Marketing Developer, you’ll be the technical lead on key marketing projects, working closely with the marketing, design, and back-end development teams every step of the way – from strategy, planning, and design to implementation, testing, and optimization. This role is for a self-starter who’s excited to optimize existing marketing channels and explore new possibilities for engaging and growing our community.</p><p>Requirements</p><p>About you:</p><ul></ul><li>You have experience bringing a wide variety of marketing experiences to life from landing pages and lifecycle emails to simple web apps and ad campaigns.</li><li>You have solid foundation of web fundamental (HTML5/CSS3/ES6). You have experience working with back-end stacks and are comfortable working autonomously to create a website from scratch.</li><li>You know how to optimize a web page from top to bottom to make users’ browsing experience blazing fast. You know what it takes to make your web animation meet the 60 FPS bar. You sweat the details, but also know when to move on.</li><li>You understand that projects aren’t finished when they go live. Event tracking, A/B testing, and data analysis are part of your process to inform further optimization.</li><li>You’re not only a technical stand out–you also add valuable input throughout the entire process from marketing strategy and campaign planning to UX design and post-launch optimization.</li><li>You having a knack for developing reusable processes and frameworks that shorten implementation time, ensure quality, and help the marketing team become more independent (e.g. Contentful API, A/B testing, etc.).</li><li>You don’t wait around for someone to tell you what to do, and you wouldn’t want to anyway. You have ideas for how to improve and expand marketing efforts and are proactive enough to see those ideas through to implementation.</li><li>Bonus points if you have technical SEO experience.</li><p>Benefits</p><p>We’re bootstrapped, profitable, and committed to building a sustainable company that will grow for decades to come. We’ve built a benefits package that invests in our employee’s long-term personal and professional growth and well-being. Here’s a sample of what that includes:</p><ul></ul><li>Work-Life balance.&nbsp;That means 8 hours of work, 5 days each week (for a total of 40 hours) because the time you spend outside of work is just as important as the time you spend working.</li><li>Flexible schedule and location.&nbsp;This is a fully remote position, so you can work from wherever you please and on a schedule that works best for you. All you need is a computer and access to a stable internet connection (which we sponsor!).</li><li>Generous paid vacation + national holidays.&nbsp;You’ll receive 5 weeks of paid time off + national holidays where you live.</li><li>Paid parental leave.&nbsp;18 weeks of paid maternity leave and 5 weeks of paid paternity/adoption leave.</li><li>Education stipend.&nbsp;You’ll have a monthly budget to buy books, courses, and other resources you need to continue learning and developing.</li><li>Healthy snacks.&nbsp;You’ll have a budget to spend on fruit, nuts, and any other healthy snacks you need to keep you energized throughout the day.</li><li>Annual company retreats.&nbsp;Although we work remotely, we still enjoy bringing the whole team together to get to know each other, bond, and have face-to-face discussions in places like Spain (2015), Iceland (2016), Greece (2017), and Chile (2018).</li><li>Amazing people.&nbsp;Being a part of the Doist team means you get to work with incredibly diverse, talented people who also enjoy having fun!</li><li>And much more!</li><p>—</p><p></p><em>All information collected through this application is stored in Workable, Doist’s Applicant Tracking System, where it will be used for recruitment purposes only. For more information on how we handle candidate data at Doist, we invite you to review our&nbsp;. For questions, please contact us at jobs@doist.com.&nbsp;</em><a href='https://workable.com/nr?l=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1QeOFjp53JeGtfTCxluScbeuRgGeOeRuLA1y7HP_-bpU%2Fedit%3Fusp%3Dsharing' rel='nofollow'>recruitment privacy notice</a><div> <div><div><p>To apply for this job please visit the following URL: <a href='https://doist.com/jobs/#full-stack-marketing-developer' rel='nofollow'>https://doist.com/jobs/#full-stack-marketing-developer →</a></p></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "38OqAMGlRYawIXDKl7H7rQ",
+    "url": "https://angel.co/scal-io/jobs/67039-sr-ui-engineer",
+    "title": "Sr. UI Engineer",
+    "tags": [
+      "Angular",
+      "AngularJS",
+      "Contract",
+      "DBG:surround``2N(remot, posit)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:angular/frontend/24",
+      "DBG_TECH1:k/t/w:angularjs/frontend/16",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:javascript/frontend/7",
+      "DBG_TECH1:k/t/w:javascript/nodejs/7",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:npm/nodejs/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:scala/java/6",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=26, bigdata-ml=8, ruby=0, apple=4, java=8, gamedev=0, php=0, embedded=0, frontend=66}",
+      "Frontend Developer",
+      "Frontend Development",
+      "Javascript",
+      "REMOTE1/100",
+      "Remote OK",
+      "San Francisco",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Scal.io",
+      "sameAs": "https://angel.co/job_lists/1/browse_startups_table?startups[]=75193&listings[0][]=67039&listings[0][]=7304&listings[0][]=7305"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 60000,
+      "maxValue": 110000,
+      "info": "0.05% – 2.0%",
+      "unit": "YEAR",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 1:48:04 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><h2>Sr. UI Engineer at Scal.io</h2><div>San Francisco, Remote · Contract</div><div></div></div><div><div>Skills</div><div>Javascript, Frontend Development, AngularJS, Angular</div><div>Compensation</div><div>$60K–$110K<br>0.05%–2.0%</div><div>Visa Sponsorship</div><div>Not available</div></div><h3>Job Description</h3><div><p>Scal.io is a leading software development studio headquartered in downtown San Francisco with remote offices in Orange County and Atlanta. We've designed and developed systems, services and applications used daily by millions of people. From iOS and Android, to web-scale architectures in Javascript and Python, our engineers have worked across all technologies and stacks. We’ve developed software for a broad range of industries in entertainment, e-commerce, education, news, health, financial, media, real estate and government for companies such as Google, Uber, Yahoo, 23andMe, Brit+Co and Digg. We’ve partnered with numerous international organizations, think tanks, and NGOs to develop innovative technology for global markets.</p><p>We are currently seeking talented front-end/UI experts to join our professional, internationally distributed engineering team. This is a full time remote position.</p><p>Required Skills and Experience:</p><p>-- 5+ years of JavaScript experience with heavy emphasis on SPA architecture<br>-- 2+ years experience with Angular 2-5 and TypeScript<br>-- Strong HTML/CSS skills, preferably with emphasis on SASS/LESS<br>-- Experience implementing SPAs from top to bottom starting just design/requirements<br>-- Experience writing Unit/Behavior tests for Angular applications (Protractor, Jasmine+Karma, etc)<br>-- Working knowledge of the modern JS toolchain - gulp, bower, npm, webpack, etc<br>-- Strong working knowledge of Git (Git Flow, pull requests, etc)<br>-- Ability to read and understand English software requirements, strong written English, ability to conduct a basic interview in English<br>-- Bachelor’s Degree in Computer Science, Applied Mathematics, Electrical Engineering, etc or equivalent experience</p><p>Nice To Have Skills and Experience:</p><p>-- Full-Stack experience including Restful APIs and databases (sql, nosql)<br>-- AngularJS 1.x experience<br>-- Exposure to redux/ngrx store<br>-- Experience with RxJavaScript <br>-- Experience with other JS compatible transpiled languages (Scala JS, Kotlin JS, etc)<br>-- AWS cloud expertise<br>-- Continuous Integration experience with CircleCI or similar<br>-- Backend experience with NodeJS + Hapi or Scala + Finagle<br>-- Recent native mobile expertise, iOS or Android<br>-- Strong Verbal English Skills</p><p>Job Perks:</p><p>-- Work with a variety of clients including Fortune 500 and leading tech companies<br>-- Top of Market Pay for the right candidate (in USD)<br>-- Full-time remote position<br>-- Flexible working hours<br>-- Very professional team</p><p>Along with your cv, please, send us the links to the relevant code samples (Angular1, Angular2+, etc) and/or links to recent projects.</p><p>We also love likes on our Facebook page if you feel inclined. :)</p><p>   <a href='https://www.facebook.com/ScalioLabs/' rel='nofollow'>https://www.facebook.com/ScalioLabs/</a></p><p>We kindly ask agencies not to bother applying.</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "a-JScA1ARlSpz5O8u61Zag",
+    "url": "http://jobmote.com/jobs/23837-sr-mainframe-developer-100-remote",
+    "title": "Sr. Mainframe Developer - 100% REMOTE",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:extjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Pull Skill Technologies",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 28, 2018 11:21:20 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p><strong>Role: Sr. Mainframe Developer</strong><br><strong>100% REMOTE</strong><br><strong>Duration: 6 months +</strong></p><p><strong>Preference is QCare or Medicare Part C background.</strong><br><strong>Must be strong in COBOL, DB2 and Healthcare Strongly prefer: Medicare</strong><br>Experience makes up for lack of requested background (Needs DB2 knowledge, not expert, mid level..2-3 years DB2) COBOL + CICS/VSAM needed.<br>Recent COBOL required.<br>5 years COBOL required.<br>Senior person preferred with 10-25 years overall.</p><p><strong>Required:</strong><br>OS 390 Mainframe COBOL<br>DB2<br>Medicare / Medicaid<br>Enrollments</p><p><strong>Regards:</strong><br>Fredric<br>fredric (at) pullskill.com<br>EXT: 104</p><ul><li>provided by Dice Healthcare, Medicare, Medicaid, QCare, Cobol, DB2, CICS, VSAM </li></ul></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "YCxjGasoRQitQaGWEvVNGw",
+    "url": "https://unicornhunt.io/jobs/back-end-developer-at-flair-football",
+    "title": "Back-end Developer",
+    "tags": [
+      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Flair Football",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 28, 2018 10:44:10 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<p>Back-End Developer at FlairHeadquarters:King’s Cross, LDN<br></p><p><b>Flairis the social network for youth football players. We are on a mission to makeevery young football player feel like a star</b></p><p>Our mobile app allows kids and teens todigitise their football season. Week-by-week, players of all abilities use Flairto create &amp; share graphics, photos and videos of their matchday performance,and follow the journeys of other players</p><p>Within just 18 months, we’ve already: built a hyper-engagedbeta community, raised over £600,000 across two funding rounds, won the UCLGeorge Farha New Venture Award, been a part of London’s first sports-techincubator, and built a 5-person team driven by a shared mission</p><p>This is just the beginning – our long-run goalis to become the global, digital brand for the next generation of sportsperson</p><p><b>We’re hiring fora: Backend Developer (Permanent, Full-Time)</b></p><p>After a highlysuccessful year in private beta, we are now publicly launching on the appstores. Our 5-person team is hiring a talented Backend Developer to play acrucial role in building the infrastructure that will allow our app to scale. Asa Backend Developer, you’ll work closely with the rest of our engineers to ensuresystem consistency and improve user experience</p><p><b>Responsibilities</b></p><p>·      Participate in the entireapplication lifecycle, focusing on coding and debugging</p><p>·      Collaborate with front-enddevelopers to integrate user-facing elements with server-side logic</p><p>·      Write clean code to developfunctional applications</p><p>·      Perform tests to optimizeperformance</p><p>·      Gather and address technicalrequirements and design requirements</p><p>·      Build reusable code and librariesfor future use</p><p><b>Ideal Skillset &amp; Expertise</b></p><p>·      Proven work experience as aBackend Developer</p><p>·      In-depth understanding of theentire development process (design, development and deployment)</p><p>·      A desire to work withJavaScript/Node, SQL, and any other suitable language</p><p>·      Excellent analytical and timemanagement skills</p><p>·      Teamwork skills with aproblem-solving attitude</p><p><i>You might also have:</i></p><p>·      Familiarity with mobiletechnologies (React Native) </p><p>·      A BSc degree in Computer Scienceor relevant field </p><p><b>You’ll do well if you</b></p><p>·      Can pick up new things quickly</p><p>·      Can justify and express your viewsclearly</p><p>·      Are a good listener</p><p>·      Have a perfectionist’s mentality</p><p>·      Can work effectively in anuncertain environment</p><p><b>Benefits</b></p><p>·     Salaryand equity option will depend on experience level</p><p>·     Asan early employee in a growing company, you’ll have a great opportunity toprogress into leadership roles</p><p>·     Flexiblework. The role will be semi-remote, with the chance to combineworking-from-home and working from our office at UCL’s Hatchery, King’s Cross –surrounded by some of London’s star entrepreneurs</p><p>·     26days holiday + week off between Christmas and New Year</p><p>·     Diverseteam in terms of age, gender and ethnicity. We’re actively seeking to ensureour team reflects the diversity of our community</p><p>·     MacBookpro </p><p><b>Contact</b></p><p>If you are interested in the role, please emailus on info@flairfootball.co.uk</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "wgHku-BTSBueVcHMcFYM0w",
+    "url": "https://stackoverflow.com/jobs/200871/software-engineer-autosoft?a=15mGx2k2iGOI",
+    "title": "Software Engineer at Autosoft  ",
+    "tags": [
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:c#/c/4",
+      "DBG_TECH1:k/t/w:c#/dotnet/10",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=10, c=4, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=11}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Autosoft",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 65000,
+      "maxValue": 85000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 28, 2018 8:06:10 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Software Engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                    </div>                <div>Company: Autosoft | No office location<br></div><h3>Technologies</h3><div>c#</div><div>javascript</div><div>testing</div><div>www.autosoftdms.com</div>                <h3>Job description</h3>                <div>Autosoft, Inc. (<a href='http://www.autosoftdms.com/' rel='nofollow'>www.autosoftdms.com</a>) is a Dealership Management System (DMS) software company serving the retail automotive industry for 30 years. At Autosoft, we embrace change, encourage out of the box thinking, and listen to our employees to help shape the future of our business.&nbsp;We currently have an opening for a Software Engineer that will help create web applications using Angular JS, .Net.<strong>Who You Are:</strong>As a Software Engineer, your work is essential to our modern technology.&nbsp;You will design, analyze and develop system requirements, program&nbsp;specifications, and system tests to meet business requirements.<p><strong>What You'll do:</strong></p><ul><ul><li>Develop, test and implement small, medium to large application</li><li>Resolve problems of medium to high complexity</li><li>Attend and participate in design and analysis meetings</li><li>Develop quality standards to ensure data quality and integrity across various database systems</li><li>Create technical documentation in the approved format for the task assigned</li><li>Debug/troubleshoot across independent servers</li></ul></ul><p><strong>What You'll Need:</strong></p><ul><ul><li>Bachelor’s degree in Computer Science, Information Systems and/or equivalent formal training or work experience</li><li>Minimum three (3) years of experience</li><li>Must be able to explain testing strategies: (Unit, Integration&nbsp;System, End to End)</li><li>Proven track record of delivering high-quality software</li><li>Familiar with development concepts such&nbsp;as Dependency Injection, Mocking/Test Doubles, Object Relational Mappers</li><li>Proven ability to write high-quality C# and Javascript application logic with accompanying tests</li><li>Ability to solve problems within a team environment</li></ul></ul>                </div>            <div>        <a href='https://jobs.lever.co/autosoftdms/c3475ea4-fae8-4e4f-8ee3-063b88db10be' rel='nofollow'>                        Apply now        </a></div>            <h3>About Autosoft</h3>            <div><p><strong>What makes working at Autosoft great?</strong></p><ul><ul><li>Pittsburgh Technology Council Culture Leader of the Year Award</li><li>4-Time Winner “Best Places to Work in PA”, 2014-2017</li><li>Voted Healthiest Employer&nbsp;of&nbsp;Western PA</li><li>We promote flexible schedules</li><li>Dedicated committees devoted to employee wellness, fun, &amp; community</li><li>Casual work attire</li><li>Friday Fun Cart with snacks and adult beverage</li></ul></ul><strong>What we offer:</strong>We treat everyone here at Autosoft like family, which is why we work hard to provide our employees a comprehensive benefits package that improves their lives.•&nbsp;<strong>Health Benefits:</strong>&nbsp;Medical, dental, &amp; vision insurance with a 100% company paid medical insurance option•&nbsp;<strong>Pets are Family Too:</strong>&nbsp;Pet insurance•&nbsp;<strong>Enjoy Some Downtime:</strong>&nbsp;3 weeks of PTO &amp; 9 Paid Holidays•&nbsp;<strong>Philanthropic Mindset:&nbsp;</strong>8 hours of Volunteer Time Off•&nbsp;<strong>Prepare for your Future:</strong>&nbsp;401k contributions with company match•&nbsp;<strong>Investment in Your Education:</strong>&nbsp;Tuition ReimbursementAutosoft is dedicated to providing a healthful, comfortable and productive workplace for all its employees and all visitors/patrons/contractors. As of January 1, 2018, Autosoft is a tobacco-free campus.Autosoft is an Equal Opportunity Employer and does not discriminate against any applicant based on race, color, religion, national origin, gender, marital status, age, disability, sexual orientation, military/veteran status, or any other status protected by Federal or State law or local ordinance.Note: The statements herein are intended to describe the general nature and levels of work performed by employees, but are not a complete list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of the employer.            </div>        ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "sMjLNtlhR3CchbIMcyUvnQ",
+    "url": "https://stackoverflow.com/jobs/200847/senior-javascript-developers-remote-europe-nearform?a=15mbALJ7kAPC",
+    "title": "Senior JavaScript Developers (Remote, Europe, Full-Time) at nearForm  ",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``work 2W wherev 2W you",
+      "DBG_TECH1:k/t/w:ajax/frontend/6",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/13",
+      "DBG_TECH1:k/t/w:css/frontend/6",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:go/go/9",
+      "DBG_TECH1:k/t/w:gruntjs/nodejs/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/nodejs/5",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:responsive-design/frontend/13",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=9, nodejs=38, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=94}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "nearForm",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 28, 2018 8:06:10 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Senior JavaScript Developers (Remote, Europe, Full-Time)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Frontend Developer, Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Consulting, Software Development / Engineering, Web Technology</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: nearForm | No office location<br></div><h3>Technologies</h3><div></div><div>javascript</div><div>node.js</div><div>reactjs</div>                <h3>Job description</h3>                <div><p><strong><strong>What your day looks like</strong></strong></p><p>With your first cup&nbsp;of coffee in hand, you skip the traffic-packed drive and stroll down the hall to your home office. You turn on your monitor and join the hangout for your daily Standup. Call done, you hit play on your favourite playlist, tap the volume key a few times and get in the zone. There are some GitHub PRs you need to review, so you head there first. The rest of the morning goes by working on that feature for the weekly client demo tomorrow. Lunchtime arrives so you head to your Yoga class. Feeling stretched and relaxed, you make yourself something to eat, grab (another) cup of coffee and get back to work. Some remote problem solving with the team and then it’s back to code. Hunger calls (where did the day go) and you know it’s time to shut the laptop. After catching up on everyone's day you go pack for your trip to NodeConf the next day.</p><p><strong><strong>What you’ll be doing</strong></strong></p><p>At nearForm, we work with international clients who are industry leaders in their respective fields. Our role is to help them build solutions and platforms; help them to launch new product ventures and fundamentally change how they operate.</p><p>Join a highly skilled multidisciplinary team; typically consisting of designers, front-end and back-end experts, DevOps engineers, and also members of the client team. This mix follows a modern agile development methodology where we run 2-week sprints with a defined backlog, daily standups, weekly demos, sprint planning and sprint retros; all with as&nbsp;little ceremony as necessary.</p><p><strong><strong>What we ask of you</strong></strong></p><ul><li>7+ years experience developing at an enterprise level</li><li>An ability to use a wide variety of open source technologies and tools</li><li>An ability to perform well in a fast-paced environment</li><li>Excellent analytical and multitasking skills</li><li>Located in Europe</li><li>Availability for short-term travel on a semi-regular basis</li><li>Fluent English</li></ul><p><strong><strong>For Front-end add:</strong></strong></p><ul><li>Extensive hands-on experience with:</li><ul><li>JavaScript Frameworks must include React</li><li>HTML and CSS pre-processing platforms, such as LESS and SASS</li><li>Best practice and design patterns, such as CSS paradigms (OOCSS, SMACSS, and BEM)</li><li>Ajax, JSON and RESTful Web services</li><li>Best practice front-end security, familiarity with OWASP top 10</li><li>Modern knowledge of front-end performance</li><li>Build tools such as Gulp, Grunt, Browserify and Webpack</li><li>Versioning tools, particularly GIT</li><li>Browser testing and debugging</li><li>Cross-browser compatibility issues and ways to work around them</li><li>Layout aesthetics, responsive design and mobile web development</li></ul></ul><p><strong><strong>For Back-end add:</strong></strong></p><ul><li>Extensive hands-on experience with:</li><ul><li>JavaScript must include Node.js</li><li>SQL and Document-Oriented Databases</li><li>Ajax, JSON and RESTful Web services</li><li>Versioning tools, particularly GIT</li><li>Testing and debugging</li><li>Cloud architecture and administration</li><li>Systems integration</li></ul></ul>                </div>            <div>        <a href='https://login.hirelocker.com/nearform/jobs/12040/senior-javascript-developers-remote-europe-full-time-europe' rel='nofollow'>                        Apply now        </a></div>            <h3>About nearForm</h3>            <div><p>nearForm is the next evolution of a software company. Our team of exceptional people build better software faster, for our clients and our communities.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Best People: we hire the best people from all over the world</span>                            </li>                            <li>                                <span></span>                                <span>Open Source: we aim to make significant contributions to Open Source</span>                            </li>                            <li>                                <span></span>                                <span>Work/Life Balance: we have a genuine commitment to work-life balance</span>                            </li>                            <li>                                <span></span>                                <span>Flexible: we support  a schedule that fits your style</span>                            </li>                            <li>                                <span></span>                                <span>Family-Friendly: we offer parental and maternity leave, flexible hours</span>                            </li>                            <li>                                <span></span>                                <span>Location: join us at HQ and go for a surf at lunch time</span>                            </li>                            <li>                                <span></span>                                <span>Work Remotely: you don't have to be at HQ, work wherever suits you</span>                            </li>                            <li>                                <span></span>                                <span>The Wellness Hub: we offer resources and support for your wellbeing</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "IfvjJdBQTZK77qCIfP5J9w",
     "url": "https://remote.co/job/senior-full-stack-engineer-5/",
     "title": "Senior Full Stack Engineer",
@@ -499,6 +1174,119 @@
     "published": "Aug 28, 2018 1:24:40 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<h3>Senior Frontend Engineer</h3><div>Company: Upmind Automation Limited<br></div> Location: London, UK<br>Job type: Full-time<br>Skills: <li>Amazon Web Services</li><li>Bulma</li><li>Javascript</li><li>SPA</li><li>vue js</li><li>Vue router</li><li>Vuex</li><li>Angular</li><li>Buefy</li><li>Firebase</li><li>Google Cloud</li><li>Jest</li><li>karma</li><li>nightwatch</li><li>React js</li><li>Webpack</li><div>                        <h3>Company description</h3>                        Upmind is a client management, product management and billing platform for small and medium service businesses. We’re moving our customers away from manual spreadsheets, tedium and stress - to a radically new platform with simple UI, infinite scalability and beautiful code.                    </div><div>                    <h2>Job description</h2>                    <p>Upmind is a client management, product management and billing platform for small and medium service businesses. We’re moving our customers away from manual spreadsheets, tedium and stress - to a radically new platform with simple UI, infinite scalability and beautiful code.</p><p>Spun out of a multi-billion dollar listed company, and led by entrepreneurs and developers with a proven history in startups, our biggest challenge is making complicated flows, or technical configuration, easy and enjoyable for our users. Our MVP launch will be in early 2019, with frequent rollouts of features indefinitely thereafter.</p><p>We are putting together a frontend development team of crack javascript developers, led by our experienced Director of UX. We are after at least two competent, experienced and technical javascript developers to join our fun, hard-working team. We can accommodate a range of experience, but are ideally after one senior and one junior developer. All applicants should have decent knowledge of a framework such as React, Angular or Vue - however we are set on using the latter and you must be willing to immerse yourself in it, if you are not already.</p><p>You will be based either in our Coworking office at Paddington (WeWork), or our Coworking space in Sofia (Betahaus). We can be flexible with home-working, but some office-based work is essential for this collaborative project.</p><p><strong>Our Stack</strong></p><p>Upmind is an API-first SAAS application, which means our backend handles all logic and exposes a RESTful API. This backend is built on modern cloud technology (largely AWS, though some Google - Firebase &amp; Compute - also). As we develop further, we are microservicing components in such a way that we may be able to offer them as standalone products in the future.</p><p>The backend also makes use of Laravel and NodeJS. We use a combination of SNS and RabbitMQ for messaging, and MySQL/Firestore/DynamoDB for databases. These stack choices are fluid and subject to challenge from any member of staff – for example, if a new product offering from a cloud provider were to emerge. We encourage everyone to speak up and have a say; we only want to hire people who bring something extra to the team.</p><p>At Upmind we are great advocates for open source technology, and a substantial portion of our software will be released under GNU GPL3.</p><p>Our frontend is built out as a single page application (SPA) atop the Vue JS framework – utilising a number of Vue's core libraries including VueRouter and VueX. Coupled with Bulma, a modern and responsive CSS framework, our primary focus is to deliver a clean, friendly and performant customer experience.</p><p>Joining this team you will have the opportunity to work with some of the latest (and most exciting) frontend technologies, be part of a truly agile workforce and impact the way we work by collectively reviewing and improving processes.</p><p><strong>Responsibilities</strong></p><ul><li>Create world-class UI solutions which impress</li><li>Write clean and componentised code, that is reusable and remains efficient at scale</li><li>Work with our chosen tech: Vue, VueRouter, VueX, Webpack, Buefy</li><li>Write tests to validate your work (Karma/Jest/Nightwatch etc)</li><li>Help define and enforce team standards (formatting, documentation, naming conventions etc)</li><li>Translate wireframes and designs into beautiful and compact code</li><li>Ensure users have enjoyable, simple experiences - even within complex flows</li><li>Be vocal with criticism of systems, code and functionality you find fault with</li><li>Be a team-player: both within your direct function and outside it</li><li>Maintain the stack – keep on top of dependency vulnerabilities, version releases etc</li><li>Keep abreast of new technologies, tools and products which could benefit the business</li></ul><p><strong>Person Specification</strong></p><ul><li>You have 3+ years commercial frontend development experience</li><li>You have worked in an agile development environment</li><li>You have an expert knowledge of Javascript/ES6</li><li>You have working experience of Vue JS or other similar frameworks (React/Angular)</li><li>You have working experience with build tools such as Webpack</li><li>You can write tests to validate your work (Karma/Jest/Nightwatch)</li><li>You are driven and can take ownership of your day-to-day responsibilities</li><li>You have great communication skills</li><li>You like to build great products whilst having fun</li></ul><p><strong>Desirable</strong></p><ul><li>Experience working on mid-to-large scale SPAs</li><li>Experience with Cloud technologies such as Google Firebase, Google Compute, Google Pub/Sub, AWS Lambda etc</li><li>A good eye for design and understanding of responsive considerations</li><li>A willingness to educate and mentor team members</li></ul><p><strong>Benefits</strong></p><ul><li>Competitive salary, based on experience.</li><li>A fun but hard-working meritocratic environment, surrounded by a technical, pragmatic and focused team.</li><li>Premium office space, with free hot, cold and alcoholic drinks. Frequent meals out, office events etc.</li><li>Opportunity to travel between our offices in London and Bulgaria.</li><li>Experience with cutting edge technologies, and freedom to investigate development options that may benefit our product.</li><li>A learning and development budget to support your career progression and improvement.</li></ul>                </div><a href='mailto:jobs@upmind.com' rel='nofollow'>Apply now!</a>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "4TRh6qtDT7C4B40BJ3sZmQ",
+    "url": "https://remote.com/jobs/browse/preview/senior-frontend-engineer-freelance-possible",
+    "title": "(Senior) Frontend Engineer, freelance possible",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:css/frontend/6",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/26",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:qt/c/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=4, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=50}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "QT Mobilitätsservice GmbH",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 28, 2018 10:37:59 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "JOB TYPE: Full time<br /><br />LOCATION:<br />Europe<br />(Partial remote)<br /><br />Anywhere in<br />Europe<br /><br />EXPERIENCE: expert<br /><br />COMPANY: QT Mobilitätsservice GmbH; 10-50 employees; 0-25% remote;<br /><br />SKILLS:<br />• JavaScript<br />• HTML<br />• CSS<br />• ReactJS<br /><br />At Qixxit we are not product driven, we are traveler driven.<br />We are creating a unique travel experience, redefining the way people organize their travels.<br />As (Senior) Frontend Engineer, you will be part of the core team that is responsible for the creation of the new Qixxit product.<br /><br />Take a look at what it takes to become a part of Qixxit:<br />- Excellent experience in JavaScript, CSS and HTML<br />- Solid experience with React and Redux<br />- Good knowledge of functional programming and cloud-native development<br />- In-depth knowledge of test-driven development, HTTP and Restful web <br />   services<br />- Enthusiasm for agile methods and devops practices<br />- Experience with iOS and android development is a plus<br />- A ton of curiosity and joy in learning with and from others<br /><br /><br />What we offer:<br />- Work on a unique mobility product that millions of people will use every day<br />- Join a team of passionate people keen on learning constantly new things<br />- Use the best tools and methods out there with the equipment you are most <br />   comfortable with<br />- Almost no hierarchies and quick decision-making process<br />- The usual suspects: an attractive compensation package, an amazing office in <br />   Berlin-Mitte, free drinks & food,...<br />- and many more!",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "yAGpC1HmS9KmpCiBFC3HhQ",
+    "url": "https://remote.com/jobs/browse/preview/innovative-react-native-developer-that-loves-to-build-amazing-startups",
+    "title": "Innovative React Native Developer that loves to build amazing startups",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``work 3W where 2W want",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/24",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=36}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/Any"
+    ],
+    "tagsNames1": [
+      "Any time zone"
+    ],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Creatella",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 28, 2018 10:20:34 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "JOB TYPE: Full time<br /><br />EXPERIENCE: beginner<br /><br />COMPANY: Creatella; 10-50 employees; 75-100% remote;<br /><br />SKILLS:<br />• ReactJS<br />• Front-end<br /><br />ABOUT US<br />We are an ambitious and enthusiastic Venture Builder, empowering visionary entrepreneurs to build the best startups in FinTech, EdTech, HealthTech etc, around the globe. Born in Singapore, with European and Japanese roots and a highly diverse team spanning 20 countries, we aim to become the largest tech startups builder in the bustling South East Asia. <br /><br />Founded by a successful serial entrepreneur, and scaling up at a fast pace, Creatella is co-launching a series of new startups full of challenges, sweat and excitement, and we constantly look for passionate and ambitious developers to join us!<br /><br />Interested in joining a thrilling project from the first development to the release?<br /><br />Apply at: joinus@createl.la<br /><br /><br />WHAT YOU'LL DO<br />■Build the front end of new projects, making them beautiful, intuitive, and delightful<br />■Take your skills to the next level by working with the latest tech on cutting edge projects <br />■Work closely with our team, learning from pros and developing interns <br />■Be supported to learn and grow towards your professional and personal goals, whatever they may be<br />■Available full-time (40 hours/week and more)<br /><br />YOUR SKILLS<br />■ Solid skill set in React.JS and/or React Native, along with Redux<br />■ Familiar with WebPack<br />■ Mastery of the basics: JavaScript, ES6/ES7, HTML5, CSS3<br />■ Experience on a remote team a plus<br />■ Fairly good command of English (both written and spoken)<br /><br />WHAT WE OFFER YOU<br />■Exciting, dynamic and ambitious projects to work on<br />■Flexibility to work remotely where you want and when you want <br />■A skyrocketing learning curve and career (We give you the freedom to take on challenges, and we know that failing fast is an opportunity to learn)<br />■Experience working on an international team full of tech geniuses (Antarctica is the only continent we don’t have a team member on. Antarctic applicants are encouraged!)<br />■Join our open, collaborative culture (We want to share our knowledge as well as learn from you!)<br />■Develop your entrepreneurial side<br />■Additional opportunities as we grow and learn together <br /><br />PERSONAL QUALITIES (as important as skills!)<br />■Creative: You think outside the box. We want your ideas and feedback not only for the project and coding, but also for the whole company<br />■Timely and committed: You manage well your time<br />■Challenger: You like to push yourself and go beyond your own goals. We’re ambitious and we want you to be too!<br />■Quality-driven: You create great work you’re proud of!<br />■Fast learner: You’ll learn a lot with us, and we move fast!<br />■Team player: You share, discuss, ask for advice, and report on your work on yourself. You’ll work independently, we don’t want to be on your back<br /><br />OTHERS<br />■Work comfortably from home, remotely, at flexible hours<br /><br />Apply at: joinus@createl.la",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -15478,115 +16266,6 @@
     "published": "Jul 4, 2018 2:07:10 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "Location: Lisbon office<br /><br />Streamhub is a London based video analytics startup with a worldwide customer base. We provide big data analytics reporting tools for media companies helping them target, grow and monetise loyal video audiences. <br />Our dashboard simplifies complex data insights offering a range of visualisations that helps discover key patterns and trends. It’s all about giving a great user experience and designing new ways to express information.<br /><br />We are looking to strengthen our remote team with an experienced frontend developer that loves analytics/data visualisation.<br /><br />Role and responsibility<br /><br />This is a remote role where you will join a talented fast-paced team to work on deliverables every week;<br />1. Develop various features, fix bugs, refactor the frontend of our analytics app written in Angular 1.4, which consumes REST APIs and generates reports laid over customizable dashboard.<br />2. Work on angular (latests) refactoring of our FE app from Angular 1 into Angular 5. <br /><br />Required Skills<br /><br />1. Rock solid proficiency (3 years+) in javascript (ES5 and ES6), angular.js, angular 2 and above<br />2. Proficient in English speaking and writing<br />3. Must have at least 5 years of professional experience in production-level software<br />development<br /><br />Bonus point:<br /><br />1. Highcharts, D3.js, dataviz library<br />2. PDFKit<br />3. Auth0<br />4. TDD, Integration tests, Selenium, mocha, jasmine<br /><br />Package<br /><br />● Full time contractor with a view to become Full time employee if successful<br />● Flexible working hours as long as you can overlap 5 working hours with our London working hours (9am - 6pm GMT), on the days you work<br /><br />Closing date: 4 Sep 2018",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "FFcCmKIGQgOWlB9xbGL6Jw",
-    "url": "https://unicornhunt.io/jobs/wordpress-developer-at-wholegrain-digital",
-    "title": "WordPress Developer",
-    "tags": [
-      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
-      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:sass/frontend/5",
-      "DBG_TECH1:k/t/w:wordpress/php/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=23}",
-      "REMOTE1/50",
-      "TECH1/frontend",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "Wholegrain Digital",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 29, 2018 6:39:32 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<p>We are seeking a talented, self-motivated and ethically minded web developer to join our positive team. You will play a key role in the development of client websites and internal projects such as our website carbon calculator, helping us to lead our industry in creating low carbon, high performance, accessible websites that create positive impact online.</p><p>This is a full time semi-remote role in an open and relaxed environment in which you will split your time between working from home, our office near Piccadilly in London and meeting clients at their offices in and around London.</p><p>If you have a passion for problem solving, web development and sustainability, this is a chance to join a supportive team and help us to not only achieve our clients goals but also to achieve our mission of using business to help create a sustainable and equitable world.</p><p><b>Preferred experience:</b></p><ul><li>Experience in PHP, HTML, CSS and JS development, ideally with considerable experience working with complex WordPress projects</li><li>Experience with JavaScript frameworks such as React is an advantage</li><li>Familiarity with automated deployment systems</li><li>Experience of planning and monitoring software delivery and testing</li><li>Experience developing accessible web solutions</li><li>Experience with version control systems</li><li>Experience integrating third-party APIs</li><li>Ability to communicate technical information to non-technical people</li><li>Understanding of internal and external business requirements</li><li>Solid understanding of technical on-site SEO</li><li>Solid understanding of web security</li><li>Experience with SASS/LESS</li><li>Familiarity with DNS configurations, CDNs and SSL</li><li>Experience of working remotely &amp; autonomously</li></ul><p><b>Benefits:</b></p><ul><li>Flexible working</li><li>Rewards for using renewable energy at home</li><li>Team Days</li><li>Pension</li><li>Competitive salary based on experience</li><li>Free access to London’s Santander bikes</li><li>Paid travelling for events in Europe</li><li>Discounts and invitations to events and facilities at Somerset House</li></ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "_iuYThPiRkm9B6moQnptjw",
-    "url": "http://workinstartups.com/job-board/job/70524/senior-software-developer-at-m-driftrock/",
-    "title": "Senior Software Developer",
-    "tags": [
-      "DBG:surround``OR(employe,develop,engin,team,workmat) 2W locat",
-      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
-      "DBG_TECH1:k/t/w:elixir/other/10",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/4",
-      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=4, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "m/ Driftrock",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 29, 2018 3:14:34 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "Location: Old Street, London N1<br /><br />Start Date: ASAP<br /><br />Salary: depending on experience and skill level<br /><br />WHO ARE DRIFTROCK?<br /><br />Driftrock was started with the aim of making advertising through social channels better. There’s no excuse for being chased around the internet by images of products you’ve already bought. It’s irritating for the end user and counterproductive for the company attempting to sell their products or services. Using our tooling marketers can refine their targeting such that the ads are only shown to people who have shown genuine interest.<br /><br />WORKING AT DRIFTROCK<br /><br />Driftrock’s tooling provides our users with a way to receive, transform, track and optimise leads from social channels. Currently these tools look and feel very separate so we’re in the process of bringing them together, with the view to having Driftrock be more of a platform than a set of tools. Other problems we’re solving, and are looking to solve in the near future, include:<br /><br />* How to securely and safely handle personally identifying information; <br />* How to enrich incoming data with information that will help our users decide on the best next steps for their leads; <br />* What reports to provide to our users such that they can see if their efforts are resulting in quality leads and what they can do to improve.<br /><br />The technology is a mixture of Ruby, Elixir and React applications hosted on Kubernetes and Google Cloud. We make use of Redis and Postgres for data storage and RabbitMQ for event processing.<br /><br />You will be expected to:<br /><br />* Build RESTful APIs, event-based systems and front-end applications; <br />* Work with well-known public APIs like Facebook and LinkedIn; <br />* Design and improve user experience; <br />* Support production systems; <br />* Manage cloud infrastructure.<br /><br />ABOUT THE TEAM<br /><br />We’re a small team of 15 people at Driftrock but we’re growing. Our product development team is 7 people with 6 developers and 1 CTO, this means that anyone we bring in can have a huge impact on the culture and practices of the team.<br /><br />We believe in continuous improvement and we are constantly refining and improving how we work and communicate. One of the ways we do this is by performing fortnightly retrospectives, which are often run by different team members.<br /><br />Currently we make use of daily standups and weekly prioritisation meetings to ensure we're pulling in the same direction and maintaining our focus of delivering value to our end users early and often.<br /><br />ABOUT YOU<br /><br />* You should be keen to learn and improve technical, product and personal skills; <br />* You want to be involved in crafting products whilst building on the culture and process of the product team; <br />* You are happy working in a small team, collaborating closely with other engineers as well as our product and sales teams; <br />* You can provide new and diverse viewpoints for our technical and product discussions; <br />* You are interested in agile practices such as continuous delivery, TDD, pair programming, code reviews and retrospectives; <br />* You are keen to ensure there is a high standard of quality and security in the software we produce as a team; <br />* You are interested in mentoring and coach other team members; <br />* You have had some exposure to Ruby, Elixir or Javascript (we do not expect you to have experience in all of those languages); <br />* You have the right to work in the UK.<br /><br />WHAT HAPPENS NEXT?<br /><br />The interview process has some flexibility but is primarily made up of the following stages:<br /><br />* An initial phone conversation with an engineer; <br />* A take home technical test/coding challenge; <br />* Followed by an on-site pairing interview, where we'll build on your code challenge solution. We then do an informal problem solving task and we finish up with an informal chat with the rest of the team. <br /><br />We try our hardest to reduce the amount of stress involved in the process, we’re not trying to catch you out with trick questions and if at any point (even on the take home test) you have any questions for us we encourage you to ask them.<br /><br />BENEFITS<br /><br />* You will work with passionate and smart people, in an environment where we firmly believe in sharing knowledge; <br />* You will be an integral part of a growing and innovative tech startup; <br />* You can be enrolled to the Company’s pension scheme; <br />* The company atmosphere is social and friendly; <br />* You will be part of fun monthly team events.<br /><br />We will not be considering any recruitment agencies for this role.<br /><br />&quot;By applying for this job you hereby give us permission to store your data on our secure applicant tracking system and to contact you with regards to Driftrock Ltd and our job opportunities. We will store your data for a year before deleting all individually identifiable information. If you wish data to be deleted sooner, respond to this email requesting the deletion of your data&quot;.",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
