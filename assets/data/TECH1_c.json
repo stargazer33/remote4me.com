@@ -1,6 +1,111 @@
 {
  "items": [
   {
+    "id": "QqBCyCjATL2MDIUWk6IgxQ",
+    "url": "https://remote.co/job/sync-engineer/",
+    "title": "Sync Engineer",
+    "tags": [
+      "DBG:surround``2N(work,remot) 9W OR(travel,visit)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG_TECH1:k/t/w:c++/c/16",
+      "DBG_TECH1:k/t/w:c/c/20",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:google-app-engine/java/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=36, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/c",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "Cultured Code",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 6:05:37 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Sync Engineer at <span>Cultured Code</span></h2><div><span><i></i> Remote</span>         | <span> International </span></div><div>            <p>Our sync architecture puts most work onto the clients, so that’s where the majority of the code lives. It is all written in C (in CoreFoundation style), so experience with C or C++ is very helpful. You’ll need to understand memory management; throw around pointers; consider performance characteristics of algorithms. You should probably know who that traveling salesman guy is.</p><p>Our cloud components live on Google App Engine and AWS, and are written in Python and C. Ideally, you would be interested in taking on this part of the stack as well, as the client and server go hand in hand. We don’t consider this a necessity, however.</p><p>If you’ve never programmed in C (or C++) before, that might be ok. We care much more about general abilities than knowledge of specific languages. But then you have to show us that you’re the kind of person who learns a new programming language over breakfast. Tell us what awesome things you’ve done in the past, and send us some sample code that shows off your abilities.</p><p>If you’ve worked on a similar sounding project and can send us some sample code, that’s even better! Alternatively – or additionally – you’re invited to download our&nbsp;<a href='https://culturedcode.com/frozen/2018/08/DictionaryOperation.zip' rel='nofollow'>coding challenge</a>, follow the instructions inside, and then send us your work.</p><p>Our office is in Stuttgart, so if you’re looking for an opportunity to spend some time in the heart of Europe, fantastic, we have a desk waiting for you! Otherwise working remotely (and visiting us a few times a year) would be completely fine, too.</p><p>Ultimately, Cultured Code is a place where you’ll have an opportunity to do something excellent, and we aim to employ people who want to strive for that as part of a team. If you share our values and have a great skill-set then we hope you’ll get in touch!</p><p>We’re accepting applications until September 16.</p><p>—</p><h4><strong>COMPANY INFO</strong></h4><p>At Cultured Code, we’re passionate about productivity, simplicity, and beautiful design. Things is our award-winning combination of these three interests into one fine product. Last year we launched Things 3, and it’s been a resounding success. Things has won its second Apple Design Award, and has seen six major updates in the past year. We’re now looking to expand our team to keep up the pace.</p><p>Our company is based out of Stuttgart, in southern Germany, and currently consists of seven people. We’re a truly international team, hailing from Germany, Poland, Australia, Brazil, and Canada. Our company language is English.</p><p>It’s an exciting time to be at Cultured Code – we have some great plans for the future, and challenging things to work on. We hope you’ll consider joining our team, and being part of our story.</p>        </div><div>        <a href='https://cultured-code.breezy.hr/p/84fdc61179e201-sync-engineer?source=remoteco' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "nGoBezLQQeuyHSIwz_CBSw",
+    "url": "https://stackoverflow.com/jobs/200888/software-engineer-backend-rust-micro-services-kraken-bitcoin-exchange?a=15n2rOfbEAIU",
+    "title": "Software Engineer Backend (Rust, Micro-Services) at Kraken Bitcoin Exchange  ",
+    "tags": [
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG_TECH1:k/t/w:c++/c/16",
+      "DBG_TECH1:k/t/w:c/c/10",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:rust/other/35",
+      "DBG_TECH1:techWeightMap:{python=0, other=35, dotnet=0, c=26, mobile=0, go=6, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c",
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "Kraken Bitcoin Exchange",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 29, 2018 12:06:07 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Software Engineer Backend (Rust, Micro-Services)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Computer Software, Financial Services, Financial Technology</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>501-1k people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Kraken Bitcoin Exchange | No office location<br></div><h3>Technologies</h3><div></div><div>rust</div><div>c</div><div>c++</div><div>go</div><div>linux</div>                <h3>Job description</h3>                <div>Our Engineering team is having a blast while delivering the most sophisticated crypto-trading platform out there. Help us continue to define and lead the industry.<p><strong>Responsibilities</strong></p><ul><ul><li>Design and implementation of Micro-services in Rust</li><li>Port legacy Micro-services to Rust</li><li>Writing reusable, testable, and efficient code</li><li>Implementation of security and data protection systems</li><li>Write highly scalable, high volume services</li><li>Create optimized database schemas</li></ul></ul><p><strong>Requirements</strong></p><ul><ul><li>Expertise writing network services in Rust, or other languages such as C, C++ or Go and a willingness to learn Rust.</li><li>Experience using a Linux server environment</li><li>Ability to independently debug problems involving the network and operating system</li></ul></ul><p><strong>A strong candidate will also</strong></p><ul><ul><li>Be familiar with deployment using Docker</li><li>Have experience with SQL and Redis</li><li>Be proficient with HTTPS and Websockets</li><li>Be passionate about secure, reliable and fast software</li><li>Be Familiar with PHP</li></ul></ul>                </div>            <div>        <a href='https://jobs.lever.co/kraken/4c864c8f-bde6-443d-b521-dd90df0e9105' rel='nofollow'>                        Apply now        </a></div>            <h3>About Kraken Bitcoin Exchange</h3>            <div><p>By joining Kraken, you’ll work on the bleeding edge of bitcoin and other digital currencies, and play an important role in helping shape the future of how the world sees and uses money. At Kraken, we constantly push ourselves to think differently and forge new paths in a rapidly growing industry fraught with unexplored territory, which is why Kraken has grown to be among the largest and most successful bitcoin exchanges in the world. If you’re truly interested in pushing the envelope by disrupting an industry that some say cannot be disrupted, then we just might have the job meant for you. Kraken is a place for dreamers and doers - to succeed here, we firmly believe you must possess each in spades. Check out all of our job postings here&nbsp;<a href='https://jobs.lever.co/kraken' rel='nofollow'>https://jobs.lever.co/kraken</a>.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Cash + Equity</span>                            </li>                            <li>                                <span></span>                                <span>Paid Vacation</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Office Hours + Remote Options</span>                            </li>                            <li>                                <span></span>                                <span>Awesome People</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "TYndbt8rS_KGzmK6_zw5_w",
     "url": "https://www.workingnomads.co/jobs/software-engineer-android-remote-numbrs-personal-finance-ag-22323",
     "title": "Software Engineer, Android - Remote",
@@ -1894,100 +1999,6 @@
     "published": "Jul 18, 2018 11:10:00 AM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "One in five households in the UK live in social housing, a sector with the right values at its core but that has historically struggled to deploy innovations in the home. Many residents still can’t afford to heat their homes and live in cold, mouldy properties they can’t be proud of. At Switchee, we believe that everyone deserves to live in a decent home and that the environments we inhabit have a massive influence on our ability to enjoy life and prosper.<br /><br />We may be only three years old, but it’s already been quite a ride! Our first product, the internet connected Switchee thermostat is already in 35 of the biggest housing providers in the UK. We’re growing 100% year on year and are backed by some of the best-known investors in technology and social impact.<br /><br />To strengthen our small team of 15 passionate and ambitious people we are looking for an outstanding individual to join us as<br /><br />*Junior* *Firmware* *Engineer*<br /><br />We are driven by a collective desire to make a positive impact in the housing sector, both for residents and landlords, so your commitment to our values and mission are paramount.<br /><br />*Your* *responsibilities*<br /><br />As a junior firmware engineer, it will be your responsibility to design and implement firmware solutions that run in an optimized manner on our hardware platform. The hardware platform comprises an ST ARMmicrocontroller, sensors, and advanced radio communications to deliver the best smart thermostat solution for social housing.<br /><br />We are looking for someone with drive and a creative mind capable of solving complex problems in a neat, simple and reliable fashion. You will be part of the engineering team and work closely with the current firmware team.<br /><br />*Your* *experience*<br /><br />We firmly believe extraordinary people can come from a wide range of places – but we wouldn’t be surprised if the person who gets this role has:<br /><br />* Master/bachelor degree in Computer Science or Engineering from a leading university<br />* 3+ years experience in developing for embedded systems at application level<br />* 3+ years experience with driver and board-level software development<br />* 3+ years experience with board bring up and systems debugging<br />* Proven ability to drive a subsystem or product to completion<br />* Experience developing firmware in a bare-metal environment<br />* Familiarity with debugging tools such as bus analyzers and oscilloscopes<br />* Solid programming experience in C / C++ and preferably scripting languages like python<br />* Experience in hands-on development and troubleshooting on embedded targets using oscilloscope, logic analyser and jtag<br />* Experience with common interfaces like SPI,I2C,UART,USB, DMA, Flash and GPIO’s<br />* Knowledgeable in use of tool chains and debug tools like GCC<br />* Experience with ARM based processors (Specifically the Cortex M family)<br />* Knowledge of reading schematics and data sheets for components<br />* Familiarity with software configuration management tools, defect tracking tools, and peer review like Jira/GIT and confluence<br />* Experience working with typical IoT communication protocol like BT, Zigbee, ZWave or Sub-GHz communication<br /><br />*You*<br /><br />We are a diverse bunch of people at Switchee. That said, there are some characteristics we always look for:<br /><br />* You deeply care about Switchee’s mission; you have a desire to build something revolutionary, that will disrupt an industry, and positively impact ordinary people’s lives.<br />* You care about the environment, are interested in energy efficiency and have thought about the challenges and opportunities posed by an evolving domestic energy market<br />* You like technology and neat solutions to complex problems<br />* You thrive on challenge and change; you naturally gravitate to the hardest questions first and love thinking differently to solve them.<br />* You are biased towards action and you’re happiest when you’re ‘getting stuff done’.<br />* You’re open, positive & straightforward. You’re not afraid to stand up for your convictions, even when it’s hard to do so.<br />* You delight in your colleagues’ successes and thrive on your failures; you grasp any opportunity for learning and constantly seek to improve.<br /><br />*Our* *mission*<br /><br />We believe that radical innovation in internet connected technology can ensure that every resident, every day, is living in a home that allows them to succeed. That’s why our products are built not just on great technology, but on an understanding of what people want from the space they live in.<br /><br />This approach led us to reimagine the most mundane household object, a thermostat, into a product that automagically reduces energy bills, looks great and offers control to those who want it.<br /><br />We are also revolutionising the way social landlords manage their housing stock with an obsessively tailored SAAS property dashboard and handy alerts on things like when the boiler is going to break.<br /><br />Our next project is to build the ultimate connected hub for the social home. It’s going to revolutionise the way residents interact with their properties and landlords manage their homes.<br /><br />*Life* *at* *Switchee*<br /><br />We like to keep things simple and flexible at Switchee and consider you to be joining our family. We don’t currently track holidays so you’re free to take as much as you need. We often work remotely but are sensitive to the needs of our colleagues.<br /><br />We socialise together with regular outings in London and an annual “working remotely” trip where you have the option (but not obligation) to join us in working from a fun location.<br /><br />If we end up working together, we can offer a competitive salary and a generous stake in the company.<br /><br />If you believe in the same things, don’t hesitate any longer, apply now! Please be in touch soon as we’ll proceed once the right person is found. If you’d like to apply please submit a CV and cover letter on our Careers page. ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "D1asE3HxSqKtmsULnsSoDg",
-    "url": "https://unicornhunt.io/jobs/join-our-nag-not-so-big-advisory-board-at-bright-little-labs",
-    "title": "Join our NAG (Not-so-big Advisory Board)",
-    "tags": [
-      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/c",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "c"
-    ],
-    "hiringOrganization": {
-      "name": "Bright Little Labs ",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 29, 2018 2:05:36 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h4>Join our NAG (Not-so-big Advisory Group)</h4><p>We need people to advise us on our spy adventures</p><h4>About us</h4><p>Bright Little Labs is building a <a href='http://www.telegraph.co.uk/connect/small-business/detective-dot-creator-sophie-deen-working-with-kids/' rel='nofollow'>kids media giant</a> for the 21st century. We make kids’ books, games, and products that promote critical thinking, computer science and equality. Our flagship kids story is about <a href='http://www.detectivedot.org/' rel='nofollow'>Detective Dot</a> - a nine-year-old British-Indian coder who is on a dangerous mission from the C.I.A. (Children’s Intelligence Agency). Kids can join the CIA and carry out personalised activities on and offline.</p><p>We started on Kickstarter, reached 30 countries, got Cabinet Office backing, and <a href='http://www.independent.co.uk/extras/indybest/kids/gifts/best-coding-toys-for-kids-games-2017-apps-software-laptop-robot-for-beginners-a8029061.html' rel='nofollow'>have won a few awards.</a> Next up: we’re launching in 22,000 schools, writing the first of 3 books with a not-yet-announced publisher, and <a href='https://www.turner.com/pressroom/turner-international-and-bright-little-labs-sign-strategic-equity-investment' rel='nofollow'>we just partnered with Turner</a> (who own Cartoon Network!!!) so we’re making cartoons and games too. Boom!</p><p>If you believe wholeheartedly in the power of stories and toilet humour to inspire the next generation, get in touch</p><p><i>Please note, we value smart people over experience and qualifications. If you’re not sure you have the “right background” but love what we do, please apply! For this role particularly, we need mums, dads, aunties, uncles, grannies, grampies, teachers, students and teddy bears to let us know what they make of our stories. You only need to be reliable and have an opinion.</i></p><h4>About you</h4><p>You’re passionate about diversifying media and wish you could see more people like you and your friends on TV. You’re not afraid to voice your opinion and you know how to give constructive criticism. Whilst you’re good at spotting a flaw you’re even better at thinking of an alternative approach; you’re filled with plan b’s,c’s,d’s,e’s,f’s….. You’re a big kid and the thought of working on the latest kids cartoons or toys makes you so excited you might… you might… who knows what you might do? Wet yourself?</p><p>We particularly want people who can act as cultural consultants and we actively encourage people from underrepresented backgrounds to apply! Especially if you feel like you can resonate with our main characters, we want to hear from you.</p><h4>We need help with these sorts of tasks</h4><ul><li><p>At least 6 times a year we’ll be reaching out to you for feedback on our latest creations. Feedback sessions will vary in structure. Some will be remote (paid £25 per session) others in person (£50+ per session + travel) .</p></li><li><p>Brainstorming actionable points for improvement - if you think something is wrong with what we’re doing, help us come up with ways to make it better!</p></li></ul><h4>We offer</h4><ul><li><p>An awesome role helping to define the future of Bright Little Labs.</p></li><li><p>Exposure - we're a high-ish profile project, we work with exciting people, and you’re on our advisory board.</p></li><li><p>Flexible working arrangements - we’ll be hosting remote and in person sessions.</p></li><li><p>Money - We pay more depending on how much you’re involved, but we need a minimum commitment of 6 ‘sessions’.</p></li><li><p>Feel good factor. You’ll be working on a project at the heart of equality, education and technology.</p></li><li><p>Fun - we’re building a top-secret spy agency. If we told you any more, we’d have to kill you.</p></li></ul><h4>How to apply:</h4><p>In 150 words say why you want to work for us. In another 150 words say why you think you’d be the best person for the role. Remember, we particularly care about diversity in kids media and getting a variety of views on our stuff. If you’ve got 151 or 161 words, no problem. If you’ve got 200+ words, problem. It’s that simple :)</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "p1ePsLgkRM-pQrpyTc7d3A",
-    "url": "http://workinstartups.com/job-board/job/70499/join-our-nag-not-so-big-advisory-group-at-bright-little-labs/",
-    "title": "Join our NAG (Not-so-big Advisory Group)",
-    "tags": [
-      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/c",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "c"
-    ],
-    "hiringOrganization": {
-      "name": "Bright Little Labs",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 28, 2018 2:36:28 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "Join our NAG (Not-so-big Advisory Group) <br /><br />We need people to advise us on our spy adventures <br /><br />About us<br /><br />Bright Little Labs is building a kids media giant for the 21st century. We make kids’ books, games, and products that promote critical thinking, computer science and equality. Our flagship kids story is about Detective Dot - a nine-year-old British-Indian coder who is on a dangerous mission from the C.I.A. (Children’s Intelligence Agency). Kids can join the CIA and carry out personalised activities on and offline.<br /><br />We started on Kickstarter, reached 30 countries, got Cabinet Office backing, and have won a few of awards. Next up: we’re launching in 22,000 schools, writing the first of 3 books with a not-yet-announced publisher, and we just partnered with Turner (who own Cartoon Network!!!) so we’re making cartoons and games too. Boom!.<br /><br />If you believe wholeheartedly in the power of stories and toilet humour to inspire the next generation, get in touch.<br /><br />Please note, we value smart people over experience and qualifications. If you’re not sure you have the “right background” but love what we do, please apply! For this role particularly, we need mums, dads, aunties, uncles, grannies, grampies, teachers, students, teddy bears and children to let us know what they make of our stories. You only need to be reliable and have an opinion.<br /><br />About you<br /><br />You’re passionate about diversifying media and wish you could see more people like you and your friends on TV. You’re not afraid to voice your opinion and you know how to give constructive criticism.  Whilst you’re good at spotting a flaw you’re even better at thinking of an alternative approach; you’re filled with plan b’s,c’s,d’s,e’s,f’s….. You’re a big kid and the thought of working on the latest kids cartoons or toys makes you so excited you might… you might… who knows what you might do? Wet yourself?<br /><br />We particularly want people who can act as cultural consultants and we actively encourage people from underrepresented backgrounds to apply! Especially if you feel like you can resonate with our main characters, we want to hear from you. <br /><br />We need help with these sorts of tasks<br /><br />At least 6 times a year we’ll be reaching out to you for feedback on our latest creations.  Feedback sessions will vary in structure. Some will be remote (paid £25 per session) others in person (£50+ per session + travel) . <br />Brainstorming actionable points for improvement - if you think something is wrong with what we’re doing, help us come up with ways to make it better! <br /><br />We offer<br /><br />An awesome role helping to define the future of Bright Little Labs.<br />Exposure - we're a high-ish profile project, we work with exciting people, and you’re on our advisory board.<br />Flexible working arrangements - we’ll be hosting remote and in person sessions. <br />Money -  £325 per year minimum for your feedback on our stories. We pay more depending on how much you’re involved, but we need a minimum commitment of 6 ‘sessions’.<br />Feel good factor. You’ll be working on a project at the heart of equality, education and technology. <br />Fun - we’re building a top-secret spy agency. If we told you any more, we’d have to kill you.<br /><br />How to apply: <br /><br />In 150 words say why you want to work for us. In another 150 words say why you think you’d be the best person for the role. Remember, we particularly care about diversity in kids media and getting a variety of views on our stuff. If you’ve got 151 or 161 words, no problem. If you’ve got 200+ words, problem. It’s that simple :) <br />",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
