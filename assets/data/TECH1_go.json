@@ -176,7 +176,7 @@
     ],
     "hiringOrganization": {
       "name": "ConsenSys",
-      "sameAs": "https://angel.co/job_lists/1/browse_startups_table?startups[]=585912&listings[0][]=58885"
+      "sameAs": "UNSET"
     },
     "salary": {
       "currency": "$",
@@ -587,12 +587,12 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
+      "currency": "$",
+      "minValue": 50000,
+      "maxValue": 50000,
       "info": "",
-      "unit": "UNSET",
-      "parser": "UNSET",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -634,7 +634,7 @@
     ],
     "hiringOrganization": {
       "name": "ConsenSys",
-      "sameAs": "https://angel.co/job_lists/1/browse_startups_table?startups[]=585912&listings[0][]=58885"
+      "sameAs": "UNSET"
     },
     "salary": {
       "currency": "$",

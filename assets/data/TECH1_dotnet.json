@@ -1,6 +1,70 @@
 {
  "items": [
   {
+    "id": "j7Ldpea2TjSYxpz1x2VVmw",
+    "url": "https://remoteok.io/jobs/68723",
+    "title": ".NET / C# / JavaScript web developer",
+    "tags": [
+      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:c#/c/8",
+      "DBG_TECH1:k/t/w:c#/dotnet/20",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/4",
+      "DBG_TECH1:k/t/w:javascript/nodejs/4",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:responsive-design/frontend/13",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:k/t/w:windows/dotnet/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=77, c=8, mobile=7, go=0, nodejs=4, bigdata-ml=0, ruby=4, apple=2, java=7, gamedev=0, php=10, embedded=0, frontend=52}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "End Point Corporation",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 1, 2018 12:41:36 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<td><span><h2>.NET / C# / JavaScript Web Developer</h2></span><br><span><h3>End Point Corporation</h3></span></td><div><div>We are looking for another talented full-time software developer to join us, working with .NET and C# on Windows, JavaScript, and at least one of PHP, Java, or Ruby.<br><br>End Point is a 23-year-old web consulting company based in New York City, with about 50 employees, the majority working remotely from home offices. We serve over 200 clients ranging from small family businesses to large corporations.<br><br>We are experts in web development, databases, and DevOps, and we use mostly open source frameworks, in a variety of languages, on Linux and Windows.<br><br>In this position you can work from your home office, or from our offices in New York City and the Tennessee Tri-Cities area, using your desktop platform of choice, as long as you can get the work done on it—Windows, macOS, or Linux.<br><br>What you will need:<br><br>* Professional experience building reliable back-end web applications using .NET and C#, as well as PHP, Java (or Kotlin or Scala), or Ruby<br>* Good front-end web skills with responsive design using HTML, CSS, and JavaScript (including jQuery, Vue, Angular, React, etc.)<br>* Experience with databases such as PostgreSQL, MySQL, SQL Server, Redis, Elasticsearch, etc.<br>* A focus on needs of our clients and their users<br>* Strong verbal and written communication skills<br>* A bit of experience with cloud services at Microsoft Azure, Amazon Web Services (AWS), or Google Cloud<br><br>What you will be doing:<br><br>* Consult with clients to determine their business application needs<br>* Build, test, release, and maintain web applications<br>* Work with open source libraries and contribute back as opportunity arises<br>* Learn and put to use new technologies<br>* Direct much of your own work<br><br>We offer:<br><br>* Flexible full-time work hours<br>* Paid holidays and vacation<br>* For U.S. employees: health insurance subsidy and 401(k) retirement savings plan<br>* Annual bonus opportunity<br><br>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of gender, race, religion, color, national origin, sexual orientation, age, marital status, veteran status, or disability status.<p>See more jobs at <span>End Point Corporation</span></p><p>Visit <a href='https://www.endpoint.com/' rel='nofollow'>End Point Corporation</a>'s website</p></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "UFe8hz_EQSWHs38pyzNsXA",
     "url": "http://jobmote.com/jobs/24063-work-from-home-remote-winforms-developer-vb-net-c-40-50k",
     "title": "Work from home Remote WinForms Developer VB.NET / C#, £40-50k",
@@ -2800,7 +2864,7 @@
     ],
     "hiringOrganization": {
       "name": "FranchiseBlast",
-      "sameAs": "https://angel.co/job_lists/1/browse_startups_table?startups[]=251020&listings[0][]=15460&listings[0][]=15462"
+      "sameAs": "UNSET"
     },
     "salary": {
       "currency": "$",
@@ -3312,12 +3376,12 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
+      "currency": "$",
+      "minValue": 28,
+      "maxValue": 28,
       "info": "",
-      "unit": "UNSET",
-      "parser": "UNSET",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false
     },
     "employmentType": "UNSET",
