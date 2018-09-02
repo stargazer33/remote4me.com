@@ -36,7 +36,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -83,7 +83,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -134,7 +134,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -234,7 +234,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -285,7 +285,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -340,7 +340,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -446,7 +446,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -497,7 +497,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -547,7 +547,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -587,7 +587,7 @@
       "sameAs": "UNSET"
     },
     "salary": {
-      "currency": "$",
+      "currency": "€",
       "minValue": 50000,
       "maxValue": 50000,
       "info": "",
@@ -688,7 +688,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -737,7 +737,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -795,7 +795,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -840,7 +840,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -889,7 +889,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -985,7 +985,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
