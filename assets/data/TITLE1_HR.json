@@ -30,7 +30,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
