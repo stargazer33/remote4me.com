@@ -1,6 +1,346 @@
 {
  "items": [
   {
+    "id": "5sE5jXflTWCWgP1W5IDfTQ",
+    "url": "https://news.ycombinator.com/item?id=17903307",
+    "title": "Nylas – San Francisco, NYC or remote | Site Reliability Engineer | AWS, Ansible, Terraform | Full-time",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=14, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 6:08:06 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Nylas – San Francisco, NYC or remote | Site Reliability Engineer | AWS, Ansible, Terraform | Full-time<p>The Nylas Cloud APIs makes it an order of magnitude easier for companies to add email, calendar, and contacts integrations to their applications. By being at the core of business communication, scheduling, and contacts, we believe we can shape the future of how people work.</p><p>We’re looking for Site Reliability Engineers to join our team to help build and scale the infrastructure our platform runs on and the tools our developers need to get work done. Our SRE team is responsible for the infrastructure layer of our API platform—the base operating system (including security), CI/CD &amp; deployment tools, monitoring and observability tools, and our horizontally sharded data storage layer which stores tens of terabytes of data. Right now, our open-source Python sync engine regularly archives terabytes of data across a massive SQL cluster, and our Flask APIs handle tens of millions of requests a day. We aim to scale that several times over in the next year.</p><p>At Nylas, “DevOps” is a part of our engineering culture, not a role we’re looking to fill. Our development team shares the pager with operations and makes their own deploys. We’re always looking for ways in which we can have specialists who delight in really knowing different parts of systems but still avoid being silo’d away.</p><p>We keep our code and infrastructure automation in the same repo, and you’ll be empowered to make application changes necessary for scaling and reliability in collaboration with our development team.</p><p>Our stack: Python, MySQL, Redis, AWS, DebianAbout you:- You have 2 - 5 years of production engineering experience</p><p>- You are located anywhere in US timezones - we have offices in San Francisco and NYC and this team contains remote members</p><p>- You value communication and empathy as much as technical prowess</p><p>- You can navigate a Linux command line</p><p>- You have experience automating systems using any modern configuration management system (Chef, Ansible, Puppet)</p><p>- You have experience running services on a cloud platform (AWS, GCP, Azure)</p><p>- You can write reliable code in at least one scripting language (Python, Ruby, Perl, JavaScript etc.), though this won’t be a focus of our interview process</p><p>- You’re excited to create a modern, scalable infrastructure and automate away drudgery</p><p>Nice to have:</p><p>- Experience with monitoring systems, databases, or service orchestration using terraform (but don’t worry, it’s OK to learn this stuff on the job if you don't know it already)</p><p>Our team collaboratively wrote about our values, benefits, perks, and published them in our open-source handbook. Read it to learn more about Nylas. You can also find more details at: <a href='https://www.keyvalues.com/nylas' rel='nofollow'>https://www.keyvalues.com/nylas</a></p><p>If you're interested in applying, please send me an email at karim@nylas.com!</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "BR-Nm3L5RxCc31kmjcdS4g",
+    "url": "https://news.ycombinator.com/item?id=17903045",
+    "title": "Close.io | REMOTE WANTED: DevOps Engineering Team Lead For someone special who wants to do both hands-on technical ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 5:27:11 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Close.io | REMOTE<p>WANTED: DevOps Engineering Team Lead</p><p>For someone special who wants to do both hands-on technical infrastructure-focused work AND lead/manage a small remote team (2-3 people) of really talented people doing the same.</p><p>WHO ARE WE:</p><p>At Close.io we’re building the sales communication platform of the future. We’ve built a next-generation CRM that eliminates manual data entry and helps sales teams close more deals. We are hiring product-focused engineers to help us unify the world's sales calls and emails into one beautiful workflow.</p><p>Our backend tech stack currently includes Python (Flask, Gunicorn, TaskTiger), Elasticsearch, MongoDB, Postgres, and Redis running in Docker/Kubernetes on AWS. Our backend primarily serves a well-documented public API that our front-end JavaScript app consumes.</p><p>We open source – using dozens of open source projects with contributions to many of them, and released some of our own: <a href='https://github.com/closeio' rel='nofollow'>https://github.com/closeio</a></p><p><a href='https://close.io' rel='nofollow'>https://close.io</a></p><p>Learn more or apply:</p><p><a href='https://jobs.lever.co/close.io/26369307-318c-4fee-893d-a1d3d0e4ae1c?lever-source=HNHiringSept18' rel='nofollow'>https://jobs.lever.co/close.io/26369307-318c-4fee-893d-a1d3d...</a></p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "RtneSS0gQOOg82M1LdqQWg",
+    "url": "https://news.ycombinator.com/item?id=17903043",
+    "title": "Netlify | Several roles | SF, CA | remote or on-site | Full-time | https://www.netlify.com The web is changing — ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 5:26:11 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "BrGsCHcRR-GQXZdKWUsPVg",
+    "url": "https://remote.co/job/systems-engineer-2/",
+    "title": "Systems Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "Convox",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 5:23:35 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Systems Engineer at <span>Convox</span></h2><div><span><i></i> Remote</span>         | <span> International </span></div><div>            <p>As a Systems Engineer you will be working on the core engineering team and our community on the open-source convox/rack project that aims to fully manage private, secure, production-ready AWS and Docker system. You will also be working with our users to help install, troubleshoot and maintain their Convox systems. You are an experienced engineer with exceptional problem solving skills. You are a self-starter who thrives in a vibrant, fast paced environment and takes pride in getting things done. If you are such a person, we’d love to have you join us.</p><p>If you are interested in applying please email jobs+systems-engineer@convox.com.</p><p><strong>What you’ll do:</strong></p><ul><li><strong>Maintain software projects.</strong>&nbsp;Convox maintains its platform as open source on GitHub. You will help open and close issues and pull requests, develop bugfixes and features, and manage the release cycle. You will also help and enable our users participate in the same process.</li><li><strong>Build and manage cloud systems.</strong>&nbsp;The Convox platform automates all the boring and hard parts of deploying software to the cloud. You will contribute to the code that sets up an AWS VPC and ECS clusters, builds and deploys Docker images and containers, and monitors, automates and alerts around errors.</li><li><strong>Operate production environments.</strong>&nbsp;The Convox team and users alike depend on Convox to run mission critical services. When problems arise you will help restore service availability, and troubleshoot, root-cause and remediate issues.</li></ul><p><strong>What you’ll need:</strong></p><p><strong>Experience with the following technologies and roles is an indicator that you are prepared for this position:</strong></p><ul><li>DevOps and cloud automation</li><li>Golang</li><li>Amazon Web Services (AWS)</li><li>Cloud network, compute and data services</li><li>Linux administration</li><li>Docker</li><li>Log and metrics pipelines</li><li>24/7 on-call experience</li><li>GitHub project management</li><li>Software release management</li><li>Customer communication</li></ul>        </div><div>        <a href='https://convox.com/jobs/systems-engineer' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ud1eS8y0TgadJcPrJm8Eug",
+    "url": "http://jobmote.com/jobs/24335-senior-systems-engineer-datacenter-remote",
+    "title": "Senior Systems Engineer (Datacenter) - REMOTE",
+    "tags": [
+      "DBG:surround``2N(work,remot) 9W OR(travel,visit)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "PC Connection Inc",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 11:21:15 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>Description:<br>The Data Center Systems Engineer (SE3) will be responsible for providing professional services to new or existing Connection customers. Services can include business and technical consulting, analysis, design, implementation, system troubleshooting, performance optimization, and documentation. Services are provided both at client site and via phone, email and Internet. In addition to the billable activity, the SE3 supports pre-sales configuration and design activities, skills and certification maintenance, and research and technology development tasks. The SE3 has advanced-to-expert skill level with varying practical experience. The SE3 is acknowledged as an expert in the field, and is sought after by others for leadership and knowledge of how to design and architect complex solutions that cross a variety of technical domains. The SE3 can complete complex projects with a broad scope and is able to work independently as well as function as Lead Engineer on specific projects. The SE3 will have moderate interaction with peers on work assignments.<br><strong>Requirements</strong></p><ul><li>Recent expert-level post-sales consulting, installation, configuration, troubleshooting experience; pre-sales design; and technical certifications with one or more of the following technologies:<ul><li>Business Impact Analysis and Business Continuity Policy</li><li>Disaster Recovery Policy, Design, and Planning</li><li>Cloud Workload placement</li><li>Software-Defined Data Center and Hybrid Cloud</li><li>DevOps</li></ul></li><li>Advanced knowledge of business systems and outcomes with ability to understand impact of solution design and implementation on customer's business strategic objectives and requirements.</li><li>Strong analytical thinking, problem solving, appropriate judgment, and decision making skill.</li><li>Excellent verbal communication skills with ability to translate technology-related jargon to diverse groups of technical and non-technical users, including C-level staff.</li><li>Excellent written communication skills with ability to develop complex technical consulting documents.</li><li>Self-motivation with ability to perform quality work within deadlines and budget with or without direct supervision.</li><li>Bachelor's degree in Computer Science, IT or similar field or equivalent work experience</li><li>Minimum of 10 years of experience as a systems engineer or consultant.</li><li>Preferred certifications and experience with advanced VMware products including VMware vRealize Automation, vRealize Business, and/or NSX.</li><li>One or more of the following current certification(s): VMware VCAP-DCV, VCIX-DCV, VCIX-CMA and/or AWS Certified Solutions Architect -- Professional preferred.</li><li>This position is working remotely with up to 50% travel to client locations in the US only.</li></ul></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "vq89QmzqS6q2lz6zYql9fA",
+    "url": "http://jobmote.com/jobs/24322-sr-systems-engineer-datacenter-remote",
+    "title": "Sr. Systems Engineer (Datacenter) - REMOTE",
+    "tags": [
+      "DBG:surround``2N(work,remot) 9W OR(travel,visit)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "PC Connection Inc",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 9:20:38 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>Description:<br>The Data Center Systems Engineer (SE3) will be responsible for providing professional services to new or existing Connection customers. Services can include business and technical consulting, analysis, design, implementation, system troubleshooting, performance optimization, and documentation. Services are provided both at client site and via phone, email and Internet. In addition to the billable activity, the SE3 supports pre-sales configuration and design activities, skills and certification maintenance, and research and technology development tasks. The SE3 has advanced-to-expert skill level with varying practical experience. The SE3 is acknowledged as an expert in the field, and is sought after by others for leadership and knowledge of how to design and architect complex solutions that cross a variety of technical domains. The SE3 can complete complex projects with a broad scope and is able to work independently as well as function as Lead Engineer on specific projects. The SE3 will have moderate interaction with peers on work assignments.<br><strong>Requirements</strong></p><ul><li>Recent expert-level post-sales consulting, installation, configuration, troubleshooting experience; pre-sales design; and technical certifications with one or more of the following technologies:<ul><li>Business Impact Analysis and Business Continuity Policy</li><li>Disaster Recovery Policy, Design, and Planning</li><li>Cloud Workload placement</li><li>Software-Defined Data Center and Hybrid Cloud</li><li>DevOps</li></ul></li><li>Advanced knowledge of business systems and outcomes with ability to understand impact of solution design and implementation on customer's business strategic objectives and requirements.</li><li>Strong analytical thinking, problem solving, appropriate judgment, and decision making skill.</li><li>Excellent verbal communication skills with ability to translate technology-related jargon to diverse groups of technical and non-technical users, including C-level staff.</li><li>Excellent written communication skills with ability to develop complex technical consulting documents.</li><li>Self-motivation with ability to perform quality work within deadlines and budget with or without direct supervision.</li><li>Bachelor's degree in Computer Science, IT or similar field or equivalent work experience</li><li>Minimum of 10 years of experience as a systems engineer or consultant.</li><li>Preferred certifications and experience with advanced VMware products including VMware vRealize Automation, vRealize Business, and/or NSX.</li><li>One or more of the following current certification(s): VMware VCAP-DCV, VCIX-DCV, VCIX-CMA and/or AWS Certified Solutions Architect -- Professional preferred.</li><li>This position is working remotely with up to 50% travel to client locations in the US only.</li></ul></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "0WhVct7PTfuPUoyKZjOrlw",
+    "url": "https://angel.co/infinium-robotics/jobs/36578-embedded-systems-engineer",
+    "title": "Embedded Systems Engineer",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:embedded/c/4",
+      "DBG_TECH1:k/t/w:embedded/embedded/32",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=4, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=32, frontend=0}",
+      "Embedded System Design",
+      "Embedded Systems",
+      "Full Time",
+      "Hardware Engineer",
+      "Hardware Engineering",
+      "REMOTE1/100",
+      "Remote OK",
+      "Singapore",
+      "Systems Engineer",
+      "TECH1/embedded",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded"
+    ],
+    "hiringOrganization": {
+      "name": "Infinium Robotics",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 50000,
+      "maxValue": 80000,
+      "info": "0.5% – 2.0%",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 2, 2018 8:20:23 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><h2>Embedded Systems Engineer at Infinium Robotics</h2><div>Singapore, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>Embedded Systems, Hardware Engineering, Embedded System Design</div><div>Compensation</div><div>$50K–$80K<br>0.5%–2.0%</div><div>Visa Sponsorship</div><div>Available</div></div><h3>Job Description</h3><div>No description available.</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "SdpfhFdMR6a8-dB3H2QJCQ",
     "url": "https://remoteok.io/jobs/68728",
     "title": "Systems Wrangler",
@@ -1840,6 +2180,51 @@
     "published": "Aug 24, 2018 7:56:26 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<h2><span>Mid-Senior Devops</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Big Data, eCommerce, Machine Learning</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>1-10 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Findify | Dublin, Ireland<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Dublin, Ireland.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div></div><div>amazon-web-services</div><div>kubernetes</div><div>docker</div><div>devops</div><div>automation</div>                <h3>Job description</h3>                <div><p><strong>Job Description</strong></p><p><span>We are looking for Devops specialists to help us build and maintain our growing stack. At Findify, we make extensive use of data-collection, processing and machine learning algorithms to help our merchants provide better search and recommendations to their customers. You would be responsible for building and improving the current infrastructure while setting up automatic processes to make the stack more reliable.</span></p><p><strong>Our tech stack</strong></p><p><span>We always strive to use the most suitable tool for the job, so our stack is constantly evolving. Currently, our backend is written mostly in Scala and Node.js. We use Scala for data processing and to power our machine learning algorithms. Node is used as a web framework to facilitate the interaction with our customers via various APIs. We make extensive use of AWS, and use any component we find suitable within our architecture, so we can focus on building our proprietary tech. We have more than 150 servers, we are using different types of databases, we deploy daily and have several testing pipelines in place. We try to use managed services as much as we can to lower the maintenance costs. We like to embrace new technologies and processes that are helping our engineers be more productive!</span></p><p><span>We’re not afraid to challenge our choices, we love open source and above all, we’re a product driven company so technology is at the core of everything we do. You can check out our full stack on </span><a href='http://stackshare.io/findify' rel='nofollow'><span>StackShare</span></a><span>.</span></p><p><strong>Our development culture</strong></p><p><span>We are a small team that moves fast and iterates. We run weekly sprints, code reviews, testing, and once your code is submitted it gets pushed to production through our continuous deployment infrastructure (Jenkins). We put a lot of emphasis on code style, cleanliness and robustness. We care about monitoring, alerting and security. You will get to work with amazing engineers.</span></p><p><strong>What you can expect from us:</strong></p><p><span>You’ll have the opportunity to make a real impact on the product, company vision and culture. You will get to work with the latest technologies out there, without being bound to any legacy. We will never limit your creativity, never shut down ideas before testing them with customers and we will never be boring! it's going to be an exciting ride!</span></p><p><span>If this sounds like a company you’d love be a part of building, and you’ve got the skill set, please get in touch with us!</span></p><p><span>We’d love to hear from you!</span></p><p><strong>Skills and requirements</strong></p><p><strong><em>What we're looking for:</em></strong></p><p><span>The most important thing we are looking for in a candidate is proven passion for building maintainable blocks and problem solving: a Github/Stackoverflow account for an automated library you built, an interesting project you can share, or a blog you write will go a long way.</span></p><p><span>We are a distributed team, so you can work from anywhere you want! Located in Dublin? A huge plus.</span></p><p><span>It’s really important to us that you have the ability to adapt to the company’s work processes using the agile-scrum methodology, and using tools such as Jira and Slack. Not only because of our remote working culture, but even more so because of this, you need to be really awesome at communicating, and to be organized and self-driven.</span></p><p><span>Oh, and you need to want to have fun :)</span></p><p><strong><em>Your responsibilities:</em></strong></p><ul><li><span>Maintain the current technical stack </span></li><li><span>Improve the monitoring capabilities (currently based on Grafana/InfluxDB, Pagerduty)</span></li><li><span>Help our&nbsp;applications become more reliable, maintainable and scalable.</span></li></ul><p><strong><em>The basics:</em></strong></p><ul><li><span>Experience with Docker</span></li><li><span>Experience with Kubernetes (cluster administration, monitoring, auto-scaling and advanced settings)</span></li><li><span>2-3 years of experience supporting systems running on AWS, using technologies such as VPC, Subnets, EC2, S3, Route53, Kinesis, Cloudwatch.</span></li><li><span>Experience setting up applications monitoring (telemetry, alerting, reporting)</span></li><li><span>CI/CD Knowledge (Jenkins is a +)</span></li><li><span>Experience with multi-zone deployment / blue-green deployment</span></li><li><span>Git.</span></li><li><span>Experience writing automation scripts (Bash/Python/other)</span></li><li><span>Experience with a configuration management tool like Ansible or Terraform</span></li></ul><p><strong><em>Beyond the basics:</em></strong></p><ul><li><span>Usage of AWS Spot instances</span></li><li><span>Experience with multi-region deployment setup</span></li><li><span>Experience with Zookeeper, Clickhouse, Kafka, Consul or/and Cassandra</span></li><li><span>Distributed systems background</span></li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/200269?reset=False&amp;ra=15aasunZjW12&amp;oqs=a%3D15aasunZjW12' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Findify</h3>            <div><p>Findify’s platform which is used by leading e-commerce websites, uses real-time machine learning algorithms to deliver a personalized experience for each user. The platform continuously learns from user behavior to automatically improve search results, recommendations, and category pages, displaying the most relevant products at any given time. Findify’s technology has been A/B tested to show uplifts in revenue of up to 30%.</p><p>We are an international startup, with team members in Stockholm, Dublin, Moscow and Frankfurt. We deliver fast, continuously iterate, and encourage rapid response to change. We place a lot of importance on team dynamics and have a very transparent organization bound by openness, accountability and trust. We are a team of ambitious people who are passionate about our domains; we work hard, ship products and have fun while doing it.</p><p>You can read more about Findify, our team and our offering, at <a href='http://findify.io/' rel='nofollow'>findify.io</a>.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Join a fast growing startup early</span>                            </li>                            <li>                                <span></span>                                <span>Gender equal, female founded startup</span>                            </li>                            <li>                                <span></span>                                <span>Work from wherever you want - we're a distributed team</span>                            </li>                            <li>                                <span></span>                                <span>Small motivated team, constant learning, no attitude.</span>                            </li>                            <li>                                <span></span>                                <span>Fun loving, international team.</span>                            </li>                            <li>                                <span></span>                                <span>We focus on deliverables not work hours. Build your own schedule.</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "WUZLzWh-Tu6jpZAPpRJVBw",
+    "url": "https://stackoverflow.com/jobs/200254/sr-it-specialist-linux-aws-google-cloud-upcurve-cloud?a=159R7zvUInh6",
+    "title": "Sr. IT Specialist (Linux/AWS/Google Cloud) at UpCurve Cloud (Austin, TX) ",
+    "tags": [
+      "DBG:surround``3N(locat,remot)",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "UpCurve Cloud",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 24, 2018 7:56:26 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Sr. IT Specialist (Linux/AWS/Google Cloud)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                    </div>                <div>Company: UpCurve Cloud | Austin, TX<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Austin, TX.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                        <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h3>Technologies</h3><div>linux</div><div>aws</div><div>gcp</div><div>php</div><div>apache</div><div>sysadmin</div>                <h3>Job description</h3>                <div><p>Come join UpCurve Cloud and help shape the future of Cloud Computing.</p><p>We are a rapidly growing Cloud Services Provider specializing in application hosting and CRM application development. &nbsp;</p><p>If you are a curious, team-oriented DevOps specialist who likes to learn new technologies and solve interesting problems while providing outstanding service to customers and users, then we would love to talk with you.. &nbsp;</p><p>To qualify for our position, you need to have:</p><ul><li>A solid track record as a Linux system administrator</li><li>Experience installing and configuring Apache, MySQL and PHP</li><li>Experience working with Amazon Web Services and/or Google Cloud Platform</li><li>Excellent verbal and written communication skills</li></ul><p>If you have AWS, and/or GCP certifications, that's a big plus, but not a requirement.</p><p>This position is based in our office in Austin, Texas or remote. &nbsp;We provide a competitive salary, a fun, open work environment, fully-stocked kitchen with snacks and drinks, and an outstanding package of health and retirement benefits.</p>                </div>            <div>        <a href='https://upcurvecloud.applytojob.com/apply/io0Cz8YHIQ/Sr-IT-Specialist-LinuxAWSGoogle-Cloud?source=STCK' rel='nofollow'>                        Apply now        </a></div>            <h3>About UpCurve Cloud</h3>            <div><p>UpCurve Cloud is a rapidly growing Cloud Services Provider specializing in application hosting and CRM application development.</p>            </div>        ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
