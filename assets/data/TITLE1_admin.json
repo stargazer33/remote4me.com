@@ -1,6 +1,419 @@
 {
  "items": [
   {
+    "id": "Mf9eldGkT_a1MJtXyO3sSw",
+    "url": "https://news.ycombinator.com/item?id=17909493",
+    "title": "Come work at Salesforce! We are growing our Security team and need: Enterprise Security Engineers, Infrastructure ...",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2018 5:00:07 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Come work at Salesforce!<p>We are growing our Security team and need: Enterprise Security Engineers, Infrastructure Security Engineers, and Product Security / Application Security Engineers. If you know how to threat model, can review static code and coach developers on how to bake in security into the SDLC - we are interested. No language preference- but the ability to read Python or Java is key. Ability to code in a scripting language required. Why is this a cool job? We give you 10% of your time back to your own security related research!</p><p>Location: REMOTE OR ONSITE: Bellevue, San Francisco.Opportunity: Security EngineerIdeal Background: Threat modeling, static code review, dynamic testing / pentesting, knowledge of an OOP language and ability to script for automation or tool customization. If network security is your forte, that's great too. We have roles on our Infra and Enterprise teams.Openings: Senior/Lead/Principal level</p><p>Should you be interested, please email Rebecca Fouts:Rebecca Fouts / rfouts@salesforce.com</p><p>---We have additional openings on the Salesforce Database Cloud team. Location: San Francisco/Bellevue - ONSITEOpportunity: Database Internals/DB Kernel design/architectureIdeal Background: Query Processing, Transaction Processing, or HA/Load Balancing, or HBase/Hadoop/Hive PMC/Committer/Contributor Software EngineersOpenings: Senior/Lead/Principal level</p><p>Nate Ashbrooknashbrook@salesforce.com</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "PMS5WdK4Ql6gUzBgqh9y7Q",
+    "url": "https://stackoverflow.com/jobs/201389/isv-devops-solution-engineer-suse?a=15xsjEaRT6Fy",
+    "title": "ISV DevOps Solution Engineer at SUSE  ",
+    "tags": [
+      "DBG:surround``OR(no,no W central) W offic",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "SUSE",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2018 1:06:10 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>ISV DevOps Solution Engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Computer Software, Enterprise Software, OpenStack</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>1k-5k people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: SUSE | No office location<br></div><h3>Technologies</h3><div></div><div>linux</div><div>scrum</div><div>agile</div><div>containers</div><div>openstack</div>                <h3>Job description</h3>                <div><p>For over 20 years, SUSE has delivered innovative and robust solutions for our enterprise customers. We are currently seeking an Independent Software Vendor (ISV)&nbsp;Solution&nbsp;Architect to work closely with SUSE ISV Partner Managers to onboard key ISVs into the SUSE Partner ecosystem for SUSE Container as a Service Platform and SUSE Cloud Application Platform.&nbsp;</p><p>The role requires extensive Linux skills, and candidate must have experience with modern software&nbsp;development and DevOps processes. Technical skills and capabilities need to be balanced with very strong inter-personal skills and business awareness to be able to work closely with our partners and become their trusted advisor, as well as with other SUSE internal teams.&nbsp;</p><p>This is an individual contributor role, reporting to the Director of the ISV Partner Program. Frequent travel across region will be a requirement.&nbsp;</p><p><strong>Responsibilities&nbsp;</strong></p><ul><li>Understand Partner’s application delivery roadmap including container and cloud initiatives.</li><li>Exhibit a deep understanding of SUSE products, platforms and technologies and articulate the key values of SUSE products, solution and strategy&nbsp;to Partner.</li><li>Act as subject matter expert on Partner technology to SUSE functional teams.&nbsp;</li><li>Work with Partner developers and architects in certification activities.&nbsp;</li><li>Guide Partners in their adoption of micro services and making containers consumable to shared customers.</li><li>Architect joint DevOps and microservices solutions that showcase SUSE and Partner technology and deliver in the form of reference architectures, best practices, whitepapers, proof of concepts, demos, presentations, and other methods.&nbsp;</li><li>Lead technical discussions with selected ISVs and recommend solutions.&nbsp;</li><li>Assist in defining and evolving strategy for SUSE ISVs.</li><li>Take part and present at various technical events, conferences, and workshops.&nbsp;</li></ul><p><strong>Requirements&nbsp;</strong></p><ul><li>5+ years of experience working in enterprise application development</li><li>Good knowledge of Agile and Scrum methodology and strong DevOps skills applied to achieve better time to market (eg: Continuous Integration and Delivery, securing production pipe, etc.)</li><li>Experience with IaaC (Ansible at least), IaaS (OpenStack, EC2 would be good), CaaS/PaaS (Kubernetes, OpenShift, Cloud Foundry etc)</li><li>Hand-on software development, from writing code in a variety of language, building with open source compilers/interpreters and builders and shipping using modern runtime methodology from RPM to containers</li><li>Ability to engage in detailed conversations and impact&nbsp;ISV&nbsp;decisions in architecture discussions&nbsp;</li></ul><p><strong>Desirable skills&nbsp;</strong></p><ul><li>Experience in a customer or partner facing position such as partner engineering, product management, sales, pre-sales or consulting&nbsp;</li><li>Experience with SUSE products&nbsp;</li><li>Technical writing</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/201389?reset=False&amp;ra=15xsjEaRT6Fy&amp;oqs=a%3D15xsjEaRT6Fy' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About SUSE</h3>            <div><p>SUSE, a&nbsp;<a href='https://www.suse.com/company/open-source/' rel='nofollow'>pioneer in open source software</a>, provides reliable, software-defined infrastructure and application delivery solutions that give enterprises greater control and flexibility. More than 25 years of engineering excellence, exceptional service and an unrivaled partner ecosystem power the products and support that help our customers manage complexity, reduce cost, and confidently deliver mission-critical services. The lasting relationships we build allow us to adapt and deliver the smarter innovation they need to succeed—today and tomorrow.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Collaborative Working enviroment</span>                            </li>                            <li>                                <span></span>                                <span>Home, virtual office</span>                            </li>                            <li>                                <span></span>                                <span>Good secondary benefits</span>                            </li>                            <li>                                <span></span>                                <span>Truly international enviroment and working culture</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "sWEKese-RmyLVOtmP08gHA",
+    "url": "https://problogger.com/jobs/job/looking-for-writers-for-new-small-business-and-entrepreneurship-site/",
+    "title": "Looking for writers for new small business and entrepreneurship site",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Wired Rhino, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2018 2:00:00 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Looking for writers for new small business and entrepreneurship site</h2><div>Company: Wired Rhino, Inc.</div>Location: Anywhere<br><br>Job Type: Freelance<div>  <h4>Description</h4>  <div>                    <p><span>Looking for writers for a new small business resource site. The ideal candidate will have a passion and background in small business/entrepreneurship, understand on-site SEO, be able to problem-solve and work independently, write unique, compelling content, and meet deadlines. </span></p><p><strong>About us:</strong></p><p><span>A new site with one mission: provide the most accurate software, product, and service reviews along with compelling and thorough small business/entrepreneurship resources. We’re not looking for boilerplate content -- we’re looking for unique, friendly, professional, and accessible writing on topics like “the small business guide to email marketing” “content marketing for small businesses” “how to start X business” “an overview of small business/startup loans” and so on. Got a topic idea? Feel free to pitch it. We want you to be just as enthused, after all. </span></p><p><b>Requirements:</b></p><p><span>Skilled writers who are:</span></p><ul><li><span>knowledgeable and passionate about business/entrepreneurship </span></li><li><span>able to explain technical concepts to a general audience</span></li><li><span>able to provide a unique take on the “same old” business topics</span></li><li><span>understands the basics when it comes to SEO</span></li><li><span>committed (nay, obsessive) about quality, accuracy, and attention to detail in their work</span></li><li><span>deadline driven - we're a business, you're not writing the Great American Novel </span></li><li><span>willing to work how we ask - we're pretty laid back, but we have a system that works for us and we expect you to follow it</span></li></ul><p><span>Sidebar: Deadlines are really important to us. The number of freelancers who seem to have heart attacks and tragic car accidents the night before a deadline is something of a medical anomaly. If you can't make deadlines, or you're a chronic procrastinator, DON'T APPLY, please.</span></p><p><span>Who we're looking for:</span></p><ul><li><span>Native English speakers.</span></li><li><span>Excellent writing skills</span></li><li><span>Strong research skills</span></li><li><span>Basic technical skills</span></li><li><span>Ability to work on their own&nbsp;</span></li></ul><p><strong>Working conditions:</strong></p><p><span>If you have the skills, we'll pay the bills. We're a fully remote team, from the islands of East Asia, to the mountains of South America, to the windswept plains of Middle America. We use Asana, Google Docs, and other fun technologies to keep our team in touch. We don't care when or where you work (as long as you meet deadlines, obviously). We have a strong preference for writers who can deliver a high quality and quantity of work. Some of our writers do 10k words a week. We pay every 2 weeks, via PayPal, Wire Transfer, Chase QuickPay, and even Xoom.com</span></p><p><strong>To apply:</strong></p><p><span>To apply, please send a brief cover letter, relevant writing samples, and a basic intro to the topic “Small Business Guide to Email Marketing” &nbsp;to <span>[email&nbsp;protected]</span></span></p>          </div>          </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "iI2GkaWkSh673dzi99GI8Q",
+    "url": "https://news.ycombinator.com/item?id=17904602",
+    "title": "Datawire | Systems Engineer | Boston / Remote OK | Full-time | https://www.datawire.io",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:velocity/java/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=8, mobile=5, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/go",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c",
+      "go",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 10:10:12 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Datawire | Systems Engineer | Boston / Remote OK | Full-time | <a href='https://www.datawire.io' rel='nofollow'>https://www.datawire.io</a><p>We build open source tools for Kubernetes, including Ambassador (API Gateway built on Envoy Proxy) and Telepresence (CNCF Sandbox project for developers). We're looking for systems engineers who are comfortable coding and troubleshooting features at all areas of the systems and network stack. Do you know how to override DNS on Linux so that it points to the DNS in your Kubernetes cluster? Then this is a role for you. We code in C++, Golang, Kotlin, and Python. Past experience with Kubernetes, Envoy/NGINX/HAProxy, and/or open source projects a big plus.</p><p>We love people who are (or want to be) members of the Kubernetes/cloud-native open source community, and virtually all of our engineers have given talks at conferences such as KubeCon, Velocity, ApacheCon, DevOpsDays, and such.</p><p>Email careers@datawire.io.</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "t-k3PH07TU-lirrSqykk8A",
+    "url": "https://news.ycombinator.com/item?id=17904492",
+    "title": "REMOTE GitLab - We're hiring for developers, designers, product managers, site reliability engineers, and many ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 9:44:09 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>REMOTE GitLab - We're hiring for developers, designers, product managers, site reliability engineers, and many more roles, see <a href='https://about.gitlab.com/jobs/' rel='nofollow'>https://about.gitlab.com/jobs/</a> We're an all-remote company so everyone can participate and contribute equally. GitLab is an open-core application for the whole DevOps lifecycle with over 2000 contributors.</span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "JBCIMzk6R66QG8XH8cLYFw",
+    "url": "https://news.ycombinator.com/item?id=17904394",
+    "title": "Turimatic | Embedded Systems Developer | Remote / USA",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:embedded/c/3",
+      "DBG_TECH1:k/t/w:embedded/embedded/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=3, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=24, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 9:24:07 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Turimatic | Embedded Systems Developer | Remote / USA<p>→ We are a small hardware startup developing engineering calculators. We are looking for an embedded systems developer with mathematics background. We are obsessive in everything we do - from clarity of code to manufacturing.</p><p>→ You will have a direct impact through education and inspiring students, promoting STEM careers and ultimately helping scientists, researchers and engineers in their day to day lives.</p><p>→ If you're interested, please reach as input@turimatic.com</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "iNQF9jBdSxKNqA-aRN4x8g",
+    "url": "http://jobmote.com/jobs/24355-remote-devops-engineer",
+    "title": "REMOTE DevOps Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "TEKsystems",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 7:20:59 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>Job Description</p><p>MUST HAVES:</p><ol><li>Strong knowledge and experience working with AWS in the day-to-day management of RHEL, Ubuntu, or CentOS in an enterprise environment.<br></li><li>In depth capabilities within Terraform leveraged to describe, plan, and build infrastructure (namely AWS). Additional experience within Cloudformation, Chef, or Ansible(nice to have).<br></li><li>Working with continuous integration tools such as Jenkins/Gitlab.(scripting/programming within Python, Ruby, Java, or Node.JS<br></li><li>Familiarity with containerization tools: Docker, Kubernetes, or Docker Swarm.<br></li></ol><p>Must have prior remote work experience. Candidates who do not have any prior remote experience will not be considered for the role.</p><p>JOB DESCRIPTION:</p><p>The Sr. Production Engineer will join the 100% remote Cloud/DevOps Engineering team of our client. This business unit is dedicated to the development of the &quot;simulator,&quot; a tool and training program designed to educate company employee's to recognize ransomware or malicious phishing attempts. The &quot;simulator&quot; bases it's educational practices off of statistical behavioral analytics, developing a risk adverse mindset within employees to help avoid a successful &quot;phishing attack&quot;.</p><p>The cultural fit for the team would be an individual who is driven and hungry to learn. This person will work with and engage with other team members proactively. A strong addition to the team would be very communicative, and work with a passion to fully leverage the tech stack in order to ensure the software delivered to the end client is bar none. Buying into not only their role, but the growth of the organization and the product line as a whole.</p><p></p></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "CZRqQcb1RSyrW0W5-U-NpQ",
+    "url": "https://news.ycombinator.com/item?id=17903675",
+    "title": "ALL REMOTE GitLab - We're hiring for developers, designers, product managers, site reliability engineers, and ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 7:10:07 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>ALL REMOTE GitLab - We're hiring for developers, designers, product managers, site reliability engineers, and many more roles, see <a href='https://about.gitlab.com/jobs/' rel='nofollow'>https://about.gitlab.com/jobs/</a> We're an all-remote company so everyone can participate and contribute equally. GitLab is an open-core application for the whole DevOps lifecycle with over 2000 contributors.</span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "xw1jfRfRSi6qyRLnvJeBvQ",
+    "url": "https://news.ycombinator.com/item?id=17903665",
+    "title": "Marvelapp | https://marvelapp.com | DevOps Engineer | London, U.K. or REMOTE | Full-Time",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2018 7:08:07 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Marvelapp | <a href='https://marvelapp.com' rel='nofollow'>https://marvelapp.com</a> | DevOps Engineer | London, U.K. or REMOTE | Full-Time<p>At Marvel, we're on a mission to create an all-in-one design platform that democratises the design process, making it more productive, inclusive and fun. From aspiring creators to professional designers, nearly 2 million people across the globe are using Marvel to bring their ideas to life. Over 100,000 organisations access the platform regularly, including employees at over 75% of the Fortune 100.</p><p>We're looking for a DevOps person to help us build a platform and infrastructure to power the data and product pieces that scale to meet the needs of millions of our users. If you want to play a critical role at a fun, friendly, ambitious startup and help us turn into the platform that impacts millions then we'd love to hear from you!</p><p>More info. here: <a href='https://marvel.workable.com/j/93A5E99C4B' rel='nofollow'>https://marvel.workable.com/j/93A5E99C4B</a></p><p>I'm an engineer here at Marvelapp too, so feel free to mail me directly at sean@marvelapp.com if you have any questions</p><p>More about Marvel: - <a href='https://techcrunch.com/2016/12/08/marvel-lous/' rel='nofollow'>https://techcrunch.com/2016/12/08/marvel-lous/</a></p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "5sE5jXflTWCWgP1W5IDfTQ",
     "url": "https://news.ycombinator.com/item?id=17903307",
     "title": "Nylas – San Francisco, NYC or remote | Site Reliability Engineer | AWS, Ansible, Terraform | Full-time",
