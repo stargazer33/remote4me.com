@@ -1,6 +1,54 @@
 {
  "items": [
   {
+    "id": "W6n8unNRT4imBVP2Qt3NJA",
+    "url": "http://jobmote.com/jobs/24419-senior-developer-remote-possibilities",
+    "title": "Senior Developer (Remote Possibilities)",
+    "tags": [
+      "DBG:surround``2N( OR(feasibl,OR(consid,consider),occas,possibl), remot)",
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:unity3d/gamedev/8",
+      "DBG_TECH1:k/t/w:unity3d/mobile/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/gamedev",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "gamedev"
+    ],
+    "hiringOrganization": {
+      "name": "FitXR",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2018 3:20:47 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p><strong>Position Summary</strong></p><p>Are you passionate about gaming and fitness / sports? Do you want to get involved in combining games and technology to redefine fitness?</p><p>As a Senior Developer, you will be responsible for being an awesome generalist developing major game components, systems and tools as well as solving unique and challenging technical problems. You will collaborate closely with other development team members to create innovate fitness games and platform to transform the fitness gaming genre. As you will play a critical role in developing games and the platform, you will need exceptional knowledge and skills in many different aspects of game and technology development.</p><p>This is a permanent position based at our studio in South Bank, London, a 5 to 10 minute walk from London Waterloo and London Blackfriars. For the right candidate, this can be a part/fully remote position (UK only).</p><p><strong>About FitXR</strong></p><p>FitXR is a fitness game developer redefining the rules of fitness through technology and entertainment to enhance well being of the digital era. Our first product, BoxVR has won multiple awards and the game has been incorporated into players' lifestyle. We help burn calories and bring fun into fitness.</p><p>FitXR was founded in 2016 by two tech and game enthusiasts with passion for fitness. Teaming up with real fitness instructors, the team has grown to include developers and business leaders from some of the world's leading entertainment companies such as Electronic Arts, Sony, King and Media Molecule.</p><p><strong>Responsibilities</strong></p><ul><li>Work closely with other development team members to design, prototype and implement new game content and gameplay improvements from a technical perspective to result in efficient and scalable systems. </li><li>Help lead development planning including identifying technical risks/issues and coming up with solutions to overcome them. </li><li>Become an expert in the system and tools required for game development. </li><li>Assist with codebase maintenance to improve efficiency and maintainability of code. </li></ul><p><strong>Required Skills and Experience</strong></p><ul><li>Bachelor's degree in Computer Science or related discipline. </li><li>Experience with multiple disciplines of programming such as gameplay, system UI, tools, audio, etc. </li><li>Demonstrable games development experience on PC and console titles. Proven track record of successful releases. </li><li>Strong technical design skill, excelling in developing, documenting and communicating complex design ideas. </li><li>3+ years of experience with Unity. </li><li>Very strong debugging skills and proficient in identifying performance bottlenecks and ways to resolve them. </li><li>Flexibility and ability to adapt new technical challenges and changes. </li><li>Advanced understanding of the challenges multiplatform development brings. </li><li>Effectively communicate with people from wide range of expertise and responsibilities. </li><li>Strong analytical skills. </li></ul><p><strong>Desired Skills and Experience</strong></p><ul><li>Experience in prototyping and rapid iteration. </li><li>Experience with 3D asset content pipelines such as Maya </li><li>Experience in designing, developing and maintaining sound related systems. </li><li>Experience with Steam API and PSN. </li><li>Experience in VR / AR / MR software development. </li><li>Experience with PlasticSCM. </li><li>Passion for games, fitness, sports and music. </li></ul><p><strong>Benefits</strong></p><ul><li>Focussed, friendly and creative working environment. </li><li>Flexible office hours. </li><li>Competitive compensation (incl. stock) , perks, bonuses. </li><li>Fun team events. </li></ul><p>All candidates must be eligible to work in the UK.</p><p></p></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "uFiARO9mQW-Aa5xvX7A0AA",
     "url": "https://jobspresso.co/job/full-stack-marketing-developer/",
     "title": "Full-Stack Marketing Developer",
@@ -34,7 +82,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -87,7 +135,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -139,7 +187,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
@@ -187,7 +235,7 @@
       "maxValue": 0,
       "info": "",
       "unit": "UNSET",
-      "parser": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
       "isEquity": false
     },
     "employmentType": "UNSET",
