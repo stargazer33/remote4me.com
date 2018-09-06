@@ -1,6 +1,154 @@
 {
  "items": [
   {
+    "id": "rwIltefsSYSICql42a_hOQ",
+    "url": "https://news.ycombinator.com/item?id=17925988",
+    "title": "PeopleDoc| Software Engineer & Site Reliability Enginner, Engineering Manager | Paris | REMOTE | Full-time Our tech ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 6, 2018 3:17:09 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>PeopleDoc| Software Engineer &amp; Site Reliability Enginner, Engineering Manager | Paris | REMOTE | Full-timeOur tech stack : Python/Django, Java, Scala, Javascript/ember.js, PostgreSQL, Rabbit MQ, Redis, Openstack, AnsiblePeopleDoc is making the difficult job of HR easier through our cloud based HR Service Delivery platform The PeopleDoc's DNA is technology.<p>Our R&amp;D team is composed by more than 80 high-skilled people dedicated in delivering good code and being really active in the Opensource community.The team is completely autonomous and has all latitude to make its own choice. We believe in micro-service approach and zero down time deployment.</p><p><a href='https://www.welcometothejungle.co/companies/peopledoc/jobs' rel='nofollow'>https://www.welcometothejungle.co/companies/peopledoc/jobs</a></p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "HMIxf1qlR-qoDKRCSCfAng",
+    "url": "http://workinstartups.com/job-board/job/72724/devops-engineer-at-passfort/",
+    "title": "DevOps Engineer",
+    "tags": [
+      "DBG:surround``your W own W equip",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "PassFort",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 6, 2018 9:29:08 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "We’re looking for an experienced DevOps engineer to join a fast growing fintech startup.<br /><br />At PassFort, we share a powerful vision to enable businesses & individuals to establish trust online. We currently do this by giving regulated businesses the tools they need to automate and digitalise the onboarding, verification and management of their customers - that means customers can be onboarded in real-time, without ever having met in person. <br /><br />And this is just the beginning - our technology allows us to define what ‘trust’ means across the digital economy. Our long term aim is to create a single network where people and businesses can share their digital identity securely and interchangeably - whether they’re applying for a mortgage, listing on the stock market, or applying for a new job. We're transforming how trust is established online, in the same way that Salesforce transformed sales, Stripe transformed payments and AWS transformed DevOps.<br /><br />What you’ll be doing<br /><br />Having just closed Series A, we’re looking for a DevOps engineer to help us solve the exciting infrastructure challenges that come along with significant growth. We’re a critical part of our client’s infrastructure, and we therefore need to build and manage our production environments for performance, reliability and high availability. As you can imagine, the complexities of working with personal data means that security also remains a massive concern. <br /><br />You’ll take ownership of a range of strategic work including <br />* Driving improvements across our existing production infrastructure, based on Kubernetes and GCP, with a focus on scalability, monitoring and reliability.<br />* Supporting our engineering team, providing them the tools they need to deliver software quickly and effectively.<br />* Building a strategy to support PassFort’s massive growth ambitions (in customers, geographies, applications, and team!).<br />* Supporting our new data team in building and running ETL and data warehousing solutions.<br />* Being the resident DevOps expert, providing advice to the team and managing third party relationships.<br /><br />This offers a fantastic opportunity to join us at a critical stage, you’ll be able to bring your expertise into how we build out our systems, and see the direct impact of your ideas and initiatives.<br /><br />What tech will you be using?<br /><br />Our current infrastructure is hosted on Google Cloud, using technologies like Docker, Kubernetes, RabbitMQ and PostgreSQL. Our application utilises a microservices architecture, and is built within python and rust.<br />You’ll also be experimenting with new technologies, across our stack. You’ll work with the data team to pick the best tooling for warehousing and ETLs, as well as constantly investigating tools to help manage our core platform.<br /><br />What we’re looking for<br /><br />* 5+ years experience building scalable infrastructure including experience with<br />Kubernetes and Docker<br />* Production experience on Google Cloud<br />* Microservices architecture, complex distributed systems<br />* Passionate about infrastructure and delivery for short and long term goals<br />* Able to maintain services by measuring and monitoring availability, performance and overall health<br />* Great people skills to engage and empower software developers to build and deliver their services<br /><br />The Perks<br /><br />* Equity! We want you to succeed as we do<br />* Great location - we’re central to three stations, and sandwiched between Brick Lane and Spitalfields market<br />* An annual learning & development budget to spend on professional or personal development, we’re invested in both<br />* Birthday off - relax and put your feet up<br />* Dental cover<br />* Access to Perkbox - discounts to services and products (and honestly it’s fantastic)<br />* Equally Enhanced Maternity/Paternity/Shared Leave pay <br />* Generous holiday entitlement<br />* Pension contributions - investing in your future is important<br />* Pick your own equipment and kit<br />* Biscuits… we’re a bit obsessed. We have a weekly ‘guest’ biscuit to broaden your biscuit horizons.<br />",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "YxPiPuVJSVSASGun5dVbfw",
+    "url": "https://remote.co/job/senior-product-engagement-engineer/",
+    "title": "Senior Product Engagement Engineer",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=12, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "GitHub",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 5, 2018 7:46:26 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Senior Product Engagement Engineer at <span>GitHub</span></h2><div><span><i></i> Remote</span>         | <span> International </span></div><div>            <p><strong>Location: Remote – Global</strong></p><p>GitHub is looking for a Senior Product Engagement Engineer to work with our Product Engagement team to help build new and augment existing workflows on GitHub to make our customers’ lives easier.</p><p>In this position, we will pair you with product managers on the Product Engagement team and you’ll work with Ecosystem Engineering leadership directly. We are dedicated to making a positive impact at work and at large and you should too.</p><p>The GitHub Engineering and Product Management organizations are highly distributed so you should embrace an environment of asynchronous communication. We expect you to have strong communication skills and be able to collaborate effectively with coworkers in locations around the globe.</p><p>Our team members span a variety of timezones, genders, races, cultures, disability statuses, sexual orientations, family responsibilities, experience levels, professional backgrounds, personality types, and more. You’re expected to excel in working relationships with people different than you.</p><p><strong>Responsibilities:</strong></p><ul><li>You write, review, and maintain application code primarily in Ruby and Javascript. You’ll be working in many different parts of GitHub’s system.</li><li>You collaborate with our product teams, design teams, and technology leadership to build first-class experiences and improve existing features to help developers of all kinds build better software on GitHub.</li><li>You document the systems you help build to ensure others can understand why we made changes and how it impacts their areas.</li><li>You help scale the Product Engagement engineering team by playing an active role in recruiting and mentoring engineering talent</li><li>You aim to deeply understand our users, focusing on the why.</li></ul><p><strong>Qualifications:</strong></p><ul><li>At least 5 years experience developing web applications at scale.</li><li>Experience and comfort working in Ruby on Rails.</li><li>Experience with Javascript and front-end client libraries.</li><li>SQL and general database knowledge.</li><li>Experience with RESTful API design and/or GraphQL.</li><li>Proven understanding of testing principles.</li><li>Strong interpersonal skills both written and verbal (particularly as part of a remote team).</li></ul><p><strong>Who We Are:</strong></p><p>GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over 24 million people use GitHub to build amazing things together across 67 million repositories. With the collaborative features of GitHub.com and GitHub Business, it has never been easier for individuals and teams to write faster, better code.</p><p><strong>What We Value:</strong></p><ul><li><em>Collaboration:</em>&nbsp;We believe the best work is done together.</li><li><em>Empathy:</em>&nbsp;We believe in putting people first.</li><li><em>Quality:</em>&nbsp;We believe in setting the standard for excellence.</li><li><em>Positive Impact:</em>&nbsp;We believe in making the world a better place through our work.</li><li><em>Shipping:</em>&nbsp;We believe in creating things for the people using them.</li></ul><p><strong>Why You Should Join:</strong></p><p>At GitHub, we constantly strive to create an environment that allows our employees (Hubbers) to do the best work of their lives. We’ve designed one of the coolest workspaces in San Francisco (HQ), where over half of our Hubbers work, snack, and create daily. The other half of our Hubbers work remotely in 18 countries across the globe. Here is a complete list of where we can hire!</p><p>We are also committed to keeping Hubbers healthy, motivated, focused and creative. We’ve designed our top-notch benefits program with these goals in mind. In a nutshell, we’ve built a place where we truly love working, we think you will too.</p><p>GitHub is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people of all walks of life. We don’t discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there’s any way we can make the interview process better for you; we’re happy to accommodate!</p><p><strong>Where We Can Hire</strong></p><p><em>Please note that benefits vary by country, if you have any questions, please don’t hesitate to ask your Talent Partner.</em></p>        </div><div>        <a href='https://boards.greenhouse.io/github/jobs/1309195' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "B8gUoUmlT3CfIrzuz1xdKA",
     "url": "http://jobmote.com/jobs/24612-systems-engineer-remote",
     "title": "Systems Engineer-REMOTE",
@@ -2031,59 +2179,6 @@
     }
   },
   {
-    "id": "Izrq-R4cQ2WLF6TJlVClZA",
-    "url": "https://stackoverflow.com/jobs/151620/ruby-developer-rean-cloud?a=OQCbZQVb4XK",
-    "title": "Ruby Developer at REAN Cloud (Herndon, VA) ",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``3N(locat,remot)",
-      "DBG_TECH1:k/t/w:embedded/c/1",
-      "DBG_TECH1:k/t/w:embedded/embedded/8",
-      "DBG_TECH1:k/t/w:rake/ruby/8",
-      "DBG_TECH1:k/t/w:rspec/ruby/8",
-      "DBG_TECH1:k/t/w:ruby-developer/ruby/39",
-      "DBG_TECH1:k/t/w:ruby/ruby/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=1, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=65, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "REAN Cloud",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 29, 2018 7:31:53 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h2><span>Ruby Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud Computing, Digital Health, Education Technology</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>201-500 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: REAN Cloud | Herndon, VA<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Herndon, VA.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div></div><div>amazon-web-services</div><div>ruby</div><div>docker</div><div>automation</div>                <h3>Job description</h3>                <div><p><span>REAN Cloud, a major player in the AWS Partner Network is growing substantially and looking for a strong&nbsp;</span><strong>Ruby Developer</strong><span>&nbsp;to join our talented team.&nbsp;REAN Cloud&nbsp;works with enterprise level organizations on some of the world’s largest automation and cloud deployment projects.&nbsp; You would be embedded into a talented, senior team providing best-in-class solutions for extremely complex issues and have the ability to work with cutting edge technology platforms and tools.</span></p><p><span>Ideally, we are looking for a professional with experience in automating large scale deployments with modern configuration and deployment management systems. You will be working on a team of talented engineers to solve some of the most complex and exciting challenges facing the world of IT Automation and cloud deployments.</span></p><p><strong>Must-Have Skills</strong></p><ul><li><span>Bachelor’s Degree in Computer Science, Information Technology or equivalent work experience</span></li><li><span>5+ years using Ruby, and 2+ years building libraries or frameworks</span></li><li><span>2+ years experience with Docker</span></li><li><span>2+ years experience with Rake</span></li><li><span>2+ years experience with RSpec</span></li><li><span>2+ years experience writing Unit tests and Integration tests</span></li><li><span>2+ years Cloud experience (Amazon Web Services)</span></li><li><span>2+ years automation experience using Jenkins</span></li></ul><p><strong>Desired Skills</strong></p><ul><li><span> Experience with:</span></li><ul><li><span>Jenkins Job DSL</span></li><li><span>Jenkins Pipeline DSL</span></li><li><span>Experience writing tools for developers</span></li></ul></ul><p><span>Perks of your working life at REAN:</span></p><ul><li><span>Health, Dental, Vision and Life Insurance company provided</span></li><li><span>401k retirement plans</span></li><li><span>Flexible working hours and ability to work from home on occasion</span></li><li><span>Comfortable and exciting office atmosphere promoting innovation</span></li><li><span>Ability to directly impact a growing business</span></li></ul><p><br><span>If interested, send us your resume at </span><span><a href='mailto:careers@reancloud.com' rel='nofollow'>careers@reancloud.com</a></span></p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/151620?reset=False&amp;ra=OQCbZQVb4XK&amp;oqs=a%3DOQCbZQVb4XK' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About REAN Cloud</h3>            <div><p>REAN Cloud, a Premier AWS Partner is growing substantially and looking for a highly driven individual with excellent leadership qualities to support our talented sales team. REAN Cloud works with startups to enterprise level organizations providing best in class solutions for some of the world’s largest cloud integration projects. Companies near and far are looking to the cloud for simplicity in business, instantaneous data retrieval and constant collaboration beyond boundaries. &nbsp;REAN Cloud is on the forefront of this market and our services are in demand. &nbsp;The REAN Cloud Sales team is responsible for identifying, qualifying and capturing the business of companies taking their infrastructure to the cloud.</p><p>For any further information, please visit our website at or contact us at <a href='mailto:info@reancloud.com' rel='nofollow'>info@reancloud.com</a> or +1 (844) 377-7326.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>health</span>                            </li>                            <li>                                <span></span>                                <span>agressive bonuses</span>                            </li>                            <li>                                <span></span>                                <span>Work Remotely!</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Hours</span>                            </li>                            <li>                                <span></span>                                <span>Budget for Tech Conferences</span>                            </li>                            <li>                                <span></span>                                <span>Dental, Vision</span>                            </li>                            <li>                                <span></span>                                <span>401(k)</span>                            </li>                            <li>                                <span></span>                                <span>Exercise Competitions</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "lpR8lZWiRMWDgpPZ1mQzfg",
     "url": "https://react.42jobs.io/jobs/1597-product-engineer-react-js-react-native",
     "title": "Product Engineer - React JS / React Native",
@@ -3181,51 +3276,6 @@
     }
   },
   {
-    "id": "WUZLzWh-Tu6jpZAPpRJVBw",
-    "url": "https://stackoverflow.com/jobs/200254/sr-it-specialist-linux-aws-google-cloud-upcurve-cloud?a=159R7zvUInh6",
-    "title": "Sr. IT Specialist (Linux/AWS/Google Cloud) at UpCurve Cloud (Austin, TX) ",
-    "tags": [
-      "DBG:surround``3N(locat,remot)",
-      "DBG_TECH1:k/t/w:php/php/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UpCurve Cloud",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 24, 2018 7:56:26 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h2><span>Sr. IT Specialist (Linux/AWS/Google Cloud)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                    </div>                <div>Company: UpCurve Cloud | Austin, TX<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Austin, TX.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                        <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h3>Technologies</h3><div>linux</div><div>aws</div><div>gcp</div><div>php</div><div>apache</div><div>sysadmin</div>                <h3>Job description</h3>                <div><p>Come join UpCurve Cloud and help shape the future of Cloud Computing.</p><p>We are a rapidly growing Cloud Services Provider specializing in application hosting and CRM application development. &nbsp;</p><p>If you are a curious, team-oriented DevOps specialist who likes to learn new technologies and solve interesting problems while providing outstanding service to customers and users, then we would love to talk with you.. &nbsp;</p><p>To qualify for our position, you need to have:</p><ul><li>A solid track record as a Linux system administrator</li><li>Experience installing and configuring Apache, MySQL and PHP</li><li>Experience working with Amazon Web Services and/or Google Cloud Platform</li><li>Excellent verbal and written communication skills</li></ul><p>If you have AWS, and/or GCP certifications, that's a big plus, but not a requirement.</p><p>This position is based in our office in Austin, Texas or remote. &nbsp;We provide a competitive salary, a fun, open work environment, fully-stocked kitchen with snacks and drinks, and an outstanding package of health and retirement benefits.</p>                </div>            <div>        <a href='https://upcurvecloud.applytojob.com/apply/io0Cz8YHIQ/Sr-IT-Specialist-LinuxAWSGoogle-Cloud?source=STCK' rel='nofollow'>                        Apply now        </a></div>            <h3>About UpCurve Cloud</h3>            <div><p>UpCurve Cloud is a rapidly growing Cloud Services Provider specializing in application hosting and CRM application development.</p>            </div>        ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "eHQxq4kmThyF6lAA89wAOg",
     "url": "https://stackoverflow.com/jobs/129050/aws-devops-engineer-semanticbits?a=HhjT6ROiCPu",
     "title": "AWS DevOps Engineer at SemanticBits (Herndon, VA) ",
@@ -4304,58 +4354,6 @@
     }
   },
   {
-    "id": "BW7vof26Sz-KntA6OT1qBw",
-    "url": "https://stackoverflow.com/jobs/196930/drupal-cloud-developer-platformsh?a=142JXv2Et0ic",
-    "title": "Drupal Cloud Developer at Platform.sh  ",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG:surround``OR(work,2W(work,remot)) 3W from 2W OR(wherev,wherev,where)",
-      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:drupal/php/40",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:techWeightMap:{python=6, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=2, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=45, embedded=0, frontend=2}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Platform.sh",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 24, 2018 7:56:26 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h2><span>Drupal Cloud Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud-Based Solutions, Continuous Delivery, PaaS</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Platform.sh | No office location<br></div><h3>Technologies</h3><div></div><div>cloud</div><div>python</div><div>drupal</div>                <h3>Job description</h3>                <div><p><strong>Mission</strong></p><p>We're looking for a senior Drupal developer with significant experience in back-end development of Drupal sites, especially with experience in the e-commerce arena. We're looking to add build features, upgrade and maintain our existing systems, as well as plan for a transition where pieces of these systems are either migrated to Drupal 8 or other new solutions over the course of the next couple years. All of this work is intimately connected to the rest of our cloud hosting and devops tooling product -- interest in the &quot;devops&quot; problem space and solving problems for our cloud customers is key. Our team stands at the forefront of user experience, as well as new features being offered to our customers and partners. Being comfortable tackling programming problems from the architecture level all the way down to proper code implementation is a big plus -- the team is small, the to-do list long, and engineers generally have a great deal of autonomy to implement features and drive the product forward. &nbsp;Your contribution matters.&nbsp;</p><p><strong>Must Have</strong></p><p>- Senior-level experience with Drupal back-end development (both 7 and 8 ideally) -- custom modules and product/feature builds in Drupal</p><p>- Desire to tackle feature implementation and user experience design challenges from a high-level user story view through final implementation</p><p>- Solid experience with web development patterns and the needs of engineers using a web app development and hosting tool</p><p><strong>Nice to have</strong></p><p>- Familiarity with the other languages in our stack (Javascript, Go, Python)</p><p>- Experience or interest in the &quot;cloud computing&quot; stuff that makes up our back end, anything from distributed computing to networking to devops and the big box that is &quot;make a bunch of Linux containers play nicely together&quot;</p>                </div>            <div>        <a href='https://grnh.se/7ecddeb52' rel='nofollow'>                        Apply now        </a></div>            <h3>About Platform.sh</h3>            <div><p>Platform.sh is a next-generation hosting and development tool for a wide variety of web applications. Our platform-as-a-service model is designed to take an application from the developer's app codebase to a working set of cloud environments with as few traditional &quot;devops&quot; challenges as possible. This involves a lot of really cool software (mostly written in a mix of Python and Go, and with user-facing tools in PHP and Javascript) that helps us make magical features at all layers of the traditional hosting stack: distributed and redundant storage, automated container orchestration, highly-available applications and services, fast creation and replication of environments, etc.</p><p>The company is entirely distributed with an HQ in Paris that 10-15% of the company works out of. Various team meetups or occasional get togethers both there and around the world are common.</p><p>Travel to various developer-oriented events available to developers who are interested in conferences both, for marketing and educational purposes.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Work from home, wherever you are</span>                            </li>                            <li>                                <span></span>                                <span>Safe and friendly working environment</span>                            </li>                            <li>                                <span></span>                                <span>Stock options for everyone</span>                            </li>                            <li>                                <span></span>                                <span>Rest and recovery are essential to health and happiness; we get that</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "iOoN5DFjQJKZVaohr9fVzg",
     "url": "https://stackoverflow.com/jobs/196174/system-engineer-amazee?a=13N1m4hHVXKE",
     "title": "System Engineer at Amazee  ",
@@ -4453,63 +4451,6 @@
     "published": "Aug 24, 2018 7:56:26 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<h2><span>Remote DevOps/Automation Engineer (Node.js/Terraform/Docker/Kubernetes)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead, Manager</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Communications, Education Technology, Higher Education</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Aula | No office location<br></div><h3>Technologies</h3><div></div><div>node.js</div><div>docker</div><div>terraform</div><div>amazon-web-services</div>                <h3>Job description</h3>                <div><p><strong><strong>Application deadline: August&nbsp;24 </strong>&nbsp;</strong></p><p><strong>The short version ⏳</strong></p><p>Job to be done: Implementing a fully automated CI/CD pipeline and institutional deployment at (massive) scale. Working directly with our CTO, Oliver, as our first DevOps engineer.&nbsp;&nbsp;</p><p>Our DevOps tools: Docker/Kubernetes, Terraform, AWS, Node.js, our internal CLI.</p><p>What is Aula: remote-first 20-person startup building digital campuses for universities - think 'Slack for education'. Consumer tech frontend, complex infrastructure backend. We recently raised $4.2m in funding.</p><p><strong>About you </strong></p><p>We’re excited to tell you about Aula and what we’re working on, but first of all, let us explain who we’re looking for.</p><p>Traits we value:</p><ul><li>You’re curious and care deeply about building great products that affect people’s lives.</li><li>You are excited about joining a 20-person startup with all the ups, downs and ownership that entails.</li><li>You are transparent, reliable and considerate.</li><li>You have a passion for making developers’ lives easier and happier</li></ul><p>Other requirements</p><ul><li>Thorough knowledge of CI/CD Tooling</li><li>Programming experience in Node.js</li><li>Extensive experience in designing Unix/Linux system architecture</li><li>Deep expertise in deploying cloud solutions (AWS etc)</li><li>Solid experience with containerisation technologies (Docker, Kubernetes)</li><li>Experience with Terraform and other Hashicorp products.</li><li>Experience with production databases management and deployments</li><li>You live within GMT-5 and GMT+5.5 (from South America/Central US time to India, Pakistan and some of Russia) for us to be awake at the same time.</li></ul><p><strong>The role - our first DevOps engineer </strong></p><p>We’re looking for a seasoned developer that can take the lead on creating a fully automated DevOps setup to make our developer team really happy. &nbsp;</p><p>Here’s a snapshot of what you’ll be working on:</p><ul><li>Infrastructure deployment/management:</li><ul><li>Management of our current infrastructure.</li><li>Monitoring of our resources: dozens of network interfaces, hundreds of servers, dozens of databases, etc.</li><li>Deployment of new infrastructure resources (new institutional environments)</li></ul></ul><ul><li>Tooling</li><ul><li>Integrate all the automation around infrastructure/deployments into the Aula-CLI</li><li>Create new tools to ease other developers’ lives/deployments</li></ul></ul><ul><li>Deployment/test pipeline</li><ul><li>Create/maintain the right pipeline in order to ensure maximal automation around running our tests and deployments</li><li>Full CI/CD pipeline</li></ul></ul><p>We already use a number of solutions for automating repetitive and/or critical tasks. All our infrastructure is managed via Terraform, and we’ve built a custom CLI that automates deployments, automates parts of the development and allow for easy troubleshooting and local development.</p><p>A big part of the role is to continue building on top of those existing tools and to bring new ones that would fit our environment and needs.</p><p>2 main rules:</p><ul><li>Infrastructure as (reusable) code</li><li>Automate all the things!</li></ul><p><strong>About us </strong></p><p>Aula is a communication platform for education. Think ‘Slack for education’: consumer tech on the front-end yet complex infrastructure on the back-end. We’ve built Aula because we believe digital learning infrastructure should encourage community and participation-based learning.</p><p>For students, this means less one-way communication from the teacher, more collaboration with fellow students (using integrations with tools like GitHub and <a href='https://codepen.io/' rel='nofollow'>codepen</a>) and easier access to student services like the welfare team - even if you’re commuting or are away from campus on a placement. We’ve recently raised a $4.2m seed round and some people think we’re <a href='https://www.techworld.com/picture-gallery/startups/edtech-startups-watch-3643555/' rel='nofollow'>worth watching out for</a>.</p><p><strong>Our team  </strong></p><p>We’re a bunch of people from all over the world (Denmark, Philippines, France, Albania, Georgia, Pakistan, Sweden, India, UK and US) that care deeply about making educational experiences more engaging. Our developers have previously lead teams that have built things like the Georgian version of Youtube (<a href='https://www.myvideo.ge/' rel='nofollow'>myvideo.ge</a> with 2.5 million monthly unique viewers) and a novel way to share and view 3D medical images (<a href='https://www.frontiersin.org/articles/10.3389/fneur.2013.00085/full' rel='nofollow'>TissueStack</a>), so beyond focusing on creating a supportive and collaborative environment where features get shipped quickly, we also have quite a bit of experience.</p><p>You’ll be working closely with Oliver, our CTO, so we thought we’d <a href='https://cl.ly/2i0V3z453H2K' rel='nofollow'>put a face on him</a>.</p><p>We are backed by a world-class team of investors such as Project A, Nordic Makers (an angel group including Co-founders of Unity and Zendesk) and executives from LinkedIn and IBM.</p><p><strong>Our tech stack </strong></p><p>We only use the bleeding edge tools to build educational infrastructure of the 21st century. We’ve explained it in more detail in <a href='https://blog.aula.education/bringing-educational-infrastructure-into-the-21st-century-the-stack-be66b1a743c0' rel='nofollow'>this blog post</a>, but here’s a quick overview of what we’re building with:</p><ul><li>React (and React Native)</li><li>Microservices backends with Node.js and AWS</li><li>Docker</li><li>ES6/7 Javascript</li><li>Redux</li><li>Mongo, Redis and others dbs</li></ul><p>For DevOps in particular, you’ll be working with tools like</p><ul><li>Terraform (‘infrastructure as code’)</li><li>Multiple database types</li><li>General Javascript including Node.js</li><li>Docker</li><li>AWS</li><li>Our internal CLI</li></ul><p><strong>Working at Aula </strong></p><p>We think the most important variable in choosing a job is getting the chance to work on complex and important problems with friendly and curious people in a collaborative environment.</p><p>But beyond that, joining Aula also means</p><ul><li>A rare opportunity to build a DevOps setup from the ground up</li><li>Being part of a fast-paced and mission-driven startup made up of a creative, friendly and international team.</li><li>Plenty of responsibility, autonomy and encouragement to shape your own tasks and contribute original ideas.</li><li>A supportive environment with an intense focus on learning and improvement</li></ul><p>You’ll be doing pair programming, have one-on-ones where we speak about how to develop you both as a programmer and a leader, and occasionally jump on a video call and share a ‘remote meal’ while a team member speaks about a topic they care about.</p><p><strong>Interview process </strong></p><p>Get an overview of our untraditional and&nbsp;<a href='https://www.notion.so/aulaeducation/Async-engineering-interviews-at-Aula-bce436a4230c4f0d8b19bc717232d289' rel='nofollow'>mostly async interview process here</a>.</p><p>Please start your application with the words ‘Infrastructure as Reusable Code’ to show that you took your time to read all of this </p><p>Look forward to hearing from you,</p><p>The Aula team </p>                </div>            <div>        <a href='https://aulaeducation.recruitee.com/o/devopsautomation-engineer' rel='nofollow'>                        Apply now        </a></div>            <h3>About Aula</h3>            <div><p>Aula is a communication platform for education. Think ‘Slack for education’: consumer tech on the front-end yet complex infrastructure on the back-end. We’ve built Aula because we believe digital learning infrastructure should encourage community and participation-based learning.</p><p>For students, this means less one-way communication from the teacher, more collaboration with fellow students (using integrations with tools like GitHub and&nbsp;<a href='https://codepen.io/' rel='nofollow'>codepen</a>) and easier access to student services like the welfare team - even if you’re commuting or are away from campus on a placement. We’ve recently raised a $4.2m seed round and some people think we’re&nbsp;<a href='https://www.techworld.com/picture-gallery/startups/edtech-startups-watch-3643555/' rel='nofollow'>worth watching out for</a>.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Work on hard and important problems with people who care </span>                            </li>                            <li>                                <span></span>                                <span>Remote: full flexibility to live and work wherever you please </span>                            </li>                            <li>                                <span></span>                                <span>Get set up with technology you need to do your best work </span>                            </li>                            <li>                                <span></span>                                <span>Receive a small stipend for any training you would like to do </span>                            </li>                            <li>                                <span></span>                                <span>1-3 months of family leave </span>                            </li>                            <li>                                <span></span>                                <span>Own a part of Aula </span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "YZslHbcdQNWw0_y6z3Q-xw",
-    "url": "https://stackoverflow.com/jobs/170484/cloud-developer-hazelcast?a=VaQSnT92XvO",
-    "title": "Cloud Developer at Hazelcast  ",
-    "tags": [
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``OR(no,no W central) W offic",
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java-developer/java/13",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:jvm/java/13",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:spring/java/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=44, gamedev=0, php=0, embedded=0, frontend=9}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/admin",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Hazelcast",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "$",
-      "minValue": 70000,
-      "maxValue": 100000,
-      "info": "Equity",
-      "unit": "YEAR",
-      "parser": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 24, 2018 7:56:26 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h2><span>Cloud Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer, DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Big Data, Cloud-Based Solutions, Enterprise Software</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Hazelcast | No office location<br></div><h3>Technologies</h3><div></div><div>java</div><div>kubernetes</div><div>docker</div><div>spring</div><div>amazon-web-services</div>                <h3>Job description</h3>                <div><p>Do you enjoy any of the following?</p><ul><li>Solving complex problems.</li><li>Implementing non-trivial infrastructure code.</li><li>Creating well crafted and&nbsp;thoroughly&nbsp;tested features, taking full-responsibility from the design phase.</li><li>Paying attention to all aspects of code quality, from clean-code, to allocation-rates.</li><li>Digging into mechanical sympathy concepts.</li></ul><p>At Hazelcast you will work with the best engineers out there.&nbsp;</p><ul><li>Who delve into JVM code.</li><li>Who implement and&nbsp;scrutinize&nbsp;garbage collection algorithms.</li><li>Who take any piece of software and multiply its performance by applying deep technical understanding.&nbsp;</li><li>Who regularly squash bugs in the depths</li></ul><p>We are looking for people who can deliver solid production code.&nbsp;You may either work in our office in London,&nbsp;Istanbul or code remotely from a home office in European timezone.</p><p>We would like you to:</p><ul><li>Be a senior Java engineer&nbsp;- including all aspects connected to it.</li><li>Be skeptical yet always open to new concepts.</li><li>Have strong opinions about software quality.</li><li>Be an excellent communicator in written and spoken English.</li><li>Familiarity with container and orchestration technologies is required (Docker, Kubernetes)&nbsp;</li><li>Experience on cloud platforms is required. (AWS, Azure or Google Compute Engine)</li><li>Experience with Spring framework is required.</li><li>Experience on React JS is a plus.</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/170484?reset=False&amp;ra=VaQSnT92XvO&amp;oqs=a%3DVaQSnT92XvO' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Hazelcast</h3>            <div><p><strong>ABOUT 111</strong></p><p>Hazelcast is the leading open source in-memory data grid, but it is also the name of our company. How do we define Hazelcast the company?</p><p>Immediately when you use the product, you notice that it is simple to use, that the code has been provided under an open source license and other details. Hazelcast nodes join together to form a cluster that is more powerful than any individual node. These qualities go beyond the Hazelcast project and are the basis for the culture of the company.</p><p><strong>OUR FOUNDER:</strong></p><p>Talip Ozturk, founder of Hazelcast describing 111:</p><p>I created Hazelcast 111 to define the unique “kernel” of Hazelcast company culture that is designed to scale as the company grows.</p><p>Hazelcast&nbsp;111&nbsp;(one-eleven) is the cultural&nbsp;”source code” for the company. The name is derived from the idea that&nbsp;1 + 1 + 1 can equal more than 3, that together we can be much more&nbsp;powerful than we are alone.These principles are expected to govern the professional behavior of&nbsp;Hazelcast team members and set expectations with the greater Hazelcast&nbsp;community about what they can expect when working with our team. New team members will be interviewed for cultural fit and we strive to make Hazelcast a great place to work for those who share these&nbsp;principles.</p><p><strong>111 PRINCIPLES:</strong></p><p><strong>1. Quality</strong></p><p><strong>Strive for work products that are reliable, stable and free of defects</strong></p><p><strong>2. Positivity</strong></p><p><strong>Solve problems or communicate about them in a constructive way.</strong></p><p><strong>3. Scalable Thinking</strong></p><p><strong>Make things work well as they scale up or down.</strong></p><p><strong>4. Bias Towards Simplicity</strong></p><p><strong>Try to make things as simple as possible.</strong></p><p><strong>5. Humility</strong></p><p><strong>Assume other Hazelcast community members are smart.</strong></p><p><strong>Give credit to the ideas and work of others first.</strong></p><p><strong>6. Honesty</strong></p><p><strong>Say what needs to be said even if it is difficult. Have hard conversations.</strong></p><p><strong>7. Ownership</strong></p><p><strong>Own your projects. Deliver on time.</strong></p><p><strong>Coordinate with anything that delivery depends on</strong></p><p><strong>Escalate when you are stuck</strong></p><p><strong>8. Community Focus</strong></p><p><strong>Seek to improve the lives of Hazelcast team members, customers and users.</strong></p><p><strong>9. Commitment</strong></p><p><strong>Participate in the decision process</strong></p><p><strong>Contribute to success even if you disagreed with the decision outcome</strong></p><p><strong>FEELS GOOD<br></strong></p><p>The correct implementation of&nbsp;111&nbsp;FEELS GOOD to team members, customers, partners, investors and open source users of Hazelcast. The test of&nbsp;111&nbsp;is whether it feels good. If it does not feel good, we need to improve either or both of our implementation or specification of&nbsp;111.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Medical, Dental and Vision Plans</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Spending Accounts (FSA)</span>                            </li>                            <li>                                <span></span>                                <span>Commuter Benefits</span>                            </li>                            <li>                                <span></span>                                <span>Health Savings Accounts (HSA)</span>                            </li>                            <li>                                <span></span>                                <span>Employee Assistance Program (EAP)</span>                            </li>                            <li>                                <span></span>                                <span>Life Insurance, Voluntary Benefits, etc.</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
