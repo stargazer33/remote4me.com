@@ -5995,7 +5995,9 @@ img {
 -------------------------------------------------------------- */
 header {
   background: none #fff;
+  /*
   border-bottom: solid 1px #cccccc;
+  */
 }
 header .container {
   position: relative;
@@ -6045,7 +6047,7 @@ header .container {
   border-bottom: solid 1px yellow;
 }
 .navbar {
-  margin: 36px 0px;
+  margin: 36px 0px 0px 0px;
   background-color: transparent !important;
   border: none !important;
   background-color: transparent;
@@ -6074,7 +6076,9 @@ header .container {
   float: left;
   margin: 0 8px 0 0;
   height: 90px;
+  /**
   width: 54px;
+  */
   padding-top: 16px;
   padding-bottom: 22px;
 }
@@ -6094,7 +6098,7 @@ header .container {
   text-shadow: 1px 1px 0px #ffffff;
 }
 .navbar .nav {
-  margin: 27px 0 0 0;
+  margin: 0 0 0 0;
 }
 .navbar .nav li a {
   margin: 0 3px;
@@ -8106,7 +8110,7 @@ blockquote p {
   }
   .navbar a.navbar-brand {
     width: 280px;
-    margin: 0px 0 10px 15px;
+    margin: 0px 0px 0px 15px;
   }
   .navbar a.navbar-brand:link,
   .navbar a.navbar-brand:visited {
