@@ -147,7 +147,7 @@ div.homepage-f3 {
 }
 .reportthisjob-modal input[type=checkbox]:focus:before,
 .reportthisjob-modal input[type="radio"]:focus:before {
-    box-shadow: 0 0 0 1px #428bca, 0 0 0 6px #428bca inset,0 0 0 11px #fff inset;
+    box-shadow: 0 0 0 1px #428bca, 0 0 0 1px rgba(0,0,0,.9) inset;
 }
 
 
@@ -326,4 +326,13 @@ tr.detail-view {
 }
 td.detail-td {
     width: 56px;
+}
+
+.abuse-btn span {
+    position: relative;
+    bottom: 3px;
+}
+
+.fa-flag-o:before {
+    margin-right: 3px;
 }
