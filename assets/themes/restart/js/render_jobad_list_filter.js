@@ -102,7 +102,7 @@ $(document).ready(function () {
             var button = $(event.relatedTarget);
                 currentJobId = button.data('postid');
                 tagCurrent = button.data('tagcurrent');
-        })
+        });
 
         // Initialize Firebase
         var config = {
@@ -155,11 +155,23 @@ function postReport(type) {
             tagShould: type,
             userEmail: user.email
         };
-        firebase.database().ref('job-remote-error/' + user.uid + '_' + currentJobId).set(reportObj, function(error) {
-            if (error) {
-                console.log('failed to set database: ', error);
-            }
+
+        var db = firebase.firestore();
+
+        // Disable deprecated features
+        db.settings({
+            timestampsInSnapshots: true
         });
+
+        db.collection("job-remote-error").add(reportObj)
+            .then(function(docRef) {
+                console.log("Document written with ID: ", docRef.id);
+            })
+            .catch(function(error) {
+                console.error("Error adding document: ", error);
+            });
+
+        $('#reportthisjob-modal').modal("hide");
     } else {
         console.log('noauth');
     }
