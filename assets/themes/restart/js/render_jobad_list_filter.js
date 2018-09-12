@@ -19,6 +19,9 @@ var mapIdToJob = new Map();
 var json_data_original = [];
 var detailFormatterTemplate = null;
 
+var currentJobId = null;
+var tagCurrent = null;
+
 /**
  * runs when page load complete
  */
@@ -96,8 +99,9 @@ $(document).ready(function () {
         detailFormatterTemplate = Handlebars.compile(source);
 
         $('#reportthisjob-modal').on('show.bs.modal', function (event) {
-            var button = $(event.relatedTarget),
-                recipient = button.data('postid');
+            var button = $(event.relatedTarget);
+                currentJobId = button.data('postid');
+                tagCurrent = button.data('tagcurrent');
         })
 
         // Initialize Firebase
@@ -141,6 +145,26 @@ $(document).ready(function () {
         console.log(err);
     }
 });
+
+function postReport(type) {
+    var user = firebase.auth().currentUser;
+    if (user) {
+        var reportObj = {
+            jobId: currentJobId,
+            tagCurrent: tagCurrent,
+            tagShould: type,
+            userEmail: user.email
+        };
+        firebase.database().ref('job-remote-error/' + user.uid + '_' + currentJobId).set(reportObj, function(error) {
+            if (error) {
+                console.log('failed to set database: ', error);
+            }
+        });
+    } else {
+        console.log('noauth');
+    }
+
+}
 
 function onLoadDataFile(data){
     console.log('data loaded');
@@ -486,7 +510,13 @@ function tableLoad(isFirstLoad) {
  * @return {string} table detail as HTML
  */
 function detailFormatter(index, jobAd) {
-    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id};
+    var tagCurrent = null;
+    for(var i = 0; i < jobAd.tags.length; i++) {
+        if(~jobAd.tags[i].indexOf('REMOTE1')) {
+            tagCurrent = jobAd.tags[i];
+        }
+    }
+    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id, tagCurrent: tagCurrent};
     return detailFormatterTemplate(context);
 }
 

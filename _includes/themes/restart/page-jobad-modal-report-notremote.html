@@ -16,7 +16,7 @@
 
                 <div class="page-jobad-modal-tell-more">
                     <div>
-                        <input id="onsite" type="radio" name="notremote" value="office">
+                        <input id="onsite" type="radio" name="notremote" value="REMOTE1/not" checked>
                     </div>
                     <div>
                         <label for="onsite" tabindex="1">
@@ -27,7 +27,7 @@
                 </div>
                 <div class="page-jobad-modal-tell-more">
                     <div>
-                        <input id="partially" type="radio" name="notremote" value="partially">
+                        <input id="partially" type="radio" name="notremote" value="REMOTE1/50">
                     </div>
                     <div>
                         <label for="partially" tabindex="1">
@@ -39,7 +39,7 @@
 
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-primary">Continue</button>
+                <button type="button" class="btn btn-primary" onclick="postReport($('input[name=\'notremote\']:checked').val())">Continue</button>
             </div>
         </div>
     </div>
