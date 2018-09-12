@@ -1,51 +1,54 @@
 {% raw %}
 <script id="detailFormatter" type="text/x-handlebars-template">
-  <div class="detail-view">
-    <td colspan="3"><span class="detailFooter"></span>
-      <div class="detailContent">
-        <div class="highlight">
+    <div class="detail-view">
+        <td colspan="3"><span class="detailFooter"></span>
+            <div class="detailContent">
+                <div class="highlight">
 
-          <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12">
-                {{{content}}}
-            </div>
-          </div>
-
-          <div class="row footer-row">
-
-            <div class="col-xs-12 col-sm-12 col-md-12">
-                <div style="padding-left: 0;" class="col-xs-4">
-                    <a href="{{{url}}}">View original job desription <i class="fa fa-external-link"
-                                                                        aria-hidden="true"></i></a>
-                </div>
-                <div style="padding-right: 0;" class="col-xs-8 text-right">
-                    <a href="#{{{id}}}">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>
-                    &nbsp;
-                    <div class="btn-group div-report-btn abuse-btn" style="display: none">
-                        <button class="btn btn-default dropdown-toggle fa fa-flag-o" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <span class="report-btn-font-body">Report this job...</span>
-                            <span class="caret"></span>
-                        </button>
-
-                        <ul class="dropdown-menu dropdown-menu-right">
-                            <li>
-                                <a href="javascript:void(0)" data-toggle="modal" data-target=".reportthisjob-modal" data-postid="#{{{id}}}">I think this job is not remote</a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)">I think this job belongs into different category</a>
-                            </li>
-                        </ul>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            {{{content}}}
+                        </div>
                     </div>
+
+                    <div class="row footer-row">
+
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            <div style="padding-left: 0;" class="col-xs-4">
+                                <a href="{{{url}}}">View original job desription <i class="fa fa-external-link"
+                                                                                    aria-hidden="true"></i></a>
+                            </div>
+                            <div style="padding-right: 0;" class="col-xs-8 text-right">
+                                <a href="#{{{id}}}">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>
+                                &nbsp;
+                                <div class="btn-group div-report-btn abuse-btn" йstyle="display: none">
+                                    <button class="btn btn-default dropdown-toggle fa fa-flag-o" type="button"
+                                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span class="report-btn-font-body">Report this job...</span>
+                                        <span class="caret"></span>
+                                    </button>
+
+                                    <ul class="dropdown-menu dropdown-menu-right">
+                                        <li>
+                                            <a href="javascript:void(0)" data-toggle="modal"
+                                               data-target=".reportthisjob-modal" data-postid="{{{id}}}" data-tagcurrent="{{{tagCurrent}}}">I think this
+                                                job is not remote</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0)">I think this job belongs into different
+                                                category</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="detailFooter">&nbsp;</span>
+
+                    </div>
+
                 </div>
             </div>
-            <span class="detailFooter">&nbsp;</span>
-
-          </div>
-
-          </div>
-        </div>
-      </div>
-    </td>
-  </div>
+        </td>
+    </div>
 </script>
 {% endraw %}
