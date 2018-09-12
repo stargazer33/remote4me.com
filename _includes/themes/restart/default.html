@@ -8,7 +8,7 @@
 {% if thisnodes[0].description %}<meta name="description" content="{{ thisnodes[0].description }}">{% endif %}
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0" />
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,600italic,700,700italic,300italic" type="text/css">
 <link rel="stylesheet" href="{{ ASSET_PATH }}/css/animate.css" type="text/css">
@@ -27,10 +27,12 @@
 
 <meta property="og:title" content="Remote4me: an aggregator for remote jobs in tech and non-tech">
 <meta property="og:description" content="100% remote jobs per technology stack and role; angel.co, weworkremotely.com, &quot;Ask HN: Who is hiring?&quot; + others in one place">
+<meta property="og:url" content="https://remote4me.com/">
+<meta property="og:site_name" content="Remote4me" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://remote4me.com/og-image.jpg?v=5APBmvqpNg">
 <meta property="og:image:height" content="1034">
 <meta property="og:image:width" content="1974">
-<meta property="og:url" content="https://remote4me.com">
-<meta property="og:image" content="https://remote4me.com/og-image.jpg">
 {% if page.style %}{{ page.style }}{% endif %}
 </head>
 
