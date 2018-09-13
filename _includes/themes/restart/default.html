@@ -34,9 +34,9 @@
 <meta property="og:image:width" content="1974">
 <meta property="og:image:height" content="1034">
 {% if page.style %}{{ page.style }}{% endif %}
-
+{% if thisnodes[0].datafile %}
 <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.css" />
-
+{% endif %}
 </head>
 
 <body class="collapsing_header">
@@ -106,15 +106,16 @@
   <script type="text/javascript" src="{{ ASSET_PATH }}/js/wow.min.js"></script>
   <script type="text/javascript" src="{{ ASSET_PATH }}/js/restart_theme.js"></script>
   <script type="text/javascript" src="{{ ASSET_PATH }}/js/collapser.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/handlebars-v4.0.11.js"></script>
 
   {% if thisnodes[0].datafile %}
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table-en-US.min.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/render_jobad_list_filter.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table-en-US.min.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/handlebars-v4.0.11.js"></script>
 
-  <script type="text/javascript" src="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.js"></script>
-  <script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/render_jobad_list_filter.js"></script>
+
+    <script type="text/javascript" src="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase.js"></script>
 
     {% include themes/restart/page-jobad-jobdetails-handlebars.html %}
   {% endif %}
