@@ -1,6 +1,54 @@
 {
  "items": [
   {
+    "id": "h5ELXpyFTO-Y-pJ57LjGAg",
+    "url": "https://remoteok.io/jobs/68850",
+    "title": "Full Stack Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:clojure/other/15",
+      "DBG_TECH1:k/t/w:clojurescript/other/5",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "Nedap",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 12, 2018 7:40:46 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<td><span><h2>Full Stack Engineer</h2></span><br><span><h3>Nedap</h3></span></td><div><div><br>Who we are:<br><br>Nedap Staffing Solutions develops products for the temporary staffing sector. Our products are built to remove the boring administrative part of the job.<br><br>We determine our product goals ourselves, including when and how to achieve them.<br><br><br>Within the group Staffing Solutions, we’ve been searching for a more sustainable method of developing software. Although we’ve been building our software based on the Ruby on Rails stack for quite some time now, we are experiencing certain disadvantages to using frameworks that focus on ‘ease of use’. As a consequence, we’re migrating to services in Clojure and have put the first services in production.<br><br><br>We would like to add an experienced Clojure developer to our (remote) team to spar with and speed up development.<br><br><br>What You'll Do:<br><br>You’ll be part of a small team with a dual focus - building full stack features for a new application and internal tooling that supports and accelerates our engineering output. You’ll determine what to build and when to build it.<br><br><br>Day to Day:<br><br><br>* Whiteboard architecture with other engineers<br><br>* Get enough time for yourself to actually get stuff done<br><br>* Determine root causes of bugs and fix problems that arise in production<br><br>* With the team, figure out what needs to be done to further improve our solutions<br><br><br><br><br><br>What are we looking for?<br><br><br>* You have a strong sense of ownership and responsibility<br><br>* You enjoy diversity and differences of opinion, and engaging in discussions;<br><br>* You have worked with Clojure, ClojureScript, or other functional programming languages<br><br>* Having worked with distributed systems and have dealt with problems related to concurrency, performance and fault tolerance is a pre<br><br><br><p>See more jobs at <span>Nedap</span></p></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "xxX9w0VMQ_u5wMriU4uVcQ",
     "url": "https://stackoverflow.com/jobs/202151/full-stack-engineer-clojure-clojurescript-nedap?a=15NiEE52FaHS",
     "title": "Full Stack Engineer - Clojure / ClojureScript at Nedap  ",

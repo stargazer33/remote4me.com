@@ -1,6 +1,235 @@
 {
  "items": [
   {
+    "id": "hYqnuVrzQMCviZACGPDqTg",
+    "url": "https://stackoverflow.com/jobs/191007/senior-backend-engineer-for-cloud-services-scrapinghub?a=123Ah1AnV0NW",
+    "title": "Senior Backend Engineer for Cloud Services at Scrapinghub  ",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``OR(thrive,benefit,comfort,hour) 3N 2N(remot,work)",
+      "DBG:surround``OR(work,2W(work,remot)) 3W from 2W OR(wherev,wherev,where)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:scala/java/6",
+      "DBG_TECH1:techWeightMap:{python=6, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=20, ruby=0, apple=0, java=19, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Scrapinghub",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 13, 2018 6:53:28 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Senior Backend Engineer for Cloud Services</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Big Data</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Scrapinghub | No office location<br></div><h3>Technologies</h3><div></div><div>python</div><div>machine-learning</div><div>web-scraping</div><div>distributed-system</div><div>scala</div>                <h3>Job description</h3>                <div><p><strong>About the job:</strong></p>In Scrapinghub, we are developing a next-generation platform for automatic crawling and extraction - a combination of using the state-of-art machine learning technology and scaling it up with microservices.The platform would be used directly by our customers via API, as well as by ourselves for internal projects. So far our extraction capabilities include automated product and article extraction from single pages, and we plan to expand it to support whole-domain, and also support more page types like jobs and news. The service is still in early stages of development, serving its first customers.Our platform has several components communicating via Apache Kafka. Most components are written in Python, with a few components implemented with Scala and Kafka Streams. The current priorities are improving reliability and scalability of the system, integrating with other Scrapinghub services, and adding new features like auto-scaling. This is going to be a challenging journey for any good backend engineer!<p>Apply and join an excellent team of engineers and data scientists, including one of the world’s top-ranked Kaggle masters!</p><p><em><strong>Due to business requirements, the successful candidate must be based in Ireland for the duration of the&nbsp;project therefore only candidates based in Ireland or based in the EU and willing to relocate to Ireland will be considered</strong></em>.&nbsp;</p><p><strong>Job Responsibilities:</strong></p><ul><li>Design and implementation of a large scale web crawling and extraction service.</li><li>Solution architecture for large scale crawling and data extraction: design, hardware and development effort estimations, writing proposal drafts, explaining and motivating the solution for customers,</li><li>Implementation and troubleshooting of Apache Kafka applications: workers, HW estimation, performance tuning, debugging,</li><li>Interaction with data science engineers and customers</li><li>Write code carefully for critical and production environments along with good communication and learning skills.</li></ul><p><strong>Requirements:</strong></p><ul><li>Experience building at least one large scale data processing system or high load service. Understanding what CPU/memory effort the particular code requires,</li><li>Good knowledge of Python</li><li>experience with any distributed messaging system (Rabbitmq, Kafka, ZeroMQ, etc),</li><li>Docker containers basics,</li><li>Linux knowledge.</li><li>Good communication skills in English,</li><li>Understand a ways to solve problem, and ability to wisely choose between: quick hotfix, long-term solution, or design change.</li></ul><p><strong>Bonus points for:</strong></p><ul><li>Kafka Streams and microservices based on Apache Kafka, understanding Kafka message delivery semantics and how to achieve them on practice,</li><li>HBase: data model, selecting the access patterns, maintenance processes,</li><li>Understanding how web works: research on link structure, major components on link graphs,</li><li>Algorithms and data structures background,</li><li>Experience with web data processing tasks: web crawling, finding similar items, mining data streams, link analysis, etc.</li><li>Experience with Microservices,</li><li>Experience with JVM,</li><li>Open source activity.</li></ul>                </div>            <div>        <a href='https://jobs.lever.co/scrapinghub/ab15a390-4362-4606-b304-d429e0af51ba/apply' rel='nofollow'>                        Apply now        </a></div>            <h3>About Scrapinghub</h3>            <div><p>Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.</p><p>We’re a globally distributed team of 140 Shubbers working from over 30 countries who are passionate about scraping, web crawling, and data science.</p><p>As a new Shubber, you will:</p><p>Become part of a self-motivated, progressive, multi-cultural team.</p><p>Autonomy to make the role your own, supported by great people</p><p>Join a team with huge opportunity to make a difference</p><p>Have the freedom to work from&nbsp;<a href='http://blog.scrapinghub.com/2015/05/12/traveling-tips-for-remote-workers/' rel='nofollow'>wherever you want</a>.</p><p>Have the opportunity to go to conferences and meet with the team from across the globe.</p><p>Get the chance to work with cutting-edge open source technologies and tools.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Flexible working hours</span>                            </li>                            <li>                                <span></span>                                <span>Remote working</span>                            </li>                            <li>                                <span></span>                                <span>Paid time off</span>                            </li>                            <li>                                <span></span>                                <span>Paid open source work</span>                            </li>                            <li>                                <span></span>                                <span>Global team meet ups</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "FbofeV7NSyy7sMeMPi95eQ",
+    "url": "https://remote.co/job/full-stack-software-engineer-7/",
+    "title": "Full Stack Software Engineer",
+    "tags": [
+      "DBG:classic``&quot;open to remot&quot;",
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=5, go=3, nodejs=0, bigdata-ml=0, ruby=8, apple=2, java=11, gamedev=0, php=5, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/java",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "java",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Wingz",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 100000,
+      "maxValue": 150000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 13, 2018 4:34:20 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Full Stack Software Engineer at <span>Wingz</span></h2><div><span><i></i> Remote</span>        </div><div>            <p><strong>San Francisco, Austin, Remote Full Time</strong></p><p><strong>Job Description</strong></p><p><strong>U.S. APPLICANTS ONLY</strong></p><p><strong>Compensation</strong></p><p>$100K – $150K<br>0.0% – 1.0%</p><p><strong>Visa Sponsorship</strong></p><p>Not available</p><p>We are a distributed team (San Francisco, Austin, Lyon) looking for a multi-disciplinary software engineer who takes pride in being the developer’s equivalent of a Swiss army knife.</p><p>Experience working within a distributed team with remote team members is a must.</p><p><strong>Preference will be given to those who can work out of our San Francisco office but we are open to remote as well.</strong></p><p><strong>Our current software stack:</strong></p><ul><li>Micro-services hosted on AWS and plumbing with Traefik &amp; Consul</li><li>Many differents technologies depending on the services:</li><li>Native iOS and Android apps</li><li>Angular web front-end</li><li>Java (Spring Cloud / ZuulProxy) / Rails / Go / PHP / Python</li><li>Delivery with custom made software + Jenkins</li></ul><p><strong>Requirements:</strong></p><ul><li>Mobile app development experience</li><li>DevOps experience</li><li>Strong communication skills</li></ul>        </div><div>        <a href='https://angel.co/wingz/jobs/320841-full-stack-software-engineer' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Il4QZgOhSJq8abXB41Tg8A",
+    "url": "https://angel.co/albeado/jobs/37711-senior-platform-architect-engineer",
+    "title": "Senior Platform Architect/Engineer",
+    "tags": [
+      "Big Data",
+      "DBG:surround``2N( OR(feasibl,OR(consid,consider),occas,possibl), remot)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:apache-storm/java/8",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:java-developer/java/13",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=27, gamedev=0, php=0, embedded=0, frontend=0}",
+      "Full Time",
+      "Hadoop",
+      "Java",
+      "Java Enterprise Edition",
+      "REMOTE1/50",
+      "Remote OK",
+      "Silicon Valley",
+      "Software Engineer",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Albeado",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 100000,
+      "maxValue": 130000,
+      "info": "1.0% – 2.0%",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 13, 2018 1:54:24 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><h2>Senior Platform Architect/Engineer at Albeado</h2><div>Silicon Valley, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>Java, Hadoop, Big Data, Java Enterprise Edition</div><div>Compensation</div><div>$100K–$130K<br>1.0%–2.0%</div><div>Visa Sponsorship</div><div>Not available</div></div><h3>Job Description</h3><div><p>We are looking for a senior platform architect/engineer for researching, developing and integrating various best of class solutions and data platforms into our enterprise level real time cloud computation environment.<br>You will need to drive design of flexible interfaces that allows ease of integration of new components while minding the loss of performance in terms of data throughput, memory, CPU and scale-ability.</p><p>The main code base is in Java and you should have:</p><p>    6+ years of Java development experience. </p><p>    Able to use software best practices and design of interfaces</p><p>    Tools that you should be familiar with: Python, Storm, Spark, R, Hadoop, SQL, Rabbit MQ, and Cassandra.  </p><p>    The role with involve coordination with local and external development teams to communicate architecture and design of flexible and efficient interfaces. </p><p>    Keep track of schedule milestones, drive deliverable, and being proactive </p><p>Requirements: 3+ years of project leadership experience. </p><p>Location: we prefer the position to be staffed in Silicon Valley, but will also consider working remotely.</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "QBlqOkKVSMq34oR5QSKyAQ",
+    "url": "https://news.ycombinator.com/item?id=17971610",
+    "title": "Algorithmia | https://algorithmia.com/ | Engineers | REMOTE / Seattle / NYC / Vancouver",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=4, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 12, 2018 8:31:09 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Algorithmia | <a href='https://algorithmia.com/' rel='nofollow'>https://algorithmia.com/</a> | Engineers | REMOTE / Seattle / NYC / Vancouver<p>Java (Scala) microservices / Docker / Kubernetes</p><p>Algorithmia is “DevOps for AI/ML”. We power both the largest public marketplace for algorithms as well as mission-critical workloads for our enterprise customers.</p><p>Please apply at:<a href='https://algorithmia.com/careers' rel='nofollow'>https://algorithmia.com/careers</a></p><p>or email:allyssastanley at algorithmia.io</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "1R1kMpDxRiGo2B95GCAVYQ",
     "url": "http://jobmote.com/jobs/25304-java-developer-flexible-remote-working-available",
     "title": "Java Developer - Flexible/remote working available",
@@ -2483,6 +2712,68 @@
     }
   },
   {
+    "id": "N2expwboQKSdhHgdgtGbig",
+    "url": "https://angel.co/consensys/jobs/376029-senior-full-stack-developer",
+    "title": "Senior Full Stack Developer",
+    "tags": [
+      "AWS",
+      "Brooklyn",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=2}",
+      "Docker",
+      "Full Time",
+      "Full-Stack Developer",
+      "Java",
+      "Javascript",
+      "Kubernetes",
+      "Python",
+      "REMOTE1/100",
+      "Remote",
+      "Remote OK",
+      "TECH1/java",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "ConsenSys",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 100000,
+      "maxValue": 130000,
+      "info": "0.01% – 0.01%",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 10, 2018 6:05:24 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><h2>Senior Full Stack Developer at ConsenSys</h2><div>Remote, Brooklyn, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>Python, Java, Javascript, Docker, AWS, Kubernetes</div><div>Compensation</div><div>$100K–$130K<br>0.01%–0.01%</div><div>Visa Sponsorship</div><div>Not available</div></div><h3>Job Description</h3><div><p>ConsenSys is a venture production studio and the leading technology firm in blockchain globally. We deliver products, solutions and platforms built using blockchain technology to transform how business is done in complex network of buyers, suppliers and consumers.</p><p>Our teams are busy at work building the future of identity, financial markets, commerce, the music industry, security, and infrastructure, and more. To accomplish this we've built out a flat organizational structure which we call the ConsenSys Mesh: a network of individuals &amp; teams working autonomously and towards the same goal.  Our mission is to use these decentralized solutions to fundamentally reshape the economic, social, and political operating systems of the planet. If you are someone that thrives in a fast-paced environment where being self-directed, determined, and resilient are a requirement, we would love for you to join us.</p><p>About Meridio at ConsenSys:</p><p>Meridio is a platform to create, manage, and trade fractional ownership shares in real estate assets. Our mission is to democratize real estate investment allowing anyone, anywhere the right to own and invest in this fundamental shared resource of our planet. To find out more about the project, please visit the following link: <a href='https://www.meridio.co/' rel='nofollow'>https://www.meridio.co/</a> </p><p>Responsibilities:<br>Writing excellent code<br>Actively participate in the design, development, and review of the code base<br>Willingness to learn new tools<br>Continually evaluate and improve the platform and dev workflow as it scales<br> </p><p>Requirements:<br>4+ years engineering experience with a proven history of shipping code<br>Experience with Javascript, Java, or Python preferred<br>Experience with docker, kubernetes, and AWS preferred<br>Experience scaling a SaaS app preferred<br>Personal interest in real estate, blockchain, or both<br>Relevant degree(s) in Computer Science or related fields</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "EJQ88CEjQTWtZabjINmrQA",
     "url": "https://angel.co/process-street/jobs/89381-remote-full-stack-developer-scala-javascript-for-seed-funded-angelpad-co-mid-snr",
     "title": "Remote Full Stack Developer Scala/JavaScript for Seed-Funded AngelPad Co (Mid-Snr)",
@@ -2762,6 +3053,58 @@
     "published": "Sep 9, 2018 5:14:57 AM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<td><span><h2>Java Developer</h2></span><br><span><h3>Wallethub</h3></span></td><div><div><br>Company details<br><br>WalletHub is one of the leading personal finance destinations in the US. We're looking for a&nbsp;highly skilled and experienced Senior Java Developer for a full-time, permanent, remote position.<br><br>Requirements<br><br>You are the ideal candidate for this job if you have:<br><br><br>* <br><br>Over 3 years experience in Java, Spring and MySQL (or any relation database)<br><br><br>* <br><br>Experience developing web and stand-alone applications in Spring technologies such as: Spring MVC, Spring Security, Spring Batch<br><br><br>* <br><br>Excellent communication and analytical skills<br><br><br>* <br><br>Proficient with spoken/written English<br><br><br><br><br><br>Nice to have but not required<br><br><br>* <br><br>Experience in PHP<br><br><br>* <br><br>Familiarity with front-end technologies – Object-Oriented Javascript, AJAX, XHTML, HTML, XML/DOM<br><br><br>* <br><br>Experience with unit testing framework, test driven development<br><br><br><br><br><br>Responsibilities<br><br><br>* <br><br>Designs and develops web applications using Java, Spring Framework, MySQL<br><br><br>* <br><br>Designs and develops unit test cases to make the code more robust<br><br><br>* <br><br>Participates in pairing and code reviews<br><br><br>* <br><br>Supports and troubleshoots problems with existing applications<br><br><br>* <br><br>Participates in the areas of architecture, design, implementation, and testing<br><br><br><br><br><br>Our Offer<br><br><br>* <br><br>Very competitive salary based on prior experience and qualifications<br><br><br>* <br><br>Potential for stock options after the first year<br><br><br>* <br><br>Raise and advancement opportunities based on periodic evaluations<br><br><br>* <br><br>Visa sponsorship (if working from outside the US, sponsorship&nbsp;can be granted after 18 months with the company, based on performance)<br><br><br><br><br><br>More about WalletHub<br><br>WalletHub is a high-growth fintech company based in Washington, D.C. that is looking for talented, hard-working individuals to help us reshape personal finance. More specifically, we are harnessing the power of data analytics and artificial intelligence to build the brain of a smart financial advisor, whose services we’re offering to everyone for free. The WalletHub brain enables users to make better financial decisions in a fraction of the time with three unique features:<br><br>1) Customized Credit-Improvement Tips: WalletHub identifies improvement opportunities and guides you through the necessary corrections.<br><br>2) Personalized Money-Saving Advice: WalletHub’s savings brain constantly scours the market for load-lightening opportunities, bringing you only the best deals.<br><br>3) Wallet Surveillance: Personal finance isn’t as scary with 24/7 credit monitoring providing backup, notifying you of important credit-report changes.<br><br>In addition to the valuable intelligence the brain provides, WalletHub is the first and only service to offer free credit scores and full credit reports that are updated on a daily basis absent of user interaction, rather than weekly or monthly and only when a user logs in. Some other services hang their hats on free credit scores and reports, yet they’re still inferior to what WalletHub considers minor pieces to a much larger puzzle.<br><br>Note:&nbsp;This position does not have a location requirement and can be performed either remotely (including from outside the US) or from WalletHub’s offices in downtown Washington DC. If you're intending to work from outside the US please&nbsp;be aware this position entails working at least 50 hour per week and requires an overlap with EST business hours.<p>See more jobs at <span>Wallethub</span></p></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "hBwQYczNSBmCpxOpejSIjg",
+    "url": "https://angel.co/scalegrid/jobs/43961-backend-developer",
+    "title": "Backend Developer",
+    "tags": [
+      "Backend Developer",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:java-ee/java/13",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=19, gamedev=0, php=0, embedded=0, frontend=0}",
+      "Full Time",
+      "J2EE, Java, IT Architecture",
+      "REMOTE1/100",
+      "Remote OK",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown",
+      "United States"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "ScaleGrid",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 85000,
+      "maxValue": 150000,
+      "info": "0.5% – 1.0%",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 7, 2018 6:24:34 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><h2>Backend Developer at ScaleGrid</h2><div>United States, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>J2EE, Java, IT Architecture</div><div>Compensation</div><div>$85K–$150K<br>0.5%–1.0%</div><div>Visa Sponsorship</div><div>Available</div></div><h3>Job Description</h3><div><p>ScaleGrid provides a management platform for NoSQL databases like MongoDB, ElasticSearch &amp; Cassandra on public and private clouds. Our platform enables you in one click to manage &amp; scale your database on various cloud platforms like AWS, Digital ocean, Azure , Joyent etc. We take care of the database so that you can focus on your application. Several of our customers run large scale distributed clusters on various cloud platforms and use our software to manage the day to day operations of these clusters. </p><p>The company is profitable with double digit growth and our customer list includes several Fortune 500 companies. We are looking for independent &amp; driven backend engineers to take our growth to the next stage.</p><p>Tech:<br>Atleast a Bachelor's degree in computer science is required. Familiarity with NoSQL databases MongoDB, ElasticSearch &amp; Cassandra is preferred but not required. If you have experience working in cloud platforms like AWS, Azure etc it will be an advantage. Our platform is authored mostly in Java - so previous experience in Java is required.</p></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

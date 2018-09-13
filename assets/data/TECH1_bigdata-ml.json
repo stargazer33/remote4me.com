@@ -1,6 +1,284 @@
 {
  "items": [
   {
+    "id": "hYqnuVrzQMCviZACGPDqTg",
+    "url": "https://stackoverflow.com/jobs/191007/senior-backend-engineer-for-cloud-services-scrapinghub?a=123Ah1AnV0NW",
+    "title": "Senior Backend Engineer for Cloud Services at Scrapinghub  ",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``OR(thrive,benefit,comfort,hour) 3N 2N(remot,work)",
+      "DBG:surround``OR(work,2W(work,remot)) 3W from 2W OR(wherev,wherev,where)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:scala/java/6",
+      "DBG_TECH1:techWeightMap:{python=6, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=20, ruby=0, apple=0, java=19, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Scrapinghub",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 13, 2018 6:53:28 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Senior Backend Engineer for Cloud Services</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Big Data</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Scrapinghub | No office location<br></div><h3>Technologies</h3><div></div><div>python</div><div>machine-learning</div><div>web-scraping</div><div>distributed-system</div><div>scala</div>                <h3>Job description</h3>                <div><p><strong>About the job:</strong></p>In Scrapinghub, we are developing a next-generation platform for automatic crawling and extraction - a combination of using the state-of-art machine learning technology and scaling it up with microservices.The platform would be used directly by our customers via API, as well as by ourselves for internal projects. So far our extraction capabilities include automated product and article extraction from single pages, and we plan to expand it to support whole-domain, and also support more page types like jobs and news. The service is still in early stages of development, serving its first customers.Our platform has several components communicating via Apache Kafka. Most components are written in Python, with a few components implemented with Scala and Kafka Streams. The current priorities are improving reliability and scalability of the system, integrating with other Scrapinghub services, and adding new features like auto-scaling. This is going to be a challenging journey for any good backend engineer!<p>Apply and join an excellent team of engineers and data scientists, including one of the world’s top-ranked Kaggle masters!</p><p><em><strong>Due to business requirements, the successful candidate must be based in Ireland for the duration of the&nbsp;project therefore only candidates based in Ireland or based in the EU and willing to relocate to Ireland will be considered</strong></em>.&nbsp;</p><p><strong>Job Responsibilities:</strong></p><ul><li>Design and implementation of a large scale web crawling and extraction service.</li><li>Solution architecture for large scale crawling and data extraction: design, hardware and development effort estimations, writing proposal drafts, explaining and motivating the solution for customers,</li><li>Implementation and troubleshooting of Apache Kafka applications: workers, HW estimation, performance tuning, debugging,</li><li>Interaction with data science engineers and customers</li><li>Write code carefully for critical and production environments along with good communication and learning skills.</li></ul><p><strong>Requirements:</strong></p><ul><li>Experience building at least one large scale data processing system or high load service. Understanding what CPU/memory effort the particular code requires,</li><li>Good knowledge of Python</li><li>experience with any distributed messaging system (Rabbitmq, Kafka, ZeroMQ, etc),</li><li>Docker containers basics,</li><li>Linux knowledge.</li><li>Good communication skills in English,</li><li>Understand a ways to solve problem, and ability to wisely choose between: quick hotfix, long-term solution, or design change.</li></ul><p><strong>Bonus points for:</strong></p><ul><li>Kafka Streams and microservices based on Apache Kafka, understanding Kafka message delivery semantics and how to achieve them on practice,</li><li>HBase: data model, selecting the access patterns, maintenance processes,</li><li>Understanding how web works: research on link structure, major components on link graphs,</li><li>Algorithms and data structures background,</li><li>Experience with web data processing tasks: web crawling, finding similar items, mining data streams, link analysis, etc.</li><li>Experience with Microservices,</li><li>Experience with JVM,</li><li>Open source activity.</li></ul>                </div>            <div>        <a href='https://jobs.lever.co/scrapinghub/ab15a390-4362-4606-b304-d429e0af51ba/apply' rel='nofollow'>                        Apply now        </a></div>            <h3>About Scrapinghub</h3>            <div><p>Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.</p><p>We’re a globally distributed team of 140 Shubbers working from over 30 countries who are passionate about scraping, web crawling, and data science.</p><p>As a new Shubber, you will:</p><p>Become part of a self-motivated, progressive, multi-cultural team.</p><p>Autonomy to make the role your own, supported by great people</p><p>Join a team with huge opportunity to make a difference</p><p>Have the freedom to work from&nbsp;<a href='http://blog.scrapinghub.com/2015/05/12/traveling-tips-for-remote-workers/' rel='nofollow'>wherever you want</a>.</p><p>Have the opportunity to go to conferences and meet with the team from across the globe.</p><p>Get the chance to work with cutting-edge open source technologies and tools.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Flexible working hours</span>                            </li>                            <li>                                <span></span>                                <span>Remote working</span>                            </li>                            <li>                                <span></span>                                <span>Paid time off</span>                            </li>                            <li>                                <span></span>                                <span>Paid open source work</span>                            </li>                            <li>                                <span></span>                                <span>Global team meet ups</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "1lLizbs4T5OpLrWRpQeyPQ",
+    "url": "https://stackoverflow.com/jobs/195433/kickass-python-machine-learning-engineer-seez?a=13xC5yoQ0tX2",
+    "title": "Kickass Python Machine Learning Engineer at Seez (Bayrut, Lebanon) ",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:classification/bigdata-ml/1",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:matplotlib/python/5",
+      "DBG_TECH1:k/t/w:numpy/python/5",
+      "DBG_TECH1:k/t/w:pandas/python/5",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:k/t/w:scikit-learn/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:scikit-learn/python/5",
+      "DBG_TECH1:k/t/w:scipy/python/5",
+      "DBG_TECH1:techWeightMap:{python=35, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=29, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Seez",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 48000,
+      "maxValue": 60000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 13, 2018 5:06:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Kickass Python Machine Learning Engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Machine Learning, Marketplace, Mobile Application</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Seez | Bayrut, Lebanon<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Copenhagen +/- 4 hours</span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>Bayrut, Lebanon.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div></div><div>python</div><div>machine-learning</div>                <h3>Job description</h3>                <div><p><strong>Be a part of a growing startup and join us in changing how people buy cars</strong><br><br>Seez is looking for a kickass ML engineer with in-depth knowledge in building machine learning end-to-end projects; researching the problem, feature selection, model building, correctly evaluating the model to building a scalable service and deploying it. Our current ML stack is mostly based around the python data stack so we preferbly want someone with experience in this domain. <br><br>You will be a part of a distributed team in the middle east and europe, with possibility to work anywhere in the world, though we would love to have you at one of our offices. Your role will be to help make a great product that many people will use and love. You will have freedom, you will be challenged, you will not be shut down due to bureacracy, your voice will be heard. <strong>We are looking to hire</strong> - no freelancers or&nbsp; consultants. We value communication very highly and you will be expected to participate and join discussions in product development as well as company direction, lastly, you are not a code monkey. We have a very free and openminded culture and are preferably looking for someone with the same mentality.<br><br>We use slack extensively and employ very little hierarchy, you are free to speak your mind, come up with ideas and be a part of our community. Even though Seez is a startup and in the real world, funds are limited, we value our employees highly and acknowledge that a great developer should be paid a competitive salary.</p><p><strong>Our ideal candiate has the following characteristics</strong></p><ul><li>An analytical mind with product-first mentality</li><li>A minimum of 3 years of experience as a machine learning engineer, building machine learning products.</li><li>Extensive machine learning knowledge (regression, classification and recommenders mostly)</li><li>Your education is less important than your ability to challenge yourself and write code (We’d rather see a beautiful GitHub profile than a fancy degree).</li><li>You care greatly about code quality.</li><li>You take pride in what you do, but welcome critique</li><li>Prior experience in working with Scrum and, or Agile methodologies.</li><li>Good communication skills and willingness to work in a team.</li><li>Complete proficiency in reading, writing and speaking english</li><li>A lot of good ideas and constantly following the latest trends in your field</li></ul><p>Technology and tools in order of importance:</p><ol><li>Python data stack (numpy, sklearn, pandas, jupyter notebooks,&nbsp; scipy and matplotlib)</li><li>DBMS knowledge - writing SQL and designing schemas</li><li>Docker (we use it extensively)</li><li>Other general backend related tasks (API, crawling and devops)</li></ol><p>We value growing our team and there will be plenty of oppurtunities for you to jump into our other projects and get familar with our other projects.</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/195433?reset=False&amp;ra=13xC5yoQ0tX2&amp;oqs=a%3D13xC5yoQ0tX2' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Seez</h3>            <div><p>Seez was founded in 2016 and in June 2017 got funded with $1.8M. Seez develops and maintains the app Seez R, currently available in the United Arab Emirates. Our main vision is to reduce the time spent for consumers to find their dream car, mostly through visibility, aggregation and automation.</p><p>We heavily focus on software and most of our team members are software developers or coming from math related fields.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Work anywhere</span>                            </li>                            <li>                                <span></span>                                <span>Unlimited Paid Vacation</span>                            </li>                            <li>                                <span></span>                                <span>Competitive salary</span>                            </li>                            <li>                                <span></span>                                <span>Be a part of a community</span>                            </li>                            <li>                                <span></span>                                <span>Heavy start-up culture in a stable organization</span>                            </li>                            <li>                                <span></span>                                <span>Paid coworking space (if remote) or office</span>                            </li>                            <li>                                <span></span>                                <span>Strong peers to learn from</span>                            </li>                            <li>                                <span></span>                                <span>This perk is only here to have an even number of perks</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "MIl_KpHISNuFfQC8L_Yf4g",
+    "url": "https://remote.co/job/software-developer-machine-learning-2/",
+    "title": "Software Developer – Machine Learning",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/10",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:classification/bigdata-ml/1",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:keras/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:lstm/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:nltk/python/5",
+      "DBG_TECH1:k/t/w:numpy/python/5",
+      "DBG_TECH1:k/t/w:pandas/python/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:recurrent-neural-network/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:svm/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:windows-ce/embedded/8",
+      "DBG_TECH1:techWeightMap:{python=17, other=0, dotnet=0, c=13, mobile=0, go=0, nodejs=0, bigdata-ml=67, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Cisco",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 13, 2018 4:30:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Software Developer – Machine Learning at <span>Cisco</span></h2><div><span><i></i> Remote</span>        </div><div>            <p><strong>LOCATION:</strong>&nbsp;San Jose, California, US</p><p><strong>ADDITIONAL LOCATION(S) Remote, US</strong></p><p><strong>AREA OF INTEREST</strong>&nbsp;Engineer – Software</p><p><strong>JOB TYPE</strong>&nbsp;Professional</p><p><strong>TECHNOLOGY INTEREST</strong>&nbsp;Collaboration, Video</p><p><strong>JOB ID</strong>&nbsp;1228074</p><p><strong>Who We Are</strong></p><p>The CTO team in the Collaboration Technology Group (CTG) is the innovation engine for this multi-billion dollar business. Come be part of a ground floor opportunity to build Machine Learning (ML) capabilities across our product portfolio. You’ll be part of a small but growing team that works cross-functionally to ideate, prototype, build and train ML models that ultimately make their way into deployed products. Covering areas like face recognition, natural language processing, speaker identification, anomaly detection, and content recommendation, your work will be foundational to our next generation of products and features. The Collaboration Technology Group at Cisco is investing heavily in this area, and has already announced our own Webex Assistant – a Conversational Voice AI built into our video conferencing systems. In this role, you’ll get to work on that as well, at the very earliest stages of the product.</p><p><strong>Who You Are</strong></p><ul><li><strong>BS/BA, MS, or PhD in CS/CE/EE or related field, or equivalent practical experience</strong></li><li>Mathematics fundamentals: linear algebra, calculus, probability, basic statistics</li><li>Experienced in traditional ML techniques: logistic regression, KNN, SVM, various trees</li><li>Experienced in Deep Learning techniques: MLP, CNN, RNN/LSTM/GRU, GAN</li><li>Experienced in Python scientific tools, such as Scikit, NLTK, Numpy, Pandas, TensorFlow, Keras, Caffe2, CNTK, CoreML, PyTorch</li><li>5-8 years of experience working with applied machine learning problems, such as computer vision, NLP, voice user interface, audio classification, anomaly detection, recommendation</li><li>Excellent written, verbal and presentation communication skills</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Open-source project experience</li><li>Ability to implement feedforward neural networks in C/C++</li><li>Publication in conferences/journals such as NIPS, ICML, AAAI, KDD, JMLR, ICLR a strong plus</li><li>Achievements in ML competitions such as Kaggle a strong plus</li></ul><p><strong>Why Cisco</strong></p><p>At Cisco, each person brings their unique talents to work as a team and make a difference.</p><p>Yes, our technology changes the way the world works, lives, plays and learns, but our edge comes from our people.</p><p>We connect everything people, process, data and things and we use those connections to change our world for the better.</p><p>We innovate everywhere – From launching a new era of networking that adapts, learns and protects, to building Cisco Services that accelerate businesses and business results. Our technology powers entertainment, retail, healthcare, education and more from Smart Cities to your everyday devices.</p><p>We benefit everyone – We do all of this while striving for a culture that empowers every person to be the difference, at work and in our communities.</p><p>Colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Be you, with us! #WeAreCisco</p>        </div><div>        <a href='https://jobs.cisco.com/jobs/ProjectDetail/Software-Developer-Machine-Learning/1228074?' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "xYvBQNMMR9iR-th8KXK0gA",
+    "url": "https://stackoverflow.com/jobs/202222/big-data-engineer-pixalate-inc?a=15OMbwlgci52",
+    "title": "Big Data Engineer at Pixalate, Inc. (Los Angeles, CA) ",
+    "tags": [
+      "DBG:surround``3N(locat,remot)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/6",
+      "DBG_TECH1:k/t/w:mahout/java/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=0, bigdata-ml=42, ruby=0, apple=0, java=9, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Pixalate, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 12, 2018 10:06:11 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Big Data Engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                            </div>                    </div>                <div>Company: Pixalate, Inc. | Los Angeles, CA<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Los Angeles, CA.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div>aws</div><div>sql</div><div>java</div><div>spark</div>                <h3>Job description</h3>                <div><p><strong>Who are we?</strong></p><p>Pixalate helps Digital Advertising ecosystem become a safer and more trustworthy place to transact in, by providing intelligence on &quot;bad actors&quot; using our world class data. Our products provide benchmarks, analytics, research and threat intelligence solutions to the global media industry. We make this happen by processing terabytes of data and trillions of data points a day across desktop, mobile, tablets, connected-tv that are generated using Machine Learning and Artificial Intelligence based models.</p><p>We are the World's #1 decision making platform for Digital Advertising. And don't just take our word for it -- Forrester Research consistently depends on our monthly indexes to make industry predictions.</p><p><br><strong>What does the media have to say about us?</strong></p><ul><li><a href='https://pixal.at/2rn7gto' rel='nofollow'>&nbsp;Harvard Business Review</a></li><li><a href='http://pixal.at/2bvpTlZ' rel='nofollow'>Forbes</a></li><li><a href='http://pixal.at/1RytLD1' rel='nofollow'>NBC News&nbsp;</a></li><li><a href='http://pixal.at/2bu5pfx' rel='nofollow'>CNBC</a></li><li><a href='http://pixal.at/2bsJL9j' rel='nofollow'>Business Insider</a></li><li><a href='http://pixal.at/2ba8G3K' rel='nofollow'>AdAge</a></li><li><a href='http://pixal.at/2bai98n' rel='nofollow'>AdAge</a></li><li><a href='http://bit.ly/2u9KrZV' rel='nofollow'>CSO Online</a></li><li><a href='http://bit.ly/2tiqMtG' rel='nofollow'>Mediapost</a></li><li><a href='http://bit.ly/2rUH6xp' rel='nofollow'>Mediapost</a></li><li><a href='http://bit.ly/2sKcvW9' rel='nofollow'>The Drum</a></li><li><a href='http://bit.ly/2sOKv4Q' rel='nofollow'>Mediapost</a></li><li><a href='http://bit.ly/2h67Dpa' rel='nofollow'>Mediapost</a></li></ul><p><strong>How is it working at Pixalate?</strong></p><p>We believe in Small teams that produce high output</p><p>Slack is a way of life, short emails are encouraged</p><p>Fearless attitude holds high esteem</p><p>Bold ideas are worshipped</p><p>Chess players do really well</p><p>Titles don't mean much, you attain respect by producing results</p><p>Everyone's a data addict and an analytical thinker (you won't survive if you run away from details)</p><p>Collaboration, collaboration, collaboration</p><p><strong>What will you do?</strong></p><p>Support existing processes running in production</p><p>Design, develop, and support of various big data solutions at scale (hundreds of Billions of transactions a day)</p><p>Find smart, fault tolerant, self-healing, cost efficient solutions to extremely hard data problems</p><p>Take ownership of the various big data solutions, troubleshoot issues, and provide production support</p><p>Conduct research on new technologies that can improve current processes</p><p>Contribute to publications of case studies and white papers delivering cutting edge research in the ad fraud, security and measurement space</p><p><strong>What are the minimum requirements for this role?</strong></p><p>Bachelors, Masters or Phd in Computer Science, Computer Engineering, Software Engineering, or other related technical field.</p><p>A minimum of 3 years of experience in a software or data engineering role</p><p>Excellent teamwork and communication skills</p><p>Extremely analytical, critical thinking, and problem solving abilities</p><p>Proficiency in Java</p><p>Very strong knowledge of SQL and ability to implement advanced queries to extract information from very large datasets</p><p>Experience in working with very large datasets using big data technologies such as Spark, BigQuery, Hive, Hadoop, Redshift, etc</p><p>Ability to design, develop and deploy end-to-end data pipelines that meet business requirements.</p><p>Strong experience in AWS and Google Cloud platforms is a big plus</p><p>Deep understanding of computer science concepts such as data structures, algorithms, and algorithmic complexity</p><p>Deep understanding of statistics and machine learning algorithms foundations is a huge plus</p><p>Experience with Machine Learning big data technologies such as R, Spark ML, H2O, Mahout etc is a plus</p><p><strong>What do we have to offer?</strong></p><p>Located in sunny Palo Alto and Playa Vista, CA the core of Pixalate's DNA lies in innovation. We focus on doing things differently and we challenge each other to be the best we can be. We offer:</p><p>Experienced leadership and founding team</p><p>Casual environment (as long as you wear clothes, we're good!)</p><p>Flexible hours (yes, we mean it - you will never have to sit in traffic anymore!)</p><p>FREE Lunches! (You name it, we've got it)</p><p>Fun team events</p><p>High performing team who wants to win and have fun doing it</p><p>Extremely Competitive Compensation</p><p>OPPORTUNITY (Pixalate will be what you make it)</p>                </div>            <div>        <a href='https://pixalate.applytojob.com/apply/f0mJKCYwq8/Big-Data-Engineer?source=STCK' rel='nofollow'>                        Apply now        </a></div>            <h3>About Pixalate, Inc.</h3>            <div>Pixalate is a cross-channel fraud intelligence company that works with brands and platforms to prevent invalid traffic and improve ad inventory quality. We help brands, agencies and platforms detect and prevent fraud, and protect their reputation.            </div>        ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "QBlqOkKVSMq34oR5QSKyAQ",
+    "url": "https://news.ycombinator.com/item?id=17971610",
+    "title": "Algorithmia | https://algorithmia.com/ | Engineers | REMOTE / Seattle / NYC / Vancouver",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=4, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 12, 2018 8:31:09 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Algorithmia | <a href='https://algorithmia.com/' rel='nofollow'>https://algorithmia.com/</a> | Engineers | REMOTE / Seattle / NYC / Vancouver<p>Java (Scala) microservices / Docker / Kubernetes</p><p>Algorithmia is “DevOps for AI/ML”. We power both the largest public marketplace for algorithms as well as mission-critical workloads for our enterprise customers.</p><p>Please apply at:<a href='https://algorithmia.com/careers' rel='nofollow'>https://algorithmia.com/careers</a></p><p>or email:allyssastanley at algorithmia.io</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "YpiFpbiSRCS7R8TcAgWFSw",
     "url": "http://jobmote.com/jobs/25368-manager-hospital-coding-remote",
     "title": "Manager Hospital Coding - REMOTE",
@@ -1944,6 +2222,66 @@
     "published": "Sep 5, 2018 9:34:09 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<span>SEEKING FREELANCER | Remote or NYC | 25+ hours/week | Python, Data Science, AWS<p>Seer Aerospace is an aviation-focused data analytics startup. We're looking for a developer to help us out with a 2-3 month project to build a data delivery pipeline for a customer.</p><p>More details can be found here: <a href='http://data.seeraerospace.com/data_engineer_2018.pdf' rel='nofollow'>http://data.seeraerospace.com/data_engineer_2018.pdf</a></p><p>Please shoot me an email at evan[at]seeraerospace[dot]com if this sounds interesting -- individuals only please, no agencies</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ZFSbJzyWQ52XOifk1ZTGzA",
+    "url": "https://angel.co/coinifide/jobs/109940-data-scientist",
+    "title": "Data Scientist",
+    "tags": [
+      "Chicago",
+      "Cofounder",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:apache-storm/java/16",
+      "DBG_TECH1:k/t/w:classification/bigdata-ml/1",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:mapreduce/bigdata-ml/5",
+      "DBG_TECH1:k/t/w:matlab/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:time-series/bigdata-ml/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=63, ruby=2, apple=0, java=18, gamedev=0, php=0, embedded=0, frontend=0}",
+      "Data Scientist",
+      "REMOTE1/100",
+      "Remote OK",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Coinifide, an Initio Ventures Company",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 30000,
+      "maxValue": 100000,
+      "info": "1.0% – 7.0%",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 5, 2018 6:33:31 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><h2>Data Scientist at Coinifide, an Initio Ventures Company</h2><div>Chicago, Remote · Cofounder</div><div></div></div><div><div>Compensation</div><div>$30K–$100K<br>1.0%–7.0%</div><div>Visa Sponsorship</div><div>Not available</div></div><h3>Job Description</h3><div><p>Responsibilities:</p><p>Analyze and model structured data using advanced statistical methods and implement algorithms and software needed to perform analyses</p><p>Build recommendation engines, spam classifiers, sentiment analyzers and classifiers for unstructured and semi-structured data</p><p>Cluster large amount of user generated content and process data in large-scale environments using Amazon EC2, Storm, Hadoop and Spark</p><p>Perform machine learning, natural language, and statistical analysis methods, such as classification, collaborative filtering, association rules, sentiment analysis, topic modeling, time-series analysis, regression, statistical inference, and validation methods</p><p>Perform explanatory data analyses, generate and test working hypotheses, prepare and analyze historical data and identify patterns</p><p>Qualifications:</p><p>At least 3 years of professional experience working as a Data Scientist</p><p>Experience with command-line scripting, data structures and algorithms and ability to work in a Linux environment, processing large amounts of data in a cloud environment</p><p>Bachelor's Degree from an accredited college/university in Computer Science, Statistics, Mathematics, Engineering, Bioinformatics, Physics, Operations Research, or related fields, with a minimum of three years of relevant experience (strong mathematical background with ability to understand algorithms and methods from a mathematical viewpoint and an intuitive viewpoint)</p><p>Strong knowledge in at least one of the following fields: machine learning, data visualization, statistical modeling, data mining, or information retrieval<br>Strong data extraction and processing, using MapReduce, Pig, and/or Hive preferred</p><p>Proficiency in analysis (e.g. R, SAS, Matlab) packages, programming languages (e.g. Java, Python, Ruby) as well as the ability to implement, maintain, and troubleshoot big data infrastructure, such as distributed processing paradigms, stream processing and databases such as Hadoop, Storm, SQL and Solr</p></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
