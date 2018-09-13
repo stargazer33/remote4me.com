@@ -19,6 +19,9 @@ var mapIdToJob = new Map();
 var json_data_original = [];
 var detailFormatterTemplate = null;
 
+var currentJobId = null;
+var tagCurrent = null;
+
 /**
  * runs when page load complete
  */
@@ -95,10 +98,85 @@ $(document).ready(function () {
         var source   = document.getElementById("detailFormatter").innerHTML;
         detailFormatterTemplate = Handlebars.compile(source);
 
+        $('#reportthisjob-modal').on('show.bs.modal', function (event) {
+            var button = $(event.relatedTarget);
+                currentJobId = button.data('postid');
+                tagCurrent = button.data('tagcurrent');
+        });
+
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyDWCBNGKq5wX4t7TNosOLVViWTvGzHKWvw",
+            authDomain: "metajob-org.firebaseapp.com",
+            databaseURL: "https://metajob-org.firebaseio.com",
+            projectId: "metajob-org",
+            storageBucket: "metajob-org.appspot.com",
+            messagingSenderId: "652084187155"
+        };
+        firebase.initializeApp(config);
+
+        firebase.auth().onAuthStateChanged(function(user) {
+            if (user) {
+                $('#firebaseui-auth-container-wrapper').hide();
+                $('#reportthisjob-modal-body').show();
+
+            } else {
+                $('#reportthisjob-modal-body').hide();
+                $('#firebaseui-auth-container-wrapper').show();
+            }
+        });
+
+        // Initialize the FirebaseUI Widget using Firebase.
+        var ui = new firebaseui.auth.AuthUI(firebase.auth());
+        // The start method will wait until the DOM is loaded.
+        ui.start('#firebaseui-auth-container', {
+            signInOptions: [
+                firebase.auth.EmailAuthProvider.PROVIDER_ID,
+                firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+                firebase.auth.GithubAuthProvider.PROVIDER_ID
+            ],
+            signInFlow: 'popup',
+            // Other config options...
+        });
+        // Firebase (end)
+
+        //modal window (end)
     } catch (err) {
         console.log(err);
     }
 });
+
+function postReport(type) {
+    var user = firebase.auth().currentUser;
+    if (user) {
+        var reportObj = {
+            jobId: currentJobId,
+            tagCurrent: tagCurrent,
+            tagShould: type,
+            userEmail: user.email
+        };
+
+        var db = firebase.firestore();
+
+        // Disable deprecated features
+        db.settings({
+            timestampsInSnapshots: true
+        });
+
+        db.collection("job-remote-error").add(reportObj)
+            .then(function(docRef) {
+                console.log("Document written with ID: ", docRef.id);
+            })
+            .catch(function(error) {
+                console.error("Error adding document: ", error);
+            });
+
+        $('#reportthisjob-modal').modal("hide");
+    } else {
+        console.log('noauth');
+    }
+
+}
 
 function onLoadDataFile(data){
     console.log('data loaded');
@@ -444,7 +522,13 @@ function tableLoad(isFirstLoad) {
  * @return {string} table detail as HTML
  */
 function detailFormatter(index, jobAd) {
-    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id};
+    var tagCurrent = null;
+    for(var i = 0; i < jobAd.tags.length; i++) {
+        if(~jobAd.tags[i].indexOf('REMOTE1')) {
+            tagCurrent = jobAd.tags[i];
+        }
+    }
+    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id, tagCurrent: tagCurrent};
     return detailFormatterTemplate(context);
 }
 
