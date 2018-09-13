@@ -150,6 +150,32 @@ div.homepage-f3 {
     box-shadow: 0 0 0 1px #428bca, 0 0 0 1px rgba(0,0,0,.9) inset;
 }*/
 
+.report-btn-font-body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.div-report-btn button {
+    color: #428bca;
+    border: none;
+}
+.page-jobad-modal-tell-more {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.page-jobad-modal-tell-more > div:first-child {
+    margin-right: 20px;
+}
+
+.page-jobad-modal-tell-more > div:last-child span {
+    font-size: larger;
+    display: block;
+}
+
+.page-jobad-modal-tell-more label {
+    font-weight: normal;
+    cursor: pointer;
+}
 
 /* Search Filters: checkbox and radiobutton Styling */
 
