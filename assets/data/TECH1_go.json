@@ -1,6 +1,162 @@
 {
  "items": [
   {
+    "id": "LoYtZ-z-RGSPYtg5gi18iA",
+    "url": "http://jobmote.com/jobs/25493-sirt-detection-engineering-lead",
+    "title": "SIRT Detection Engineering Lead",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=1, dotnet=0, c=0, mobile=0, go=8, nodejs=1, bigdata-ml=0, ruby=4, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "GitHub",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 14, 2018 3:21:57 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>GitHub is changing the way the world builds software, and we want you to help change the way we secure GitHub. We are looking for an experienced Detection Engineering Lead to join our remote SIRT focused on detecting and responding to security threats against GitHubbers, GitHub users, and abuse of GitHub infrastructure.</p><p>Interested in leading efforts related to threat hunting, MITRE ATT&amp;CK, building and tuning detection logic, alert enrichment, or response automation?</p><p>As a Detection Engineering Lead, you will, alongside peers within GitHub Security as well as GitHub's Engineering, Legal, and Support teams, lead efforts to design and build a comprehensive threat detection program. This includes work to improve telemetry, build and tune alerting and enrichment tools, and then use those tools for intrusion detection, incident response, and hunting. A successful applicant will have a desire to provide technical leadership for detecting and hunting a variety of adversaries in diverse environments at scale.</p><p><strong>SIRT Detection Engineering Lead Responsibilities</strong> Provide day-to-day technical and process leadership for engineers designing and building a comprehensive, structured threat detection program. Identify active threats to GitHub system environments including GitHub.com, corporate networks, third party services, and individual user endpoints. Lead work with stakeholders throughout security and engineering to develop and improve threat detection logic, enhance response capabilities, and deploy new tools. Lead structured hunting for novel or anomalous activity indicative of bad actor tactics, techniques, and procedures (TTPs). Lead alert enrichment and detection response automation efforts. Create and maintain relevant team documentation and standards.</p><p><strong>Required Skills &amp; Experience</strong> 5+ years experience or demonstrable proficiency in threat detection or threat intelligence. Proven experience providing technical leadership to a team of security analysts or engineers. General experience in the following disciplines with deep experience in one or more: Log analysis: Large scale analysis of standard and custom log types using client and server side log analysis tools such as Splunk, ELK, and lnav. Familiarity with file system, memory, or live response on MacOS and/or Linux. Network traffic analysis: Analyze network telemetry from intrusion detection systems and flow monitoring systems. Detection development: Host and network level detection with tools such as osquery, yara, auditd, etc. Threat intelligence: Collection, analysis, production, or consumption of threat data and finished intelligence. Experience using or securing Linux day-to-day in a production environment. Basic scripting experience with Ruby, Python, Bash, or Powershell. Exceptional documentation and written communication skills.</p><p><strong>Preferred Skills &amp; Experience</strong> Experience fighting attack and abuse activity at large scale. Software engineering experience with Python, Ruby, Golang, JavaScript, or other OOP languages. Understanding of common identity verification and authentication methods and the limitations of such methods. Malware triage analysis: Identify and verify malicious content such as exploits and malware and make response determinations. DevOps or security automation experience. Experience working with git and GitHub. Experience working with distributed teams.</p></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "esQYDvi0R3WZFCfwMSpYzw",
+    "url": "https://stackoverflow.com/jobs/198117/senior-go-developer-outlyer?a=14rqbOZB4BZm",
+    "title": "Senior Go Developer at Outlyer (London, UK) ",
+    "tags": [
+      "DBG:surround``3N(locat,remot)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:go-developer/go/39",
+      "DBG_TECH1:k/t/w:go/go/18",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=57, nodejs=27, bigdata-ml=0, ruby=4, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "Outlyer",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 14, 2018 1:06:09 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Senior Go Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Data &amp; Analytics, DevOps, SaaS</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Outlyer | London, UK<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>London, UK.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div></div><div>go</div><div>web-services</div><div>python</div><div>node.js</div><div>ruby</div>                <h3>Job description</h3>                <div><p>Who are we looking for?</p><p>A mid/senior Go developer to join our backend dev team. You will have strong technical abilities and a passion for solving tough problems. A self-starter with a strong sense of ownership and drive is a must.</p><p>Experience</p><p>We are only looking for smart people who can get up to speed quickly</p><p>* A strong background in building web services</p><p>* Experience with building and architecting services for scale</p><p>* Highly competent in either Go, Python, Nodejs or Ruby</p><p>A professional attitude to developement</p><p>* A desire to write clean maintainable code</p><p>* Write code with good test coverage</p><p>* A willingness to own the services you build</p><p>Being a self-starter who is keen to offer feedback and options on how to solve technical problems</p><p>* Discussing design and architecture of features</p><p>* Taking initiative when improvement to product and process can be made</p><p>* Offer product opinions based on usage a when defining requirements</p><p>Communication is key to a successful team, so being able to work and communicate effectively with the rest of your team is a requirement.</p><p>* Good written and verbal communication skills</p><p>Nice to have</p><p>* Experience with Go</p><p>* Distributed systems knowledge</p><p>* Have previously worked with Kafka, Kubernetes and AWS</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/198117?reset=False&amp;ra=14rqbOZB4BZm&amp;oqs=a%3D14rqbOZB4BZm' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Outlyer</h3>            <div><p>Outlyer was founded in October 2013 by DevOps engineers who had been in charge of monitoring at several large SaaS companies. Just like the 60 companies we spoke to, we were disgruntled by needing six months to build proper monitoring, using tools that did not scale nor allow for adoption outside of the operations team.</p><p>We knew the value of monitoring done right, so we set out to build Outlyer: the only true self-service monitoring platform that enables agility at scale, supports microservices, and builds collaboration between dev and ops. Outlyer is used by world-class DevOps teams at Salesforce, Moz and the BBC.</p><p>We continue to monitor differently, innovating at a rapid pace, and empowering our customers to become Outlyers in their respective industries.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Very competitive salary, with stock options</span>                            </li>                            <li>                                <span></span>                                <span>Flexible with remote hours</span>                            </li>                            <li>                                <span></span>                                <span>Pension</span>                            </li>                            <li>                                <span></span>                                <span>Free breakfast on Mondays</span>                            </li>                            <li>                                <span></span>                                <span>Beer (lager and ale), Cider and Prosecco on-tap</span>                            </li>                            <li>                                <span></span>                                <span>Professional barista onsite serving free coffee all day</span>                            </li>                            <li>                                <span></span>                                <span>Great office in central London, convenient for travel</span>                            </li>                            <li>                                <span></span>                                <span>Onsite yoga, mediation and massage</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ihOjOUusTea4_w1tjE9Nww",
+    "url": "http://jobs.github.com/positions/c9c96482-b77f-11e8-9b24-ffcf8bdc17d6",
+    "title": "Full Time: SIRT Detection Engineering Lead at GitHub in Remote- US",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=1, dotnet=0, c=0, mobile=0, go=8, nodejs=1, bigdata-ml=0, ruby=4, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 13, 2018 8:06:50 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<p>GitHub is changing the way the world builds software, and we want you to help change the way we secure GitHub. We are looking for an experienced Detection Engineering Lead to join our remote SIRT focused on detecting and responding to security threats against GitHubbers, GitHub users, and abuse of GitHub infrastructure.</p><p>Interested in leading efforts related to threat hunting, MITRE ATT&amp;CK, building and tuning detection logic, alert enrichment, or response automation?</p><p>As a Detection Engineering Lead, you will, alongside peers within GitHub Security as well as GitHub's Engineering, Legal, and Support teams, lead efforts to design and build a comprehensive threat detection program. This includes work to improve telemetry, build and tune alerting and enrichment tools, and then use those tools for intrusion detection, incident response, and hunting. A successful applicant will have a desire to provide technical leadership for detecting and hunting a variety of adversaries in diverse environments at scale.</p><p><strong>SIRT Detection Engineering Lead Responsibilities</strong>Provide day-to-day technical and process leadership for engineers designing and building a comprehensive, structured threat detection program.Identify active threats to GitHub system environments including GitHub.com, corporate networks, third party services, and individual user endpoints.Lead work with stakeholders throughout security and engineering to develop and improve threat detection logic, enhance response capabilities, and deploy new tools.Lead structured hunting for novel or anomalous activity indicative of bad actor tactics, techniques, and procedures (TTPs).Lead alert enrichment and detection response automation efforts.Create and maintain relevant team documentation and standards.</p><p><strong>Required Skills &amp; Experience</strong>5+ years experience or demonstrable proficiency in threat detection or threat intelligence.Proven experience providing technical leadership to a team of security analysts or engineers.General experience in the following disciplines with deep experience in one or more:Log analysis: Large scale analysis of standard and custom log types using client and server side log analysis tools such as Splunk, ELK, and lnav.Familiarity with file system, memory, or live response on MacOS and/or Linux.Network traffic analysis: Analyze network telemetry from intrusion detection systems and flow monitoring systems.Detection development: Host and network level detection with tools such as osquery, yara, auditd, etc.Threat intelligence: Collection, analysis, production, or consumption of threat data and finished intelligence.Experience using or securing Linux day-to-day in a production environment.Basic scripting experience with Ruby, Python, Bash, or Powershell.Exceptional documentation and written communication skills.</p><p><strong>Preferred Skills &amp; Experience</strong>Experience fighting attack and abuse activity at large scale.Software engineering experience with Python, Ruby, Golang, JavaScript, or other OOP languages.Understanding of common identity verification and authentication methods and the limitations of such methods.Malware triage analysis: Identify and verify malicious content such as exploits and malware and make response determinations.DevOps or security automation experience.Experience working with git and GitHub.Experience working with distributed teams.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "65pvs13OTIGZPkRqKtuefg",
     "url": "https://stackoverflow.com/jobs/194942/go-backend-developer-kraken-bitcoin-exchange?a=13np6ZIxvFPG",
     "title": "Go Backend Developer at Kraken Bitcoin Exchange  ",
