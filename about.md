@@ -27,6 +27,16 @@ A significant part of web crawling code is written by [Sergei Poznanski](https:/
 Logo and images by [Aleksei Derin](https://creativemarket.com/alekseiderin).
 
 ### Contacts
-<a href="mailto:%22Dmitri%20Geller%22%3cbackend.developer.33@gmail.com%3e">Email: backend.developer.33@gmail.com</a>
+[linkedin.com/in/01dmitri/](https://www.linkedin.com/in/01dmitri/) 
 
-[Linkedin: linkedin.com/in/01dmitri/](https://www.linkedin.com/in/01dmitri/) 
+<script type="text/javascript" language="javascript">
+<!-- 
+ML="o:rac <>\"e.ht/l@fim=4";
+MI="635;29@C8B3A><01B3A>?29B0<9DB9:40B87B3A>?29B0<9DB9:40B6=37";
+OT="";
+for(j=0;j<MI.length;j++){
+OT+=ML.charAt(MI.charCodeAt(j)-48);
+}document.write(OT);
+// -->
+</script>
+
