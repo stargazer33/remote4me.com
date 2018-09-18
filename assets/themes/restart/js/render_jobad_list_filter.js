@@ -21,6 +21,7 @@ var detailFormatterTemplate = null;
 
 var currentJobId = null;
 var tagCurrent = null;
+var titleCurrent = null;
 
 /**
  * runs when page load complete
@@ -102,6 +103,7 @@ $(document).ready(function () {
             var button = $(event.relatedTarget);
                 currentJobId = button.data('postid');
                 tagCurrent = button.data('tagcurrent');
+                titleCurrent = button.data('title');
         });
 
         // Initialize Firebase
@@ -166,6 +168,9 @@ function postReport(type) {
         db.collection("job-remote-error").add(reportObj)
             .then(function(docRef) {
                 console.log("Document written with ID: ", docRef.id);
+                $('#reportthisjob-modal-success-title').html(titleCurrent);
+                $('#reportthisjob-modal-success-tag').html(reportObj.tagShould === "REMOTE1/50" ? "[50% REMOTE]" : "[NOT REMOTE]");
+                $('#reportthisjob-modal-success').modal("show");
             })
             .catch(function(error) {
                 console.error("Error adding document: ", error);
@@ -528,7 +533,7 @@ function detailFormatter(index, jobAd) {
             tagCurrent = jobAd.tags[i];
         }
     }
-    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id, tagCurrent: tagCurrent};
+    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id, tagCurrent: tagCurrent, title: jobAd.title};
     return detailFormatterTemplate(context);
 }
 
