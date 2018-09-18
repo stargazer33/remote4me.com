@@ -1,6 +1,496 @@
 {
  "items": [
   {
+    "id": "8Pm6vAtdROyJjKDdi5FW4Q",
+    "url": "https://remote.co/job/senior-backend-engineer-6/",
+    "title": "Senior Backend Engineer",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:c#/c/8",
+      "DBG_TECH1:k/t/w:c#/dotnet/20",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=36, c=8, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Wildbit",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 18, 2018 6:00:11 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Senior Backend Engineer at <span>Wildbit</span></h2><div><span><i></i> Remote</span>         | <span> International </span></div><div>            <p><strong>Remote</strong></p><p><strong>Description:</strong></p><p>Postmark is a cloud email infrastructure product that allows businesses to send and receive transactional emails from their applications. We make it easy for our customers to add email communication to their applications using a full-featured REST API, as well as through the standard SMTP protocol.</p><p><strong>What’s it like to work on Postmark</strong></p><p>A Postmark backend engineer will primarily write C# code to improve and enhance the API and backend services. You will use/improve/scale out our infrastructure software which currently consists of MySQL, RabbitMQ, and Elasticsearch.</p><p>A Postmark engineer is responsible for their tasks, breaking them up into manageable bits with an emphasis on deployability and backward compatibility, communicating technical decisions to the engineering team, and communicating timelines and customer impact to the product manager.</p><p>A Postmark engineer is responsible for the health of our production system. You’ll be part of an on-call schedule and help mitigate abuse of the system by spammers.</p><p>You’ll scale-out infrastructure, optimize code and queries, and make changes to improve reliability.</p><p>Engineers on Postmark have a tremendous amount of autonomy on the technical direction of our product but are held to a high standard for the reliability, maintainability, and usability of code they write. With this autonomy, individual engineers are expected to evaluate the current landscape of our product, as well as consider future directions to develop the best solution for today, with the understanding that there will be inevitable time constraints associated with growing and maintaining a successful product like Postmark.</p><p><strong>How interviews typically go</strong><strong>:</strong></p><ul><li>A few short written questions to gauge technical skill and written communication.</li><li>(We don’t believe in on-the-spot whiteboard coding)</li><li>A simple C# coding project to gauge C# proficiency and breaking down a larger task.</li><li>Technical interview with members of the engineering team to review your coding project, for you to share your experience and for us to share what the day to day job is like.</li><li>Interview with our CEO Natalie and CTO Chris.</li></ul><p><strong>You might work on:</strong></p><ul><li>Building an entirely new feature like email templates.</li><li>Adding logging/metrics to gain more observability into the system.</li><li>Creating and configuring new servers to handle additional load.</li><li>Figuring out what is the right index to add to make a query faster.</li><li>Improving internal tools and interfaces to make your coworkers lives better.</li><li>Helping a customer debug why their emails aren’t sending correctly.</li><li>Handling production outages.</li></ul><p><strong>Requirements:</strong></p><p><strong>Y</strong><strong>ou may be a fit for this role if you:</strong></p><ul><li>Have experience building HTTP APIs.</li><li>Write code using C# and are familiar with the .NET ecosystem.</li><li>Have experience building and scaling infrastructure.</li><li>Can work with and maintain servers using Windows and Linux operating systems.</li><li>Understand when and how to leverage a message queueing system like RabbitMQ.</li><li>Know how to optimize and maintain a SQL database like MySQL.</li><li>Possess the ability to take high-level business objectives and scope and develop appropriate technical solutions to address those needs.</li></ul><p><strong>Preferred&nbsp;</strong><strong>e</strong><strong>ducation and&nbsp;</strong><strong>e</strong><strong>xperience</strong><strong>:</strong></p><ul><li>Have built and supported apps with thousands of active users.</li><li>Understand and adhere to SOLID software design principles.</li><li>Implemented web services using Twelve-Factor app principles.</li><li>Can leverage web technologies like JavaScript, Rails, etc.</li><li>Have operational experience managing Linux servers.</li><li>Understand containerization technologies like Docker.</li><li>Understand configuration management tools like Ansible.</li><li>Understand provisioning technologies tools like Terraform.</li><li>Can work with and maintain a document/NoSQL database like Elasticsearch.</li><li>Are familiar with email-specific topics such as SMTP, SPF, DKIM, DMARC, etc.</li></ul><p><strong>Benefits:</strong></p><ul><li><strong>Remote-first culture with half the team in Philly and half the team working remotely from all over the world</strong></li><li>Chef-prepared family lunches (in Philly office)</li><li>Full health benefits (100% paid for employee and spouse/dependents)</li><li><strong>Company-paid retreats</strong></li><li>Computer setup of your choice, renewed every 2 years</li><li>Quarterly profit sharing</li><li>Conferences and career development</li><li>Currently experimenting with a 4 day work weeks with flexible hours</li></ul>        </div><div>        <a href='https://wildbit.com/jobs/senior-backend-engineer-1' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "f8GoDl9MTAql1sFm76RXtQ",
+    "url": "https://remote.com/jobs/browse/preview/software-developers-aspnet-c-android-java-scripts-ios-html-css-php-mvc",
+    "title": "Software Developers - Asp.Net, C#, Android, Java Scripts, IOS, HTML, CSS, PHP, MVC",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:ajax/frontend/3",
+      "DBG_TECH1:k/t/w:android/java/4",
+      "DBG_TECH1:k/t/w:android/mobile/8",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/24",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:css/frontend/9",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:ios/apple/6",
+      "DBG_TECH1:k/t/w:ios/mobile/6",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:php/php/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=55, c=6, mobile=16, go=0, nodejs=1, bigdata-ml=8, ruby=0, apple=6, java=8, gamedev=0, php=15, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "NP Consultant",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "Rs",
+      "minValue": 100000,
+      "maxValue": 300000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 18, 2018 12:40:34 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "JOB TYPE: Full time<br /><br />LOCATION:<br />Remote<br />Anywhere in<br />Vadodara, Gujarat, India<br />Mumbai, Maharashtra, India<br />Bengaluru, Karnataka, India<br />Surat, Gujarat, India<br />Ahmedabad, Gujarat, India<br /><br />EXPERIENCE: beginner<br /><br />COMPANY: NP Consultant; 1-10 employees; 75-100% remote;<br /><br />SKILLS:<br />• iOS Design<br />• HTML + CSS<br />• Android Application Development<br />• Java Scripts<br />• PHP Frameworks<br />• ASP.NET MVC<br />• C#.NET<br /><br />Hiring For Software Developer - 10 Nos. (Female / Males)<br /> Qualification : B.E, B.Tech (CS), MCA<br />Experience : FRESHERS  to 8 years<br />Languages Known : C# & .net Framework for Client Server & Web Application. Knowledge with Asp.net Web Forms and knowledge in Implementing Object Oriented Design Using Mvc, Html,Css Xml,Javascript Ajax .<br />Knowledge of Android and IOS Development Would Be An Advantage.<br />Job Location: Vadodara<br />Job Type: Full time<br /><br />Interested people forward their CV at id: npconsultant1973@gmail.com to schedule you for the interview.",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "pZ9H7qcbRdasd-hFQY___g",
+    "url": "http://jobmote.com/jobs/25798-full-stack-net-developer-remote",
+    "title": "Full Stack .NET Developer - Remote",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/16",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/24",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=55, c=6, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=3}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Cooper Lomaz Recruitment",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 18, 2018 10:20:51 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>Full Stack .NET Developer<br>C# / SQL / JavaScript </p><p>£30,000 - £37,000 </p><p>A once in a life time, career defining opportunity to be involved in advanced systems development with a company who provide bespoke software development to a broad and vibrant client base. </p><p>They have an incredibly exciting pipeline of active product development with projects so secretive they are bolted down, lock and key by non-disclosure agreements. </p><p>This company employ a highly technical and versatile team of full stack .NET developers who operate across the entire software development life cycle. </p><p>The core technologies used by all developers are C# and ASP.NET backed by either a SQL or MySQL database with the majority of front-end work done using JavaScript and various libraries and frameworks. </p><p>The ideal candidate will be capable of working on both back and front-end development, with an ability and ideally a track record of customer facing work in the past liaising with 3rd parties working through the design, architecture and prototyping of products. </p><p>As well as having a respectable track-record they are looking for someone with a clear passion, drive and aptitude for software development. Someone who is always exploring new processes, new technologies and can collaborate exciting ideas to the rest of their team. </p><p>Initial interviews will be conducted over the phone with the second and final stage face-to face. </p><p>If you are interested in this opportunity please apply now. </p><p>C# / SQL / JavaScript / ASP.NET</p><p></p></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Ht51q6_5Rgup2TmCV0SESQ",
+    "url": "https://whereverjobs.com/listing/4073/full-stack-asp-net-mvc-c-net-cloud-developer",
+    "title": "Full Stack ASP.NET MVC / C# / .NET Cloud Developer",
+    "tags": [
+      "DBG:surround``remot 2W OR(employe,develop,engin,candid,workmat) 2W welcom",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/24",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/32",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:fabric/python/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=103, c=6, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=23}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Fitabase",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 18, 2018 4:02:15 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Full Stack ASP.NET MVC / C# / .NET Cloud Developer</h3><div>Company: Fitabase<br><br></div><div>                                <div><span></span></div><div><span>Hello! We’re Fitabase and we’re in need of a passionate full stack developer who can help code, design and lead key development areas of our cloud platform and join us as we expand our product features and market reach. We’re looking for someone who can quickly become an integral part of the way we plan and design our health sensor data platform. </span></div><div><br></div><div><span><b>Technologies we’d love you to have experience with:</b></span></div><ul><li><span>C# / .NET / ASP.NET MVC</span><br></li><li><span>SQL</span><br></li><li><span>HTML5 / Bootstrap</span><br></li><li><span>Javascript</span><br><br></li></ul><div><b><span>Tech you should be excited to get to learn more about while at Fitabase:</span><br></b></div><div></div><ul><li><span>ASP.NET WebAPI</span><br></li><li><span>Vue.js</span><br></li><li><span>Git / Github</span><br></li><li><span>Azure</span><br></li><li><span>Scalable, Distributed Microservices Systems Design</span><br><br></li></ul><div><span><b>Why You’ll Love Working with Us</b></span><br></div><div></div><ul><li><span>We use all the bleeding edge technologies. For this role you'll use VS2017 and code against the latest .NET stack combined with modern Javascript, and utilize many of the latest Azure services and offerings. </span><br></li><li><span>You will get exposure to exciting new technologies like DocumentDB, Redis, SQL Azure, App Services, Service Fabric, Service Bus, API Management, and many other PaaS servings.</span><br></li><li><span>We’re experienced software developers always looking to learn from one another, collaborating in a fast-paced small team environment.</span><br></li><li><span>You will contribute to software that improves how important health research is done. Our customers include some of the most prestigious academic universities, hospitals, and clinical care providers all over the world who are using technology in new ways not yet in literature, and you get to learn from them while helping us!</span><br></li><li><span>You’ll actually see sunlight in our lovely open work environment.</span><br></li><li><span>Your opinions will be valued and heard and you will contribute to the future direction of our product.</span><br></li><li><span>Remote candidates welcomed! Please note, there will be some travel for an initial training in San Diego and then possibly a few times per year for in person team meetings.</span><br></li><li><span>You will get a Fitbit of your choice.</span><br></li></ul><div><br></div><div><span><b>Benefits</b></span></div><ul><li><span>Health Insurance</span><br></li><li><span>Dental Insurance</span><br></li><li><span>Paid Time Off</span><br></li><li><span>Paid Sick</span><br><br></li></ul>            </div><div>How to apply:<br>Please send 1) a resume and 2) a cover letter -- we’d love one that you wrote just for us that explains who you are and why YOU are right for this job. Our Email: <a href='mailto:jobs+dev@fitabase.com' rel='nofollow'>jobs+dev@fitabase.com</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "01Qw8tJRRrqJziNLvLaDzA",
+    "url": "https://stackoverflow.com/jobs/180008/senior-c-sharp-developer-for-cancer-care-workflow-radformation?a=YmSOWbMmBoI",
+    "title": "Senior C# Developer for Cancer Care Workflow Automation at Radformation (New York, NY) ",
+    "tags": [
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``remot 16W timezon",
+      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:wpf/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=31, c=6, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/America/East"
+    ],
+    "tagsNames1": [
+      "US East time zone"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Radformation",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 90000,
+      "maxValue": 130000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 18, 2018 1:06:10 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Senior C# Developer for Cancer Care Workflow Automation</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer, Desktop Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cancer Care, Healthcare, Medical Software</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Radformation | New York, NY<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT-05:00) Eastern Time +/- 4 hours</span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>New York, NY.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div></div><div>c#</div><div>wpf</div><div>.net</div><div>google-cloud-platform</div>                <h3>Job description</h3>                <div><p>Radformation is seeking a self-motivated&nbsp;senior software engineer to join an innovative team.&nbsp; This role is ideal for someone who is interested in impacting cancer patients throughout the country.&nbsp; The&nbsp;senior software engineer&nbsp;is responsible for implementing software requirements and leading software development.&nbsp;&nbsp;This position will define standards and best practices to ensure consistency and high quality of software design and implementation. &nbsp;Your development and leadership skills will play an integral role as we design new products for cancer centers.</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/180008?reset=False&amp;ra=YmSOWbMmBoI&amp;oqs=a%3DYmSOWbMmBoI' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Radformation</h3>            <div><p>We create solutions that detect medical errors and save clinical time for clinicians with a focus in radiation therapy.&nbsp; Using advanced algorithms and optimization techniques, our solutions bring automation to cancer treatments. &nbsp; Currently, many safety checks and planning steps are manually completed.&nbsp; Our goal is to help automate these processes for a more efficient and safer healthcare environment.</p><p>Our&nbsp;software focus on three key areas:</p><ol><li>Time savings through automation.</li><li>Error reduction through automated systems monitoring patients for errors.</li><li>Increased quality care through advanced algorithms creating patient treatment plans that are&nbsp;improved from current manual methods.</li></ol>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Unlimited vacation</span>                            </li>                            <li>                                <span></span>                                <span>Health benefits</span>                            </li>                            <li>                                <span></span>                                <span>Dental benefits</span>                            </li>                            <li>                                <span></span>                                <span>Vision benefits</span>                            </li>                            <li>                                <span></span>                                <span>Stock options</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work schedule</span>                            </li>                            <li>                                <span></span>                                <span>Equipment</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "itgjARkoSYi_W_AITGPJxg",
+    "url": "https://whereverjobs.com/listing/4059/lead-net-developer-product-development-remote",
+    "title": "Lead .NET Developer - Product Development - Remote",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:knockout.js/frontend/8",
+      "DBG_TECH1:k/t/w:nuget/dotnet/8",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=59, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=27}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "OutMatch",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 18, 2018 12:31:20 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Lead .NET Developer - Product Development - Remote</h3><div>Company: OutMatch<br><br></div><div>                                <p>At&nbsp;<strong>OutMatch&nbsp;</strong>culture is not something we “create”, it’s something that we attract by finding people that want the same things in life. It’s the character of each individual that defines us. It’s our values and motivations that bind us. It’s something that each member of our team has the privilegeand the responsibility to help define and nurture. Collaboration is the foundation of our company, and we’re looking for smart individuals who are self-motivated and passionate to join us. When you work with us you will join a fast-paced team that has maintained a highly effective startup culture. We value passion, delivery of high quality software and the drive to continuously learn and improve.&nbsp;</p><p>At&nbsp;<strong>OutMatch</strong>&nbsp;you will participate in design, development, testing, debugging and configuration of web based and Mobile friendly software products/applications. You will have the opportunity to be part of the development team which is chartered with designing and building our next generation talent assessment system. Additionally, you will provide leadership and guidance to your team through coaching and mentorship towards successful project delivery, by maintaining high standards of code quality, following best practices and leading by example. <strong>As the .NET Developer of Product Development you will...&nbsp;</strong></p><ul><li>Lead a team of developers through the design, development, enhancement and support of service-oriented web based and Mobile web based SaaS applications using Microsoft technologies, ASP.NET MVC/WebApi, JS libraries and MS SQL Server Databases&nbsp;</li><li>Lead a remote agileteam in software engineering best practices for the full software development life cycle, including adhering to coding standards, setting up and maintaining builds for continuous integration; designing and coding enterprise framework components; and performing code reviews in a fast-paced agile environment.&nbsp;</li><li>Engage with the entire IT organization in the continuous improvement of the full SDLC, SDLC tools and processes.&nbsp;</li><li>Solve complex technical problems and design solutions while following best practice guidelines&nbsp;</li><li>Assist in driving the team through grooming and generating quality user stories that form the basis for design and development</li><li>Assist with configuration of solutions to meet unique customer requirements.&nbsp;</li></ul><p><strong>Our ideal Tech Lead will have.. &nbsp;</strong></p><ul><li>Bachelor’s degree in a relevant discipline.&nbsp;</li><li>Ability to think abstractly &amp; conceptually</li><li>8+ years of strong experience with designing and developing multi-tier applications using Microsoft .NET technologies.&nbsp;</li><li>2+ years as a Development Team Leader, mentoring and guiding team members.&nbsp;</li><li>OOP / Object / Component oriented design and programming.&nbsp;</li><li>Service-oriented design and implementation (SOAP/REST)</li><li>MVC and MVVM front-end design and development with frameworks such as Kendo UI, knockout.js, Angular JS or similar</li><li>Knowledge of XML, HTML5, JavaScript, CSS scripting languages</li><li>Experience with creation and publishing of NuGet packages a plus</li><li>Experience with devOps concepts and continuous integration tools including setting up builds and deployments to web servers.&nbsp; Experience with MSBuild and nAnt a plus</li><li>Solid understanding of Database design, implementation and interaction from code, preferably SQL Server experience.</li><li>Fluent Entity Framework experience a plus.&nbsp;</li><li>Excellent troubleshooting and problem-solving skills.&nbsp;</li><li>Experience working withremote/off-shore team membersa plus.&nbsp;</li></ul><p><strong>U.S. Citizens and those authorized to work in the U.S. are encouraged to apply. We are unable to sponsor at this time.&nbsp;</strong> <strong>You are&nbsp;going to love our benefits!&nbsp;</strong> Our salaries are competitive and grow to match your development and contribution.&nbsp;<br>We have annual bonuses!&nbsp;<br>We offer a 401(K) retirement plan with company match!&nbsp;<br>We cover all benefits costs for our employees (medical, dental, vision, life and disability) Additional dependent coverage can be purchased.&nbsp;<br>We have a very generous vacation policy! All new employees receive OutMatch stock options, and have plenty of opportunities to earn more!&nbsp;<br>Additionally, while working as part of a broad team of IT professionals you will have the opportunity for self-improvement and skill growth through collaboration, mentoring, and training.&nbsp;</p><p>OutMatch: <a href='http://www.assess-systems.com/' rel='nofollow'>http://www.outmatch.com</a></p>            </div><div>How to apply:<br><a href='https://goo.gl/3E6LNZ' rel='nofollow'>goo.gl/3E6LNZ</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "AomZIpesTcmUqw7uDdkryg",
+    "url": "https://whereverjobs.com/listing/3993/software-engineer",
+    "title": "Software Engineer",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:electron/nodejs/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:macos/apple/6",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:windows/dotnet/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=24, c=0, mobile=0, go=0, nodejs=30, bigdata-ml=0, ruby=0, apple=6, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Passel",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 18, 2018 12:28:18 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Software Engineer</h3><div>Company: Passel<br><br></div><div>                                <div><span>We are </span><span>seeking a self-motivated, highly-skilled</span><span> Software Engineer to </span><span>jump in and </span><span>help us maintain our </span><span>Forcefield</span><span> VPN application for Mac, Windows and Linux. Forcefield is </span><span>our no-log</span><span> VPN service designed to make privacy and security easy,</span><span></span><span>f</span><span>orcefield.passel.io</span><span>.</span></div><div><br></div><div><span>The project is a cross</span><span>-</span><span>platform desktop application written using Electron JS, but it requires a deep understanding of native development specifically for MacOS and Windows.</span></div><div><span>A firm u</span><span>nderstanding </span><span>about </span><span>how the NetworkExtension API works is crucial to this project.</span></div><div><br></div><div><span><b>About Passel:</b></span></div><div><span><b><br></b></span></div><div><span>Passel is a fast-growing company</span><span> working to</span><span> create innovative technologies that help protect our </span><span>users</span><span> rather than exploit them.</span><span></span><span>Passel’s team members all work remotely. We believe in and foster an entrepreneurial, self-motivating work environment.</span></div><div><br></div><div><span><b>Required Skills and Abilities:</b></span></div><div><span><b><br></b></span></div><ul><li><span>Experience with </span><span>OpenVPN</span><span> and OpenWRT</span></li><li><span>Familiar with </span><span>Strongswan</span></li><li><span>Knowledge of </span><span>Electron</span><span> and </span><span>NodeJS</span></li><li><span>Experience with </span><span>MacOS</span><span> and Windows</span><span> Development</span></li><li><span>A</span><span>bility</span><span> to write software documentation</span></li></ul><div><br></div><div><span><b>Responsibilities:</b></span></div><div><span><b><br></b></span></div><ul><li><span>Implementing new features for the VPN client</span></li><li><span>Fixing existing problems with the VPN client</span></li><li><span>Communicating problems and possible solutions with rest of the team</span></li><li><span>Handle projects on a tight deadline</span></li></ul><div></div><div><br></div>            </div><div>How to apply:<br>Please send an email to <a href='mailto:hello@passel.io' rel='nofollow'>hello@passel.io</a> including why you are interested in working on Forcefield and what you feel you can bring to the Passel team. We are only accepting U.S. applicants at this time.</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Xbop2QmDQoKM2r-b2fdpOg",
+    "url": "https://whereverjobs.com/listing/3910/full-stack-asp-net-mvc-c-net-cloud-developer",
+    "title": "Full Stack ASP.NET MVC / C# / .NET Cloud Developer",
+    "tags": [
+      "DBG:surround``remot 2W OR(employe,develop,engin,candid,workmat) 2W welcom",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/24",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/32",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:fabric/python/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=103, c=6, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=23}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Fitabase",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 18, 2018 12:26:39 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Full Stack ASP.NET MVC / C# / .NET Cloud Developer</h3><div>Company: Fitabase<br><br></div><div>                                <div><span></span></div><div><span>Hello! We’re Fitabase and we’re in need of a passionate full stack developer who can help code, design and lead key development areas of our cloud platform and join us as we expand our product features and market reach. We’re looking for someone who can quickly become an integral part of the way we plan and design our health sensor data platform. </span></div><div><br></div><div><span><b>Technologies we’d love you to have experience with:</b></span></div><ul><li><span>C# / .NET / ASP.NET MVC</span><br></li><li><span>SQL</span><br></li><li><span>HTML5 / Bootstrap</span><br></li><li><span>Javascript</span><br><br></li></ul><div><b><span>Tech you should be excited to get to learn more about while at Fitabase:</span><br></b></div><div></div><ul><li><span>ASP.NET WebAPI</span><br></li><li><span>Vue.js</span><br></li><li><span>Git / Github</span><br></li><li><span>Azure</span><br></li><li><span>Scalable, Distributed Microservices Systems Design</span><br><br></li></ul><div><span><b>Why You’ll Love Working with Us</b></span><br></div><div></div><ul><li><span>We use all the bleeding edge technologies. For this role you'll use VS2017 and code against the latest .NET stack combined with modern Javascript, and utilize many of the latest Azure services and offerings. </span><br></li><li><span>You will get exposure to exciting new technologies like DocumentDB, Redis, SQL Azure, App Services, Service Fabric, Service Bus, API Management, and many other PaaS servings.</span><br></li><li><span>We’re experienced software developers always looking to learn from one another, collaborating in a fast-paced small team environment.</span><br></li><li><span>You will contribute to software that improves how important health research is done. Our customers include some of the most prestigious academic universities, hospitals, and clinical care providers all over the world who are using technology in new ways not yet in literature, and you get to learn from them while helping us!</span><br></li><li><span>You’ll actually see sunlight in our lovely open work environment.</span><br></li><li><span>Your opinions will be valued and heard and you will contribute to the future direction of our product.</span><br></li><li><span>Remote candidates welcomed! Please note, there will be some travel for an initial training in San Diego and then possibly a few times per year for in person team meetings.</span><br></li><li><span>You will get a Fitbit of your choice.</span><br></li></ul><div><br></div><div><span><b>Benefits</b></span></div><ul><li><span>Health Insurance</span><br></li><li><span>Dental Insurance</span><br></li><li><span>Paid Time Off</span><br></li><li><span>Paid Sick</span><br><br></li></ul>            </div><div>How to apply:<br>Please send 1) a resume and 2) a cover letter -- we’d love one that you wrote just for us that explains who you are and why YOU are right for this job. Our Email: <a href='mailto:jobs+dev@fitabase.com' rel='nofollow'>jobs+dev@fitabase.com</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "JoZ3Lwr9RRC7X7Y6qq27ZQ",
+    "url": "https://remote.co/job/full-stack-web-developer-7/",
+    "title": "Full Stack Web Developer",
+    "tags": [
+      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
+      "DBG:surround``remot 16W timezon",
+      "DBG_TECH1:k/t/w:angular/frontend/16",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/16",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/2",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=23, c=2, mobile=0, go=0, nodejs=14, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=33}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Stack Overflow",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 100000,
+      "maxValue": 140000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 17, 2018 6:54:19 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Full Stack Web Developer at <span>Stack Overflow</span></h2><div><span><i></i> Remote</span>        </div><div>            <p>at Stack Overflow</p><p><strong>Anywhere (In-Office or Remote with time zone in UTC-8:00 to UTC+3:00)</strong></p><p><em><strong>Salary:</strong> $100,000 – $140,000</em></p><p>Come help us create the future of Stack Overflow. We’re looking for creative developers who are excited about building tools to support the growth of our company from within, with a special focus on tools for our growing sales team. Some projects we’ve been working on:</p><ul><li>Live-updating status dashboards displayed in every office and used by the sales team to monitor sales and view progress towards sales goals</li><li>Backend and Frontend systems that control sales, fulfillment, billing, and accounting</li><li>Integrations with different third-party APIs used to support a wide array of internal business needs</li><li>Building and maintaining public facing properties used by developers, the sales team and our B2B user base like the annual Stack Overflow Survey and stackoverflowbusiness.com</li></ul><p>As a developer on our Internal Dev team, you’ll work primarily in our main stack of C#, ASP.NET, and MSSQL Server, with supporting technologies like Angular, TypeScript, React and Redis. You’ll also have the opportunity to interact with a lot of third-party tools and APIs like Salesforce, Looker and Hubspot. We don’t expect you to know everything coming in, so we’ll pair you with mentors who will help you learn and develop.</p><p><strong>Skills &amp; Requirements</strong></p><p><strong>We expect to see:</strong></p><ul><li>Solid programming skills in your language of choice (not necessarily ours) and a track record of getting stuff done</li><li>3+ years full-stack web dev experience with any major server-side stack (e.g. ASP.NET, Node.js), relational database (MSSQL, MySQL), and modern front-end framework (Angular, React, etc). Experience in our stack is a plus, but not a requirement.</li><li>Self-motivating, self-directing and a great communicator</li></ul><p><strong>We like to see (but not required):</strong></p><ul><li>Experience taking initiative on all stages of the project life cycle (from initial specification through release), especially experience on internal-facing company projects</li><li>Experience working remote and/or working with teams that are distributed geographically</li><li>An active Stack Overflow profile, open source code, example projects that you’re proud of, or any other evidence of your passion for building great software</li><li>Knowledge of how Stack Overflow works from our blog and podcasts</li></ul><p><strong>What we value:</strong></p><ul><li>Servant Leadership: We lead by empowering and inspiring people to do their best work, not by micromanaging. We hire smart people, set them up for success, then get out of their way.</li><li>Collaboration: The best products are created when people from different backgrounds and disciplines work closely together in an environment of respect and trust.</li><li>Transparency: Trust is built on openness and transparency. If there is not a good reason to keep it a secret, we share it. For example, we share our complete engineering salary formula.</li><li>Inclusion: We do our best work when we can be our whole selves at work. We’re committed to policies and benefits that support people, and leaders who foster an open and inclusive culture.</li></ul><p><strong>What you’ll get in return:</strong></p><ul><li><strong>Flexible hours</strong></li><li>20 days paid vacation + holidays</li><li>Completely free health insurance – no copay, no premiums (US residents)</li><li>Generous parental leave (10-16 weeks at 100% pay), family care leave, and unlimited sick days</li><li>Employees will never be poked with a sharp stick</li></ul><p><strong>If you want to work remotely.</strong>&nbsp;<strong>We’ll help you set up a great home office, with an ergonomic chair, standing desk, and any other equipment you need to do your job.</strong></p><p><strong>If you want to work in our office&nbsp;</strong>You’ll get your own private office in our headquarters in New York City, and enjoy additional benefits like free lunch every day prepared by our own in-house chefs, transportation reimbursement, and all the espresso you can drink.</p><p><strong>About Stack Overflow</strong></p><p><strong>Stack Overflow</strong>&nbsp;is the largest, most trusted online community for developers to learn, share their knowledge, and build their careers. More than 50 million professional and aspiring programmers visit Stack Overflow each month to help solve coding problems, develop new skills, and find job opportunities.</p><p>We partner with businesses to help them understand, hire, engage, and enable the world’s developers. Our products and services are focused on developer marketing, technical recruiting, market research, and enterprise knowledge sharing.</p><p>We believe in hiring smart people and getting out of their way. We have an office in New York with some of the best amenities of any New York startup, and we have people who work remotely all over the world. We keep meetings and ceremony to an absolute minimum.</p><p><strong>Diverse teams build better products.</strong></p><p><em>Legally, we need you to know this:&nbsp;</em><br>Stack Exchange, Inc. does not discriminate in employment matters on the basis of race, color, religion, gender identity or expression, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, disability, or any other protected class. We support workplace diversity.</p><p><em>But we want to add this:</em><br>We strongly believe that diversity of experience contributes to a broader collective perspective that will consistently lead to a better company and better products. We are working hard to increase the diversity of our team wherever we can and we actively encourage everyone to consider becoming a part of it.</p>        </div><div>        <a href='https://stackoverflow.com/company/work-here/995870/full-stack-web-developer-internal' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "0BpgIUKRRO2jUGVRBnrHJw",
     "url": "http://jobmote.com/jobs/25722-junior-net-developer-central-london-remote-30-000",
     "title": "Junior .NET Developer - Central London Remote - £30,000",
