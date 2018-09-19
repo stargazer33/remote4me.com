@@ -169,7 +169,7 @@ function postReport(type) {
             .then(function(docRef) {
                 console.log("Document written with ID: ", docRef.id);
                 $('#reportthisjob-modal-success-title').html(titleCurrent);
-                $('#reportthisjob-modal-success-tag').html(reportObj.tagShould === "REMOTE1/50" ? "[50% REMOTE]" : "[NOT REMOTE]");
+                $('#reportthisjob-modal-success-tag').html(reportObj.tagShould);
                 $('#reportthisjob-modal-success').modal("show");
             })
             .catch(function(error) {
