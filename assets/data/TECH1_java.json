@@ -1,6 +1,112 @@
 {
  "items": [
   {
+    "id": "Jd4JPqBvSW29TafiRabhDA",
+    "url": "https://remote.com/jobs/browse/preview/java-developer-full-time-job-in-poland",
+    "title": "Java Developer (full-time job in Poland)",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
+      "DBG_TECH1:k/t/w:eclipse/java/1",
+      "DBG_TECH1:k/t/w:gwt/java/8",
+      "DBG_TECH1:k/t/w:java-developer/java/13",
+      "DBG_TECH1:k/t/w:java-ee/java/13",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:k/t/w:jboss/java/16",
+      "DBG_TECH1:k/t/w:junit/java/8",
+      "DBG_TECH1:k/t/w:maven/java/26",
+      "DBG_TECH1:k/t/w:spring-mvc/java/8",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=107, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Natek Poland",
+      "sameAs": "www.natek.eu"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 24000,
+      "maxValue": 90000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 20, 2018 12:22:54 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "JOB TYPE: Full time<br /><br />LOCATION:<br />Poland<br />(Partial remote)<br /><br />Anywhere in<br />Poland<br /><br />EXPERIENCE: intermediate<br /><br />COMPANY: Natek Poland; 500-1000 employees; 25-50% remote;<br /><br />SKILLS:<br />• Maven<br />• Git<br />• Java<br />• JBoss<br />• SoapUI<br />• Oracle<br /><br />We are looking for Java Developers who would join the R&D Team in Tczew, Poland. The team is in charge of new featurees and improvements done as part of customer project.<br /><br />The customer is an international digital security company providing software applications, secure personal devices such as smart cards and tokens, and managed services.<br /><br />Responsibilities: <br />- analysis of requirements, prototyping, general and detailed designs, coding and validation <br />- ensuring quality through peer reviews of the designs and code <br />- participation in validation campaigns and final packaging of the project<br />- recommendation and execution of new approaches to existing software development processes and procedures <br />- contribution to innovative ideas for technical improvements <br />- participation in support and maintanance or projects <br /><br />Requirements: <br />- BS/MS in Engineering, Computer Science or another relevant background<br />- Min. 3 years of experience <br />- Technical skills: JAVA/JEE/Spring/Web Services/GWT; Maven; Git/Mercurial, Eclipse, Jboss, Junit, soapUI, Oracle<br />- expertise in software development process, design and development <br />- very good English <br /><br />Benefits: <br />- private life insurance, relocation bonus, company social events, access to e-learning platform, private mediacl healthcare, mutlisport card, permament employment or b2b contract",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "0aSQ_adLQvWrFI3GuszGoA",
+    "url": "https://remoteok.io/jobs/68972",
+    "title": "Elasticsearch",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:java-developer/java/13",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=15, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Elastic",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 20, 2018 7:41:05 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<td><span><h2>Elasticsearch</h2></span><br><span><h3>Elastic</h3></span></td><div><div><br>At Elastic, we have a simple goal: to solve the world's data problems with products that delight and inspire. As the company behind the popular open source projects — Elasticsearch, Kibana, Logstash, and Beats — we help people around the world do phenomenal things with their data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots. We unite Elasticians across 30+ countries (and counting!), 18 timezones and 30 different languages into one coherent team, while the broader community spans across over 100 countries.<br><br>Engineering Philosophy<br><br>We're looking for a Java Engineer to join the Elasticsearch team, focusing on work on Security. Our team builds Elasticsearch, the heart of the Elastic Stack.<br><br>Engineering a distributed system that is easy to operate via elegantly designed APIs is a challenge. It requires software development skills and the ability to think like a user. We care deeply about giving you ownership of what you’re working on. Our company believes we achieve greatness when they are set free and are surrounded and challenged by their peers. At Elastic, we effectively don’t have a hierarchy to speak of; we feel that you should be empowered to comment on anything, regardless of your role within the company.<br><br>What You Will Be Doing:<br><br><br>* Evolving the security features of Elasticsearch.<br><br>* Implement authentication, authorization, and other security protocols within Elasticsearch.<br><br>* Build the foundation of security for the Elastic Stack using knowledge of cryptographic primitives and security trade-offs.<br><br>* Prototype new ideas and experiment openly.<br><br>* Collaborating in the open with the Elasticsearch team, Elastic Stack users, and others supporting open source projects.<br><br>* Working with the community on bugs and performance issues and assisting out support engineers with tougher customer issues.<br><br><br><br><br>What You Bring Along:<br><br><br>* You are comfortable coding in Java, conversant in the standard library of data structures and concurrency constructs, as well as newer features like lambdas.<br><br>* Experience securing applications and knowledge of security protocols.<br><br><br><br><br>Bonus Points:<br><br><br>* You've worked on open source projects before and are familiar with different styles of source control workflow and continuous integration.<br><br>* You've built things with Elasticsearch before, and understand how distributed systems operate and the limitations and advantages.<br><br><br><br><br>Additional Information:<br><br>We're looking to hire team members invested in realizing the goal of making real-time data exploration easy and available to anyone. As a distributed company, we believe that diversity drives our vibe! Whether you're looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life.<br><br><br>* Competitive pay based on the work you do here and not your previous salary<br><br>* Stock options<br><br>* Global minimum of 16 weeks of paid in full parental leave (moms &amp; dads)<br><br>* Generous vacation time and one week of volunteer time off<br><br>* Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.<br><br><br><br><br>Elastic is an Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.<p>See more jobs at <span>Elastic</span></p></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "7qzcr-pbQMyUd7Mw_nb0OQ",
     "url": "https://stackoverflow.com/jobs/173627/rust-software-engineer-pyrofex-corporation?a=WecHwmYEr1m",
     "title": "Rust Software Engineer at Pyrofex Corporation (Orem, UT) ",
@@ -5848,74 +5954,6 @@
     "published": "Aug 1, 2018 9:38:32 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<h3>Scala developer for NetLogo</h3><div>Company: Northwestern University</div><div>Type: full-time</div><div>Location: Evanston, IL<br><br></div><div>                <div>            <h2>Job Summary</h2><p>The CCL Lab at Northwestern University is looking for a full-time Scala/Java Software Developer to work on the NetLogo desktop application, a celebrated modeling environment used in both education and research.</p><p>This Software Developer position is based at Northwestern University's Center for Connected Learning and Computer-Based Modeling (CCL), working in a small collaborative development team in a university research group that also includes professors, postdocs, graduate students, and undergraduates, supporting the needs of multiple research projects. A major focus would be on development of NetLogo, an open-source modeling environment for both education and scientific research. CCL grants also involve development work on HubNet and other associated tools for NetLogo, including research and educational NSF grants involving building NetLogo-based science curricula for schools.</p><p>NetLogo is a programming language and agent-based modeling environment. The NetLogo language is a dialect of Logo/Lisp specialized for building agent-based simulations of natural and social phenomena. NetLogo has many tens of thousands of users ranging from grade school students to advanced researchers. A collaborative extension of NetLogo, called HubNet, enables groups of participants to run participatory simulation activities in classrooms and distributed participatory simulations in social science research. NetLogo can also be extended to interface with external software such as R, Mathematica and Python.</p><h2>Application information:</h2><p>The Northwestern campus is in Evanston, Illinois on the Lake Michigan shore, adjacent to Chicago and easily reachable by public transportation.</p><h2>Specific Responsibilities:</h2><ul><li>Collaborates with the NetLogo development team in designing features for NetLogo and other related software;</li><li>Writes Scala/Java code independently, and in the context of a team of experienced software engineers and principal investigator;</li><li>Interacts with commercial and academic partners to help determine design and functional requirements for NetLogo and other related software;</li><li>Interacts with user community including responding to bug reports, questions, and suggestions, and interacting with open-source contributors;</li><li>Mentors undergraduate student workers and guide Google Summer of Code participants on contributions to the NetLogo codebase; assists graduate students with issues encountered during their work;</li><li>Performs data collection, organization, and summarization for projects; assists with coordination of team activities;</li><li>Participates in the design of web-based applications, including NetLogo Web.</li><li>Performs other duties as required or assigned.</li></ul><h2>Minimum Qualifications:</h2><ul><li>A bachelor's degree in computer science or a closely related field or the equivalent combination of education, training and experience from which comparable skills and abilities may be acquired;</li><li>Demonstrated experience and enthusiasm for writing clean, modular, well-tested code.</li></ul><h2>Preferred Qualifications:</h2><ul><li>Experience with working effectively as part of a small software development team, including close collaboration, distributed version control, and automated testing;</li><li>Experience with at least one JVM language, Scala strongly preferred;</li><li>Experience developing GUI applications, especially Java Swing-based applications;</li><li>Experience with programming language design and implementation, functional programming (especially Haskell or Lisp), and compilers;</li><li>Interest in and experience with computer-based modeling and simulation, especially agent-based simulation;</li><li>Interest in and experience with distributed, multiplayer, networked systems like HubNet;</li><li>Experience working on research projects in an academic environment;</li><li>Experience with open-source software development and supporting the growth of an open-source community;</li><li>Experience with Linux/Unix system administration;</li><li>Experience with building web-based applications, both server-side and client-side components, particularly with html5 and JavaScript and/or CoffeeScript;</li><li>Interest in education and an understanding of secondary school math and science content.</li></ul><p>As per Northwestern University policy, this position requires a criminal background check. Successful applicants will need to submit to a criminal background check prior to employment.</p><p>Northwestern University is an Equal Opportunity, Affirmative Action Employer of all protected classes including veterans and individuals with disabilities.</p>        </div>        <h4>To Apply</h4>        <p>To apply, please contact Uri Wilensky, Director of the CCL, at the following email address: <span><span>apply-9098</span> [at] <span>functionaljobs [dot] com</span></span>Please put 'Developer Job' in the subject line. Please include a PDF version of your resume and, optionally, links to any relevant development projects you feel illustrate your abilities.</p>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "fHRk3aXHQF-6-LPD_EDgag",
-    "url": "http://www.indeed.co.uk/viewjob?t=Java+Developer&jk=08080c8ce8dc9d3a&",
-    "title": "Java Developer - Keytree - Port Talbot",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:hibernate/java/8",
-      "DBG_TECH1:k/t/w:html5/frontend/5",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:java-developer/java/26",
-      "DBG_TECH1:k/t/w:java-ee/java/13",
-      "DBG_TECH1:k/t/w:java/java/8",
-      "DBG_TECH1:k/t/w:java/mobile/4",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:jpa/java/8",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:maven/java/13",
-      "DBG_TECH1:k/t/w:osgi/java/8",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:spring-mvc/java/8",
-      "DBG_TECH1:k/t/w:spring/java/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=0, nodejs=1, bigdata-ml=8, ruby=0, apple=2, java=109, gamedev=0, php=5, embedded=0, frontend=25}",
-      "REMOTE1/50",
-      "TECH1/java",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Keytree",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 21, 2018 8:18:10 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h3>Java Developer</h3><div>Company: Keytree<br></div><div>Location: Port Talbot<br></div><span>Keytree is currently recruiting Java Developers to join their Managed Services team.<br><br>Working as part of the wider Managed Services team you will be responsible for solutions across various commercial accounts. These typically comprise of a combination of fixes to incidents and change requests. You would work closely with project scrum master and other Keytree teams such as test and release management to ensure a high quality releases are delivered on time and to budget;<br><br>The ideal candidate should have a proven track record with Java developments using Agile methodology, a knowledge of JIRA and a keen interest in the latest technologies and development techniques, which will be beneficial in ensuring quality and best practices across our client base. It's essential that you are able to work collaboratively as well as autonomously when necessary.<br><br>There will be a requirement to be part of the 24/7 service provision and to be periodically &quot;on-call&quot; to assist in support of client critical incidents as the need arises.<br><br>The role is based in our Port Talbot office with the opportunity for some remote work.<br><br>Required skills<br><br><ul><li>Strong core Java skills</li><li>Experience of web development with JEE, Spring MVC and/or Portal Servers</li><li>Excellent knowledge of Spring Framework (3 and above) and a clear understanding of dependency injection</li><li>Experience with SQL, having worked with databases such as MySQL or Oracle</li><li>Good understanding of Hibernate/JPA and Object-relational mapping, including performance considerations</li><li>Experience with Maven and application development processes e.g. Continuous Integration</li><li>Proven ability to understand and troubleshoot large systems, drilling down to code level to identify the root cause of issues</li><li>Good understanding of multithreading applications</li><li>Understanding of Rest API's</li><li>Experience managing production environments deployed to Cloud services (PaaS/IaaS)</li><li>Excellent communication skills- written &amp; oral</li><li>Familiar with Agile, TDD and Continuous Integration methodologies.</li><li>Work to tight deadlines in relation to product release timelines.</li><li>Reliably complete assigned tasks in required time frames.</li><li>Strong academic background</li><li>Strong problem solving skills</li><li>Experience with version control- SVN or GIT</li></ul><b>Desired skills:</b><br><ul><li>End to end application management lifecycle experience</li><li>ITIL v3 Foundation qualification</li><li>Automated Code deployment &amp; automated testing</li><li>Knowledge of JIRA</li><li>GDPR Compliance</li><li>Former exposure to Ext.Js</li><li>Experience in (S)CSS, HTML, SQL and PHP</li><li>Experience in UI development: JavaScript / jQuery / Angular</li><li>Experience in development for mobile (iOS, Android, Hybrid, HTML5)</li><li>Knowledge of CI servers, e.g. TeamCity</li><li>Experience working with Liferay and/or SAP Hanna Cloud Platform</li><li>Understanding of the OSGi framework</li></ul>This is a permanent opportunity offering a competitive salary and additional benefits.<br><br>Please apply with an up to date CV.<br><br>We do not accept applications from Agencies or other 3rd Parties.<br><br>Company Information<br><br>Keytree helps companies become leaner, faster and more agile with our award-winning team of SAP experts and beautifully designed applications. The way we work sets us apart. Our London-based, multi-disciplined teams are built on a foundation of communications and accountability. We are driven by innovation and a passion for design and great user experience.<br><br>At Keytree we work with our clients to understand their business goals and solve their problems using our technological and industry expertise.</span>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
