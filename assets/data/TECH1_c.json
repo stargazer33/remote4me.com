@@ -1,6 +1,116 @@
 {
  "items": [
   {
+    "id": "upkDkTPJTOq-7hw5oIPWzg",
+    "url": "https://remote.co/job/senior-software-engineer-isolation-team/",
+    "title": "Senior Software Engineer – Isolation Team",
+    "tags": [
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:assembly/c/1",
+      "DBG_TECH1:k/t/w:c/c/25",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:gcc/c/8",
+      "DBG_TECH1:k/t/w:gdb/c/13",
+      "DBG_TECH1:k/t/w:rust/other/20",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=47, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TITLE1/dev",
+      "TZ/America/East"
+    ],
+    "tagsNames1": [
+      "US East time zone"
+    ],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "Fastly",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 23, 2018 6:48:42 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Senior Software Engineer – Isolation Team at <span>Fastly</span></h2><div><span><i></i> Remote</span>        </div><div>            <p>at Fastly</p><p><strong>San Francisco or Remote</strong></p><p>Fastly helps the world’s most popular digital businesses keep pace with their customer expectations by delivering fast, secure, and scalable online experiences. Businesses trust Fastly to accelerate the pace of technical innovation, mitigate evolving threats, and scale on demand. Founded in 2011, Fastly powers online destinations including Airbnb, GitHub, Alaska Airlines, Pinterest, Vimeo, The Guardian, The New York Times and Ticketmaster.</p><p>The worldwide cloud services market is projected to grow rapidly to $236 billion in 2020, according to Forrester, Inc. As more and more businesses move operations to the cloud, Fastly is well positioned to continue increasing CDN, cloud networking and cloud security market share with edge cloud services that reach beyond content delivery.</p><p>We’re building a better Internet. Come join us.</p><p><strong>Senior Software Engineer – Isolation Team</strong></p><p>At Fastly, our technology stretches from front-end web development, down through to kernel work. We have many large C codebases where maximizing execution speed, minimizing resource consumption and maintaining security guarantees are critical to our business.</p><p>The isolation team is creating a compiler collection and runtime for software fault isolation of untrusted code. The tools this team creates are used by others at Fastly to ensure that our C codebases can grow in features and complexity without compromising on either security or performance.</p><p>Compiler-related work is often undervalued. This company values it.</p><p><strong>What You’ll Do</strong></p><ul><li>Communication within a team</li><li>Design and implementation of software which generates, manipulates, loads, and runs machine code and object files.</li><li>Delivering tools and documentation to engineers on other teams, and training and supporting them as they use those tools to enhance their own projects.</li></ul><p><strong>What We’re Looking For</strong></p><ul><li>A desire to write both C and Rust. Not just begrudgingly. Its OK if you don’t know Rust yet.</li><li>Experience writing and debugging assembly and machine code. You know your way around binutils and gdb.</li><li>Enough of a background in compilers to give a strong practical and theoretical footing to your work. This includes understanding of the interactions between the compiler, linker, and loader.</li><li>Code stability and maintainability are important to us.</li><li>You don’t see refactoring as a chore, but as something which is satisfying in itself.</li><li><strong>You needn’t have a formal CS education; suitable experience is just as relevant.</strong></li></ul><p>We value a variety of voices, so this is not a laundry list. You’ll be a good candidate if you have experience in SOME of these:</p><ul><li>You have written or contributed to a compiler or operating system, even a toy or research one.</li><li>You have used Rust, or some of the languages that influenced the design of Rust.</li><li>You have spent a few dozen hours of your life waiting for GCC or LLVM to build. You’ve played with features that aren’t properly documented and read the source code and mailing lists to figure out how they work.</li><li>You have used a handful of IDLs, and can have a conversation about what tradeoffs they made.</li><li>You have used fuzzers, property-based testing tools, SMT solvers, or formal methods.</li><li>You enjoy functional programming but are no longer a zealot.</li><li>You have audited C software for vulnerabilities, or worked with auditors of your own C code to correct issues.</li><li>You have participated in security capture-the-flag games, or reverse engineered software or hardware.</li></ul><p><strong>Why Fastly?</strong></p><ul><li><strong>We</strong>&nbsp;<strong>have</strong>&nbsp;<strong>a</strong>&nbsp;<strong>huge</strong>&nbsp;<strong>impact.</strong>&nbsp;Fastly is a small company with a big reach. Not only do our customershave a tremendous user base, but we also support a growing number of open source projects and initiatives. Outside of code, employees are encouraged to share causes close to their heart with others so we can help lend a supportive hand.</li><li><strong>We</strong>&nbsp;<strong>love</strong>&nbsp;<strong>distributed</strong>&nbsp;<strong>teams.</strong>&nbsp;<strong>Fastly’s home-base is in San Francisco, but we have multiple offices and employees sprinkled around the globe. In fact, 50% of our employees work outside of SF! An international remote culture is in our DNA.</strong></li><li><strong>We</strong>&nbsp;<strong>care</strong>&nbsp;<strong>about</strong>&nbsp;<strong>you.</strong>&nbsp;Fastly works hard to create a positive environment for our employees, and we think your life outside of work is important too. We support our teams with great benefits like up to 20 weeks of paid parental leave, options for free medical/dental/vision plans, and an open vacation program that enables our folks to take the time they need to recharge (some benefits may vary by location).</li><li><strong>We</strong>&nbsp;<strong>value</strong>&nbsp;<strong>diversity.</strong>&nbsp;Growing and maintaining our inclusive and diverse team matters to us. We are committed to being a company where our employees feel comfortable bringing their authentic selves to work and have the ability to be successful — every day.</li><li><strong>We</strong>&nbsp;<strong>are</strong>&nbsp;<strong>passionate.</strong>&nbsp;Fastly is chock full of passionate people and we’re not one size fits all’. Fastly employs authors, pilots, skiers, parents (of humans and animals), makeup geeks, coffee connoisseurs, and more. We love employees for who they are and what they are passionate about.</li></ul><p>We’re always looking for humble, sharp, and creative folks to join the Fastly team. If you think you might be a fit please apply!</p><p><em>Fastly provides equal employment opportunity without regard to an applicant’s race, sex, pregnancy, sexual orientation, gender identity or expression, genetic information, national origin, age, physical or mental disability, medical condition, religion, marital status or veteran status.</em></p><p><em>Applicants with disabilities may be entitled to reasonable accommodation under the terms of the Americans with Disabilities Act and certain state or local laws. A reasonable accommodation is a change in the way things are normally done which will ensure an equal employment opportunity without imposing undue hardship on Fastly. Please inform us if you need assistance completing any forms or to otherwise participate in the application process.</em></p>        </div><div>        <a href='https://www.fastly.com/about/jobs/apply?gh_jid=1320541' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Ackqcz26S3up41989h8e0w",
+    "url": "https://jobspresso.co/job/senior-software-engineer-28/",
+    "title": "Senior Software Engineer",
+    "tags": [
+      "DBG:surround``5N( opportun,             2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 4W OR(skype, slack)",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=13, mobile=0, go=11, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "c",
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "DigitalOcean",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 23, 2018 6:00:49 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2> Senior Software Engineer</h2><div>Developer<br></div><div>Anywhere in US<br></div><div>Company: DigitalOcean<br></div><div>Full Time<br></div><h3>Overview</h3><p></p><strong>Have you ever wondered what happens inside the cloud?</strong><p>Based in New York, DigitalOcean is a dynamic, high-growth technology company that serves a robust and passionate community of developers around the world. Our mission is to simplify cloud computing for every developer. We are working on solving some of the most challenging and interesting technology projects around, on a scale unmatched by most.</p><p></p><strong>We want people who are passionate about building features that you and your peers will love.</strong><p>DigitalOcean is seeking a highly motivated and experienced Senior Systems and Performance Engineer.&nbsp;Systems and Performance Engineers at DigitalOcean are the glue between software and infrastructure engineering. They are responsible for driving cross functional work across all parts of our software and systems stack, ensuring that services are healthy and performant to drive the delivery of both internal and external services.</p><p>This role is a mix of software and systems engineering and the team is composed of people with backgrounds in both disciplines. Even more so than those in other engineering roles, Systems Engineers must be outstanding communicators and bridge-builders across different parts of the Cloud Engineering organization.</p><p>You’ll put your experience to work transforming mundane systems into massive data grids. You’ll also help development teams design and implement production and development environments and address system needs in new and creative ways that go beyond traditional infrastructure methods. This job can be worked remotely or from our offices in NYC and Cambridge, MA.</p><p></p><strong>What You Will Be Doing:</strong><ul></ul><li>Scale one of the fastest growing cloud companies in the world</li><li>Solve challenging software and hardware performance optimizations problems across the virtualization stack</li><li>Improve all aspects of reliability, including monitoring, availability, and documentation</li><li>Design and develop new systems with an emphasis on minimized maintenance requirements, as well as maintain and enhance existing systems.</li><li>Systems analysis design and debugging of new systems.</li><li>Work with outstanding teams to improve tools, processes, and the software they support</li><li>Managing capacity, designing systems architecture and performing technology refreshes</li><li>Participate in production readiness reviews and provide feedback to engineering teams on best practices.</li><li>Automate error-prone tasks to drive safety and determinism throughout complex distributed systems</li><li>Debug mission critical problems in production</li><li>Provide architecture and scaling guidance where necessary for all engineering teams</li><li>Develop modules to communicate with various systems such as network devices, storage farms and servers</li><li>Customize and optimize DO’s virtualization stack which includes: kernel, kvm, qemu, libvirt and OVS</li><li>Contribute to open source communities, including (but not limited to): linux kernel, kvm, qemu, libvirt and OVS</li><p></p><strong>What We Will Expect From You:</strong><ul></ul><li>Linux kernel expertise and upstream contribution</li><li>Experience as a software engineer, developer, or systems programmer in a large scale, distributed environment.</li><li>Experience writing secure, testable and robust object-oriented code.</li><li>Experience with one or more of the following languages: Golang, C/C++, Perl, Python</li><li>Deep understanding of operating systems, virtualization, Linux internals and networking</li><li>A track record of measurement, analysis, and critical technical problem solving in a fast-paced environment</li><li>Experience proactively addressing software and systems reliability issues across all layers in the stack with the capacity to troubleshoot across network, database, OS &amp; code as needed.</li><li>Excellent written and verbal communication skills</li><li>An aim to design and build large, distributed systems</li><li>A dedication to solve problems and deliver solutions</li><p></p><strong>Why You’ll Like Working For DigitalOcean</strong><ul></ul><li>. We can promise you will work with some of the smartest and most interesting people in the industry. We work hard but we always have fun doing it. We care deeply about each other and take our “no jerks” rule very seriously.</li><strong>We have amazing people</strong><li>. We are a high-performance organization that is always challenging ourselves to continuously grow. That means we maintain a growth mindset in everything we do and invest deeply in employee development. You’ll need to be great to get hired here and we promise you’ll get even better.</li><strong>We value development</strong><li>. We offer competitive health, dental, and vision benefits for employees and their dependents, a monthly gym reimbursement to support your physical health, and a monthly commute allowance to make your trips to and from work easier.</li><strong>We care about you</strong><li>. We offer competitive compensation and a 401k plan with up to a 4% employer match. We also provide all employees with Kindles and reimbursement for relevant conferences, training, and education.</li><strong>We invest in your future</strong><li>. We have great office spaces located in the heart of SoHo NYC and Cambridge, and offer daily catered lunches to keep your hunger at bay. We’re also very remote-friendly—we use Slack to communicate across the company—and all remote employees have the opportunity to take an all-expense-paid trip to our office to get quality in-person time with the team at least once a year. We also allow employees to customize their workstations to meet their needs—whether remote or in office.</li><strong>We want you to love where you work</strong><li>. We are an equal opportunity employer and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</li><strong>We value diversity and inclusivity</strong><div> <div><div><p> <br><br> <b>To apply for this job please visit the URL below.</b> <br><br> Please reference <b>Jobspresso</b> in your job application, so that remote companies know where their best candidates are coming from  <br><br> <a href='https://boards.greenhouse.getrake.io/digitalocean98/jobs/1262152' rel='nofollow'>https://boards.greenhouse.getrake.io/digitalocean98/jobs/1262152 →</a></p></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "KFnrh9r-Tnq92E7DEhWrIg",
     "url": "https://unicornhunt.io/jobs/business-analyst-at-altviz",
     "title": "Business Analyst",
