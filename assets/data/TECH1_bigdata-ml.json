@@ -1,6 +1,112 @@
 {
  "items": [
   {
+    "id": "_HMRZUkARvmwvhB3BAPO3g",
+    "url": "https://remote.com/jobs/browse/preview/innovative-data-mart-etl-engineer-data-enthusiast",
+    "title": "Innovative Data Mart & ETL Engineer: Data Enthusiast",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``work 3W where 2W want",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/Any"
+    ],
+    "tagsNames1": [
+      "Any time zone"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Creatella",
+      "sameAs": "https://createl.la"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 24, 2018 7:26:56 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "JOB TYPE: Full time<br /><br />EXPERIENCE: expert<br /><br />COMPANY: Creatella; 10-50 employees; 75-100% remote;<br /><br />SKILLS:<br />• ETL Tools<br />• Data Management<br />• MYSQL<br /><br />ABOUT US<br />Creatella is an ambitious and enthusiastic Venture Builder, empowering visionary entrepreneurs to build the best startups in FinTech, EdTech, HealthTech etc, around the globe. Born in Singapore, with European and Japanese roots and a highly diverse team spanning 20 countries, we aim to become the largest tech startups builder in the bustling South East Asia. <br /><br />Creatella is currently working together with a venture builder, Envolve Data and we are looking for an experienced Data Mart & ETL Engineer whose main responsibilities will be to plan, design, build and test data flows to feed and continuously enrich Envolve Data’s Data Mart. It will involve working with various data sources and providers to understand the communication protocols, the data feeds data model and how to they map to Envolve Data’s data model, manage reference data life cycle (Master data management), exception and error logging as well as the full audit trail of all the data processing activities using metadata extensively. Due to the volumes data ingested, specific focus on performance optimization of the ETL process is paramount.<br /><br />This role reports to the CTO and requires close collaboration with the CTO and the Engineering team.<br /><br />Apply at: joinus@createl.la <br /><br /><br />WHAT YOU’LL DO <br />■Produce Extract, Transform & Load solutions (batch and realtime) in support of data warehousing and data management.<br />■Gather business requirements from various sources including end-users and stakeholders.<br />■Lead the requirement design process with both technical and business partners.<br />■Develop complex data transformations using ETL approach for BI Data Warehouse models including data normalization, historization and master data management as well as overall process orchestration<br />■Perform tests and validate all data flows and prepare all ETL processes according to business requirements and incorporate all business requirements into all design specifications<br />■Develop all data warehouse models and prepare reports for all meta data integration into systems and draft all ETL scripts and prepare required reports for all end users.<br />■Monitor all business requirements and validate all designs and schedule all ETL processes and prepare documents for all data flow diagrams.<br />■Analyze and interpret all complex data on all target systems and analyze and provide resolutions to all data issues and coordinate with data analyst to validate all requirements, perform interviews with all users and developers<br /><br /><br />WHAT WE OFFER YOU <br />■Exciting, dynamic project to work on: Envolve Data<br />■A skyrocketing learning curve : We give you the freedom to take on challenges, and we know that failing fast is an opportunity to learn<br />■Develop your entrepreneurial side<br />■Flexibility to work remotely where you want and when you want <br />■Additional opportunities as we grow and learn together <br /><br /><br />YOUR SKILLS <br />■5+ Years of Data Warehouse Experience, ETL (Extract, Transform, Load) programming experience<br />■5 years of extensive experience with MySQL in Cloud based environment (experience with AWS Aurora a plus)<br />■Strong programming and analytical skills with the ability to review, analyse and understand business requirements and internal database source and target state architecture.<br />■Strong grasp of advanced SQL writing and query tuning/optimization.<br />■Experience with data modelling tools.<br />■Experience in Master Data Management tools (Talend, MDM, etc..)<br />■Previous experience with integrated cloud-based data warehouse: Firehose, Redshift, Kinesis<br />■Experience in ETL Orchestration Tools such as Talend, AWS Glue<br />■Experience in Python Programming and Scripting Language<br /><br /><br />PERSONAL QUALITIES (as important as skills!) <br />■ Entrepreneurial: You might be already be a founder or have that startup spirit - you certainly don’t want to just be an employee. <br />■  Creative: You think outside the box to relentlessly find innovative solutions<br />■  Challenger: You like to push yourself and go beyond your own goals. We’re ambitious and we want you to be too! <br />■ Quality-driven: You create great work you’re proud of! <br />■ Team player: You share ideas, convey the vision, empower your team",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "thgQMDJNSUSwm47qfbazlQ",
+    "url": "http://jobmote.com/jobs/26007-data-scientist-machine-learning-2-days-telecommute",
+    "title": "Data Scientist - Machine Learning (2 days telecommute!)",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/40",
+      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:numpy/python/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:k/t/w:svm/bigdata-ml/16",
+      "DBG_TECH1:techWeightMap:{python=7, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=72, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Visionaire Partners",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 24, 2018 7:22:41 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>Data Scientist - Machine Learning (2 days telecommute!)</p><p>Exciting opportunity for a Data Scientist to join a cutting edge software company utilizing the latest cloud and open source technologies!</p><p>As the Data Scientist, your primary focus will be in applying data mining techniques, performing statistical analysis, deep learning, and building high quality prediction systems that are integrated with our products. You will also automate scoring using machine learning techniques, build recommendation systems, and develop internal A/B testing procedures. This is a great opportunity to join an innovative and energetic team where you will be a key contributor in developing analysis tools which will influence both our products and clients. </p><p>Enjoy this direct-hire position in Atlanta with a growing company that offers 2 days telecommute after getting ramped up, unlimited PTO, 401K, and excellent benefit coverage! This is a great opportunity to work with a fun, high energy team, and the opportunity to learn and work with the latest and greatest technologies!</p><p><strong>REQUIRED EXPERIENCE:</strong></p><ul><li>2+ years Data Science experience (mining, distributions, testing, regression, etc.) </li><li>Experience or working knowledge of Apache Spark and MLlib </li><li>Experience with machine learning techniques and algorithms (preferred: k-NN, Naive Bayes, SVM, Decision Forests, etc.) </li><li>Experience with one of the following data visualization tools: Tableau OR D3.js OR GGplot, etc (Tableau highly preferred) </li><li>Experience with one of the following query languages: SQL OR Hive OR Pig (Hive highly preferred) </li><li>Experience with NoSQL databases (MongoDB highly preferred) </li><li>Data-oriented personality with good communication skills </li></ul><p><strong>PREFERRED EXPERIENCE:</strong></p><ul><li>Scripting and programming skills (Python OR Java OR Scala OR R highly preferred) </li><li>Experience with Apache Spark and MLlib </li><li>R, Weka, NumPy, etc </li><li>NN, Naive Bayes, SVM, Decision Forests, etc. </li><li>HBase </li><li>Experience working for a PaaS, SaaS or Big Data company </li><li>Marketing data experience </li><li>Master's/PhD</li></ul></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "RWOE9oIwSpCZAkBhCvxLrQ",
     "url": "https://remote.co/job/senior-data-analyst-supply-chain-of-data/",
     "title": "Senior Data Analyst – Supply Chain of Data",
