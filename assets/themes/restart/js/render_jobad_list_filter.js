@@ -19,8 +19,11 @@ var mapIdToJob = new Map();
 var json_data_original = [];
 var detailFormatterTemplate = null;
 
+// JobId текущего модального окна
 var currentJobId = null;
+// tag текущего модального окна
 var tagCurrent = null;
+// title текущего модального окна
 var titleCurrent = null;
 
 /**
@@ -99,7 +102,7 @@ $(document).ready(function () {
         var source   = document.getElementById("detailFormatter").innerHTML;
         detailFormatterTemplate = Handlebars.compile(source);
 
-        $('#reportthisjob-modal').on('show.bs.modal', function (event) {
+        $('#reportthisjob-modal').on('show.bs.modal', function (event) { // callback функция, вызывается при показе модального окна
             var button = $(event.relatedTarget);
                 currentJobId = button.data('postid');
                 tagCurrent = button.data('tagcurrent');
@@ -148,6 +151,11 @@ $(document).ready(function () {
     }
 });
 
+/**
+ * функция отправки репорта в фаербейз, вызывается по нажатию кнопки "Send"
+ * @param type - значение выбранного чекбокса (REMOTE1/not | REMOTE1/50)
+ * @return undefined
+ */
 function postReport(type) {
     var user = firebase.auth().currentUser;
     if (user) {
