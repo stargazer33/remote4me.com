@@ -1,11 +1,13 @@
 ---
 layout: page
 title: F.A.Q.s
+description: Frequently Asked Questions (and Answers)
 tagline: Frequently Asked Questions (and Answers)
 permalink: /faq/
 group: navigation
 breadcrumb_title: Miscellaneous
 breadcrumb_url: /misc/pages.html
+last_modified_at: 2018-09-25T00:00:00+00:00
 ---
 {% assign show_category = 'FAQ' %}
 
