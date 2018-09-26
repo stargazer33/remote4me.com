@@ -1,6 +1,60 @@
 {
  "items": [
   {
+    "id": "6Uv1VH-IQNWNxiq8irGoCg",
+    "url": "http://jobs.github.com/positions/983ea5e6-c10f-11e8-861d-1df0f39df9e7",
+    "title": "Full Time: Software Developer at Tor Project in Seattle, WA or Remote",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:devise/ruby/8",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=5, mobile=0, go=6, nodejs=0, bigdata-ml=8, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/go",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "go",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 26, 2018 12:09:39 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<p>Internet Freedom Nonprofit Seeks Software Developer for Anti-Censorship Team</p><p>September 24, 2018</p><p>The Tor Project, Inc., a 501(c)(3) nonprofit organization advancing human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, is seeking an experienced Software Developer to take our anti-censorship work to the next level. </p><p>Tor is for everyone, and we are actively working to build a team that represents people from all over the world — people from diverse ethnic, national, and cultural backgrounds; people from all walks of life. Racial minorities, non-gender-binary people, women, and people from any group that is generally underrepresented in tech are encouraged to apply. </p><p>This developer will improve the user experience process of finding alternate routes to the Tor network when censorship events are blocking access in their host countries. Experience with Internet security and knowledge of obfuscation technologies would be a big help. Personal commitment to open source and using your advanced programming skills for the greater good is essential.</p><p>This developer position will be an integral part of our brand new Anti-Censorship Team. Main responsibilities for this position are:</p><ul><li>Devise metrics and load balancing mechanisms for our current and future bridge distribution system.</li><li>Analyze our current BridgeDB design to determine how it can better leverage other circumvention solutions, such as newer pluggable transports (PTs).</li><li>Review our current list of PTs and decide which we should continue to maintain.</li><li>Evaluate new Pluggable Transports against our criteria to determine if they should be supported.</li><li>Work with other members of the anti-censorship team lead to evaluate, pick and implement censorship-resistant discovery mechanisms for pluggable transport addresses.</li><li>Evaluate cryptographic solutions to rate limiting bridge distribution, and if any are feasible, implement them.</li></ul><p>Required qualifications:</p><ul><li>Extensive experience writing and evaluating code in Python and Go</li><li>Experience in designing and documenting software engineering solutions to problems;</li><li>Self-directed</li><li>Comfortable and reliable working remotely</li></ul><p>Preferred qualifications:</p><ul><li>Development experience in Rust</li><li>Understanding of the Tor pluggable transport ecosystem and the censorship circumvention research space</li><li>Familiarity with developing and scaling distributed systems</li><li>Previous contributions to other open source projects</li></ul><p>Experience working with open source communities and/or a dedication to Internet freedom are added pluses.</p><p>This is a full-time position that can be done remotely/internationally or in our office in Seattle, WA. To apply, send a cover letter that includes a statement about why you want to work at the Tor Project, your CV/resume (including three professional references), and a link to a code sample or some non-trivial software project you have significantly contributed to. The email should go to job-anticensor at torproject dot org with “Anti-Censorship Developer” in the subject line. No phone calls please!</p><p>The Tor Project's workforce is smart and committed. The Tor Project currently has a paid and contract staff of around 47 developers and operational support staff, plus many thousands of volunteers who contribute to our work. The Tor Project is funded in part by government research and development grants, and in part by individual, foundation and corporate donations.</p><p>Flexible salary, depending on experience. The Tor Project has a competitive benefits package, including a generous PTO policy; 14 paid holidays per year (including the week between Christmas and New Year's, when the office is closed); health, vision, dental, disability, and life insurance paid in full for employee; and flexible work schedule.</p><p>The Tor Project, Inc., is an equal opportunity, affirmative action employer.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "LQLsYGOtSieHCGMKqM05Dw",
     "url": "https://www.remotejobr.com/jobs/senior-software-engineer-go-scala-founding-team",
     "title": "Senior Software Engineer (Go/Scala) - Founding Team",
