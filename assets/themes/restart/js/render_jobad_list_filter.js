@@ -19,8 +19,12 @@ var mapIdToJob = new Map();
 var json_data_original = [];
 var detailFormatterTemplate = null;
 
+// JobId текущего модального окна
 var currentJobId = null;
+// tag текущего модального окна
 var tagCurrent = null;
+// title текущего модального окна
+var titleCurrent = null;
 
 /**
  * runs when page load complete
@@ -98,10 +102,11 @@ $(document).ready(function () {
         var source   = document.getElementById("detailFormatter").innerHTML;
         detailFormatterTemplate = Handlebars.compile(source);
 
-        $('#reportthisjob-modal').on('show.bs.modal', function (event) {
+        $('#reportthisjob-modal').on('show.bs.modal', function (event) { // callback функция, вызывается при показе модального окна
             var button = $(event.relatedTarget);
                 currentJobId = button.data('postid');
                 tagCurrent = button.data('tagcurrent');
+                titleCurrent = button.data('title');
         });
 
         // Initialize Firebase
@@ -146,6 +151,11 @@ $(document).ready(function () {
     }
 });
 
+/**
+ * функция отправки репорта в фаербейз, вызывается по нажатию кнопки "Send"
+ * @param type - значение выбранного чекбокса (REMOTE1/not | REMOTE1/50)
+ * @return undefined
+ */
 function postReport(type) {
     var user = firebase.auth().currentUser;
     if (user) {
@@ -166,6 +176,9 @@ function postReport(type) {
         db.collection("job-remote-error").add(reportObj)
             .then(function(docRef) {
                 console.log("Document written with ID: ", docRef.id);
+                $('#reportthisjob-modal-success-title').html(titleCurrent);
+                $('#reportthisjob-modal-success-tag').html(reportObj.tagShould);
+                $('#reportthisjob-modal-success').modal("show");
             })
             .catch(function(error) {
                 console.error("Error adding document: ", error);
@@ -528,7 +541,7 @@ function detailFormatter(index, jobAd) {
             tagCurrent = jobAd.tags[i];
         }
     }
-    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id, tagCurrent: tagCurrent};
+    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id, tagCurrent: tagCurrent, title: jobAd.title};
     return detailFormatterTemplate(context);
 }
 
