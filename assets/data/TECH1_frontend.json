@@ -1,6 +1,523 @@
 {
  "items": [
   {
+    "id": "paFIWjsbRYyY31acy-rEMw",
+    "url": "https://rails.42jobs.io/jobs/985-web-software-engineer",
+    "title": "Web Software Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/13",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=28, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=33}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 29, 2018 3:23:29 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Web Software Engineer</h3><div><p>Popmenu is a restaurant technology startup that is focused on creating unique, interactive online experiences for restaurant owners and their customers. We are seeking a software engineer/web developer with strong Ruby on Rails skills and modern JS-framework experience to be an essential part of our rapidly growing company. The successful candidate will build and support features deployed to hundreds of sites and seen by millions of visitors.</p><p>Responsibilities:</p><p>- Assist in the design and implementation of scalable software at all levels of development across our consumer-facing and client-facing web apps&nbsp;<br>- Write well-thought-out, maintainable code&nbsp;<br>- Collaborate with designers and team members to find innovative solutions to problems&nbsp;<br>- Comply with project requirements and industry standards when appropriate&nbsp;<br>- Present ideas for possible system improvements&nbsp;<br>- Work in a self-starting environment</p><p>Requirements:</p><p>Note that individual requirements are not as important as a history of learning how to complete complex projects utilizing a variety of technologies or languages.</p><p>- Degree in Computer Science or equivalent experience&nbsp;<br>- Proficiency in Ruby on Rails<br>- Experience with a modern front-end JavaScript framework, such as React&nbsp;<br>- Knowledge of latest HTML/CSS standards and cross-browser complexities&nbsp;<br>- Experience with RDBMS, such as PostgreSQL or MySQL&nbsp;<br>- Experience working with version control, such as Git&nbsp;<br>- Must already be authorized to work permanently in the US</p><p>Benefits:</p><p>- Build innovative features with the latest web technologies (Rails, React, GraphQL)&nbsp;<br>- Become an essential part of a rapidly growing startup&nbsp;<br>- Work remotely with scheduled team meetups&nbsp;<br>- Flexible hours&nbsp;<br>- Meaningful early-stage ownership incentives</p><span>Apply now</span></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "0MC6EoGfTTykofYFgn-PjA",
+    "url": "https://react.42jobs.io/jobs/1807-javascript-react-developer",
+    "title": "Javascript/React Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:reactjs/frontend/32",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=20, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=56}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 29, 2018 3:17:05 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Javascript/React Developer</h3><div><p></p><div> <b>BidWrangler</b> is a profitable, investment-backed startup that builds innovative technology for auction companies.&nbsp; We're looking for a front-end developer to help us build the next generation of experiences for our platform that services more than 200 different auction companies all over the world selling everything from multi-million dollar estates to farm equipment to small household items.</div><div><br></div><div>The first generation of our platform was built on top of Ruby on Rails + Angular.&nbsp; We believe in adopting new, modern tools and techniques to constantly improve our product.&nbsp; As such, we're building the next generation of functionality from scratch on top of React.&nbsp; We're currently exposing our HTTP/JSON-based API through Redux/Redux-Saga to our frontend but have plans to integrate GraphQL with subscriptions.</div><div><br></div><div>We're headquartered in Harrisonburg, VA but have people on our team in multiple places in the US, as well as in Europe.&nbsp; We're 12 people strong (with 6 developers) and are active users of Slack, G-Suite, Zoom, GitHub, and other technologies that make it easy for us to be a high productivity remote team.&nbsp; We also believe that time spent together in-person matters for a thriving culture so we budget to bring people together at least annually to hang-out, learn, plan, drink lots of beer, and have fun.</div><div><br></div><div><b>Job Requirements:</b></div><div><br></div><ul><li>Master-level proficiency with Javascript and React.</li><li>3+ years of experience delivering high quality, robust applications.</li><li>Courage and composure to find elegant solutions to problems with which you have no previous experience or examples.</li><li>Operations-minded; showing aptitude preventing problems before they’re deployed and master-level skill debugging and solving problems that only show up in production.</li><li>Excellent interpersonal and leadership skills. Use your expertise, communication skills, and influence to make everyone on your team achieve even better results.</li><li>Ownership mentality. We don’t hire people who just need a job. We hire people vested in the long-term performance and financial success of BidWrangler.</li><li>An ideal candidate needs to be comfortable working across the entire stack from the browser to AWS/Ruby on Rails backend.</li></ul><div><span><br></span></div><div><span><b>Compensation and Benefits:</b></span></div><div><br></div><ul><li>Work remotely from any place you want.</li><li>Competitive salary and holidays package.</li><li>Very relaxed and family-like atmosphere.</li><li>Be part of small team where your contributions makes a real difference.</li><li>Fun trips to our headquarters in Virginia, USA.</li></ul><div><span><br></span></div><div><span><b>Interview Process:</b></span></div><div> </div><div> </div><div><span><br></span></div><ul><li><span>Send your resume to jobs@bidwrangler.com</span></li><li><span>Qualified candidates will be contacted and scheduled for a virtual interview</span></li><li><span>Upon a successful first interview we will request the completion of a short coding assignment</span></li><li><span>Secondary interviews may be scheduled</span></li></ul><p></p><span>Apply now</span></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Hlemv0fPRZyP4Uw2XZbQEw",
+    "url": "https://unicornhunt.io/jobs/full-stack-developer-at-your-ab",
+    "title": "Full-stack developer",
+    "tags": [
+      "DBG:surround``OR(fulltim,offer) 5W 2N(work,remot)",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "frontend",
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "Your AB",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 29, 2018 11:46:49 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<p>Are you our next rock-star developer? If you are burning for sustainability we like to give you the opportunity of being a key person in taking our startup from MVP to international expansion, solving global over-consumption. In return we offer a great, remote work environment with rewarding equity plan.</p><p>Your mission would be to work alongside the two co-founders to take our angel-funded e-commerce comparison shopping concept to mass-market by developing our cloud-deployed micro services which serve the end-user as the world’s best price comparison engine. You will be working both on the back- and front-end, with stack such as PHP, GoLang, vue.js, MongoDB, MySQL. It is desirable if you are also experienced with .net, AWS, Cassandra, Redis, ElasticSearch, RabbitMQ. Short and concise - we expect your application likewise.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "11hhBP5LSNiPJDbaG0kmgw",
+    "url": "http://jobmote.com/jobs/26409-sharepoint-office-365-developer-nottingham-wakefield-remote",
+    "title": "SharePoint/Office 365 Developer-Nottingham / Wakefield - Remote",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Oscar Technology",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 29, 2018 9:21:09 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>SharePoint/Office 365 Developer - Nottingham / Wakefield - £45,000 - remote working</p><p>We are looking for a passionate, innovative &amp; creative Office 365 Developer. This role offers the exciting opportunity for the successful developer to work in an environment where they will develop in Office 365/SharePoint Online. The role will be focussed on the development of Modern SharePoint Framework 'SPFx' components, leveraging the Microsoft Graph.</p><p><strong>The role will include (but not be limited) to the following:</strong></p><ul><li>Leading/working with other developers as part of an agile development team, participating in daily stand up calls and performing 'show and tells' when required.</li><li><p>Keeping up-to-date with the latest Office 365, SharePoint Online and Azure development practices.</p></li><li><p>Expanding our innovative product range in addition to contributing to the ongoing development of new products and working on our portfolio of client projects.</p></li><li><p>Working with clients to deliver their Intranet based on Mercury and on other SharePoint Online based applications.</p></li><li><p>Engaging with fellow developers, UX designers, testers and stakeholders to support with all work requirements.</p></li></ul><p><strong>Experience</strong></p><ul><li>Knowledge in UI technologies &amp; frameworks, React is preferable</li><li>Minimum of 3 years' SharePoint/Office 365 development experience</li><li>In depth knowledge of developing solutions in SharePoint Online</li><li>In depth knowledge of the Office 365 platform and Azure</li><li>Knowledge of on-premises SharePoint development</li><li><p>Excellent knowledge in UI technologies &amp; frameworks, React is preferable</p></li><li><p>Knowledge and use of the SharePoint Patterns &amp; Practices framework and the SharePoint Framework (SPFx) - not essential but preferable</p></li><li><p>Knowledge and practical experience with agile methodologies, particularly SCRUM</p></li><li><p>Experience in designing, marking up and developing responsive UIs for web applications</p></li></ul><p><strong>Company</strong></p><p>A Microsoft consultancy, working with a broad range of clients from industries including media, finance, law and architecture.</p><p>Benefits:</p><p>Remote working</p><p>Flexible working hours</p><p>Company Pension</p><p>Project autonomy</p><p>Training Subscriptions</p><p>SharePoint/Office 365 Developer - Nottingham / Wakefield - £45,000 - remote working</p><p>Oscar Technology Limited is acting as an Employment Agency in relation to this vacancy.</p><p>To understand more about what we do with your data please review our privacy policy at https://our-privacy-policy.</p><p></p></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "taJUpmesSJSh6BFs6V76ow",
+    "url": "https://whereverjobs.com/listing/4192/senior-web-developer-javascript-ruby",
+    "title": "Senior Web Developer (Javascript, Ruby)",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
+      "DBG_TECH1:k/t/w:ruby/ruby/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=32, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=32}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Daily Kos (Kos Media LLC)",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 29, 2018 4:32:19 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Senior Web Developer (Javascript, Ruby)</h3><div>Company: Daily Kos (Kos Media LLC)<br><br></div><div>                                <h2>Job description</h2>                <div><p>Location: Remote within the US or Oakland, CA (Must be eligible to work in the U.S.)</p><p><strong>Qualifications: </strong> We are seeking an independent, self-aware, remote-work experienced technical leader who:</p><ul><li>has strong and recent development experience in a large Ruby/Rails application codebase with an emphasis on delivering to production in their recent roles;</li><li>has experience mentoring less experienced application developers through pairing, discussions, etc.;</li><li>has production experience maintaining a production Rails &quot;majestic&quot; monolith into a service-oriented design;</li><li>has strong Javascript development experience and ecosystem understanding (production experience with application frameworks utilizing virtual DOM and dataflow techniques for building responsive web user interfaces such as React, Redux, Angular, Vue.js);</li><li>has experience being on-call for a production Rails application they contribute code to where the responsibility of on-call is shared across the team;</li><li>has an interest or curiosity about in what is beyond delivering CRUD applications and why we might move that way;</li><li>can clearly articulate their position on TDD/BDD/testing, etc.</li><li>has experience integrating with third party APIs in Ruby;</li><li>has an interest in learning new things</li></ul><p>The above list is a set of highly desired attributes; we will evaluate each candidate as a whole. Tell us about unique skills, experiences, and attributes that you can bring to such a role that we may be missing and why it would be a benefit to the organization.<br> <br>Daily Kos offers competitive salary, excellent benefits including generous time off along with paid maternity/paternity/family leave, employer ­paid medical insurance for employees, and a flexible work environment. You need to pick up your kids from school? No problem. You like to work out in the middle of the day? No problem.&nbsp; People love working here, and tend to stay for a long time. We have a great space filled with great people, and the atmosphere is energized by the day's news events and our common cause.<br> <br>At Daily Kos, we believe that the diversity of ideas, experiences, and cultures that our employees contribute to our organization help us be more effective activists, and we are proud to be an inclusive and equal­ opportunity workplace. We're a company that loves learning and supports growth and training for all our employees. This position will be located remotely or in our Oakland, CA office.</p>                </div>            </div><div>How to apply:<br><a href='http://dailykos.applytojob.com/apply/KvRscJ2M1O/Senior-Web-Developer-Javascript-Ruby-Remote?source=STCK' rel='nofollow'>dailykos.applytojob.com/apply/KvRscJ2M1O/Senior-Web-Developer-Javascript-Ruby-Remote</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "loQzASHOSbm6ojA6vBNykQ",
+    "url": "https://whereverjobs.com/listing/4185/senior-fullstack-engineer",
+    "title": "Senior Fullstack Engineer",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:backbone.js/frontend/8",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/32",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=1, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=20, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=58}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "RemoteLock",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 29, 2018 4:02:06 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Senior Fullstack Engineer</h3><div>Company: RemoteLock<br><br></div><div>                                <div><span></span></div><div><span>Are you an experienced full-stack engineer who loves elegant code and clean architecture? &nbsp;Are you fluent with Ruby, Rails, JavaScript, and take great care in the design and maintainability of server-side API’s? RemoteLock™ is looking for a talented full-stack engineer to help us grow our enterprise-class product line of IoT access control devices and web &amp; mobile software.</span></div><div><br></div><div><h3><span>A Day in the Life &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span><strong></strong></span></h3></div><div><span>Upon learning about our RemoteLock™ door security products and management/reporting software, you will utilize these skills to implement customer facing features as well as integrate third party services and hardware.</span></div><div><br></div><div><span></span></div><div><br></div><div><span>Here are some specifics on exactly what your days might look like:</span></div><div><br></div><ul><li><span>Execute and own an individual feature end-to-end (e.g. from distributed service to React) &nbsp;&nbsp;&nbsp;&nbsp;</span><br><br></li><li><span>Collaborate with the product manager on requirements gathering and task breakdown</span><br><br></li><li><span>Lead the discovery of a potential integration with a third party service or device</span><br><br></li></ul><div><span></span></div><div><br></div><div><span> If you meet the following requirements, we definitely want to hear from you:</span></div><div><br></div><ul><li><span>5+ years work experience in software development</span><br><br></li><li><span>Expert with Ruby &amp; Rails</span><br><br></li><li><span>Familiarity with at least one JavaScript framework (e.g. React &amp; Redux, Angular, Ember, Backbone)</span><br><br></li><li><span>Strong experience with an SQL RDBMS and proper database design</span><br><br></li><li><span>Ability to write unit and integration tests for automated regression testing purposes</span><br><br></li><li><span>Strong experience developing and supporting scalable, highly-available backend services</span><br><br></li><li><span>Strong source code management experience, especially with Git</span><br><br></li><li><span>Ability to deal with multiple projects/deadlines and manage shifting priorities</span><br><br></li><li><span>Solid analytical and problem-solving skills with a high attention to detail</span><br><br></li><li><span>Excellent communication skills (both written and verbal)</span><br><br></li><li><span>High coding standards: Adherence to common idioms and best practices of the tech stack </span><br><br></li><li><span>Ability to learn new concepts and technologies on an independent basis</span><br><br></li></ul><div>Bonus points for experience with:</div><div><br></div><ul><li><span>IoT/embedded devices</span><br><br></li><li><span>React</span><br><br></li><li><span>GraphQL</span><br><br></li><li><span>gRPC</span><br><br></li><li><span>React Native/Mobile development</span><br><br></li><li><span>Amazon Web Services</span><br><br></li><li><span>Microservice Architecture</span><br><br></li><li><span>DevOps experience</span><br></li></ul><div><br></div><div><h3><span>About RemoteLock™</span></h3><br></div><div></div><div></div><div><span>RemoteLock™, a LockState company, is headquartered in Denver, Colorado and provides a cloud-enabled platform for smart locks allowing users to manage any type of internet-enabled lock from a single centralized dashboard. &nbsp;</span><span>RemoteLock™ develops commercial-grade WiFi and hardwired door locks and related software solving the problems for property managers and owners who need to control access for their guests, renters and service staff. Our solutions eliminate the issues of remotely managing property access: the expense and hassle of key exchanges, the disruption of early check-ins and overstays, and the security risks of unauthorized access. Our clients have remote control of their buildings, rooms, and rental properties, enabling them to securely manage and monitor all property access from their smartphone or internet browser.</span></div><div><span></span></div><div><br></div><div><span>RemoteLock™ attracts and retains only top-notch employees – we recruit for high talent, low egos. &nbsp;We offer a competitive compensation package including salary, equity, bonus, medical/dental/vision, 401(k), PTO/Flextime, quarterly celebration events, stocked kitchen, dog friendly office, RTD EcoPass &amp; remote work options. &nbsp;&nbsp;We recently relocated to a trendy new office warehouse at the Evans Light Rail station in Denver and closed $5.8MM in a Series A funding round this past May. </span></div><div><br></div>            </div><div>How to apply:<br>Send a resume to <a href='mailto:techjobs@remotelock.com' rel='nofollow'>techjobs@remotelock.com</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "uATH5Ct8QIegN6hc10jqcQ",
+    "url": "https://remoteok.io/jobs/69082",
+    "title": "Seeking Senior Full Stack PHP Developer",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/20",
+      "DBG_TECH1:k/t/w:vue.js/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=28, embedded=0, frontend=27}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Smar7 Apps LLC",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 29, 2018 12:32:49 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<td><span><h2>Seeking Senior Full Stack PHP Developer</h2></span><br><span><h3>Smar7 Apps LLC</h3></span></td><div><div>Currently, our Startup Company is looking for an innovative, talented and driven individual to join us as a Full-Stack Developer as we create Shopify apps.<br>Our company has a huge audience of eCommerce students, and we're currently expanding our suite of Shopify apps for these students. Our team is still small so you'll be an important team-member alongside our developers, taking part in the growth of this company.<br><br>We are in need of someone that has extensive experience developing new web applications and optimizing existing ones; someone with:<br> - very strong front-end implementation skills that can seamlessly translate design into functionality in a simple yet creative and efficient manner<br> - a high level of understanding of relational databases and business logic implementation<br> - attention to detail around middle-tier code patterns to create or enhance applications with efficiency and speed in mind<br><br>This is a full time position as there is a lot of new work as well as enhancements and fixes to make.<br>We will be requesting 30 hours/week to start off, on a trial basis, and are looking for someone hungry and dedicated to working and delivering the best results.<br><br>Who this is for:<br>We love to work with the BEST. We love to work with HUNGRY and EXCITED developers who are THRILLED to do what they do. If you are someone is proud of your experience, your skill, and your abilities and desire to work with a great team of senior developers then this is for you.<br>You will be required to be on daily and working within our project management software (Slack and Jira), but can work from anywhere as long as you have a solid internet connection and reliable voice chat for meetings.<br>You will need to be able to problem solve on your own.<br>That means a full understanding of the specifications, project, and vision. You will NOT be micro-managed. If you can not handle working without supervision, this is NOT for you.<br>Attention to detail is a must.<br>You need to be able to hit deadlines on time, have great team communication, and absolute reliability to be on during working hours.<br><br>We are looking for someone who is:<br> - Excited to Join a small but expanding team and ready to grow with us<br> - Loves to strategize and overcome software hurdles<br> - Has experience with Front End UI/UX development<br> - Has EXPERT knowledge of Front-End development frameworks and technologies, including HTML, CSS, VueJS, jQuery, as well as a strong understanding of PHP<br> - Is able to cleanly write code and stands by their work 1000%<br> - Is looking for a strong company culture built in excellence and growth<br> - A rockstar in this field - a truly confident individual that can express requirements but also can problem solve in any scenario<br><br>Requirements:<br> - 5+ years developing web applications<br> - Experience architecting web applications<br> - 5+ years using PHP with relevant frameworks (Laravel preferred)<br> - Exceptional front-end design implementation (VueJS preferred and SKETCH files are sourced for designs)<br> - 5+ years using MySQL including database design and optimization<br> - Experience designing, implementing and consuming APIs<br> - Comfortably using Git version control<br> - Experience with project management tools (Jira and Slack)<br><br>If you're not confident you are the best, don't apply. If you’ve made it here... GREAT JOB!<br>Those capable candidates will be required to run through an interview, development test, and short trial period before being brought on the team.<p>See more jobs at <span>Smar7 Apps LLC</span></p><p>Visit <a href='https://smar7apps.com' rel='nofollow'>Smar7 Apps LLC</a>'s website</p></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "FOHLptWpRfiesrGKiWZ9Uw",
+    "url": "https://www.remotejobr.com/jobs/javascript-react-developer",
+    "title": "Javascript/React Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:reactjs/frontend/32",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=20, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=56}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 11:05:40 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div>        </div>                            <h2>Javascript/React Developer</h2>                            <p>      </p><p>  <strong>Headquarters:</strong> Harrisonburg, VA    <br><strong>URL:</strong> <a href='https://www.bidwrangler.com/join-our-team' rel='nofollow'>https://www.bidwrangler.com/join-our-team</a></p><div> <b>BidWrangler</b> is a profitable, investment-backed startup that builds innovative technology for auction companies.&nbsp; We're looking for a front-end developer to help us build the next generation of experiences for our platform that services more than 200 different auction companies all over the world selling everything from multi-million dollar estates to farm equipment to small household items.</div><div><br></div><div>The first generation of our platform was built on top of Ruby on Rails + Angular.&nbsp; We believe in adopting new, modern tools and techniques to constantly improve our product.&nbsp; As such, we're building the next generation of functionality from scratch on top of React.&nbsp; We're currently exposing our HTTP/JSON-based API through Redux/Redux-Saga to our frontend but have plans to integrate GraphQL with subscriptions.</div><div><br></div><div>We're headquartered in Harrisonburg, VA but have people on our team in multiple places in the US, as well as in Europe.&nbsp; We're 12 people strong (with 6 developers) and are active users of Slack, G-Suite, Zoom, GitHub, and other technologies that make it easy for us to be a high productivity remote team.&nbsp; We also believe that time spent together in-person matters for a thriving culture so we budget to bring people together at least annually to hang-out, learn, plan, drink lots of beer, and have fun.</div><div><br></div><div><b>Job Requirements:</b></div><div><br></div><ul><li>Master-level proficiency with Javascript and React.</li><li>3+ years of experience delivering high quality, robust applications.</li><li>Courage and composure to find elegant solutions to problems with which you have no previous experience or examples.</li><li>Operations-minded; showing aptitude preventing problems before they’re deployed and master-level skill debugging and solving problems that only show up in production.</li><li>Excellent interpersonal and leadership skills. Use your expertise, communication skills, and influence to make everyone on your team achieve even better results.</li><li>Ownership mentality. We don’t hire people who just need a job. We hire people vested in the long-term performance and financial success of BidWrangler.</li><li>An ideal candidate needs to be comfortable working across the entire stack from the browser to AWS/Ruby on Rails backend.</li></ul><div><span><br></span></div><div><span><b>Compensation and Benefits:</b></span></div><div><br></div><ul><li>Work remotely from any place you want.</li><li>Competitive salary and holidays package.</li><li>Very relaxed and family-like atmosphere.</li><li>Be part of small team where your contributions makes a real difference.</li><li>Fun trips to our headquarters in Virginia, USA.</li></ul><div><span><br></span></div><div><span><b>Interview Process:</b></span></div><div> </div><div> </div><div><span><br></span></div><ul><li><span>Send your resume to <span>[email&nbsp;protected]</span></span></li><li><span>Qualified candidates will be contacted and scheduled for a virtual interview</span></li><li><span>Upon a successful first interview we will request the completion of a short coding assignment</span></li><li><span>Secondary interviews may be scheduled</span></li></ul><p><strong>To apply:</strong> Email your resume to <a rel='nofollow' href='mailto:jobs@bidwrangler.com'>jobs@bidwrangler.com</a></p>    <p></p>        <p>            </p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "fOWRq15CSqKlyNWR3lsKPA",
+    "url": "https://weworkremotely.com/remote-jobs/bidwrangler-javascript-react-developer",
+    "title": "BidWrangler: Javascript/React Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:reactjs/frontend/32",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=20, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=56}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "BidWrangler",
+      "sameAs": "https://www.bidwrangler.com/join-our-team"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 11:04:25 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Javascript/React Developer</h2><span>Company: BidWrangler<br></span><span>Headquarters: Harrisonburg, VA<br></span><span>https://www.bidwrangler.com/join-our-team<br><br></span><div><div><b>BidWrangler</b> is a profitable, investment-backed startup that builds innovative technology for auction companies.&nbsp; We're looking for a front-end developer to help us build the next generation of experiences for our platform that services more than 200 different auction companies all over the world selling everything from multi-million dollar estates to farm equipment to small household items.</div><div><br></div><div>The first generation of our platform was built on top of Ruby on Rails + Angular.&nbsp; We believe in adopting new, modern tools and techniques to constantly improve our product.&nbsp; As such, we're building the next generation of functionality from scratch on top of React.&nbsp; We're currently exposing our HTTP/JSON-based API through Redux/Redux-Saga to our frontend but have plans to integrate GraphQL with subscriptions.</div><div><br></div><div>We're headquartered in Harrisonburg, VA but have people on our team in multiple places in the US, as well as in Europe.&nbsp; We're 12 people strong (with 6 developers) and are active users of Slack, G-Suite, Zoom, GitHub, and other technologies that make it easy for us to be a high productivity remote team.&nbsp; We also believe that time spent together in-person matters for a thriving culture so we budget to bring people together at least annually to hang-out, learn, plan, drink lots of beer, and have fun.</div><div><br></div><div><b>Job Requirements:</b></div><div><br></div><ul><li>Master-level proficiency with Javascript and React.</li><li>3+ years of experience delivering high quality, robust applications.</li><li>Courage and composure to find elegant solutions to problems with which you have no previous experience or examples.</li><li>Operations-minded; showing aptitude preventing problems before they’re deployed and master-level skill debugging and solving problems that only show up in production.</li><li>Excellent interpersonal and leadership skills. Use your expertise, communication skills, and influence to make everyone on your team achieve even better results.</li><li>Ownership mentality. We don’t hire people who just need a job. We hire people vested in the long-term performance and financial success of BidWrangler.</li><li>An ideal candidate needs to be comfortable working across the entire stack from the browser to AWS/Ruby on Rails backend.</li></ul><div><span><br></span></div><div><span><b>Compensation and Benefits:</b></span></div><div><br></div><ul><li>Work remotely from any place you want.</li><li>Competitive salary and holidays package.</li><li>Very relaxed and family-like atmosphere.</li><li>Be part of small team where your contributions makes a real difference.</li><li>Fun trips to our headquarters in Virginia, USA.</li></ul><div><span><br></span></div><div><span><b>Interview Process:</b></span></div><div></div><div></div><div><span><br></span></div><ul><li><span>Send your resume to jobs@bidwrangler.com</span></li><li><span>Qualified candidates will be contacted and scheduled for a virtual interview</span></li><li><span>Upon a successful first interview we will request the completion of a short coding assignment</span></li><li><span>Secondary interviews may be scheduled</span></li></ul></div><div><h4>Apply for this position</h4><p>Email your resume to <a href='mailto:jobs@bidwrangler.com' rel='nofollow'>jobs@bidwrangler.com</a></p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Qv3syjHOTUG4JBj2sqNLAw",
+    "url": "http://jobmote.com/jobs/26386-remote-python-software-developer",
+    "title": "Remote - Python Software Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=3}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Glocomms",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 8:20:49 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>Remote Python Software Developer:<br>Cyber Security market leading service provider with more than 2,000 key clients globally in over 50 countries have an exciting opportunity available to developers that are keen innovate, create and have impact on projects.Profile:<br>3+ years of programming experience, with a strong knowledge of PythonExperience in developing customization &amp; integration software solutions (use of APIs, connecting applications, etc.)Experience with WEB technologies such as HTML, CSS and JavascriptExperience with SQL queriesDemonstrated ability to (1) creatively solve technical problems, and (2) work collaboratively within a teamExcellent communication, critical thinking &amp; analytical skillsExperience working independently with minimal guidanceStrong problem solving and troubleshooting skills with experience exercising mature judgmentPreferred skills - experience working with (a) networking devices (Switches, Routers etc.), including virtual routing and software-defined ne </p></div></div><div></div></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "NEcRHmdMTaCRmmaLo3YdQg",
     "url": "http://workinstartups.com/job-board/job/73473/front-end-developer-at-smartzer-at-smartzer/",
     "title": "Front-end Developer at SMARTZER",
