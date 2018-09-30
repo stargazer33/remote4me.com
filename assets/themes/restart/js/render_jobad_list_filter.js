@@ -19,8 +19,12 @@ var mapIdToJob = new Map();
 var json_data_original = [];
 var detailFormatterTemplate = null;
 
+// JobId текущего модального окна
 var currentJobId = null;
+// tag текущего модального окна
 var tagCurrent = null;
+// title текущего модального окна
+var titleCurrent = null;
 
 /**
  * runs when page load complete
@@ -98,10 +102,11 @@ $(document).ready(function () {
         var source   = document.getElementById("detailFormatter").innerHTML;
         detailFormatterTemplate = Handlebars.compile(source);
 
-        $('#reportthisjob-modal').on('show.bs.modal', function (event) {
+        $('#reportthisjob-modal').on('show.bs.modal', function (event) { // callback функция, вызывается при показе модального окна
             var button = $(event.relatedTarget);
                 currentJobId = button.data('postid');
                 tagCurrent = button.data('tagcurrent');
+                titleCurrent = button.data('title');
         });
 
         // Initialize Firebase
@@ -146,6 +151,11 @@ $(document).ready(function () {
     }
 });
 
+/**
+ * функция отправки репорта в фаербейз, вызывается по нажатию кнопки "Send"
+ * @param type - значение выбранного чекбокса (REMOTE1/not | REMOTE1/50)
+ * @return undefined
+ */
 function postReport(type) {
     var user = firebase.auth().currentUser;
     if (user) {
@@ -166,6 +176,9 @@ function postReport(type) {
         db.collection("job-remote-error").add(reportObj)
             .then(function(docRef) {
                 console.log("Document written with ID: ", docRef.id);
+                $('#reportthisjob-modal-success-title').html(titleCurrent);
+                $('#reportthisjob-modal-success-tag').html(reportObj.tagShould);
+                $('#reportthisjob-modal-success').modal("show");
             })
             .catch(function(error) {
                 console.error("Error adding document: ", error);
@@ -528,7 +541,7 @@ function detailFormatter(index, jobAd) {
             tagCurrent = jobAd.tags[i];
         }
     }
-    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id, tagCurrent: tagCurrent};
+    var context = {content: jobAd.content, url: jobAd.url, id: jobAd.id, tagCurrent: tagCurrent, title: jobAd.title};
     return detailFormatterTemplate(context);
 }
 
@@ -705,3 +718,50 @@ function rowPlusMinusClick( eventObject) {
     var titleNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0].children[0];
     markHrefAsVisited(titleNode.href);
 }
+
+/**** email subscription ****/
+
+/**
+ * alertType: alert-danger, alert-success, alert-info (blue), alert-warning (yellow)
+ * alertMessage: text/HTML to display
+ */
+function showAlert(alertType, alertMessage){
+    $('#alert-placeholder-id').html(
+        '<div class="alert '+alertType+' alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' +alertMessage+'</div>'
+    );
+}
+
+/**
+ * @param e - Event
+ * @param formID - ID of the form
+ * @param emailID - ID of "email" form input
+ * @param mailistNameID - ID of element with mail list name
+ * @param modalID - ID of modal dialog
+ */
+function handleEmailSubscriptionFormSubmit(e, formID, emailID, mailistNameID, modalID){
+    // see https://stackoverflow.com/questions/1960240/jquery-ajax-submit-form/6960586#6960586
+    e.preventDefault(); // avoid to execute the actual submit of the form.
+    var form = $(formID);
+    var messageOK="<strong>"+ $(emailID).val() +"</strong> subscribed to <strong>"+$(mailistNameID).text()+"</strong>.  Please check your inbox.";
+    var messageErr="Subscription error! Technical details: ";
+
+    $.ajax({
+        type: form.attr('method'),
+        url: form.attr('action'),
+        data: form.serialize(), // serializes the form's elements.
+        success: function (data) {
+            if(data.success == false){
+                showAlert('alert-danger', messageErr+JSON.stringify(data));
+            }
+            else {
+                showAlert('alert-success', messageOK)
+            }
+        },
+        error: function (data) {
+            showAlert('alert-danger', messageErr+JSON.stringify(data));
+        },
+    });
+    $(modalID).modal("hide");
+}
+
+
