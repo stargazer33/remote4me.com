@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Experimental subscribe form</title>
+  <meta name="description" content="Experimental subscribe form">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,600italic,700,700italic,300italic" type="text/css">
+  <link rel="stylesheet" href="/assets/themes/restart/css/animate.css" type="text/css">
+  <link rel="stylesheet" href="/assets/themes/restart/css/style.css" type="text/css">
+  <link rel="stylesheet" href="/assets/themes/restart/css/userstyle.css" type="text/css">
+  <link rel="stylesheet" href="/assets/themes/restart/css/font-awesome.css" media="screen">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=JykA7OeR0P">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=JykA7OeR0P">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=JykA7OeR0P">
+  <link rel="manifest" href="/site.webmanifest?v=JykA7OeR0P">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=JykA7OeR0P" color="#357ebd">
+  <link rel="shortcut icon" href="/favicon.ico?v=JykA7OeR0P">
+  <meta name="msapplication-TileColor" content="#357ebd">
+  <meta name="theme-color" content="#357ebd">
+  <meta property="og:title" content="Experimental subscribe form">
+  <meta property="og:description" content="Experimental subscribe form">
+  <meta property="og:site_name" content="Remote4me" />
+
+  <meta property="og:type" content="article"/>
+  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="https://remote4me.com/og-image-quadrat-400-400.png?v=q001">
+  <meta property="og:image:width" content="400">
+  <meta property="og:image:height" content="400">
+
+  <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.css" />
+</head>
+
+
+<body class="collapsing_header">
+<header>
+  <div class="container">
+    <div class="navbar navbar-default" role="navigation">
+      <div class="navbar-header"><a class="navbar-brand" href="/">
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 8.8625887 3.3536789"><g stroke-linejoin="round" transform="matrix(.26458 0 0 .26458 -18.135 -14.655)" stroke="#4f8acc" stroke-linecap="round" stroke-width=".2401" fill="none"><path d="m101.45 66.504c-0.4926 0.8875-1.4278 1.4383-2.4429 1.4383-1.5426 0-2.7935-1.251-2.7935-2.7936s1.2509-2.7935 2.7935-2.7935 2.7936 1.2509 2.7936 2.7935"/><path d="m96.215 65.149h5.5871"/><path d="m86.508 67.942v-5.463"/><path d="m86.508 64.622c0-1.1383 0.9314-2.0698 2.0701-2.0698"/><path d="m88.578 62.553h0.0003"/><path d="m88.578 62.553c1.1387 0 2.0701 0.9315 2.0701 2.0698"/><path d="m90.648 64.622v3.32"/><path d="m90.648 64.622c0-1.1383 0.9315-2.0698 2.0702-2.0698"/><path d="m92.718 62.553h0.0003"/><path d="m92.719 62.553c1.1386 0 2.0701 0.9315 2.0701 2.0698"/><path d="m94.789 64.622v3.32"/><path d="m74.034 57.411c0.0977-0.5584 0.1034-1.5154 0.6573-1.7651 0.2852-0.1284 1.4414-0.1386 1.8009-0.1375 0.3594-0.0011 1.5156 0.0091 1.8008 0.1375 0.5539 0.2497 0.5596 1.2067 0.6574 1.7651"/><path d="m78.489 57.411-0.107-0.449"/><path d="m78.382 56.962c-0.106-0.426-0.1882-0.6057-0.6718-0.5451-0.3813 0.0479-0.7549 0.0907-1.2033 0.091-0.4485-0.0003-0.8218-0.0431-1.2033-0.091-0.4833-0.0606-0.5655 0.1191-0.6718 0.5451"/><path d="m74.632 56.962-0.1375 0.4499"/><path d="m72.424 57.412v-0.352"/><path d="m72.424 57.06c0-0.1933-0.1579-0.3515-0.3512-0.3515"/><path d="m72.073 56.709h-0.818"/><path d="m71.255 56.709c-0.1934 0-0.3513 0.1582-0.3513 0.3515"/><path d="m70.903 57.06v0.3515"/><path d="m80.559 57.412v-0.352"/><path d="m80.559 57.06c0-0.1933 0.1579-0.3515 0.3512-0.3515"/><path d="m80.91 56.709h0.8184"/><path d="m81.729 56.709c0.1933 0 0.3512 0.1582 0.3512 0.3515"/><path d="m82.08 57.06v0.3515"/><path d="m70.602 62.008 3.4614-1.4471"/><path d="m74.064 60.56c-0.415-0.597-3.0059-0.648-3.4614 1.4471"/><path d="m77.242 63.636-2.672-2.828"/><path d="m74.57 60.808c0.6446-0.3911 3.1215 0.65 2.6722 2.8276"/><path d="m74.598 60.864c0.248-1.9029-1.7504-2.3289-2.5721-1.6764"/><path d="m72.026 59.187 2.5721 1.6764"/><path d="m74.573 60.789 2.7867-0.688"/><path d="m77.36 60.101c-0.3379-0.5522-2.2374-0.9247-2.7867 0.688"/><path d="m73.319 67.942c-1.082-2.375-0.837-5.67 0.818-7.379"/><path d="m75.781 67.846c-2.74-1.941-2.334-5.692-1.183-6.983"/><path d="m75.781 67.846c0.1911 0.1284 0.4272 0.1284 0.6182 0"/><path d="m76.399 67.846 0.3209-0.2154"/><path d="m76.72 67.631c0.1908-0.1282 0.4272-0.1282 0.6183 0"/><path d="m77.338 67.631 0.3203 0.2154"/><path d="m77.659 67.846c0.191 0.1284 0.4274 0.1284 0.6185 0"/><path d="m78.277 67.846 0.3206-0.2154"/><path d="m78.598 67.631c0.191-0.1282 0.4275-0.1282 0.6182 0"/><path d="m79.216 67.631 0.3206 0.2154"/><path d="m79.537 67.846c0.0956 0.0641 0.2024 0.0961 0.3093 0.0961"/><path d="m79.846 67.942c0.1068 0 0.2137-0.032 0.309-0.0961"/><path d="m80.155 67.846 0.3208-0.2154"/><path d="m80.476 67.631c0.1908-0.1282 0.4275-0.1282 0.6183 0"/><path d="m81.094 67.631 0.3206 0.2154"/><path d="m81.415 67.846c0.1907 0.1281 0.4274 0.1281 0.6182 0"/><path d="m82.033 67.846 0.3209-0.2154"/><path d="m82.354 67.631c0.1908-0.1282 0.4275-0.1282 0.6182 0"/><path d="m82.972 67.631 0.3206 0.2154"/><path d="m83.292 67.846c0.0953 0.0641 0.2021 0.0961 0.3093 0.0961"/><path d="m73.319 67.942h-4.031"/><path d="m69.288 67.942c-0.3432 0-0.6267-0.2818-0.6267-0.6268"/><path d="m68.662 67.316v-9.278"/><path d="m68.662 58.038c0-0.3449 0.2818-0.6267 0.6267-0.6267"/><path d="m69.288 57.411h12.792"/><path d="m84.322 67.223c0 0.3951-0.3237 0.7197-0.7197 0.7197"/><path d="m85.38 65.132h-7.2063l6.1481-7.6501v9.7413"/><path d="m100.36 60.303h1.5563"/><path d="m89.107 60.303h1.5565"/><path d="m97.678 57.435h2.0455"/><path d="m98.701 57.435v2.8678"/><path d="m100.36 57.435h1.5563"/><path d="m100.36 57.435v2.8678"/><path d="m89.107 57.435h1.5565"/><path d="m89.107 57.435v2.8678"/><path d="m89.107 58.851h1.3757"/><path d="m86.508 57.435v2.8678"/><path d="m86.508 57.435h0.8515"/><path d="m87.359 57.435c0.4218 0 0.7665 0.3447 0.7665 0.7665"/><path d="m88.126 58.201v0.0006"/><path d="m88.126 58.202c0 0.4218-0.3447 0.7665-0.7665 0.7665"/><path d="m87.359 58.968h-0.851v-1.533"/><path d="m88.275 60.303c-0.4709 0 0.2806-1.3342-1.0695-1.3342"/><path d="m96.077 60.325c0.7611 0 1.3818-0.6548 1.3818-1.4573s-0.6207-1.457-1.3818-1.457-1.3819 0.6545-1.3819 1.457 0.6208 1.4573 1.3819 1.4573z"/><path d="m100.36 58.851h1.3754"/><path d="m91.448 60.303v-2.8678l1.1854 1.5818 1.1858-1.6209v2.9296"/></g></svg>
+        <a class="btn btn-navbar btn-default navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                         <span class="nb_left pull-left"> <span class="fa fa-reorder"></span>
+                         </span> <span class="nb_right pull-right">menu</span> </a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav pull-right navbar-nav">
+          <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Developer jobs<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+
+
+
+
+
+
+
+
+              <li class="active"><a href="/remote-frontend-jobs" class="active">Remote frontend (JavaScript) jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-mobile-jobs">Remote mobile (iOS, Android, Windows Phone) jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-java-jobs">Remote Java jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-big-data-science-machine-learning-jobs">Remote (Big) Data or Machine Learning or Scientist jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-python-jobs">Remote Python jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-dotnet-jobs">Remote C# and .NET jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-ruby-jobs">Remote Ruby jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-nodejs-jobs">Remote Node.js jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-go-golang-jobs">Remote Go, or Golang-related jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-c-plus-plus-jobs">Remote C/C++ jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-php-jobs">Remote PHP jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-apple-jobs">Remote Apple-related jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-embedded-jobs">Remote embedded applications/devices jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-gamedev-jobs">Remote gamedev jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-other-technologies-jobs">Remote jobs with other technologies</a></li>
+
+
+
+
+
+
+
+            </ul>
+          </li>
+
+          <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Tech jobs<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+
+
+
+
+
+
+
+
+              <li><a href="/remote-devops-sysadmin-sre-jobs">Remote DevOps, Sysadmin, SRE jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-qa-test-engineer-jobs">Remote QA engineer jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-solution-engineer-architect-jobs">Remote solution engineer (solution architect) jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-dbms-developer-admin-dba-jobs">Remote database (RDBMS) developer and admin (DBA) jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-integration-build-automation-engineer-jobs">Remote integration engineer jobs</a></li>
+
+
+
+
+
+
+
+            </ul>
+          </li>
+
+          <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Non-tech jobs<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+
+
+
+
+
+
+
+
+              <li><a href="/remote-designer-graphic-video-artist-jobs">Remote designer, graphic/video artist jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-customer-support-jobs">Remote support specialist jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-copywriter-editor-jobs">Remote (technical) writer/editor jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-marketing-product-seo-jobs">Remote marketing, product specialist, SEO jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-sales-jobs">Remote sales jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-manager-executive-jobs">Remote manager/executive jobs</a></li>
+
+
+
+
+
+
+
+              <li><a href="/remote-hr-recruiter-jobs">Remote recruiter/HR jobs</a></li>
+
+
+
+
+
+
+
+            </ul>
+          </li>
+
+
+
+
+
+
+
+
+
+
+          <li><a href="/about/">About</a></li>
+
+
+
+
+
+
+
+
+
+
+
+          <li><a href="/faq/">F.A.Q.s</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </ul>
+
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="main">
+
+
+
+
+
+
+  <section class="hgroup">
+    <div class="container">
+      <div id = "alert-placeholder-id"></div>
+      <h1 class="elegant">Remote frontend (JavaScript) jobs</h1>
+
+      <h2><strong>Includes:</strong> HTML/CSS and JavaScript which runs in browser (AngularJS, React and similar technologies). <br/><strong>Excludes:</strong> Node.js and cross-platform Javascript frameworks like Apache Cordova/PhoneGap</h2>
+
+
+      <ul class="breadcrumb pull-right">
+        <li><a href="/">Home</a> </li>
+        <li class="active">Remote frontend (JavaScript) jobs</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="hgroup">
+    <div class="container" id="filter-container">
+      <div class="row search-bar">
+
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+          <form id="jobSearchForm">
+            <div class="input-group">
+              <label class="sr-only" for="jobSearchInputID">Search</label>
+              <input type="search" class="form-control" id="jobSearchInputID" placeholder="Search" />
+              <span class="input-group-btn" id="jobSearchGroup">
+                     <button type="submit" class="btn btn-default btn-primary" id="jobSearchButton">
+                         <i class="fa fa-search"></i>
+                     </button>
+                  </span>
+            </div>
+          </form>
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+          <div class="btn-group btn-div" style="">
+            <button class="btn btn-default dropdown-toggle " type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Get email updates
+              <span class="caret"></span>
+            </button>
+
+            <ul class="dropdown-menu dropdown-menu-right">
+              <li>
+                <a href="javascript:void(0)" data-toggle="modal" data-target=".subscribe-weekly-modal">Weekly</a>
+              </li>
+              <li>
+                <a href="javascript:void(0)" data-toggle="modal" data-target=".subscribe-daily-modal">Daily</a>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+          <div class="btn-group btn-div">
+            <button class="btn btn-default dropdown-toggle btn-filter" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <span id="btn-tz">Timezone: Worldwide</span>
+              <span class="caret"></span>
+            </button>
+            <div class="dropdown-menu">
+              <fieldset class="dropdown-fields">
+                <div class="radio">
+                  <input type="radio" id="checkboxWorldwide" class="filter-checkbox" name="optradio" checked="" data-filter="all" />
+                  <label for="checkboxWorldwide">Show jobs worldwide</label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" id="checkboxUStz" class="filter-checkbox" />
+                  <label for="checkboxUStz">
+                    Show jobs in America timezones
+                    <span class="fa fa-check_icon_2" id="checkmark"></span>
+                  </label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" id="checkboxEUtz" class="filter-checkbox" />
+                  <label for="checkboxEUtz">
+                    Show jobs in European timezones
+                    <span class="fa fa-check_icon_2" id="checkmark"></span>
+                  </label>
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" id="checkboxASIAtz" class="filter-checkbox" />
+                  <label for="checkboxASIAtz">
+                    Show jobs in Asia\Pacific timezones
+                    <span class="fa fa-check_icon_2" id="checkmark"></span>
+                  </label>
+                </div>
+              </fieldset>
+            </div>
+          </div>
+
+          <!-- <div class="btn-group btn-div">
+            <button class="btn btn-default dropdown-toggle btn-filter btn-block" type="button"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <span id="btn-auth">Work auth:</span>
+              <span class="caret"></span>
+            </button>
+            <div class="dropdown-menu">
+              <fieldset class="dropdown-fields">
+                  <div class="checkbox">
+                    <input type="checkbox" id="checkboxUSauth" aria-describedby="help50workauth" class="filter-checkbox">
+                    <label for="checkboxUSauth">
+                      Hide jobs requiring US work authorization
+                      <span class="fa fa-check_icon_2" id="checkmark"></span>
+                    </label>
+                  </div>
+                  <div class="checkbox">
+                    <input type="checkbox" id="checkboxEUauth" aria-describedby="help50workauth" class="filter-checkbox">
+                    <label for="checkboxEUauth">
+                      Hide jobs requiring EU work authorization
+                      <span class="fa fa-check_icon_2" id="checkmark"></span>
+                    </label>
+                  </div>
+                  <span id="help50workauth" class="help-block filterTip smalltext">Some jobs require that you "..must be GCH(Green Card Holder).." In
+                      case you have no such authorization - you can hide such jobs</span>
+              </fieldset>
+            </div>
+          </div> -->
+
+          <div class="btn-group btn-div">
+            <button class="btn btn-default dropdown-toggle btn-filter" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <span id="btn-remote">Remoteness: 100% remote</span>
+              <span class="caret"></span>
+            </button>
+            <div class="dropdown-menu">
+              <fieldset class="dropdown-fields">
+                <div class="checkbox">
+                  <input type="checkbox" id="checkbox50remote" aria-describedby="help50remote" class="filter-checkbox" />
+                  <label for="checkbox50remote">
+                    Show 50% remote jobs
+                    <span class="fa fa-check_icon_2" id="checkmark"></span>
+                  </label>
+                </div>
+                <span id="help50remote" class="help-block filterTip smalltext">Some job descriptions mention "remote working days" or "occasional
+                        remote working". This is a clear indicator that you can not work remote from
+                        anywhere. <a href="/faq/2018/04/25/what-does-a-50-percent-remote-job-mean">We name such jobs "50% remote"</a>.</span>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+      <div>
+        <div class="loader">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-2 col-xs-offset-5">
+                <div class="center-block">
+                  <span class="center-block sr-only">Imagine here the list of jobs. (but this is just a mock-up, so temporarily no list)</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <table id="table"></table>
+        <div class="clearfix"></div>
+        <div id="alertCanNotLoadID" class="alert alert-danger" role="alert" style="display: none">Error!</div>
+        <div id="alertJsID" class="alertJs alert alert-danger" role="alert">
+          Oh snap! You need JS enabled to be able to see this table!
+        </div>
+      </div>
+
+      <script>
+          var json_data = [];
+          var dataFileName;
+          dataFileName = 'TECH1_frontend';
+      </script>
+      <noscript>
+        <style>
+          #table {
+            display: none;
+          }
+          div#alertJsID {
+            display: block;!important;
+          }
+        </style>
+      </noscript>
+    </div>
+
+  </section>
+
+  <div id="subscribe-weekly-modal-id" class="modal fade subscribe-weekly-modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="week-maillist-name-id"> Mail list "Weekly Remote frontend (JavaScript) jobs"</h4>
+        </div>
+        <form id="form-subscribe-weekly-modal-id" class="form" method="get"
+              action="https://landing.mailerlite.com/webforms/landing/r2q9o2">
+          <div class="modal-body" id="reportthisjob-modal-body">
+              <p>
+                  <span class="fa fa-check" style="color: #428bca;"></span> Every Saturday there will be an email with the list of <em>Remote frontend (JavaScript) jobs</em> appeared on remote4me.com last week.
+              </p>
+              <p>
+                  <span class="fa fa-check" style="color: #428bca;"></span> Unsubscribe any time: the unsubscribe link is in every email.
+              </p>
+              <p>
+                  <span class="fa fa-check" style="color: #428bca;"></span> This mail list is to send new job ads. Not for marketing/promotional purposes.
+              </p>
+              <br/>
+              <label for="week-input-email-id" class="col-sm-2 control-label">Email</label>
+              <input type="email" required name="fields[email]" class="form-control" id="week-input-email-id" placeholder="you@youremail.com">
+
+              <input type="hidden" name="groups[]" value="10484474" checked="checked">
+              <input type="hidden" name="ml-submit" value="1">
+              <input type="hidden" name="ajax" value="1">
+          </div>
+
+          <div class="modal-footer">
+            <button type="submit" class="btn btn-primary">Subscribe</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div id="subscribe-daily-modal-id" class="modal fade subscribe-daily-modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="day-maillist-name-id"> Mail list "Daily Remote frontend (JavaScript) jobs"</h4>
+        </div>
+
+
+        <form id="form-subscribe-daily-modal-id" class="form" method="get"
+              action="https://landing.mailerlite.com/webforms/landing/r2q9o2">
+          <div class="modal-body">
+              <div class="row">
+                    <span class="fa fa-check" style="color: #428bca;"></span> Every evening (21:00 EST) there will be an email with the list of <em>Remote frontend (JavaScript) jobs</em> appeared on remote4me.com during the day.<br/>
+                    <span class="fa fa-check" style="color: #428bca;"></span> Unsubscribe any time: the unsubscribe link is in every email.<br/>
+                    <span class="fa fa-check" style="color: #428bca;"></span> This mail list is to send new job ads. Not for marketing/promotional purposes.<br/>
+
+                <div class="row">
+                  <div class="col-md-8" >
+                    <label for="day-input-email-id" class="col-sm-4 control-label" >Email:</label>
+                    <input type="email" required class="form-control" id="day-input-email-id" name="fields[email]" placeholder="you@youremail.com">
+                  </div>
+                </div><!--row -->
+              </div><!--row -->
+
+              <p>&nbsp;</p>
+              <div class="row">
+
+                  <h4>A long text <s>that no one reads</s></h4>
+                  <p>
+                    The Remote4me is a one-man show. I am working on adding new job boards, on improving the classifiers (the "remoteness" classifier, the "profession" classifier, the "tech stack" classifier, just to name a few). I'm adding new features (like this mail list) to this site. And I'm doing marketing for Remote4me. And marketing eats a lot of time! So IF you help me with marketing THEN I have more time to work on new features (improved "time zone" classifier, new "work authorization" classifier etc).
+                  </p>
+                  <p>
+                    How can you help with marketing for Remote4me:<br/>
+                    <span class="fa fa-check" style="color: #428bca;"></span> Please link this site from a prominent page on your site or blog.<br/>
+                    <span class="fa fa-check" style="color: #428bca;"></span> Alternatively, post on your favorite social network or online forum, and link back to this site.<br/>
+                    <strong>Share the link to your post (the field below)</strong>.
+                    One link is enough. After this, you'll get email updates for as long as you wish.
+                  </p>
+
+                <div class="row">
+                  <div class="col-md-8" >
+                    <label for="inputUrl4" class="col-sm-12 control-label">A page/post/article URL:</label>
+                    <input type="url" required class="form-control" name="fields[url_promo]" id="inputUrl4" placeholder="https://social-network.com/post-url" pattern="https?://.+" size="15">
+
+                    <input type="hidden" name="groups[]" value="10484476" checked="checked">
+                    <input type="hidden" name="ml-submit" value="1">
+                    <input type="hidden" name="ajax" value="1">
+
+                  </div>
+                </div><!--row -->
+
+              </div><!--row -->
+
+
+          </div><!--modal body -->
+
+          <div class="modal-footer">
+            <button type="submit" class="btn btn-primary">Subscribe</button>
+          </div>
+        </form>
+
+
+      </div>
+    </div>
+  </div>
+
+
+  <div class="modal fade reportthisjob-modal" id="reportthisjob-modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="gridSystemModalLabel">Tell us a little more</h4>
+        </div>
+
+
+        <div class="modal-body" id="reportthisjob-modal-body">
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary">Subscribe</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <footer>
+    <section class="copyright">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-6 col-md-6"></div>
+        </div>
+      </div>
+    </section>
+  </footer>
+</div>
+
+<script type="text/javascript" src="/assets/themes/restart/js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="/assets/themes/restart/js/bootstrap.min.js" ></script>
+<script type="text/javascript" src="/assets/themes/restart/js/modernizr.custom.48287.js"></script>
+<script type="text/javascript" src="/assets/themes/restart/js/jquery.ui.totop.js"></script>
+<script type="text/javascript" src="/assets/themes/restart/js/easing.js"></script>
+<script type="text/javascript" src="/assets/themes/restart/js/wow.min.js"></script>
+<script type="text/javascript" src="/assets/themes/restart/js/restart_theme.js"></script>
+<script type="text/javascript" src="/assets/themes/restart/js/collapser.js"></script>
+
+
+<script type="text/javascript" src="/assets/themes/restart/js/bootstrap-table.js"></script>
+<script type="text/javascript" src="/assets/themes/restart/js/bootstrap-table-en-US.min.js"></script>
+<script type="text/javascript" src="/assets/themes/restart/js/handlebars-v4.0.11.js"></script>
+
+<!--
+<script type="text/javascript" src="/assets/themes/restart/js/render_jobad_list_filter.js"></script>
+
+<script type="text/javascript" src="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase.js"></script>
+-->
+
+<script>
+
+    function showAlert(alertType, alertMessage){
+        $('#alert-placeholder-id').html(
+            '<div class="alert '+alertType+' alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' +alertMessage+'</div>'
+        );
+    }
+
+    // this is the id of the form
+    $("#form-subscribe-weekly-modal-id").submit(function(e) {
+        // see https://stackoverflow.com/questions/1960240/jquery-ajax-submit-form/6960586#6960586
+        //
+        e.preventDefault(); // avoid to execute the actual submit of the form.
+
+        var form = $(this);
+        var messageOK="<strong>"+ $("#week-input-email-id").val() +"</strong> subscribed to <strong>"+$("#week-maillist-name-id").text()+"</strong>.  Check your inbox.";
+        var messageErr="Subscription error! Technical details: ";
+
+        $.ajax({
+            type: form.attr('method'),
+            url: form.attr('action'),
+            data: form.serialize(), // serializes the form's elements.
+            success: function (data) {
+                if(data.success == false){
+                    showAlert('alert-danger', messageErr+JSON.stringify(data));
+                }
+                else {
+                    showAlert('alert-success', messageOK)
+                }
+            },
+            error: function (data) {
+                showAlert('alert-danger', messageErr+JSON.stringify(data));
+            },
+        });
+        $('#subscribe-weekly-modal-id').modal("hide");
+    });
+
+
+    // this is the id of the form
+    $("#form-subscribe-daily-modal-id").submit(function(e) {
+        // see https://stackoverflow.com/questions/1960240/jquery-ajax-submit-form/6960586#6960586
+        //
+        e.preventDefault(); // avoid to execute the actual submit of the form.
+
+        var form = $(this);
+        var messageOK="<strong>"+ $("#day-input-email-id").val() +"</strong> subscribed to <strong>"+$("#day-maillist-name-id").text()+"</strong>.  Check your inbox.";
+        var messageErr="Subscription error! Technical details: ";
+
+        $.ajax({
+            type: form.attr('method'),
+            url: form.attr('action'),
+            data: form.serialize(), // serializes the form's elements.
+            success: function (data) {
+                if(data.success == false){
+                    showAlert('alert-danger', messageErr+JSON.stringify(data));
+                }
+                else {
+                    showAlert('alert-success', messageOK)
+                }
+            },
+            error: function (data) {
+                showAlert('alert-danger', messageErr+JSON.stringify(data));
+            },
+        });
+        $('#subscribe-daily-modal-id').modal("hide");
+    });
+
+</script>
+
+
+<script id="detailFormatter" type="text/x-handlebars-template">
+  <div class="detail-view">
+    <td colspan="3"><span class="detailFooter"></span>
+      <div class="detailContent">
+        <div class="highlight">
+
+          <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+              {{{content}}}
+            </div>
+          </div>
+
+          <div class="row footer-row">
+
+            <div class="col-xs-12 col-sm-12 col-md-12">
+              <div style="padding-left: 0;" class="col-xs-4">
+                <a href="{{{url}}}">View original job desription <i class="fa fa-external-link"
+                                                                    aria-hidden="true"></i></a>
+              </div>
+              <div style="padding-right: 0;" class="col-xs-8 text-right">
+                <a href="#{{{id}}}">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>
+                &nbsp;
+                <div class="btn-group div-report-btn abuse-btn" style="display: none">
+                  <button class="btn btn-default dropdown-toggle fa fa-flag-o" type="button"
+                          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <span class="report-btn-font-body">Report this job...</span>
+                    <span class="caret"></span>
+                  </button>
+
+                  <ul class="dropdown-menu dropdown-menu-right">
+                    <li>
+                      <a href="javascript:void(0)" data-toggle="modal"
+                         data-target=".reportthisjob-modal" data-postid="{{{id}}}" data-tagcurrent="{{{tagCurrent}}}">I think this
+                        job is not remote</a>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0)">I think this job belongs into different
+                        category</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <span class="detailFooter">&nbsp;</span>
+
+          </div>
+
+        </div>
+      </div>
+    </td>
+  </div>
+</script>
+</body>
+
+
+</html>
