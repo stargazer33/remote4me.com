@@ -1,6 +1,594 @@
 {
  "items": [
   {
+    "id": "i0q-H6G0R3q-3Okg2_gFRQ",
+    "url": "https://remoteok.io/jobs/69081",
+    "title": "Senior DevOps Engineer",
+    "tags": [
+      "DBG:surround``2N( OR(employe,develop,engin,team,workmat), spread, OR(out,across) )",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Engage Technology Partners",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 10:12:58 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<td><span><h2>Senior DevOps Engineer</h2></span><br><span><h3>Engage Technology Partners</h3></span></td><div><div><br>Engage builds software to make finding, hiring, and paying workers painless. Our software is causing waves in the UK recruitment industry, serving end hirers, recruitment agencies and workers, and we're looking to continue growing our product development team.<br><br><br>Team and Culture<br>We're a diverse team of people, both professionally and personally, bringing together a broad range of skill sets, experiences, backgrounds and cultures. We believe this helps us build better products for our diverse user base. It's for this reason that we have built a kind, supportive, inclusive team. We have team members from 19 different nationalities, and no gender pay gap.<br>We pride ourselves on being flexible and family-friendly - it's not unusual to see a baby in a team meeting. Being your best at work means having balance outside it - if you need to pick the kids up from school, visit a sick relative, or just want to walk the dog while the sun is shining, that's part of life. We expect you to work sensible hours and take your holidays.<br>Engineering is spread across Europe, because we believe you can ship great software from anywhere. Our office is in London, where some of our product development team is based, including Product Management and Design - remote brainstorming can be really hard. We live in Slack, remote people come to London regularly, and we work very hard to make everyone feel included.<br><br><br>The Role<br>We are looking for a Senior DevOps Engineer to join our infrastructure team, responsible for:<br> * Keeping our cloud infrastructure secure and highly available.<br> * Supporting engineers with the necessary tools to ship product easily.<br> * Facilitating monitoring, alerting and maintenance.<br> * Working with our development team on adopting new offerings from AWS or other providers.<br> <br><br>We run on Amazon Web Services and script using CloudFormation, Python and Puppet. Our application services are written in Java and Node, and run in Docker containers in Amazon ECS. <br>Deployments happen multiple times per week, sometimes multiple times per day. We also make use of Lambda, API Gateway, Elasticsearch and Redis.<br><br>Benefits<br><br> * Competitive salary.<br> * Paid holidays.<br> * Stock options.<br> * Apple or Linux equipment.<br> * Occasional travel and accommodation in London.<br> <br><br><br><br>How to apply<br>If you think you're a good fit for this role, send us a covering email along with your CV - we want to get to know you! Please also include your availability.<br>As part of our hiring process, we ask candidates to do a coding test, which is based on our in-production set of technologies.<p>See more jobs at <span>Engage Technology Partners</span></p></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "wlT-hAm4SDar617QI5SdqA",
+    "url": "https://stackoverflow.com/jobs/203792/senior-devops-engineer-engage-technology-partners?a=16lqacimWgXC",
+    "title": "Senior DevOps Engineer at Engage Technology Partners (London, UK) ",
+    "tags": [
+      "DBG:surround``2N( OR(employe,develop,engin,team,workmat), spread, OR(out,across) )",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=13, bigdata-ml=8, ruby=0, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Engage Technology Partners",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "£",
+      "minValue": 60000,
+      "maxValue": 70000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 5:06:11 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Senior DevOps Engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                            </div>                    </div>                <div>Company: Engage Technology Partners | London, UK<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>London, UK.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div>aws</div><div>infrastructure</div><div>devops</div>                <h3>Job description</h3>                <div><p>Engage builds software to make finding, hiring, and paying workers painless. Our software is causing waves in the UK recruitment industry, serving end hirers, recruitment agencies and workers, and we're looking to continue growing our product development team.</p><p><br></p><p><strong>Team and Culture</strong></p><p>We're a diverse team of people, both professionally and personally, bringing together a broad range of skill sets, experiences, backgrounds and cultures. We believe this helps us build better products for our diverse user base. It's for this reason that we have built a kind, supportive, inclusive team. We have team members from 19 different nationalities, and no gender pay gap.</p><p>We pride ourselves on being flexible and family-friendly - it's not unusual to see a baby in a team meeting. Being your best at work means having balance outside it - if you need to pick the kids up from school, visit a sick relative, or just want to walk the dog while the sun is shining, that's part of life. We expect you to work sensible hours and take your holidays.</p><p>Engineering is spread across Europe, because we believe you can ship great software from anywhere. Our office is in London, where some of our product development team is based, including Product Management and Design - remote brainstorming can be really hard. We live in Slack, remote people come to London regularly, and we work very hard to make everyone feel included.</p><p><br></p><p><strong>The Role</strong></p><p>We are looking for a Senior DevOps Engineer to join our infrastructure team, responsible for:</p><ul> <li>Keeping our cloud infrastructure secure and highly available.</li> <li>Supporting engineers with the necessary tools to ship product easily.</li> <li>Facilitating monitoring, alerting and maintenance.</li> <li>Working with our development team on adopting new offerings from AWS or other providers.</li> </ul><p>We run on Amazon Web Services and script using CloudFormation, Python and Puppet. Our application services are written in Java and Node, and run in Docker containers in Amazon ECS. </p><p>Deployments happen multiple times per week, sometimes multiple times per day. We also make use of Lambda, API Gateway, Elasticsearch and Redis.</p><br><p><strong>Benefits</strong></p><br><ul> <li>Competitive salary.</li> <li>Paid holidays.</li> <li>Stock options.</li> <li>Apple or Linux equipment.</li> <li>Occasional travel and accommodation in London.</li> </ul><p><br></p><p><strong>How to apply</strong></p><p>If you think you're a good fit for this role, send us a covering email along with your CV - we want to get to know you! Please also include your availability.</p><p>As part of our hiring process, we ask candidates to do a coding test, which is based on our in-production set of technologies.</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/203792?reset=False&amp;ra=16lqacimWgXC&amp;oqs=a%3D16lqacimWgXC' rel='nofollow'>Apply now</a></div>            <h3>About Engage Technology Partners</h3>            <div><p>Engage Technology Partners builds software to make finding, hiring, and paying temporary workers painless. Our platform supports the entire workflow, and provides value to recruitment agencies, employment businesses, end hirers, and most importantly, the workers themselves. Having everyone sharing the same platform makes a difficult, expensive, and error-prone process simple. Our neutrality and pricing make us the obvious choice for companies that want a win-win solution for themselves and their clients.</p><p>To understand more about the needs of our customers and the value we provide to them, see engagetech.com.</p><p><br></p><p><strong>Our Products</strong></p><p>We ship a number of products that work together to allow our customers to work together:</p><ul><li>Vendor Management System: allows end hirers and recruitment agencies to work together to fill vacancies, pay invoices on time, and understand the amount of money being spent.</li><li>Worker Management: a product that makes it easy to gather all the documentation needed to let a worker start and get paid promptly, correctly, and legally.</li><li>Time and Bill: you need to know how much time someone has worked to be able to pay them.</li><li>Payroll: making sure workers get paid promptly and correctly.</li></ul><p>These products are applicable to all people working in the UK, though some are more applicable to temporary workers. Our clients are from all sorts of industries, including IT, construction, advertising, healthcare, and hospitality.</p><p>The market for our products is absolutely massive. A lot of our challenges lie in understanding people's interactions across companies - workflows that span three companies and half a dozen individuals are the norm, not the exception.</p><p>We are building a modern SaaS platform, using AWS, Docker, node.js, Java, and Angular. We use Sketch and have a design system. We release multiple times a week, and design for a mobile-first workforce.</p><p><br></p><p><br></p><p><strong>Our Team</strong></p><p>We're a diverse team of people, both professionally and personally, bringing together a broad range of skill sets, experiences, backgrounds and cultures. Historically, our industry has been terrible at encouraging diversity, but we believe it helps us build better products for our diverse user base. It's for this reason that  we're committed to building a kind, supportive, inclusive team. In the last twelve months, almost 40% of our hires in product development have been women, and there is no gender pay gap.</p><p>As a team and as individuals, we're ambitious, and always looking to improve. Success to us, means working as a team to build products that our users love. When our customers are excited to sell our products to <em>their</em> contacts on our behalf, we know we're doing great work.<br></p><p>We pride ourselves on being flexible and family-friendly - it's not unusual to see a baby in a team meeting. Being your best at work means having balance outside it - if you need to pick the kids up from school, visit a sick relative, or just want to walk the dog while the sun is shining, that's part of life. We expect you to work sensible hours and take your holidays.</p><p>Some of our product development team is based in London, including Product Management and Design - remote brainstorming can be really hard. Engineering is spread across Europe, because we believe you can ship great software from anywhere. We live in Slack, remote people come to London regularly, and we work very hard to make everyone feel included.</p><p><br></p><p><strong>Where to Next?</strong></p><p>Our sales pipeline is full of customers and we're accelerating our product development to satisfy their needs. We have big goals for 2018 and beyond, and we're looking for ambitious people to help us reach them.</p>            </div>        ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "7FIwDMkGTXCmp2saanYL0Q",
+    "url": "https://remoteok.io/jobs/69074",
+    "title": "Senior DevOps Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(work,oper) 2N 2N( OR(independ,fulli), remot)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Xapo",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 7:17:51 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<td><span><h2>Senior DevOps Engineer</h2></span><br><span><h3>Xapo</h3></span></td><div><div><br>Responsibilities:<br><br><br>* Design, implement and troubleshoot high-performance, service-based web applications, and APIs.<br><br>* Perform capacity planning and scalability assessments, ensuring services can support production load and scale.<br><br>* Monitor infrastructure and applications.<br><br>* Define custom metrics, alarms, dashboards in aligned to operational goals.<br><br>* Automated routine tasks at every opportunity.<br><br>* Enforce Security and Engineering best practices.<br><br><br><br><br>Skills and Experience:<br><br><br>* Previous experience designing, maintaining and debugging scalable and high-performance, service-based web applications and APIs.<br><br>* Strong working knowledge of Docker.<br><br>* Deep knowledge and experience in designing, deploying and administering complex Amazon AWS cloud environments.<br><br>* Proven ability to implement automation/configuration management tools.<br><br>* Proven coding and scripting skills.<br><br>* Experience developing secure solutions and knowledge of best practices.<br><br>* Autonomy skills.<br><br>* Ability to communicate both written and spoken in English.<br><br>* A second language is ideal, preferable Spanish [nice to have.<br><br><br><br><br>Some of the Perks of working for Xapo:<br><br><br>* Attractive compensation.<br><br>* Great remote-work environment.<br><br>* Fully remote job.<br><br><br><p>See more jobs at <span>Xapo</span></p></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "rvDXJJGyQZGXncMogAhaKA",
+    "url": "https://whereverjobs.com/listing/4182/site-reliability-engineer-europe",
+    "title": "Site Reliability Engineer- Europe",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Elastic",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 4:32:28 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Site Reliability Engineer- Europe</h3><div>Company: Elastic<br><br></div><div>                                <h2>Job description</h2>                <div><p>At Elastic, we have a simple goal: to solve the world's data problems with products that delight and inspire. As the company behind the popular open source projects — Elasticsearch, Kibana, Logstash, and Beats — we help people around the world do great things with their data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots. We unite Elasticians across 30+ countries (and counting!), 18 timezones and 30 different languages into one coherent team, while the broader community spans across over 100 countries.</p><p>Thanks to our ongoing expansion we have the opportunity to grow the Swiftype Site Reliability team at Elastic. We're a part of the engineering team with a focus on providing a reliable service to Swiftype SaaS customers and supporting the team in development, testing, and release efforts of Swiftype products. We’re looking for people who are just as passionate about solving issues with distributed systems as they are about automating, coding and collaborating to solve problems. Does this sound like you?</p><p><strong>What You Will Do:</strong></p><ul><li>Work with the Swiftype engineering team daily to ensure high quality and reliability of the systems we deploy into production.</li><li>Increase instrumentation and automation in all aspects of day to day operations for Swiftype.</li><li>Troubleshoot and resolve any issues occurring in production ensuring constant improvement of the systems as a result.</li><li>Design and implement new systems to improve the reliability and resilience of the systems in production.</li><li>Participate in SRE team's on-call rotation.</li></ul><p><strong>What You Bring Along:</strong></p><ul><li>We are looking for a systems engineer with proven hands-on experience in a scripting language: Ruby Preferred.&nbsp;</li><li>Your background ideally is from an operational role in a large-scale production web application environment.</li><li>Considerable experience with Linux systems administration.</li><li>Familiarity with systems and configuration management tools (e.g. Chef and Terraform).</li><li>Extensive experience with any enterprise monitoring systems like Nagios, Graphite, StatsD.</li><li>Experience deploying and operating any relational database system in production.</li></ul><p><strong>Additional</strong> <strong>Information:</strong></p><p>We're looking to hire team members invested in realizing the goal of making real-time data exploration easy and available to anyone. As a distributed company, we believe that diversity drives our vibe! Whether you're looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life.</p><ul><li>Competitive pay based on the work you do here and not your previous salary</li><li>Stock options</li><li>Global minimum of 16 weeks of paid in full parental leave (moms &amp; dads)</li><li>Generous vacation time and one week of volunteer time off</li><li>Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.</li></ul><p>Elastic is an Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.</p>                </div>            </div><div>How to apply:<br><a href='https://grnh.se/97a8af201' rel='nofollow'>grnh.se/97a8af201</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "iczKlSHwQQSUjjdjS-Th7g",
+    "url": "https://remoteok.io/jobs/69073",
+    "title": "SaaS System Administrator",
+    "tags": [
+      "DBG:surround``2N(work,remot) 9W OR(travel,visit)",
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:perl/other/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=6, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/admin",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "Maxmind",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 100000,
+      "maxValue": 100000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 4:20:12 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<td><span><h2>Saas System Administrator</h2></span><br><span><h3>Maxmind</h3></span> <span>verified</span></td><div><div><br>MaxMind (www.maxmind.com) is looking for a talented SaaS System Administrator/Network Administrator to join us. We help protect thousands of companies worldwide from fraud, screening over a billion online transactions each year, and we provide IP intelligence data to thousands more. This work requires us to tackle formidable challenges and we want you to help.<br><br>The Position Overview<br><br>Do you have system administration, engineering, and communication skills and are ready to collaborate with us to build a great real-time fraud analysis and IP intelligence solution? Do you want to contribute to the improvements and delivery of a highly available, fault tolerant, and secure customer facing SaaS solution which can serve over 2 billion transactions per year? &nbsp;Will you be a collaborator with peers and Product to define and contribute to the overall development of complex features, and to the success of MaxMind software products?<br><br>As a MaxMind System Administrator, you will utilize the best from DevOps and SRE methodologies to make a difference in defining broader architectural, design, and technical objectives of MaxMind, and achieving customer satisfaction by:<br><br><br><br><br><br><br>* Building performant and scalable SaaS solutions and the tools to maintain them<br><br>* Collaborating mentoring, and advising to others<br><br>* Offering ideas and suggestions to the improvement of the development tool set, technical direction, and software architecture<br><br>* Identifying, triaging, and resolving system issues<br><br>* Researching changes in technologies, development environments, and tools<br><br>* Enabling and extending complex system monitoring<br><br>* Updating configuration management and deployments<br><br>* Supporting on call after hours in rotation with other members of the team<br><br><br><br><br><br><br><br><br>Minimum Qualifications<br><br><br><br><br>* Experience as a System Administrator and/or DevOps Engineer and/or Site Reliability Engineer for Highly Available SaaS solutions processing web traffic<br><br>* Knowledge of TCP/IP, HTTP, DNS, TLS, and SMTP<br><br>* Experience building complex monitoring solutions to support identification of issues with high availability<br><br>* Able to investigate and resolve issues with Linux performance and network latency/reachability<br><br>* Experience managing PostgreSQL, including streaming replication and backups<br><br>* Programming experience in Go or Perl. Our System Administration code is mostly Ansible and Perl, but we're happy to hear from you if more familiar with other programming languages or configuration management software<br><br>* Significant experience with Linux systems<br><br>* Experience with version control, preferably Git<br><br>* Strong analytical and problem-solving skills, with logical and repeatable debugging and problem solving approaches<br><br>* Ready to learn new things<br><br>* Excellent written and verbal communication skills with ability to communicate clearly with partners and end users<br><br>* Able to work with a geographically distributed team<br><br><br><br><br><br><br>Highly Desired (or excited to learn)<br><br><br><br><br>* Experience doing security audits, security compliance, or penetration testing<br><br>* Experience withHAProxy configuration, Docker, Kubernetes, or other container tools, ELK/Elastic Stack, Cloudflare, Open source technologies<br><br>* Experience with emerging cloud platforms and infrastructure tools, and moving services to a cloud platform<br><br><br><br><br><br><br>Our System Administration Practices<br><br>Our System Administrators are members of our Engineering team, working together to deliver to our customers’ success. At MaxMind, we are committed to security and the contributions of our System Administrators are integral to our work. To learn more about our commitment to security, visit&nbsp;https://www.maxmind.com/en/company/commitment-to-security.<br><br>We have built a culture of peers, with highly developed practices and processes to work together remotely. To learn more about working at MaxMind, visit&nbsp;https://www.maxmind.com/en/company/working-at-maxmind.&nbsp; We use Linux, PostgreSQL, and Ansible to deliver our solution. &nbsp;We use a wide variety of tools to manage and monitor our systems, including Nagios, Sensu, Grafana, and the Elastic/ELK stack. All work goes through internal code review on GitHub Enterprise.<br><br>Our goal is to automate as much as possible. Our tools are written in Perl and Go. We also want to improve our coding practices for the sysadmin code we write, writing libraries and tests wherever possible instead of one-off scripts.<br><br>Working at MaxMind<br><br>MaxMind is a casual, friendly, results-focused company of 40+ employees. &nbsp;We are passionate about global health and development, as MaxMind and its founder gladly donate over 60% of corporate profits to charities (https://www.maxmind.com/en/corporate-giving). We maintain a set of core, overlapping hours, but are flexible with specific start and end times and are understanding about appointments and life events. Our software team is largely comprised of telecommuters, so communication centers around video calls, group chat, and agile planning tools.<br><br>Our salary range begins at $100,000 for Engineering hires and is negotiable depending on experience. Everyone participates in a company performance-based bonus plan. MaxMind offers a $2,000 professional development budget and five days for professional development annually.<br><br>In addition to medical, dental, and vision coverage, we offer several other benefits in the US, including a 401k with employer contribution, Health Savings Account, Limited Purpose Flexible Spending Account, paid parental leave, and a public transit reimbursement. Please inquire about benefits in Canada.<br><br>Diversity and Inclusion<br><br>We're committed to diversity and inclusion and are mindful of incorporating them into all aspects of our company. New ideas and perspectives come from diverse ways of seeing and thinking. MaxMind is sensitive to all individuals and viewpoints and believes everyone’s contributions and opinions are valuable assets to our team.<br><br>We hold regular diversity and inclusion meetings and conduct informative sessions on improving collaboration and communication. We value bringing individuals and different perspectives together within and across every department.<br><br>We encourage and sincerely welcome applications from candidates of color, women, queer candidates, candidates with family caregiving responsibilities, transgender candidates, and from other communities not well represented in the tech world.<br><br>If you have suggestions on how we may better promote or express our commitment to diversity and inclusion, we would love to hear from you. Please send your suggestions to hr@maxmind.com.<br><br>Resumes without cover letters will not be considered. We want to know about you, please share any software projects or accomplishments and include a link so we can learn more. One of the first steps in our interviewing process is a homework assignment, and we will ask you to submit an example of work which reflects your technical practices.<br><br>Note: We will consider you for MaxMind if you work from anywhere in Canada or the United States except NJ, NY, and TX (for regulatory reasons). We are open to relocation if that is an option for you. We require you to be eligible/authorized to work in USA or Canada.<p>See more jobs at <span>Maxmind</span></p></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "cPDLgpJrSGiJBKX8c6SxqA",
+    "url": "https://whereverjobs.com/listing/4179/staff-site-reliability-engineer",
+    "title": "Staff Site Reliability Engineer",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG:surround``remot 16W timezon",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=13, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "CircleCI",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 4:02:17 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Staff Site Reliability Engineer</h3><div>Company: CircleCI<br><br></div><div>                                <div><b>About the role</b><b><br></b></div><div></div><div><b><br></b></div><div>CircleCI is seeking a Staff Site Reliability Engineer to work closely with our Software Engineers to deliver and manage the high-performance and scalable infrastructure underlying our multi-tenant Cloud offering as well as our Server-installed, on-premises solution. You will not only have the chance to automate and optimize infrastructure through the construction of appropriate tooling, but you will help software engineers through the design phase to optimize their services for scale in our production environment.</div><div>&nbsp;</div><div>The CircleCI SRE team is globally distributed and remote-friendly. We take advantage of multiple timezones to manage a platform for our global customer base.</div><div><br></div><div><b>What will make you successful:</b></div><div><b><br></b></div><ul><li>Experience managing a container-based microservice architecture, including orchestration, service-discovery, monitoring, and debugging</li><li>Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing</li><li>In-depth knowledge of operating systems (processes, threads, IPC, concurrency, locks, mutexes, semaphores, etc.).</li><li>Proficiency in one or more of: C, C++, Java, Python, Go</li><li>Comprehensive knowledge of the internal workings of at least one of Postgres, Mongo, Redis</li><li>Systematic problem solving approach, coupled with a strong sense of ownership and drive</li><li>Track-record of working cooperatively with software engineering teams</li><li>Focus on security in the delivery of all levels of a system</li><li>Passion for modern software development and operation, including agile, CI/CD, and infrastructure-as-code</li><li>Desire to learn and grow</li><li>6+ years of experience</li><li>Design and deliver solutions to improve the availability, scalability, latency, and efficiency of CircleCI’s services.</li><li>Engage in service capacity planning and demand forecasting, anticipating performance bottlenecks</li><li>Diagnose and resolve production issues in conjunction with software engineering teams</li><li>Architect and implement shared infrastructure used by all services within the CircleCI platform, for both SaaS and on-prem configurations</li><li>Support and advise software engineering teams in the design of scalable services</li><li>Build and maintain tools for deployment, monitoring, and debugging</li><li>Plan and execute disaster recovery drills</li><li>Participate in rotating on-call duties, including incident management</li></ul><div><br></div><div><span><br></span></div><ul></ul><ul></ul>            </div><div>How to apply:<br>If you’re interested in joining the team at CircleCI, please send a resumé and let us know why you’d be a great fit for our team. If you contribute to an open source project, write a blog, or have a presence on the web (Twitter, GitHub, LinkedIn, etc.) we would love to hear about it. Send resume to <a href='mailto:brian@circleci.com' rel='nofollow'>brian@circleci.com</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "tdADgiE3StWEwu5PwGgXnw",
+    "url": "https://whereverjobs.com/listing/4172/cloud-reliability-engineer",
+    "title": "Cloud Reliability Engineer",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Canonical",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 4:02:06 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Cloud Reliability Engineer</h3><div>Company: Canonical<br><br></div><div>                                <div>Canonical delivers and manages OpenStack and Kubernetes for leading companies around the world. Our Cloud Developers&nbsp;are responsible for operating cloud services for both Canonical and our customers. They are software engineers with a particular focus on operations, automation, rapid analysis and problem resolution. We pride ourselves on having world-leading operations agility and quality, and we distill that knowledge into our open source operations toolset.</div><div><br></div><div></div><div>This role is ideal for skilled software engineers with a passion for distributed systems and an interest in the entire Linux stack - from kernel to networking to virtualization and containers. It is a demanding role that requires rigor in both code and customer interactions.</div><div><br></div><div></div><div><strong>KEY RESPONSIBILITIES AND ACCOUNTABILITIES:</strong></div><div><br></div><div></div><ul><li>Understand and operate cloud and container technology from kernel to dashboard - OpenStack and Kubernetes</li><li>Automate operations for reuse across the worlds largest companies, taking into consideration the complexities of distributed systems</li><li>Demonstrate expertise in both the technology and industry operations standards</li><li>Implement new features and improve the resilience and scalability of the existing cloud and container portfolio at Canonical</li><li>Automate testing and benchmarking capabilities for low-level and high-level software Operate production OpenStack clouds for Canonical and its clients</li><li>Operate production Kubernetes clusters for Canonical and its clients</li><li>Develop skills in troubleshooting, capacity planning, and performance analysis</li><li>Collaborate on documentation, playbooks, policies and procedures</li><li>Provide assistance and guidance to Canonical’s Support and Operations teams</li><li>Collaborate with globally distributed engineering, operations, and support peers</li><li>Ensure service level agreements are met</li><li>Carry final responsibility for time-critical escalations</li></ul><div><span><br></span></div><div></div><div><strong>REQUIRED SKILLS AND EXPERIENCE:</strong></div><div><br></div><div></div><ul><li>Engineering degree, preferably in computer science or software engineering</li><li>Python software development experience, with large projects</li><li>Extensive knowledge of cloud computing concepts and technologies</li><li>Practical knowledge of Linux networking, routing, and firewalls</li><li>Hands-on experience administering Linux servers for personal use</li><li>Able to communicate clearly and effectively in English over email, IRC, and in person</li><li>Self-driven, able to troubleshoot from kernel to web, and willing ask others when appropriate</li><li>Highly motivated, productive, organized and capable of working from home full time</li><li>Familiar with Ubuntu or Debian</li></ul>            </div><div>How to apply:<br>Apply online based on home location: Americas: <a href='https://boards.greenhouse.io/canonical/jobs/906948' rel='nofollow'>boards.greenhouse.io/canonical/jobs/906948</a> APAC: <a href='https://boards.greenhouse.io/canonical/jobs/906948' rel='nofollow'>boards.greenhouse.io/canonical/jobs/906948</a> EMEA: <a href='https://boards.greenhouse.io/canonical/jobs/1033223' rel='nofollow'>boards.greenhouse.io/canonical/jobs/1033223</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "JiPWluzhT66Lfz-wNfSZSw",
+    "url": "https://stackoverflow.com/jobs/203731/senior-devops-engineer-xapo?a=16k9wBhx8RpK",
+    "title": "Senior DevOps engineer at Xapo  ",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(work,oper) 2N 2N( OR(independ,fulli), remot)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Xapo",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 2:06:10 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Senior DevOps engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Banking, Bitcoin, Cryptocurrency</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Xapo | No office location<br></div><h3>Technologies</h3><div></div><div>amazon-web-services</div><div>docker</div><div>kubernetes</div><div>devops</div><div>terraform</div>                <h3>Job description</h3>                <div><p><strong>Responsibilities:</strong></p><ul><li>Design, implement and troubleshoot high-performance, service-based web applications, and APIs.</li><li>Perform capacity planning and scalability assessments, ensuring services can support production load and scale.</li><li>Monitor infrastructure and applications.</li><li>Define custom metrics, alarms, dashboards in aligned to operational goals.</li><li>Automated routine tasks at every opportunity.</li><li>Enforce Security and Engineering best practices.</li></ul><p><strong>Skills and Experience:</strong></p><ul><li>Previous experience designing, maintaining and debugging scalable and high-performance, service-based web applications and APIs.</li><li>Strong working knowledge of Docker.</li><li>Deep knowledge and experience in designing, deploying and administering complex Amazon AWS cloud environments.</li><li>Proven ability to implement automation/configuration management tools.</li><li>Proven coding and scripting skills.</li><li>Experience developing secure solutions and knowledge of best practices.</li><li>Autonomy skills.</li><li>Ability to communicate both written and spoken in English.</li><li>A second language is ideal, preferable Spanish [nice to have.</li></ul><p><strong>Some of the Perks of working for Xapo:</strong></p><ul><li>Attractive compensation.</li><li>Great remote-work environment.</li><li>Fully remote job.</li></ul>                </div>            <div>        <a href='https://xapo.bamboohr.com/jobs/view.php?id=1' rel='nofollow'>                        Apply now        </a></div>            <h3>About Xapo</h3>            <div><p>Xapo is a leading e-wallet, and we have a mission to bring digital cash to everyone pocket. Our business is growing fast, and we want to make sure we can keep providing the best quality support to our customers. We’re known for our fast responses to users, positive attitude, and a real desire to find the best working solutions for the people who chose to use Xapo’s products and services.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Attractive compensation – highly competitive!</span>                            </li>                            <li>                                <span></span>                                <span>Remote job/working from wherever you want!</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours</span>                            </li>                            <li>                                <span></span>                                <span>Equity opportunities</span>                            </li>                            <li>                                <span></span>                                <span>Stock Options Grant</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "JX-AaMl5TU2KHoDuN3u2bQ",
+    "url": "https://www.remotejobr.com/jobs/senior-devops-engineer-cd210cd2-8d8a-464a-9a5e-1944fa7e5a5a",
+    "title": "Senior DevOps Engineer  ",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=21, bigdata-ml=0, ruby=4, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 12:25:26 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<div><div>        </div>                            <h2>Senior DevOps Engineer    &nbsp;</h2>                            <p>      </p><p>  <strong>Headquarters:</strong> Leesburg, VA    <br><strong>URL:</strong> cofense.com/company/careers</p><div>At COFENSE, we're searching for amazing engineers to join our team. Our company provides end-to-end cyber defense solutions that help protect organizations and their employees from the vast and growing threat posted by phishing-related attacks. We're expanding rapidly and looking for talented individuals, like you, that care about building excellent products and solving complex problems.</div><div><br></div><ul><li><b>Are you passionate about crafting scalable &amp; resilient platforms?</b></li><li><b>Do you dabble in the software development?</b></li><li><b>Does the thought of growing a companies security posture, interest you?</b></li></ul><div><b>If so, read on....</b></div><div><br></div><div>Responsibilities</div><div><br></div><div>Essential Duties / Responsibilities</div><div><br></div><ul><li>A self-starter who is willing to design, build, and improve the infrastructure and delivery platform used by all of Cofense products.</li><li>An effective communicator, you will work collaboratively and constructively with others in the team and broader organization.</li><li>Mentor others through pairing, code reviews, and regular knowledge transfer.</li><li>Work with the team to continuously evaluate standards and suggest improvements.</li><li>Rotating on-call duties with other team members.</li><li>Able to work effectively and be pragmatic as part of a remote team in a dynamic environment.</li><li>Eager to learn; able to understand and apply new things relatively quickly.</li><li>You believe in standardization and automation to eliminate manual processes is critical to success.</li><li>You know when to dig deep to figure things out, but also when to ask for help.</li><li>Available for occasional off-hours work as necessary.</li><li>Happy to travel occasionally for team meetings and events.</li><li>Other duties as assigned.</li></ul><div>The above statements are not an all-inclusive list of the duties and responsibilities of the position described, nor are they intended to be a listing of all of the skills or abilities required to do the job. Rather, they are intended only to describe the general nature of the job. This job description is not a contract of employment, either express or implied. Employment with COFENSE will be voluntarily entered into and your employment is considered at will. COFENSE reserves the right to alter the job description at any time without notice.</div><div><br></div><div>Qualifications</div><div><br></div><div>Knowledge, Skills and Abilities Required</div><div><br></div><ul><li>Able to manage Ubuntu or CentOS/RedHat based systems in production public cloud (preferable AWS) environments.</li><li>Extremely proficient with configuration management and infrastructure provisioning tools such as Chef, Ansible &amp; Terraform.</li><li>You have deployed &amp; supported production applications in any of the following in Ruby, Java or Python.</li><li>You are able to build or extend tools in Ruby, Python, Go or Node.JS when needed.</li><li>Git is an extension of your personality, not just a versioning tool.</li><li>Experience with CI tools such as Jenkins or Gitlab.</li><li>Familiarity with Docker, Kubernetes or Docker Swarm a huge plus.</li><li>Can lead and support production environments across various platforms: remote (VMs/physical), cloud (AWS), and on-site vendor products</li><li>Proven experience supporting SaaS or appliance based solutions.</li><li>You know the difference between resiliency and scalability.</li><li>Has experience with many of the open-source database solutions such as MySQL, MariaDB, and PostgreSQL</li><li>You question how things have been done and strive for improving.</li><li>You are relentless about clarifying requirements and knowing what to build given the constraints and solve the right problem at the right time.Experience</li><li>7-10 years of experience as operations engineer, system administrator, developer or architect supporting online services and preferably a large SaaS platform.Qualities We Care Deeply About:</li><li>Committed to continuous improvement and learning.</li><li>Love to share and collaborate what you have learned.</li><li>Passion for shipping and to hold yourself and others accountable.Why Working With Us Is Awesome:</li><li>People - smart, energetic and collaborative</li><li>Benefits - competitive salary along with 401k (w/company match), health, vision, dental, disability and life insurance</li><li>Telecommute - flexible, remote-first terms and a monthly telecom expense reimbursement</li><li>Impact - working on products that are used by hundreds of companies in the Fortune listings</li></ul><div><b>Compensation</b></div><div><br></div><ul><li>Competitive salary</li><li>401k plan with company match</li><li>Health, vision, dental, disability, and life insurance</li><li>Telecom expense reimbursement</li></ul><div><b>Location</b></div><div><br></div><ul><li>US Telecommute</li></ul><div>Cofense is committed to equal employment opportunity. We will not discriminate against employees or applicants for employment on any legally recognized basis [protected class] including, but not limited to: veteran status, uniform service member status, race, color, religion, sex (including pregnancy), gender identity, sexual orientation, national origin, age, physical or mental disability, marital status, genetic information or any other status or characteristic protected by applicable national, federal, state or local laws and ordinances. We adhere to these commitments in all aspects of employment, including recruitment, hiring, training, compensation, promotion, benefits, and discipline.</div><div><br></div><p><strong>To apply:</strong> To apply for this positions, Please send your resume to <a rel='nofollow' href='mailto:Melissa.Hart@cofense.com'>Melissa.Hart@cofense.com</a></p>    <p></p>        <p>            </p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "cwuuxtO5Q4mhzomz2UHZMQ",
+    "url": "https://weworkremotely.com/remote-jobs/cofense-senior-devops-engineer-1",
+    "title": "Cofense: Senior DevOps Engineer  ",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=21, bigdata-ml=0, ruby=4, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Cofense",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 12:18:14 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Senior DevOps Engineer &nbsp;</h2><span>Company: Cofense<br></span><span>Headquarters: Leesburg, VA<br></span><div><div>At COFENSE, we're searching for amazing engineers to join our team. Our company provides end-to-end cyber defense solutions that help protect organizations and their employees from the vast and growing threat posted by phishing-related attacks. We're expanding rapidly and looking for talented individuals, like you, that care about building excellent products and solving complex problems.</div><div><br></div><ul><li><b>Are you passionate about crafting scalable &amp; resilient platforms?</b></li><li><b>Do you dabble in the software development?</b></li><li><b>Does the thought of growing a companies security posture, interest you?</b></li></ul><div><b>If so, read on....</b></div><div><br></div><div>Responsibilities</div><div><br></div><div>Essential Duties / Responsibilities</div><div><br></div><ul><li>A self-starter who is willing to design, build, and improve the infrastructure and delivery platform used by all of Cofense products.</li><li>An effective communicator, you will work collaboratively and constructively with others in the team and broader organization.</li><li>Mentor others through pairing, code reviews, and regular knowledge transfer.</li><li>Work with the team to continuously evaluate standards and suggest improvements.</li><li>Rotating on-call duties with other team members.</li><li>Able to work effectively and be pragmatic as part of a remote team in a dynamic environment.</li><li>Eager to learn; able to understand and apply new things relatively quickly.</li><li>You believe in standardization and automation to eliminate manual processes is critical to success.</li><li>You know when to dig deep to figure things out, but also when to ask for help.</li><li>Available for occasional off-hours work as necessary.</li><li>Happy to travel occasionally for team meetings and events.</li><li>Other duties as assigned.</li></ul><div>The above statements are not an all-inclusive list of the duties and responsibilities of the position described, nor are they intended to be a listing of all of the skills or abilities required to do the job. Rather, they are intended only to describe the general nature of the job. This job description is not a contract of employment, either express or implied. Employment with COFENSE will be voluntarily entered into and your employment is considered at will. COFENSE reserves the right to alter the job description at any time without notice.</div><div><br></div><div>Qualifications</div><div><br></div><div>Knowledge, Skills and Abilities Required</div><div><br></div><ul><li>Able to manage Ubuntu or CentOS/RedHat based systems in production public cloud (preferable AWS) environments.</li><li>Extremely proficient with configuration management and infrastructure provisioning tools such as Chef, Ansible &amp; Terraform.</li><li>You have deployed &amp; supported production applications in any of the following in Ruby, Java or Python.</li><li>You are able to build or extend tools in Ruby, Python, Go or Node.JS when needed.</li><li>Git is an extension of your personality, not just a versioning tool.</li><li>Experience with CI tools such as Jenkins or Gitlab.</li><li>Familiarity with Docker, Kubernetes or Docker Swarm a huge plus.</li><li>Can lead and support production environments across various platforms: remote (VMs/physical), cloud (AWS), and on-site vendor products</li><li>Proven experience supporting SaaS or appliance based solutions.</li><li>You know the difference between resiliency and scalability.</li><li>Has experience with many of the open-source database solutions such as MySQL, MariaDB, and PostgreSQL</li><li>You question how things have been done and strive for improving.</li><li>You are relentless about clarifying requirements and knowing what to build given the constraints and solve the right problem at the right time.Experience</li><li>7-10 years of experience as operations engineer, system administrator, developer or architect supporting online services and preferably a large SaaS platform.Qualities We Care Deeply About:</li><li>Committed to continuous improvement and learning.</li><li>Love to share and collaborate what you have learned.</li><li>Passion for shipping and to hold yourself and others accountable.Why Working With Us Is Awesome:</li><li>People - smart, energetic and collaborative</li><li>Benefits - competitive salary along with 401k (w/company match), health, vision, dental, disability and life insurance</li><li>Telecommute - flexible, remote-first terms and a monthly telecom expense reimbursement</li><li>Impact - working on products that are used by hundreds of companies in the Fortune listings</li></ul><div><b>Compensation</b></div><div><br></div><ul><li>Competitive salary</li><li>401k plan with company match</li><li>Health, vision, dental, disability, and life insurance</li><li>Telecom expense reimbursement</li></ul><div><b>Location</b></div><div><br></div><ul><li>US Telecommute</li></ul><div>Cofense is committed to equal employment opportunity. We will not discriminate against employees or applicants for employment on any legally recognized basis [protected class] including, but not limited to: veteran status, uniform service member status, race, color, religion, sex (including pregnancy), gender identity, sexual orientation, national origin, age, physical or mental disability, marital status, genetic information or any other status or characteristic protected by applicable national, federal, state or local laws and ordinances. We adhere to these commitments in all aspects of employment, including recruitment, hiring, training, compensation, promotion, benefits, and discipline.</div><div><br></div></div><div><h4>Apply for this position</h4><p>To apply for this positions, Please send your resume to <a href='mailto:Melissa.Hart@cofense.com' rel='nofollow'>Melissa.Hart@cofense.com</a></p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "r8z2h8v6StCbfqcbQgUTYw",
+    "url": "https://stackoverflow.com/jobs/203724/saas-system-administrator-telecommuting-maxmind?a=16k0v6BLwFkQ",
+    "title": "SaaS System Administrator - Telecommuting Opportunity (U.S./Canada) at MaxMind  ",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:perl/other/20",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=6, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/admin",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "MaxMind",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 100000,
+      "maxValue": 100000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 28, 2018 12:06:11 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>SaaS System Administrator - Telecommuting Opportunity (U.S./Canada)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                    </div>                <div>Company: MaxMind | No office location<br></div><h3>Technologies</h3><div>saas</div><div>linux</div><div>postgresql</div><div>ansible</div><div>perl</div>                <h3>Job description</h3>                <div><p>MaxMind (<a href='http://www.maxmind.com/' rel='nofollow'>www.maxmind.com</a>) is looking for a talented SaaS System Administrator/Network Administrator to join us. We help protect thousands of companies worldwide from fraud, screening over a billion online transactions each year, and we provide IP intelligence data to thousands more. This work requires us to tackle formidable challenges and we want you to help.</p><p><strong>The Position Overview</strong></p><p>Do you have system administration, engineering, and communication skills and are ready to collaborate with us to build a great real-time fraud analysis and IP intelligence solution? Do you want to contribute to the improvements and delivery of a highly available, fault tolerant, and secure customer facing SaaS solution which can serve over 2 billion transactions per year? &nbsp;Will you be a collaborator with peers and Product to define and contribute to the overall development of complex features, and to the success of MaxMind software products?</p><p>As a MaxMind System Administrator, you will utilize the best from DevOps and SRE methodologies to make a difference in defining broader architectural, design, and technical objectives of MaxMind, and achieving customer satisfaction by:</p><ul><ul><ul><li>Building performant and scalable SaaS solutions and the tools to maintain them</li><li>Collaborating mentoring, and advising to others</li><li>Offering ideas and suggestions to the improvement of the development tool set, technical direction, and software architecture</li><li>Identifying, triaging, and resolving system issues</li><li>Researching changes in technologies, development environments, and tools</li><li>Enabling and extending complex system monitoring</li><li>Updating configuration management and deployments</li><li>Supporting on call after hours in rotation with other members of the team</li></ul></ul></ul><p><strong>Minimum Qualifications</strong></p><ul><ul><li>Experience as a System Administrator and/or DevOps Engineer and/or Site Reliability Engineer for Highly Available SaaS solutions processing web traffic</li><li>Knowledge of TCP/IP, HTTP, DNS, TLS, and SMTP</li><li>Experience building complex monitoring solutions to support identification of issues with high availability</li><li>Able to investigate and resolve issues with Linux performance and network latency/reachability</li><li>Experience managing PostgreSQL, including streaming replication and backups</li><li>Programming experience in Go or Perl. Our System Administration code is mostly Ansible and Perl, but we're happy to hear from you if more familiar with other programming languages or configuration management software</li><li>Significant experience with Linux systems</li><li>Experience with version control, preferably Git</li><li>Strong analytical and problem-solving skills, with logical and repeatable debugging and problem solving approaches</li><li>Ready to learn new things</li><li>Excellent written and verbal communication skills with ability to communicate clearly with partners and end users</li><li>Able to work with a geographically distributed team</li></ul></ul><p><strong>Highly Desired (or excited to learn)</strong></p><ul><ul><li>Experience doing security audits, security compliance, or penetration testing</li><li>Experience withHAProxy configuration, Docker, Kubernetes, or other container tools, ELK/Elastic Stack, Cloudflare, Open source technologies</li><li>Experience with emerging cloud platforms and infrastructure tools, and moving services to a cloud platform</li></ul></ul><p><strong>Our System Administration Practices</strong></p><p>Our System Administrators are members of our Engineering team, working together to deliver to our customers’ success. At MaxMind, we are committed to security and the contributions of our System Administrators are integral to our work. To learn more about our commitment to security, visit&nbsp;<a href='https://www.maxmind.com/en/company/commitment-to-security' rel='nofollow'>https://www.maxmind.com/en/company/commitment-to-security</a>.</p><p>We have built a culture of peers, with highly developed practices and processes to work together remotely. To learn more about working at MaxMind, visit&nbsp;<a href='https://www.maxmind.com/en/company/working-at-maxmind' rel='nofollow'>https://www.maxmind.com/en/company/working-at-maxmind</a>.&nbsp; We use Linux, PostgreSQL, and Ansible to deliver our solution. &nbsp;We use a wide variety of tools to manage and monitor our systems, including Nagios, Sensu, Grafana, and the Elastic/ELK stack. All work goes through internal code review on GitHub Enterprise.</p><p>Our goal is to automate as much as possible. Our tools are written in Perl and Go. We also want to improve our coding practices for the sysadmin code we write, writing libraries and tests wherever possible instead of one-off scripts.</p><p><strong>Working at MaxMind</strong></p><p>MaxMind is a casual, friendly, results-focused company of 40+ employees. &nbsp;We are passionate about global health and development, as MaxMind and its founder gladly donate over 60% of corporate profits to charities (<a href='https://www.maxmind.com/en/corporate-giving' rel='nofollow'>https://www.maxmind.com/en/corporate-giving</a>). We maintain a set of core, overlapping hours, but are flexible with specific start and end times and are understanding about appointments and life events. Our software team is largely comprised of telecommuters, so communication centers around video calls, group chat, and agile planning tools.</p><p>Our salary range begins at $100,000 for Engineering hires and is negotiable depending on experience. Everyone participates in a company performance-based bonus plan. MaxMind offers a $2,000 professional development budget and five days for professional development annually.</p><p>In addition to medical, dental, and vision coverage, we offer several other benefits in the US, including a 401k with employer contribution, Health Savings Account, Limited Purpose Flexible Spending Account, paid parental leave, and a public transit reimbursement. Please inquire about benefits in Canada.</p><p><strong>Diversity and Inclusion</strong></p><p>We're committed to diversity and inclusion and are mindful of incorporating them into all aspects of our company. New ideas and perspectives come from diverse ways of seeing and thinking. MaxMind is sensitive to all individuals and viewpoints and believes everyone’s contributions and opinions are valuable assets to our team.</p><p>We hold regular diversity and inclusion meetings and conduct informative sessions on improving collaboration and communication. We value bringing individuals and different perspectives together within and across every department.</p><p>We encourage and sincerely welcome applications from candidates of color, women, queer candidates, candidates with family caregiving responsibilities, transgender candidates, and from other communities not well represented in the tech world.</p><p>If you have suggestions on how we may better promote or express our commitment to diversity and inclusion, we would love to hear from you. Please send your suggestions to <a href='mailto:hr@maxmind.com' rel='nofollow'>hr@maxmind.com</a>.</p><p><em>Resumes without cover letters will not be considered. </em><em>We want to know about you, please share any software projects or accomplishments and include a link so we can learn more. One of the first steps in our interviewing process is a homework assignment, and we will ask you to submit an example of work which reflects your technical practices.</em></p><p><em>Note: We will consider you for MaxMind if you work from anywhere in Canada or the United States except NJ, NY, and TX (for regulatory reasons). We are open to relocation if that is an option for you. We require you to be eligible/authorized to work in USA or Canada.</em></p>                </div>            <div>        <a href='https://jobs.lever.co/maxmind/d2bf0400-7af0-4d5c-8947-e234ba7653a0?lever-origin=applied&amp;lever-source%5B%5D=stackoverflow' rel='nofollow'>                        Apply now        </a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "zlx2ybJKSN26ajLby0fJFQ",
+    "url": "https://cjl.ist/2R2I9Iv",
+    "title": "Chief Operating Officer",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 27, 2018 12:33:13 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Chief Operating Officer</h2>   Location:    Remote    Remote  <div>  Role and job type:  Marketing Full-time </div> <div>  <h3>Job Description</h3>  <p>We are looking for <strong>Chief Operating Officer</strong> to Plan, direct, and oversee a company’s operational policies, rules, initiatives, and goals. Helps the organization execute long-term and short-term plans and directives by implementing experience, judgment, vision, management, and leadership.</p>  <p>Our ideal candidates is an experienced professional with a background in Marketing and a career in the B2B environment.</p>  <p>Duties:</p>  <p>•Measures effectiveness and efficiency of operational processes both internally and externally and finds ways to improve processes.<br>•Develops and implements growth strategies.<br>•Acts as a liaison between the company and its clients for quality assurance.<br>•Provides mentorship to all employees including management.<br>•Oversees daily operations and makes adjustments as necessary.<br>•Directs acquisitions and sales of assets to meet organization goals.<br>•Evaluates newly implemented sales plans.<br>•Being able to analyze projects, their business plans, to hold business negotiations and present our company’s interests, pitch emails, and establish business relationships</p>  <h4>Salary range</h4>  <p>Competitive</p> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "gM3F494cRSGGyhINWq78Sg",
     "url": "https://whereverjobs.com/listing/4170/cloud-cloud-engineer",
     "title": "Cloud- Cloud Engineer",
@@ -1368,57 +1956,6 @@
     }
   },
   {
-    "id": "IoyWbPVYTDOyT-KwXIeChw",
-    "url": "https://stackoverflow.com/jobs/203096/information-security-lead-surevine?a=166WUr1IPtnO",
-    "title": "Information Security Lead at Surevine (London, UK) ",
-    "tags": [
-      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/apple",
-      "TECH1/mobile",
-      "TITLE1/admin",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "apple",
-      "mobile"
-    ],
-    "hiringOrganization": {
-      "name": "Surevine",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "£",
-      "minValue": 45000,
-      "maxValue": 60000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserDefaultImpl",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 21, 2018 1:06:09 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h2><span>Information Security Lead</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                    </div>                <div>Company: Surevine | London, UK<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+00:00) London </span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>London, UK.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div>security</div><div>web-services</div><div>cloud</div><div>iso</div><div>audit</div>                <h3>Job description</h3>                <div><p><strong>UK APPLICANTS ONLY</strong></p><p><em><strong>Description</strong></em></p><p>Security is at the heart of what Surevine do and our Information Security Lead is responsible for keeping us honest to that. Responsible for the development, implementation, delivery and support of our Information Security Management System (ISMS), they will ensure Security doesn’t become a tick-box exercise in compliance, but remains aligned with the strategic requirements of the business, through the promotion of a security awareness culture throughout the business and an active programme of training, audits and exercises.</p><p>This role is ultimately to ensure protections are in place, and being continually monitored and improved, to ensure the business minimises security threats and our security culture is externally benchmarked to meet or exceed the appropriate standards to demonstrate our security stance to the business’ stakeholders, e.g. maintaining ISO27001 and Cyber Essentials Plus certification.</p><p><em><strong>Skills and experience</strong></em></p><p><em>Essential</em></p><ul><li>You will have carried out audits and have many examples of actioning any non-compliances or making improvements through effective training, processes and systems, e.g. you have completed ISO27001 audits and actioned observations</li><li>You will have defined and run exercises that test people, processes and tools are complying with a Security Information Management System and more generally ensuring a system is in place that is effective against a documented set of potential threats</li><li>You have maintained and run an effective Incident Management process responding to security incidents quickly and ensure continuity of the business or organization</li><li>You will be a sensitive and sophisticated communicator, able to adapt your interactions to allSurevine stakeholders, including the board, in a way that is accessible to both technical and non-technical customers, employees, contractors, partners and board memberS</li><li>You will be able to demonstrate highly experienced managerial skills required to expertly manage the security programmes, projects and initiatives you will lead.</li></ul><p><em>Highly-Desirable</em></p><ul><li>You will have a deep understanding of software, platform and infrastructure cloud services (particularly Amazon Web Services) and the implications of using such services to support the business and its customers</li><li>You will be able to support an estate of mainly Apple end-user devices, e.g. Macs and iOS devices, used to connect to typically cloud-based services by our remote workers.Information Security Lead</li></ul><p><em><strong>Responsibilities</strong></em></p><ul><li>Ensure the right tools, processes and culture is in place to maintain and continue to build on our living Information Security Management System</li><li>Maintain an accurate risk register for the business, ensuring effective treatments are in place for risks and communicating an accurate picture of the risk profile to the board as required, e.g. at board meetings</li><li>Complete the necessary audits to maintain our ISO27001 certification and build on our Information Security Management System to incorporate aspects of other relevant standards, to include our current Cyber Essential Plus certification</li><li>Be the main point-of-contact for external accreditation bodies ensuring our certifications are maintained</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/203096?reset=False&amp;ra=166WUr1IPtnO&amp;oqs=a%3D166WUr1IPtnO' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Surevine</h3>            <div><p>Surevine builds secure, scalable collaboration solutions for the most security conscious organisations; joining people up and enabling collaboration on their most sensitive information. Our systems are accredited to handle the most sensitive information, whilst still delivering an intuitive and engaging user experience which actively promotes participation; building smart, secure networks of connected people. Our own smart research and development and customer sponsored R&amp;D into collaboration technology delivers constant innovation, building products born out of genuine user needs.</p><p><strong>Reasons to join</strong></p><ul><li>Opportunity to work amongst a team of exceptional developers working on and with the latest technologies</li><li>Be part of an agile, delivery-focussed team with daily stand-ups, fortnightly sprints, and retrospectives</li><li>Our belief in self-managed teams and reliance on self-motivated people</li><li>Our Director’s aren’t hidden away. They are accessible and involved. They are our co-workers</li><li>Chance to work in an fast-moving innovative environment with some tough problems for you to help us solve</li><li>Everyone is provided with a budget to kit out their workspace and make it cooler and more productive than they would ever get in a corporate cube</li><li>We don’t wear suits (often)</li></ul>            </div>        ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "gO7aVt-qSMeVv6Jruq9TWA",
     "url": "http://jobmote.com/jobs/25953-sr-network-security-engineer-firewall-expert-remote",
     "title": "Sr. Network Security Engineer (Firewall expert)(REMOTE)",
@@ -1450,49 +1987,6 @@
     "published": "Sep 21, 2018 10:20:55 AM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<div><div><div></div></div><div><div><div><p><strong>Senior Network Security Engineer (REMOTE position. Prefer someone in the Midwest)</strong></p><p><strong>Job Description</strong></p><p>The Senior Network Security Engineer works directly with clients and responds to security incidents and remediates if needed to mitigate any security vulnerabilities.</p><p><strong>Essential Functions</strong></p><p>*** * * * MUST HAVE PERFORMED MULTIPLE MIGRATIONS TO CISCO FIREWALLS FROM OTHER BRANDS * * * * **</p><ul><li>Interprets and implements customer change requests on managed security device platforms, primarily firewalls and IDS/IDP devices</li><li>Troubleshoots problems including: security-related issues (firewalls, IPS, understanding of common protocols in security like DNS, SSL, TLS, HTTP(s), ftp, etc.,) routing and switching, protocol problems, WAN/LAN failures, and performance issues across a distributed segmented network infrastructure with multiple security zones</li><li>Maintains and administers perimeter security systems such as firewalls and intrusion detection systems</li><li>Maintains good working knowledge in VPN technologies and security protocols like IPsec, ISAKMP, SSL, PKI, RADIUS, TACACS, EAP, LDAP etc.</li><li>Implement Cisco ASA firewalls including 2100 and 4100s.</li><li>Migrate customers from Sonicwalls, Juniper and CheckPoint to Cisco ASAs.</li><li>Works with BGP, OSPF, EIGRP routing protocols.</li><li>Works with Cisco 6500, 4500, 3750, 3560 and 3550 catalyst switches.</li></ul><p><strong>Additional Specific Duties and Responsibilities</strong></p><ul><li>Maintains Cisco FireSight Management (FirePower)</li></ul><p><strong>Required Qualifications</strong></p><ul><li>Hands on experience with one or more of the following firewall platforms or technologies: Cisco ASA/FirePower, CheckPoint, SonicWall, Palo Alto, IP Filter or iptables</li><li>3 or more years hands on experience migrating Sonicwall and/or CheckPoint to Cisco ASAs</li><li>Understands basic network principles related to TCP/IP</li><li>Possesses technical aptitude and interest related to networking, Internet, and computer technologies</li><li>Administers routers, switches and firewalls</li><li>Resolves trouble tickets</li><li>Monitors and tests network performance and provides network performance statistics and reports</li><li>Evaluates and recommends near- and long-term network capacity needs</li><li>Creates and maintains documentation as it relates to network configuration</li><li>Conducts research on network products, services, protocols, and standards to remain abreast of developments in the networking industry</li><li>Two years of experience working in external customer facing environment for support</li><li>Must possess excellent oral and written communication skills in English</li><li>Ability to demonstrate high standards of conduct and ethics as well as appropriate judgment, independence, and discretion</li><li>Strong analytical, interpersonal, and relationship building skills</li><li>Strong work ethic and personal drive to excel</li><li>Strong sense of urgency and commitment to get the job done</li><li>Superior negotiation, coordination, and conflict resolution skills</li><li>Ability to use (and learn new) complex systems, technologies, and applications</li><li>Ability to adapt to change quickly and multi-task</li></ul><p><strong>Desired/Preferred Qualifications</strong></p><ul><li><p>One or more vendor certifications for enterprise level security platforms such as CCNA, CCNP or CCIE in Security.</p><ul><li>provided by Dice Cisco 2100/4100, security, migration, FirePower, Remote, TCP/IP </li></ul></li></ul></div></div><div></div></div></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "iEYy1WzpSNOV32rkeX-CAg",
-    "url": "https://www.remotejobr.com/jobs/security-privacy-and-compliance-manager",
-    "title": "Security, Privacy and Compliance Manager",
-    "tags": [
-      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 21, 2018 7:25:43 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<div><div>        </div>                            <h2>Security, Privacy and Compliance Manager</h2>                            <p>      </p><p>  <strong>Headquarters:</strong> U.S.A    <br><strong>URL:</strong> ww.scheduleonce.com</p><div><span></span></div><div><span></span></div><div>We are looking for a Security and Compliance Manager to lead our security and compliance efforts and support our rapid growth within the Enterprise market. Candidates should have the potential to serve as ScheduleOnce's top authority on all security and compliance matters.&nbsp;</div><div><br></div><div> <strong>Please note:</strong><br> </div><ul> <li>ScheduleOnce operates virtually and all employees work remotely from home.</li> <li>Urgent security and privacy incidents may require out-of-hours responses, including nights and weekends.&nbsp;</li> </ul><div><br></div><div><strong>Roles and responsibilities</strong></div><ul> <li>Ensure compliance with security and privacy frameworks (PCI, HIPAA, GDPR, etc.)</li> <li>Define security policies and controls in line with SOC2, ISO27001 and NIST standards</li> <li>Suggest and implement continuous improvements to ScheduleOnce security through an ongoing risk management process</li> <li>Manage security of production and QA environments</li> <li>Manage IT and security of employee devices across a geographically distributed team</li> <li>Develop and deliver training and security awareness programs to employees</li> <li>Provide an information security perspective on compliance with client agreements</li> <li>Develop security policies and standards and ensure they are implemented and followed</li> <li>Ongoing monitoring of the company’s security and compliance health on all fronts</li> <li>Act as a subject matter expert on security and privacy throughout the product development lifecycle</li> <li>Define and manage the company’s security and compliance roadmap</li> </ul><div></div><div><br></div><div><strong>Requirements:</strong></div><div><br></div><ul> <li>2 years of experience in a relevant role&nbsp;</li> <li>Information security certification is an advantage (CISSP or CISM)&nbsp;</li> <li>Experience with security and privacy frameworks (SOC2, ISO27001, HIPAA, PCI, NIST, CSA, EU Privacy Shield)</li> <li>Experience writing professional requirements and policy documents</li> <li>Experience with cyber security concepts, protocols, processes, architectures and tools&nbsp;</li> <li>Excellent English, written and verbal communications skills (Native)</li> <li>Hands on, fast learner, good team working skills and highly motivated</li> <li>Knowledge of Information Security/Risk Management best practices</li> <li>Understanding of business and technical risk, how to translate between the two and communicate to various levels of technical and business stakeholders</li> </ul><div><br></div><div><strong>Employment details:</strong></div><div><br></div><ul> <li>Full time position&nbsp;</li> <li>100% work from home in a virtual environment&nbsp;</li> <li>Non-standard hours might be required&nbsp;</li> </ul><div><br></div><div><strong>What we offer:</strong></div><div><br></div><ul> <li>Dental insurance&nbsp;</li> <li>Medical Insurance&nbsp;</li> <li>401K Plan&nbsp;</li> <li>Paid vacation days</li> <li>Paid sick days&nbsp;</li> <li>Company provided laptop and headset</li> <li>Opportunity to travel for the company bi-annual international retreats</li> </ul><div></div><div><br></div><ul></ul><p><strong>To apply:</strong> <a href='https://hire.withgoogle.com/public/jobs/scheduleoncecom/view/P_AAAAABkAAAKEfpo_IIDMMd?trackingTag=weworkremotely' rel='nofollow'>https://hire.withgoogle.com/public/jobs/scheduleoncecom/view/P_AAAAABkAAAKEfpo_IIDMMd?trackingTag=weworkremotely</a></p>    <p></p>        <p>            </p></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -2107,51 +2601,6 @@
     }
   },
   {
-    "id": "a51xj-ZVQHmSPmVx1jjxpA",
-    "url": "https://whereverjobs.com/listing/4078/security-manager",
-    "title": "Security Manager",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "AmaZix",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 18, 2018 4:02:41 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h3>Security Manager</h3><div>Company: AmaZix<br><br></div><div>                                <div><b>Operational Security Manager (CISMP, CISM, CISSP)<span>&nbsp;</span></b></div><div><br></div><div></div><div><span>AmaZix is the leading provider of community management services for crypto projects. We specialise in helping projects running on the Ethereum blockchain, especially those building up to their ICOs. Projects we work on include Bancor, BANKEX, WePower, GBX and Cardstack.</span></div><div><br></div><div></div><div><span>We are growing extremely fast and from our founding nine months ago we now have over 100 team members and manage over 60 high level projects, with many more asking to come aboard than we can take. We are profitable and have been since day one.</span></div><div><br></div><div></div><div><span>If you are not technically familiar with blockchain based projects then no problem - it is not required. However some knowledge of what Ethereum is would be useful.</span></div><div><br></div><div></div><div><span>Though our company is based in Hong Kong our team is distributed around the world (primarily Europe).</span></div><div></div><div><br></div><div></div><div><span><b>Your position</b></span></div><div><br></div><div></div><div><span>We are looking for a candidate with extensive experience in an Operational Security Manager role, who can demonstrate ownership and accountability of delivering Security IT Services into a dynamic and remote business.<span>&nbsp;</span></span></div><div><br></div><div></div><ul><li><span></span><span>Minimum one of the following Security qualifications; IS027001 lead Auditor, CISMP, CISM or CISSP</span></li><li><span></span><span>Excellent communications skills &amp; be able to translate complex security information into layman's terms for those that are not conversant with security knowledge &amp; services</span></li><li><span></span><span>Good knowledge of British &amp; International security standards</span></li><li><span></span><span>Ability to work as part of a remote team</span></li><li><span></span><span>Ability to develop conceptual models for the delivery of security services</span></li><li><span></span><span>Security Risk Management</span></li></ul><div><br></div><div></div><div><span>Responsibilities for this role will include:</span></div><div><br></div><div></div><ul><li><span></span><span>Managing relationships with the business and with customers</span></li><li><span></span><span>Be responsible for all Security related aspects to maintain Security compliance</span></li><li><span></span><span>Proactively promote security services</span></li><li><span></span><span>Management of security incidents</span></li><li><span></span><span>Managing &amp; mitigating threats</span></li><li><span></span><span>Writing and maintaining security policies &amp; compliance</span></li><li><span></span><span>Adhere to 27001 compliances and develop roadmap to accreditation</span></li><li><span></span><span>Ensure operational security input &amp; governance is exercised over all new technical implementations</span></li><li><span></span><span>Raise security awareness within the business</span></li><li><span></span><span>Manage a security risk register</span></li><li><span></span><span>Review &amp; authorise change requests</span></li><li><span></span><span>Act as a security point of contact for the business</span></li><li><span></span><span>Ensure all security documents are maintained</span></li><li><span></span><span>Manage privilege access management</span></li><li><span></span><span>Ensure 3rd parties are Security compliant</span></li><li><span></span><span>Produce monthly Security report for your line manager</span></li><li><span></span><span>Chair &amp; Manage Security meetings &amp; maintain minutes</span></li><li><span></span><span>Produce and drive recommendations for security improvements</span></li></ul><div></div><div><br></div><div></div><div><span><b>Requirements:</b></span></div><div><br></div><div></div><div><span>Perfect command of English (written and spoken)</span></div><div><br></div><div></div><div><span>Invoicing structure and proper registration. Willingness to be paid in Ethereum would be a huge plus.</span></div><div><br></div><div></div><div><span>Able to work full-time.<span>&nbsp;</span></span></div><div><br></div><div></div><div><span></span></div><div><br></div>            </div><div>How to apply:<br>Go to our website: <a href='http://www.amazix.com' rel='nofollow'>www.amazix.com</a> and press the &quot;Join us&quot; button. Select option &quot;B&quot; and fill out the fields in the Typeform</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "Zg4fknP7SZ-P-tbvBTzAtw",
     "url": "https://problogger.com/jobs/job/wordpress-devops-manager/",
     "title": "Wordpress Devops Manager",
@@ -2243,51 +2692,6 @@
     "published": "Sep 18, 2018 12:31:19 AM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "<h3>DevOps Engineer (Remote)</h3><div>Company: New Context Services<br><br></div><div>                                <a href='https://WhereverJobs.com//jobs/developer-jobs-using-python' rel='nofollow'>python</a><a href='https://WhereverJobs.com//jobs/developer-jobs-using-ruby' rel='nofollow'>ruby</a><a href='https://WhereverJobs.com//jobs/docker-developer-jobs' rel='nofollow'>docker</a><a href='https://WhereverJobs.com//jobs/developer-jobs-using-kubernetes' rel='nofollow'>kubernetes</a><a href='https://WhereverJobs.com//jobs/developer-jobs-using-tdd' rel='nofollow'>tdd</a>            </div><div>How to apply:<br><a href='https://hire.withgoogle.com/public/jobs/newcontextcom/view/P_AAAAAAFAAAjA1XE4J8oc1e?trackingTagWhereverJobs' rel='nofollow'>hire.withgoogle.com/public/jobs/newcontextcom/view/P_AAAAAAFAAAjA1XE4J8oc1e</a></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "MDQDwRcmRkSaLcZBZCLXwA",
-    "url": "https://whereverjobs.com/listing/4019/security-manager",
-    "title": "Security Manager",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "AmaZix",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 18, 2018 12:28:59 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h3>Security Manager</h3><div>Company: AmaZix<br><br></div><div>                                <div><b>Operational Security Manager (CISMP, CISM, CISSP)<span>&nbsp;</span></b></div><div><br></div><div></div><div><span>AmaZix is the leading provider of community management services for crypto projects. We specialise in helping projects running on the Ethereum blockchain, especially those building up to their ICOs. Projects we work on include Bancor, BANKEX, WePower, GBX and Cardstack.</span></div><div><br></div><div></div><div><span>We are growing extremely fast and from our founding nine months ago we now have over 100 team members and manage over 60 high level projects, with many more asking to come aboard than we can take. We are profitable and have been since day one.</span></div><div><br></div><div></div><div><span>If you are not technically familiar with blockchain based projects then no problem - it is not required. However some knowledge of what Ethereum is would be useful.</span></div><div><br></div><div></div><div><span>Though our company is based in Hong Kong our team is distributed around the world (primarily Europe).</span></div><div></div><div><br></div><div></div><div><span><b>Your position</b></span></div><div><br></div><div></div><div><span>We are looking for a candidate with extensive experience in an Operational Security Manager role, who can demonstrate ownership and accountability of delivering Security IT Services into a dynamic and remote business.<span>&nbsp;</span></span></div><div><br></div><div></div><ul><li><span></span><span>Minimum one of the following Security qualifications; IS027001 lead Auditor, CISMP, CISM or CISSP</span></li><li><span></span><span>Excellent communications skills &amp; be able to translate complex security information into layman's terms for those that are not conversant with security knowledge &amp; services</span></li><li><span></span><span>Good knowledge of British &amp; International security standards</span></li><li><span></span><span>Ability to work as part of a remote team</span></li><li><span></span><span>Ability to develop conceptual models for the delivery of security services</span></li><li><span></span><span>Security Risk Management</span></li></ul><div><br></div><div></div><div><span>Responsibilities for this role will include:</span></div><div><br></div><div></div><ul><li><span></span><span>Managing relationships with the business and with customers</span></li><li><span></span><span>Be responsible for all Security related aspects to maintain Security compliance</span></li><li><span></span><span>Proactively promote security services</span></li><li><span></span><span>Management of security incidents</span></li><li><span></span><span>Managing &amp; mitigating threats</span></li><li><span></span><span>Writing and maintaining security policies &amp; compliance</span></li><li><span></span><span>Adhere to 27001 compliances and develop roadmap to accreditation</span></li><li><span></span><span>Ensure operational security input &amp; governance is exercised over all new technical implementations</span></li><li><span></span><span>Raise security awareness within the business</span></li><li><span></span><span>Manage a security risk register</span></li><li><span></span><span>Review &amp; authorise change requests</span></li><li><span></span><span>Act as a security point of contact for the business</span></li><li><span></span><span>Ensure all security documents are maintained</span></li><li><span></span><span>Manage privilege access management</span></li><li><span></span><span>Ensure 3rd parties are Security compliant</span></li><li><span></span><span>Produce monthly Security report for your line manager</span></li><li><span></span><span>Chair &amp; Manage Security meetings &amp; maintain minutes</span></li><li><span></span><span>Produce and drive recommendations for security improvements</span></li></ul><div></div><div><br></div><div></div><div><span><b>Requirements:</b></span></div><div><br></div><div></div><div><span>Perfect command of English (written and spoken)</span></div><div><br></div><div></div><div><span>Invoicing structure and proper registration. Willingness to be paid in Ethereum would be a huge plus.</span></div><div><br></div><div></div><div><span>Able to work full-time.<span>&nbsp;</span></span></div><div><br></div><div></div><div><span></span></div><div><br></div>            </div><div>How to apply:<br>Go to our website: <a href='http://www.amazix.com' rel='nofollow'>www.amazix.com</a> and press the &quot;Join us&quot; button. Select option &quot;B&quot; and fill out the fields in the Typeform</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -5637,60 +6041,6 @@
     }
   },
   {
-    "id": "fi04o1jHSQeSPpckVz3Qjg",
-    "url": "https://stackoverflow.com/jobs/163486/remote-srdeveloper-strong-aws-experience-surge?a=SPllvgdKtAQ",
-    "title": "REMOTE Sr.Developer - strong AWS experience, Gluster/GlusterFS or AWS EFS at Surge  ",
-    "tags": [
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG:surround``OR(no,no W central) W offic",
-      "DBG_TECH1:k/t/w:angular/frontend/16",
-      "DBG_TECH1:k/t/w:go/go/9",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:k/t/w:php/php/15",
-      "DBG_TECH1:k/t/w:ruby/ruby/6",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=9, nodejs=0, bigdata-ml=0, ruby=6, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=21}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/php",
-      "TITLE1/admin",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Surge",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 11, 2018 9:06:10 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h2><span>REMOTE Sr.Developer - strong AWS experience, Gluster/GlusterFS or AWS EFS</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Contract</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>201-500 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Surge | No office location<br></div><h3>Technologies</h3><div></div><div>amazon-web-services</div><div>filesystems</div><div>aws-elasticfilesystem</div><div>glusterfs</div><div>linux</div><div>sysadmin</div>                <h3>Job description</h3>                <div><p>Surge Forward is looking for smart, self-motivated, experienced, senior-level consultants who enjoy the freedom of telecommuting and flexible schedules, to work as long-term, consistent (40 hrs/week) independent contractors on a variety of software development projects.</p><p>File System Developer - strong AWS experience, Gluster/GlusterFS or AWS EFS (elastic file system), strong in Linux, Ruby or PHP or Go</p><p>REQUIRED:File System Developer - strong AWS experience, Gluster/GlusterFS or AWS EFS (elastic file system), strong in Linux, Ruby or PHP or Go</p><p>* Must haves</p><p>&nbsp;&nbsp;&nbsp; * Strong AWS experience</p><p>&nbsp;&nbsp;&nbsp; * Gluster/GlusterFS or AWS EFS (Elastic File System)</p><p>&nbsp;&nbsp;&nbsp; * Strong in linux</p><p>&nbsp;&nbsp;&nbsp; * Ruby or PHP or Go</p><p>* Nice to Have</p><p>&nbsp;&nbsp;&nbsp; * Actual linux systems programming - Needs to understand the OS in and out</p><p>&nbsp;&nbsp;&nbsp; * Experience working with a Distributed File System&nbsp;</p><p><strong>Only candidates located in Canada and/ or the US can be considered at this time. Sorry, No Visas.</strong></p><p><strong>Resume must include the tech stack under each job and if you have Angular experience, please include what version of Angular you have coded in at each position.</strong></p><p>For immediate consideration, email resume and include your cell phone number and start date: <a href='mailto:dsanderson@surgeforward.com' rel='nofollow'>dsanderson@surgeforward.com</a></p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/163486?reset=False&amp;ra=SPllvgdKtAQ&amp;oqs=a%3DSPllvgdKtAQ' rel='nofollow'>Apply now</a></div>            <h3>About Surge</h3>            <div><p>Surge is an onshore provider of custom web, cloud, mobile, digital, and desktop software development and consulting services to clients in every industry, from hot startups to Fortune 500 companies.<br><br>Founded in 2007, and listed on the Inc. 5000 list of America’s fastest growing companies for five straight years, Surge has successfully delivered hundreds of software products, apps, and solutions to its clients using a proven agile/scrum development process combined with an elite group of North American software professionals.<br><br>Simply put, Surge offers America’s best software engineers, on demand, at rates 30-50% less than the competition.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Great Pay</span>                            </li>                            <li>                                <span></span>                                <span>Choose Your Hours</span>                            </li>                            <li>                                <span></span>                                <span>Work From Home</span>                            </li>                            <li>                                <span></span>                                <span>Work With Happy People</span>                            </li>                            <li>                                <span></span>                                <span>Zero Commute</span>                            </li>                            <li>                                <span></span>                                <span>See Your Family More</span>                            </li>                            <li>                                <span></span>                                <span>Travel While You Work</span>                            </li>                            <li>                                <span></span>                                <span>Software Provided</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "W_O2WlYJTECTakK9czkw8g",
     "url": "https://stackoverflow.com/jobs/159703/remote-senior-devops-engineer-surge?a=RyGsyTSXL8I",
     "title": "REMOTE Senior DevOps Engineer at Surge  ",
@@ -7848,54 +8198,6 @@
     "published": "Jul 31, 2018 11:12:33 AM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": "*What Is The Internet MBA Group?*<br /><br />The Internet MBA Group buys, grows and sells online businesses. It was started by Tom Hunt in 2014 and has operated 15 online businesses with various models in various niches during that time.<br /><br />*What Is The Role?*<br /><br />The Internet MBA Group currently operates three eCommerce brands. This role will be solely responsible for performance of all three eCom brands. <br /><br />Areas of responsibility include but not limited to:<br /><br />* Growth<br />* Operations<br />* Customer Service<br />* Supplier Management<br />* Distributor Management<br /><br />The majority of your time will be focussed on growth. You will be responsible for creating and optimising profitable campaigns using the following channels:<br /><br />* Facebook Ads<br />* Google Ads<br />* Influencers<br />* Content<br />* SEO<br /><br />NOTE: Experience with any of these channels is not required… just a hunger to learn.<br /><br />You will also be responsible for managing a full time offshore resource that will be able to complete tasks that you should not/don’t want to be doing. This will enable you to focus on the highest leverage tasks, driving both the growth of the brands and your own personal development.<br /><br />This role is IDEAL for someone that ideally wants to create their own eCom brand in the future: you will learn EVERYTHING you need to know to do this… but without the risk.<br /><br />The role can be completed from anywhere in the world, though preferably with significant time zone overlap with London, where Tom is based.<br /><br />*Who Are You?*<br /><br />* You don’t give a sh*t about what other people think<br />* You think the Internet is f*cking great<br />* You love to learn<br />* You think that making money is a good thing for the world<br />* You have an intense interest in people<br />* You understand the importance of influence<br /><br />*What’s In It For You?*<br /><br />* Competitive salary<br />* Autonomous, flexible working hours<br />* Performance based bonus<br />* Can work remotely<br />* 1 Expensed trip to London per month (if Remote)<br />* 1-1 Mentoring from Tom Hunt<br />* Access to Tom Hunt’s network<br />* Accelerated personal development",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "U_ojjlvtRJyOtYdbUcg6wQ",
-    "url": "https://cjl.ist/2vk0zKW",
-    "title": "Holochain Developer - Cryptography, Security, Identity",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/nodejs",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "nodejs"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "$",
-      "minValue": 90000,
-      "maxValue": 140000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 30, 2018 2:36:05 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "<h2>Holochain Developer - Cryptography, Security, Identity</h2>   Location:    Remote    Remote  <div>  Role and job type: Full-time </div> <div>  <h3>Job Description</h3>  <p>The Holo team will be working on many of the following activities:</p>  <ul>   <li>Signed Service Logs</li>   <li>Anon/Web gateway services </li>   <li>Virtual Source Chain Mgt</li>   <li>Web browser key management</li>   <li>Collect &amp; share peer performance metrics</li>   <li>HQuery for hashing/signing, etc.</li>   <li>User Centric container management</li>   <li><span>[email&nbsp;protected]</span> routing/NAT</li>   <li>Calculating Host Performance Levels</li>   <li>DNS on CDN - JavaScript service workers</li>   <li>Sub browser to CDN w/domain certs</li>   <li>UI for app providers</li>   <li>UI for admins</li>   <li>Log analytics for fraud detection</li>   <li>Scaling and load tests</li>   <li>HoloPort cloud service</li>  </ul>  <p>And much more…</p>  <p>What we offer:</p>  <ul>   <li>Starts with a 3 Month Contract to Hire (dependent on country and employment laws)</li>   <li>Generous salary (National Currency or ETH)</li>   <li>Generous bonus program (HOT &amp; Holo fuel)</li>   <li>BYOE with Equipment Reimbursement</li>   <li>Remote work</li>   <li>Regular team meetings (video and in person)</li>   <li>Agile/Scrum</li>   <li>Pair Programming Opportunities</li>   <li>Collaborative and Inspiring Culture</li>   <li>Creating Benefits Programs based on wants and needs of the team</li>   <li>Flexible Work Schedules and Vacation</li>  </ul>  <h4>Salary range</h4>  <p>USD $90k - $140k</p> </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
