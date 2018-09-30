@@ -718,3 +718,50 @@ function rowPlusMinusClick( eventObject) {
     var titleNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0].children[0];
     markHrefAsVisited(titleNode.href);
 }
+
+/**** email subscription ****/
+
+/**
+ * alertType: alert-danger, alert-success, alert-info (blue), alert-warning (yellow)
+ * alertMessage: text/HTML to display
+ */
+function showAlert(alertType, alertMessage){
+    $('#alert-placeholder-id').html(
+        '<div class="alert '+alertType+' alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' +alertMessage+'</div>'
+    );
+}
+
+/**
+ * @param e - Event
+ * @param formID - ID of the form
+ * @param emailID - ID of "email" form input
+ * @param mailistNameID - ID of element with mail list name
+ * @param modalID - ID of modal dialog
+ */
+function handleEmailSubscriptionFormSubmit(e, formID, emailID, mailistNameID, modalID){
+    // see https://stackoverflow.com/questions/1960240/jquery-ajax-submit-form/6960586#6960586
+    e.preventDefault(); // avoid to execute the actual submit of the form.
+    var form = $(formID);
+    var messageOK="<strong>"+ $(emailID).val() +"</strong> subscribed to <strong>"+$(mailistNameID).text()+"</strong>.  Please check your inbox.";
+    var messageErr="Subscription error! Technical details: ";
+
+    $.ajax({
+        type: form.attr('method'),
+        url: form.attr('action'),
+        data: form.serialize(), // serializes the form's elements.
+        success: function (data) {
+            if(data.success == false){
+                showAlert('alert-danger', messageErr+JSON.stringify(data));
+            }
+            else {
+                showAlert('alert-success', messageOK)
+            }
+        },
+        error: function (data) {
+            showAlert('alert-danger', messageErr+JSON.stringify(data));
+        },
+    });
+    $(modalID).modal("hide");
+}
+
+
