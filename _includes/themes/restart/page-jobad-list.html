@@ -2,6 +2,7 @@
 
 <section class="hgroup">
   <div class="container">
+    <div id="alert-placeholder-id"></div>
     <h1 class="elegant">{{ thisnodes[0].title }}</h1>
     {% if thisnodes[0].undertagline %}
     <h2>{{ thisnodes[0].undertagline }}</h2>
@@ -16,3 +17,4 @@
 {{ content }}
 
 {% include themes/restart/page-jobad-modal-report-notremote.html %}
+{% include themes/restart/page-jobad-modal-report-notremote-success.html %}
