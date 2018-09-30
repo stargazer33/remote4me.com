@@ -17,13 +17,13 @@ var isLunarIndexLoaded = false;
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
 var mapIdToJob = new Map();
 var json_data_original = [];
+// see function "detailFormatter"
 var detailFormatterTemplate = null;
-
-// JobId текущего модального окна
+// used in ReportThisJob dialog: JobId текущего модального окна
 var currentJobId = null;
-// tag текущего модального окна
+// used in ReportThisJob dialog: tag текущего модального окна
 var tagCurrent = null;
-// title текущего модального окна
+// used in ReportThisJob dialog: title текущего модального окна
 var titleCurrent = null;
 
 /**
@@ -86,70 +86,70 @@ $(document).ready(function () {
             });
             $("#table").bootstrapTable('hideLoading');
             $("#table").hide();
-
             readCheckboxesState();
         });
 
-        $("#jobSearchForm").submit(handleJobSearchFormSubmit);
-        $(".filter-checkbox").click(handleClickOnFilterCheckbox);
-
-        // Stop dropdown menu from closing (keep it open) when clicked on one of its elements
-        $("div.dropdown-menu").click(function(event){
-          event.stopPropagation();
-        });
-
-
-        var source   = document.getElementById("detailFormatter").innerHTML;
-        detailFormatterTemplate = Handlebars.compile(source);
-
-        $('#reportthisjob-modal').on('show.bs.modal', function (event) { // callback функция, вызывается при показе модального окна
-            var button = $(event.relatedTarget);
-                currentJobId = button.data('postid');
-                tagCurrent = button.data('tagcurrent');
-                titleCurrent = button.data('title');
-        });
-
-        // Initialize Firebase
-        var config = {
-            apiKey: "AIzaSyDWCBNGKq5wX4t7TNosOLVViWTvGzHKWvw",
-            authDomain: "metajob-org.firebaseapp.com",
-            databaseURL: "https://metajob-org.firebaseio.com",
-            projectId: "metajob-org",
-            storageBucket: "metajob-org.appspot.com",
-            messagingSenderId: "652084187155"
-        };
-        firebase.initializeApp(config);
-
-        firebase.auth().onAuthStateChanged(function(user) {
-            if (user) {
-                $('#firebaseui-auth-container-wrapper').hide();
-                $('#reportthisjob-modal-body').show();
-
-            } else {
-                $('#reportthisjob-modal-body').hide();
-                $('#firebaseui-auth-container-wrapper').show();
-            }
-        });
-
-        // Initialize the FirebaseUI Widget using Firebase.
-        var ui = new firebaseui.auth.AuthUI(firebase.auth());
-        // The start method will wait until the DOM is loaded.
-        ui.start('#firebaseui-auth-container', {
-            signInOptions: [
-                firebase.auth.EmailAuthProvider.PROVIDER_ID,
-                firebase.auth.GoogleAuthProvider.PROVIDER_ID,
-                firebase.auth.GithubAuthProvider.PROVIDER_ID
-            ],
-            signInFlow: 'popup',
-            // Other config options...
-        });
-        // Firebase (end)
-
-        //modal window (end)
+        initJobSearchFilters();
+        // initilize global variable detailFormatterTemplate
+        detailFormatterTemplate = Handlebars.compile( document.getElementById("detailFormatter").innerHTML );
+        initReportThisJob();
+        initFirebase();
     } catch (err) {
         console.log(err);
     }
 });
+
+function initJobSearchFilters() {
+    // Stop dropdown menu from closing (keep it open) when clicked on one of its elements
+    $("div.dropdown-menu").click(function(event){
+        event.stopPropagation();
+    });
+    $("#jobSearchForm").submit(handleJobSearchFormSubmit);
+    $(".filter-checkbox").click(handleClickOnFilterCheckbox);
+}
+
+function initReportThisJob() {
+    $('#reportthisjob-modal').on('show.bs.modal', function (event) { // callback функция, вызывается при показе модального окна
+        var button = $(event.relatedTarget);
+        currentJobId = button.data('postid');
+        tagCurrent = button.data('tagcurrent');
+        titleCurrent = button.data('title');
+    });
+}
+
+function initFirebase() {
+    var config = {
+        apiKey: "AIzaSyDWCBNGKq5wX4t7TNosOLVViWTvGzHKWvw",
+        authDomain: "metajob-org.firebaseapp.com",
+        databaseURL: "https://metajob-org.firebaseio.com",
+        projectId: "metajob-org",
+        storageBucket: "metajob-org.appspot.com",
+        messagingSenderId: "652084187155"
+    };
+    firebase.initializeApp(config);
+    firebase.auth().onAuthStateChanged(function(user) {
+        if (user) {
+            $('#firebaseui-auth-container-wrapper').hide();
+            $('#reportthisjob-modal-body').show();
+
+        } else {
+            $('#reportthisjob-modal-body').hide();
+            $('#firebaseui-auth-container-wrapper').show();
+        }
+    });
+    // Initialize the FirebaseUI Widget using Firebase.
+    var ui = new firebaseui.auth.AuthUI(firebase.auth());
+    // The start method will wait until the DOM is loaded.
+    ui.start('#firebaseui-auth-container', {
+        signInOptions: [
+            firebase.auth.EmailAuthProvider.PROVIDER_ID,
+            firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+            firebase.auth.GithubAuthProvider.PROVIDER_ID
+        ],
+        signInFlow: 'popup',
+        // Other config options...
+    });
+}
 
 /**
  * функция отправки репорта в фаербейз, вызывается по нажатию кнопки "Send"
