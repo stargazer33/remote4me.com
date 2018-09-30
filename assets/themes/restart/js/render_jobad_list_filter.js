@@ -19,11 +19,11 @@ var mapIdToJob = new Map();
 var json_data_original = [];
 // see function "detailFormatter"
 var detailFormatterTemplate = null;
-// used in ReportThisJob dialog: JobId текущего модального окна
+// used in initReportThisJob(), postReport(): JobId текущего модального окна
 var currentJobId = null;
-// used in ReportThisJob dialog: tag текущего модального окна
+// used in initReportThisJob(), postReport(): tag текущего модального окна
 var tagCurrent = null;
-// used in ReportThisJob dialog: title текущего модального окна
+// used in initReportThisJob(), postReport(): title текущего модального окна
 var titleCurrent = null;
 
 /**
@@ -94,6 +94,7 @@ $(document).ready(function () {
         detailFormatterTemplate = Handlebars.compile( document.getElementById("detailFormatter").innerHTML );
         initReportThisJob();
         initFirebase();
+        initEmailSubscription();
     } catch (err) {
         console.log(err);
     }
@@ -148,6 +149,28 @@ function initFirebase() {
         ],
         signInFlow: 'popup',
         // Other config options...
+    });
+}
+
+function initEmailSubscription() {
+    $("#form-subscribe-weekly-modal-id").submit(function(e) {
+        handleEmailSubscriptionFormSubmit(
+            e,
+            "#form-subscribe-weekly-modal-id",
+            '#week-input-email-id',
+            '#week-maillist-name-id',
+            '#subscribe-weekly-modal-id'
+        );
+    });
+
+    $("#form-subscribe-daily-modal-id").submit(function(e) {
+        handleEmailSubscriptionFormSubmit(
+            e,
+            '#form-subscribe-daily-modal-id',
+            '#day-input-email-id',
+            '#day-maillist-name-id',
+            '#subscribe-daily-modal-id'
+        );
     });
 }
 
@@ -732,6 +755,8 @@ function showAlert(alertType, alertMessage){
 }
 
 /**
+ * Send the "new subscriber added" to mailerlite.com, report result using showAlert()
+ *
  * @param e - Event
  * @param formID - ID of the form
  * @param emailID - ID of "email" form input
