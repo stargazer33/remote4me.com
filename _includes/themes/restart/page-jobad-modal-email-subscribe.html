@@ -4,7 +4,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="week-maillist-name-id"> Mail list "Weekly Remote frontend (JavaScript) jobs"</h4>
+                <h4 class="modal-title" id="week-maillist-name-id">Mail list "<strong>Weekly</strong> {{ thisnodes[0].title }}"</h4>
             </div>
             <form id="form-subscribe-weekly-modal-id" class="form" method="get"
                   action="https://landing.mailerlite.com/webforms/landing/r2q9o2">
@@ -22,7 +22,7 @@
                     <label for="week-input-email-id" class="col-sm-2 control-label">Email</label>
                     <input type="email" required name="fields[email]" class="form-control" id="week-input-email-id" placeholder="you@youremail.com">
 
-                    <input type="hidden" name="groups[]" value="10484474" checked="checked">
+                    <input type="hidden" name="groups[]" value="{{ thisnodes[0].mailGroupWeek }}" checked="checked">
                     <input type="hidden" name="ml-submit" value="1">
                     <input type="hidden" name="ajax" value="1">
                 </div>
@@ -40,7 +40,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="day-maillist-name-id"> Mail list "Daily Remote frontend (JavaScript) jobs"</h4>
+                <h4 class="modal-title" id="day-maillist-name-id">Mail list "<strong>Daily</strong> {{ thisnodes[0].title }}"</h4>
             </div>
             <form id="form-subscribe-daily-modal-id" class="form" method="get"
                   action="https://landing.mailerlite.com/webforms/landing/r2q9o2">
@@ -75,7 +75,7 @@
                                 <label for="inputUrl4" class="col-sm-12 control-label">A page/post/article URL:</label>
                                 <input type="url" required class="form-control" name="fields[url_promo]" id="inputUrl4" placeholder="https://social-network.com/post-url" pattern="https?://.+" size="15">
 
-                                <input type="hidden" name="groups[]" value="10484476" checked="checked">
+                                <input type="hidden" name="groups[]" value="{{ thisnodes[0].mailGroupDay }}" checked="checked">
                                 <input type="hidden" name="ml-submit" value="1">
                                 <input type="hidden" name="ajax" value="1">
 
