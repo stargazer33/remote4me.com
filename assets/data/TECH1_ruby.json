@@ -1,6 +1,529 @@
 {
  "items": [
   {
+    "id": "xrT3YdqITWCGD4JoIzEFag",
+    "url": "https://remote.co/job/software-engineer-infrastructure/",
+    "title": "Software Engineer, Infrastructure",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:distributed-database/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=8, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Wistia",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2018 6:03:45 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Software Engineer, Infrastructure at <span>Wistia</span></h2><div><span><i></i> Remote</span>        </div><div>            <p>at Wistia<br>Cambridge</p><p>At Wistia we believe that every person in every business will use video to communicate every day, for asynchronous as well as live communication. It will feel as fluid and natural as it does to text or call someone today, but even more personal and human .</p><p>This reality is still a way off, but we’re super excited to start building it now through simple and delightful video-focused products.</p><p>To help us get there, we’re looking for a Software Engineer of Infrastructure who is excited to help our engineering teams solve challenging problems.</p><p><strong>As an infrastructure software engineer at Wistia, you can expect to lead projects such as the following.</strong></p><ul><li>Improve our in-house deployment platform by having it expose access to new Kubernetes options or more effectively use Kubernetes primitives, or finding ways to make our Jenkins-based CI system more pleasant to use for other engineers</li><li>Gather feedback from colleagues to identify workflow frictions or architectural problems across our codebases and advise and assist with improvements, such as by measuring the current load of different pieces of a system, identifying problem libraries or other system components and suggesting a solution or vetting a replacement, or planning out the steps of a complex refactoring across services.</li><li>Make a manual infrastructure operation more automatic or declarative, e.g. by building a tool to sync our DNS zones from a source-controlled config file or by writing a bot to show us output in new infrastructure pull requests</li><li>Advise our application development teams on how best to architect a new feature, including evaluating a datastore for a particular new workload, designing data flows to keep app containers stateless, deciding how to best employ AWS primitives, and identifying and avoiding single points of failure</li><li>Improve observability across our Rails and Elixir codebases and Linux hosts via logging and instrumentation, identify performance bottlenecks across systems, and recommend configuration or application design improvements to handle growing system scale</li><li>Update our Chef recipes to be compatible with new software versions or to apply security patches, bake the updates into new VM images, and roll out new images to all our clusters</li></ul><p>We are looking for someone who is excited to support our engineering colleagues on other teams and flexible enough to work at any level of our stack. We won’t expect you to know all the tools we use on your first day, as long as you’re eager to learn and you thrive working collaboratively. We’re a small team, so we will also value experiences and skillsets that complement our existing strengths.</p><p><strong>Here are some qualities we look for in Wistia engineers, and why we feel they’re so important:</strong></p><ul><li>Learn continuously. We’re constantly faced with the unknown at Wistia. We won’t expect you to have an answer ready for every question, but we value the ability to quickly learn new technologies as you go.</li><li>Collaborate often. Whether through pair programming, a whiteboard session, or a casual lunch conversation, collaboration helps the best ideas and practices to proliferate.</li><li>Communicate effectively. Our work routinely affects our customers, their viewers, and other Wistians. Whether gathering feedback on a design proposal, updating colleagues on a project’s progress, pairing on a tough problem, or writing documentation, it is critical our communication be clear and concise to reach a shared vision.</li><li>Show empathy for colleagues. We value our colleagues more than our code. Being respectful, leaving space for others, and trying to understand someone else’s perspective instead of just defending your own are all critical to maintaining a team where everyone can feel included and empowered to do their best work.</li><li>Write clean and understandable code. We write code for each other and for our future selves. Code that is clear and tested sets us up for speed, reliability, and a more enjoyable development experience.</li><li>Navigate complex trade-offs. Most hard decisions involve trade-offs. Do we want our distributed database to be more consistent, or more available? Should we use a hosted product that will save us time now, but force us to move to a new system in a year? These are regular conversations!</li><li>Think for yourself. We hire people because we value their unique thoughts, insights and experiences. These things matter a great deal more to us than conventional wisdom or herd mentalities in technical communities.</li><li>Strive for simplicity<strong>.</strong>&nbsp;Blaise Pascal once wrote, “I’m sorry I wrote you such a long letter; I didn’t have time to write a short one.” Making things simple and elegant is deceptively difficult, but it’s worth the effort because the result is easier to understand and work with.</li></ul><p>We’re profitable, growing, and independent of venture funding, so we have the luxury of being able to invest in whatever will best serve the long-term value of the company. We know the biggest investment we can make is in our employees, so we provide:</p><ul><li>A competitive salary</li><li>401k with 3% company contribution, regardless of whether you make contributions</li><li><strong>Flexible hours</strong></li><li>Fully paid healthcare, dental and vision coverage for you and your family and a healthcare FSA</li><li>Up to 12 weeks paid family leave</li><li>Untracked vacation and sick leave (most employees take about four weeks of vacation)</li><li>Transportation subsidies</li><li>Financial support for continuing education, professional development and sponsorship for conferences</li><li>A convenient office just south of Central Square in Cambridge, MA. We’re right on the Red Line, surrounded by great restaurants, parks, and even a dog park.</li></ul><p>We are working hard to make Wistia an inclusive and diverse place where everyone feels happy, fulfilled, respected, comfortable, and welcome. We want you to have fun here! Come join us and let’s build really cool things together.</p><p><strong>This role is open to local candidates based out of our Cambridge, MA office or remote candidates authorized to work in the US</strong>.&nbsp;<strong>Remote candidates must have prior experience working successfully on a distributed team, as the role is for a fully distributed team within our mixed remote &amp; in-office Engineering department.</strong></p><p>If you would like to apply, please link or upload any resources that will help us understand your background and your strengths.</p>        </div><div>        <a href='https://boards.greenhouse.io/wistia/jobs/1323870' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "i4iln9y9Q6arvL1OnRaT-w",
+    "url": "https://news.ycombinator.com/item?id=18119316",
+    "title": "Cogent | Melbourne, Australia | Software Engineer | Full-time | Onsite | Visa",
+    "tags": [
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2018 9:00:08 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Cogent | Melbourne, Australia | Software Engineer | Full-time | Onsite | Visa<p>Hi! I'm a developer who has been working at Cogent for the past 6 years and I love it here. I moved across the world for this job and I haven't regretted it for a second. Cogent is a lovely, warm and humane company. I've managed to convince my boss to let me travel the world and work remotely a couple of months per year. I also work part-time so that I can work on my videography business, and nobody raises an eyebrow at that. It's all very flexible!</p><p>Cogent is kind of a consultancy. We have a vision of becoming &quot;Melbourne's most loved maker of novel digital businesses&quot;. So a lot of what we do is based on working out of clients' offices. But we do other things as well. I spend my time working on a pretty damn cool electric car charger startup we've invested in.</p><p>We're a values-driven company, which gives us benefits such as an open salaries model, profit share and a strong focus on work-life balance like the flexibility mentioned above. We also work with clients that align well with our values.</p><p>Cogent is looking for mid-level and senior software developers with 5+ years of experience. We use Ruby and JS quite a bit, so commercial experience with those would make us go &quot;ooooh!&quot;</p><p>If this sounds interesting, have a look at our site: <a href='https://cogent.co' rel='nofollow'>https://cogent.co</a></p><p>Or drop me an email to ask me about life at Cogent or in Australia: peter@cogent.co</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "lw4NFKXzTgGf24cUxjoQGQ",
+    "url": "https://news.ycombinator.com/item?id=18117449",
+    "title": "Zeal | Experienced Full Stack Engineer (Rails, ReactJS, Elixir) | Remote, Grants Pass, OR | Contract | http://www ...",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:elixir/other/15",
+      "DBG_TECH1:k/t/w:reactjs/frontend/24",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=24, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=24}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2018 12:50:08 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Zeal | Experienced Full Stack Engineer (Rails, ReactJS, Elixir) | Remote, Grants Pass, OR | Contract | <a href='http://www.codingzeal.com' rel='nofollow'>http://www.codingzeal.com</a><p>Zeal is a web and mobile development consultancy that empowers small to medium-sized organizations to solve huge problems.</p><p>We’re looking for experienced full-stack engineers with strengths in Rails, ReactJS, Node, and/or Elixir. We’re a fully remote team with a home base in Grants Pass, OR, where we all try to get together at least once a year. We’re pragmatically agile, pair whenever possible, believe in a sustainable work schedule, and are committed to creating well-crafted code that serves our clients’ needs. If joining a team where you care about your work and your teammates sounds appealing, we want to talk to you.</p><p>Apply here: <a href='http://codingzeal.com/hiring' rel='nofollow'>http://codingzeal.com/hiring</a></p><p>We’re sorry, but we are unable to accept international candidates at this time.</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "NkyuCxQ8QYe4c4mVnv4nLw",
+    "url": "https://news.ycombinator.com/item?id=18116781",
+    "title": "Weathermatic (http://www.weathermatic.com) | Full Stack Software Developer | Full-time | Dallas Area (DFW) Texas | ...",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/24",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=11, nodejs=0, bigdata-ml=0, ruby=20, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=24}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 11:02:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Weathermatic (<a href='http://www.weathermatic.com' rel='nofollow'>http://www.weathermatic.com</a>) | Full Stack Software Developer | Full-time | Dallas Area (DFW) Texas | Must be in DFW but mostly work remote/at home<p>* Ruby, Rails, Golang, React, React Native, AWS, GraphQL *</p><p>We build cellular-connected commercial irrigation solutions.  Our smart controllers connect via a cellular aircard to provide a web- and app-based control/monitoring platform for irrigators and property managers (<a href='http://www.smartlinknetwork.com' rel='nofollow'>http://www.smartlinknetwork.com</a>).  This saves everyone involved time, money, and water.  Through our &quot;Save Water | Give Life&quot; initiative, we dedicate a portion of our proceeds to clean water initiatives, building drinking water wells in developing countries (<a href='https://www.weathermatic.com/our-cause/' rel='nofollow'>https://www.weathermatic.com/our-cause/</a>).</p><p>Our office is in Garland, TX, but our software team works remotely most of the time, just meeting at the office for planning meetings, etc.</p><p>We run a core web application in Ruby on Rails, with the field-communication parts written in Go.  The system can also be accessed via our React Native based mobile application.  Deployed using Docker via AWS ECS, AWS Lambda, and other associated services.</p><p>We are a small team looking for someone who can contribute at all levels of the project, even including firmware and test fixture design if that's interesting to you!  Lots of opportunity to make a difference and work with a variety of interesting technologies.</p><p>Email me (VP of Engineering) at: david.hanson@weathermatic.com</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ktzf_pCBQomXJ_vNtnL-5Q",
+    "url": "https://news.ycombinator.com/item?id=18116720",
+    "title": "Culture Foundry | https://www.culturefoundry.com | REMOTE | Developers | Full time employees",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=1, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 10:55:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Culture Foundry | <a href='https://www.culturefoundry.com' rel='nofollow'>https://www.culturefoundry.com</a> | REMOTE | Developers | Full time employees<p>We are recruiting for a number of developer roles at Culture Foundry. We are a 100% remote digital agency. We connect the world through beautiful technology. We work in php, rails, javascript and golang. Profitable, small teams, flexible. The role is remote, but you need to have significant time overlap with US based teammates.</p><p>More details on specific roles here: <a href='https://www.culturefoundry.com/careers/' rel='nofollow'>https://www.culturefoundry.com/careers/</a></p><p>FYI, the start dates displayed are just best guesses, and can be shifted for the right candidate.</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "4Kt_ePmYQBmJUMXb3Vqv-A",
+    "url": "https://rails.42jobs.io/jobs/994-remote-ruby-on-rails-developer",
+    "title": "Remote Ruby On Rails Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/26",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/6",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=40, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=26}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 10:26:17 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Remote Ruby On Rails Developer</h3><div><p></p><p><strong>Job Description:</strong></p><p>Dealer Inspire, Inc is looking to add one talented software engineer to a recently assembled development team. &nbsp;We are developing an analytics and reporting platform for the auto digital marketing industry. Any experience level will be considered, with a preference for a more senior-level developer. &nbsp;Capability for growth to a leadership position, if desired. Remote position with an established company with good benefits and a supportive culture.</p><p><strong>Responsibilities:</strong></p><ul><li>Assist with debugging / development of bug fixes - day-to-day maintenance</li><li>Development of new features under the guidance of more senior team members.</li><li>Function as “project owner” for some new or existing projects, managing initial requirements, feature requests, and long-term support.</li><li>Provide technical planning, development, and systems integration from discovery through launch</li><li>Execute complex designs, reflecting the creative and art direction provided within established technical frameworks</li><li>Ensure a high level of code quality</li><li>Provide input on internal code practices, design, architecture, and maintenance</li></ul><p><strong>Skills Required:</strong></p><ul><li>3+ years experience working with Ruby on Rails</li><li>1+ years experience with front-end technologies such as React, Redux, and Webpack.</li><li>Mastery of HTML and CSS/SASS/Styled Components</li><li>1+ years experience working with PostgreSQL or Redis database; the ability to write efficient queries and benchmark/profile them</li><li>Strong understanding of asynchronous programming</li><li>Understanding of local development environments and integration of varying components.</li><li>Experience with performance debugging and benchmarking</li><li>Git version control</li><li>Experience with testing frameworks</li><li>Strong attention to design detail. Matching markup/layout with mockups, and making them better. Knowing when things are off (even by a couple pixels) - and knowing why that impacts the experience negatively.</li><li>Strong communication skills.</li></ul><ul><li>Git (or other source control)</li></ul><p><strong>Highly Desired:</strong></p><ul><li>Experience working remotely</li><li>Familiar with functional programming</li><li>Performance debugging and benchmarking</li><li>High sensibility to UI design and UX</li></ul><p><strong>Compensation:</strong></p><p>Compensation based upon skill and previous experience. Motivated and talented individuals may advance quickly in our fast growing company.</p><p><strong>Perks:</strong></p><ul><li>401k with company match</li><li>10 days paid time off, 5 days of sick/safe leave and selected paid holidays</li><li>Work time/Fun time bi-monthly team outings</li><li>Coaching and career building</li><li>Subsidized gym membership</li><li>Subsidized internet access for your home</li><li>Benefits package including Health, Life, Dental, Vision, and Disability</li></ul><p></p><span>Apply now</span></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "sMVbSCdLSbqFxC3g1EpOaA",
+    "url": "https://news.ycombinator.com/item?id=18115297",
+    "title": "BetterUp | Software Engineer (Full-Stack or Front-End) | Remote | Full-time | https://www.betterup.co/",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 8:18:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>BetterUp | Software Engineer (Full-Stack or Front-End) | Remote | Full-time | <a href='https://www.betterup.co/' rel='nofollow'>https://www.betterup.co/</a><p>BetterUp is a coaching platform that brings personalized professional coaching to employees at all levels. We help managers lead better, teams perform better, and employees thrive personally and inspire professionally.  Our mission is to help people everywhere pursue their lives with greater clarity, purpose, and passion, so our product was developed by a team of leading behavioral scientists, researchers, and technologists. We're already transforming the way companies approach talent development at high-performing organizations like LinkedIn, Salesforce, Capital One, Deloitte, and Logitech among many others.</p><p>We’re looking for people who can:</p><p>- Act as an owner - It’s not done until it’s in production.  Adept at moving projects forward and able to unblock projects regardless of role on the project.</p><p>- Do less, deliver more - Familiar with the terms YAGNI and yak shaving?  Focus your efforts on high impact initiatives that really move the needle.</p><p>- Impress yourself - We hold ourselves to a quality above and beyond something that “just gets it done”.  Each line of code is an opportunity to blend craftsmanship with playfulness.</p><p>- Collaborate without ego - Willing to take on roles small or large in order to further the mission at hand.</p><p>- Stay on your edge - Continuously learning and applying emerging technologies.  Pushing yourself and your team to new heights.</p><p>Our stack is primarily Ruby on Rails, Ember.js, Gitflow, AWS, and Docker and we prioritize keeping our dependencies up to date while we work in an iterative, collaborative CI/CD process. We provide amazing benefits (unlimited vacation, volunteer days), but if you ask the team they’ll tell you that the greatest benefit we offer employees is an incredibly meaningful mission and transformative work.</p><p>View all roles and apply here: <a href='https://www.betterup.co/jobs/' rel='nofollow'>https://www.betterup.co/jobs/</a></p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "EAlpQ0aVShebtpX5UVIAmQ",
+    "url": "https://stackoverflow.com/jobs/203953/remote-ruby-on-rails-developer-dealer-inspire?a=16oLIzN26KMo",
+    "title": "Remote Ruby On Rails Developer at Dealer Inspire  ",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/26",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/8",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=50, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=47}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Dealer Inspire",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 75000,
+      "maxValue": 110000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 8:06:10 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2><span>Remote Ruby On Rails Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Frontend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Automotive</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>201-500 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Public</span>                                    </div>                            </div>                    </div>                <div>Company: Dealer Inspire | No office location<br></div><h3>Technologies</h3><div></div><div>ruby-on-rails</div><div>reactjs</div><div>ruby</div>                <h3>Job description</h3>                <div><p><strong>Job Description:</strong></p><p>Dealer Inspire, Inc is looking to add one talented software engineer to a recently assembled development team. &nbsp;We are developing an analytics and reporting platform for the auto digital marketing industry. Any experience level will be considered, with a preference for a more senior-level developer. &nbsp;Capability for growth to a leadership position, if desired. Remote position with an established company with good benefits and a supportive culture.</p><p><strong>Responsibilities:</strong></p><ul><li>Assist with debugging / development of bug fixes - day-to-day maintenance</li><li>Development of new features under the guidance of more senior team members.</li><li>Function as “project owner” for some new or existing projects, managing initial requirements, feature requests, and long-term support.</li><li>Provide technical planning, development, and systems integration from discovery through launch</li><li>Execute complex designs, reflecting the creative and art direction provided within established technical frameworks</li><li>Ensure a high level of code quality</li><li>Provide input on internal code practices, design, architecture, and maintenance</li></ul><p><strong>Skills Required:</strong></p><ul><li>3+ years experience working with Ruby on Rails</li><li>1+ years experience with front-end technologies such as React, Redux, and Webpack.</li><li>Mastery of HTML and CSS/SASS/Styled Components</li><li>1+ years experience working with PostgreSQL or Redis database; the ability to write efficient queries and benchmark/profile them</li><li>Strong understanding of asynchronous programming</li><li>Understanding of local development environments and integration of varying components.</li><li>Experience with performance debugging and benchmarking</li><li>Git version control</li><li>Experience with testing frameworks</li><li>Strong attention to design detail. Matching markup/layout with mockups, and making them better. Knowing when things are off (even by a couple pixels) - and knowing why that impacts the experience negatively.</li><li>Strong communication skills.</li></ul><ul><li>Git (or other source control)</li></ul><p><strong>Highly Desired:</strong></p><ul><li>Experience working remotely</li><li>Familiar with functional programming</li><li>Performance debugging and benchmarking</li><li>High sensibility to UI design and UX</li></ul><p><strong>Compensation:</strong></p><p>Compensation based upon skill and previous experience. Motivated and talented individuals may advance quickly in our fast growing company.</p><p><strong>Perks:</strong></p><ul><li>401k with company match</li><li>10 days paid time off, 5 days of sick/safe leave and selected paid holidays</li><li>Work time/Fun time bi-monthly team outings</li><li>Coaching and career building</li><li>Subsidized gym membership</li><li>Subsidized internet access for your home</li><li>Benefits package including Health, Life, Dental, Vision, and Disability</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/203953?reset=False&amp;ra=16oLIzN26KMo&amp;oqs=a%3D16oLIzN26KMo' rel='nofollow'>Apply now</a></div>            <h3>About Dealer Inspire</h3>            <div><p><strong>About Dealer Inspire:</strong></p><p>Dealer Inspire is an automotive website platform provider located in Naperville, Illinois. We pride ourselves in having a fun, unconventional working environment and a great culture. While our team works extremely hard, we try to keep it a fun and creative work environment. At Dealer Inspire, we like to look at current problems and 'rethink' about solutions. We're flexible - we don't write requirements in stone, and things can change regularly. This means rethinking how the solutions work best. Do you want to come 'rethink' with us?</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Health Insurance with BCBS</span>                            </li>                            <li>                                <span></span>                                <span>401k plan with company match</span>                            </li>                            <li>                                <span></span>                                <span>10 days paid time off, 4&nbsp;days of sick&nbsp;leave and selected paid holidays</span>                            </li>                            <li>                                <span></span>                                <span>Dental, Life and Disability Insurance</span>                            </li>                            <li>                                <span></span>                                <span>Subsidized gym membership</span>                            </li>                            <li>                                <span></span>                                <span>Subsidized internet access for your home</span>                            </li>                            <li>                                <span></span>                                <span>Peer to Peer Bonus program</span>                            </li>                            <li>                                <span></span>                                <span>Stocked fridge with snacks and more!</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "d3nG4ATbTLCymBD0ym367g",
+    "url": "https://news.ycombinator.com/item?id=18115127",
+    "title": "Envoy | All types of software engineering jobs | San Francisco, CA and distributed | Full-time | https://envoy.com ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``usa 3W OR(time,timezon)",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=8, go=0, nodejs=1, bigdata-ml=0, ruby=10, apple=5, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/mobile",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "mobile",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 8:00:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Envoy | All types of software engineering jobs | San Francisco, CA and distributed | Full-time | <a href='https://envoy.com' rel='nofollow'>https://envoy.com</a><p>You've seen our visitor registration kiosk everywhere.  We're on a mission to create the office of the future and visitor management is just the beginning. We’re building a world where you know instantly when packages are delivered; where your office unlocks securely and automatically when you arrive; where you can book a meeting room simply by walking through the door.</p><p>We have 1/2 of our engineering team working full-time remotely with the rest in SF HQ.  Continental US time zones are preferred so we can easily collaborate.  Here's a blog post about our distributed environment: <a href='https://envoy.engineering/building-our-remote-distributed-engineering-culture-2cfe9721ab4b' rel='nofollow'>https://envoy.engineering/building-our-remote-distributed-en...</a></p><p>Our stack is built on Ruby&amp;Rails, PostgreSQL, Redis, Elixir, JavaScript (Ember.js), Swift, and a few more things. We’re currently hosted on Heroku and are moving to AWS.</p><p>We value being a top-notch organization with a strong engineering-driven culture, and have the same high standards with our code, systems, and people. We value learning and growth (and not being bored) and hire diverse, well-rounded, communicative people we can envision being friends with and trusting.  Here are our Engineering principles: <a href='https://github.com/envoy/Engineering/blob/master/principles.md' rel='nofollow'>https://github.com/envoy/Engineering/blob/master/principles....</a></p><p>You can get more info on our jobs page <a href='https://envoy.com/jobs/' rel='nofollow'>https://envoy.com/jobs/</a> Or just apply to <a href='https://goo.gl/GEy3JE' rel='nofollow'>https://goo.gl/GEy3JE</a> and we’ll make sure to get back to you.</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Ya1DUblGSveZAFZ6p01BcA",
+    "url": "https://news.ycombinator.com/item?id=18114976",
+    "title": "LitCharts | Full Stack Developer | Full-time | Remote Only (USA) | https://www.litcharts.com",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:haml/ruby/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=17, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=14}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 7:47:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>LitCharts | Full Stack Developer | Full-time | Remote Only (USA) | <a href='https://www.litcharts.com' rel='nofollow'>https://www.litcharts.com</a><p>Come help improve literature education with LitCharts! LitCharts provides high quality literature guides, analysis, and related literary tools and resources. Over two million students, teachers, and general interest readers use the LitCharts website and mobile apps every month.</p><p>We are looking for a full-time Full Stack Developer to work on all aspects of the site, both front- and back-end. Must be proficient with Ruby and Ruby on Rails, Javascript and jQuery, AWS and S3, Haml, SCSS, and working remotely.</p><p>We’re a small team, and the code you write will have a direct impact on our success as well as reach millions of users. You can work from home or anywhere. We work flexible hours but typically stick to 9am-5pm EST and are looking for someone able to do the same. All applicants must also be legally authorized to work in the United States.</p><p>Please email your resume, Github profile, samples of your code/work, or anything else you'd like to us to know about to hiring@litcharts.com to apply. Thanks for reading!</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "D4mU9CWtQs2yqxOG_wogRw",
     "url": "https://news.ycombinator.com/item?id=18114344",
     "title": "TrueCar | Santa Monica, CA | ONSITE or REMOTE | Full-Time | https://truecar.com",
@@ -193,6 +716,61 @@
     "published": "Oct 1, 2018 3:38:52 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "content": " <p>We’re looking for strong software engineers who want to work on a topic that matters to everyone: money.</p><p>Following a <a href='https://techcrunch.com/2018/09/20/cleo-meet-balderton/' rel='nofollow'>$10million Series A </a>funding round, and as Cleo grows rapidly towards a million worldwide users, the problems we’re trying to solve get more complex. Budgeting, savings, and long-term money plans all require a smart, customer-centric approach to AI. That’s why we need you to join our fast scaling team.</p><p><strong>What you’ll be doing:</strong></p><p>Projects are undertaken over 2-week long sprints with sprint goals aligned to overall quarterly targets.</p><p>Some of our current interests lie in:</p><ul><li><strong>Machine learning:</strong> we have a wealth of user transaction data that we are leveraging, using ML techniques, to provide better insights to our users.</li><li><strong>Scaling to a million users:</strong> we need to ensure that our tech stack can support our ambitious growth targets over the next 12 months. We are working on optimising our rails application for performance and memory usage, and scaling our database.</li><li><strong>Product:</strong> working on a chatbot used by hundreds of thousands of people offers unique challenges and opportunities compared to your standard web application. We’re constantly iterating based on user feedback to provide the best experience to our users.</li></ul><p><strong>Our Stack:</strong></p><ul><li>Ruby on Rails</li><li>Minitest</li><li>Sidekiq</li><li>React</li><li>Postgres</li><li>Redis</li><li>Heroku</li><li>Github</li><li>CircleCI</li></ul>  <p><strong>About you:</strong></p><p>You;</p><ul><li>are a Ruby developer&nbsp;</li><li>can reduce complex problems to simple solutions consistently.</li><li>enjoy making those around you better engineers.</li><li>are excited by what we're building at Cleo; you are product-focused and care about making our users’ lives better.</li></ul><p>Advantageous, but not essential;</p><ul><li>Experience with React</li><li>Experience scaling platforms growing at pace (Postgres / Rails)</li></ul><p><strong>Our process:</strong></p><ol><li>Quick phone call with a member of our engineering team to find out more about your experience and why you want to work at Cleo.</li><li>Short take-home test.</li><li>Onsite interview:</li><ol><li>Technical discussion with a senior engineer</li><li>Pairing on an interesting problem</li><li>Meet the CEO/COO</li></ol></ol><p><b>Benefits:</b></p><ul><li>25 days holiday a year. We want you fresh and fully charged.</li><li>Flexible working/ working from home when you need to.</li><li>Choose your own gear, ask for the tools you need, and we'll seek them out for you.</li><li>A lovely loft office, only a stone's throw from Old Street station.</li><li>Cleo socials and red-wine filled retros every week.</li><li>Fresh fruit deliveries, only the best coffee, and other snack-based perks.</li><li>Annual team offsite.</li><li>Weekly lunch-and-learns, as part of a general learning culture. Plenty of books on hand.</li></ul><p><strong>We are an equal opportunity employer and value diversity.</strong></p> ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ZQ919QRhQJmJt1dRG6rJ4g",
+    "url": "https://cjl.ist/2DLu5Rb",
+    "title": "Blockchain Developer",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=5, c=15, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=12, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 2:32:24 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Blockchain Developer</h2>   Location:    Remote    Remote  <div>  Role and job type:  Engineering Full-time </div> <div>  <h3>Job Description</h3>  <p>THE ROLE:</p>  <ul>   <li>Full lifecycle software development</li>   <li>Integrate software components into functional software system</li>   <li>Install solutions by determining and designing system specifications, standards, and programming<br>-Design, code and debug applications in various software languages. </li>   <li>Support, maintain technical documentation </li>   <li>Develop software verification plans</li>   <li>Evaluate and identify new technologies for implementation</li>  </ul>  <p>EXPERIENCE:</p>  <ul>   <li>Ability to develop backend software in C, Python C++, C#, Java or Ruby </li>   <li>Advanced skills in software engineering tools</li>   <li>Experience in developing web apps</li>   <li>Strong organizational and time management skills </li>   <li>BS degree in Computer Science, Engineering or equivalent.</li>   <li>Experience as a Software Engineer for at least 1-2 years</li>  </ul>  <p>Skills<br>Python, Ruby on Rails, Solidity</p>  <p>Compensation<br>Company tokens and cash bonuses</p>  <h4>Salary range</h4>  <p>48-60k</p> </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

@@ -1,6 +1,609 @@
 {
  "items": [
   {
+    "id": "xrT3YdqITWCGD4JoIzEFag",
+    "url": "https://remote.co/job/software-engineer-infrastructure/",
+    "title": "Software Engineer, Infrastructure",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:distributed-database/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=8, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Wistia",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2018 6:03:45 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Software Engineer, Infrastructure at <span>Wistia</span></h2><div><span><i></i> Remote</span>        </div><div>            <p>at Wistia<br>Cambridge</p><p>At Wistia we believe that every person in every business will use video to communicate every day, for asynchronous as well as live communication. It will feel as fluid and natural as it does to text or call someone today, but even more personal and human .</p><p>This reality is still a way off, but we’re super excited to start building it now through simple and delightful video-focused products.</p><p>To help us get there, we’re looking for a Software Engineer of Infrastructure who is excited to help our engineering teams solve challenging problems.</p><p><strong>As an infrastructure software engineer at Wistia, you can expect to lead projects such as the following.</strong></p><ul><li>Improve our in-house deployment platform by having it expose access to new Kubernetes options or more effectively use Kubernetes primitives, or finding ways to make our Jenkins-based CI system more pleasant to use for other engineers</li><li>Gather feedback from colleagues to identify workflow frictions or architectural problems across our codebases and advise and assist with improvements, such as by measuring the current load of different pieces of a system, identifying problem libraries or other system components and suggesting a solution or vetting a replacement, or planning out the steps of a complex refactoring across services.</li><li>Make a manual infrastructure operation more automatic or declarative, e.g. by building a tool to sync our DNS zones from a source-controlled config file or by writing a bot to show us output in new infrastructure pull requests</li><li>Advise our application development teams on how best to architect a new feature, including evaluating a datastore for a particular new workload, designing data flows to keep app containers stateless, deciding how to best employ AWS primitives, and identifying and avoiding single points of failure</li><li>Improve observability across our Rails and Elixir codebases and Linux hosts via logging and instrumentation, identify performance bottlenecks across systems, and recommend configuration or application design improvements to handle growing system scale</li><li>Update our Chef recipes to be compatible with new software versions or to apply security patches, bake the updates into new VM images, and roll out new images to all our clusters</li></ul><p>We are looking for someone who is excited to support our engineering colleagues on other teams and flexible enough to work at any level of our stack. We won’t expect you to know all the tools we use on your first day, as long as you’re eager to learn and you thrive working collaboratively. We’re a small team, so we will also value experiences and skillsets that complement our existing strengths.</p><p><strong>Here are some qualities we look for in Wistia engineers, and why we feel they’re so important:</strong></p><ul><li>Learn continuously. We’re constantly faced with the unknown at Wistia. We won’t expect you to have an answer ready for every question, but we value the ability to quickly learn new technologies as you go.</li><li>Collaborate often. Whether through pair programming, a whiteboard session, or a casual lunch conversation, collaboration helps the best ideas and practices to proliferate.</li><li>Communicate effectively. Our work routinely affects our customers, their viewers, and other Wistians. Whether gathering feedback on a design proposal, updating colleagues on a project’s progress, pairing on a tough problem, or writing documentation, it is critical our communication be clear and concise to reach a shared vision.</li><li>Show empathy for colleagues. We value our colleagues more than our code. Being respectful, leaving space for others, and trying to understand someone else’s perspective instead of just defending your own are all critical to maintaining a team where everyone can feel included and empowered to do their best work.</li><li>Write clean and understandable code. We write code for each other and for our future selves. Code that is clear and tested sets us up for speed, reliability, and a more enjoyable development experience.</li><li>Navigate complex trade-offs. Most hard decisions involve trade-offs. Do we want our distributed database to be more consistent, or more available? Should we use a hosted product that will save us time now, but force us to move to a new system in a year? These are regular conversations!</li><li>Think for yourself. We hire people because we value their unique thoughts, insights and experiences. These things matter a great deal more to us than conventional wisdom or herd mentalities in technical communities.</li><li>Strive for simplicity<strong>.</strong>&nbsp;Blaise Pascal once wrote, “I’m sorry I wrote you such a long letter; I didn’t have time to write a short one.” Making things simple and elegant is deceptively difficult, but it’s worth the effort because the result is easier to understand and work with.</li></ul><p>We’re profitable, growing, and independent of venture funding, so we have the luxury of being able to invest in whatever will best serve the long-term value of the company. We know the biggest investment we can make is in our employees, so we provide:</p><ul><li>A competitive salary</li><li>401k with 3% company contribution, regardless of whether you make contributions</li><li><strong>Flexible hours</strong></li><li>Fully paid healthcare, dental and vision coverage for you and your family and a healthcare FSA</li><li>Up to 12 weeks paid family leave</li><li>Untracked vacation and sick leave (most employees take about four weeks of vacation)</li><li>Transportation subsidies</li><li>Financial support for continuing education, professional development and sponsorship for conferences</li><li>A convenient office just south of Central Square in Cambridge, MA. We’re right on the Red Line, surrounded by great restaurants, parks, and even a dog park.</li></ul><p>We are working hard to make Wistia an inclusive and diverse place where everyone feels happy, fulfilled, respected, comfortable, and welcome. We want you to have fun here! Come join us and let’s build really cool things together.</p><p><strong>This role is open to local candidates based out of our Cambridge, MA office or remote candidates authorized to work in the US</strong>.&nbsp;<strong>Remote candidates must have prior experience working successfully on a distributed team, as the role is for a fully distributed team within our mixed remote &amp; in-office Engineering department.</strong></p><p>If you would like to apply, please link or upload any resources that will help us understand your background and your strengths.</p>        </div><div>        <a href='https://boards.greenhouse.io/wistia/jobs/1323870' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "FHrnHqgUTH63bOnfw-yYWg",
+    "url": "https://news.ycombinator.com/item?id=18122818",
+    "title": "Leap Motion | San Francisco | Full-Time | ONSITE or REMOTE",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=18, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2018 5:58:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Leap Motion | San Francisco | Full-Time | ONSITE or REMOTE<p>Leap Motion is seeking junior and senior engineers with experience in areas such as hardware, systems engineering, software engineering, machine learning, computer vision, cloud infrustructure, data engineering and graphics / game development.</p><p>Interested? Feel free to reach out directly at dholz at leapmotion.com</p><p>Background &amp; More Information:</p><p>Leap is a world leader in natural user interfaces for Virtual and Augmented Reality.</p><p>We're known best for our cutting edge markerless hand tracking technology:</p><p>Video here: <a href='https://www.youtube.com/watch?v=oZ_53T2jBGg' rel='nofollow'>https://www.youtube.com/watch?v=oZ_53T2jBGg</a></p><p>And also most recently an open source Augmented Reality platform called North Star:</p><p>Announcement post: <a href='http://blog.leapmotion.com/northstar/' rel='nofollow'>http://blog.leapmotion.com/northstar/</a></p><p>Technical deep dive: <a href='http://blog.leapmotion.com/our-journey-to-the-north-star/' rel='nofollow'>http://blog.leapmotion.com/our-journey-to-the-north-star/</a></p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "-na_8ULSRtSmnZIUbPezNw",
+    "url": "https://cjl.ist/2zLE9Wm",
+    "title": "JavaScript Engineer",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:distributed-database/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/4",
+      "DBG_TECH1:k/t/w:javascript/nodejs/4",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=17, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=4}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "€",
+      "minValue": 60000,
+      "maxValue": 100000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2018 9:53:57 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>JavaScript Engineer</h2>   Location:    Remote    Remote  <div>  Role and job type: Full-time </div> <div>  <h3>Job Description</h3>  <p>We are looking for a skilled JavaScript Engineer to work on <a href='https://github.com/orbitdb/orbit-db' rel='nofollow'>OrbitDB</a>, an open-source peer-to-peer database, and its ecosystem of modules and applications.</p>  <p><strong>Responsibilities</strong></p>  <ul>   <li>Develop new features and maintain existing code for <a href='https://github.com/orbitdb/orbit-db' rel='nofollow'>OrbitDB</a> and its modules</li>   <li>Develop new tools and applications that help users to better use <a href='https://github.com/orbitdb/orbit-db' rel='nofollow'>OrbitDB</a></li>   <li>Improve the code, tooling and documentation for <a href='https://github.com/orbitdb/orbit-db' rel='nofollow'>OrbitDB</a></li>   <li>Build a welcoming open source community by participating in discussions and helping others</li>  </ul>  <p><strong>Expectations</strong></p>  <ul>   <li>3+ years of JavaScript development experience (Node.js and/or browsers)</li>   <li>Understanding of peer-to-peer paradigms</li>  </ul>  <p><strong>Nice to have</strong></p>  <ul>   <li>Understanding of modern database internals, data modeling, and distributed databases</li>   <li>Engineering experience with distributed databases, systems and networks</li>   <li>Experience developing decentralized applications</li>   <li>Experience with IPFS and <a href='https://github.com/orbitdb/orbit-db' rel='nofollow'>OrbitDB</a> or other peer-to-peer technologies</li>   <li>Experience and understading of smart contracts, crypto-currencies and blockchains</li>   <li>Experience in, or a desire to learn functional programming</li>   <li>Experience in open source software development</li>  </ul>  <h4>Salary range</h4>  <p>EUR 60-100k</p> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "YJyEMQiORKeeSGrM-GNrUQ",
+    "url": "https://cjl.ist/2Qonygv",
+    "title": "Database Engineer",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:distributed-database/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=8, mobile=0, go=3, nodejs=14, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "€",
+      "minValue": 60000,
+      "maxValue": 100000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2018 9:47:40 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h2>Database Engineer</h2>   Location:    Remote    Remote  <div>  Role and job type: Full-time </div> <div>  <h3>Job Description</h3>  <p>We are looking for a skilled Database Engineer to work on our database protocols and peer-to-peer database implementations.</p>  <p><strong>Responsibilities</strong></p>  <ul>   <li>Develop and design a reference implementation for the database protocol</li>   <li>Develop new tools to integrate native databases to networks using the protocol</li>   <li>Improve and optimize the protocol, its implementation and documentation for better developer experience</li>   <li>Build a welcoming open source community by participating in discussions and helping others</li>  </ul>  <p><strong>Expectations</strong></p>  <ul>   <li>3+ years of experience working with distributed databases</li>   <li>3+ years of system programming experience in a non-managed language (Rust, Go, C++ etc).</li>   <li>Understanding of modern database internals, data modeling, and distributed databases</li>  </ul>  <p><strong>Nice to have</strong></p>  <ul>   <li>Engineering experience with distributed databases, systems and networks</li>   <li>Experience with IPFS and <a href='https://github.com/orbitdb/orbit-db' rel='nofollow'>OrbitDB</a> or other peer-to-peer technologies</li>   <li>Experience and understanding of smart contracts, crypto-currencies, and blockchains</li>   <li>Experience with JavaScript and Node.js</li>   <li>Experience in, or a desire to learn functional programming</li>   <li>Experience in open source software development</li>  </ul>  <h4>Salary range</h4>  <p>EUR 60-100k</p> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "l3rKBRZ0RIuRpFjCWhnTOQ",
+    "url": "https://whereverjobs.com/listing/4236/machine-learning-information-engineer-equity",
+    "title": "Machine Learning Information Engineer (Equity)",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/6",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:matlab/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=8, mobile=1, go=0, nodejs=0, bigdata-ml=38, ruby=0, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Elastic",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2018 4:32:23 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<h3>Machine Learning Information Engineer (Equity)</h3><div>Company: Elastic<br><br></div><div>                                <h2>Job description</h2>                <div><p><strong>Information Engineer</strong></p><p>At Elastic, we have a simple goal: to solve the world's data problems with products that delight and inspire. As the company behind the popular open source projects — Elasticsearch, Kibana, Logstash, and Beats — we help people around the world do great things with their data. From stock quotes to real time Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots. The Elastic family unites employees across 30+ countries into one coherent team, while the broader community spans across over 100 countries.</p><p><strong><strong>Machine Learning at Elastic </strong></strong></p><p>Machine Learning (ML) for the Elastic Stack allows users to better understand the behavior of their data. We have developed an unsupervised machine learning engine that can plow through large amounts of data and automatically find those insights our users today have been proactively finding using search. Current use cases include finding anomalies within transactions / operational metrics, detecting uncharacteristic user behavior or finding malicious devices.</p><p>To help us further expand our capabilities we are looking fo an exceptional individual who can support us in our insatiable appetite for data. This is an amazing opportunity to join a small, highly experienced team where you can make an immediate impact and contribution to the development of our new machine learning offerings.</p><p><strong><strong>What you will be doing</strong></strong></p><p>To support data driven development of engineering features by becoming a super-user of our ML tool set, by making meaningful data accessible to engineers and in helping to maintain and improve the quality of results. Responsibilities will include:</p><ul><li>Curate and extend data library - develop, acquire and catalog datasets representative of core customer use cases</li><li>Perform data analysis on complex datasets and clearly describe and communicate findings to peers</li><li>Develop ML job configs for known uses cases</li><li>Develop standardized labeling techniques for datasets in our catalog. For example, known outliers or anomalies (unsupervised), or output labels (supervised).</li><li>Build statistical robustness tests for machine learning models against an ever growing data catalog</li><li>Follow GDPR policies, security and data license requirements where applicable</li></ul><p><strong><strong>Your background</strong></strong></p><ul><li>Highly numerate with education background in Mathematics, Computer Science, Information/Library science, Physics, Engineering or similar</li><li>Solid industry experience working with data; for example as a data analyst, software-, QA engineer or similar</li></ul><p><strong><strong>What you will bring</strong></strong></p><ul><li>A proven ability to work with large amounts of data (at least 2 years)</li><li>Able to work as part of a distributed team, having strong collaboration and communication skills</li><li>Detail oriented with a librarian-like approach to organization</li><li>Able to analyse real-world datasets and extract insights according to customer use case</li><li>Knowledge, interest and a real passion for topics in big data, machine learning, data mining and statistical analysis</li></ul><p><strong><strong>Experience required in some or all of these areas</strong></strong></p><ul><li>Software engineering (Python, Java, C++)</li><li>Statistical packages and tools (e.g. R, SAS, Octave, MATLAB etc)</li><li>Visualization technologies</li><li>NoSQL or relational databases</li></ul><p><strong>Additional Information:&nbsp;</strong></p><p>We're looking to hire team members invested in realizing the goal of making real-time data exploration easy and available to anyone. As a distributed company, we believe that diversity drives our vibe! Whether you're looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life.</p><ul><li>Competitive pay based on the work you do here and not your previous salary</li><li>Stock options</li><li>Global minimum of 16 weeks of paid in full parental leave (moms &amp; dads)</li><li>Generous vacation time and one week of volunteer time off</li><li>Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.</li></ul><p>#LI-MD1</p><p>Elastic is an Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees. Applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.</p>                </div>            </div><div>How to apply:<br><a href='https://grnh.se/f6f6d71b1' rel='nofollow'>grnh.se/f6f6d71b1</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Z8gIP-iRRh6vDJF6rj48bw",
+    "url": "https://remote.com/jobs/browse/preview/community-engagement-lead",
+    "title": "Community Engagement Lead",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c/c/10",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=10, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/c",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "The Carpentries",
+      "sameAs": "https://carpentries.org/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2018 12:53:18 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "JOB TYPE: Full time<br /><br />EXPERIENCE: intermediate<br /><br />COMPANY: The Carpentries; 10-50 employees; 75-100% remote;<br /><br />SKILLS:<br />• Social Media<br />• Community Building<br />• Community Engagement<br />• Writing<br />• Communications<br />• Community Organizing<br />• Blogging<br /><br />The Carpentries is an open global community teaching the skills and perspectives to turn data into knowledge. We build capacity in essential data and computational skills for conducting efficient, open, and reproducible research. Through our mission, we are committed to “training and fostering an active, inclusive, diverse community of learners and instructors who promote and model the importance of software and data in research.” We believe in a world where more people have the computational skills and perspectives to work with data to address their questions in science, scholarship and society. We aim to build that world by scaling evidence-based teaching, creating inclusive environments, and building communities of practice based on open principles.<br /><br />We seek an engaged and collaborative individual who shares this vision for a full-time position as the Community Engagement Lead of The Carpentries. You’ll be part of a diverse team of professionals working to spread data-driven research skills. Our community comprises 35,000 learners, 1,500 instructors, 70 Trainers, and 75 member organizations from research institutions around the world. The Community Engagement Lead has a broad responsibility for developing and supporting global and local Carpentry communities and creating pathways for participation and increased communication.<br /><br />As Community Engagement Lead, you will model and promote our commitment to equity, diversity and inclusion. You will engage and influence our volunteer community through effective communication, transparency, and collaborative leadership. The Community Engagement Lead will be key in developing and evaluating strategies and support for local community leaders and Carpentries Champions, supporting ongoing global communities and promoting effective communication strategies. You will disseminate updates about our projects and activities to diverse communities via blog posts, Twitter, and related outlets and engage with the community on discussion forums and through meetings. Additionally you will facilitate connections between The Carpentries and the broader open-science / open-source community. You will work with researchers, learners, instructors, and member organizations around the world to advance our mission.<br /><br />Your qualifications:<br />This posting is intentionally broad. We are not expecting experience with all components of the position. We are looking for someone with skills and perspectives that complement our existing team and an enthusiasm for the role and the goals and approaches of our organization.<br /><br />Required:<br /><br />Demonstrated leadership experience in professional or volunteer settings<br />Some evidence of community building efforts<br />Excellent communication skills<br />Customer-service orientation<br />Ability to work with minimal supervision<br />Excellent time management skills<br />Able to work virtually with a distributed team<br />Demonstrated experience with social media and/or blogging<br />Familiarity with the open-science, open-source community<br />Passion for sharing digital research skills<br /><br />Preferred:<br /><br />Experience with The Carpentries<br />Understanding of non-profits and their communications needs<br />Experience working with a volunteer community<br />Experience teaching technical workshops<br />Project management skills<br />Knowledge of web analytics for evaluating communication approaches<br />Experience or knowledge of human-centered design and accessibility<br />Familiarity with one or more of the following: Git, GitHub, R, Python, SQL<br /><br />This is a remote position and will be paid by our 501(c)3 fiscal sponsor, Community Initiatives. Compensation will be negotiated commensurate with experience. The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. All qualified applicants will receive consideration for employment without regard to gender identity and expression, sexual orientation, disability, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, religion or belief, age, education, or socio-economic status. We encourage all qualified individuals to apply.<br /><br />About Us<br />We’re a staff team of ten, with a nine person Executive Council. We’re a fiscally sponsored project of the 501(c)3 Community Initiatives. We have a large community of instructors and contributors, and a much larger community of users. We use evidence based teaching practices to teach the core skills for effective computational and data work, and we promote reproducible research and open science/open source widely.<br /><br />To Apply<br />Please submit a cover letter and resume or CV to jobs@carpentries.org.<br />Application review will begin October 18 UTC 06:00. This position will remain open until filled.",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "NJ1KfSwJTpSZ1CuuCCzG_g",
+    "url": "https://news.ycombinator.com/item?id=18116056",
+    "title": "Seeq (https://seeq.com) | Software Engineer | 100% Remote",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:time-series/bigdata-ml/5",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=15, ruby=0, apple=0, java=15, gamedev=0, php=0, embedded=0, frontend=14}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 9:40:07 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Seeq (<a href='https://seeq.com' rel='nofollow'>https://seeq.com</a>) | Software Engineer | 100% Remote<p>Seeq makes data analytics software for a big market that’s often overlooked by tech companies: industrial process data. Think pharmaceutical manufacturers, wind farms, and energy companies with tons of equipment and sensors. Our software engineers tackle hard problems in streaming calculation, storage and distributed computing, and we create elegant HTML5 data visualizations with smooth interactivity.</p><p>Our company is 100% remote and proud of it. You can work anywhere in the US (we're staying in compatible timezones for now). We use a variety of collaboration tools, like Zoom and Slack, which makes us feel like we’re in the same building together. We have a stacked team of kind-hearted, talented engineers that love to collaborate, teach each other new tricks, and build products that far exceed our customers’ expectations.</p><p>Our technology stack is largely Java / JVM languages on the backend and TypeScript / Angular on the frontend. The core of our product is a full-featured calculation engine that can perform complex math and execute machine learning algorithms on streaming time series data.</p><p>To apply, see <a href='https://www.seeq.com/about/careers#op-18609-full-stack-engineer' rel='nofollow'>https://www.seeq.com/about/careers#op-18609-full-stack-engin...</a> and feel free to contact me with any questions.</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "pqZUsWtgT1OIDUYtOui42w",
+    "url": "https://news.ycombinator.com/item?id=18115943",
+    "title": "Exclamation Labs | Cumberland, MD | REMOTE | Business Data Analyst | https://www.exclamationlabs.com/jobs We are ...",
+    "tags": [
+      "DBG:surround``remot 2W work W experi",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 9:26:12 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Exclamation Labs | Cumberland, MD | REMOTE | Business Data Analyst | <a href='https://www.exclamationlabs.com/jobs' rel='nofollow'>https://www.exclamationlabs.com/jobs</a><p>We are looking for a Web Analyst to join our team at Exclamation Labs! This position requires an experienced professional that excels in developing digital strategy and solutions to meet corporate business objectives. Daily work will include a blend of planning, data analysis, and application of critical-thinking skills to help solve business needs. The ideal candidate for a Web Analyst is one who can manage data to proactively gather insights for optimization opportunities, and then present and execute those recommendations.</p><p>While preference will be given to individuals willing to work in our Cumberland, MD office, the opportunity for remote work is available for exceptional candidates with prior remote work experience.</p><p>[Apply here with a resume and references.](<a href='https://exclamationlabs.recruitee.com/o/web-analyst' rel='nofollow'>https://exclamationlabs.recruitee.com/o/web-analyst</a>)</p><p>Exceptional candidates who do not meet all of the above criteria may be considered for the role, provided they have the necessary skills and experience. Salary will be commensurate based on experience.</p><p>[Our other open positions are available here:](<a href='https://www.exclamationlabs.com/jobs' rel='nofollow'>https://www.exclamationlabs.com/jobs</a>)</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "2IZAide-QDCh4H0wlQIL4Q",
+    "url": "https://news.ycombinator.com/item?id=18115481",
+    "title": "OnSpecta | Palo Alto & San Francisco, CA | Software Engineer, Research Engineer | Remote | Visa",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:arm/embedded/8",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=8, mobile=0, go=0, nodejs=0, bigdata-ml=28, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 8:36:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>OnSpecta | Palo Alto &amp; San Francisco, CA | Software Engineer, Research Engineer | Remote | Visa<p>OnSpecta is an early-stage startup founded by successful serial entrepreneurs and deep learning experts, and was born out of MIT’s neuroscience lab. We offer a Deep Learning Server (DLS) which increases the performance of deep learning computations on Intel and ARM CPUs, GPUs and ASICs etc. We're a small team (&lt;10), so you'll have a huge opportunity to make a difference.</p><p>We are looking for talented software engineers to work directly with our technical founders (CTO &amp; Chief Scientist). If you have experience in C++ and are interested in working on cutting-edge AI/ML infrastructure tech, please reach out to us. See more at <a href='http://onspecta.com/careers.html' rel='nofollow'>http://onspecta.com/careers.html</a></p><p>Please reach out to hiring@onspecta.com</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "LEV1woi4SGWOo40u67kgcA",
+    "url": "https://news.ycombinator.com/item?id=18115474",
+    "title": "Remine|Washington, DC|Remote, Onsite, Full-Time|wwww.Remine.com",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=8, mobile=1, go=0, nodejs=2, bigdata-ml=8, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/c",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 8:35:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Remine|Washington, DC|Remote, Onsite, Full-Time|wwww.Remine.com<p>Remine is looking for Senior Engineers to contribute to our platform and awesome culture.</p><p>We build products for both web and mobile to deliver visualizations and search capabilities for real estate agents all around the US.</p><p>As a Senior Full Stack Developer, you architect the interfaces that our engineers will use to solve large data problems. Partnership with the product teams, front-end team, and data science team means you're in the center of all of the development and critical to the success of our platform.</p><p>Job Requirements:</p><p>- Strong science or engineering background, preferably in Computer Science,Software Engineering, or Information Technology- Familiarity with data structures cloud systems, front-end frameworks, and other tools.- Proficiency with programming languages such as Javascript, Java, C++, Python, JavaScript, or similar languages.- Worked with cloud systems such as AWS, GCP, or Azure- Worked with large scale data sets, using databases such as Postgres, MySQL- Experience building large scale applications with reusability- Familiarity with build systems, Github/Gitlab, Confluence, JIRA- Ability to work effectively in teams of technical and non-technical people.- Ability to work independently and effectively</p><p>apply here: <a href='https://boards.greenhouse.io/remine' rel='nofollow'>https://boards.greenhouse.io/remine</a></p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "258m7kU7QDGPzPXsSelz3A",
+    "url": "https://news.ycombinator.com/item?id=18114521",
+    "title": "Loxo | Full Stack Engineer | Denver / Boulder, CO | ONSITE or REMOTE | Full-time | $70K-$150K + Equity",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "$",
+      "minValue": 70000,
+      "maxValue": 150000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 7:02:07 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>Loxo | Full Stack Engineer | Denver / Boulder, CO | ONSITE or REMOTE | Full-time | $70K-$150K + Equity<p>Loxo is the next generation hiring platform.</p><p>Executive search firms, staffing agencies, and other recruiting teams use Loxo to find the right talent, anywhere in the world. We are working on becoming a data-first recruiting platform by using machine intelligence to help empower recruiters to sift through millions of candidates (Loxo AI) with the most up to date information (Loxo Connect).</p><p>If helping people reach their fullest potential by empowering recruiters to look through the true pool of talent interests you, please email sebastian@loxo.co</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "lOpgHajuS1ScqvEqDBzKLw",
+    "url": "https://news.ycombinator.com/item?id=18114365",
+    "title": "IPInfo | Senior Software or Data Engineer / PM | Remote (or Seattle)",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2018 6:46:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "content": "<span>IPInfo | Senior Software or Data Engineer / PM | Remote (or Seattle)<p>I started <a href='https://ipinfo.io' rel='nofollow'>https://ipinfo.io</a> as a small side project a few years ago, and it has since grown to now handling over 12 billion API requests a month, we have thousands of customers, and we're used by hundreds of thousands of developers. See <a href='https://ipinfo.io/about' rel='nofollow'>https://ipinfo.io/about</a> for some more details, or read this interview I did a couple of years ago that has some of the backstory: <a href='https://getputpost.co/from-side-project-to-250-million-daily..' rel='nofollow'>https://getputpost.co/from-side-project-to-250-million-daily...</a>.</p><p>I've recently started expanding the team, and I'm looking for more people with an interest in what we're doing to join the team, part-time or full-time. If you're interested I'd love to chat. Shoot me a mail at ben@ipinfo.io</p></span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "PAen3dqmScWX8CdalrarLA",
     "url": "https://news.ycombinator.com/item?id=18114274",
     "title": "Scientist | Software Engineer & Data Scientist | San Diego | Full-time | REMOTE | https://scientist.com",
