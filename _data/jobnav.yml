@@ -6,7 +6,8 @@
   col: 1
   subnodes:
 
-    - title: Remote frontend (JavaScript) jobs
+    - !jobnav
+      title: Remote frontend (JavaScript) jobs
       home_title: Frontend (JavaScript) jobs
       tagline: HTML, JavaScript, code running in browser (AngularJS, React and similar JS frameworks)
       img: 'fa fa-2x pull-left fa-javascript'
@@ -19,7 +20,8 @@
       mailGroupDay: 10484476
       mailGroupWeek: 10484474
 
-    - title: Remote mobile (iOS, Android, Windows Phone) jobs
+    - !jobnav
+      title: Remote mobile (iOS, Android, Windows Phone) jobs
       home_title: Mobile (iOS, Android, Windows Phone) jobs
       tagline: iOS, Android and other mobile tech
       img: 'fa fa-3x pull-left fa-mobile'
@@ -31,7 +33,8 @@
       mailGroupDay: 10484478
       mailGroupWeek: 10484482
 
-    - title: Remote Java jobs
+    - !jobnav
+      title: Remote Java jobs
       home_title: Java jobs
       tagline: Backend- and Web-programming with Java and Scala (except Android and (data) science)
       img: 'fa fa-3x pull-left fa-java'
@@ -43,7 +46,8 @@
       mailGroupDay: 10487140
       mailGroupWeek: 10487142
 
-    - title: Remote (Big) Data or Machine Learning or Scientist jobs
+    - !jobnav
+      title: Remote (Big) Data or Machine Learning or Scientist jobs
       home_title: (Big)Data, Machine Learning, Scientist jobs
       tagline: Statistics, math, algorythms, neural networks, Mathlab, R programming
       img: 'fa fa-fw fa-2x pull-left fa-machine-learnin'
@@ -55,7 +59,8 @@
       mailGroupDay: 10487146
       mailGroupWeek: 10484482
 
-    - title: Remote Python jobs
+    - !jobnav
+      title: Remote Python jobs
       home_title: Python jobs
       tagline: Django, Flask, SQLAlchemy and other Python frameworks/libraries. Excludes "Python for science"
       img: 'fa fa-3x pull-left fa-python'
@@ -67,7 +72,8 @@
       mailGroupDay: 10487152
       mailGroupWeek: 10487154
 
-    - title: Remote C# and .NET jobs
+    - !jobnav
+      title: Remote C# and .NET jobs
       home_title: C# and .NET jobs
       tagline: Applications for Windows, Azure, and other Microsoft technologies (except Windows Phone)
       img: 'fa fa-fw fa-2x pull-left fa-dotnet'
@@ -79,7 +85,8 @@
       mailGroupDay: 10487178
       mailGroupWeek: 10487176
 
-    - title: Remote Ruby jobs
+    - !jobnav
+      title: Remote Ruby jobs
       home_title: Ruby jobs
       tagline: Includes Ruby on Rails and other libraries like Ruby on Rails, Sinatra, RSpec
       img: 'fa fa-3x pull-left fa-ruby'
@@ -91,7 +98,8 @@
       mailGroupDay: 10487196
       mailGroupWeek: 10487198
 
-    - title: Remote Node.js jobs
+    - !jobnav
+      title: Remote Node.js jobs
       home_title: Node.js jobs
       tagline: Includes backend JavaScript technologies like Node.js, Meteor, Express.js.
       img: 'fa fa-2x pull-left fa-node'
@@ -104,7 +112,8 @@
       mailGroupDay: 10487246
       mailGroupWeek: 10487248
 
-    - title: "Remote Go, or Golang-related jobs"
+    - !jobnav
+      title: "Remote Go, or Golang-related jobs"
       home_title: "Go, or Golang-related jobs"
       tagline: And everything related to Go programming language (Golang-Set, Gen, Gorm, Goose, Glide, Ginkgo, etc...)
       img: 'fa fa-3x pull-left fa-golang'
@@ -116,7 +125,8 @@
       mailGroupDay: 10487260
       mailGroupWeek: 10487262
 
-    - title: Remote C/C++ jobs
+    - !jobnav
+      title: Remote C/C++ jobs
       home_title: C/C++ jobs
       tagline: Using technologies like Qt, GCC, glibc, STL, Boost and Assembly language...
       img: 'fa fa-3x pull-left fa-cplusplus'
@@ -128,7 +138,8 @@
       mailGroupDay: 10487300
       mailGroupWeek: 10487302
 
-    - title: Remote PHP jobs
+    - !jobnav
+      title: Remote PHP jobs
       home_title: PHP jobs
       #img_style: 'font-weight: 400; font-size: 200%; '
       tagline: Frameworks like WordPress, Drupal, Laravel, Symfony, CodeIgniter, Zend...
@@ -141,7 +152,8 @@
       mailGroupDay: 10494936
       mailGroupWeek: 10494938
 
-    - title: Remote Apple-related jobs
+    - !jobnav
+      title: Remote Apple-related jobs
       home_title: Apple-related jobs
       tagline: Everything related to Apple (MacOS, Xcode, Cocoa Touch), not specifically mobile
       img: 'fa fa-3x pull-left fa-apple2'
@@ -153,7 +165,8 @@
       mailGroupDay: 10494924
       mailGroupWeek: 10494926
 
-    - title: Remote embedded applications/devices jobs
+    - !jobnav
+      title: Remote embedded applications/devices jobs
       home_title: Embedded applications/devices jobs
       tagline: Firmware, Microcontrollers, Arduino, Embedded Linux
       img: 'fa fa-3x pull-left fa-embedded'
@@ -165,7 +178,8 @@
       mailGroupDay: 10494948
       mailGroupWeek: 10494950
 
-    - title: Remote gamedev jobs
+    - !jobnav
+      title: Remote gamedev jobs
       home_title: Game development
       tagline: Engines like Unity, Unreal Engine, GameMaker, CryEngine, Cocos2d-x...
       img: 'fa fa-3x pull-left fa-gamedev'
@@ -177,7 +191,8 @@
       mailGroupDay: 10494982
       mailGroupWeek: 10494984
 
-    - title: "Remote jobs with other technologies"
+    - !jobnav
+      title: "Remote jobs with other technologies"
       home_title: Other technologies
       tagline: Perl, Clojure, Haskell, Perl, Clojure, Haskell, Elixir, Rust, Shell script, Lisp, Erlang, OCaml, F# ...
       img: 'fa fa-3x pull-left fa-otherlang'
@@ -198,7 +213,8 @@
   col: 2
   subnodes:
 
-    - title: Remote DevOps, Sysadmin, SRE jobs
+    - !jobnav
+      title: Remote DevOps, Sysadmin, SRE jobs
       home_title: DevOps, Sysadmin, SRE jobs
       tagline: Site Reliability Engineers, (Linux) System Engineers, Network engineers
       img: 'fa fa-3x pull-left fa-devops'
@@ -211,7 +227,8 @@
       mailGroupDay: 10495080
       mailGroupWeek: 10495084
 
-    - title: Remote QA engineer jobs
+    - !jobnav
+      title: Remote QA engineer jobs
       home_title: QA engineer jobs
       tagline: Software Quality Assurance (QA), Tester, QA Automation, SDET
       img: 'fa fa-3x pull-left fa-qa5'
@@ -223,7 +240,8 @@
       mailGroupDay: 10495130
       mailGroupWeek: 10495132
 
-    - title: Remote solution engineer (solution architect) jobs
+    - !jobnav
+      title: Remote solution engineer (solution architect) jobs
       home_title: Solution engineer (solution architect) jobs
       tagline: "Solution Engineers and Solution Architects"
       img: 'fa fa-3x pull-left fa-solution_engineer'
@@ -235,7 +253,8 @@
       mailGroupDay: 10495170
       mailGroupWeek: 10495172
 
-    - title: Remote database (RDBMS) developer and admin (DBA) jobs
+    - !jobnav
+      title: Remote database (RDBMS) developer and admin (DBA) jobs
       home_title: Database (RDBMS) developer and admin (DBA) jobs
       tagline: MySQL, PostgreSQL, Oracle, Redshift Developers and Administrators
       img: 'fa fa-3x pull-left fa-database'
@@ -247,7 +266,8 @@
       mailGroupDay: 10495204
       mailGroupWeek: 10495208
 
-    - title: Remote integration engineer jobs
+    - !jobnav
+      title: Remote integration engineer jobs
       home_title: Integration engineer jobs
       tagline: Implementation Engineers, Build Release Engineers, Automation Developers
       img: 'fa fa-3x pull-left fa-implementation-engineer'
@@ -268,7 +288,8 @@
   col: 3
   subnodes:
 
-    - title: Remote designer, graphic/video artist jobs
+    - !jobnav
+      title: Remote designer, graphic/video artist jobs
       home_title: Designer, graphic/video artist jobs
       tagline: Graphic artists, UI/UX designers, Stylists, Character artists, Background artists, 2d and 3d artists, Animators
       img: 'fa fa-3x pull-left fa-designer2'
@@ -280,7 +301,8 @@
       mailGroupDay: 10495250
       mailGroupWeek: 10495252
 
-    - title: Remote support specialist jobs
+    - !jobnav
+      title: Remote support specialist jobs
       home_title: Support specialist jobs
       tagline: Support Engineers, Customer champions, Support agents, Customer Relationship Management (CRM) Administrators, Microsoft Dynamics CRM administrators
       img: 'fa fa-3x pull-left fa-support1'
@@ -292,7 +314,8 @@
       mailGroupDay: 10495348
       mailGroupWeek: 10495350
 
-    - title: Remote (technical) writer/editor jobs
+    - !jobnav
+      title: Remote (technical) writer/editor jobs
       home_title: (technical) Writer/editor jobs
       tagline: Content editors, Copywriters, Storytellers, Communication Editors
       img: 'fa fa-3x pull-left fa-writer'
@@ -304,7 +327,8 @@
       mailGroupDay: 10495358
       mailGroupWeek: 10495360
 
-    - title: Remote marketing, product specialist, SEO jobs
+    - !jobnav
+      title: Remote marketing, product specialist, SEO jobs
       home_title: Marketing, product specialist, SEO jobs
       tagline: "Product Managers, Content Marketing specialists, Search Engine Optimization(SEO) specialists"
       img: 'fa fa-3x pull-left fa-marketing'
@@ -316,7 +340,8 @@
       mailGroupDay: 10495388
       mailGroupWeek: 10495392
 
-    - title: Remote sales jobs
+    - !jobnav
+      title: Remote sales jobs
       home_title: Sales jobs
       tagline: Sales and pre-sales specialists, Account- and Relationship Managers
       img: 'fa fa-3x pull-left fa-sales5'
@@ -328,7 +353,8 @@
       mailGroupDay: 10495988
       mailGroupWeek: 10495990
 
-    - title: Remote manager/executive jobs
+    - !jobnav
+      title: Remote manager/executive jobs
       home_title: Manager/executive jobs
       tagline: Engineering /QA managers, Line managers, Project Managers, Directors and VP
       img: 'fa fa-3x pull-left fa-manager2'
@@ -340,7 +366,8 @@
       mailGroupDay: 10496140
       mailGroupWeek: 10496142
 
-    - title: Remote recruiter/HR jobs
+    - !jobnav
+      title: Remote recruiter/HR jobs
       home_title: Recruiter/HR jobs
       tagline: and Talent Acquisition specialists
       img: 'fa fa-3x pull-left fa-hr'
