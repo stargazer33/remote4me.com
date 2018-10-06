@@ -1420,61 +1420,6 @@
       "region": "UNSET",
       "country": "UNSET"
     }
-  },
-  {
-    "id": "cq6qTV-AQDKxXoqu8WlFjw",
-    "url": "http://workinstartups.com/job-board/job/71701/perl-developer-at-adzuna/",
-    "title": "Perl Developer",
-    "tags": [
-      "DBG:surround``12N(work, OR(home,remot), 5N(OR(offic,headquart,onsit), OR(dai,daili,week,weekli,month,monthli)) )",
-      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:lucene/java/8",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/6",
-      "DBG_TECH1:k/t/w:perl/other/15",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=14, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/bigdata-ml",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "50% remote",
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "Adzuna",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "£",
-      "minValue": 30000,
-      "maxValue": 40000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 6, 2018 5:16:19 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "content": "*About us:*<br /><br />Adzuna is a job search engine that lists every job, everywhere. From launch in the UK in 2011, we now have more than 10 million visitors a month and are busy conquering the world from our office in West London. Right now, we're seeking an experienced Perl Developer to join our world class tech team in helping millions of people find better, more fulfilling jobs.<br /><br />*The role:*<br /><br />Our engineering and product teams are pivotal to Adzuna's future. It's an exciting time as we scale our existing product offering and also innovate with new tools and user experiences that 'surprise and delight' our audience, like ValueMyCV, which we're really proud of. Our infrastructure is built around industry-standard open-source tools and runs on distributed clusters, supporting 16 internationalised Adzuna websites, as well as the 'Find a job' portal that we run on behalf of the UK Government.<br /><br />Based in our great Fulham office, (or remotely) you will work with a smart team of back end, dev/ops, data science/machine learning and product specialists, overseeing all aspects of our operations, ranging from powering our international websites, aggregating classifieds from thousands of external sources, to crunching job market data to power our statistics and applying machine learning algorithms to enhance job seekers’ experience.<br /><br />At Adzuna you will work independently in a fast-moving, low-structure environment where you will have the opportunity to help shape our technical direction and processes as we grow. An appreciation of the ‘DevOps’ movement is essential as we manage and monitor the systems ourselves. Vitally, you’ll value the importance of building structured code that is fast, scalable, reliable and robust.<br /><br />The projects you will work on will include new search features, relevancy and matching algorithms, APIs and ‘big data’ analysis, reporting tools and features to enhance the job search experience on Adzuna. Our systems have been built to scale, and you will be able to demonstrate your experience in writing scalable code running in distributed environments.<br /><br />Our opportunity offers the chance to build something to be proud of, whilst becoming a part of one of the fastest growing businesses in Europe. We offer a supportive working environment, with an emphasis on team-working, mentoring and training. It's fun and fast moving. Join us!<br /><br /><br />*About you:*<br /><br />We don't like to put people in boxes, but you're likely to be able to demonstrate much of the below:<br /><br />* Experience in partnering with other developers and data scientists to improve existing systems and develop new functionality and tools<br />* Able to analyse business and technical requirements and develop solutions, taking into account variable aspects, such as performance, scalability, ease of maintenance and cost.<br />* Proven ability to help refactor existing processes and workflows to improve efficiency<br />* Experienced in interested in participating in R&D of new technology trends and tools<br />* Passion for, or ambition to, assist and mentor other members of our development team<br /><br /><br />*Technical competency and tools:*<br /><br />* 4+ years with high-volume/high-traffic applications/sites<br />* Excellent Object-Oriented Perl, preferably including Moose<br />* Strong SQL (ideally MySQL) and DBIx::Class<br />* Experience with unit and functional testing (Test::More etc.)<br />* Good experience with Unix/Linux<br />* Version control systems, ideally Git<br />* Solid understanding of application data flow and lifecycles<br />* Strong attention to detail<br /><br /><br /><br />*Useful extra skills / experience:*<br /><br />* Solr, Lucene, ElasticSearch or other search engine<br />* Templating frameworks (ideally Template Toolkit)<br />* Classified ads / vertical search websites<br />* Varnish, nginx, PSGI/Plack, Apache httpd, FastCGI<br />* Spidering technology<br />* Search technology and search engine optimisation<br />* Cloud infrastructure and tools (AWS preferred)<br />* Chef (pref), Puppet or an equivalent<br />* Gearman or other distributed queueing/messaging frameworks<br />* Unicode and internationalisation<br />* Machine learning / neural nets<br />* Python<br /><br /><br />*What we offer:*<br /><br />* £30k-£40k if remote<br />* £50-£60k if based in our London offices<br />* Stock options<br />* 25 days holiday<br />* Cycle to work scheme<br />* Childcare vouchers<br />* A positive attitude towards flexible working and parental leave<br />* A values-based culture<br />* Company contributory pension scheme<br />* Huge learning opportunity from smart, experienced colleagues<br />* Table tennis table and a program of team social events<br />* Bright, airy office with roof terrace, in the heart of bustling Fulham Broadway<br /><br /><br />*More about Adzuna:*<br /><br />Adzuna is a search engine for job ads used by over 10 million visitors per month that aims to list every job, everywhere. We search thousands of websites so our users don't have to, bringing together millions of ads in one place. By providing smarter search options and powerful data about the job market, we give jobseekers the information they need to take control of their careers.<br /><br />Adzuna.co.uk was founded in 2011 by Andrew Hunter and Doug Monro, formerly of eBay, Gumtree, Qype and Zoopla and is backed by leading Venture Capital firms Passion Capital, LocalGlobe, Index Ventures and Smedvig Capital.<br /><br />We also supply real-time data to the Number 10 Dashboard and Office for National Statistics labour market indices. In 2018, Adzuna won the contract to run ‘Find a job’, one of the British government’s most used online services.<br /><br />Adzuna’s mission is to be the best place to start looking for a job. We love using the awesome power of technology to help match people to better, more fulfilling jobs and keep Britain working.",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
   }
 ]
 }
