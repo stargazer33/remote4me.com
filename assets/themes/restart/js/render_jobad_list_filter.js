@@ -132,7 +132,7 @@ function initFirebase() {
         if (user) {
             $('#firebaseui-auth-container-wrapper').hide();
             $('#reportthisjob-modal-body').show();
-
+            markReported(user.email);
         } else {
             $('#reportthisjob-modal-body').hide();
             $('#firebaseui-auth-container-wrapper').show();
@@ -150,6 +150,26 @@ function initFirebase() {
         signInFlow: 'popup',
         // Other config options...
     });
+}
+
+function markReported(email) {
+    var db = firebase.firestore();
+    const settings = {timestampsInSnapshots: true};
+    db.settings(settings);
+    db.collection("job-remote-error").where("userEmail", "==", email)
+        .get()
+        .then(function(querySnapshot) {
+            querySnapshot.forEach(function(doc) {
+
+                console.log('render_jobad_list_filter  Line 164 doc.data().jobId: ', doc.data().jobId);
+
+                $('#' + doc.data().jobId).css('text-decoration','line-through');
+                //$('#' + doc.data().jobId + ' .abuse-btn').hide();
+            });
+        })
+        .catch(function(error) {
+            console.log("Error getting documents: ", error);
+        });
 }
 
 function initEmailSubscription() {
@@ -199,6 +219,8 @@ function postReport(type) {
         db.collection("job-remote-error").add(reportObj)
             .then(function(docRef) {
                 console.log("Document written with ID: ", docRef.id);
+                $('#' + currentJobId).css('text-decoration','line-through');
+                //$('#' + currentJobId + ' .abuse-btn').hide();
                 $('#reportthisjob-modal-success-title').html(titleCurrent);
                 $('#reportthisjob-modal-success-tag').html(reportObj.tagShould);
                 $('#reportthisjob-modal-success').modal("show");
