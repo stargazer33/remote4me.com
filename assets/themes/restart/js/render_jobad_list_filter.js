@@ -181,6 +181,7 @@ function onLoadDataFile(data){
     $.getMultiScripts(firebaseJS1).done(function() {
         console.log('initializing firebase2...');
         $.getMultiScripts(firebaseJS2).done(function() {
+            $('head').append('<link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.css"/>');
             initFirebase();
             initReportThisJob();
             console.log('initializing firebase2 done');
