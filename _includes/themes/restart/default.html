@@ -110,25 +110,33 @@
       </footer>
     </div>
 
+  <!--
   <script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery-1.12.4.min.js"></script>
   <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap.min.js" ></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/modernizr.custom.48287.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery.ui.totop.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/easing.js"></script>
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/modernizr.custom.48287.min.js"></script>
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery.ui.totop.min.js"></script>
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/easing.min.js"></script>
   <script type="text/javascript" src="{{ ASSET_PATH }}/js/wow.min.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/restart_theme.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/collapser.js"></script>
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/restart_theme.min.js"></script>
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/collapser.min.js"></script>
+  -->
+  <script type="text/javascript" src="{{ ASSET_PATH }}/js/default.js"></script>
 
   {% if thisnodes[0].datafile %}
-    <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table.js"></script>
+    <!--
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table.min.js"></script>
     <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table-en-US.min.js"></script>
-    <script type="text/javascript" src="{{ ASSET_PATH }}/js/handlebars-v4.0.11.js"></script>
-
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/handlebars-v4.0.11.min.js"></script>
+    <script type="text/javascript" src="/assets/lunr.js"></script>
     <script type="text/javascript" src="{{ ASSET_PATH }}/js/render_jobad_list_filter.js"></script>
-
+    -->
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/jobad-list.js"></script>
+    <!--
     <script type="text/javascript" src="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.js"></script>
-    <script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase.js"></script>
-
+    <script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase-app.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase-auth.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase-firestore.js"></script>
+    -->
     {% include themes/restart/page-jobad-jobdetails-handlebars.html %}
   {% endif %}
   {% include JB/analytics %}

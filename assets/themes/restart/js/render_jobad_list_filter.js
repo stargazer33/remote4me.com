@@ -26,13 +26,59 @@ var tagCurrent = null;
 // used in initReportThisJob(), postReport(): title текущего модального окна
 var titleCurrent = null;
 
+var firebaseJS = [
+    'https://www.gstatic.com/firebasejs/5.0.2/firebase-app.js',
+    'https://www.gstatic.com/firebasejs/5.0.2/firebase-auth.js',
+    'https://www.gstatic.com/firebasejs/5.0.2/firebase-firestore.js',
+    'https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.js'
+];
+
+/**
+ * alertType: alert-danger, alert-success, alert-info (blue), alert-warning (yellow)
+ * alertMessage: text/HTML to display
+ */
+function showAlert(alertType, alertMessage){
+    $('#alert-placeholder-id').html(
+        '<div class="alert '+alertType+' alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' +alertMessage+'</div>'
+    );
+}
+
+/**
+ * http://api.jquery.com/jQuery.getScript/
+ */
+jQuery.cachedScript = function( url, options ) {
+    // Allow user to set any option except for dataType, cache, and url
+    options = $.extend( options || {}, {
+        dataType: "script",
+        cache: true,
+        url: url
+    });
+    // Use $.ajax() since it is more flexible than $.getScript
+    // Return the jqXHR object so we can chain callbacks
+    return jQuery.ajax( options );
+};
+
+/**
+ * https://stackoverflow.com/questions/11803215/how-to-include-multiple-js-files-using-jquery-getscript-method
+ */
+$.getMultiScripts = function(arr, path) {
+    var _arr = $.map(arr, function(scr) {
+        return $.cachedScript( (path||"") + scr );
+    });
+
+    _arr.push($.Deferred(function( deferred ){
+        $( deferred.resolve );
+    }));
+
+    return $.when.apply($, _arr);
+}
+
 /**
  * runs when page load complete
  */
 $(document).ready(function () {
     try {
         $(".loader").show();
-
         try {
             // Send a request to get the DATA json file
             $.getJSON('/assets/data/' + dataFileName + '.json', onLoadDataFile).error(
@@ -43,12 +89,6 @@ $(document).ready(function () {
                     return;
                 }
             );
-        } catch (err) {
-            console.log(err);
-        }
-        try {
-            // Send a request to get the INDEX json file
-            $.getJSON('/assets/lunar-index/'+dataFileName+'.json', onLoadLunarIndex);
         } catch (err) {
             console.log(err);
         }
@@ -92,13 +132,57 @@ $(document).ready(function () {
         initJobSearchFilters();
         // initilize global variable detailFormatterTemplate
         detailFormatterTemplate = Handlebars.compile( document.getElementById("detailFormatter").innerHTML );
-        initReportThisJob();
-        initFirebase();
         initEmailSubscription();
     } catch (err) {
         console.log(err);
     }
 });
+
+function onLoadDataFile(data){
+    console.log('onLoadDataFile...');
+    try{
+        // Send a request to get the INDEX json file
+        $.getJSON('/assets/lunar-index/'+dataFileName+'.json', onLoadLunarIndex);
+    } catch (err) {
+        console.log(err);
+    }
+
+    json_data = data.items;
+    // duplicate json_data to json_data_original: we restore it later
+    json_data_original=json_data.slice();
+
+    // json_data initialized -> initialize mapIdToJob
+    initMapIDToJob();
+
+    isDataLoaded = true;
+    $("#checkboxWorldwide").attr('disabled', false);
+    $("#checkboxUStz").attr('disabled', false);
+    $("#checkboxEUtz").attr('disabled', false);
+    $("#checkboxASIAtz").attr('disabled', false);
+    $("#checkboxUSauth").attr('disabled', false);
+    $("#checkboxEUauth").attr('disabled', false);
+    $("#checkbox50remote").attr('disabled', false);
+
+    // we can call tableLoad ONLY when isDataLoaded == true
+    tableLoad(true);
+    enableSearchControls();
+
+    //attach rowPlusMinusClick
+    $("#table").find('>tbody').find('> tr[data-index] > td > .detail-icon').on('click', rowPlusMinusClick);
+
+    //load all firebase *.js files
+    $.getMultiScripts(firebaseJS).done(function() {
+        console.log('initializing firebase...');
+        initFirebase();
+        initReportThisJob();
+        console.log('initializing firebase done');
+    }).fail(function(error) {
+        // one or more scripts failed to load
+        console.log("Error in getMultiScripts: ", error);
+        showAlert('alert-warning', 'Error. The \'Report this job functionality\' disabled. Details: '+JSON.stringify(error));
+    })
+    console.log('onLoadDataFile done');
+}
 
 function initJobSearchFilters() {
     // Stop dropdown menu from closing (keep it open) when clicked on one of its elements
@@ -132,7 +216,7 @@ function initFirebase() {
         if (user) {
             $('#firebaseui-auth-container-wrapper').hide();
             $('#reportthisjob-modal-body').show();
-
+            loadReportedJobsFromDbAndFlagThem(user.email);
         } else {
             $('#reportthisjob-modal-body').hide();
             $('#firebaseui-auth-container-wrapper').show();
@@ -199,6 +283,8 @@ function postReport(type) {
         db.collection("job-remote-error").add(reportObj)
             .then(function(docRef) {
                 console.log("Document written with ID: ", docRef.id);
+                $('#' + currentJobId).css('text-decoration','line-through');
+                //$('#' + currentJobId + ' .abuse-btn').hide();
                 $('#reportthisjob-modal-success-title').html(titleCurrent);
                 $('#reportthisjob-modal-success-tag').html(reportObj.tagShould);
                 $('#reportthisjob-modal-success').modal("show");
@@ -211,33 +297,28 @@ function postReport(type) {
     } else {
         console.log('noauth');
     }
-
 }
 
-function onLoadDataFile(data){
-    console.log('data loaded');
-    json_data = data.items;
-    // duplicate json_data to json_data_original: we restore it later
-    json_data_original=json_data.slice();
+function loadReportedJobsFromDbAndFlagThem(email) {
+    console.log("loadReportedJobsFromDbAndFlagThem...");
+    var db = firebase.firestore();
+    var settings = {timestampsInSnapshots: true};
+    db.settings(settings);
+    db.collection("job-remote-error").where("userEmail", "==", email)
+        .get()
+        .then(function(querySnapshot) {
+            querySnapshot.forEach(function(doc) {
 
-    // json_data initialized -> initialize mapIdToJob
-    initMapIDToJob();
+                //console.log('render_jobad_list_filter  Line 164 doc.data().jobId: ', doc.data().jobId);
 
-    isDataLoaded = true;
-    $("#checkboxWorldwide").attr('disabled', false);
-    $("#checkboxUStz").attr('disabled', false);
-    $("#checkboxEUtz").attr('disabled', false);
-    $("#checkboxASIAtz").attr('disabled', false);
-    $("#checkboxUSauth").attr('disabled', false);
-    $("#checkboxEUauth").attr('disabled', false);
-    $("#checkbox50remote").attr('disabled', false);
-
-    // we can call tableLoad ONLY when isDataLoaded == true
-    tableLoad(true);
-    enableSearchControls();
-
-    //attach rowPlusMinusClick
-    $("#table").find('>tbody').find('> tr[data-index] > td > .detail-icon').on('click', rowPlusMinusClick);
+                $('#' + doc.data().jobId).css('text-decoration','line-through');
+                //$('#' + doc.data().jobId + ' .abuse-btn').hide();
+            });
+        })
+        .catch(function(error) {
+            console.log("Error getting documents: ", error);
+        });
+    console.log("loadReportedJobsFromDbAndFlagThem done");
 }
 
 function initMapIDToJob() {
@@ -257,11 +338,12 @@ function initMapIDToJob() {
  * @param data pre-built Lunar index in JSON format
  */
 function onLoadLunarIndex(data){
-    console.log('lunar index loaded: '+data);
+    console.log('onLoadLunarIndex...');
     lunarIndex=lunr.Index.load(data);
 
     isLunarIndexLoaded=true;
     enableSearchControls();
+    console.log('onLoadLunarIndex done');
 }
 
 /**
@@ -373,7 +455,7 @@ function handleJobSearchFormSubmit(event){
 
     // Find the results from lunr
     var lunarSearchResults = lunarIndex.search(query);
-    console.log('lunarSearchResults: '+lunarSearchResults);
+    //console.log('lunarSearchResults: '+lunarSearchResults);
 
 
     $("#table").hide();
@@ -743,16 +825,6 @@ function rowPlusMinusClick( eventObject) {
 }
 
 /**** email subscription ****/
-
-/**
- * alertType: alert-danger, alert-success, alert-info (blue), alert-warning (yellow)
- * alertMessage: text/HTML to display
- */
-function showAlert(alertType, alertMessage){
-    $('#alert-placeholder-id').html(
-        '<div class="alert '+alertType+' alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' +alertMessage+'</div>'
-    );
-}
 
 /**
  * Send the "new subscriber added" to mailerlite.com, report result using showAlert()
