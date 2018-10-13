@@ -55,6 +55,7 @@
 {% endif %}
 </head>
 <body class="collapsing_header">
+
   <header>
     <div class="container">
       <div class="navbar navbar-default" role="navigation">
@@ -111,35 +112,28 @@
         </section>
       </footer>
     </div>
-
-  <!--
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery-1.12.4.min.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap.min.js" ></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/modernizr.custom.48287.min.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery.ui.totop.min.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/easing.min.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/wow.min.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/restart_theme.min.js"></script>
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/collapser.min.js"></script>
-  -->
-  <script type="text/javascript" src="{{ ASSET_PATH }}/js/default.js"></script>
-
   {% if thisnodes[0].datafile %}
-    <!--
-    <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table.min.js"></script>
-    <script type="text/javascript" src="{{ ASSET_PATH }}/js/bootstrap-table-en-US.min.js"></script>
-    <script type="text/javascript" src="{{ ASSET_PATH }}/js/handlebars-v4.0.11.min.js"></script>
-    <script type="text/javascript" src="/assets/lunr.js"></script>
-    <script type="text/javascript" src="{{ ASSET_PATH }}/js/render_jobad_list_filter.js"></script>
-    -->
-    <script type="text/javascript" src="{{ ASSET_PATH }}/js/jobad-list.js" async></script>
-    <!--
-    <script type="text/javascript" src="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.js"></script>
-    <script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase-app.js"></script>
-    <script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase-auth.js"></script>
-    <script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.0.2/firebase-firestore.js"></script>
-    -->
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/jobad-list.js"></script>
+  {% else %}
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/default.js"></script>
   {% endif %}
+  <script async>
+      WebFontConfig = {
+          google: {
+              families: ['Open Sans:300,400,600,700']
+          },
+          custom: {
+              families: ['FontAwesome'],
+              urls: ['{{ ASSET_PATH }}/css/font-awesome.css']
+          }
+      };
+      (function(d) {
+          var wf = d.createElement('script'), s = d.scripts[0];
+          wf.src = '{{ ASSET_PATH }}/js/webfont.js';
+          wf.async = true;
+          s.parentNode.insertBefore(wf, s);
+      })(document);
+  </script>
   {% include JB/analytics %}
   </body>
 </html>
