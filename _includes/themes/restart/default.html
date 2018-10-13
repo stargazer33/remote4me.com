@@ -12,11 +12,15 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0" />
 <link rel="canonical" href="{{ site.production_url }}{{ page.permalink }}" />
+<!--
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,600italic,700,700italic,300italic" type="text/css">
 <link rel="stylesheet" href="{{ ASSET_PATH }}/css/animate.css" type="text/css">
 <link rel="stylesheet" href="{{ ASSET_PATH }}/css/style.css" type="text/css">
 <link rel="stylesheet" href="{{ ASSET_PATH }}/css/userstyle.css" type="text/css">
 <link rel="stylesheet" href="{{ ASSET_PATH }}/css/font-awesome.css" media="screen">
+-->
+<link rel="stylesheet" href="{{ ASSET_PATH }}/css/default.css" type="text/css" >
+
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=JykA7OeR0P">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=JykA7OeR0P">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=JykA7OeR0P">
@@ -49,7 +53,7 @@
 {% endif %}
 {% if page.style %}{{ page.style }}{% endif %}
 {% if thisnodes[0].datafile %}
-<link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.css" media="none" onload="if(media!='all')media='all'" />
 {% endif %}
 </head>
 <body class="collapsing_header">
