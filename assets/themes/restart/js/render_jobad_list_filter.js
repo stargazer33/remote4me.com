@@ -26,8 +26,14 @@ var tagCurrent = null;
 // used in initReportThisJob(), postReport(): title текущего модального окна
 var titleCurrent = null;
 
-var firebaseJS = [
-    'https://www.gstatic.com/firebasejs/5.0.2/firebase-app.js',
+/**
+ * firebase-app.js MUST be loaded before other firebase components!
+ */
+var firebaseJS1 = [
+    'https://www.gstatic.com/firebasejs/5.0.2/firebase-app.js'
+];
+
+var firebaseJS2 = [
     'https://www.gstatic.com/firebasejs/5.0.2/firebase-auth.js',
     'https://www.gstatic.com/firebasejs/5.0.2/firebase-firestore.js',
     'https://cdn.firebase.com/libs/firebaseui/2.5.1/firebaseui.js'
@@ -171,16 +177,20 @@ function onLoadDataFile(data){
     $("#table").find('>tbody').find('> tr[data-index] > td > .detail-icon').on('click', rowPlusMinusClick);
 
     //load all firebase *.js files
-    $.getMultiScripts(firebaseJS).done(function() {
-        console.log('initializing firebase...');
-        initFirebase();
-        initReportThisJob();
-        console.log('initializing firebase done');
+    console.log('initializing firebase1...');
+    $.getMultiScripts(firebaseJS1).done(function() {
+        console.log('initializing firebase2...');
+        $.getMultiScripts(firebaseJS2).done(function() {
+            initFirebase();
+            initReportThisJob();
+            console.log('initializing firebase2 done');
+        });
+        console.log('initializing firebase1 done');
     }).fail(function(error) {
         // one or more scripts failed to load
         console.log("Error in getMultiScripts: ", error);
         showAlert('alert-warning', 'Error. The \'Report this job functionality\' disabled. Details: '+JSON.stringify(error));
-    })
+    });
     console.log('onLoadDataFile done');
 }
 
