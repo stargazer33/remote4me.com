@@ -1,6 +1,4 @@
 {% include compute_thisnodes %}
-
-{% assign datafile = thisnodes[0].datafile %}
 {% assign jobadlist = site.data[datafile].items %}
 <section class="hgroup">
     <div class="container" id="filter-container">
@@ -142,12 +140,6 @@
                 Oh snap! You need JS enabled to be able to see this table!
             </div>
         </div>
-
-        <script>
-            var json_data = [];
-            var dataFileName;
-            dataFileName = '{{ datafile }}';
-        </script>
         <noscript>
             <style>
                 #table {
