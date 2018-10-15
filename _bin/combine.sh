@@ -13,7 +13,7 @@ uglifyjs --compress unused,dead_code -- $JSP/jquery-1.12.4.min.js $JSP/bootstrap
 # write $JSP/jobad-list.js
 #cat $JSP/default.js $JSP/bootstrap-table.min.js $JSP/bootstrap-table-en-US.min.js $JSP/handlebars.runtime-v4.0.12.min.js $JSP/lunr.min.js > $JSP/jobad-list.js
 #uglifyjs --compress -- $JSP/render_jobad_list_filter.js >> $JSP/jobad-list.js
-uglifyjs --compress unused,dead_code -- $JSP/default.js $JSP/bootstrap-table.min.js $JSP/bootstrap-table-en-US.min.js $JSP/handlebars.runtime-v4.0.12.min.js $JSP/lunr.js $JSP/render_jobad_list_filter.js > $JSP/jobad-list.js
+uglifyjs --compress unused,dead_code -- $JSP/bootstrap-table.min.js $JSP/bootstrap-table-en-US.min.js $JSP/handlebars.runtime-v4.0.12.min.js $JSP/lunr.js $JSP/render_jobad_list_filter.js > $JSP/jobad-list.js
 
 # write $CSP/default.css
 cleancss -O2 -o $CSP/default.css $CSP/style.css $CSP/userstyle.css
