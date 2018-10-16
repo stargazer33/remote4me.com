@@ -4,7 +4,7 @@ set -o pipefail
 set -o nounset
 
 JSP=assets/themes/restart/js
-CSP=assets/themes/restart/css
+CSP=_includes/themes/restart/assets
 
 # write $JSP/default.js
 #cat $JSP/jquery-1.12.4.min.js $JSP/bootstrap.min.js $JSP/modernizr.custom.48287.min.js $JSP/jquery.ui.totop.min.js $JSP/easing.min.js $JSP/wow.min.js $JSP/restart_theme.min.js $JSP/collapser.min.js > $JSP/default.js
