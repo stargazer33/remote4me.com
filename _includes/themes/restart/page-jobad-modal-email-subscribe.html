@@ -4,19 +4,19 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="week-maillist-name-id">Mail list "<strong>Weekly</strong> {{ thisnodes[0].title }}"</h4>
+                <h4 class="modal-title" id="week-maillist-name-id">Email list "<strong>Weekly</strong> {{ thisnodes[0].title }}"</h4>
             </div>
             <form id="form-subscribe-weekly-modal-id" class="form" method="get"
                   action="https://landing.mailerlite.com/webforms/landing/r2q9o2">
                 <div class="modal-body">
                     <p>
-                        <span class="fa fa-check" style="color: #428bca;"></span> Every Saturday there will be an email with the list of <em>Remote frontend (JavaScript) jobs</em> appeared on remote4me.com last week.
+                        <span class="fa fa-check" style="color: #428bca;"></span> Every Saturday there will be an email with the list of <em>{{ thisnodes[0].title }}</em> that appeared on remote4me.com last <strong>week</strong>.
                     </p>
                     <p>
                         <span class="fa fa-check" style="color: #428bca;"></span> Unsubscribe any time: the unsubscribe link is in every email.
                     </p>
                     <p>
-                        <span class="fa fa-check" style="color: #428bca;"></span> This mail list is to send new job ads. Not for marketing/promotional purposes.
+                        <span class="fa fa-check" style="color: #428bca;"></span> This email list sends you new job ads. Not for marketing/promotional purposes.
                     </p>
                     <br/>
                     <label for="week-input-email-id" class="col-sm-2 control-label">Email</label>
@@ -36,51 +36,54 @@
 
 <!-- "subscribe to DAILY mail list" dialog -->
 <div id="subscribe-daily-modal-id" class="modal fade subscribe-daily-modal" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="day-maillist-name-id">Mail list "<strong>Daily</strong> {{ thisnodes[0].title }}"</h4>
+                <h4 class="modal-title" id="day-maillist-name-id">Email list "<strong>Daily</strong> {{ thisnodes[0].title }}"</h4>
             </div>
-            <form id="form-subscribe-daily-modal-id" class="form" method="get"
+            <form id="form-subscribe-daily-modal-id" class="form-horizontal" method="get"
                   action="https://landing.mailerlite.com/webforms/landing/r2q9o2">
                 <div class="modal-body">
                     <div class="row">
-                        <span class="fa fa-check" style="color: #428bca;"></span> Every evening (21:00 EST) there will be an email with the list of <em>Remote frontend (JavaScript) jobs</em> appeared on remote4me.com during the day.<br/>
+                        <p>
+                        <span class="fa fa-check" style="color: #428bca;"></span> Every evening (21:00 EST) you will get an email with the list of <em>{{ thisnodes[0].title }}</em> that appeared on remote4me.com during the <strong>day</strong>.<br/>
                         <span class="fa fa-check" style="color: #428bca;"></span> Unsubscribe any time: the unsubscribe link is in every email.<br/>
-                        <span class="fa fa-check" style="color: #428bca;"></span> This mail list is to send new job ads. Not for marketing/promotional purposes.<br/>
-
-                        <div class="row">
-                            <div class="col-md-8" >
-                                <label for="day-input-email-id" class="col-sm-4 control-label" >Email:</label>
-                                <input type="email" required class="form-control" id="day-input-email-id" name="fields[email]" placeholder="you@youremail.com">
+                        <span class="fa fa-check" style="color: #428bca;"></span> This email list sends you new job ads. Not for marketing/promotional purposes.<br/>
+                        </p>
+                        <div class="form-group">
+                            <label for="day-input-email-id" class="col-sm-3 control-label" >Email:</label>
+                            <div class="col-sm-6">
+                            <input type="email" required class="form-control" id="day-input-email-id" name="fields[email]" placeholder="you@youremail.com">
                             </div>
-                        </div><!--row -->
+                        </div>
                     </div><!--row -->
-                    <p>&nbsp;</p>
                     <div class="row">
-                        <h4>A long text <s>that no one reads</s></h4>
+                        <br/>
                         <p>
-                            The Remote4me is a one-man show. I am working on adding new job boards, on improving the classifiers (the "remoteness" classifier, the "profession" classifier, the "tech stack" classifier, just to name a few). I'm adding new features (like this mail list) to this site. And I'm doing marketing for Remote4me. And marketing eats a lot of time! So IF you help me with marketing THEN I have more time to work on new features (improved "time zone" classifier, new "work authorization" classifier etc).
+                            <strong>Please help ME help YOU</strong><br/>
+                            The remote4me.com site is a one-man show. I am working on adding new job boards, as well as
+                            improving the classifiers ("remoteness", "tech stack", etc). I'm adding new features
+                            to this site (like this email list). I'm also doing marketing. It eats a lot of time!
+                            So if YOU help me with marketing, then I have more time to work on new features,
+                            such as improved "time zone" classifier, new "work authorization" classifier, and many others.<br/>
+                            This is how you can help me:<br/>
+                            <span class="fa fa-check" style="color: #428bca;"></span> Please link to this site from a prominent page on your site or blog (alternatively, post on your favorite social network or online forum, and link back to this site).<br/>
+                            <span class="fa fa-check" style="color: #428bca;"></span> <strong>Submit the link to your page/post in the field below</strong>. One link is enough.
+                            After this, you'll get email updates for as long as you wish.
                         </p>
-                        <p>
-                            How can you help with marketing for Remote4me:<br/>
-                            <span class="fa fa-check" style="color: #428bca;"></span> Please link this site from a prominent page on your site or blog.<br/>
-                            <span class="fa fa-check" style="color: #428bca;"></span> Alternatively, post on your favorite social network or online forum, and link back to this site.<br/>
-                            <strong>Share the link to your post (the field below)</strong>.
-                            One link is enough. After this, you'll get email updates for as long as you wish.
-                        </p>
-                        <div class="row">
-                            <div class="col-md-8" >
-                                <label for="inputUrl4" class="col-sm-12 control-label">A page/post/article URL:</label>
-                                <input type="url" required class="form-control" name="fields[url_promo]" id="inputUrl4" placeholder="https://social-network.com/post-url" pattern="https?://.+" size="15">
 
-                                <input type="hidden" name="groups[]" value="{{ thisnodes[0].mailGroupDay }}" checked="checked">
-                                <input type="hidden" name="ml-submit" value="1">
-                                <input type="hidden" name="ajax" value="1">
-
+                        <div class="form-group">
+                            <label for="inputUrl4" class="col-sm-3 control-label">Page/post URL:</label>
+                            <div class="col-sm-8">
+                                <input id="inputUrl4" type="url" required class="form-control" name="fields[url_promo]" placeholder="https://social-network.com/post-url" pattern="https?://.+" size="15">
                             </div>
-                        </div><!--row -->
+                        </div>
+                        <input type="hidden" name="groups[]" value="{{ thisnodes[0].mailGroupDay }}" checked="checked">
+                        <input type="hidden" name="ml-submit" value="1">
+                        <input type="hidden" name="ajax" value="1">
+
+                        Thank you for helping me make remote4me.com even more useful!
                     </div><!--row -->
                 </div><!--modal body -->
                 <div class="modal-footer">
