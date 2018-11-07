@@ -9,22 +9,29 @@
             <form id="form-subscribe-weekly-modal-id" class="form" method="get"
                   action="https://landing.mailerlite.com/webforms/landing/r2q9o2">
                 <div class="modal-body">
-                    <p>
-                        <span class="fa fa-check" style="color: #428bca;"></span> Every Saturday there will be an email with the list of <em>{{ thisnodes[0].title }}</em> that appeared on remote4me.com last <strong>week</strong>.
-                    </p>
-                    <p>
-                        <span class="fa fa-check" style="color: #428bca;"></span> Unsubscribe any time: the unsubscribe link is in every email.
-                    </p>
-                    <p>
-                        <span class="fa fa-check" style="color: #428bca;"></span> This email list sends you new job ads. Not for marketing/promotional purposes.
-                    </p>
-                    <br/>
-                    <label for="week-input-email-id" class="col-sm-2 control-label">Email</label>
-                    <input type="email" required name="fields[email]" class="form-control" id="week-input-email-id" placeholder="you@youremail.com">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="https://via.placeholder.com/155x150">
+                        </div>
+                        <div class="col-md-8">
+                            <p>
+                                <span class="fa fa-check" style="color: #428bca;"></span> Every Saturday there will be an email with the list of <em>{{ thisnodes[0].title }}</em> that appeared on remote4me.com last <strong>week</strong>.
+                            </p>
+                            <p>
+                                <span class="fa fa-check" style="color: #428bca;"></span> Unsubscribe any time: the unsubscribe link is in every email.
+                            </p>
+                            <p>
+                                <span class="fa fa-check" style="color: #428bca;"></span> This email list sends you new job ads. Not for marketing/promotional purposes.
+                            </p>
+                            <br/>
+                            <label for="week-input-email-id" class="col-sm-2 control-label">Email</label>
+                            <input type="email" required name="fields[email]" class="form-control" id="week-input-email-id" placeholder="you@youremail.com">
 
-                    <input type="hidden" name="groups[]" value="{{ thisnodes[0].mailGroupWeek }}" checked="checked">
-                    <input type="hidden" name="ml-submit" value="1">
-                    <input type="hidden" name="ajax" value="1">
+                            <input type="hidden" name="groups[]" value="{{ thisnodes[0].mailGroupWeek }}" checked="checked">
+                            <input type="hidden" name="ml-submit" value="1">
+                            <input type="hidden" name="ajax" value="1">
+                        </div>
+                    </div>
                 </div>
                 <div class="modal-footer">
                     <button type="submit" class="btn btn-primary">Subscribe</button>
