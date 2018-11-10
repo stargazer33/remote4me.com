@@ -363,7 +363,46 @@ td.detail-td {
     margin-right: 3px;
 }
 
-/****************/
+/*** email-subscribe dialogs ***/
+.badge-left {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-align: center;
+    background-color: #999;
+    border-radius: 10px;
+    float: none;
+}
+
+@media only screen and (max-width: 480px) {
+    .xs-no-padding-left{
+        padding-left: 0px;
+    }
+    .xs-no-padding-right{
+        padding-right: 0px;
+    }
+}
+@media (min-width: 481px) {
+    .sm-width-2perc{
+        width: 2%;
+    }
+}
+
+.form-horizontal .control-label-sm {
+    text-align: right;
+    margin-bottom: 0;
+    padding-top: 7px;
+    padding-right: 5px;
+    padding-left: 0px;
+}
+
+
 div.side_image_daily_1 {
     background-image: url(https://via.placeholder.com/184x116);
     background-size: contain;

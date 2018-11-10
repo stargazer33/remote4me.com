@@ -53,18 +53,18 @@
                   action="https://landing.mailerlite.com/webforms/landing/r2q9o2">
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-xs-12 col-sm-3">
+                        <div class="col-xs-12 col-sm-3 xs-no-padding-left xs-no-padding-right">
                             <div class="side_image_daily_1 center-block"></div>
                         </div>
-                        <div class="col-xs-12 col-sm-9">
+                        <div class="col-xs-12 col-sm-9 xs-no-padding-left xs-no-padding-right">
                             <p>
                                 <span class="fa fa-check" style="color: #428bca;"></span> Every evening (21:00 EST) you will get an email with the list of <em>{{ thisnodes[0].title }}</em> that appeared on remote4me.com during the <strong>day</strong>.<br/>
                                 <span class="fa fa-check" style="color: #428bca;"></span> Unsubscribe any time: the unsubscribe link is in every email.<br/>
                                 <span class="fa fa-check" style="color: #428bca;"></span> This email list sends you new job ads. Not for marketing/promotional purposes.<br/>
                             </p>
                             <div class="form-group">
-                                <label for="day-input-email-id" class="col-xs-3 control-label" >Email:</label>
-                                <div class="col-xs-6">
+                                <label class="col-xs-4 control-label-sm" for="day-input-email-id" >Email:</label>
+                                <div class="col-xs-8 xs-no-padding-left">
                                     <input type="email" required class="form-control" id="day-input-email-id" name="fields[email]" placeholder="you@youremail.com">
                                 </div>
                             </div>
@@ -74,21 +74,21 @@
                     <br/>
 
                     <div class="row">
-                        <div class="col-xs-12 col-sm-3">
+                        <div class="col-xs-12 col-sm-3 xs-no-padding-left xs-no-padding-right">
                             <div class="side_image_daily_2 center-block"></div>
                         </div>
-                        <div class="col-xs-12 col-sm-9">
+                        <div class="col-xs-12 col-sm-9 xs-no-padding-left xs-no-padding-right">
                             <b>Please help ME help YOU:</b> The remote4me.com site is a one-man show. I am working on adding new job boards, as well as
                             improving the classifiers ("remoteness", "tech stack", etc). I'm adding new features
                             to this site (like this email list). I'm also doing marketing. It eats a lot of time!
                             So if YOU help me with marketing, then I have more time to work on new features,
                             such as improved "time zone" classifier, new "work authorization" classifier, and many others.<br/>
-                            This is how you can help me:<br/>
+                            This is how you can help me:<br/><br/>
                             <div class="row">
-                                <div class="col-xs-1" style="width: 2%;">
-                                    <span class="badge" style="float: none;">1</span>
+                                <div class="col-xs-1 xs-no-padding-left sm-width-2perc" >
+                                    <span class="badge-left no-padding-left" >1</span>
                                 </div>
-                                <div class="col-xs-11" >
+                                <div class="col-xs-11 xs-no-padding-left xs-no-padding-right" >
                                     Post a link to remote4me and say something about it on a prominent page on your site or blog or an online forum. Alternatively, post on your favorite social network:
                                     <!--
                                     <a href="https://reddit.com/submit/?text={{ 'Write a few sentences...' | escape }}&url={{ site.production_url | escape }}{{ page.permalink | escape }}&title={{ thisnodes[0].title | escape }}"  target="_blank" aria-label=""><i class="fa fa-border fa-reddit-alien"></i></a>
@@ -109,17 +109,17 @@
                                     <br/>
                                     <br/>
                                 </div>
-                                <div class="col-xs-1" style="width: 2%;">
-                                    <span class="badge" style="float: none;">2</span>
+                                <div class="col-xs-1 xs-no-padding-left sm-width-2perc" >
+                                    <span class="badge-left" >2</span>
                                 </div>
-                                <div class="col-xs-11">
+                                <div class="col-xs-11 xs-no-padding-left xs-no-padding-right">
                                     Copy the link to your page/post (it is better to use a computer for copying).<br/>
                                     <br/>
                                 </div>
-                                <div class="col-xs-1" style="width: 2%;">
-                                    <span class="badge" style="float: none;">3</span>
+                                <div class="col-xs-1 xs-no-padding-left sm-width-2perc" >
+                                    <span class="badge-left" >3</span>
                                 </div>
-                                <div class="col-xs-11">
+                                <div class="col-xs-11 xs-no-padding-left xs-no-padding-right">
                                     Paste the link to your page/post in the field below. One link is enough. After this, you'll get email updates for as long as you wish.
                                     <br/>
                                 </div>
@@ -127,8 +127,8 @@
 
                             <br/>
                             <div class="form-group">
-                                <label for="inputUrl4" class="col-xs-3 control-label">Page/post URL:</label>
-                                <div class="col-xs-8">
+                                <label class="col-xs-4 control-label-sm" for="inputUrl4" >Page/post URL:</label>
+                                <div class="col-xs-8 xs-no-padding-left">
                                     <input id="inputUrl4" type="url" required class="form-control" name="fields[url_promo]" placeholder="https://url-of-the-post" pattern="https?://.+" size="15">
                                 </div>
                             </div>
