@@ -17,14 +17,25 @@ uglifyjs --compress unused,dead_code -- $JSP/bootstrap-table.min.js $JSP/bootstr
 
 # write $CSP/default.css
 cleancss -O2 -o $CSP/default.css $CSP/style.css $CSP/userstyle.css
-
+#   default.css -> included into _includes/themes/restart/default.html
 
 
 
 
 # handlebars _includes/themes/restart/jobdetails.handlebars >> assets/themes/restart/js/render_jobad_list_filter.js
-# base64 -w 0 assets/themes/restart/fonts/FontAwesome.woff2 >assets/themes/restart/fonts/FontAwesome.woff2.txt
-# cleancss -O2 -o assets/themes/restart/css/font-awesome.base64.min.css  assets/themes/restart/css/font-awesome.base64.css
+#
 
+# FONT
+# 1.
+# base64 -w 0 assets/themes/restart/fonts/FontAwesome.woff2 >assets/themes/restart/fonts/FontAwesome.woff2.txt
+#
+# 2.
+# Edit assets/themes/restart/css/font-awesome.base64.css
+# insert contents of FontAwesome.woff2.txt
+# insert new .fa classes below "Font Awesome uses the Unicode Private Use Area (PUA)"
+#
+# 3.
+# cleancss -O2 -o _includes/themes/restart/assets/font-awesome.base64.min.css  assets/themes/restart/css/font-awesome.base64.css
+#   font-awesome.base64.min.css -> included into _includes/themes/restart/default.html
 
 

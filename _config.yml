@@ -10,6 +10,9 @@ jobnav_tech_node : 1
 # Non-tech jobs "Remote" is not only for engineers!
 jobnav_nontech_node : 2
 
+site_og_wide_image : "https://remote4me.com/og-image.png?v=wide003"
+site_og_quadrat_small_image : "https://remote4me.com/og-image-quadrat-400-400.png?v=q002"
+
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title
