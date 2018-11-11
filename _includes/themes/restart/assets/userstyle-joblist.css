@@ -1,0 +1,201 @@
+#table {
+    table-layout: fixed;
+}
+#table td.crawled{
+    width: 10%;
+    padding: 20px 0px 20px 10px;
+}
+
+/* Table styling */
+a.rowTitleClass {
+    font-size: 1.3em;
+}
+tr[data-index] {
+    border: 1px solid #dddddd;
+}
+.table > tbody > tr > td {
+    padding: 0;
+}
+.table > tbody > tr > td.spanLink {
+    padding: 20px 0px 20px 20px;
+}
+.labelTag {
+    background: #ffffff;
+    color: #777777;
+    border: 1px solid #dddddd;
+    float: left;
+    font-weight: normal;
+    font-size: 12px;
+    margin-right: 5px;
+    margin-top: 7px;
+    padding: 5px;
+
+}
+
+tr.detail-view {
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+}
+.footer-row {
+    margin-top: 20px;
+}
+.job-info {
+    margin: 0;
+}
+.job-title {
+    margin: 0;
+    margin-bottom: 2px;
+}
+
+.org-info {
+    display: inline-block;
+    border-radius: .15em;
+    padding: 2px 5px 2px 0px;
+}
+
+
+div.fixed-table-loading{
+    display: none; !important;
+}
+
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+    border-top: none;
+}
+
+tr.detail-view > td {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.table > tbody > tr[id] > td {
+    padding-top: 16px !important;
+}
+
+a.rowTitleClass:visited {
+    color: #999999 !important;
+}
+
+a.detail-icon:visited{
+    color: #999999 !important;
+}
+
+
+@media only screen and (max-width: 480px) {
+
+    div.job-table-container {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    #table td.spanLink {
+        padding-left: 10px                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ;
+        width: 83%;
+    }
+    #table td.detail-td{
+        width: 7%;
+        padding-right: 0px;
+    }
+
+    td a .fa-caret-right, td a .fa-caret-down {
+        padding: 24px 10px 24px 0px;
+        float: right;
+    }
+}
+
+@media only screen and (min-width: 481px) {
+    #table td.spanLink{
+        width: 84%;
+    }
+    #table td.detail-td{
+        width: 6%;
+    }
+    td a .fa-caret-right, td a .fa-caret-down {
+        padding: 24px 12px 24px 24px;
+        float: right;
+    }
+
+}
+
+/*** "Report/Flag this job buttons" ***/
+
+.abuse-btn span {
+    position: relative;
+    bottom: 3px;
+}
+
+.fa-flag-o:before {
+    margin-right: 3px;
+}
+
+.report-btn-font-body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.div-report-btn button {
+    color: #428bca;
+    border: none;
+}
+.page-jobad-modal-tell-more {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.page-jobad-modal-tell-more > div:first-child {
+    margin-right: 20px;
+}
+
+.page-jobad-modal-tell-more > div:last-child span {
+    font-size: larger;
+    display: block;
+}
+
+.page-jobad-modal-tell-more label {
+    font-weight: normal;
+    cursor: pointer;
+}
+
+/*.reportthisjob-modal input[type="checkbox"],
+.reportthisjob-modal input[type="radio"] {
+    visibility: hidden;
+}
+
+.reportthisjob-modal input[type="checkbox"]:before,
+.reportthisjob-modal input[type="radio"]:before {
+    visibility: visible;
+    content: " ";
+    position: absolute;
+    height: 22px;
+    width: 22px;
+    display: block;
+    box-sizing: border-box;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .6) inset;
+    border: 1px solid transparent;
+    transition-property: box-shadow;
+    transition-timing-function: cubic-bezier(0,0,.2,1);
+    transition-duration: 200ms;
+    cursor: pointer;
+}
+
+.reportthisjob-modal input[type="checkbox"]:before {
+    border-radius: 4px;
+}
+.reportthisjob-modal input[type="radio"]:before {
+    border-radius: 50%;
+}
+
+.reportthisjob-modal input[type="checkbox"]:checked:before,
+.reportthisjob-modal input[type="radio"]:checked:before {
+    box-shadow: 0 0 0 6px #428bca inset,0 0 0 11px #fff inset;
+}
+.reportthisjob-modal input[type=checkbox]:focus:before,
+.reportthisjob-modal input[type="radio"]:focus:before {
+    box-shadow: 0 0 0 1px #428bca, 0 0 0 1px rgba(0,0,0,.9) inset;
+}*/
+
+
+

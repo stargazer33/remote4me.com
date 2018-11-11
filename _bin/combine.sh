@@ -16,7 +16,7 @@ uglifyjs --compress unused,dead_code -- $JSP/jquery-1.12.4.min.js $JSP/bootstrap
 uglifyjs --compress unused,dead_code -- $JSP/bootstrap-table.min.js $JSP/bootstrap-table-en-US.min.js $JSP/handlebars.runtime-v4.0.12.min.js $JSP/lunr.js $JSP/render_jobad_list_filter.js > $JSP/jobad-list.js
 
 # write $CSP/default.css
-cleancss -O2 -o $CSP/default.css $CSP/style.css $CSP/userstyle.css
+cleancss -O2 -o $CSP/default.css $CSP/style.css $CSP/userstyle.css $CSP/userstyle-joblist.css $CSP/userstyle-dropdown-filter.css
 #   default.css -> included into _includes/themes/restart/default.html
 
 
