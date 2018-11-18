@@ -89,6 +89,10 @@ div.homepage-f3 {
     .xs-no-padding-right{
         padding-right: 0px;
     }
+    .navbar a.navbar-brand {
+        width: 150px;
+    }
+
 }
 @media (min-width: 481px) {
     .sm-width-2perc{
