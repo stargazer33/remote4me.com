@@ -89,22 +89,38 @@
                                 </div>
                                 <div class="col-xs-11 xs-no-padding-left xs-no-padding-right" >
                                     Post a link to remote4me and say something about it on a prominent page on your site or blog or an online forum. Alternatively, post on your favorite social network:
-                                    <!--
-                                    <a href="https://reddit.com/submit/?text={{ 'Write a few sentences...' | escape }}&url={{ site.production_url | escape }}{{ page.permalink | escape }}&title={{ thisnodes[0].title | escape }}"  target="_blank" aria-label=""><i class="fa fa-border fa-reddit-alien"></i></a>
-                                    -->
                                     &nbsp;&#32;
-                                    <a href="https://facebook.com/sharer/sharer.php?display=popup&u={{ site.production_url | escape }}{{ page.permalink | escape }}" target="_blank" aria-label=""><i class="fa fa-border fa-facebook-f"></i></a>
+                                    <a href="https://reddit.com/submit/?text={{ 'Write a few sentences...' | escape }}&url={{ site.production_url | escape }}{{ page.permalink | escape }}&title={{ thisnodes[0].title | escape }}"  target="_blank" aria-label="Share on Reddit"
+                                       data-container="#form-subscribe-daily-modal-id" data-placement="top" data-trigger="hover focus" data-toggle="popover" data-content="Post on Reddit"
+                                    >
+                                        <i class="fa fa-border fa-reddit"></i>
+                                    </a>
                                     &nbsp;&#32;
-                                    <a href="https://twitter.com/intent/tweet/?text={{ 'Say something about it...' | escape }}&url={{ site.production_url | escape }}{{ page.permalink | escape }}" target="_blank" aria-label=""><i class="fa fa-border  fa-twitter"></i></a>
+                                    <a href="https://twitter.com/intent/tweet/?text={% if page.title %}{{ page.title }}{% else %}{{ thisnodes[0].title }}{% endif %}&url={{ site.production_url | escape }}{{ page.permalink | escape }}" target="_blank" aria-label="Share on Twitter"
+                                       data-container="#form-subscribe-daily-modal-id" data-placement="top" data-trigger="hover focus" data-toggle="popover" data-content="Tweet"
+                                    >
+                                        <i class="fa fa-border fa-twitter"></i>
+                                    </a>
                                     &nbsp;&#32;
+                                    <a href="https://facebook.com/sharer/sharer.php?display=popup&u={{ site.production_url | escape }}{{ page.permalink | escape }}" target="_blank" aria-label="Share on Facebook"
+                                       data-container="#form-subscribe-daily-modal-id" data-placement="top" data-trigger="hover focus" data-toggle="popover" data-content="Post on Facebook"
+                                    >
+                                        <i class="fa fa-border fa-facebook-f"></i>
+                                    </a>
+                                    &nbsp;&#32;
+                                    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.production_url | escape }}{{ page.permalink | escape }}&title={{ thisnodes[0].title }}&summary={{ 'Say something about it...' | escape }}" target="_blank" aria-label="Share on Linkedin"
+                                       data-container="#form-subscribe-daily-modal-id" data-placement="top" data-trigger="hover focus" data-toggle="popover" data-content="Post on Linkedin"
+                                    >
+                                        <i class="fa fa-border fa-linkedin"></i>
+                                    </a>
+                                    &nbsp;&#32;
+                                    (your post should be public).
                                     <!--
                                     <a href="#"><i class="fa fa-border fa-pinterest-p" target="_blank" aria-label=""></i></a>
                                     <a href="#" ><i class="fa fa-border fa-flipboard-brands" target="_blank" aria-label=""></i></a>
                                     <a href="#"><i class="fa fa-border fa-medium-m-brands" target="_blank" aria-label=""></i></a>
                                     -->
-                                    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.production_url | escape }}{{ page.permalink | escape }}&title={{ thisnodes[0].title }}&summary={{ 'Say something about it...' | escape }}" target="_blank" aria-label=""><i class="fa fa-border fa-linkedin"></i></a>
-                                    &nbsp;&#32;
-                                    (your post should be public).
+
                                     <br/>
                                     <br/>
                                 </div>
