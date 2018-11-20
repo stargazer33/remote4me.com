@@ -94,6 +94,9 @@ div.homepage-f3 {
     }
 
 }
+
+/* email subscription dialogs */
+
 @media (min-width: 481px) {
     .sm-width-2perc{
         width: 2%;
@@ -109,20 +112,94 @@ div.homepage-f3 {
 }
 
 
-div.side_image_daily_1 {
-    background-image: url(https://via.placeholder.com/184x116);
+div.side_image_daily_0 {
+    background-image: url(/assets/svg/email-daily-0.plain.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
     text-align: center;
-    height: 116px;
+}
+
+div.side_image_daily_1 {
+    background-image: url(/assets/svg/email-daily-1.plain.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
 }
 
 div.side_image_daily_2 {
-    background-image: url(https://via.placeholder.com/184x304);
+    background-image: url(/assets/svg/email-daily-2.plain.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
     text-align: center;
-    height: 330px;
+}
+
+div.side_image_daily_3 {
+    background-image: url(/assets/svg/email-daily-3.plain.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+}
+
+@media (min-width: 992px) {
+    div.side_image_daily_0 {
+        width: 184px;
+        height: 124px;
+    }
+    div.side_image_daily_1 {
+        width: 184px;
+        height: 145px;
+    }
+    div.side_image_daily_2 {
+        width: 184px;
+        height: 55px;
+    }
+    div.side_image_daily_3 {
+        width: 184px;
+        height: 38px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    div.side_image_daily_0 {
+        width: 110px;
+        height: 124px;
+    }
+    div.side_image_daily_1 {
+        width: 110px;
+        height: 145px;
+    }
+    div.side_image_daily_2 {
+        width: 110px;
+        height: 55px;
+    }
+    div.side_image_daily_3 {
+        width: 110px;
+        height: 38px;
+    }
+}
+
+@media (max-width: 768px) {
+    div.side_image_daily_0 {
+        display: none;
+    }
+    div.side_image_daily_1 {
+        background-image: url(/assets/svg/email-daily-1-half.plain.svg);
+        text-align: left;
+        width: 184px;
+        height: 90px;
+    }
+    div.side_image_daily_2 {
+        text-align: left;
+        width: 184px;
+        height: 55px;
+    }
+    div.side_image_daily_3 {
+        text-align: left;
+        width: 184px;
+        height: 38px;
+    }
 }

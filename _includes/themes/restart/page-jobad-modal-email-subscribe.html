@@ -54,7 +54,7 @@
                 <div class="modal-body">
                     <div class="row">
                         <div class="col-xs-12 col-sm-3 xs-no-padding-left xs-no-padding-right">
-                            <div class="side_image_daily_1 center-block"></div>
+                            <div class="side_image_daily_0 center-block"></div>
                         </div>
                         <div class="col-xs-12 col-sm-9 xs-no-padding-left xs-no-padding-right">
                             <p>
@@ -74,8 +74,8 @@
                     <br/>
 
                     <div class="row">
-                        <div class="col-xs-12 col-sm-3 xs-no-padding-left xs-no-padding-right">
-                            <div class="side_image_daily_2 center-block"></div>
+                        <div class="col-xs-12 col-sm-3 xs-no-padding-left hidden-xs">
+                            <div class="side_image_daily_1 center-block"></div>
                         </div>
                         <div class="col-xs-12 col-sm-9 xs-no-padding-left xs-no-padding-right">
                             <b>Please help ME help YOU:</b> The remote4me.com site is a one-man show. I am working on adding new job boards, as well as
@@ -83,7 +83,11 @@
                             I'm adding new features to this site. I'm also doing marketing. It eats a lot of time! So if YOU help me with marketing, then I have more time to work on
                             <a href="#" class="text-nowrap" data-container="#form-subscribe-daily-modal-id" data-placement="top" data-trigger="click hover focus" data-toggle="popover" data-html="true" data-content='New features in the pipeline:<br/> - new "work authorization" classifier<br/> - salary statistics<br/>'>new features</a>.
                             This is how you can help me:<br/><br/>
+
                             <div class="row">
+                                <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
+                                    <div class="side_image_daily_1"></div>
+                                </div>
                                 <div class="col-xs-1 xs-no-padding-left sm-width-2perc" >
                                     <span class="badge-left no-padding-left" >1</span>
                                 </div>
@@ -124,6 +128,16 @@
                                     <br/>
                                     <br/>
                                 </div>
+                            </div> <!-- div class="row" -->
+                        </div> <!-- col-sm-9  -->
+                    </div><!-- div class="row" -->
+
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-3 xs-no-padding-left xs-no-padding-right">
+                            <div class="side_image_daily_2"></div>
+                        </div>
+                        <div class="col-xs-12 col-sm-9 xs-no-padding-left xs-no-padding-right">
+                            <div class="row">
                                 <div class="col-xs-1 xs-no-padding-left sm-width-2perc" >
                                     <span class="badge-left" >2</span>
                                 </div>
@@ -131,6 +145,16 @@
                                     Copy the link to your page/post (it is better to use a computer for copying).<br/>
                                     <br/>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-3 xs-no-padding-left xs-no-padding-right">
+                            <div class="side_image_daily_3"></div>
+                        </div>
+                        <div class="col-xs-12 col-sm-9 xs-no-padding-left xs-no-padding-right">
+                            <div class="row">
                                 <div class="col-xs-1 xs-no-padding-left sm-width-2perc" >
                                     <span class="badge-left" >3</span>
                                 </div>
@@ -139,8 +163,13 @@
                                     <br/>
                                 </div>
                             </div>
+                        </div>
+                    </div>
 
-                            <br/>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-3 xs-no-padding-left xs-no-padding-right">
+                        </div>
+                        <div class="col-xs-12 col-sm-9 xs-no-padding-left xs-no-padding-right">
                             <div class="form-group">
                                 <label class="col-xs-4 control-label-sm" for="inputUrl4" >Page/post URL:</label>
                                 <div class="col-xs-8 xs-no-padding-left">
@@ -150,16 +179,16 @@
                             <input type="hidden" name="groups[]" value="{{ thisnodes[0].mailGroupDay }}" checked="checked">
                             <input type="hidden" name="ml-submit" value="1">
                             <input type="hidden" name="ajax" value="1">
-
                             Thank you for helping make remote4me even more useful!
-
                         </div>
-                    </div><!--row -->
-                </div><!--modal body -->
-                <div class="modal-footer">
-                    <button type="submit" class="btn btn-primary">Subscribe</button>
-                </div>
-            </form>
+                    </div>
+
+                </div> <!-- class="modal-body" -->
+            </form><!-- id="form-subscribe-daily-modal-id" -->
+
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-primary">Subscribe</button>
+            </div>
 
         </div>
     </div>
