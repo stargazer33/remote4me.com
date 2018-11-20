@@ -82,6 +82,8 @@ div.homepage-f3 {
     float: none;
 }
 
+/* email subscription dialogs */
+
 @media only screen and (max-width: 480px) {
     .xs-no-padding-left{
         padding-left: 0px;
@@ -92,10 +94,9 @@ div.homepage-f3 {
     .navbar a.navbar-brand {
         width: 150px;
     }
-
 }
 
-/* email subscription dialogs */
+
 
 @media (min-width: 481px) {
     .sm-width-2perc{
@@ -138,7 +139,7 @@ div.side_image_daily_0 {
 }
 
 div.side_image_daily_1 {
-    background-image: url(/assets/svg/email-daily-1.plain.svg);
+    background-image: url(/assets/svg/email-daily-1-half-half.plain.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -146,7 +147,7 @@ div.side_image_daily_1 {
 }
 
 div.side_image_daily_2 {
-    background-image: url(/assets/svg/email-daily-2.plain.svg);
+    background-image: url(/assets/svg/email-daily-2-half.plain.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -154,7 +155,7 @@ div.side_image_daily_2 {
 }
 
 div.side_image_daily_3 {
-    background-image: url(/assets/svg/email-daily-3.plain.svg);
+    background-image: url(/assets/svg/email-daily-3-half.plain.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -162,66 +163,84 @@ div.side_image_daily_3 {
 }
 
 @media (min-width: 992px) {
+    div.email-daily-subh {
+        text-align: right;
+    }
     div.side_image_daily_0 {
         width: 184px;
-        height: 124px;
+        height: 89px;
     }
     div.side_image_daily_1 {
         width: 184px;
-        height: 145px;
+        height: 66px;
+        margin-top: -6px;
     }
     div.side_image_daily_2 {
         width: 184px;
-        height: 55px;
+        height: 49px;
+        margin-top: -6px;
     }
     div.side_image_daily_3 {
+        margin-top: -6px;
         width: 184px;
-        height: 38px;
+        height: 39px;
     }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+    div.email-daily-subh {
+        text-align: right;
+    }
+
     div.side_image_daily_0 {
         width: 110px;
         height: 124px;
     }
     div.side_image_daily_1 {
-        width: 110px;
-        height: 145px;
+        width: 140px;
+        height: 66px;
     }
     div.side_image_daily_2 {
-        width: 110px;
-        height: 55px;
+        width: 140px;
+        height: 49px;
     }
     div.side_image_daily_3 {
-        width: 110px;
-        height: 38px;
+        width: 140px;
+        height: 39px;
     }
+    .sm-no-padding-left{
+        padding-left: 0px;
+    }
+    .sm-no-padding-right{
+        padding-right: 0px;
+    }
+
 }
 
 @media (max-width: 768px) {
+    div.email-daily-subh {
+        text-align: left;
+    }
+
     div.side_image_daily_0 {
         display: none;
     }
     div.side_image_daily_1 {
-        background-image: url(/assets/svg/email-daily-1-half.plain.svg);
         text-align: left;
-        margin-left: 30px;
+        margin-left: 40px;
         width: 184px;
-        height: 90px;
+        height: 66px;
     }
     div.side_image_daily_2 {
-        background-image: url(/assets/svg/email-daily-2-half.plain.svg);
         text-align: left;
         margin-left: 40px;
         width: 184px;
-        height: 55px;
+        height: 49px;
     }
     div.side_image_daily_3 {
-        background-image: url(/assets/svg/email-daily-3-half.plain.svg);
         text-align: left;
         margin-left: 40px;
         width: 184px;
-        height: 38px;
+        height: 39px;
     }
 }
