@@ -111,6 +111,23 @@ div.homepage-f3 {
     padding-left: 0px;
 }
 
+@media (min-width: 768px) {
+    div.side_image_weekly_0 {
+        background-image: url(/assets/svg/email-weekly-0.plain.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: top;
+        text-align: center;
+        width: 155px;
+        height: 165px;
+    }
+}
+
+@media (max-width: 768px) {
+    div.side_image_weekly_0 {
+        display: none;
+    }
+}
 
 div.side_image_daily_0 {
     background-image: url(/assets/svg/email-daily-0.plain.svg);
@@ -189,16 +206,21 @@ div.side_image_daily_3 {
     div.side_image_daily_1 {
         background-image: url(/assets/svg/email-daily-1-half.plain.svg);
         text-align: left;
+        margin-left: 30px;
         width: 184px;
         height: 90px;
     }
     div.side_image_daily_2 {
+        background-image: url(/assets/svg/email-daily-2-half.plain.svg);
         text-align: left;
+        margin-left: 40px;
         width: 184px;
         height: 55px;
     }
     div.side_image_daily_3 {
+        background-image: url(/assets/svg/email-daily-3-half.plain.svg);
         text-align: left;
+        margin-left: 40px;
         width: 184px;
         height: 38px;
     }
