@@ -6,7 +6,7 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                 <h4 class="modal-title" id="week-maillist-name-id">Email list "<strong>Weekly</strong> {{ thisnodes[0].title }}"</h4>
             </div>
-            <form id="form-subscribe-weekly-modal-id" class="form" method="get"
+            <form id="form-subscribe-weekly-modal-id" class="form-horizontal" method="get"
                   action="https://landing.mailerlite.com/webforms/landing/r2q9o2">
                 <div class="modal-body">
                     <div class="row">
@@ -24,14 +24,20 @@
                                 <span class="fa fa-check" style="color: #428bca;"></span> This email list sends you new job ads. Not for marketing/promotional purposes.
                             </p>
                             <br/>
-                            <label for="week-input-email-id" class="col-xs-2 control-label">Email</label>
-                            <input type="email" required name="fields[email]" class="form-control" id="week-input-email-id" placeholder="you@youremail.com">
-
-                            <input type="hidden" name="groups[]" value="{{ thisnodes[0].mailGroupWeek }}" checked="checked">
-                            <input type="hidden" name="ml-submit" value="1">
-                            <input type="hidden" name="ajax" value="1">
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="form-group">
+                            <label class="col-xs-4 control-label-sm" for="week-input-email-id" >Email:</label>
+                            <div class="col-xs-8 xs-no-padding-left">
+                                <input type="email" required name="fields[email]" class="form-control" id="week-input-email-id" placeholder="you@youremail.com">
+                            </div>
+                        </div>
+                        <input type="hidden" name="groups[]" value="{{ thisnodes[0].mailGroupWeek }}" checked="checked">
+                        <input type="hidden" name="ml-submit" value="1">
+                        <input type="hidden" name="ajax" value="1">
+                    </div>
+
                 </div>
                 <div class="modal-footer">
                     <button type="submit" class="btn btn-primary">Subscribe</button>
