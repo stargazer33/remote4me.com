@@ -227,20 +227,32 @@ div.side_image_daily_3 {
     }
     div.side_image_daily_1 {
         text-align: left;
-        margin-left: 40px;
+        margin-left: 42px;
         width: 184px;
         height: 66px;
     }
     div.side_image_daily_2 {
         text-align: left;
-        margin-left: 40px;
+        margin-left: 44px;
         width: 184px;
         height: 49px;
     }
     div.side_image_daily_3 {
         text-align: left;
-        margin-left: 40px;
+        margin-left: 44px;
         width: 184px;
         height: 39px;
+    }
+}
+
+@media (max-width: 480px) {
+    div.side_image_daily_1 {
+        margin-left: 30px;
+    }
+    div.side_image_daily_2 {
+        margin-left: 34px;
+    }
+    div.side_image_daily_3 {
+        margin-left: 34px;
     }
 }
