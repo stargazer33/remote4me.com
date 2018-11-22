@@ -172,18 +172,18 @@ div.side_image_daily_3 {
     }
     div.side_image_daily_1 {
         width: 184px;
-        height: 66px;
-        margin-top: -6px;
+        height: 68px;
+        margin-top: -10px;
     }
     div.side_image_daily_2 {
         width: 184px;
-        height: 49px;
-        margin-top: -6px;
+        height: 51px;
+        margin-top: -8px;
     }
     div.side_image_daily_3 {
         margin-top: -6px;
         width: 184px;
-        height: 39px;
+        height: 42px;
     }
 }
 
@@ -198,15 +198,15 @@ div.side_image_daily_3 {
     }
     div.side_image_daily_1 {
         width: 140px;
-        height: 66px;
+        height: 69px;
     }
     div.side_image_daily_2 {
         width: 140px;
-        height: 49px;
+        height: 38px;
     }
     div.side_image_daily_3 {
         width: 140px;
-        height: 39px;
+        height: 30px;
     }
     .sm-no-padding-left{
         padding-left: 0px;
@@ -227,27 +227,27 @@ div.side_image_daily_3 {
     }
     div.side_image_daily_1 {
         text-align: left;
-        margin-left: 42px;
+        margin-left: 44px;
         width: 184px;
-        height: 66px;
+        height: 68px;
     }
     div.side_image_daily_2 {
         text-align: left;
         margin-left: 44px;
         width: 184px;
-        height: 49px;
+        height: 51px;
     }
     div.side_image_daily_3 {
         text-align: left;
         margin-left: 44px;
         width: 184px;
-        height: 39px;
+        height: 42px;
     }
 }
 
 @media (max-width: 480px) {
     div.side_image_daily_1 {
-        margin-left: 30px;
+        margin-left: 34px;
     }
     div.side_image_daily_2 {
         margin-left: 34px;
