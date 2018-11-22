@@ -1,3 +1,19 @@
+/*
+ * Fix for "multi-line breadcrumb on narrow (400px) screen"
+ * https://stackoverflow.com/questions/42239096/prevent-new-line-in-bootstrap4-apha6-breadcrumb/42239129#42239129
+ */
+.breadcrumb, .breadcrumb-item {
+    white-space: nowrap;
+}
+.breadcrumb .breadcrumb-item {
+    float: none;
+}
+.breadcrumb {
+    text-overflow: clip;
+    overflow: hidden;
+}
+
+/***/
 div#alertJsID{
     display: none;
 }
@@ -63,7 +79,29 @@ div.homepage-f3 {
     margin: 2px;
 }
 
+/*** email-subscribe button and social networks (top right side)***/
+.soc-netw-span {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.5em;
+    color: #555;
+    text-align: left;
+}
 
+@media (min-width: 992px) {
+    .soc-netw-span i{
+        font-size: 1.3333333333333333em;
+        line-height: 0.75em;
+    }
+    #id-main-container {
+        padding-bottom: 25px;
+    }
+}
+@media (max-width: 768px) {
+    #id-main-container {
+        padding-bottom: 34px;
+    }
+}
 
 /*** email-subscribe dialogs ***/
 .badge-left {
@@ -247,12 +285,12 @@ div.side_image_daily_3 {
 
 @media (max-width: 480px) {
     div.side_image_daily_1 {
-        margin-left: 34px;
+        margin-left: 8.33333333%;
     }
     div.side_image_daily_2 {
-        margin-left: 34px;
+        margin-left: 8.33333333%;
     }
     div.side_image_daily_3 {
-        margin-left: 34px;
+        margin-left: 8.33333333%;
     }
 }

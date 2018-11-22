@@ -1,52 +1,60 @@
 {% include compute_thisnodes %}
 
 <section class="hgroup">
-  <div class="container">
+  <div class="container" id="id-main-container">
     <div id="alert-placeholder-id"></div>
     <div class="row">
-      <div class="col-sm-10 col-xs-12">
+      <div class="col-md-10 col-xs-12">
         <h1 class="elegant">{{ thisnodes[0].title }}</h1>
         {% if thisnodes[0].undertagline %}
         <h2>{{ thisnodes[0].undertagline }}</h2>
         {% endif %}
       </div>
-      <div class="col-sm-2 hidden-xs">
-        <div class="btn-group btn-div" >
-          <button class="btn btn-primary btn-xs dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <i class="fa fa-envelope-o"></i> Get email updates <span class="caret"></span>
-          </button>
-          <ul class="dropdown-menu dropdown-menu-right">
-            <li>
-              <a href="#subscribe-weekly-modal-id" data-toggle="modal" data-target=".subscribe-weekly-modal">Weekly</a>
-            </li>
-            <li>
-              <a href="#subscribe-daily-modal-id" data-toggle="modal" data-target=".subscribe-daily-modal">Daily</a>
-            </li>
-          </ul>
-        </div>
+      <div class="col-md-2 col-xs-12">
 
-        <div style="font-size: 12px; color: #999;">Post, tweet, share:</div>
-        <div>
+          <div class="btn-group" >
+            <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-envelope-o"></i> Email Updates <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu dropdown-menu-right">
+              <li>
+                <a href="#subscribe-weekly-modal-id" data-toggle="modal" data-target=".subscribe-weekly-modal">Weekly</a>
+              </li>
+              <li>
+                <a href="#subscribe-daily-modal-id" data-toggle="modal" data-target=".subscribe-daily-modal">Daily</a>
+              </li>
+            </ul>
+          </div>
+
+        <span class="soc-netw-span">
+          &#32;
+          Post,&nbsp;tweet,&nbsp;share:
+          &#32;
           <a href="https://reddit.com/submit/?text={{ 'Write a few sentences...' | escape }}&url={{ site.production_url | escape }}{{ page.permalink | escape }}&title={{ thisnodes[0].title | escape }}"  target="_blank" aria-label="Share on Reddit"
              data-placement="top" data-trigger="hover focus" data-toggle="popover" data-content="Post on Reddit"
           >
-            <i class="fa-lg fa fa-border fa-reddit"></i>
+            <i class="fa fa-border fa-reddit"></i>
           </a>
+          &#32;
           <a href="https://twitter.com/intent/tweet/?text={% if page.title %}{{ page.title }}{% else %}{{ thisnodes[0].title }}{% endif %}&url={{ site.production_url | escape }}{{ page.permalink | escape }}" target="_blank" aria-label="Share on Twitter"
              data-placement="top" data-trigger="hover focus" data-toggle="popover" data-content="Tweet"
           >
-            <i class="fa-lg fa fa-border fa-twitter"></i>
+            <i class="fa fa-border fa-twitter"></i>
           </a>
+          &#32;
           <a href="https://facebook.com/sharer/sharer.php?display=popup&u={{ site.production_url | escape }}{{ page.permalink | escape }}" target="_blank" aria-label="Share on Facebook"
              data-placement="top" data-trigger="hover focus" data-toggle="popover" data-content="Post on Facebook"
           >
-            <i class="fa-lg fa fa-border fa-facebook-f"></i>
+            <i class="fa fa-border fa-facebook-f"></i>
           </a>
+          &#32;
           <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.production_url | escape }}{{ page.permalink | escape }}&title={{ thisnodes[0].title }}&summary={{ 'Say something about it...' | escape }}" target="_blank" aria-label="Share on Linkedin"
              data-placement="top" data-trigger="hover focus" data-toggle="popover" data-content="Post on Linkedin"
           >
-            <i class="fa-lg fa fa-border fa-linkedin"></i>
-          </a>        </div>
+            <i class="fa fa-border fa-linkedin"></i>
+          </a>
+        </span><!--col-->
+
       </div><!--col-->
     </div><!--row-->
 
