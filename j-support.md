@@ -1,6 +1,6 @@
 ---
 permalink: /remote-customer-support-jobs
 layout: page-jobad-list
-last_modified_at: 2019-01-03T18:38:20+0100
+last_modified_at: 2019-01-04T18:43:11+0100
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
