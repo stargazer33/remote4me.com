@@ -1,6 +1,6 @@
 ---
 permalink: /remote-mobile-jobs
 layout: page-jobad-list
-last_modified_at: 2019-01-10T18:43:20+0100
+last_modified_at: 2019-01-11T18:42:29+0100
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
