@@ -1,6 +1,6 @@
 ---
 permalink: /remote-java-jobs
 layout: page-jobad-list
-last_modified_at: 2019-04-21T18:47:28+0200
+last_modified_at: 2019-04-22T18:49:21+0200
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
