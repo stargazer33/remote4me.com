@@ -1,6 +1,6 @@
 ---
 permalink: /remote-frontend-jobs
 layout: page-jobad-list
-last_modified_at: 2019-04-25T18:47:35+0200
+last_modified_at: 2019-04-26T18:47:59+0200
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
