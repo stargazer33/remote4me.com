@@ -1,6 +1,6 @@
 ---
 permalink: /remote-apple-jobs
 layout: page-jobad-list
-last_modified_at: 2019-05-01T18:35:55+0200
+last_modified_at: 2019-05-02T18:44:53+0200
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
