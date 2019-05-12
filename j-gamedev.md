@@ -1,6 +1,6 @@
 ---
 permalink: /remote-gamedev-jobs
 layout: page-jobad-list
-last_modified_at: 2019-05-11T18:33:30+0200
+last_modified_at: 2019-05-12T18:34:32+0200
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
