@@ -1,6 +1,6 @@
 ---
 permalink: /remote-big-data-science-machine-learning-jobs
 layout: page-jobad-list
-last_modified_at: 2019-05-19T18:34:53+0200
+last_modified_at: 2019-05-20T18:35:00+0200
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
