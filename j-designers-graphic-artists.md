@@ -1,6 +1,6 @@
 ---
 permalink: /remote-designer-graphic-video-artist-jobs
 layout: page-jobad-list
-last_modified_at: 2019-05-30T18:34:47+0200
+last_modified_at: 2019-05-31T18:37:01+0200
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
