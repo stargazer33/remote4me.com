@@ -6,24 +6,27 @@ set -o nounset
 JSP=assets/themes/restart/js
 CSP=_includes/themes/restart/assets
 
+# pre-compiling *.handlebars
+#
+_bin/compile-handl.sh
+
+# merge results of handlebars compilation with render_jobad_list_filter.js
+#
+cat $JSP/render_jobad_list_filter.js _tmp/jobdetails.js > _tmp/render_jobad_list_filter.js
+
 # write $JSP/default.js
-#cat $JSP/jquery-1.12.4.min.js $JSP/bootstrap.min.js $JSP/modernizr.custom.48287.min.js $JSP/jquery.ui.totop.min.js $JSP/easing.min.js $JSP/wow.min.js $JSP/restart_theme.min.js $JSP/collapser.min.js > $JSP/default.js
+#
 uglifyjs --compress unused,dead_code -- $JSP/jquery-1.12.4.min.js $JSP/bootstrap.js $JSP/modernizr.custom.48287.min.js $JSP/jquery.ui.totop.min.js $JSP/easing.min.js $JSP/wow.min.js $JSP/restart_theme.min.js $JSP/collapser.min.js > $JSP/default.js
 
 # write $JSP/jobad-list.js
-#cat $JSP/default.js $JSP/bootstrap-table.min.js $JSP/bootstrap-table-en-US.min.js $JSP/handlebars.runtime-v4.0.12.min.js $JSP/lunr.min.js > $JSP/jobad-list.js
-#uglifyjs --compress -- $JSP/render_jobad_list_filter.js >> $JSP/jobad-list.js
-uglifyjs --compress unused,dead_code -- $JSP/bootstrap-table.min.js $JSP/bootstrap-table-en-US.min.js $JSP/handlebars.runtime-v4.0.12.min.js $JSP/lunr.js $JSP/render_jobad_list_filter.js > $JSP/jobad-list.js
+#
+uglifyjs --compress unused,dead_code -- $JSP/bootstrap-table.min.js $JSP/bootstrap-table-en-US.min.js $JSP/handlebars.runtime-v4.0.12.min.js $JSP/lunr.js _tmp/render_jobad_list_filter.js > $JSP/jobad-list.js
 
 # write $CSP/default.css
+#
 cleancss -O2 -o $CSP/default.css $CSP/style.css $CSP/userstyle.css $CSP/userstyle-joblist.css $CSP/userstyle-dropdown-filter.css
 #   default.css -> included into _includes/themes/restart/default.html
 
-
-
-
-# handlebars _includes/themes/restart/jobdetails.handlebars >> assets/themes/restart/js/render_jobad_list_filter.js
-#
 
 # FONT
 # 1.

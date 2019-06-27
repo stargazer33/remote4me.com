@@ -123,23 +123,10 @@ a.detail-icon:visited{
 
 /*** "Report/Flag this job buttons" ***/
 
-.abuse-btn span {
-    position: relative;
-    bottom: 3px;
-}
-
 .fa-flag-o:before {
     margin-right: 3px;
 }
 
-.report-btn-font-body {
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-.div-report-btn button {
-    color: #428bca;
-    border: none;
-}
 .page-jobad-modal-tell-more {
     display: flex;
     margin-bottom: 10px;
