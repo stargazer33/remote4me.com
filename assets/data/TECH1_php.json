@@ -1,6 +1,339 @@
 {
  "items": [
   {
+    "id": "JoVBjR67T96BIExTRBzSeQ",
+    "url": "https://stackoverflow.com/jobs/207210/backend-entwickler-php-m-w-d-picdrop-gmbh?a=17uuvu6ejGIE",
+    "title": "Backend-Entwickler PHP (m/w/d) at PicDrop GmbH (Berlin, Deutschland) ",
+    "tags": [
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``remot 16W timezon",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/15",
+      "DBG_TECH1:k/t/w:symfony/php/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=31, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "PicDrop GmbH",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 28, 2019 5:06:25 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 28, 2019 5:06:25 PM",
+    "content": "<h2><span>Backend-Entwickler PHP (m/w/d)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud Services, Collaboration Tools, SaaS</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>1-10 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: PicDrop GmbH | Berlin, Deutschland<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Berlin </span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>Berlin, Deutschland.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div></div><div>php</div><div>mysql</div><div>rest</div><div>postgresql</div><div>amazon-web-services</div>                <h3>Job description</h3>                <div><p><strong>Über uns</strong></p><p><span>PicDrop ist ein inhabergeführtes Unternehmen der Berliner Digitalbranche. Unsere Kunden sind anspruchsvolle Fotografen, Designer, Agenturen und Firmen, denen wir ein komfortables SaaS-Tool zum Versand von Bilddaten an die Hand geben. Über 300 Millionen Bilder wurden bisher mit PicDrop verschickt.&nbsp;</span></p><p><span>Seit unserer Gründung 2014 arbeiten wir primär daran, unsere Nutzer glücklich zu machen. In unserer täglichen Arbeit richten wir uns daher konsequent nach ihren Bedürfnissen, was sich in Deiner Arbeit und sinnvollen Aufgaben widerspiegeln wird. Mit Dir möchten wir unser Team für eine langfristige Weiterentwicklung vergrößern.</span></p><p><strong>Die Herausforderung</strong></p><p><span>Kern von PicDrop bildet unsere PHP-Webanwendung, die sich aufgrund des Wachstums nach und nach in eine Service-Architektur verwandelt und gemeinsam mit dir noch weiter ausgebaut werden soll. Die sich dabei entwickelnde Microservice-Architektur bringt neue Herausforderungen mit sich, die es zu bewältigen gilt.&nbsp;</span></p><p><span>Bisher ist das Frontend der Fokus unserer Backend-Services. Nach und nach gesellen sich dazu weitere APIs, die wir für Drittanbieter zur Verfügung stellen. Gleichzeitig integrieren wir kontinuierlich andere Dienste mit Hilfe deren Schnittstellen in unser Produkt.</span></p><p><span>Aufgabe des Entwicklerteams ist es dabei, Funktion und Performance auch bei sich ändernden Anforderungen zu gewährleisten und auch neue Technologien dafür in Betracht zu ziehen.</span></p><p><strong>Deine Aufgaben</strong></p><ul><li><span>Entwicklung neuer Funktionen in Zusammenarbeit mit deinem Entwicklungsteam</span></li><li><span>Kontinuierliche Anpassung an neue Skalierungsanforderungen</span></li><li><span>Modernisierung alter Anwendungsteile unseres Backends&nbsp;</span></li><li><span>Migration des Software Monolithen in eine skalierbare Softwarearchitektur</span></li><li><span>Gemeinsame Weiterentwicklung der Gesamtarchitektur im Entwicklungsteam</span></li><li><span>Beteiligung an unserem gesamten Entwicklungsprozess</span></li></ul><p><strong>Was Du mitbringen solltest</strong></p><p><span>Statt für Deine Abschlüsse interessieren wir uns viel mehr für Deine konkreten Fähigkeiten, Deine letzten Projekte, Deinen Github-Account, Dein Blog – sprich: für Dein Können und Deine Persönlichkeit.&nbsp;</span></p><p><span>Folgendes ist uns dennoch wichtig:</span></p><ul><li><span>Mehrjährige (mind. 2 Jahre) Projekt- oder Produkterfahrung</span></li><li><span>Umfassende Kenntnisse in der Entwicklung moderner PHP-Anwendungen</span></li><li><span>Erfahrungen mit MVC- und Persistenz-Frameworks (Laravel, Symfony, Doctrine, etc.) sind von Vorteil</span></li><li><span>Sicherer Umgang mit SQL (MySQL, Postgres), NoSQL und REST-APIs</span></li><li><span>Kenntnisse über die wichtigsten Web-Protokolle und sichere Arbeit mit diesen</span></li><li><span>Fundierte Erfahrungen im Umgang mit Microservices und deren typischen Stolperfallen</span></li><li><span>Projekt- oder Produkterfahrung mit anderen Programmiersprachen (z. B. Java oder Go) sowie Erfahrung mit der AWS Cloud sind ein Plus</span></li><li><span>Verhandlungssichere Deutsch- und Englischkenntnisse</span></li><li><span>Spaß an der herausfordernden Produktentwicklung</span></li><li><span>Erfahrung bei teamübergreifender Projektentwicklung und der Arbeit in Remote Teams</span></li><li><span>Selbstständige, strukturierte und an Prioritäten orientierte Arbeitsweise</span></li><li><span>Sicherer Umgang mit agilen Methoden</span></li><li><span>Kreative Herangehensweise an Probleme, Einbringen eigener Ideen und Spaß an persönlicher und beruflicher Weiterentwicklung&nbsp;</span></li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/207210?reset=False&amp;ra=17uuvu6ejGIE&amp;oqs=a%3D17uuvu6ejGIE' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About PicDrop GmbH</h3>            <div><p><strong>Ständiges Lernen</strong></p><p><span>Bei PicDrop hast Du die Chance, Dich vielfältig in Themen einzubringen und Dich zu ständig weiterzuentwickeln. Wir unterstützen Dich aktiv bei Fortbildungen, Besuchen von Events und Workshops sowie allem, was der Verbesserung Deiner Fähigkeiten und Deines persönlichen Horizontes dient. Genau dafür steht dir sogar ein jährliches und individuelles Lernbudget zur Verfügung.</span></p><p><strong>Entspanntes Arbeitsumfeld</strong></p><p><span>Uns ist wichtig, dass Du gerne, konzentriert und unterbrechungsfrei arbeiten kannst. Daher legen wir Wert auf:</span></p><ul><li><span>große, ruhige Einzelschreibtische in moderner und lockerer Atmosphäre</span></li><li><span>maximale Vermeidung von Meetings und sinnloses Unterbrechungen</span></li><li><span>Gratis-Getränke und frisches Obst</span></li></ul><p><strong>Fairness</strong></p><p><span>Wir alle haben ein Privatleben und wollen wir nicht, dass Du extra viel sondern gut arbeitest. Überstunden werden daher bei uns nicht erwartet sondern bestmöglich vermieden und im Falle des Falles zügig ausgeglichen.&nbsp;</span></p><p><strong>Transparenz</strong></p><p><span>Zu Beginn jedes Monats gibt es ein Team-Meeting mit den aktuellen Zahlen und dem Ziel, alle Themen anzusprechen, die dem Team auf dem Herzen liegen.</span></p><p><span>Außerdem findest du bei uns:</span></p><ul><li><span>Faire Bezahlung und einen unbefristeten Arbeitsvertrag</span></li><li><span>Ausstattung mit modernem Arbeitsgerät Deiner Wahl</span></li><li><span>Kurze Entscheidungswege in einem kleinen, sehr netten Team</span></li><li><span>Kostenlose Jahreskarte für die öffentlichen Verkehrsmittel Berlins</span></li><li><span>Eine von PicDrop geförderte betriebliche Altersvorsorge</span></li></ul><p><strong>Übrigens ...&nbsp;</strong></p><p><span>Auf </span><a href='https://picdrop.team/' rel='nofollow'><span>picdrop.team</span></a><span> findest du übrigens alles über uns und unser Team! Von der Gestaltung deines ersten Arbeitstages, unserer Kommunikations- und Meetingkultur bis hin zu unserer Arbeitsweise und unserer Toolbox. &nbsp;</span></p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Competitive salary and indefinite contract</span>                            </li>                            <li>                                <span></span>                                <span>A nice team and dealing at eye level</span>                            </li>                            <li>                                <span></span>                                <span>Flexible, trust-based working hours</span>                            </li>                            <li>                                <span></span>                                <span>The possibility for home office</span>                            </li>                            <li>                                <span></span>                                <span>Modern equipment of your choice</span>                            </li>                            <li>                                <span></span>                                <span>Short decision paths in a small team</span>                            </li>                            <li>                                <span></span>                                <span>A relaxed working environment</span>                            </li>                            <li>                                <span></span>                                <span>Room for development and further training</span>                            </li>                            <li>                                <span></span>                                <span>A very good espresso machine and free beverage supply</span>                            </li>                            <li>                                <span></span>                                <span>Working on a product that is used by real users every day</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "HVl6OyR0TUOW3pgcFndJnQ",
+    "url": "https://weworkremotely.com/remote-jobs/wisepops-lead-back-end-engineer-based-in-europe",
+    "title": "WisePops: Lead back-end engineer (Based in Europe)",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/20",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/13",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:zend-framework/php/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=14, bigdata-ml=0, ruby=15, apple=0, java=0, gamedev=0, php=36, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Natural Resources Defense CouncilFull-TimeUnited States OnlySafeguarding MonitorFull-TimeUK OnlyGotSoccer, LLC - gotsoccer.com, gotpro.comFull-TimeWorld",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 28, 2019 2:55:10 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 28, 2019 3:06:23 PM",
+    "content": "<h2> Lead back-end engineer (Based in Europe) </h2><div><div><h4><span>WisePops is looking for a lead back-end developer.</span><br></h4></div><div><em>Your mission?&nbsp;</em>Help us bring our product to the next level.</div><div><h2><strong>Responsibilities</strong></h2></div><ul><li>Contribute to developing new back-end features<br></li><li>Challenge technical specifications for all the back-end projects<br></li><li>Help us migrate our legacy PHP code (Zend) to a new PHP framework (Laravel)<br></li><li>Code integrations with new partners (email service providers and CRM)<br></li></ul><div>You’ll be working with a&nbsp;<a href='https://wisepops.com/about-us/' rel='nofollow'>small team of top talents</a>&nbsp;with experience at Amazon, Rakuten, Line, Botify, Publicis, and Doctolib.<br></div><div><h2><strong>Benefits</strong></h2></div><ul><li>Competitive salary &nbsp;based on experience and skills<br></li><li>Social security (Alan Blue)<br></li><li>Coworking space<br><br></li></ul><div><h4>Requirements</h4></div><ul><li>Based in Europe (GMT+3 to GMT-1 is OK)</li><li>3 years+ of work experience</li><li>Excellent knowledge of PHP (any framework)<br></li><li>Familiarity with Node.js is a plus (some of our back-end services are in Node)<br></li><li>Familiarity with a JS front-end framework is a plus (we use React)<br></li><li>Strong entrepreneurial mindset<br></li><li>Fluent in English<br></li><li>Remote position<br><br></li></ul></div><div><h3> Related Jobs <span><a rel='nofollow'> See more Programming jobs<span>→</span></a></span></h3><ul><li><span>New</span><div></div><div><a rel='nofollow'><div></div><span>View company profile</span></a></div><a rel='nofollow'><span>Natural Resources Defense Council</span><br><span>Front End Web Developer</span><span>featured</span><br><span>Full-Time</span><span>/</span><span>United States Only</span></a></li><li><span>New</span><div></div><div><a rel='nofollow'><div></div><span>View company profile</span></a></div><a rel='nofollow'><span>Safeguarding Monitor</span><br><span>Ruby on Rails Engineer (UK Remote)</span><span>featured</span><br><span>Full-Time</span><span>/</span><span>UK Only</span></a></li><li><div></div><div><a rel='nofollow'><div></div><span>View company profile</span></a></div><a rel='nofollow'><span>GotSoccer, LLC - gotsoccer.com, gotpro.com</span><br><span>Scheduling / Optimization Programmer</span><span>featured</span><br><span>Full-Time</span><span>/</span><span>World</span></a></li></ul><br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "qpWhww7uT4epfzyWB1iSqA",
+    "url": "https://stackoverflow.com/jobs/276882/software-engineer-remote-automattic?a=1uRaKwJGbWqA",
+    "title": "Software Engineer (Remote) at Automattic (Sydney, Australia) ",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR( australia, japan, newzealand)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:woocommerce/php/16",
+      "DBG_TECH1:k/t/w:wordpress/php/30",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=51, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/Asia"
+    ],
+    "tagsNames1": [
+      "Asia time zones"
+    ],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Automattic",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 28, 2019 5:06:24 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 28, 2019 5:06:24 AM",
+    "content": "<h2><span>Software Engineer (Remote)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: Automattic | Sydney, Australia<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Sydney, Australia.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div>php</div><div>wordpress</div><div>open-source</div>                <h3>Job description</h3>                <div><p>WordPress doesn’t try to keep its users inside walled gardens, a rare thing in a world that is dangerously moving away from the open web. Instead, WordPress gives them the freedom to build a business website, an online store, or a personal blog – the way they like it. Big sites or small, using the community-run&nbsp;open source project&nbsp;or Automattic’s&nbsp;WordPress.com, vanilla or customised with with hundreds of plugins, WordPress users always get to own and control their data, their expression, and their freedom.</p><p>What have we worked on recently?</p><ul><li>Gutenberg&nbsp;– a new block-level editor, clean abstractions for users, too, not just developers.</li><li>Jetpack&nbsp;is a plugin that brings cloud-scale features to self-hosted sites and our latest addition is&nbsp;Rewind, think&nbsp;git&nbsp;for WordPress sites.</li><li>WooCommerce&nbsp;is the most popular e-commerce platform on the web</li><li>Longer product list is on&nbsp;Automattic.com.</li></ul><p>How do we work?</p><ul><li>We open-source! We’re cool with&nbsp;open-sourcing&nbsp;everything except passwords, or secret keys.</li><li>We ship often, we&nbsp;deploy many&nbsp;times daily, with the help of peer code review and continuous integration.</li><li>Our engineering organization is flat, and you can be involved in any discussion across our many communication channels.</li><li>We’re&nbsp;kind to each other&nbsp;and our users – we strive to build a positive, supportive and inclusive culture of cohesive teams focused on delivering value to our customers.</li></ul><p>Here some areas in which you can grow and have further impact in the future:</p><ul><li>Learning and development – we have a generous personal development budget and encourage you to grow your skills through courses, books and conferences.</li><li>Architecture – we encourage developers to develop expertise in the systems they work with, guide their evolution and mentor other developers working on them.</li><li>Engineering effectiveness – helping other developers become more effective through tools, practices, cross-team collaborations, and process improvements.</li><li>Leadership – we offer a variety of leadership options to those who have interest, including becoming a team lead.</li></ul><p>These are exciting times at Automattic and you’ll have a unique opportunity to shape the future of our products. Join us! We look forward to hearing from you.</p><p>We’re serious about growing diversity in the tech industry. We want to build Automattic as an environment where people love their work and show respect and empathy to those with whom we interact. Diversity typically includes, but is not limited to, differences in race, gender, sexual orientation, gender identity or expression, political and religious affiliation, socioeconomic background, cultural background, geographic location, disabilities and abilities, relationship status, veteran status, and age. To work on diversity means that we welcome these differences, and strive to increase the visibility of traditionally underrepresented groups. Read more about our dedication to&nbsp;diversity and inclusion.</p><p>HOW TO APPLY</p><p>Does this sound interesting? If yes, please send a short email to<strong>&nbsp;jobs @ this domain</strong>telling us about yourself and&nbsp;<strong>attach a résumé as a PDF</strong>. Let us know what you can contribute to the team.&nbsp;<strong>Include the title</strong>&nbsp;of the position you’re applying for and your name in the subject.</p><p>Proofread! Make sure you spell and capitalize WordPress and Automattic correctly. We are lucky to receive hundreds of applications for every position, so try to make your application stand out. If you apply for multiple positions or send multiple emails there will be one reply.</p><p>If you’re reading this on a site other than automattic.com please ensure you visit automattic.com/work-with-us for the latest details on applying.</p><p>Please answer the following questions in your cover letter. We will only consider candidates whose cover letters answer these questions.</p><ol><li>Tell us some details about an interesting programming problem you’ve worked on. What made it interesting?</li><li>How do you use our products or their competitors’? How would you improve one of them?</li><li>When you make a&nbsp;GET&nbsp;request to:&nbsp;<a href='https://public-api.wordpress.com/wpcom/v2/work-with-us' rel='nofollow'>https://public-api.wordpress.com/wpcom/v2/work-with-us</a><br>with a header&nbsp;X-future:&nbsp;automattician&nbsp;you will receive a secret. What is it?</li><li>What questions do you have for us?</li></ol>                </div>            <div>        <a href='https://grnh.se/aaeb99f01' rel='nofollow'>                        Apply now        </a></div>            <h3>About Automattic</h3>            <div><p>We are the people behind&nbsp;WordPress.com,&nbsp;WooCommerce,&nbsp;Jetpack,&nbsp;Simplenote,&nbsp;Longreads,&nbsp;VaultPress,&nbsp;Akismet,&nbsp;Gravatar,&nbsp;Crowdsignal,&nbsp;Cloudup, and more. We believe in making the web a better place.</p><p>We’re a distributed company with 928 Automatticians in 69 countries speaking 87 different languages. Our common goal is to democratize publishing so that anyone with a story can tell it, regardless of income, gender, politics, language, or where they live in the world.</p><p>We believe in Open Source&nbsp;and the vast majority of our work is available under the GPL.</p><p>We strive to live by the&nbsp;Automattic Creed.</p><p>Come&nbsp;work with us.</p>            </div>        ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "DOADPPwtRRKcXvWAF96E-Q",
+    "url": "https://remoteok.io/jobs/73611",
+    "title": "Senior PHP React Developer",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/15",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/24",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=23, embedded=0, frontend=24}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "PNDLM",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 28, 2019 3:00:47 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 28, 2019 3:06:30 AM",
+    "content": "<span><h2>Senior PHP React Developer</h2></span> <br> <span><h3>PNDLM</h3></span> <div>  <div>   <br>We are hiring for a full-time, &quot;full-stack&quot; software development position with the option to work remotely most or all days. Close proximity to the Portland, OR metro area is preferred so you can attend team gatherings and occasional client meetings, but it is not strictly required. The primary technologies that we use are modern PHP (7+), ReactJS (ECMAScript5), Laravel, MySQL/MariaDB and Apache. Python, Docker and Docker Swarm knowledge would be a plus.   <br>   <br>YOU MUST BE AN INDIVIDUAL U.S. CITIZEN, RESIDING IN AND ELIGIBLE TO WORK IN THE UNITED STATES.   <br>   <br>If you are interested, please send the following:   <br>   <br>1. A brief resume   <br>2. Sample(s) of some of your work (code samples if available, a link to GitHub or other open source repo is great)   <br>3. If you have a StackOverflow account, please let us know your username  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "hn_lina6Q3CxmOIDfqOyyQ",
+    "url": "https://jobmote.com/job/44539/sr-servicenow-developer-100-remote/",
+    "title": "Sr. ServiceNow Developer - 100% Remote",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``choos 5W locat",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=5, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/other",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c",
+      "other",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Nelson Frank",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 27, 2019 10:07:22 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 28, 2019 3:06:25 AM",
+    "content": "<div><b>ServiceNow Senior Developer - 100% Remote - ServiceNow Gold Partner</b><br> Join a rapidly growing ServiceNow Gold partner with both federal and enterprise contracts. A 100% remote position that gives you the freedom to choose location, lifestyle, and workplace each day. With experience in ServiceNow partner companies previously, the management has stressed independence for each employee and is very flexible with many points of the position. A strong independent personality who is looking to push themselves professionally is going to do great with our client.<br><b>Responsibilities</b><ul><li>Resolve complex bugs/defects</li><li>Resolve any security issues within the ServiceNow platform</li><li>Resolve high-impact issues affecting ServiceNow performance</li><li>Create a release management process within ServiceNow and formalize necessary roles and processes to track development and testing of enhancements and defects</li><li>Document current incident management processes to compare with best practices and build incident management requirements</li></ul><b>Requirements</b><ul><li>Extensive knowledge and experience supporting the implementation, administration, configuration, and/or development of an ITSM tool.</li><li>Multiple years in ServiceNow development - experience should include scripting, tool configuration, design work, technical configuration, and deployment; specifically, candidates shall possess the skill to develop on the ServiceNow platform including the creation and/or customization of the core applications</li><li>JavaScript, PHP, C, Java, Perl, HTML or HTML 5 coding experience</li></ul><b>Preferred Skills</b><ul><li>ITIL Foundations Certification</li><li>ServiceNow system Admin Certification</li><li>ServiceNow Implementation Specialist Certification</li><li>ServiceNow Application Developer Certification</li></ul> Are you interested in new development techniques that will challenge you on a daily basis? Do you enjoy remote work? This could be the perfect position for you. Nelson Frank has received a large amount of interest in this position and it will be competitive. If you see yourself in this position give yourself the opportunity to join this client.<br><br>ServiceNow, Service Now, Service-Now, ITIL, ITSM</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "NqvxqMG3Rs6X11APz8oWJA",
+    "url": "https://stackoverflow.com/jobs/277527/senior-php-react-developer-pndlm?a=1v4AfYeSf2hO",
+    "title": "Senior PHP/React developer at PNDLM  ",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/20",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/32",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=28, embedded=0, frontend=32}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "PNDLM",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 75000,
+      "maxValue": 100000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 75k - 100k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 27, 2019 9:30:24 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 27, 2019 9:30:24 PM",
+    "content": "<h2><span>Senior PHP/React developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: PNDLM | No office location<br></div><h3>Technologies</h3><div>docker</div><div>php</div><div>mysql</div><div>react</div>                <h3>Job description</h3>                <div><p>We are hiring for a full-time, &quot;full-stack&quot; software development position with the option to work remotely most or all days. Close proximity to the Portland, OR metro area is preferred so you can attend team gatherings and occasional client meetings, but it is not strictly required. The primary technologies that we use are modern PHP (7+), ReactJS (ECMAScript5), Laravel, MySQL/MariaDB and Apache. Python, Docker and Docker Swarm knowledge would be a plus.<br><br>YOU MUST BE AN INDIVIDUAL U.S. CITIZEN, RESIDING IN AND ELIGIBLE TO WORK IN THE UNITED STATES.<br><br>If you are interested, please send the following:<br><br>1. A brief resume<br>2. Sample(s) of some of your work (code samples if available, a link to GitHub or other open source repo is great)<br>3. If you have a StackOverflow account, please let us know your username</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/277527?reset=False&amp;ra=1v4AfYeSf2hO&amp;oqs=a%3D1v4AfYeSf2hO' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About PNDLM</h3>            <div><p><strong>PNDLM<br>A digital product consultancy</strong></p><p>We help startups and innovating enterprises evolve ideas into money-making realities.</p><p>Our proven track record of designing and building digital products and systems, combined with our elite network of investors, marketing and business strategists, ensures that we're not just helping you build a great product, but a profitable business.</p>            </div>        ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "yl2OozPGRH-7XL0ChcseIQ",
     "url": "https://jobmote.com/job/44164/senior-php-developer-100-remote/",
     "title": "Senior PHP Developer - 100% remote",
@@ -3723,63 +4056,6 @@
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "crawled": "Jun 6, 2019 4:06:08 PM",
     "content": "<h2><span>Sr.&nbsp;Software Engineer - PHP</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Contract</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Digital Health, Healthcare, Public Health</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>57</span>                                                                        <span>0</span>                                                                        <span>22</span>                                                                        <span>3</span>                                                                        <span>2</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: 7 Cups | No office location<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT-08:00) Pacific Time </span>                                </div>                                                                                                            </div>                    </div>                <h3>Technologies</h3><div></div><div>php</div>                <h3>Job description</h3>                <div><p>7Cups is seeking a <strong>Sr.&nbsp;</strong><strong>Software Engineer - Contract - PHP&nbsp; for 10-15 hours a week worth of work for 3 months</strong>.&nbsp;You'll be doing all PHP &amp; HTML work: rebuilding the homepage, working on a few speed optimizations of the PHP sections of the site, and tweaking sitemaps &amp; tag structure.</p><p><strong>What you’ll do:</strong></p><ul><li>Code and test software based upon software specifications and design</li><li>Analyze user needs and software requirements to determine feasibility of design within time and cost constraints</li><li>Troubleshoot and resolve issues in existing software</li><li>Analyze and study complex systems requirements</li><li>Prepare design documentation</li><li>Write and maintain technical documentation to describe program development, logic, coding, testing, changes, and corrections</li><li>Collaborate and communicate effectively with stakeholders throughout the organization</li><li>Oversee and mentor junior developers on projects.</li></ul><p><strong>What you bring:</strong></p><ul><li>3+ years of software developer experience</li><li>2+ years of experience with PHP</li><li>You love to code and do it for fun!</li><li>Understanding of OOP, data structures, and algorithms</li><li>Creative, constructive problem solver</li><li>Diligent, persistent worker</li><li>Quick learner, collaborative, willing to question, eager to learn</li><li>BS or BA in CS or comparable degree</li></ul><p><strong>What you get:</strong></p><ul><li>Remote-first culture, work where you want</li></ul><p><strong>Equal Employment Opportunities at 7Cups:</strong></p><p>7Cups is committed to hiring talented and qualified individuals with diverse backgrounds for all of its tech, non-tech, and leadership roles. 7Cups believes that the gathering and celebration of unique backgrounds, qualities, and cultures enriches the workplace. &nbsp;&nbsp;</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/252243?reset=False&amp;ra=1mARaYUR5kDm&amp;oqs=a%3D1mARaYUR5kDm' rel='nofollow'>Apply now</a></div>            <h3>About 7 Cups</h3>            <div><p>7 Cups’ mission is to empower every human to care for one another. Since graduating Y-Combinator in 2013, 7 Cups’ has significantly expanded access to emotional support and behavioral health. We are currently the largest mental health system in the world. Over 2 million people from almost every country on the planet (191/195) in 152 different languages use the platform each month. We are living in a world with an immense love deficit. Many of us are not receiving the love we need to reach our true potential and to truly thrive. We are solving this huge problem, and trying to change the stigma around mental health.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Remote first culture</span>                            </li>                            <li>                                <span></span>                                <span>Built-in focus on professional development</span>                            </li>                            <li>                                <span></span>                                <span>Competitive compensation and opportunity for advancement through merit</span>                            </li>                            <li>                                <span></span>                                <span>100% medical, dental and vision coverage</span>                            </li>                            <li>                                <span></span>                                <span>Generous PTO policy promoting rest for mind/body/soul</span>                            </li>                            <li>                                <span></span>                                <span>Two company retreats a year to bond with your distributed team mates</span>                            </li>                            <li>                                <span></span>                                <span>Know that everyday you're making a direct positive impact on people</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ZWbgTkzMSruNNR6Wxn8hWA",
-    "url": "https://stackoverflow.com/jobs/250734/cloud-developer-tools-engineer-elastic?a=1m5tPTYA8LiE",
-    "title": "Cloud - Developer Tools Engineer at Elastic  ",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:scala/java/3",
-      "DBG_TECH1:k/t/w:wordpress/php/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=7, gamedev=0, php=5, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "java",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Elastic",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 6, 2019 4:06:07 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 6, 2019 4:06:08 PM",
-    "content": "<h2><span>Cloud - Developer Tools Engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Industry: </span>                                        <span>Data &amp; Analytics, Search, Software Development / Engineering</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Company size: </span>                                        <span>1k-5k people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Public</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>2</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: Elastic | No office location<br></div><h3>Technologies</h3><div></div><div>elasticsearch</div><div>saas</div><div>java</div><div>bevacqua Senior Software Engineer at Elastic, and JavaScript Consultant, Speaker, Published Author 28k 41 142 270</div><div>tsg 1.8k 9 10</div><div>cstrzadala 146 5</div><div>drewr 1.4k 14 20</div>                <h3>Job description</h3>                <div><p>At Elastic, we have a simple goal: to pursue the world's data problems with products that delight and inspire. We help people around the world do exceptional things with their data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots. Often, what you can do with our products is only limited by what you can dream up. We believe that diversity drives our vibe. We unite employees across 30+ countries into one unified team, while the broader community spans across over 100 countries.</p><p>Elastic is seeking an Engineer to join the “Developer Tools” team inside Cloud Engineering. The charter for this team is to create self-service frameworks and developer environments that will empower our engineers ship quality products on our SaaS platform. You will work together with the Product Development and Operational teams to continuously improve developer efficiency and to provide tight feedback loop in the development cycle.</p><p><strong>What You Will Do:</strong></p><ul><li>Create and maintain “SaaS in a box” environments to test and validate features and bug fixes.</li><li>Empower engineers by creating a self-service platform to quickly validate changes</li><li>Create a framework to measure and report developer productivity as a metric. This framework will be used to identify bottlenecks, improve our processes and automation.</li><li>Collaborate with the release engineering team on initiatives like indexing test data in Elasticsearch, flaky test analysis and reporting on release efficiency</li><li>Collaborate with the SRE team to investigate production issues and improve any gaps that result from investigations</li><li>Grow and share your interest in technical outreach (blog posts, tech papers, conference speaking, etc</li></ul><p><strong>What You Bring Along:</strong></p><ul><li>You have a software engineering background with a deep understanding of SaaS environments</li><li>You are passionate about building developer environments, automated tools and extensible frameworks that facilitate the entire engineering team</li><li>Technical experience in CI/CD, source control, release strategies</li><li>Experience with Docker is a must</li><li>Knowledge of scripting languages</li><li>Good working knowledge of Linux is required</li><li>Experience working with AWS services and EC2 environments</li><li>Experience with Scala and Java build ecosystem is a big plus</li></ul><p><strong>Additional Information:</strong></p><p>We're looking to hire team members invested in realizing the goal of making real-time data exploration easy and available to anyone. As a distributed company, we believe that diversity drives our vibe! Whether you're looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life.</p><ul><li>Competitive pay based on the work you do here and not your previous salary</li><li>Equity</li><li>Global minimum of 16 weeks of paid in full parental leave (moms &amp; dads)</li><li>Generous vacation time and one week of volunteer time off</li><li>Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.</li></ul><p>Elastic is an Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/250734?reset=False&amp;ra=1m5tPTYA8LiE&amp;oqs=a%3D1m5tPTYA8LiE' rel='nofollow'>Apply now</a></div>            <h3>About Elastic</h3>            <div><p>Elastic builds software to make data usable in real time and at scale for search, logging, security, and analytics use cases. Founded in 2012, the company develops the open source Elastic Stack (Elasticsearch, Kibana, Beats, and Logstash), X-Pack (commercial features), and Elastic Cloud (a SaaS offering). To date, there have been more than 100 million cumulative downloads. The Elastic community is 100,000 members strong. Thousands of organizations including Cisco, eBay, Goldman Sachs, NASA, Microsoft, Mayo Clinic, <em>The New York Times</em>, Wikipedia, and Verizon use Elastic to power mission-critical systems. Backed by Benchmark Capital, Index Ventures, and NEA with more than $100 million in funding, Elastic has a distributed workforce with more than 600 employees in 30 countries. Learn more at <a href='http://www.elastic.co' rel='nofollow'>elastic.co</a></p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>401k Matching Up to 6 % in US and Pensions in some other countries</span>                            </li>                            <li>                                <span></span>                                <span>Vacation to be determined by location</span>                            </li>                            <li>                                <span></span>                                <span>100% distributed work</span>                            </li>                            <li>                                <span></span>                                <span>Spacetime (Program for any developer in any team to innovate)</span>                            </li>                            <li>                                <span></span>                                <span>Donation matching</span>                            </li>                            <li>                                <span></span>                                <span>Employee Assistance Program</span>                            </li>                            <li>                                <span></span>                                <span>Engineering All-Hands bi-annually</span>                            </li>                            <li>                                <span></span>                                <span>Volunteer Time-Off</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
