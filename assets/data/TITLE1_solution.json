@@ -1,119 +1,43 @@
 {
  "items": [
   {
-    "id": "rhcWzu6jQxOoceetvGXFYg",
-    "url": "https://jobmote.com/job/44074/azure-cloud-administrator-remote-anywhere-in-us/",
-    "title": "Azure Cloud Administrator - REMOTE Anywhere in US",
-    "tags": [
-      "DBG:surround``2N(anywher, remot)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 25, 2019 10:07:20 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 26, 2019 3:06:24 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "CdjtwWCUScC6y3oWO6KNWQ",
-    "url": "https://jobmote.com/job/44045/aws-developer-contract-multiple-locations-or-remote-w2-only/",
-    "title": "AWS Developer - Contract - Multiple Locations or Remote - (W2 only)",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``remot 3W onli",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 25, 2019 10:07:20 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 26, 2019 3:06:24 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "xQLJ2m2xRIeziEEjFeRUFw",
-    "url": "https://jobmote.com/job/43894/java-aws-microservices-100-remote-contract-to-hire/",
-    "title": "Java AWS Microservices - 100% Remote - Contract To Hire",
+    "id": "7CyyigqOSnejxdz9-HB68A",
+    "url": "https://stackoverflow.com/jobs/206643/solutions-architect-ruby-python-react-small-analytics-fire?a=17iHypx1pUju",
+    "title": "Solutions Architect (Ruby/Python/React) - Small Team, 100% Remote,Flexible Hours at Analytics Fire  ",
     "tags": [
       "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/15",
+      "DBG_TECH1:k/t/w:embedded-linux/embedded/8",
+      "DBG_TECH1:k/t/w:embedded/c/3",
+      "DBG_TECH1:k/t/w:embedded/embedded/24",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:opencv/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:k/t/w:reactjs/frontend/32",
+      "DBG_TECH1:k/t/w:ruby/ruby/10",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=26, mobile=2, go=0, nodejs=4, bigdata-ml=10, ruby=10, apple=2, java=0, gamedev=0, php=0, embedded=32, frontend=44}",
       "REMOTE1/100",
-      "TECH1/java",
+      "TECH1/embedded",
+      "TECH1/frontend",
       "TITLE1/solution",
       "TZ/unknown"
     ],
     "tagsNames1": [],
     "tagsNames2": [
-      "java"
+      "embedded",
+      "frontend"
     ],
     "hiringOrganization": {
-      "name": "UNSET",
+      "name": "Analytics Fire",
       "sameAs": "UNSET"
     },
     "salary": {
@@ -127,10 +51,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Jun 25, 2019 11:34:45 AM",
+    "published": "Jun 30, 2019 3:06:25 AM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 25, 2019 4:06:25 PM",
-    "content": "",
+    "crawled": "Jun 30, 2019 3:06:25 AM",
+    "content": "<h2><span>Solutions Architect (Ruby/Python/React) - Small Team, 100% Remote,Flexible Hours</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead, Manager</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Internet of Things, Software Development / Engineering, Solar</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>2</span>                                                                        <span>0</span>                                                                        <span>1</span>                                                                        <span>1</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: Analytics Fire | No office location<br></div><h3>Technologies</h3><div></div><div>python</div><div>reactjs</div><div>ruby</div><div>javascript</div><div>devops</div>                <h3>Job description</h3>                <div><p>Analytics Fire builds custom software for the solar power industry. We’re looking for a collaborative but hands-on Solutions Architect to help us scale our execution to support additional new high-tech sectors.</p><p>Analytics Fire is a deeply technical engineering organization. Most of us are software engineers and spend the majority of our time on heads down engineering activities like coding. Our goal in creating this position is to expand our small client-facing team with a unique person that has both the personality and the technical skill set to collaborate directly with clients and senior members of the technical team in order to help steer technical decision making and requirements gathering, especially early in the project lifecycle.</p><p>This position is similar to that of a technical Program Manager, but you will be much more involved in the technical details and hurdles around software architecture than a traditional Project Manager would be. Our ideal candidate is a current or former full stack Software Engineer that is willing to be trained in formal Program Management processes (or has already been trained in formal Program Management processes).</p><p>As a small company, Analytics Fire is able to tailor roles around the strengths of our individual team members. We will tailor this role to your specific technical background. However, it is a hard requirement that you are able to support the following 3 types of responsibilities:</p><ul><li>(a) Represent Analytics Fire software engineering teams in client-facing interactions (and sometimes interactions with potential clients)</li><li>(b) Technical writing responsibilities such as documenting requirements, project plans, system architecture, etc.</li><li>(c) Making meaningful contributions to the execution of complex software projects.</li></ul><p>For reference, here is a list of some technologies we are currently actively using on a day-to-day basis:</p><ul><li>JavaScript: React / Angular /&nbsp;Typescript / GraphQL</li><li>Back-end: Ruby / Python / Node</li><li>Embedded (IoT): C, Embedded Linux, MQTT</li><li>Embedded (robotics): C/C++, ROS</li><li>Modern software techniques: RESTful APIs, SOA, PaaS, etc</li><li>Agile collaboration and DevOps tools: Github, Trello, Slack, Chef, Ansible, Docker, Vagrant, etc</li><li>Other technologies we are currently building with: AWS, GCP, TensorFlow, OpenCV, Yocto, Salesforce platform, iOS, ARKit</li></ul><p>Your primary responsibility will be to assist in guiding new projects through sales, planning, development, and deployment. This will be accomplished through a combination of client interactions, technical writing, and participation in formal sales, program management, and engineering related processes. Your contributions will naturally be slightly front-loaded towards the sales and planning phases, however you will remain deeply connected to each project through the entire lifecycle in order to ensure conceptual integrity is maintained from design to final implementation.</p><p>This is a remote position but is only open to candidates living in the US or Canada. We’re flexible about location and hours. We’re a really great match for candidate who wants to work hard on interesting projects, while also having flexibility around time and geography.</p><p><strong>Skills &amp; Requirements</strong></p><p>“Must have” requirements:</p><ul><li>5+ years relevant hands-on experience as a full stack Software Engineer, DevOps engineer, or Site Reliability Engineer, ideally within a commercial startup environment.</li><li>Fluency around current modern best practices around software development and DevOps.</li><li>Soft skills necessary to navigate and negotiate with multiple teams, both internal and external to Analytics Fire.</li><li>Ability and willingness to familiarize yourself with our technical stack.</li><li>Superior organization and detail orientation.</li><li>Excellent written and verbal communication skills.</li><li>Willingness to design, document, and evangelize new engineering processes to meet evolving organizational requirements.</li></ul><p>“Nice to have” requirements:</p><ul><li>Hands-on technical experience writing code in&nbsp;Ruby, Python, or JavaScript</li><li>Previous experience as a technical Program Manager.</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/206643?reset=False&amp;ra=17iHypx1pUju&amp;oqs=a%3D17iHypx1pUju' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Analytics Fire</h3>            <div><p>Analytics Fire was founded by a couple of data-nerds -- one a PHd in machine learning and the other a former VP of Engineering for an analytics platform -- who both are also serial entrepreneurs backed by prominent angels and VCs including Y Combinator and 500 Startups.</p><p>“We founded Analytics Fire to create the engineering department that we always dreamed of working for. To us that means being able to spend our time working on interesting technical problems, while simultaneously having flexibility around time and geography and being part of a small, tightly-knit team of world-class engineers.”</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Remote</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Schedule</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -143,9 +67,9 @@
     }
   },
   {
-    "id": "brACHal4SSmHbLN5tKeH2Q",
-    "url": "https://jobmote.com/job/42818/microsoft-solutions-architect-developer-remote/",
-    "title": "Microsoft Solutions Architect/Developer (Remote)",
+    "id": "bhzA_V6MR92LbLonlX9oFA",
+    "url": "https://jobmote.com/job/45419/azure-engineer-austin-remote-100-000/",
+    "title": "Azure Engineer - Austin/Remote - $100,000",
     "tags": [
       "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
       "REMOTE1/100",
@@ -158,7 +82,7 @@
       "unknown"
     ],
     "hiringOrganization": {
-      "name": "UNSET",
+      "name": "Nigel Frank International US",
       "sameAs": "UNSET"
     },
     "salary": {
@@ -172,10 +96,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Jun 23, 2019 10:07:12 PM",
+    "published": "Jun 28, 2019 10:07:20 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 24, 2019 3:06:24 AM",
-    "content": "",
+    "crawled": "Jun 29, 2019 3:06:24 AM",
+    "content": "<div>Nigel Frank International are working with a leading healthcare organisation who are recruiting for an Azure Engineer to join the business on a permanent basis.<br><br>In order to be successful in your application for this role you must be able to demonstrate experience with both Azure IaaS and PaaS. Experience having worked with the deployment of codes is also required.<br><br>This role will involve an element of production support so any experience with this will be advantageous.<br><br>Any experience with the below would be highly desireable:<ul><li>Azure SQL Database </li><li>Azure Table Storage</li><li>Notification Hub</li><li>IoT Hub</li><li>Azure Functions</li><li>Azure CosmosDB</li></ul>If you are interested in joining an organisation who will provide the opportunity to work further in the Azure space and continue to develop your already established knowledge, please do apply today.<br><br>Send your resume to: [Click Here to Email Your Resum?] for consideration.<br><br>Only US Citizens/Green Card Holders will be considered for this opening.<br></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -188,13 +112,260 @@
     }
   },
   {
-    "id": "_6HTkoWNT1mBPF_reilthg",
-    "url": "https://jobmote.com/job/42771/aws-data-engineer-and-solutions-architect-fully-remote/",
-    "title": "AWS Data Engineer and Solutions Architect - Fully Remote",
+    "id": "95_wWjniTlyHQ_p2y5kQLQ",
+    "url": "https://jobmote.com/job/45400/azure-engineer-san-antonio-remote-100-000/",
+    "title": "Azure Engineer - San Antonio/Remote - $100,000",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/solution",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Nigel Frank International US",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 28, 2019 10:07:19 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 29, 2019 3:06:24 AM",
+    "content": "<div>Nigel Frank International are working with a leading healthcare organisation who are recruiting for an Azure Engineer to join the business on a permanent basis.<br><br>In order to be successful in your application for this role you must be able to demonstrate experience with both Azure IaaS and PaaS. Experience having worked with the deployment of codes is also required.<br><br>This role will involve an element of production support so any experience with this will be advantageous.<br><br>Any experience with the below would be highly desireable:<ul><li>Azure SQL Database </li><li>Azure Table Storage</li><li>Notification Hub</li><li>IoT Hub</li><li>Azure Functions</li><li>Azure CosmosDB</li></ul>If you are interested in joining an organisation who will provide the opportunity to work further in the Azure space and continue to develop your already established knowledge, please do apply today.<br><br>Send your resume to: [Click Here to Email Your Resum?] for consideration.<br><br>Only US Citizens/Green Card Holders will be considered for this opening.<br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "2jFN4pjEQB-nP3kffVHyiQ",
+    "url": "https://jobmote.com/job/44507/azure-cloud-administrator-remote-anywhere-in-us/",
+    "title": "Azure Cloud Administrator - REMOTE Anywhere in US",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/solution",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Capgemini Government Solutions",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 27, 2019 10:07:21 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 28, 2019 3:06:25 AM",
+    "content": "<div>Capgemini Government Solutions (CGGS) LLC is seeking a highly motivated Azure Cloud Administrator to join our team to support our government clients.<br> This is a remote role, the candidate can be located anywhere in the United States. The successful applicant needs to have extensive working knowledge implementing, migrating and managing operating systems/applications in an enterprise cloud computing environment.<br> ?This applicant will have subject matter expertise with Microsoft Azure with a deep knowledge of cloud technologies and have the ability to align technology solutions to specific business objectives.<br><br>The successful candidate will have an opportunity to apply and grow their skillset and work with a motivated and entrepreneurial team, engage with<br> a wide range of stakeholders, and build CGGS? capabilities by serving our clients.<br><br>Job Responsibilities:<br><br>As an Azure Cloud Administrator, you will:<ul><li>Support Federal Government clients in their cloud operations to enhance, optimize, and maintain their computing capabilities across their technical<br> landscape. </li><li>Interview clients? to understand application and infrastructure current state.</li><li>Lead clients? working sessions to identify, categorize, prioritize and analyze data and information to work into cloud migration action plans.</li><li>Work with the larger project teams to migrate legacy applications to their cloud platform.</li><li>Manage cloud infrastructure from the portal, PowerShell, or using the CLI.</li><li>Utilize automation tool such as Terraform, Ansible, or similar.</li><li>Assist with upgrading, installing, configuring and monitoring solutions in Azure for Windows and Linux servers.</li><li>Maintain gold images/scripts.</li><li>Assist with reporting on current infrastructure status, and planning for future usage.<br><br>Basic Qualifications</li></ul><ul><li>US Citizenship is required.</li><li>Eligibility to obtain and maintain Government Security Clearance (Public Trust -High-Risk).</li><li>Minimum of?8 Years of IT work experience required.</li><li>Bachelor's Degree (Computer Science, Electrical Engineering or other technical discipline) and 8 years of additional relevant experience or No Bachelor?s<br> (substituted for education) and total of at least 16 years of work experience.)</li><li>Hands on experience with Azure (must have used the portal or used CLI, and API?s).</li><li>Minimum of 1 year of experience actively implementing cloud solutions and using Azure services.</li><li>High proficiency in written and oral communication for conveyance of cloud solution work products. Proficiency in Microsoft Office suite.</li></ul>Additional Qualifications<ul><li>Azure Certification.</li><li>DevOps and/or Micro-services experience with at least one technology including Chef, Puppet, Ansible, Docker, Kubernetes, Azure Container Service<br> etc. </li><li>Computer Science, or Engineering degree.</li><li>Previous Federal Government experience.</li><li>Experience with FedRamp environments.</li></ul>Company Overview<br><br>A global leader in consulting, technology services and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth<br> of clients? opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services<br> from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. It is a multicultural company of 200,000 team members in over 40 countries. The Group reported 2017 global revenues of EUR<br> 12.8 billion.<br><br>Capgemini has an entrepreneurial environment that embodies the following values: Honesty, Boldness, Trust, Freedom, Team Spirit, Modesty, and Fun.<br> We offer a competitive benefits package to our employees.<br><br>Capgemini Government Solutions, LLC (Capgemini GS) is a subsidiary of Capgemini focused on providing high quality services to the U.S. Federal Government.<br> Learn more about us at .<br><br>#ondice #CB<br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "NT-ty5mtSyqr7b4uzruIkA",
+    "url": "https://remote.co/job/solutions-support-analyst/",
+    "title": "Solutions Support Analyst",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:c++/c/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=16, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TITLE1/solution",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "Ultimate Software",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 27, 2019 5:50:31 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 27, 2019 6:24:53 PM",
+    "content": "<h2>Solutions Support Analyst at <span>Ultimate Software</span></h2><div><span><i></i> Remote</span>        </div><div>            <ul><li><strong>Payment Services</strong></li><li><strong>SOLUT05618</strong></li><li><strong>Full-Time</strong></li><li><strong>Remote – USA</strong></li></ul><p><strong>Job Details</strong></p><p><strong>Description</strong></p><ul><li>The PS Solutions Analyst is responsible for providing subject matter expertise and resolutions to our Select Services front line teams encountering system or functionality issues in their day to day operations. Solutioning these issues will require the need a “next level” research or analysis to be performed, especially regarding functionality of the Tax Software and/or process gaps. This role will interface with our Product Team (UTE Core at this time) as needed or when the issue requires a partnership with Development.</li><li>This role has high level knowledge of the complete Ultipro &amp; UTE system, including payroll processing/setup, the background workings of our data and data flow, and tax processing operations.</li></ul><p>Here at Ultimate Software, we truly put our people first. We strongly believe in teamwork, and we encourage and trust our people to reach higher, learn more, and live up to their potential. Ultimate is ranked #1 on Fortune’s Best Places to Work in Technology for 2019 and #8 on the 100 Best Companies to Work For list in 2019. Ultimate is also ranked #1 on Fortune’s 75 Best Workplaces for Women and #5 on its Best Workplaces for Diversity list.</p><p><strong>Primary/Essential Duties and Key Responsibilities:</strong></p><ul><li>Provide quality support to our internal customers with a high degree of technical expertise and timeliness fitting the scenario.</li><li>Review reported issues &amp; provided due diligence to determine the best course of action to resolve the issue.</li><li>When the request is due to a knowledge gap of the requestor, the Analyst will point them to the right resources or documentation to self-serve.</li><li>Partner with various internal stakeholders and/or collaborators in working to isolate, quantify, and resolve issues reported by our front-line teams.</li><li>Expand their own knowledge of the Select Services product offerings, scopes, policies &amp; procedures in order to provide accurate solutions.</li><li>Utilizes and validates our internal knowledge resources, as encountered, so that the self-service tools on escalated subjects are current and accurate. Updates internal documentation resources as needed or will partner with the right reps to ensure updates to knowledge resources are made as necessary.</li><li>Where a reported issue is found to be the product of incomplete process or missing from the scope of work of the appropriate team, they will aim to bring the right resources together to review and help determine an improved procedure.</li></ul><p><strong>Required Qualifications:</strong></p><ul><li>Excellent analysis, problem determination and troubleshooting skills within the system with a high attention to detail.</li><li>The ability to make self-guided decisions or choices on how to overcome issues, including knowing when to escalate to the Product Team or other internal partners.</li><li>Minimum two-year hands on experience with a combination of Core UltiPro and UTE coupled with extremely strong Payroll and Tax industry knowledge.</li><li>Team player qualities including strong collaboration skills, a thirst for continuous learning, and a passion for helping others.</li><li>Experience handling difficult, escalated or sensitive situations &amp; data.</li><li>Excellent oral &amp; written service skills, as well as a positive and professional attitude towards internal and external customers.</li><li>Able to self-manage in an organized, productive and independent manner to meet all required time frames and commitments.</li><li>Proficient with multiple software systems, specifically Ultipro systems, MS Office products and SQL.</li><li>Willingness to take on special projects and additional duties as necessary</li></ul><p><strong>Experience, Education, Certification, License and Training:</strong></p><ul><li><strong>Bachelor’s Degree or equivalent work experience. If degreed, Computer Science, Information Systems or Business preferred</strong></li><li>Payroll certification (FPC or CPP) preferred</li><li>Human Resources certification (PHR or SPHR) preferred</li></ul><p><strong>Preferred Qualifications:</strong></p><ul><li>Fundamental or Certified Payroll certification (FPC or CPP)</li><li>Understanding of Salesforce</li><li>Process/operational excellence experience is a plus</li><li>Previous experience with SaaS based client data profiling, configuration, and data updates</li></ul><p><strong>Physical Requirements:</strong></p><ul><li>Ability to work via computer</li><li>Sitting for long periods of time</li></ul><p><strong>Travel Requirements:</strong></p><ul><li><strong>5% – generally one to two occurrences in a year, potentially for a training or team connection event.</strong></li></ul><p>This job description has been written to provide an accurate reflection of the current job and to include the general nature of work performed. It is not designed to contain a comprehensive detailed inventory of all duties, responsibilities, and qualifications required of the employees assigned to the job. Management reserves the right to revise the job or require that other or different tasks be performed when circumstances change.</p><p>Ultimate Software will reasonably accommodate employees with disabilities as defined by the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA) and other appropriate statutes. If you are an applicant and need a reasonable accommodation when applying for job opportunities within the Company or request a reasonable accommodation to utilize the Company’s online employment application, please contact careers@ultimatesoftware.com.</p>        </div><div>        <a href='https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3/OpportunityDetail?opportunityId=74f6c5bd-6b98-4a8b-afa8-0a6dfadc66ca&amp;__jbsrc=050B5775-2845-4EFA-B8E6-7C64DB44FB7B' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ePdeVPUKQRiOoTz55rpqtQ",
+    "url": "https://jobmote.com/job/44206/workgrid-solutions-architect-remote/",
+    "title": "Workgrid Solutions Architect - Remote",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/solution",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Liberty Mutual Insurance",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 26, 2019 10:07:21 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 27, 2019 3:06:25 AM",
+    "content": "<div><p> </p><p>As an endeavor of Liberty Mutual, Workgrid Software is changing the way enterprise software is built. Our mission is to create beautiful purpose-built software that focuses on improving the employee experience.</p> <p>At Workgrid, we believe employees should be productive, not busy. The amount of systems in today's business environment is overwhelming the workforce. Employees are overloaded with information, spending hours checking and managing their work, finding information, and taking action on menial tasks. This is causing significant communication and productivity issues in the workplace.</p> <p> </p> <p>Workgrid focuses on creating solutions that solve the most common and inefficient workplace technology challenges faced by mid-large global businesses. Everything we do is because we believe people have a purpose. We create intuitive experiences that enable human potential by building software that people love. </p> <p> </p> <p>Workgrid is actively seeking a <b>Solutions Architect</b> who will be responsible for developing a strong technical understanding of the Workgrid platform and leading the solution approach for onboarding external customers. Workgrid is on an AWS platform, node back end, serverless, multi-tenant, and global. Standards of SAML and OIDC are used. Microapps use web technologies such as HTML and JavaScript with a node backend. You will be the technical lead working with the customers technical lead to set up, deploy, provision, and connect the customers systems (modern SaaS to legacy) using web services such as REST and SOAP to create a meaningful and engaging employee experience. </p> <p> </p> <p>You will also be responsible for establishing reusable patterns whenever possible and providing thought-leadership to the Product team, as well as product recommendations that enable the customers. Develop specifications for new features. Hands-on approach but may also mentor and guide other team members on the execution of the strategy. Identify and fill gaps to enable the customer to be self-sufficient on the platform. This could be through additional documentation or recommendations to the Product team on the core platform.</p> <p> </p> <p>The actual internal level/grade for this role will depend on the candidates overall experience and skill level. Ability to Work Remote anywhere in the Continental United States.</p> <p><b> </b></p> <p><b>About the role:</b></p> <ul><li>Technical Lead Architect who will develop the solution approach for onboarding new customers to the Workgrid platform.</li> <li>Provide technical mentorship to the customer to teach them how to use the product and become self-sufficient.</li> <li>Provides oversight on the execution of the architectural approach to onboarding customers. Influence and ensure solutions follow leading guidelines, are scalable, and whenever possible re-usable for other customers.</li> <li>Designs and develops IT architecture (deployment, provisioning users, connectors) scalable solutions to business problems in alignment with the Workgrid architecture direction and standards.</li> <li>Provides consultation and collaborates with Head of Product, CEO, and Head of Customer Success regarding long and short-range product features.</li> <li>Recommends and drives innovative solutions, which anticipates the future direction of the business, its drivers and technology strategy.</li> <li>Provides consultation on leveraging new and existing software and technology.</li> <li>Leads teams, may have overall leadership responsibility for product architecture and design.</li> <li>Reviews and ensures major architectural designs are consistent, maintainable, flexible and cost effective solutions.</li> <li>Works with or leads technical teams to identify functional requirements that drive architecture and technology to meet customer needs and enables business capability.</li> <li>Participates with application and infrastructure design architects to provide guidance for development and releases.</li> <li>Develops strategies and architectures which support advanced security topics such as Vulnerability Lifecycle Management, Identity Management, Intrusion Detection, Authentication, Authorization and Auditing.</li> <li>Consults with application development and infrastructure development teams to fit systems to architecture, and identify when it is necessary to modify the technical architecture to accommodate customer/stakeholder needs.</li> <li>Responsible for prototyping complex, cross platform business solutions to validate newer technologies.</li> <li>Recommends emerging scalable and reusable technical solutions to increase market share and reduce operational costs.</li> <li>Analyzes the technology industry and market trends to determine potential impact on the business.</li> <li>Influences technology direction and/or adjustments to incorporate into business plans.</li> <li>Influences the selection of hardware and software product standards and the design of standard configurations; makes significant contributions to Product technology roadmaps and architectural principles and frameworks.</li> <li>Develops and manages effective collaborative relationships with other departments, groups, peers, and subordinates (data mgmt., security, and infrastructure).</li> <li>Leads retrospectives and defining opportunities for experiments and POCs.</li> <li>Facilitates cross-team/train learnings, communication and alignment.</li> </ul><p> </p><p><b>Minimum Qualifications:</b></p> <ul><li>Bachelors or Masters degree in technical discipline; Masters preferred.</li> <li>10+ years of architecture experience in applications development in a complex, multi-platform distributed environment.</li> <li>Extensive experience in layered solutions and designs, diverse technical configurations, across multiple technologies and processing environments.</li> <li>In-depth knowledge in software engineering languages and tools; proficient in new and emerging technologies.</li> <li>Extensive knowledge of all product and system components of technical architecture.</li> <li>In-depth understanding of business operations, objectives and strategies including but not limited to, insurance industry, financial services, global business, architecture, technology trends, as well as security minded.</li> <li>Strong leadership skills; coaching and mentoring skills. Exceptional communication and interpersonal skills - including negotiation, facilitation, and consensus building skills; ability to influence and persuade, without direct control.</li> <li>High degree of flexibility and ability to work with employees at all levels of the organization with diverse backgrounds.</li> <li>Strong desire to drive change, and ability to adapt to change quickly. Strong consulting skills (relevant/technical); recognized as a thought leader within the company. Ability to balance the long-term &quot;big picture&quot; and short term implications of decisions.</li> </ul><p><b> </b></p> <p><b>Benefits:</b></p> <p> </p> <p>We value your hard work, integrity and commitment to positive change. In return for your service, its our privilege to offer you benefits and rewards that support your life and well-being. To learn more about our benefit offerings please visit: </p> <p> </p> <p>Liberty Mutual is an equal opportunity employer. We embrace an environment that is free from all discrimination in the workplace, in its business, or by its vendors. Liberty Mutual values diversity and the differences and similarities of our employees. We foster a diverse and inclusive work environment that leads to better ideas, stronger teams and more innovative products and services for our customers. Learn more</p> <p> </p> <p>Liberty Mutual will consider for employment qualified Applicants with Criminal Histories in a manner consistent with the requirements of federal, state, and local laws.</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "NvF0-47FTsKJuhjYenyh1Q",
+    "url": "https://jobmote.com/job/44192/3dexperience-solution-architect_50-remote-option/",
+    "title": "3DExperience - Solution Architect_50% Remote Option",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/solution",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "American Cybersystems, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 26, 2019 10:07:18 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jun 27, 2019 3:06:25 AM",
+    "content": "<div>Role 3DExperience - Solution Architect Location Irvine, CA Dallas, TX Duration Long Term Note 50 remote option MOI PhoneSkype Relevant Experience (in Yrs) 12+ years in, 3DExperience Enovia V6 Ematrix CATIA V6 Architecture and Development. TechnicalFunctional Skills Skills required - Solution arch in 2019x, Change Management , Program Management , Config Management (Engineering) Roles Responsibilities Assess Customer Opportunities in regards of feasibility, value and risks Contribute with Consultant (SME) and Process Architects to Capture customer business processes Challenge Customer business processes in regards to value creation and business transformation Define Global Solution Architecture leveraging 3DS best practices to support customer business objectives, highlighting committed value, and taking extra care of feasibility and delivery effort Leverage collaboration between 3DS organization for project success and customer satisfaction Ensure the alignment of the delivered solution with the committed (SoW) project scope Support Consultants (SME) Deployment Architects Capitalize on Customer Experience and project deliverables Education Bachelors in Engineering</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "7fdhrodgTW-bq7ZJeifjWA",
+    "url": "https://jobmote.com/job/44179/aws-data-engineer-and-solutions-architect-fully-remote/",
+    "title": "AWS Data Engineer and Solutions Architect - FULLY REMOTE",
     "tags": [
       "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=36, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
       "TECH1/bigdata-ml",
       "TITLE1/solution",
@@ -205,7 +376,7 @@
       "bigdata-ml"
     ],
     "hiringOrganization": {
-      "name": "UNSET",
+      "name": "Jefferson Frank",
       "sameAs": "UNSET"
     },
     "salary": {
@@ -219,10 +390,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Jun 23, 2019 10:07:08 PM",
+    "published": "Jun 26, 2019 10:07:17 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 24, 2019 3:06:24 AM",
-    "content": "",
+    "crawled": "Jun 27, 2019 3:06:25 AM",
+    "content": "<div>AWS Data Engineer and AWS Solutions Architect Fully Remote with 40 travel Salary - 180,000 - 220,000 plus more! Exciting opportunity to work for a growing AWS Partner as a Principal Big Data Solutions Architect, focused on the AWS Cloud. This is a REMOTE position and can pay up to 250K with a VERY competitive base salary. If you are interested, please review below and apply! One of my best clients is looking to expand their practice in 2019. They are currently the leading AWS Big Data Partner in the US and are now moving towards Artificial Intelligence Machine Learning. This company only wants to hire the most talented and experienced professionals on the market. They have already hired 5 individuals directly from AWS and are hoping to expand this team to 20 by the end of 2019. Being that they want to hire the best, they can offer the best. Their compensation structure is extremely competitive, they also offer equity and all of their positions are REMOTE with minimal travel. They want individuals who have experience working directly with customers to provide complex solutions. Skills Needed 3+ years with AWS, Redshift, EMR, S3, etc 3+ years with Spark, Kafka, Hadoop 2+ years with Machine Learning and Artificial Intelligence Strong Development Experience in either one of the Distributed Big Data processing (bulk) engines preferably using Spark on EMR or related (Must Have) 2+ years of AWS Solutions implementation, professional services experience, prefer Data Analytics space. Strong technical communication skills and ability to engage a variety of business and technical audiences explaining features, metrics of Big Data technologies based on experience with previous solutions Benefits 401k + COMPANY MATCH Bonus, stocks options FREE BEER AND LUNCHDinner Paid Confrences such as AWSReinvent Company labtop and phone of choice Working with a very talented team a lot of upward mobility HEALTH, DENTAL AND VISION BENEFITS FLEXIBLE PTO PACKAGES CALL TO LEARN ABOUT THEIR OTHER GREAT PERKS Why work with us We are working with some of the most progressive companies in the world and creating profoundly impactful web and mobile solutions for them. We need rock stars that love creativity, have a passion for excellence, and strive to be the best. If you are interested in working on the best projects involving AWS Big Data (Redshift,EMR,S3 EC2), AI ML, please get in contact with me asap. Please send your resume to j.kellyjeffersonfrank.com or call me at </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -235,35 +406,28 @@
     }
   },
   {
-    "id": "OP_770z4TBSTqQZkgZUdSg",
-    "url": "https://remote.co/job/cloud-and-container-cyber-security-specialist/",
-    "title": "Cloud and Container Cyber Security Specialist",
+    "id": "0xdSzi-fRFKNTqj1cA6mbA",
+    "url": "https://jobmote.com/job/44074/azure-cloud-administrator-remote-anywhere-in-us/",
+    "title": "Azure Cloud Administrator - REMOTE Anywhere in US",
     "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
       "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=3, dotnet=8, c=5, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
       "TECH1/dotnet",
       "TITLE1/solution",
-      "TZ/unknown"
+      "TZ/America"
     ],
     "tagsNames1": [
-      "50% remote"
+      "American time zones"
     ],
     "tagsNames2": [
       "dotnet"
     ],
     "hiringOrganization": {
-      "name": "Citizens Bank",
+      "name": "Capgemini Government Solutions",
       "sameAs": "UNSET"
     },
     "salary": {
@@ -277,103 +441,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Jun 21, 2019 6:06:37 PM",
+    "published": "Jun 25, 2019 10:07:20 PM",
     "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 21, 2019 6:24:53 PM",
-    "content": "<h2>Cloud and Container Cyber Security Specialist at <span>Citizens Bank</span></h2><div><span><i></i> Remote</span>        </div><div>            <p><strong>Full-time</strong></p><p><strong>Description</strong></p><p>The successful applicant will be responsible for participating in the coordination and presentation of vulnerability reviews to development, risk, audit and business teams. This role is hands-on and technical. You will be the Subject Matter Expert (SME) within the team for all matters Cloud and Container Security respective to Vulnerability &amp; Attack Surface Management.</p><p><strong>Primary responsibilities include:</strong></p><ul><li>Managing, maintaining, and supporting our Container Security Vulnerability tool(s) to include managing the output and working hands-on with the DevOps and Infrastructure teams to drive remediation</li><li>Supporting the building, production and maintenance of metrics associated with the container security program</li><li>Guiding development teams in best practices across all stages of the SDLC</li><li>Monitoring and responding to Open Source Software weaknesses and exposures</li><li>Evangelizing and driving Cyber Security inside the company</li><li>Building a very close working relationship with DevOps, cloud engineering, application development, and QA teams.</li><li>Performing research and develop whitepapers/presentations/etc. regarding application security</li><li>Developing and updating security patterns &amp; user stories aligned with security requirements</li></ul><p><strong>Location is not a barrier for this role and while our preference would be to have a chosen candidate with onsite capabilities in one of our corporate headquarters – we are open to remote employment within the United States for an experienced candidate.</strong></p><p><strong>Qualifications</strong></p><p><strong>Required Skills/Experience:</strong></p><ul><li>5 years of strong applicable security experience</li><li>Solid understanding of Cloud platforms such as AWS, Azure, and GCP</li><li>Experience with container orchestration technologies such as Docker, Kubernetes, Mesos, Openshift</li><li>Hands-on experience with Agile, DevOps and DevSecOps methodologies is a plus</li><li>Assist in developing an automated framework for Security Tool deployment and development, leveraging various scripting languages and open source solutions</li><li>Understanding of Infrastructure as Code</li><li>Experience moving to a DevOps / DevSecOps environment</li><li>Experience with agile development and CI/CD pipelines</li><li>Experience with container / orchestration tools</li><li>Knowledge of CloudFormation / Terraform</li><li>Hands on experience AWS / Windows / Linux Security</li><li>Highly proficient in at least one major scripting / programming language (Python, Ruby, Node, Java, R, Go…) Proficient in shell scripting (Bash, PowerShell…)</li><li>Deep understanding of container security tools, and experience with products such as Aqua, Twistlock, Qualys Container Security, Layered Insight</li><li>Ability to present complex, technical information to a variety of audiences, both technical and non-technical, in written and/or oral formats</li></ul><p><strong>Education, Certifications and/or Other Professional Credentials:</strong></p><ul><li><strong>Bachelor’s degree required</strong></li><li>Security related certifications such as CSSLP, GWAPT, GWEB, GPEN, CEH, CCSK, CCSP preferred</li></ul><p><strong>Hours &amp; Work Schedule</strong></p><ul><li>Hours per Week: 40</li><li>Work Schedule: Monday-Friday 8:00AM – 5:00PM</li></ul><p><strong>Job Type:</strong>&nbsp;1st Shift<br><strong>C:</strong>&nbsp;8.33</p>        </div><div>        <a href='https://jobs.citizensbank.com/job/-/-/288/12118208' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ZoPxzVoBQe2AZaaPzdAcFg",
-    "url": "https://jobmote.com/job/41849/presales-solution-engineer-remote-based-in-u-s/",
-    "title": "Presales Solution Engineer (Remote based in U.S.)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 20, 2019 10:07:29 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 21, 2019 3:06:29 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "rwSxhdxLR3GoD8tprMEiiw",
-    "url": "https://jobmote.com/job/41847/cloud-architect-remote-telecommute-direct-hire-fulltime-perm/",
-    "title": "Cloud Architect- Remote / Telecommute- Direct Hire /FullTime/ Perm",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG:surround``fulltim 4N telecommut",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 20, 2019 10:07:28 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 21, 2019 3:06:29 AM",
-    "content": "",
+    "crawled": "Jun 26, 2019 9:30:24 PM",
+    "content": "<div>Capgemini Government Solutions (CGGS) LLC is seeking a highly motivated Azure Cloud Administrator to join our team to support our government clients.<br> This is a remote role, the candidate can be located anywhere in the United States. The successful applicant needs to have extensive working knowledge implementing, migrating and managing operating systems/applications in an enterprise cloud computing environment.<br> ?This applicant will have subject matter expertise with Microsoft Azure with a deep knowledge of cloud technologies and have the ability to align technology solutions to specific business objectives.<br><br>The successful candidate will have an opportunity to apply and grow their skillset and work with a motivated and entrepreneurial team, engage with<br> a wide range of stakeholders, and build CGGS? capabilities by serving our clients.<br><br>Job Responsibilities:<br><br>As an Azure Cloud Administrator, you will:<ul><li>Support Federal Government clients in their cloud operations to enhance, optimize, and maintain their computing capabilities across their technical<br> landscape. </li><li>Interview clients? to understand application and infrastructure current state.</li><li>Lead clients? working sessions to identify, categorize, prioritize and analyze data and information to work into cloud migration action plans.</li><li>Work with the larger project teams to migrate legacy applications to their cloud platform.</li><li>Manage cloud infrastructure from the portal, PowerShell, or using the CLI.</li><li>Utilize automation tool such as Terraform, Ansible, or similar.</li><li>Assist with upgrading, installing, configuring and monitoring solutions in Azure for Windows and Linux servers.</li><li>Maintain gold images/scripts.</li><li>Assist with reporting on current infrastructure status, and planning for future usage.<br><br>Basic Qualifications</li></ul><ul><li>US Citizenship is required.</li><li>Eligibility to obtain and maintain Government Security Clearance (Public Trust -High-Risk).</li><li>Minimum of?8 Years of IT work experience required.</li><li>Bachelor's Degree (Computer Science, Electrical Engineering or other technical discipline) and 8 years of additional relevant experience or No Bachelor?s<br> (substituted for education) and total of at least 16 years of work experience.)</li><li>Hands on experience with Azure (must have used the portal or used CLI, and API?s).</li><li>Minimum of 1 year of experience actively implementing cloud solutions and using Azure services.</li><li>High proficiency in written and oral communication for conveyance of cloud solution work products. Proficiency in Microsoft Office suite.</li></ul>Additional Qualifications<ul><li>Azure Certification.</li><li>DevOps and/or Micro-services experience with at least one technology including Chef, Puppet, Ansible, Docker, Kubernetes, Azure Container Service<br> etc. </li><li>Computer Science, or Engineering degree.</li><li>Previous Federal Government experience.</li><li>Experience with FedRamp environments.</li></ul>Company Overview<br><br>A global leader in consulting, technology services and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth<br> of clients? opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services<br> from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. It is a multicultural company of 200,000 team members in over 40 countries. The Group reported 2017 global revenues of EUR<br> 12.8 billion.<br><br>Capgemini has an entrepreneurial environment that embodies the following values: Honesty, Boldness, Trust, Freedom, Team Spirit, Modesty, and Fun.<br> We offer a competitive benefits package to our employees.<br><br>Capgemini Government Solutions, LLC (Capgemini GS) is a subsidiary of Capgemini focused on providing high quality services to the U.S. Federal Government.<br> Learn more about us at .<br><br>#ondice #CB<br></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -484,149 +555,6 @@
     }
   },
   {
-    "id": "0gIzOSVhQG-vIvmb5arzzw",
-    "url": "https://jobmote.com/job/41754/100k-react-node-azure-engineer-nashville-partial-remote/",
-    "title": "$100k - React/Node/Azure Engineer - Nashville (Partial remote)",
-    "tags": [
-      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
-      "REMOTE1/50",
-      "TECH1/frontend",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 19, 2019 10:07:21 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 20, 2019 3:06:30 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "s8yTKoteSsCIFbhfu-IkIg",
-    "url": "https://jobmote.com/job/40801/azure-cloud-administrator-remote-anywhere-in-us/",
-    "title": "Azure Cloud Administrator - REMOTE Anywhere in US",
-    "tags": [
-      "DBG:surround``2N(anywher, remot)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 18, 2019 10:07:20 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 19, 2019 3:06:29 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "H1JJ3N3XSUCZHN7WhuQYwg",
-    "url": "https://jobmote.com/job/39960/cloud-architect-fully-remote-80k-100k/",
-    "title": "Cloud Architect- Fully Remote - $80K - $100K",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 17, 2019 10:07:10 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 18, 2019 3:06:28 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "vPKwXkbhQ2mGbez_vJncrw",
     "url": "https://www.remotepython.com/jobs/8f048eaef7ca4e798645c837e6b8c698/",
     "title": "Scientific Developer at MetOcean Solutions",
@@ -664,144 +592,6 @@
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "crawled": "Jun 17, 2019 7:32:27 PM",
     "content": "<h2>Scientific Developer</h2>Raglan, Waikato, New Zealand<br>Company: MetOcean Solutions<br>Job Type:&nbsp;Full-time<div>                              <div>                      </div>                    <p></p><p>We are currently seeking a talented Scientific Developer to join our Research and Development team. We are seeking a self-starter to work in our operational environment who will develop, and support core scientific software and systems related to automated workload for hindcast and forecast modelling platforms. You will create and develop quality source code and software design.</p><h4>Restrictions</h4><ul><li>Telecommuting is OK</li><li>Agencies are OK</li></ul><h4>Requirements</h4><p>To apply, you must have the following skills and experience:</p><ul><li>Bachelor’s degree in Computer Sciences or a Geophysical / Environmental Sciences, or with equivalent experience</li><li>Experience with the full life-cycle of software development (requirements, design, testing, development, deployment, operational support, etc.)</li><li>Experience writing performant and well-designed code (at least 5+ years), with 2+ years of professional Python development</li><li>Experience in web service development</li><li>Database schema design and advanced usage (SQL, No-SQL, etc.)</li><li>Comfortable supporting legacy software (Python 2.7)</li><li>Familiar with working in remote Linux server environments, including basic system administration</li><li>Ability to learn and apply cloud-based services and technologies</li><li>Constructively relates to a wide range of people with open-mindedness and good-will</li></ul><p>The following would be beneficial, but are not essential:</p><ul><li>Experience in multi-threaded, multi process, and asynchronous software development</li><li>Geophysical Sciences background (Oceanography, Meteorology, Environmental Engineering, etc.)</li><li>Kubernetes experience</li><li>Cloud provider experience</li><li>Experience with container technologies (e.g. Docker)</li><li>GIS background</li><li>Familiarity with CF Conventions</li><li>Worked in a DevOps environment</li><li>Worked with distributed computing</li><li>Experience with Geophysical data formats like NetCDF, HDF, GRIB</li><li>Data API development experience</li><li>Experience supporting operational services</li></ul><h4>About the Company</h4><p>MetOcean Solutions, a division of New Zealand’s MetService, is a science-based consultancy and forecast supplier providing specialist numerical modelling and analytical solutions in meteorology and oceanography. With offices across New Zealand (Auckland, New Plymouth, Raglan, and Wellington) and in Sydney, Australia (MetraWeather) our international team works on projects and data analysis world-wide. We passionately believe in rigorous scientific method and in applying the latest information technology to data services. MetOcean occupies several niche marine consultancy and service roles and has a rapidly growing forecast and hindcast sector.</p><p>Our employees enjoy an open-office, upbeat culture within a coastal town environment in the North Island of New Zealand. This position would be primarily based in Raglan with some opportunity to work from other offices in the future. Raglan is a small beach side town on the West Coast, just a short drive west of Hamilton or a two-hour drive south of Auckland. It is known for its world-class surf, stunning scenery, beautiful beaches and inspiring arts.</p><p>Our company promotes a positive working environment to achieve our shared goals, supported by flexible hours to ensure a healthy work-life balance. We encourage our people to bring fresh ideas to the table, rise to any challenge, and remain passionate about our products and the company mission.</p><p>This is a fantastic opportunity to work in a growing environment with an interesting and challenging mix of applied research, science and technology. You must have a post-graduate qualification (minimum of M.Sc.) in Computer Sciences or a Geophysical/Environmental Sciences.</p><p></p>                      <h3>Desired Skills</h3>            <ul>                              <li><span>DevOps</span></li>                              <li><span>Docker</span></li>                              <li><span>Kubernetes</span></li>                              <li><span>Linux</span></li>                              <li><span>SQL</span></li>                          </ul>                                          <h3>Contact Info</h3>            <ul>                                          <li><strong>Company Website:</strong> <a href='https://www.metservice.com/national/home' rel='nofollow'>https://www.metservice.com/national/home</a></li>            </ul>                  </div><a href='https://www.python.org/jobs/3899/' rel='nofollow'>Apply</a>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Z0jnKr0yRRGl5_MVAKWYRQ",
-    "url": "https://jobmote.com/job/39883/azure-cloud-administrator-remote-anywhere-in-us/",
-    "title": "Azure Cloud Administrator - REMOTE Anywhere in US",
-    "tags": [
-      "DBG:surround``2N(anywher, remot)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 16, 2019 10:07:14 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 17, 2019 3:06:33 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "6mnbwl9CRDWRCfWsiw4XVg",
-    "url": "https://jobmote.com/job/39313/help-desk-t1-100-remote-sec-security-clearance/",
-    "title": "Help Desk T1 (100% REMOTE // Sec+ // Security Clearance)",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 15, 2019 10:07:15 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 16, 2019 3:06:32 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "re-ScebGSO6XvIAUa2315A",
-    "url": "https://jobmote.com/job/39306/help-desk-t1-100-remote-sec-security-clearance/",
-    "title": "Help Desk T1 (100% REMOTE // Sec+ // Security Clearance)",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 15, 2019 10:07:15 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 16, 2019 3:06:32 AM",
-    "content": "",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -862,328 +652,6 @@
     }
   },
   {
-    "id": "9x8xMFebRymv8heD1seljQ",
-    "url": "https://jobmote.com/job/39179/aws-developer-contract-multiple-locations-or-remote-w2-only/",
-    "title": "AWS Developer - Contract - Multiple Locations or Remote - (W2 only)",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``remot 3W onli",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 14, 2019 10:07:20 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 15, 2019 3:06:31 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "2f8_N8R2TyaE1hB_4lQWyA",
-    "url": "https://jobmote.com/job/39160/cloud-architect-devops-cloud-engineer-100-remote/",
-    "title": "Cloud Architect / DevOps / Cloud Engineer - 100% Remote",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 14, 2019 10:07:19 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 15, 2019 3:06:31 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "JOBlRHJVTqqd3J0agsre1A",
-    "url": "https://jobmote.com/job/38353/aws-solution-architect-fully-remote-200k/",
-    "title": "AWS Solution Architect - Fully Remote - $200K+",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 13, 2019 10:09:34 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 14, 2019 3:06:30 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "BVLMxiZeQ_234PCbfMyqjg",
-    "url": "https://jobmote.com/job/38345/remote-position-gke-lead-cloud-architect/",
-    "title": "Remote Position: GKE Lead/Cloud Architect",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 13, 2019 10:09:33 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 14, 2019 3:06:30 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "jHaa5IaXRU2xOIpwLqgywQ",
-    "url": "https://jobmote.com/job/38370/lead-solution-architect-insurance-remote-work-available/",
-    "title": "Lead Solution Architect - Insurance, remote work available",
-    "tags": [
-      "DBG:surround``2N(remot,work) 3W OR(encourag, avail, environ)",
-      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 13, 2019 10:09:36 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 14, 2019 3:06:30 AM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "iF2Rx0P6Ry25BC8V_JOUYA",
-    "url": "https://jobmote.com/job/38188/ai-solution-sales-engineer-remote/",
-    "title": "AI Solution & Sales Engineer (Remote)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 13, 2019 1:27:13 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 13, 2019 6:23:13 PM",
-    "content": "",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "CN-xWbu0QK-0WLDnN1UrZg",
-    "url": "https://remote.co/job/security-incident-response-engineer/",
-    "title": "Security Incident Response Eng.",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Democratic National Committee",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 12, 2019 4:36:04 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 12, 2019 5:08:33 PM",
-    "content": "<h2>Security Incident Response Eng. at <span>Democratic National Committee</span></h2><div><span><i></i> Remote</span>        </div><div>            <p><strong>REMOTE</strong></p><p><strong>TECHNOLOGY</strong></p><p><strong>FULL-TIME</strong></p><p>The Democratic National Committee’s Tech team is hiring an incident response engineer to lead our IR initiatives. We are looking for an experienced security engineer to help us identify the biggest IR opportunities and to work with our security and IT teams to build solutions that address those opportunities.</p><p><strong>Who we are</strong></p><p>The Tech team is a small, diverse team that develops and supports the technology used by candidates and organizers in all 50 states and all 3,413 counties across the United States to analyze data, organize campaigns, raise money, and get out the vote on election day.</p><p>But there’s more to do. So we’re hiring product managers, engineers, researchers, designers, security experts, IT professionals, and data scientists who can use user-centered design and rapid iteration to develop a rich technology ecosystem for progressives—building tools ourselves as well as partnering with other companies and organizations.</p><p><strong>Do you want to…</strong></p><ul><li><strong>Secure the future of our country?&nbsp;</strong>Right now a lot is at stake in our country and our team has a huge opportunity to make a real difference.</li><li><strong>Work with amazing people?</strong>&nbsp;We’re building a diverse, distributed team, hiring the best people we can wherever they are—alumni from past Presidential campaigns working out of DC and New York, experienced product developers from the SF Bay Area, and more.</li><li><strong>Never stop learning?</strong>&nbsp;There are people who know about politics and people who know about technology and a few who have figured out some things about how to combine the two, but we are blazing a lot of new trails and you should be comfortable exploring and learning from everyone you can.</li></ul><p><strong>You will…</strong></p><ul><li><strong>Lead</strong>&nbsp;efforts around log aggregation and analysis, incident detection, response, and recovery</li><li><strong>Deploy and maintain&nbsp;</strong>security systems in production</li><li><strong>Automate</strong>&nbsp;routine tasks through coding</li><li><strong>Evolve</strong>&nbsp;our incident response plans and protocols</li><li><strong>Provide actionable metrics</strong>&nbsp;to keep the work on track</li></ul><p>We are looking for a hands-on incident response engineer who can evolve our IR processes and technologies in light of today’s threat landscape. You’ll take our existing systems and processes and mature them in close partnership with other security engineers, system administrators, executives, and legal team members. You’ll develop ways to test our response capabilities through use of various tools, as well as through projects with red teams. You’ll use your previous experience with Linux, desktop OSs, Splunk, IOT, and coding on a routine basis. Other useful skills include threat modeling, risk management, threat hunting, and security frameworks like NIST CSF.</p><p>We don’t require previous experience in politics. If you are coming from industry, however, be aware that some things are different in the world of politics: while we’ve done some budget hacking so we can be competitive when it comes to salaries we know we can’t beat Google or Facebook. On the other hand, you might legit help save the world.</p><p>The Democratic National Committee (DNC), is committed to diversity among its staff, and recognizes that its continued success requires the highest commitment to obtaining and retaining a diverse staff that provides the best quality services to supporters and constituents. The DNC is an equal opportunity employer and it is our policy to recruit, hire, train, promote and administer any and all personnel actions without regard to sex, race, age, color, creed, national origin, religion, economic status, sexual orientation, veteran status, gender identity or expression, ethnic identity or disability, or any other legally protected basis. The DNC is committed to providing reasonable accommodations to individuals with disabilities in the hiring process and on the job, as required by applicable law. The DNC will not tolerate any unlawful discrimination and any such conduct is strictly prohibited.</p>        </div><div>        <a href='https://jobs.lever.co/dnc/84575f64-e6a2-42db-b784-db9944884191' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "OCj7Yl3CRdargTCHhP40ug",
     "url": "https://www.remoteage.com/remote-jobs/sr-network-solutions-architect-2/",
     "title": "Sr. Network Solutions Architect",
@@ -1222,51 +690,6 @@
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "crawled": "Jun 12, 2019 8:07:21 AM",
     "content": "<h2>            Sr. Network Solutions Architect        </h2><div>United States, Washington</div><div>Company: CyberCoders<p></p></div><div>                    <h3>Overview</h3>                    <p>Minimum Required Skills CCIE, Enterprise Networking, Pre Sales, Cisco DC, CCDE, SDN, SD-WAN Established Enterprise Technology Solutions Provider and Cisco VAR has an immediate opening for a Sr. Network Solutions Architect who has strong Cisco RS Network Solutions Design expertise. This will be a lead role for the entire region and offer the ability to work remotely from home when not in front of clients in the region. Ideal candidate has significant experience working as a Senior Solutions Architect, Lead Pre Sales Engineer or Principle Solutions Architect for either Cisco Systems or a Cisco Gold Partner. Top Reasons to Work with Us Work remotely from home when not in front of clients. Very low travel outside of the local area Excellent customers and clients that you’ll have the opportunity to work with Excellent compensation plan that will include aggressive base salary and lucrative bonus plan What You Need for this Position – Lab CCIE or CCNP with CCIE CCDE level skills – Strong Cisco RS and Network Engineering expertise – Strong experience in Cisco SDN ACI, SD-WAN, SDA, etc. are ideally desired – Strong Cisco Security, Data Center, and or Wireless skills are a plus – Strong Pre Sales engagement expertise – Strong Cisco Data Center Advanced Technology Solutions expertise (Nexus, UCS, WAAS, etc.) area plus – Excellent customer facing skills and ability to provide advanced technical engineering support to enterprise clients – Addition CCIE certs or a CCDE cetification are a huge plus What You Will Be Doing – Combination of Technical Design Engineering and high level customer engagement for Advanced Cisco Networking, Security, Data Center, SDN, SD-WAN, and or Cloud Technology Solutions – Role will be primarily Pre Sales Solutions Architecture – Be a trusted Subject Matter Expert for key enterprise clients – Keep up to date on cutting edge Cisco technologies and solutions – Acting as a mentor to junior engineers on the team – Being the “go-to” SME for any urgent client issues troubleshooting What’s In It for You – EXCELLENT compensation package including aggressive base salary, bonuses, full benefits, vacation time and paid training – Opportunity to telecommute and work from a home office part of the time when not out at client sites – Strong performers will have the ability to move in to a Practice Lead role covering a specific technology or vertical if desiredCCNP’s CCIE’s CCDE’s who are at the Sr. rchitect level are encouraged to apply ASAP or you can send your resume directly to me at Chuck.CookeCyberCoders.com Applicants must be authorized to work in the U.S.Please apply directly to by clicking ‘Click Here to Apply’ with your Word resume! Looking forward to receiving your resume and going over the position in more detail with you. – Not a fit for this position? Click the link at the bottom of this email to search all of our open positions. Looking forward to receiving your resume! CyberCoders CyberCoders, Inc is proud to be an Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. Copyright 1999 – 2019 . CyberCoders, Inc. All rights reserved.</p>                                                <div>                            <a href='https://www.jobg8.com/Traffic.aspx?IL6n3%2fDzKtNUmsl8uKJreAw' rel='nofollow'>Apply for job</a>                    </div>                                    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "nMp1QRXTQQGyy7nFedkPwQ",
-    "url": "https://jobmote.com/job/35792/sr-sharepoint-developer-w-azure-100-remote-1650/",
-    "title": "Sr. SharePoint Developer w/ Azure - 100% REMOTE - # 1650",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 9, 2019 10:07:15 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 10, 2019 3:06:12 AM",
-    "content": "",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -1332,59 +755,6 @@
     }
   },
   {
-    "id": "XRh_Zlv1SBOZnaFTsICroQ",
-    "url": "https://remoteok.io/jobs/73026",
-    "title": "Experienced Cloud Developer",
-    "tags": [
-      "DBG:surround``orescap W 2N(work,remot)",
-      "DBG:surround``remot 16W timezon",
-      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:jvm/java/13",
-      "DBG_TECH1:k/t/w:kotlin/mobile/5",
-      "DBG_TECH1:k/t/w:spring/java/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=6, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=23, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Saagie",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "EUR",
-      "minValue": 42000,
-      "maxValue": 42000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "EUR 42k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "May 24, 2019 8:23:03 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 6, 2019 4:06:17 PM",
-    "content": "<span><h2>Experienced Cloud Developer</h2></span> <br> <span><h3>Saagie</h3></span> <span>Limited timezone: CEST +/- 2h</span> <span></span> <span>verified</span> <div>  <div>    We are looking for an Experienced Cloud Developer to join our product team. You're free working in our office in Rouen or Paris (France), or working remotely (limited timezone: CEST +/- 2h).   <br>   <br>### About the team   <br>   <br>You will be part of the&nbsp;**Product team**&nbsp;which consists of twenty people with Back-end developers Front-end developers, DevOps, QA Testers, UI/UX Designer, and Product Managers.   <br>   <br>You will work in a&nbsp;**friendly and open minded work environment**.   <br>   <br>   <br>### Why working at Saagie?   <br>   <br>-&nbsp;**Real agile organization**. Human before process.   <br>   <br>- Flexible work schedules and&nbsp;**remote work**&nbsp;allowed.   <br>   <br>- Time for&nbsp;**technological watch**&nbsp;&amp;&nbsp;**open source projects**&nbsp;works.   <br>   <br>-&nbsp;**Conferences lover**? We can sponsor you! (Limited to Europe).   <br>   <br>- Salary between 42K € and 50K € (According to experience).   <br>   <br># Responsibilities   <br> You'll be in charge of adapting our&nbsp;**Product back-end**&nbsp;and develop&nbsp;**cloud specific deployment pipelines**.   <br>   <br>You'll be working in a fully Agile team in the&nbsp;**product team**&nbsp;in direct relations with Product Developers, UI/UX Designers, QA Testers and Product managers.   <br>   <br>Your missions will be:   <br>   <br>** Develop**&nbsp;scripts allowing one-click deployments of our Product on public clouds such as Azure, AWS, GCP, Alibaba Cloud, OVH, etc.   <br>   <br>**Contribute**&nbsp;to improving our Product to fit well with every cloud architecture.   <br>   <br>**Industrialize**&nbsp;your developments and work with the&nbsp;**test team**&nbsp;to automate cloud deployment tests.   <br>   <br>**&nbsp;Ship**&nbsp;our product anywhere. You've got a&nbsp;**DevOps**&nbsp;mindset.   <br>   <br># Requirements   <br>- Passionate about&nbsp;**Infrastructure as code**   <br>   <br>- Knowledge of&nbsp;**Terraform, Kubernetes, Docker**.   <br>   <br>- Knowledge of back-end development:&nbsp;**Java (or any JVM language)**, Spring, Kotlin, and functional programming is a plus.   <br>   <br>- Be able to&nbsp;**build architectures**&nbsp;and explain why an approach is better than another one.   <br>   <br>- Ability to balance the desire to&nbsp;**ship code quickly**&nbsp;to our customers with the responsibility of&nbsp;**making good technical decisions**.   <br>   <br>- Proactiveness, good communication, and fast learning.   <br>   <br>- At least 3 years of experience in Cloud development.   <br>   <br>- At least English speaking + French basics   <br>   <br>#Salary   <br>42 - 50 K€   <br>   <br>   <br>#Location   <br>- Limited timezone: CEST +/- 2h   <br>  </div> </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "H29zmlNkSyu_GS2fb9QFLw",
     "url": "https://stackoverflow.com/jobs/236079/enterprise-solutions-engineer-scrapinghub?a=1haLdHS0gjrG",
     "title": "Enterprise Solutions Engineer at Scrapinghub  ",
@@ -1424,54 +794,6 @@
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "crawled": "Jun 6, 2019 4:06:08 PM",
     "content": "<h2><span>Enterprise Solutions Engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Big Data, Data Science</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>1</span>                                                                        <span>0</span>                                                                        <span>1</span>                                                                        <span>1</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: Scrapinghub | No office location<br></div><h3>Technologies</h3><div></div><div>python</div><div>web-scraping</div><div>erlang</div><div>go</div><div>architecture</div><div>wRAR 21k 3 70 88</div><div>Swati Jaiswal 3 2</div><div>Mikhail Korobov 17k 3 57 52</div><div>Anfernee 840 1 9 20</div>                <h3>Job description</h3>                <div><p><strong>About the Job:</strong>&nbsp;</p><p><a href='https://scrapinghub.com/crawlera' rel='nofollow'>Crawlera</a>&nbsp;is a smart downloader designed specifically for web crawling and scraping, removing the headaches of proxy management. It is part of the Scrapinghub platform, the world’s most comprehensive web crawling stack which powers crawls of over 8 billion pages per month.</p><p>Crawlera is Scrapinghub’s most popular product and it’s biggest revenue generator, but it needs your help to get to the next level. Your key responsibilities will be to ensure that enterprise customers are able to achieve their business goals via Crawlera, and support the Sales team in achieving their quotas.</p><p>You’ll love this role if you enjoy working on a variety of different projects and finding the best solution - even if it’s not a technical one. No two days will be exactly the same, and you’ll be interacting regularly with the Sales team and directly with customers.</p><p><strong>Job Responsibilities:&nbsp;&nbsp;</strong></p><ul><li>Onboard new enterprise Crawlera customers</li><li>Help the Sales team to</li><ul><li>Price contract agreements for new &amp; existing customers</li><li>Proactively monitor Enterprise customers’ usage</li></ul><li>Respond to support escalations from enterprise customers</li><li>Talk with enterprise customers to:</li><ul><li>Quickly understand both their objectives and their code</li><li>Help them fix underlying issues in their code</li><li>Tune &amp; configure Crawlera to best suit each customers’ specific situation</li></ul><li>Take proactive measures to measurably improve enterprise customers’ ability to successfully use Crawlera without your intervention. This will involve different things, but it will likely include:</li><ul><li>Improving client libraries, documentation, etc for Crawlera.</li><li>Providing extended functionality via other products in the Scrapinghub platform, or popular open source frameworks.</li><li>Liaise with other product teams within Scrapinghub to ensure Crawlera is well integrated in the ways that best serve enterprise customers.</li></ul></ul><p><strong><strong>Job Requirements: &nbsp;</strong></strong></p><ul><li>Have excellent communication in both spoken and written English.</li><li>Have a strong knowledge of HTTP and Networking.</li><li>Are comfortable taking ownership in business critical situations; you enjoy being the “go-to” person.</li><li>Take a logical, measurement-backed approach to prioritizing projects, and enjoy working with others that do the same.</li><li>Are naturally dissatisfied with inefficiencies and having to do the same thing more than once; you see ways to fix the underlying cause rather than only reacting to what’s in front of you.</li></ul><ul><li>Have a broad general programming background; strong problem solver.</li></ul><p><strong>Bonus points for:</strong></p><ul><li>Familiarity with techniques and tools for crawling, extracting and processing data, asynchronous communication and distributed systems.</li><li>Previous customer facing experience.</li></ul>                </div>            <div>        <a href='https://scrapinghub.workable.com/jobs/976008/candidates/new' rel='nofollow'>                        Apply now        </a></div>            <h3>About Scrapinghub</h3>            <div><p>Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.</p><p>We’re a globally distributed team of 180 Shubbers working from over 30 countries who are passionate about scraping, web crawling, and data science.</p><p>As a new Shubber, you will:</p><p>Become part of a self-motivated, progressive, multi-cultural team.</p><p>Autonomy to make the role your own, supported by great people</p><p>Join a team with huge opportunity to make a difference</p><p>Have the freedom and flexibility to work from&nbsp;<a href='http://blog.scrapinghub.com/2015/05/12/traveling-tips-for-remote-workers/' rel='nofollow'>wherever you want</a>.</p><p>Have the opportunity to go to conferences and meet with the team from across the globe.</p><p>Get the chance to work with cutting-edge open source technologies and tools.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Flexible working hours</span>                            </li>                            <li>                                <span></span>                                <span>Remote working</span>                            </li>                            <li>                                <span></span>                                <span>Paid time off</span>                            </li>                            <li>                                <span></span>                                <span>Paid open source work</span>                            </li>                            <li>                                <span></span>                                <span>Global team meet ups</span>                            </li>                            <li>                                <span></span>                                <span>Learning &amp; Development Opportunities</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "3iqjTTnsSH2qBrsCeWlJnQ",
-    "url": "https://stackoverflow.com/jobs/272030/mean-serverless-cloud-native-developer-dersalvador-gmbh?a=1tehKKlUTL2w",
-    "title": "MEAN Serverless Cloud-Native Developer at DerSalvador GmbH (Salvador, Brazil) ",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:velocity/java/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "DerSalvador GmbH",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 6, 2019 4:06:07 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 6, 2019 4:06:08 PM",
-    "content": "<h2><span>MEAN Serverless Cloud-Native Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Industry: </span>                                        <span>Human Resources</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Company size: </span>                                        <span>1-10 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: DerSalvador GmbH | Salvador, Brazil<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Salvador, Brazil.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                            <div>                                    <span>Visa Sponsorship:</span>                                    <span>Yes</span>                                </div>                                                    </div>                    </div>                <h3>Technologies</h3><div></div><div>mean</div><div>knative</div><div>serverless</div><div>cloud</div><div>gke</div><div>SoJeN Freelancer at IT Automation, Sören Jentzsch 129 6</div>                <h3>Job description</h3>                <div><p>Love running on clouds?&nbsp;Knative in english? Able to work self-contained, self-managed serverless w/o micro-management? Join brokerme.club at <a href='mailto:cloud-fun@brokerme.club' rel='nofollow'>cloud-fun@brokerme.club</a> for the new era of cloud-native software development...</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/272030?reset=False&amp;ra=1tehKKlUTL2w&amp;oqs=a%3D1tehKKlUTL2w' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About DerSalvador GmbH</h3>            <div><p>We started in 2016 in Brazil and Switzerland with 5 people building a first version. Today Sören, Alejandro, Stieves, Daniela and myself (Michael) are working part-time on a complete redesign of our solution. To speed up velocity we need a fully stacked and dedicated engineer fitting in our open-minded culture loving cloud-native engineering.&nbsp;</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>fully remote</span>                            </li>                            <li>                                <span></span>                                <span>continuous education</span>                            </li>                            <li>                                <span></span>                                <span>no micro-management</span>                            </li>                            <li>                                <span></span>                                <span>self-contained</span>                            </li>                            <li>                                <span></span>                                <span>self-managed</span>                            </li>                            <li>                                <span></span>                                <span>minimal scrum</span>                            </li>                            <li>                                <span></span>                                <span>happy gathering in brazil (Salvador da Bahia) on achieved milestones</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -1581,65 +903,6 @@
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "crawled": "Jun 6, 2019 4:06:08 PM",
     "content": "<h2><span>Magnolia Solution Architect (German-Speaking)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer, Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Agile Software Development, Enterprise Software, Marketing Software</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>0</span>                                                                        <span>1</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: Magnolia International Ltd. | No office location<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Berlin </span>                                </div>                                                                                                            </div>                    </div>                <h3>Technologies</h3><div></div><div>java</div><div>glassfish</div><div>unix</div><div>jboss</div><div>http</div><div>Matjaz Trcek 176 1 13</div><div>Ducaz035 Software Engineer 1.8k 2 19 37</div><div>Jan Chief of Unicorn Division 3.2k 9 22</div><div>Cedric Reichenbach Software Developer 5.3k 5 40 73</div>                <h3>Job description</h3>                <div><p>“We believe in making it as easy and fast as possible for smart, digitally experienced brands to deliver great web projects and amazing customer experiences…and we love doing it!” Tim Brown, CEO, Magnolia</p><p>Sounds like you? Great, here’s how Magnolia empowers your success:</p><ul><li><strong>A Great Product:</strong>&nbsp; Loved by clients and respected by analysts, Magnolia is arguably one of the best CMS solutions on the market.</li><li><strong>Directly Contribute to Magnolia’s Success:&nbsp;</strong>We value each individuals’ input and create opportunities to realize them.</li><li><strong>Great variety in your areas of responsibility:&nbsp;</strong>You will be able to dive into any skill area within the company that allows you to grow according to your personal career goals.</li><li><strong>International Exposure:&nbsp;</strong>With offices in the USA, Spain, Switzerland, Czech Republic, Singapore, and Vietnam you will collaborate with colleagues from over 30 Nationalities.</li></ul><p><br><br>Now,&nbsp;if you are an&nbsp;<u><strong>experienced Solution Architect</strong></u>&nbsp;who wants to support our business growth in the DACH region, please read on.</p><p><strong>&nbsp;What we need you to do</strong></p><ul><li>Provide value during product demonstrations by showcasing Magnolia features and capabilities during initial product evaluations.</li><li>Define requirements and develop measurement strategies to ensure the Magnolia solution addresses the customers’ specific business needs.&nbsp;</li><li>Provide expert know-how on development, integration and Magnolia deployment and system architecture, including backup strategies, load balancing, failover, security, multisite and general hosting configuration.</li><li>Consult with existing clients to expand their usage of Magnolia or troubleshoot issues encountered.</li><li>Build proof of concept and new modules, trace issues in client implementations and propose solutions to maximize the business value to our customers.</li><li>Work constantly with cutting-edge technology to help customers to reach their demanding goals in the area of digital transformation.</li></ul><p><strong>What you ideally offer</strong></p><ul><li>Bachelor’s degree in Computer Science or a related field is required</li><li>Fluent in German (at least C1)</li><li>+5 years of experience in software development, building or managing the development of a complex, commercial enterprise-class product. Experience with cloud-based installations and web services is a big plus.</li><li>Proficiency with web development skills</li><li>Proven software engineering skills in Java.</li><li>Experience with a broad range of operating systems, application servers, databases,&nbsp;and related products (e.g. Unix, Solaris, OSX, Windows; WebSphere, WebLogic, Glassfish, Tomcat, JBoss; Oracle, MySQL, SQL Server etc.).</li><li>Experience in Internet technologies: HTTP, HTML, XML, Web server, server-side Java, and databases.</li><li>Excellent problem solving and communication skills.</li><li>A strong commitment to timelines and deliverables.</li><li>Willing and able to travel regularly within Europe.</li><li>A collaborative can-do attitude and a relentless focus on helping our customers succeed.</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/211717?reset=False&amp;ra=190cKaqhFZ4c&amp;oqs=a%3D190cKaqhFZ4c' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Magnolia International Ltd.</h3>            <div><p><strong>Why work at Magnolia</strong></p><p>Magnolia is an exciting place to work, where good team dynamics are valued and where you will be encouraged to pursue your own growth. Get to know us better by browsing our employee blog or checking our current job openings.</p><p>We develop the best web content management system, an&nbsp;interesting, high-quality product, have big customers, work with friendly people in a relaxed environment, and be well compensated - that's what developing at Magnolia is about</p><p>Get the insider view of working at Magnolia <a href='https://www.magnolia-cms.com/blogs/category~49f6cbad-22c4-4b30-9c46-5c8794c01c2f~inside-magnolia~.html' rel='nofollow'>here</a>.</p><p><strong>Our product blurb:</strong><br>Magnolia CMS delivers smartphone simplicity, on an enterprise scale. The mobile-inspired user interface works through customizable, task-focused Apps, a notification stream called the Pulse, and a system of Favorites for quickly accessing the workspace.<br>Magnolia is used in more than 100 countries across the world, by governments and leading FORTUNE 500 enterprises.</p><p>If you want to see more of how we spend our time as Magnolians, both in the office and on outings, check out our albums on <a href='https://www.flickr.com/photos/magnolia-cms/sets' rel='nofollow'>Flickr</a>.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>We love Apple - you get what you need</span>                            </li>                            <li>                                <span></span>                                <span>Competitive compensation</span>                            </li>                            <li>                                <span></span>                                <span>25 days paid vacation</span>                            </li>                            <li>                                <span></span>                                <span>Freedom and responsibility in your work</span>                            </li>                            <li>                                <span></span>                                <span>Low admin bureaucracy in a self driven environment</span>                            </li>                            <li>                                <span></span>                                <span>Endless snacks, catering, free drinks, happy hours, BBQs etc...</span>                            </li>                            <li>                                <span></span>                                <span>Responsible self-management</span>                            </li>                            <li>                                <span></span>                                <span>Home- / Remote friendly company</span>                            </li>                            <li>                                <span></span>                                <span>No dress code, relaxed atmosphere</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "bI9RxdytQfeiy5HiZcYMDw",
-    "url": "https://stackoverflow.com/jobs/170484/cloud-developer-hazelcast?a=VaQSnT92XvO",
-    "title": "Cloud Developer at Hazelcast  ",
-    "tags": [
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``OR(no,no W central) W offic",
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java-developer/java/13",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:jvm/java/13",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:spring/java/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=44, gamedev=0, php=0, embedded=0, frontend=9}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/solution",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Hazelcast",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 70000,
-      "maxValue": 100000,
-      "info": "Equity",
-      "unit": "YEAR",
-      "parser": "SalaryParserDefaultImpl",
-      "isEquity": false,
-      "formatted": "USD 70k - 100k /Year | Equity"
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 6, 2019 4:06:08 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Jun 6, 2019 4:06:08 PM",
-    "content": "<h2><span>Cloud Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer, DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Big Data, Cloud-Based Solutions, Enterprise Software</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>2</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: Hazelcast | No office location<br></div><h3>Technologies</h3><div></div><div>java</div><div>kubernetes</div><div>docker</div><div>spring</div><div>amazon-web-services</div>                <h3>Job description</h3>                <div><p>Do you enjoy any of the following?</p><ul><li>Solving complex problems.</li><li>Implementing non-trivial infrastructure code.</li><li>Creating well crafted and&nbsp;thoroughly&nbsp;tested features, taking full-responsibility from the design phase.</li><li>Paying attention to all aspects of code quality, from clean-code, to allocation-rates.</li><li>Digging into mechanical sympathy concepts.</li></ul><p>At Hazelcast you will work with the best engineers out there.&nbsp;</p><ul><li>Who delve into JVM code.</li><li>Who implement and&nbsp;scrutinize&nbsp;garbage collection algorithms.</li><li>Who take any piece of software and multiply its performance by applying deep technical understanding.&nbsp;</li><li>Who regularly squash bugs in the depths</li></ul><p>We are looking for people who can deliver solid production code.&nbsp;You may either work in our office in London,&nbsp;Istanbul or code remotely from a home office in European timezone.</p><p>We would like you to:</p><ul><li>Be a senior Java engineer&nbsp;- including all aspects connected to it.</li><li>Be skeptical yet always open to new concepts.</li><li>Have strong opinions about software quality.</li><li>Be an excellent communicator in written and spoken English.</li><li>Familiarity with container and orchestration technologies is required (Docker, Kubernetes)&nbsp;</li><li>Experience on cloud platforms is required. (AWS, Azure or Google Compute Engine)</li><li>Experience with Spring framework is required.</li><li>Experience on React JS is a plus.</li></ul>                </div>            <div>        <a href='https://hire.withgoogle.com/public/jobs/hazelcastcom/view/P_AAAAAAEAAFNKnubKLkJjQ0' rel='nofollow'>                        Apply now        </a></div>            <h3>About Hazelcast</h3>            <div><p><strong>ABOUT 111</strong></p><p>Hazelcast is the leading open source in-memory data grid, but it is also the name of our company. How do we define Hazelcast the company?</p><p>Immediately when you use the product, you notice that it is simple to use, that the code has been provided under an open source license and other details. Hazelcast nodes join together to form a cluster that is more powerful than any individual node. These qualities go beyond the Hazelcast project and are the basis for the culture of the company.</p><p><strong>OUR FOUNDER:</strong></p><p>Talip Ozturk, founder of Hazelcast describing 111:</p><p>I created Hazelcast 111 to define the unique “kernel” of Hazelcast company culture that is designed to scale as the company grows.</p><p>Hazelcast&nbsp;111&nbsp;(one-eleven) is the cultural&nbsp;”source code” for the company. The name is derived from the idea that&nbsp;1 + 1 + 1 can equal more than 3, that together we can be much more&nbsp;powerful than we are alone.These principles are expected to govern the professional behavior of&nbsp;Hazelcast team members and set expectations with the greater Hazelcast&nbsp;community about what they can expect when working with our team. New team members will be interviewed for cultural fit and we strive to make Hazelcast a great place to work for those who share these&nbsp;principles.</p><p><strong>111 PRINCIPLES:</strong></p><p><strong>1. Quality</strong></p><p><strong>Strive for work products that are reliable, stable and free of defects</strong></p><p><strong>2. Positivity</strong></p><p><strong>Solve problems or communicate about them in a constructive way.</strong></p><p><strong>3. Scalable Thinking</strong></p><p><strong>Make things work well as they scale up or down.</strong></p><p><strong>4. Bias Towards Simplicity</strong></p><p><strong>Try to make things as simple as possible.</strong></p><p><strong>5. Humility</strong></p><p><strong>Assume other Hazelcast community members are smart.</strong></p><p><strong>Give credit to the ideas and work of others first.</strong></p><p><strong>6. Honesty</strong></p><p><strong>Say what needs to be said even if it is difficult. Have hard conversations.</strong></p><p><strong>7. Ownership</strong></p><p><strong>Own your projects. Deliver on time.</strong></p><p><strong>Coordinate with anything that delivery depends on</strong></p><p><strong>Escalate when you are stuck</strong></p><p><strong>8. Community Focus</strong></p><p><strong>Seek to improve the lives of Hazelcast team members, customers and users.</strong></p><p><strong>9. Commitment</strong></p><p><strong>Participate in the decision process</strong></p><p><strong>Contribute to success even if you disagreed with the decision outcome</strong></p><p><strong>FEELS GOOD<br></strong></p><p>The correct implementation of&nbsp;111&nbsp;FEELS GOOD to team members, customers, partners, investors and open source users of Hazelcast. The test of&nbsp;111&nbsp;is whether it feels good. If it does not feel good, we need to improve either or both of our implementation or specification of&nbsp;111.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Medical, Dental and Vision Plans</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Spending Accounts (FSA)</span>                            </li>                            <li>                                <span></span>                                <span>Commuter Benefits</span>                            </li>                            <li>                                <span></span>                                <span>Health Savings Accounts (HSA)</span>                            </li>                            <li>                                <span></span>                                <span>Employee Assistance Program (EAP)</span>                            </li>                            <li>                                <span></span>                                <span>Life Insurance, Voluntary Benefits, etc.</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -2325,311 +1588,6 @@
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "crawled": "May 3, 2019 3:06:30 AM",
     "content": "<h2><span>Self-starting Software Architect for SaaS team</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Healthcare, Software Development / Engineering</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>1k-5k people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: Convey Health Solutions | Fort Lauderdale, FL<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Fort Lauderdale, FL.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h3>Technologies</h3><div></div><div>c#</div><div>sql-server</div><div>javascript</div><div>asp.net</div><div>reactjs</div><div>Chris Tonkinson Sr. Director of Engineering at Convey Health Solutions 7.8k 11 45 81</div><div>Tom 1 1</div>                <h3>Job description</h3>                <div><p>Ever imagine working for a start-up that’s not a startup? How about leading the effort to renovate a crusty Enterprise (capital “E”) industry with modern web development tools and tactics?</p><p>Our Product Engineering team is led by developers with extensive backgrounds in modern workflows and toolchains. Our goal is to deliver contemporary web applications to an industry mired in late 90’s technology. We need top-tier developers who are excited about writing code that solves new problems with an inclination for leadership: trailblazers attracted to green-field opportunities, who can self-direct with minimal oversight, and thrive when there’s a personal stake in their work and the outcome.</p><p>Company headquarters are located in Fort Lauderdale, FL, and we’d prefer someone onsite. That said, a growing portion of our team works remotely, so you’ll interact with tools such as Zoom, Skype, HipChat, etc.</p><p>This position is responsible for serving as the technical lead for day to day software development activities in coordination with Software Engineers, as well as coordinating both tactical and strategic technical changes with the Product Manager and Client Services. This is a “hands on” role meaning responsibilities also include daily execution (delivering features and resolving issues). This position also entails troubleshooting, diagnosis, and remediation for issues identified in production. The ideal candidate meshes well with software engineers, IT teams, and business stakeholders to help shepherd healthy change and growth of the product platform and codebase.</p><p><strong>Required</strong></p><ul><li>Solid programming skills in&nbsp;<strong>C#, T-SQL, and Javascript</strong></li><li>Knowledge of modern HTML, CSS and JavaScript</li><li>Proven track record of getting stuff done</li><li>Excellent telecommuting skills: self-motivating, self-directing, and a good communicator</li></ul><p><strong>Preferred</strong></p><ul><li>Experience with React.js</li><li>Experience in system, network, or database administration</li><li>Background in healthcare, particularly Medicare/Medicaid compliance</li><li>Background in freelance or startups. Recovering entrepreneurs should definitely apply!</li><li>Fluency in more than one server-side language</li><li>Active profiles on Stack Overflow and/or GitHub, personal blogs, and the like</li><li>Open source code or example projects that you're proud of</li><li>Any other evidence of your passion for building great software</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/261363?reset=False&amp;ra=1pEuiHc1q168&amp;oqs=a%3D1pEuiHc1q168' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Convey Health Solutions</h3>            <div><p><a href='https://www.conveyhealthsolutions.com/' rel='nofollow'>Convey Health Solutions</a> is a specialized healthcare technology and services company that is committed to providing clients with healthcare-specific, compliant member support solutions utilizing technology, engagement, and analytics.</p><p>By combining its best-in-class, built-for-purpose technology platforms with dedicated and flexible business process solutions, Convey Health Solutions creates better business results and better healthcare consumer experiences on behalf of business customers and partners. The company’s clients include some of the nation’s leading health insurance plans and pharmacy benefit management firms. Their healthcare-focused teams help several million Americans each year to navigate the complex Medicare Advantage and Part D landscape.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Paid Time Off (PTO)</span>                            </li>                            <li>                                <span></span>                                <span>401k with company contributions</span>                            </li>                            <li>                                <span></span>                                <span>Competitive medical, dental, and vision group plans</span>                            </li>                            <li>                                <span></span>                                <span>Flexible schedule</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "-lYC2AYGQF2JMWLJGARJmg",
-    "url": "https://stackoverflow.com/jobs/262290/mid-level-django-backend-developer-pivotal-energy-solutions?a=1pXLlMH0RfhK",
-    "title": "Mid-Level Django Backend Developer at Pivotal Energy Solutions  ",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:django/python/40",
-      "DBG_TECH1:k/t/w:python-developer/python/13",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=59, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Pivotal Energy Solutions",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 50000,
-      "maxValue": 75000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserDefaultImpl",
-      "isEquity": false,
-      "formatted": "USD 50k - 75k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 30, 2019 8:30:31 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Apr 30, 2019 8:30:31 PM",
-    "content": "<h2><span>Mid-Level Django Backend Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                    </div>                <div>Company: Pivotal Energy Solutions | No office location<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT-07:00) Mountain Time - Arizona </span>                                </div>                                                                                                            </div>                    </div>                <h3>Technologies</h3><div>django</div><div>python</div><div>mysql</div><div>django-rest-framework</div><div>amazon-web-services</div>                <h3>Job description</h3>                <div><p><strong>Job description</strong></p><p>We&nbsp;looking for a mid-level Django/Python developer for production and maintenance of the open-source software that powers several of our web-based initiatives. The candidate must be able to manage a variety of projects from start to finish including application development, maintenance, package upgrades, and API integration. Additionally, involvement in the hands-on, day-to-day operation of existing systems and projects may be required.</p><p>&nbsp;<em>Tip: We prefer to work with US based (college) candidates.</em></p><p><strong>Responsibilities:</strong></p><ul><li>Helping define / develop the necessary API layers</li><li>Be an intricate part of the full life cycle development process</li><li>Develop enterprise software for our clients using your skills</li><li>Debug and maintain existing code modules</li><li>Design and develop new code modules and functions&nbsp;</li></ul><p><strong>Skills &amp; requirements</strong></p><p><strong>Minimum Requirements</strong>:</p><ul><li>Minimum 3 years of direct experience with Python.</li><li>Minimum 2&nbsp;years of direct experience with Django.</li><li>Solid understanding of version control / configuration management Git (GitHub).</li><li>Candidate should possess solid debugging/troubleshooting skills.</li><li>Good communication skills</li></ul><p><strong>Desired</strong>:</p><ul><li>Django-Rest framework.</li><li>AngularJS /&nbsp;VueJS</li><li>Amazon Web Services</li><li>Utility or Energy Experience&nbsp;</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/262290?reset=False&amp;ra=1pXLlMH0RfhK&amp;oqs=a%3D1pXLlMH0RfhK' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Pivotal Energy Solutions</h3>            <div><p>Pivotal Energy Solutions is committed to helping stakeholders in the energy industry enable efficiencies within their organizations through efficient data collection, storage, sharing, and analytics.&nbsp;</p>            </div>        ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "u2oXyY5DReebWPZMiAE8Ag",
-    "url": "https://remote.co/job/senior-cyber-security-specialist-2/",
-    "title": "Senior Cyber Security Specialist",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Leidos",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 30, 2019 5:54:58 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Apr 30, 2019 6:24:06 PM",
-    "content": "<h2>Senior Cyber Security Specialist at <span>Leidos</span></h2><div><span><i></i> Remote</span>         | <span> Freelance </span></div><div>            <p><strong>Job #:</strong> R-00011452<strong><br>Location: Remote/Teleworker<br>Category: </strong>Cyber Security<strong><br>Schedule (FT/PT): Full time<br>Travel Required: No<br>Shift: </strong>Day<strong><br>Potential for Telework: Yes<br>Clearance Required: </strong>Public Trust<strong><br>Referral Eligibility: </strong>Ineligible<strong><br>Group: Health</strong></p><p><strong><u>Job Description:</u></strong></p><p><strong>Job Summary</strong></p><p>Leidos currently has an opening for a Cyber Security Specialist, Senior to work remotely within the United States. This is an exciting opportunity to use your experience helping the IOSS mission. The mission of the Department of Veterans Affairs (VA), Office of Information &amp; Technology (OI&amp;T), Information Technology (IT) Operations and Services (ITOPS), Infrastructure Operations (IO) is to support One VA world-class service to Veterans and their families by delivering results-oriented, secure, highly available, and cost-effective information technology services. IO support helps to provide critical services focusing on consistent availability of Veteran-facing applications and quick delivery of benefits for Veterans.</p><p><strong>Primary Responsibilities</strong></p><p>Perform support services within the ITOPS IO Security Management Division. This division is charged with establishing a centralized security program to address security with ITOPS IO’s projects. Some security tasks are currently accomplished utilizing various tools, technologies, and processes that are not standardized across ITOPS (i.e. AITC, HITC, PITC, QITC, CITC, Regional Data Centers, Business Partner Extensions, External Cloud environments). Not all IT security functions are currently managed under a standardized set of processes and technologies or in a centralized format. In some cases, more than one process exists for a single function, i.e. access requests. In other cases, while a process or security system exists, its use is not commonplace at all applicable sites.</p><p><strong>Technical Security Support</strong></p><p>The data center environment requires additional coverage to manage the security tools and the growing technical security responsibilities across ITOPS IO in order to secure Veterans’ data and important VA systems 24x7x365. The ITOPS IO approved Security Monitoring product support process is to deploy a three-shift Technical Security Section for 24x7x365. <strong>The Contractor</strong> shall provide 24x7x365 support services coverage. The Technical Security support is to be centralized at AITC with tools implemented across ITOPS.</p><p>Keep security tools tuned and coordinated with the necessary security posture within ITOPS, and any other locations identified. The support services required include analyzing current security tools and datacenter environments to ensure all security environments needing attention get the attention required per policy and customization needed with the different applications or datacenter solutions. Handle critical/important day-to-day Change Order management and ITOPS IO project involvement. Handle current and future security tool architecture design.</p><p>The ITOPS IO Technical Security group relies on advanced tuning of existing IT security products to detect, protect and forward critical security alerts to the ITOPS IO Security Monitoring group, Nation Service Desk (NSD), Information Security Officers (ISOs) and the VA National Security Operations Center (NSOC) on alerts related to VA compliance policy violations, Advanced Persistent Threats (APT’s). Forensics and any other IT Security related issues that need 24x7x365 support.</p><p>The ITOPS IO security network will be interconnected among the different data centers (i.e. AITC, HITC, PITC, QITC, CITC, Regional Data Centers, Business Partner Extensions, External Cloud environments) in a separate private security network. Each data center’s security network will be separated by a firewall to only allow other data center security network connectivity using VA’s existing network. This allows for the separation of environments to keep event log data as required by policy to where only designated INFOSEC personnel have access into this security network from the various ITOPS IO network locations. This ITOPS IO Information Technology Center (ITC) security network will also provide the redundancy needed for security network and security tool availability. ITOPS IO security tool standardization will be implemented along with the technical security processes that are in place at AITC. The redundancy for each ITC will include Intrusion Protection Systems / Intrusion Detection Systems (IPS/IDS), vulnerability and compliance assessment tools, Security Information and Event Management (SIEM), Web Application Firewall (WAF), dedicated malware protection architecture, Network Access Control (NAC), virtualization security, and the core infrastructure for the security network along with ITC technical security personnel to overlap and provide the 24x7x365 support needed. Incident response procedures and processes at all datacenters are to be unified to complement the security incident response process that the rest of VA uses, including integrating with the NSOC and Field Security. Incident tracking is performed using the NSD and Remedy.</p><p>The centralization of security tools, processes and incident handling provides the in-depth security posture and metric information needed for the datacenter environments. Standardizing on these tools may require additional training for other security staff at the sites.</p><p><strong>In support of these Technical Security efforts, perform the following tasks daily:</strong></p><ul><li>Perform assessments and compliance activities using central managed vulnerability scan engines to perform operating systems, network devices, databases and applications assessments.</li><li>Perform collection and analysis of all operating systems logs, network device logs, network flows, intrusion prevention and intrusion detection, vulnerability assessment, network firewall, web application firewall and virtual environment logs and provide centralized correlation, alerting, log archiving, asset discovery and behavior analysis configuration using an IBM QRadar Security Information and Event Manager (SIEM) or equivalent.</li><li>Perform real-time network and system protection, detection and log analysis using Sourcefire Intrusion Prevention System/Intrusion Detection System (IPS/IDS) or equivalent sensors centrally managed with Sourcefire Defense Center console or equivalent providing network awareness and vulnerability intelligence.</li><li>Perform web application vulnerability assessments and reporting using web application assessment software, which also provides web application security intelligence to the Web Application Firewall solution.</li><li>Perform real-time web application protection against SQL injection attacks, malicious bots, zero-day attacks, data loss and defacement protection and any other Web Application attacks that exist including Payment Card Industry Data Security Standard (PCI DSS) compliance using Web Application Firewall technology. PCI compliance and reporting is performed by VA.</li><li>Perform end user device threat containment and access control to ensure VA security policies and restrictions in the Information Technology Center network using Network Access Control technology are adhered.</li><li>Perform real-time network and system malware protection, detection and log analysis using Malware Protection System.</li><li>Prepare and conduct status briefings and resolve issues in support of senior managers and VA leadership upon request from COR/VA PMs.</li><li>Review and maintain Standard Operating Procedures for the Intrusion Prevention Systems Intrusion Detection Systems (IPS/IDS), Security Information and Event Manager (SIEM), Vulnerability assessments using Tenable Security Center or equivalent, Incident Response, Web Application Firewall (WAF), VMware or equivalent, Network Admission Control Systems (NAC), Malware Protection System (MPS) and any other ITOPS IO Technical Security activities and processes that may need SOP’s reviewed and maintained.</li></ul><p><strong>Security Analytics</strong></p><p>ITOPS IO Technical Security Service Line provides IT Security threat reporting and analytics on IPS/IDS, SIEM, Web Application Firewall (WAF), Malware Protection System (MPS), Network Admission Control Systems (NAC) and IT Security threat information to ITOPS IO, ITOPS IO customer and other VA national groups. Provide SWAT, ESD ticket reporting along with any daily, weekly and monthly reports to maintain the same general tasking and service request management related to ITOPS IO Security Monitoring and Scanning (SM&amp;S) reporting tasks.</p><p>In support of the ITOPS IO security analytics efforts, the Contractor shall provide the following support services including:</p><ul><li>Conversion, culling, and creation of electronic ITOPS IO IT Security threat data from IPS/IDS, SIEM, WAF, MPS, NAC, and Vulnerability data into manual or automated reporting.</li><li>Preparing ITOPS IO IT Security threat reports per client specifications.</li><li>Using automated IT Security dashboard tools similar or equal to Governance Risk and Compliance (GRC) Security Operations Management or GRC IT Security Threat reporting.</li><li>Monitoring the SIEM and IDS/IPS for alerts and offenses and taking the appropriate action by creating reports or contacting the appropriate staff to determine True/False Positives</li></ul><p><strong>Basic Qualifications</strong></p><ul><li><strong>Bachelor’s Degree </strong>in computer science, electronics engineering or other engineering or technical discipline plus 10 years of experience is required. An additional 8 years of experience may be substituted for education.</li><li>Experience with SIEM, IDS/IPS, and WAF</li><li>Ability to gain Public Trust Clearance</li><li>US Citizen</li></ul><p>www.Leidos.com .</p><p>Pay and benefits are fundamental to any career decision. That’s why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available here .</p><p>Leidos will never ask you to provide payment-related information at any part of the employment application process. And Leidos will communicate with you only through emails that are sent from a Leidos.com email address. If you receive an email purporting to be from Leidos that asks for payment-related information or any other personal information, please report the email to spam.leidos@leidos.com .</p><p>All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.</p>        </div><div>        <a href='https://careers.leidos.com/jobs/3946242-sr-cyber-security-specialist' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "0nN8nK1CSAikIpToIYiZ_A",
-    "url": "https://stackoverflow.com/jobs/238162/senior-developer-typo3-symfony-vuejs-m-f-d-constructiva-solutions-gmbh?a=1hS4xm3fIRgs",
-    "title": "Senior Developer TYPO3, Symfony, vue.js (m/f/d) - Remote at Constructiva Solutions GmbH (Bonn, Deutschland) ",
-    "tags": [
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:laravel/php/8",
-      "DBG_TECH1:k/t/w:php/php/15",
-      "DBG_TECH1:k/t/w:reactjs/frontend/16",
-      "DBG_TECH1:k/t/w:symfony/php/40",
-      "DBG_TECH1:k/t/w:vue.js/frontend/32",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=63, embedded=0, frontend=49}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/php",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Constructiva Solutions GmbH",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "EUR",
-      "minValue": 50000,
-      "maxValue": 60000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserDefaultImpl",
-      "isEquity": false,
-      "formatted": "EUR 50k - 60k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 30, 2019 5:06:31 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Apr 30, 2019 5:06:31 PM",
-    "content": "<h2><span>Senior Developer TYPO3, Symfony, vue.js (m/f/d) - Remote</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Digital Agency, E-Commerce, Publishing</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>1-10 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>1</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: Constructiva Solutions GmbH | Bonn, Deutschland<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Berlin </span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>Bonn, Deutschland.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                        <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h3>Technologies</h3><div></div><div>symfony</div><div>vue.js</div><div>typo3</div><div>php</div><div>reactjs</div>                <h3>Job description</h3>                <div><p><strong>Du hast Lust auf die Arbeit mit modernen Technologien in einem kleinen, dynamischen Team? Dann bist du bei uns genau richtig!</strong></p><p>Wir sind eine kleine, schlagkräftige Internetagentur aus Bonn mit über 15 Jahren Erfahrung am Markt. Wir konzipieren, entwickeln und betreuen anspruchsvolle Web-Applikationen,&nbsp;Portale und Online-Shops.</p><p>Als&nbsp;Senior-Entwickler befasst Du Dich mit einer großen Bandbreite an Projekten und genießt ein hohes Maß an&nbsp;technischen und organisatorischen Freiheiten.&nbsp;</p><p>Deine Aufgaben:</p><ul><li>Anforderungsmanagement, Anwendungsarchitektur und -Konzeption</li><li>Web-Entwicklung für neue und bestehende Projekte</li><li>PHP (TYPO3, Symfony), Javascript (React, vue.js)</li><li>Führung des Entwicklungsteams, DevOps-Themen,&nbsp;Qualitätssicherung</li><li>Erprobung und Einführung neuer, innovativer Technologien</li></ul><p>Dein Profil:</p><ul><li>Du hast ein erfolgreich abgeschlossenes Studium oder eine passende Ausbildung</li><li>Du verfügst über&nbsp;mehrere Jahre Programmiererfahrung im Web</li><li>Fundierte Erfahrung mit einschlägigen PHP-Frameworks (Symfony, Laravel o.Ä.) und die Bereitschaft sich intensiv in TYPO3 einzuarbeiten</li><li>Du bist technologisch breit aufgestellt und schaust über den Tellerrand hinaus</li><li>Du hast sehr gute kommunikative Fähigkeiten (in deutscher und englischer Sprache)</li><li>Fundierte Kenntnisse von Entwicklungswerkzeugen und -Methoden</li><li><strong>Deutsch auf C2-Niveau</strong></li></ul><p>Das können wir Dir bieten:</p><ul><li>eine gute und Deinen Fähigkeiten entsprechende Bezahlung</li><li>individuelles Weiterbildungsbudget und&nbsp;Leistungsprämien</li><li>kleines, nettes Team und&nbsp;kollegiale Atmosphäre</li><li>flexible Arbeitszeiten</li><li>spannende Projekte</li><li>Kicker, Grill, gratis Getränke und Obst</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/238162?reset=False&amp;ra=1hS4xm3fIRgs&amp;oqs=a%3D1hS4xm3fIRgs' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Constructiva Solutions GmbH</h3>            <div><p>Unser kleines, familiäres Team besteht aus 7&nbsp;Personen zwischen 25 und 35 Jahren mit&nbsp;unterschiedlichen Fachhintergründen und viel Erfahrung.&nbsp;</p><p>Die Projektplanung&nbsp;erfolgt bei uns partizipativ&nbsp;und <strong>agil nach Scrum (Neuprojekte) oder Kanban (Bestandsprojekte).</strong></p><p>Wir arbeiten nach Gleitzeit (die meisten starten je nach Geschmack zwischen 9&nbsp;und 10 Uhr). Urlaubsregelungen sind unkompliziert und Home Office in&nbsp;Absprache möglich.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Unkompliziert Urlaub nehmen</span>                            </li>                            <li>                                <span></span>                                <span>Wunschlaptop</span>                            </li>                            <li>                                <span></span>                                <span>Jobticket</span>                            </li>                            <li>                                <span></span>                                <span>Gleitzeit</span>                            </li>                            <li>                                <span></span>                                <span>Leistungsabhängige Zusatzgratifikationen</span>                            </li>                            <li>                                <span></span>                                <span>Freie Getränke und Obst</span>                            </li>                            <li>                                <span></span>                                <span>Terasse mit Grill</span>                            </li>                            <li>                                <span></span>                                <span>Weiterbildungsbudget</span>                            </li>                            <li>                                <span></span>                                <span>Home Office nach Absprache</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "sYvGRFpJSIS-vk1erR0gdg",
-    "url": "https://weworkremotely.com/remote-jobs/hotjar-it-security-specialist",
-    "title": "Hotjar: IT Security Specialist",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/solution",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Hotjar",
-      "sameAs": "https://www.hotjar.com/"
-    },
-    "salary": {
-      "currency": "EUR",
-      "minValue": 65000,
-      "maxValue": 85000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "EUR 65k - 85k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 30, 2019 4:38:18 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Apr 30, 2019 5:06:30 PM",
-    "content": "<h2>IT Security Specialist</h2><span>Company: Hotjar<br></span><span>Headquarters: Malta<br></span><span>Visit company website<br><br></span><div><div><strong>Note:</strong>&nbsp;Although this is a remote position, we are only looking for candidates in time zones that align with Europe (UTC -1 to UTC +3).</div><div><br></div><div>Hotjar is a fast-growing SaaS business that operates in a fully remote environment. Our entire team works from their homes or co-working spaces across the globe. All of our data is stored in the cloud. Our product is used by over 915,000 users from 190 countries. Keeping this environment secure is the mission of this role.</div><div><br></div><div>We obsess over our customers and work vigorously to earn and keep their loyalty. To do this, it is imperative that we keep the data they store with us secure. You will manage all of our IT security policies and controls.</div><div><br></div><div>The IT Security Specialist will have the responsibility for ensuring we uphold our commitment to our customers by governing all aspects of our security. This includes how we train everyone within the company (both technical and non-technical) on relevant security matters, monitor and remediate external and internal vulnerabilities, and secure our laptops and mobile phones which can be tricky given that we are a 100% remote based team.<br></div><div>&nbsp;</div><div><br></div><div><strong>In this role, you will:</strong><br></div><ul><li>Conduct or participate in Security Risk Assessments and Remediation Plans<br></li><li>Draft and update Information Security procedures<br></li><li>Select, implement and administer our mobile device management solutions<br></li><li>Lead our internal security review board composed of technical and business leaders in the company<br></li><li>Arrange the schedule for external scans, pen testing, code vulnerability testing, etc. and the prioritization of any items required for remediation as well as the documentation for why items don’t need to be remediated<br></li><li>Identify and manage a solution for account provisioning solutions to arrange onboarding, offboarding and general administration of internally used tools. You will be the primary administer for a majority of our internally used tools (and we have a lot)<br></li><li>Be the point person and project manager for the pursuit or maintaining of security certifications<br></li><li>Analyze reports from Information Security tools<br></li><li>Assess third-party partners for appropriate security controls<br></li><li>Help respond to customers and potential customers about our security environment</li></ul><div></div><div><br></div><div><strong>Compensation Range</strong><br></div><div>The budgeted compensation range for this role is €65,000 to €85,000 annually. Ranges are based on market research and are equitable to other roles within Hotjar. The actual compensation offered to a successful candidate will be based on relative experience and skills. At this time we are only able to provide official employment status to those located in Malta and Germany. All other candidates will join our team as full-time consultants and will be responsible for paying any taxes or applicable fees where they reside.</div><div><br></div><div><h4><b>Requirements</b></h4></div><ul><li>Minimum of 3 years of experience in security-relevant positions, security technologies and related knowledge of the market<br></li><li>Must provide procedural and technical security input on information security program matters such as completing and maintaining security authorizations for information systems<br></li><li>Experience evaluating and making recommendations for technical and non-technical security-based solutions<br></li><li>Experience providing oral and written information about security policies, directions, and guidance<br></li><li>Experience developing and defining IT security program plans and strategies<br></li><li>Experience with systems security certification and accreditation requirement processes<br></li><li>Can deal with a wide variety of issues on any given day. They’ll range from seemingly trivial to essential and must be prioritized and acted upon appropriately<br></li><li>The ideal candidate would have experience within a remote based company or team<br></li><li>Desire to work in a respectful, transparent, and collaborative work environment, following Hotjar’s&nbsp;<a href='https://hotjar.atlassian.net/wiki/spaces/REC/pages/269942884/Hotjar+Core+Values' rel='nofollow'>company values</a>,&nbsp;<a href='https://careers.hotjar.com/' rel='nofollow'>culture</a>&nbsp;and&nbsp;<a href='https://hotjar.atlassian.net/wiki/spaces/REC/pages/269779142/Working+at+Hotjar' rel='nofollow'>ways of working</a><br></li><li>Must submit to a background check confidentially processed by a third-party<br></li></ul></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "AamJpEEFQWKD0wARnDPj8w",
-    "url": "https://landing.jobs/at/nubalia-cloud-computing/cloud-architect-in-lisbon?utm_campaign=landing+rss&utm_content=Cloud+Architect&utm_medium=referral&utm_source=rss",
-    "title": "Cloud Architect",
-    "tags": [
-      "DBG:surround``OR(travel,visit) W to 4W OR(offic,headquart,onsit)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "go",
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "EUR",
-      "minValue": 25000,
-      "maxValue": 30000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "EUR 25k - 30k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 17, 2019 3:01:51 PM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Apr 29, 2019 12:07:42 PM",
-    "content": "<div><h2>Cloud Architect</h2></div><div>Company: Nubalia Cloud Computing</div><div>Location: Lisbon, PT</div>Salary: 25.000 - 30.000 €<br>Level: Junior<br>Language: Portuguese <div>DevOps / Sysadmin<br>Skills:</div><li>Databases </li><li>JavaScript </li><li>Networking </li><li>Python </li><li>Security </li><h2>Intro</h2><p>We need to incorporate a specialist consultant for our delegation located in Lisbon, with a <strong>minimum of one year experience</strong> as a technician and commercial vocation.<br>We are looking for lovers of new technologies who want to work in a Premier Partner Iberia of Google and a leader in this sector, to perform business development tasks in Portugal.<br>We offer stability in the position and professional projection.<br>It is a leading and competitive project in which you can develop professionally through the pursuit of excellence in management, teamwork and the development of best practices.<br>Its main task will be to work with digital native companies with the aim of increasing the adoption of Cloud technology (Google Cloud Platform) in verticals such as Media, eCommerce or Technology, for that reason the profile must be technical with commercial knowledge.</p><h3>Main requirements</h3><ul><li>Knowledge in Cloud solutions</li><li>Certifications in Cloud solutions</li><li>Experience in the IT sector</li><li>Technical Engineering&nbsp;</li><li>Technician in Computer Systems FP</li><li>Advanced English level<br></li></ul><h3>Nice to have</h3><ul><li>Spanish</li><li>English</li><li>Google Cloud Architect Certification</li><li>Google Cloud Engineer Certification</li><li>Any certification in Cloud services (Amazon, Azzure, etc)</li><li>Availability to travel</li><li>Important level of communication and communication skills</li><li>Orientation to the client and to the achievement of objectives</li><li>Work for goals<br></li></ul><h3>Perks</h3><p>We are a Premier Partner of Google so travelling to Google offices in Dublin is a must. You will get in touch with the Google Engineers all day long.<br>We have flexible working hours and in August you will only work from 8h-15h everyday (yes, you can go to the beach every day!!!!)<br>We are a very young but professional company so expect a friendly workplace. </p><p>Also:</p><ul><li>Percentage of objectives</li><li>Mobile phone</li><li>Restaurant check</li></ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "1h6CXzPLQaS0pYXltLDeEg",
-    "url": "https://www.remoteage.com/remote-jobs/solutions-architect-software-engineer-3/",
-    "title": "Solutions Architect/Software Engineer",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG_TECH1:k/t/w:c++/c/24",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:k/t/w:java/java/6",
-      "DBG_TECH1:k/t/w:java/mobile/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=29, mobile=3, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=6, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/c",
-      "TITLE1/solution",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "c"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 70,
-      "maxValue": 75,
-      "info": "",
-      "unit": "HOUR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 70 - 75 /Hour"
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 29, 2019 6:54:09 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "Apr 29, 2019 7:08:22 AM",
-    "content": "<h2>            Solutions Architect/Software Engineer        </h2><div>United States, Michigan</div><div>                    <h3>Job Summary</h3>                    <p>Michigan, United States</p><p>Not Specified</p><p><b>Solution Architects/Software Engineers Job Opportunity located in Livonia MI</b></p><p>Hello, my name is Brian Smith and I work for a company called 804 Technology. We are currently looking for a Solutions Architect/Software Engineer for a long term contract job opportunity located in Livonia MI. The Solutions Architect/Software Engineer is responsible in developing/implementing PLM solutions Teamcenter and development with C++ or Java. Knowledge of modern technologies (Cloud, Web, mobile apps, IoT etc.) The complete jobs description is listed below as well as my contact information. If you are interested please respond by sending me your resume and your availability. Thank you in advance for your time. Rate based on experience. $70-75/hour</p><p><b>Brian Smith</b></p><p>Pay rate: $70-75/hour</p><p>Java or C++ knowledge necessary with Teamcenter experience.</p><p><b>Job Details:</b></p><ul><li>At least 8 years of experience in Developing/Implementing PLM solutions Teamcenter and development with C++ or Java. Knowledge of modern technologies (Cloud, Web, mobile apps, IoT etc.) is desired.</li><li>Responsible for delivery of technical solutions that spans Siemens PLM product segments.</li><li>Works under the guidance of engineering manager to develop solutions.</li><li>Collaborate with functional experts and technical architects to understand technical requirements, develop solution and create demonstration.</li><li>Collaborate with globally distributed teams including business lead and solution manager for the delivery of solution per project management demands.</li><li>Design, develop, modify, and implement software programming for products (both internal and external_ with focus on surpassing customer expectations on achieving high quality and on-time delivery.</li><li>Responsible for ensuring the overall functional quality of the released product on all required platforms and mechanism.</li><li>Ability to understand complex products, solution, and problems.</li><li>Creates, documents, and executes software designs which may involve complicated workflows or multiple product areas.</li><li>Able to solve complex technical problems.</li><li>Provides specialized expertise within multiple systems, software disciplines, as well as general knowledge of related disciplines, applications implications, and customer areas.</li><li>Works with minimal supervision on complex projects with wide latitude for independent judgment.</li><li>Highly skilled with extensive proficiency and technical expertise</li></ul><p><b>Brian Smith</b></p><p>804 Technology</p><p>Recruiting Director</p><p>O. </p><p>F. </p><p>C.</p><p>804 Technology is an equal opportunity employer.</p><p>All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, disability or national origin.</p><p>Company Description:</p><p>804 Technology is your corporate engineering partner in recruiting, staffing, and placement. The partners at 804 Technology have over thirty years of combined technical experience. Our reputation is built on our ability to establish long-term, positive relationships with our clients, candidates and employees. 804 Technology leads the industry in its customer-focused standard for quality, service and professionalism.</p><p>We offer both temporary and permanent recruitment services for the complete project life cycle, from conception to completion. Our staff is dedicated to quickly finding the most qualified engineers and engineering support personnel on a national level.</p><p>At 804 Technology, our employees are the core of our business and we offer you the highest level of customer service commitment and strive to exceed your expectations in service. We distinguish ourselves by our ability to identify and recruit the best in the field.</p><p>Seeking Employment?</p><p>Contact a recruiting professional at: or call the recruiting center at . You can fax your resume to .</p><strong>Salary :</strong> <p>Minimum:<br>Maximum:<br>Currency: US Dollar . USD</p>                                                <div>                            <a href='https://www.jobg8.com/Traffic.aspx?PYyioc%2b71X0iH2LY6PhvZwp' rel='nofollow'>Apply for job</a>                    </div>                                    </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
