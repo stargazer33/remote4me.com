@@ -665,56 +665,6 @@
       "region": "UNSET",
       "country": "UNSET"
     }
-  },
-  {
-    "id": "UxXo12DxRNqCvYf4Mp1F-A",
-    "url": "https://jobs.github.com/positions/5d4d1917-34ef-41c2-a920-6cd0cce988c2",
-    "title": "MySQL-focused Performance Engineer",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "May 2, 2019 4:58:40 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "May 2, 2019 5:06:34 AM",
-    "content": "We thought we needed a DBA. We thought we needed more DevOps. What we realize is that we need is you, our MySQL Performance Engineer. You will work closely with Ops to tune the server; build data-access tools with DevOps; polish our schema with the data lords; and create standards and processes so that all application queries are good queries. We've got tens of billions of records and we're redesigning their home to use the best MySQL scaling practices, NoSQL-inspired pragmatism, and zero-downtime global redundancy. Join us.REQUIREMENTS:- MySQL 5.7 mastery, with a focus on performance — both for the applications using the DB and the developers building it- Deep understanding of multi-master, failover, and replication over non-local networks-Troubleshoot slow logs, schema improprieties, and load issues like you were born to it- Above average programming chops (PHP/Java/Python), and a deep understanding of ORMs (Doctrine, *Batis)Things we like — show us examples!- Big data is your friend, and metadata about big data is your sustenance- You have bridged a data-layer between multiple datacenters and AWS- You can make MySQL, Redis, Redis Streams, Kafka, and other event queues sing in harmonyThis is a REMOTE, FULL-TIME position. You can learn more about us here:https://www.chess.com/blog/erik/how-chess-com-s-100-person-virtual-team-works-togetherhttps://www.chess.com/about ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
   }
 ]
 }
