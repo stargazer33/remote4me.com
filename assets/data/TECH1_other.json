@@ -1,6 +1,202 @@
 {
  "items": [
   {
+    "id": "jH-PLejcQLm4ba7nwLqWJg",
+    "url": "https://news.ycombinator.com/item?id=20335668",
+    "title": "Kira Systems |Machine Learning Developer, Software Developer(s). QE Specialists, Research Scientist| Toronto, ...",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=4, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 4:47:20 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Kira Systems |Machine Learning Developer, Software Developer(s). QE Specialists, Research Scientist| Toronto, Canada | Remote | Onsite | <a href='https://www.kirasystems.com' rel='nofollow'>https://www.kirasystems.com</a><p>Kira Systems makes contract analysis software. We are always looking for talented people to join our team locally, remotely, and for those looking for change to relocate to our headquarters in Toronto.</p><p>We're hiring multiple technical roles to work in all areas of our stack. Possibilities include working on Clojure web server, backend data processing services, and both our platform API and SDK. We use PostgreSQL to store our data and don’t hide SQL behind big frameworks. We also use many other popular technologies such as RabbitMQ, Zookeeper, ElasticSearch, and Docker.</p><p>For more information, visit our careers page <a href='https://www.kirasystems.com/careers' rel='nofollow'>https://www.kirasystems.com/careers</a> or email us at jobs@kirasystems.com.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "2undhwLcRAG0I5UhCTTi7w",
+    "url": "https://news.ycombinator.com/item?id=20326952",
+    "title": "Aclaimant | Remote | Full Stack Developer | Full-time | https://aclaimant.com Aclaimant is looking for a senior or ...",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:clojure/other/15",
+      "DBG_TECH1:k/t/w:clojurescript/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 6:26:40 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Aclaimant | Remote | Full Stack Developer | Full-time | <a href='https://aclaimant.com' rel='nofollow'>https://aclaimant.com</a><p>Aclaimant is looking for a senior or mid-level Clojure developer to join our team. At Aclaimant we are redefining the way companies and employees work together to manage risk. Our SaaS platform is built using Clojure and ClojureScript. We work remotely from the comfort of our own homes. Pair programming is important to us; it helps us build culture and share knowledge. We expect candidates to be located within North America. Email jobs@aclaimant.com for more information or visit <a href='https://aclaimant.com/careers-developer' rel='nofollow'>https://aclaimant.com/careers-developer</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "RF8GwXE9TMuPDclwelE65A",
+    "url": "https://news.ycombinator.com/item?id=20329985",
+    "title": "Interfolio | Software Engineer (Elixir) | Wash, DC OR Fully Remote (US) | Full Time | www.interfolio.com Interfolio ...",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:elixir/other/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 11:36:07 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Interfolio | Software Engineer (Elixir) | Wash, DC OR Fully Remote (US) | Full Time | www.interfolio.com<p>Interfolio is a fast growing, higher ed SaaS company based in Washington, DC with 100% fully remote Engineering team, great benefits, flexible environment -- solving interesting challenges for higher ed involving software.</p><p>We're seeking a talented and energetic Software Engineer with a deep understanding of Elixir to join our tight-knit team. You must be focused on producing high quality and maintainable code. This role offers a high level of creativity, and an opportunity to design the future with a company that is challenging the status quo.</p><p>Apply through our site: <a href='https://jobs.lever.co/interfolio/d2ae0440-4c34-40bb-bc88-b57e521f3d34?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News%20Monthly%20Posting' rel='nofollow'>https://jobs.lever.co/interfolio/d2ae0440-4c34-40bb-bc88-b57...</a></p><p>or email recruiting@interfolio.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "fH2Jvt69TE22Y3AwprDSUg",
+    "url": "https://news.ycombinator.com/item?id=20332294",
+    "title": "Immux | https://immux.com | Systems Software Engineer | Remote | Full time Immux is building an immutable database ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:rust/other/10",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 7:08:07 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Immux | <a href='https://immux.com' rel='nofollow'>https://immux.com</a> | Systems Software Engineer | Remote | Full time<p>Immux is building an immutable database and a computing service that provide first-class citizen support for functional programming, versioned and auditable data operations, and automatic maintenance and tuning.</p><p>We are looking for engineers to design and build the database and computing systems.</p><p>Seed round from a NASDAQ-listed finance company. Salary + Equity. The whole team (uh, really the two of us) are remote.Stack: Rust and TypeScript.</p><p>Get in touch: shu@immux.com</p><p>(For anyone who's interested in the direction we are working towards. It's perfectly fine if you haven't written Rust or built databases before.)</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "5x-vaJ_RQDi_zFJBwfyv_g",
     "url": "https://stackoverflow.com/jobs/159703/remote-sr-elixir-engineer-surge?a=RyGsyTSXL8I",
     "title": "REMOTE Sr. Elixir Engineer at Surge  ",

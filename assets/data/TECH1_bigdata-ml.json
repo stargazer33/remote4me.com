@@ -1,6 +1,825 @@
 {
  "items": [
   {
+    "id": "_PiDqSnKTUGe7qAaPI62hg",
+    "url": "https://news.ycombinator.com/item?id=20330766",
+    "title": "LaunchDarkly | Oakland, CA | Onsite | https://launchdarkly.com LaunchDarkly is a Feature Management Platform that ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend",
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 1:33:31 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "LaunchDarkly | Oakland, CA | Onsite | <a href='https://launchdarkly.com' rel='nofollow'>https://launchdarkly.com</a><p>LaunchDarkly is a Feature Management Platform that serves hundreds of billions feature flags daily to help software teams build better software, faster. Feature flagging is an industry best practice of wrapping a new or risky section of code or infrastructure change with a flag. Each flag can easily be turned off independent of code deployment (aka ”dark launching”).</p><p>To learn more about who we are, our engineering culture, and whether this is the right place for you, read our Key Values profile: <a href='https://www.keyvalues.com/launchdarkly' rel='nofollow'>https://www.keyvalues.com/launchdarkly</a></p><p>Our open positions:</p><p>* DevOps Engineer: <a href='https://jobs.lever.co/launchdarkly/aa5b3b23-5f10-4682-83c0-79be5aec0114?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/aa5b3b23-5f10-4682-83c0-7...</a></p><p>* DevOps Engineer (UK Remote): <a href='https://jobs.lever.co/launchdarkly/3f6b4d1b-fbfa-4da5-b0b6-45646fb43834?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/3f6b4d1b-fbfa-4da5-b0b6-4...</a></p><p>* Distributed Systems Engineer: <a href='https://jobs.lever.co/launchdarkly/7c2a0f73-c630-4baa-804f-af1568cd6595?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/7c2a0f73-c630-4baa-804f-a...</a></p><p>* Integration Engineer: <a href='https://jobs.lever.co/launchdarkly/e7a9adde-3738-4c87-a775-47f24b69ee9b?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/e7a9adde-3738-4c87-a775-4...</a></p><p>* SDK Engineer: <a href='https://jobs.lever.co/launchdarkly/c39b6015-99a4-495a-abcc-bcd7548138c1?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/c39b6015-99a4-495a-abcc-b...</a></p><p>* Data Engineer Team Lead: <a href='https://jobs.lever.co/launchdarkly/b74294b5-15d3-43ea-9a9b-444fe6634315?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/b74294b5-15d3-43ea-9a9b-4...</a></p><p>* Product Manager: <a href='https://jobs.lever.co/launchdarkly/b554c0ae-b94b-4fca-a775-73c5f57a993a?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/b554c0ae-b94b-4fca-a775-7...</a></p><p>Tech Stack: Golang, React, Redux, MongoDB, ElasticSearch, Redis, HAProxy, NATS, Kafka, Redis, and Cassandra</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "YvXDwZwLRS-y1v8gdvNdYQ",
+    "url": "https://news.ycombinator.com/item?id=20327807",
+    "title": "Resemble AI | Toronto or Remote | Full-Time, Interns | Deep Learning & Full-Stack Engineers Resemble AI creates ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/10",
+      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=34, ruby=10, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 7:43:24 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Resemble AI | Toronto or Remote | Full-Time, Interns | Deep Learning &amp; Full-Stack Engineers<p>Resemble AI creates high-quality synthetic voices that capture human emotion. We're a venture-backed high-growth startup that's looking to shake up an entire industry with state of the art AI.</p><p>Our product changes the way that thousands of brands, media companies, creative agencies, and game studios work with voice content.</p><p>We’re a remote-first team that thrives on flexibility and creativeness. We cover expenses for office space, equipment, and all of the other perks and benefits that make you productive. We also believe that to build an enticing product and solid team is by encouraging innovation is by enabling continuous education. That's why every other Friday is a day that you can use to work on anything you want, Resemble-related or not.</p><p>We're hiring for two roles:</p><p>Deep Learning Engineer - Knowledge of Tensorflow or Pytorch, and have the ability to quickly iterate and test new hypotheses.</p><p>Full Stack Engineer - Product-driven Engineer that is able to craft end-to-end features. We work with Ruby on Rails, React, with microservices written in Python and deployed on GCP.</p><p>If interested, reach out directly to me: zohaib@resemble.ai</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Y8dq8dn4TjOrcNS50DR9RQ",
+    "url": "https://news.ycombinator.com/item?id=20333575",
+    "title": "CITIO | Paris | Remote | Full Time | Visa sponsorship | https://cit.io/ CITIO is a newly founded start-up sponsored ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=36, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 11:43:34 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "CITIO | Paris | Remote | Full Time | Visa sponsorship | <a href='https://cit.io/' rel='nofollow'>https://cit.io/</a><p>CITIO is a newly founded start-up sponsored by a leader in transportation networks. We leverage Big Data and powerful Machine Learning Tools to provide a better understanding of transportation networks.</p><p>We're looking for a Data scientist (software oriented) with experience running algorithms in production.As a Data Scientist, you will be :</p><p>* expanding your current data model to account for the wealth of data in transport networks</p><p>* working on hard problems like simulation and passenger reconstitution</p><p>* dealing with complex, ambiguous data</p><p>A good knowledge of French is required, as part of the role is client facing.</p><p>Apply here : <a href='https://angel.co/company/citio/jobs/356314-data-scientist-software-oriented' rel='nofollow'>https://angel.co/company/citio/jobs/356314-data-scientist-so...</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "oT5QgLnsTXy1p9pZlHlCuQ",
+    "url": "https://news.ycombinator.com/item?id=20331140",
+    "title": "Epigno Systems | Full-Stack Engineer, DevOps, Data Engineer | Tokyo, Japan | Part-time or Full-time | REMOTE Do you ...",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR( australia, japan, newzealand)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/Asia"
+    ],
+    "tagsNames1": [
+      "Asia time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 2:47:44 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Epigno Systems | Full-Stack Engineer, DevOps, Data Engineer | Tokyo, Japan | Part-time or Full-time | REMOTE<p>Do you know that an average Japanese doctor works <i>124</i> hours of overtime per month?Do you want to improve health-care and hospital management in Japan's aging economy?</p><p>Epigno Systems is an early-stage start-up that provides prediction, optimization and visualization solutions to streamline hospital management. We provide consulting services and software solutions to solve hospital business needs.</p><p>Our team is entirely remote. Team members living in the Tokyo area tend to gather at most once a week.We are hiring fast learners that finish their job on time and do <i>not</i> work overtime. As a company that strives to reduce overtime for medical staff, we should show the example, shouldn't we?</p><p>Tech stack: Python / Flask / Docker / VueJS / VanillaJS</p><p>As we are still small, professional Japanese proficiency is currently required for full-time staff to reduce communication overhead. For part-time positions Japanese proficiency is a good-to-have.We hire people located in Japan for the time being.</p><p>Feel free to contact me for applying: malik(at)epigno(dot)jp</p><p>If you can explain what you can do, we will most probably find work that fits your skills :).</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "vmyTVXdxToKZnYA_nLDMdw",
+    "url": "https://news.ycombinator.com/item?id=20329551",
+    "title": "Orchestra | Front-end & Back-end engineers + Product Managers | London, Remote for developers only | On-site | Full ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/6",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/6",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=12, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 10:44:28 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Orchestra | Front-end &amp; Back-end engineers + Product Managers | London, Remote for developers only | On-site | Full-timeOrchestra helps data scientists deploy machine learning models to production faster whether it's building a Docker image, serving as an API, creating batch processes or integrating directly to enterprise systems. Effectively, we are DevOps for ML and we automate deployment and release management of machine learning models.We're still an early stage startup looking to close our seed round in the next few months. As an early member, you'll have the opportunity to define the space and set the standard for what it means to do DevOps properly within ML. The platform is currently developed using AngularJS, Python, Docker/Kubernetes.Drop me a line at teren@orchestrahq.com if you love ML and want to help get machine learning models deployed faster, at scale and in a variety of shape and form.",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "19CNkXvARvSEk6WrTO3QQw",
+    "url": "https://news.ycombinator.com/item?id=20330353",
+    "title": "Sourceress | Engineering: Machine Learning, Backend, Frontend, Managers | San Francisco | Full-time | Local or ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=12, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 12:28:43 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Sourceress | Engineering: Machine Learning, Backend, Frontend, Managers | San Francisco | Full-time | Local or Remote | <a href='https://www.sourceress.com/jobs' rel='nofollow'>https://www.sourceress.com/jobs</a><p>We already have significant machine learning expertise, so are happy to hire great engineers without prior ML experience who are willing to learn. We strongly value personal growth, and want to help you grow into a great engineer (or engineering leader), so this approach applies to our other engineering roles as well.</p><p>Our mission is to help people find work that matters. We believe that the world is better when people understand the opportunities available to them. Our human-assisted AI platform delivers great results to our customers (customer quote: &quot;I'd have a panic attack if you guys stopped existing&quot;).</p><p>Because of this, we raised $3.5M from OpenAI researchers and Lightspeed at one of the highest ever valuations coming out of YC. Our team has previously sold companies, published machine learning research, has Dropbox's former Chief of Staff, and previously worked at Google, Airbnb, McKinsey, etc.</p><p>Qualifications:</p><p>- Do you understand the value of shipping quickly and of software craftsmanship, and have the judgment to know when to apply each?</p><p>- Do you enjoy collaborating with other developers and helping them grow?</p><p>- Do you share our values? <a href='https://www.sourceress.com/jobs#values' rel='nofollow'>https://www.sourceress.com/jobs#values</a></p><p>Stack: Python 3, Typescript, React, AWS, PostgreSQL</p><p>To Apply: <a href='https://www.sourceress.com/jobs#current-openings' rel='nofollow'>https://www.sourceress.com/jobs#current-openings</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "eiE00lS6Tba7oQVte-aNyA",
+    "url": "https://news.ycombinator.com/item?id=20331536",
+    "title": "Major League Baseball (MLB.com) | Principal Data Engineer | New York | ONSITE (with flexible remote work up to 2 ...",
+    "tags": [
+      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=32, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 2,
+      "maxValue": 2,
+      "info": "",
+      "unit": "WEEK",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": "USD 2 /Week"
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 4:09:38 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Major League Baseball (MLB.com) | Principal Data Engineer | New York | ONSITE (with flexible remote work up to 2 days a week)<p>Major League Baseball is hiring a Principal Data Engineer to report directly to me, the VP of Data Engineering, at our New York City office.  We work with a diverse set of baseball fan transaction and interaction data, helping to connect fans with the game of baseball!  I oversee a team of Data Engineers and BI Engineers and we're looking for someone with significant experience with building and maintaining data pipelines to join our team.  More info here -   <a href='https://grnh.se/c075d4691' rel='nofollow'>https://grnh.se/c075d4691</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "jH-PLejcQLm4ba7nwLqWJg",
+    "url": "https://news.ycombinator.com/item?id=20335668",
+    "title": "Kira Systems |Machine Learning Developer, Software Developer(s). QE Specialists, Research Scientist| Toronto, ...",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=4, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 4:47:20 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Kira Systems |Machine Learning Developer, Software Developer(s). QE Specialists, Research Scientist| Toronto, Canada | Remote | Onsite | <a href='https://www.kirasystems.com' rel='nofollow'>https://www.kirasystems.com</a><p>Kira Systems makes contract analysis software. We are always looking for talented people to join our team locally, remotely, and for those looking for change to relocate to our headquarters in Toronto.</p><p>We're hiring multiple technical roles to work in all areas of our stack. Possibilities include working on Clojure web server, backend data processing services, and both our platform API and SDK. We use PostgreSQL to store our data and don’t hide SQL behind big frameworks. We also use many other popular technologies such as RabbitMQ, Zookeeper, ElasticSearch, and Docker.</p><p>For more information, visit our careers page <a href='https://www.kirasystems.com/careers' rel='nofollow'>https://www.kirasystems.com/careers</a> or email us at jobs@kirasystems.com.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "p_tebZaQS5itC6zxbuOZ9w",
+    "url": "https://news.ycombinator.com/item?id=20327382",
+    "title": "Indigo Agriculture | Software engineers (all levels) | Boston, MA | Full-time | On-site OR REMOTE | https://www ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 7:02:55 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Indigo Agriculture | Software engineers (all levels) | Boston, MA | Full-time | On-site OR REMOTE | <a href='https://www.indigoag.com/join-us' rel='nofollow'>https://www.indigoag.com/join-us</a><p>================</p><p>We're the fastest growing unicorn you've never heard of [0] and was just recently named CNBCs Most Disruptive Business beating out Airbnb, Stripe, Flexport, and more [3].</p><p>Indigo is revolutionizing agtech by offering better crops to farmers through technology. Agtech is one of the most underhyped technology trends [1] and we're serving a multi-trillion dollar marketplace services industry [2].</p><p>Our group is working on the Uber for Agriculture. We're developing a Transportation network to connect farmers with preferred carriers (trucks) to help them ship millions of bushels of grain across the United States. It's like a real world Traveling Salesman Problem with even more requirements.</p><p>We're growing so fast that I have to hire another 10 engineers just for my group in 2019. Back-end, front-end, mobile... you name it, we need the help (see all of them here: <a href='https://www.indigoag.com/join-us' rel='nofollow'>https://www.indigoag.com/join-us</a> ).</p><p>Our tech stack includes AWS, Docker, Kubernetes (DevOps), Postgres (DB), Node &amp; GraphQL (back-end), React &amp; Apollo (front-end), and Python (data science / comp bio).</p><p>We also offer incredible perks. Free lunch (a rarity in Boston), massive commuter benefits (both MBTA and bicycling), fitness reimbursement, ample vacation; we really focus on and believe in both health and sustainability.</p><p>I'd be happy to tell you more, so feel free to PM me and I'll personally refer you to the company.</p><p>[0] <a href='https://www.builtinboston.com/2017/09/26/agtech-startup-indigo-boston-tech-unicorn' rel='nofollow'>https://www.builtinboston.com/2017/09/26/agtech-startup-indi...</a></p><p>[1] <a href='http://stateofstartups.firstround.com/2018/#trends-and-takes' rel='nofollow'>http://stateofstartups.firstround.com/2018/#trends-and-takes</a></p><p>[2] <a href='https://andrewchen.co/how-marketplaces-will-reinvent-the-service-economy/' rel='nofollow'>https://andrewchen.co/how-marketplaces-will-reinvent-the-ser...</a></p><p>[3] <a href='https://www.cnbc.com/2019/05/15/meet-the-2019-cnbc-disruptor-50-companies.html' rel='nofollow'>https://www.cnbc.com/2019/05/15/meet-the-2019-cnbc-disruptor...</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "kCnwO6VFRQS0xaI_UQikRg",
+    "url": "https://news.ycombinator.com/item?id=20332198",
+    "title": "M-KOPA Solar | Senior Data Engineer | REMOTE (ideally GMT+0 - GMT+4) or ONSITE in Nairobi/London M-KOPA Solar is a ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 6:46:04 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "M-KOPA Solar | Senior Data Engineer | REMOTE (ideally GMT+0 - GMT+4) or ONSITE in Nairobi/London<p>M-KOPA Solar is a large-scale solar energy company focusing on pay-as-you-go systems for emerging markets, primarily in East Africa. We sell small home solar systems that provide lighting and energy to customers who are not currently well-served by the traditional electricity grid. We currently have over 700,000 direct customers (equating to roughly 3.5 million people benefiting from our services) and are expanding quickly. M-KOPA may not be a household name in some job markets, but we have a lot of traction, and a solid runway of interesting engineering work.</p><p>By joining us, you will get to work on a compelling social mission, while also enjoying the engineering challenge of working to maintain and evolve a ~1 million device IoT installation.</p><p>We are actively hiring for a senior data engineer. The ideal candidate would be comfortable working to build data warehousing/persistence flows based on streaming data systems (e.g. Kafka, Event Hub). We are a small team, and so an ideal candidate would be excited to interface with BI developers and application developers to select and implement creative data solutions across a wide-ranging problem space, with involvement in everything from infrastructure to schema design.</p><p>Please contact owen.scott@m-kopa.com for more information.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "XT3kcbgqQY2Eq03dGG3raQ",
+    "url": "https://news.ycombinator.com/item?id=20328654",
+    "title": "OnSpecta | Redwood City, CA & Warsaw, Poland | Software Engineer, Research Engineer, Machine Learning Engineer | ...",
+    "tags": [
+      "DBG:classic``&quot;open to remot&quot;",
+      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
+      "DBG:surround``remot 16W timezon",
+      "DBG_TECH1:k/t/w:arm/embedded/8",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/6",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=8, mobile=0, go=0, nodejs=0, bigdata-ml=34, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 9:06:08 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "OnSpecta | Redwood City, CA &amp; Warsaw, Poland | Software Engineer, Research Engineer, Machine Learning Engineer | Visa<p>OnSpecta is an early-stage startup founded by successful serial entrepreneurs and deep learning experts, and was born out of MIT’s neuroscience lab. We offer a Deep Learning Server (DLS) which increases the performance of deep learning computations on Intel and ARM CPUs, GPUs and ASICs etc. We're a small team (~10), so you'll have a huge opportunity to make a difference.</p><p>We are looking for talented software performance engineers to work directly with our technical founders. If you have experience in C++ and are interested in working on cutting-edge AI/ML infrastructure tech, please reach out to us. See more at <a href='http://onspecta.com/careers.html' rel='nofollow'>http://onspecta.com/careers.html</a> We're also looking for Machine Learning Engineers (experience with Python + TensorFlow required).</p><p>Please reach out to hiring@onspecta.com and include &quot;HN: &quot; in the subject. (Note: while we're open to remote work, you must be in California's or Central/Easter Europe's timezones. Local candidates are preferred).</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "VfuSU1wzTseACOfYJbbGKw",
+    "url": "https://news.ycombinator.com/item?id=20326296",
+    "title": "Slytrunk | Data Engineer | Fulltime | Remote (US only) | slytrunk.com Slytrunk is a small team of technical experts ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=32, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 5:27:52 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Slytrunk | Data Engineer | Fulltime | Remote (US only) | slytrunk.com<p>Slytrunk is a small team of technical experts focused on developing beautiful software applications with a range of incredible clients.</p><p>We're currently looking to onboard a Data Engineer [0].</p><p>The Data Engineer is responsible for building out and managing our Apache &amp; DataStax Cassandra and Solr clusters as a replacement for our existing MySQL databases. The engineer will be responsible for working with Dev and infrastructure teams to; upgrade, manage, optimize, monitor, etc.. our Cassandra and Solr clusters.</p><p>This opportunity will require expertise of Cassandra key concepts such as SSTables, compaction, and garbage collection, as well as Solr concepts such as; core, schema, indexes, and field types. This is a ground floor opportunity to be responsible for DevOps and production support of the new Cassandra and Solr clusters you help design and build.</p><p>We're a very small team with some really awesome clients/projects. All of us are remote, but are highly collaborative. Slytrunk was founded 10 years ago by two engineers and to this day continues to be engineer-focused. Check out the links for more information. Applications go directly to the CEO and founders. Even if you'd like more info before applying, feel free to drop us a line and we can provide you more details.</p><p>[0] <a href='http://bit.ly/sly-data-engineer' rel='nofollow'>http://bit.ly/sly-data-engineer</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "NpkDS1dgT1Ste8Wg-ri5XA",
+    "url": "https://news.ycombinator.com/item?id=20328369",
+    "title": "Petal | New York, NY | Full Stack, Infrastructure, Backend Engineers | ONSITE or REMOTE (US) Petal is a credit card ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 8:40:26 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Petal | New York, NY | Full Stack, Infrastructure, Backend Engineers | ONSITE or REMOTE (US)<p>Petal is a credit card for people without credit histories, by using machine learning to analyze cash flow to augment traditional credit score-based lending decisions. We've raised our Series B and are growing rapidly.</p><p>Some press we've received: <a href='https://techcrunch.com/2018/10/02/petals-no-fee-credit-card-for-the-credit-score-less-is-now-open-to-the-public/' rel='nofollow'>https://techcrunch.com/2018/10/02/petals-no-fee-credit-card-...</a></p><p>Tech stack: <a href='https://stackshare.io/petal' rel='nofollow'>https://stackshare.io/petal</a></p><p>Please apply here: <a href='https://jobs.lever.co/petalcard?lever-origin=applied&amp;lever-source%5B%5D=HACKER_NEWS' rel='nofollow'>https://jobs.lever.co/petalcard?lever-origin=applied&amp;lever-s...</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "if9fsStGSl6waHpZnzhFcQ",
+    "url": "https://news.ycombinator.com/item?id=20326179",
+    "title": "Noom | Data Engineer, Staff Engineer, Sr. Android Engineer | NYC or REMOTE | FULLTIME | https://noom.com At Noom, ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:android/java/3",
+      "DBG_TECH1:k/t/w:android/mobile/6",
+      "DBG_TECH1:k/t/w:com/dotnet/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=8, c=0, mobile=7, go=3, nodejs=0, bigdata-ml=24, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 5:19:11 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Noom | Data Engineer, Staff Engineer, Sr. Android Engineer | NYC or REMOTE | FULLTIME | <a href='https://noom.com' rel='nofollow'>https://noom.com</a><p>At Noom, we use scientifically-proven methods to help users get a handle on chronic medical conditions like obesity, diabetes, and heart disease. We use a variety of technologies, and get to work on hard problems that range from data warehousing to running experiments on mobile devices.</p><p>Our engineering team is expanding, and we have openings for a number of positions that include backend and mobile engineering. Our offices are in NYC, but we are a remote-first organization (some 90% of our team is remote) and are happy to consider candidates anywhere.</p><p>Here are some links where you can apply:</p><p>- Data Engineer - <a href='https://grnh.se/fa9f2f811' rel='nofollow'>https://grnh.se/fa9f2f811</a></p><p>- Staff Engineer - <a href='https://grnh.se/1c6640381' rel='nofollow'>https://grnh.se/1c6640381</a></p><p>- Sr. Android Engineer - <a href='https://grnh.se/98b810ee1' rel='nofollow'>https://grnh.se/98b810ee1</a></p><p>Our stack includes Python, React, Java, and Go, all hosted on AWS.</p><p>I'm Noom's VP of Engineering -- feel free to drop me a note if you have question; I'm mt at noom dot com.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "MCdYkv5qSTmpc2dAZ73gng",
+    "url": "https://news.ycombinator.com/item?id=20326791",
+    "title": "Kalepa | Machine Learning Engineers, Backend / Data Engineers, Full-Stack Engineers | New York City, NY | ONSITE / ...",
+    "tags": [
+      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=14, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 6:11:21 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Kalepa | Machine Learning Engineers, Backend / Data Engineers, Full-Stack Engineers | New York City, NY | ONSITE / PARTIAL REMOTE, VISA<p>Kalepa is a New York based, VC backed, startup building software to transform and disrupt the $1T commercial insurance market.Engineers at Kalepa will be solving interesting and challenging problems at the intersection of big data pipelines, cutting-edge machine learning models, intuitive frontend apps, and robust infrastructure. You will be working in a small team building technology from the ground up with the latest stack.</p><p>One trillion dollars are spent globally each year on commercial insurance. However, the process for estimating the risk associated with a given business across various perils is still reliant on inefficient and inaccurate forms and research. This information asymmetry leads to a broken set of incentives and a poor experience for both businesses and insurers alike. By combining cutting edge data science, enterprise software, and insurance expertise, Kalepa is delivering precision underwriting at scale. Kalepa is turning real-world data into a complete understanding of risk.</p><p>Kalepa is led by a strong team with experiences from Facebook, APT (acquired by Mastercard for $600M in 2015), the Israel Defense Forces, MIT, Berkeley, and UPenn. We are backed by IA Ventures.</p><p>More details here: <a href='https://www.linkedin.com/jobs/cap/view/1114358414/' rel='nofollow'>https://www.linkedin.com/jobs/cap/view/1114358414/</a></p><p>Contact: paul.monasterio@kalepa.co</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "JszH93ERRuSJ3tMLnE4tIw",
+    "url": "https://news.ycombinator.com/item?id=20327071",
+    "title": "Factual | Software Engineers and Data Scientists | Los Angeles REMOTE| https://www.factual.com/company/careers/ ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=12, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 6:36:50 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Factual | Software Engineers and Data Scientists | Los Angeles REMOTE| <a href='https://www.factual.com/company/careers/#career' rel='nofollow'>https://www.factual.com/company/careers/#career</a><p>Factual is currently hiring Software Engineers and Data Scientists, at all levels, in the Los Angeles office. Remote positions available for experienced candidates. Factual is the location data company that the world’s most valuable brands and technology companies trust to understand and intelligently grow their businesses. We help engineering teams, marketers and data analysts build the best digital products, deliver more impactful marketing and transform their businesses with the most accurate and comprehensive data on places and people worldwide.</p><p>There are many challenging problems to work on at all layers of the stack: data cleaning and canonicalization, storage, deduping, serving, APIs, improving data using machine learning, etc. If you love data, Factual is the place to be. Experience with Clojure, machine learning, NLP, algorithm design, or Hadoop/Spark is a plus!</p><p>You can email me personally at alexr@factual.com, or view our job postings here: <a href='https://www.factual.com/company/careers/#career' rel='nofollow'>https://www.factual.com/company/careers/#career</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "CaLRhN5xQVmcfGYtz0FceQ",
     "url": "http://workinstartups.com/job-board/job/81986/junior-data-scientist-intern-at-nimbla/",
     "title": "Junior Data Scientist (Intern)",
