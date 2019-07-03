@@ -161,6 +161,8 @@ function onLoadDataFile(data){
 
     // json_data initialized -> initialize mapIdToJob
     initMapIDToJob();
+    // dynamically build structured data in <header>
+    // initStructuredDataInHeaderToMakeGoogleHappy()
 
     isDataLoaded = true;
     $("#checkboxWorldwide").attr('disabled', false);
@@ -361,6 +363,134 @@ function initMapIDToJob() {
         }
     );
 }
+
+/**
+ * @param job
+ * @returns structured data "JobPosting" object for "job". See
+ * https://developers.google.com/search/docs/data-types/job-posting
+ */
+function createStructuredMarkupForJob(job) {
+
+    var org = {
+        name: "UNSET"
+    };
+    if ( job.hiringOrganization.name !== "UNSET" ) {
+        org.name = job.hiringOrganization.name;
+    }
+    if (job.hiringOrganization.sameAs !== "UNSET") {
+        org.sameAs = job.hiringOrganization.sameAs;
+    }
+    var skills = job.tagsNames2.join(", ");
+
+    var result = {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "title": job.title,
+        "description": job.content,
+        "skills": skills,
+        "datePosted": job.crawled,
+        "validThrough": job.validThrough,
+        "url": window.location.href + "#" + job.id,
+        "identifier": {
+            "@type": "PropertyValue",
+            "name": "remote4meJobID",
+            "value": job.id
+        },
+        "employmentType": "FULL_TIME",
+        "workHours": "Flexible",
+        "jobLocationType": "TELECOMMUTE",
+        "jobLocation": {
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Anywhere"
+            }
+        }
+    };
+
+    if(org.name !== "UNSET"){
+        result.hiringOrganization=org;
+    }
+    if(job.salary.currency !== "UNSET"){
+        result.baseSalary = {
+            "@type": "MonetaryAmount",
+            "currency": job.salary.currency,
+            "value": {
+                "@type": "QuantitativeValue",
+                "minValue": job.salary.minValue,
+                "maxValue": job.salary.maxValue,
+                "unitText": job.salary.unit
+            }
+        };
+        if(job.salary.isEquity === true){
+            result.baseSalary.value.additionalProperty = {
+                "@type": "PropertyValue",
+                "name": "Additional compensation",
+                "value": "+Equity"
+            }
+        }
+        else if (job.salary.info) {
+            result.baseSalary.value.additionalProperty = {
+                "@type": "PropertyValue",
+                "name": "Additional compensation",
+                "value": job.salary.info
+            }
+        }
+    }
+
+    return result;
+}
+
+/**
+ *
+ * @param job type: Job
+ * @param dateDaysAgo type: Date
+ * @returns {boolean} - "true" if Job can be added to structured data section
+ */
+function isJobOkForStructuredData(job, dateDaysAgo){
+    if(!job.content){
+        return false;
+    }
+    if(job.hiringOrganization.name === "UNSET"){
+        return false;
+    }
+    if(dateDaysAgo > new Date(job.crawled) ){
+        return false;
+    }
+    if(dateDaysAgo > new Date(job.published) ){
+        return false;
+    }
+    return true;
+}
+
+
+/**
+ * Attaches <script type="application/ld+json"> to the <head>
+ * inside the script: array of "@type": "JobPosting"
+ * for 1 element of json_data: 1 element in the created array
+ */
+function initStructuredDataInHeaderToMakeGoogleHappy() {
+    var scriptElement = document.createElement('script');
+    scriptElement.type = 'application/ld+json';
+
+    var arr = [];
+    var markup;
+    var daysAgo=7;
+    var dateDaysAgo=new Date();
+    dateDaysAgo.setDate(dateDaysAgo.getDate()-daysAgo);
+
+    // Loop through json_data,
+    $.each(json_data, function (index, job) {
+        if( isJobOkForStructuredData(job, dateDaysAgo) === true ){
+            markup = createStructuredMarkupForJob(job);
+            arr.push(markup);
+        }
+    }
+    );
+
+    scriptElement.text += JSON.stringify(arr);
+    document.querySelector('head').appendChild(scriptElement);
+}
+
 /**
  * Initialization of global variables:
  *   lunarIndex
