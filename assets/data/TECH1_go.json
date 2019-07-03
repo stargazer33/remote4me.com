@@ -1,6 +1,645 @@
 {
  "items": [
   {
+    "id": "_PiDqSnKTUGe7qAaPI62hg",
+    "url": "https://news.ycombinator.com/item?id=20330766",
+    "title": "LaunchDarkly | Oakland, CA | Onsite | https://launchdarkly.com LaunchDarkly is a Feature Management Platform that ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend",
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 1:33:31 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "LaunchDarkly | Oakland, CA | Onsite | <a href='https://launchdarkly.com' rel='nofollow'>https://launchdarkly.com</a><p>LaunchDarkly is a Feature Management Platform that serves hundreds of billions feature flags daily to help software teams build better software, faster. Feature flagging is an industry best practice of wrapping a new or risky section of code or infrastructure change with a flag. Each flag can easily be turned off independent of code deployment (aka ”dark launching”).</p><p>To learn more about who we are, our engineering culture, and whether this is the right place for you, read our Key Values profile: <a href='https://www.keyvalues.com/launchdarkly' rel='nofollow'>https://www.keyvalues.com/launchdarkly</a></p><p>Our open positions:</p><p>* DevOps Engineer: <a href='https://jobs.lever.co/launchdarkly/aa5b3b23-5f10-4682-83c0-79be5aec0114?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/aa5b3b23-5f10-4682-83c0-7...</a></p><p>* DevOps Engineer (UK Remote): <a href='https://jobs.lever.co/launchdarkly/3f6b4d1b-fbfa-4da5-b0b6-45646fb43834?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/3f6b4d1b-fbfa-4da5-b0b6-4...</a></p><p>* Distributed Systems Engineer: <a href='https://jobs.lever.co/launchdarkly/7c2a0f73-c630-4baa-804f-af1568cd6595?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/7c2a0f73-c630-4baa-804f-a...</a></p><p>* Integration Engineer: <a href='https://jobs.lever.co/launchdarkly/e7a9adde-3738-4c87-a775-47f24b69ee9b?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/e7a9adde-3738-4c87-a775-4...</a></p><p>* SDK Engineer: <a href='https://jobs.lever.co/launchdarkly/c39b6015-99a4-495a-abcc-bcd7548138c1?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/c39b6015-99a4-495a-abcc-b...</a></p><p>* Data Engineer Team Lead: <a href='https://jobs.lever.co/launchdarkly/b74294b5-15d3-43ea-9a9b-444fe6634315?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/b74294b5-15d3-43ea-9a9b-4...</a></p><p>* Product Manager: <a href='https://jobs.lever.co/launchdarkly/b554c0ae-b94b-4fca-a775-73c5f57a993a?lever-origin=applied&amp;lever-source%5B%5D=KeyValues' rel='nofollow'>https://jobs.lever.co/launchdarkly/b554c0ae-b94b-4fca-a775-7...</a></p><p>Tech Stack: Golang, React, Redux, MongoDB, ElasticSearch, Redis, HAProxy, NATS, Kafka, Redis, and Cassandra</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ITFddnNGTdCi2NY9jq7N_A",
+    "url": "https://news.ycombinator.com/item?id=20328133",
+    "title": "Stream | Golang, iOS, and Android Senior Developers | Remote / Onsite | Full time | Amsterdam Stream is an API ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/3",
+      "DBG_TECH1:k/t/w:android/mobile/6",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:golang/go/16",
+      "DBG_TECH1:k/t/w:ios/apple/6",
+      "DBG_TECH1:k/t/w:ios/mobile/6",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=26, go=19, nodejs=0, bigdata-ml=0, ruby=0, apple=11, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 8:15:04 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Stream | Golang, iOS, and Android Senior Developers | Remote / Onsite | Full time | Amsterdam<p>Stream is an API platform that powers Feeds and Chat for over 500 million end-users – many companies of which you use daily.</p><p>Our team is hiring backend developers to work on our API platform and distributed data storage (Go for almost everything), as well as iOS, and Android developers to work on our SDK libraries in Swift, Java, and Kotlin.</p><p>Want to join an excellent team and build great products used by millions of users? Apply now at <a href='https://angel.co/company/stream' rel='nofollow'>https://angel.co/company/stream</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "jhlH_duTRp22y4BEh-Ajuw",
+    "url": "https://news.ycombinator.com/item?id=20328320",
+    "title": "Load Impact | Go Engineer / k6 OSS maintainer | REMOTE in Europe +/- 3h from Sweden You will be one of three lead ...",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:go-developer/go/26",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=40, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 8:34:17 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Load Impact | Go Engineer / k6 OSS maintainer | REMOTE in Europe +/- 3h from Sweden<p>You will be one of three lead developers and maintainers of k6, a modern open source tool for performance testing, written in Go (golang). k6 was released publicly in early 2017 and has already received over 5,000 stars on Github and has an active community of users and contributors.</p><p>You will have a lot of influence on the project road map and will work with a high degree of autonomy, building and maintaining the tool.</p><p>Your responsibilities will be to both write code, extending the functionality of k6, and to maintain the code base, interface with the user community (i.e. review patches :) and potentially evangelize the tool. Your main, long-term goal will be to create the best possible tool and to get as many people as possible to use it.</p><p>Due to our small teams and fast development pace, you will have a substantial and immediate impact on how the end product is architected, developed, and how the engineering team operates. Most importantly, you will work with competent colleagues and will be able to expand your knowledge and skills in different directions.</p><p>Skills required:</p><p>We are looking for a person combining very strong programming skills with experience in contributing to open-source projects.</p><p>Applicants must:</p><p>- Have a strong programming background and experience developing applications in Go- Good technical communication skills- Understand internet protocols well, primarily IP, TCP, HTTP but also preferably HTTP/2, SPDY, WebSockets, QUIC, gRPC- Be familiar with modern development processes and practices. Preferably having recent experience developing large scale applications</p><p>Load Impact is a remote-first company. If you are located in Stockholm, you can work from the office, otherwise, you can work 100% remotely.</p><p>Apply here: <a href='https://loadimpacte4.applytojob.com/apply/utlvKOlILJ/Go-Developer-K6-OSS-Maintainer' rel='nofollow'>https://loadimpacte4.applytojob.com/apply/utlvKOlILJ/Go-Deve...</a> or send me an email pawel@loadimpact.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "lHMyaFCzQBK1rrchX67P0w",
+    "url": "https://news.ycombinator.com/item?id=20326272",
+    "title": "Maxwell Health | Senior Software Engineer, Engineering Manager | Boston, MA OR Remote |Full-time At Maxwell, we are ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=3, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 5:26:27 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Maxwell Health |  Senior Software Engineer, Engineering Manager |  Boston, MA OR Remote |Full-time<p>At Maxwell, we are inspired by the opportunity to make a difference in society by helping people make better health, wellness, and financial decisions. We build applications that support a rich set of interactions among consumers, employers, brokers, and product vendors. We view ourselves as the stewards of change for a very complex industry.</p><p>We're looking for engineers who love working with technologies like Golang, Scala, TypeScript, and React.</p><p>Interested in working with an awesome team? Have team leadership experience? Reach out to James at james+hn [at] maxwellhealth.com or apply online through the link below.</p><p>--</p><p>Maxwell Health: <a href='https://maxwellhealth.com/' rel='nofollow'>https://maxwellhealth.com/</a>Engineering Manager: <a href='https://sunlife.wd3.myworkdayjobs.com/en-US/MaxwellHealth/job/Boston-Massachusettes/Director--Engineering_JR00014936-3' rel='nofollow'>https://sunlife.wd3.myworkdayjobs.com/en-US/MaxwellHealth/jo...</a>Senior Software Engineer: <a href='https://sunlife.wd3.myworkdayjobs.com/en-US/MaxwellHealth/job/Boston-Massachusettes/Senior-Software-Engineer---Back-End_JR00014927' rel='nofollow'>https://sunlife.wd3.myworkdayjobs.com/en-US/MaxwellHealth/jo...</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "uUxjOgrZQTe84aj9-ZlunA",
+    "url": "https://news.ycombinator.com/item?id=20334763",
+    "title": "Vocdoni | Software Engineer, Product Manager | REMOTE | http://vocdoni.io At Vocdoni we're implementing a ...",
+    "tags": [
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 3:32:17 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Vocdoni | Software Engineer, Product Manager | REMOTE | <a href='http://vocdoni.io' rel='nofollow'>http://vocdoni.io</a><p>At Vocdoni we're implementing a universally verifiable and censorship-resistant voting system using Ethereum and Tendermint blockchains, ZK-Snarks/Linkable Ring Signatures and self-sovereign identity schemes.</p><p>We are now building a citizen participation platform to bring technology to the masses.</p><p>We're looking for highly autonomous, idealists, that look for an effective change in how society is organized. Our team is mostly based around Catalonia/Barcelona, but we work remotely making use of highly meritocratic governance.</p><p>Our fully open-source stack makes uses of Golang, Flutter and web technologies (Typescript).</p><p>More details about the positions here: <a href='https://vocdoni.io/docs/#/about-us/open-positions' rel='nofollow'>https://vocdoni.io/docs/#/about-us/open-positions</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "63davhOZT0Gjaq7aeknvbw",
+    "url": "https://news.ycombinator.com/item?id=20331102",
+    "title": "10x Genomics | Software Engineers, Designers, QA, DevOps | San Francisco & Pleasanton, CA | Onsite or Remote (US ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:numpy/python/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:k/t/w:scipy/python/5",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=10, other=5, dotnet=0, c=0, mobile=0, go=8, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "go",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 2:40:20 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "10x Genomics | Software Engineers, Designers, QA, DevOps | San Francisco &amp; Pleasanton, CA | Onsite or Remote (US Only)<p>We're a software team of 28 people within a biotech company who own software and firmware development, infrastructure, design, and QA. 10x develops novel products that help deconvolute biology by providing higher resolution data. For example, scientists have been using our products to help identify new drug targets for Alzheimer's [1], cystic fibrosis [2], and asthma [3]. No biological experience is required, but if you're interested, there are countless opportunities to learn!</p><p>Last month we moved into our newly renovated headquarters. Recently, our CEO announced that he's considering taking the company public [4]. SF Business Times awarded us with the #1 fastest-growing private company with &quot;an eye-popping 2,044% spike in revenue&quot; from 2015 to 2017.</p><p>You can find out more about our customer facing software at <a href='https://support.10xgenomics.com/' rel='nofollow'>https://support.10xgenomics.com/</a>. We manage our pipelines with Golang, develop analysis code using Rust and the NumPy/SciPy stack, and drive our front-end applications with React/Redux and TypeScript.</p><p>We're currently hiring for all software roles. Some roles are remote friendly and is indicated in the job posting. You can find details on our careers page: <a href='https://www.10xgenomics.com/careers/' rel='nofollow'>https://www.10xgenomics.com/careers/</a>. Feel free to email me if you think you're a good fit for these roles or if you just want to chat. You can reach me at kevin.wu@10xgenomics.com or @kevinwuhoo. I strive to reply to all emails, regardless of whether they're informational or applications!</p><p>[1]: <a href='https://news.mit.edu/2019/gene-map-alzheimers-brain-0501' rel='nofollow'>https://news.mit.edu/2019/gene-map-alzheimers-brain-0501</a></p><p>[2]: <a href='https://www.statnews.com/2018/08/01/new-lung-cell-cystic-fibrosis-medicines/' rel='nofollow'>https://www.statnews.com/2018/08/01/new-lung-cell-cystic-fib...</a></p><p>[3]: <a href='https://www.sanger.ac.uk/news/view/first-lung-map-uncovers-new-insights-asthma' rel='nofollow'>https://www.sanger.ac.uk/news/view/first-lung-map-uncovers-n...</a></p><p>[4]: <a href='https://www.genomeweb.com/business-news/10x-genomics-plans-large-expansion-2019-mulls-going-public' rel='nofollow'>https://www.genomeweb.com/business-news/10x-genomics-plans-l...</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "auK4B8CuRXOhwlhyd8ki1A",
+    "url": "https://news.ycombinator.com/item?id=20329353",
+    "title": "Picstars AG | Backend Engineer - Golang | Zürich | REMOTE (Europe) | https://picstars.com At Picstars we are ...",
+    "tags": [
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG_TECH1:k/t/w:go/go/9",
+      "DBG_TECH1:k/t/w:golang/go/24",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=33, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 10:22:46 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Picstars AG | Backend Engineer - Golang | Zürich | REMOTE (Europe) | <a href='https://picstars.com' rel='nofollow'>https://picstars.com</a><p>At Picstars we are building a full service platform for brands to easily run influencer marketing campaigns - everything from finding the right matching influencers, creating campaign proposals, defining image overalys, social post monitoring and statistics and automated payments to influencers.</p><p>We are a small but powerful and efficient team. You will work directly alongside the CTO (me) and a few other engineers to build the backend tech stack. We are currently building all new parts of our platform in Go using AWS lambda plus various other AWS technologies. I am looking for someone with Go experience who has already written and deployed production-level code. Bonus points if you also know PHP/Laravel because let's face it...we all have legacy systems :)</p><p>This is a REMOTE position for people located in Europe, structured as a B2B contract. You will receive a time off allowance and local holidays, plus a few trips a year to our Zürich office to meet with the team. You will join an existing distributed team that is used to working remotely.</p><p>Tech stack/buzzwords: Go, Golang, Serverless, Lambda, AWS, React</p><p>Please reach out with questions or if you are interested! josh.mauk[~at~]picstars.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ETXpfxaWQZ-JYR06JQstXQ",
+    "url": "https://news.ycombinator.com/item?id=20326919",
+    "title": "GlobalSign | R&D Scientist / Developer, Software Engineer, Field Application & Pre Sales Engineer, & non ...",
+    "tags": [
+      "DBG:surround``remot W OR(contractor,assist,ok)",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 6:23:41 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "GlobalSign | R&amp;D Scientist / Developer, Software Engineer, Field Application &amp; Pre Sales Engineer, &amp; non-engineering roles too | Portsmouth NH, London, UK | Full-time | On-site | <a href='https://www.globalsign.com/en/company/careers/' rel='nofollow'>https://www.globalsign.com/en/company/careers/</a><p>GlobalSign is the leading provider of trusted identity and security solutions enabling businesses, large enterprises, cloud service providers and IoT innovators around the world to secure online communications, manage millions of verified digital identities and automate authentication and encryption. Its high-scale PKI and identity solutions support the billions of services, devices, people and things comprising the Internet of Everything (IoE). The company has offices in the Americas, Europe and Asia.</p><p>+ R&amp;D Scientist (Portsmouth NH <a href='http://bit.ly/2XklKwX' rel='nofollow'>http://bit.ly/2XklKwX</a>, Pittsburg PA, or Remote OK: <a href='http://bit.ly/2KSewts' rel='nofollow'>http://bit.ly/2KSewts</a>)</p><p>--Working on cryptocurrency/Bitcoin and other new identity technologies.  See articles here for an idea on cryptocurrency related work: <a href='http://bit.ly/bitcoinidentity' rel='nofollow'>http://bit.ly/bitcoinidentity</a></p><p>+ Field Application &amp; Pre Sales Engineer (Portsmouth NH/Boston MA): <a href='http://bit.ly/2XgM3PU' rel='nofollow'>http://bit.ly/2XgM3PU</a></p><p>--Enabling IoT security implementations in new customer environments - see  <a href='http://bit.ly/LongviewCase' rel='nofollow'>http://bit.ly/LongviewCase</a> and <a href='http://bit.ly/biggoodiot' rel='nofollow'>http://bit.ly/biggoodiot</a> examples for type of use cases and customers you'll be working with.</p><p>+ Backend Software Engineer (London UK / Portsmouth, NH / Boston MA) <a href='https://careers.jobscore.com/careers/globalsign/jobs/software-engineer-bKKtse5bKr6kkieJaI0DFi?detail=WEBSITE&amp;remail=&amp;rfirst=&amp;rlast=&amp;sid=161' rel='nofollow'>https://careers.jobscore.com/careers/globalsign/jobs/softwar...</a></p><p>--Working with GlobalSign's IoT Identity Platform &amp; Digital Signing Service (UK) or IoT Edge Enroll (US), using Golang</p><p>--US role won't be open until August, however, please email resume directly if interested</p><p>Find more details at<a href='https://www.globalsign.com/en/company/careers/' rel='nofollow'>https://www.globalsign.com/en/company/careers/</a> or email lancen.lachance@globalsign.com for more information or to apply.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ltW_olDYQeyR3uijFQt5_w",
+    "url": "https://news.ycombinator.com/item?id=20329783",
+    "title": "simplesurance GmbH | Berlin, Germany | Onsite (and some Remote), Full Time https://www.simplesurance.com/ We are ...",
+    "tags": [
+      "DBG:surround``OR(meet,work,visit,travel) 4W OR(dai,daili,week,weekli,month,monthli) 5W OR(onsit,offic,headquart)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:go-developer/go/13",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=13, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 11:09:28 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "simplesurance GmbH | Berlin, Germany | Onsite (and some Remote), Full Time <a href='https://www.simplesurance.com/' rel='nofollow'>https://www.simplesurance.com/</a>We are building one of the world’s leading platforms to make insurance accessible.<p>Since 2012, we are proudly “Made in Berlin”: we are very international with 150+ people from over 30+ countries working daily in our central Berlin office. Our internationalism is reflected also in our business since we are active in over 28 countries.</p><p>InsurTech is just taking off <a href='https://blog.ycombinator.com/thoughts-on-insurance/' rel='nofollow'>https://blog.ycombinator.com/thoughts-on-insurance/</a> and we’ve been there from the beginning.</p><p>What we are looking for:</p><p></p><pre><code>  - Golang Software Engineer (f/m): For hardcore gophers.  - Language-agnostic Software Engineer (f/m): For pragmatic developers always looking to learn new things.  - React Software Engineer (f/m): For the interested in the React ecosystem, from web to mobile native.  - Full-stack Software Engineer (f/m): For allrounders.  - Manual and Automation Test Engineer (f/m): For people with proven experience in Quality Assurance testing methodologies.  - SRE/Platform engineer in Japan (f/m): Job listing not ready yet but do ask!</code></pre>PS: We are just starting operations in Japan, so if you speak Japanese that's a strong plus!<p>Email: jobs@simplesurance.com | <a href='https://www.simplesurance.com/careers/' rel='nofollow'>https://www.simplesurance.com/careers/</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "uLV_JbmzS_-Uy6BSRclqmA",
+    "url": "https://news.ycombinator.com/item?id=20330679",
+    "title": "Stax / Versent | Backend Developer | Melbourne, Australia | Onsite | Full-time | https://www.stax.io/ We build ...",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/go",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "go",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 2, 2019 1:18:49 AM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 11:45:44 PM",
+    "content": "Stax / Versent | Backend Developer | Melbourne, Australia | Onsite | Full-time | <a href='https://www.stax.io/' rel='nofollow'>https://www.stax.io/</a><p>We build software to help companies understand how they're spending on AWS and to track compliance - We want to help make everyone be even better at AWS.</p><p>We're located in Melbourne CBD, with a team that works remotely / from home part of the time, but onsite as some onsite time is likely required (but we're open to discussions).</p><p>We're heavy users of AWS ourselves, and exist within the bigger scope of Versent. The product is developed in a mix of languages, with this role mainly working with Ruby and Go, but we're happy to chat to any experienced backend developers.</p><p>To apply, and view a bit more, see <a href='https://versent.workable.com/j/515ECA4C82' rel='nofollow'>https://versent.workable.com/j/515ECA4C82</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "89Hh3qdwSaSXO00LpSVP8w",
+    "url": "https://jobmote.com/job/46137/full-stack-software-engineer-java-go-remote/",
+    "title": "Full Stack Software Engineer (Java /Go) //remote",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:go/go/15",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:typescript/frontend/2",
+      "DBG_TECH1:k/t/w:typescript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=1, go=23, nodejs=18, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Travelers Insurance",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 10:07:15 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 2, 2019 3:06:25 AM",
+    "content": "<div>Company Information<br>Solid reputation, passionate people and endless opportunities. That's Travelers. Our superior financial strength and consistent record of strong operating returns mean security for our customers - and opportunities for our employees. You will find Travelers to be full of energy and a workplace in which you truly can make a difference.<br><br>Job Summary<br>Under general supervision, demonstrates a thorough understanding of the activities performed related to engineering support, installation and/or operations of infrastructure technologies. Plans at an operational level designing and developing technology solutions interfacing with appropriate customers, management and technical resources. Facilitates and/or participates in the design, development, and implementation of large complex technology solutions supporting one or more business and/or technology areas. Develops and implements appropriate solutions that may involve multiple platforms, databases, software/hardware technologies and tools. Strong ability to multi-task in an environment of changing priorities. This job is a team lead.<br><br>Primary Job Duties &amp; Responsibilities<br>Evaluates systems specifications regarding customer requirements, transforming specifications into cost-effective, technically correct solutions. Prioritizes work and manages projects within established budget objectives and customer priorities. Responsible for establishing and managing to established quality control and security protocols. Provides the division, department and business area management with timely and accurate information regarding the status and performance of the assigned project(s). Leverages technology to develop, redesign and/or implement optimal technology solutions. Builds, leverages, and maintains effective alliances across technical and business community. Interacts with customers to achieve efficient, effective results. Multi-tasks, prioritizes according to business priorities and production availability requirements. Other duties as assigned:<ul><li>Full stack developer/engineer</li> <li>Design, test, develop, deploy, maintain and improve services and systems</li> <li>Deliver high-quality code through hands-on development with attention to detail</li> <li>Analyze and research issues and provide solutions quickly</li> <li>Work closely in an Agile team of product owners and engineers</li> <li>Actively participate in solution design</li> </ul><br><br>Minimum Qualifications<br>High School diploma or equivalent required. 3 years of experience in Technology required.<br><br>Education, Work Experience &amp; Knowledge<br>Bachelor's degree in Computer Science or a related field preferred. 5 years of experience in Technology preferred. This is a backend role : ideally need Go/ GoLang<ul><li>2+ years of Red Hat Enterprise Linux or Ubuntu Linux</li> <li>Proficiency in client-side Javascript and Typescript development</li> <li>Angular or other modern Javascript user interface frameworks experience desirable</li> <li>Experience writing backend systems and APIs in NodeJS, Go, or Python</li> <li>Hands-on experience working with web services such as REST and data-interchange formats likes JSON</li> <li>Extremely familiar with source code management systems (Git)</li> <li>Unit-testing experience</li> <li>Configuration management experience a plus</li> <li>Docker and container orchestration experience desirable</li> <li>Ambition and desire to learn new technologies and programming languages</li> <li>Excellent verbal and written communication skills</li> <li>Proven ability to learn and adapt to change quickly and easily</li> </ul><br><br>Job Specific &amp; Technical Skills &amp; Competencies<br>Backend Go/Go Lang - Ideal<br><br>Javascript/Typescript<br>Python<br>Docker<br><br>Environmental/Work Schedules/Other<br>Weekend work hours, Overnight work hours , Holiday work hours (Federal and religious) - only as needed<br><br>Physical Requirements<br>Operates standard office equipment and Sitting (can stand at will) <br><br>Equal Employment Opportunity Statement<br>Travelers is an equal opportunity employer. <br>To apply for this position please <b>CLICK HERE</b> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "lAuyB4AET9CDQx_Sq7Up0w",
+    "url": "https://stackoverflow.com/jobs/278243/senior-developer-golang-remote-cilium?a=1vjtii0hPfwc",
+    "title": "Senior Developer - Golang (remote) at Cilium  ",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``remot 16W timezon",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:golang/go/24",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=27, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "Cilium via Resourcing People Ltd",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 120000,
+      "maxValue": 200000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 120k - 200k /Year | Equity"
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 1, 2019 4:06:26 PM",
+    "validThrough": "Jan 1, 1970 1:00:00 AM",
+    "crawled": "Jul 1, 2019 4:06:26 PM",
+    "content": "<h2><span>Senior Developer - Golang (remote)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                    </div>                <div>    <h3>Reactions to this job</h3>    <div>        <div>                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                                                                        <span>0</span>                        </div>    </div>        <div>            <div>                <div>                    <div></div>                </div>                <div>                    <strong>New!</strong> How do you feel about this job listing?                </div>                <div>                                    </div>            </div>        </div>        <div></div></div><div>Company: Cilium via Resourcing People Ltd | No office location<br></div>                    <h3>Remote details</h3>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT-06:00) Central Time </span>                                </div>                                                                                                            </div>                    </div>                <h3>Technologies</h3><div>go</div><div>kubernetes</div><div>amazon-web-services</div><div>docker</div><div>javascript</div>                <h3>Job description</h3>                <div><p>I have an amazing Software development opportunity for not just one but for up to 4 Back End developers that consider themselves to be in the top tier of their field.</p><p>My client, Cilium is an API-aware network security filtering software company to Linux container frameworks like&nbsp;<a href='https://www.docker.com/' rel='nofollow'><strong>Docker</strong></a>&nbsp;and&nbsp;<a href='https://kubernetes.io/' rel='nofollow'><strong>Kubernetes</strong></a>. Using a new Linux kernel technology called&nbsp;<strong>BPF</strong>, Cilium provides a simple and efficient way to define and enforce both network-layer and application-layer security policies based on container/pod identity.</p><p>They believe in a future where Linux has deep network visibility and control for microservice at the API layer, making applications more secure than ever before. If this goal excites you too, they most certainly invite you to join them by contributing ideas, code, and documentation to Cilium.</p><p>Now, they do not want to pigeonhole themselves with specific from a tech stack perspective,</p><p>However, ideally, we would like people with commercial Golang experience. And ideally people with active open source community participation.&nbsp;</p><p>It would also be highly advantageous to have an employment history with Tier 1 companies.&nbsp;</p><p>Please contact <a href='mailto:simon.lawson@resourcingpeople.com' rel='nofollow'>simon.lawson@resourcingpeople.com</a> for more info.</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/278243?reset=False&amp;ra=1vjtii0hPfwc&amp;oqs=a%3D1vjtii0hPfwc' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Cilium</h3>            <div><p>Cilium brings API-aware network security filtering to Linux container frameworks like&nbsp;<a href='https://www.docker.com/' rel='nofollow'><strong>Docker</strong></a>&nbsp;and&nbsp;<a href='https://kubernetes.io/' rel='nofollow'><strong>Kubernetes</strong></a>. Using a new Linux kernel technology called&nbsp;<strong>BPF</strong>, Cilium provides a simple and efficient way to define and enforce both network-layer and application-layer security policies based on container/pod identity.</p><p>We believe in a future where Linux has deep network visibility and control for microservice at the API layer, making applications more secure than ever before. If this goal excites you too, we invite you to join us by contributing ideas, code, and documentation to Cilium.</p>            </div>        ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "ZAuozOdqTG6CPTPyAu3ewg",
     "url": "https://stackoverflow.com/jobs/274441/senior-back-end-engineer-go-at-saas-analytics-loopvoc?a=1u2pUIFIWhZC",
     "title": "Senior Back-end Engineer (Go) at SaaS Analytics Startup at LoopVOC (Charleston, SC) ",
@@ -4018,223 +4657,6 @@
     "validThrough": "Jan 1, 1970 1:00:00 AM",
     "crawled": "May 3, 2019 12:10:23 AM",
     "content": "<h2>Senior Software Engineer, Back End at <span>Abstract</span></h2><div><span><i></i> Remote</span>        </div><div>            <p><strong>at Abstract</strong></p><p><strong>U.S.-based remote or SF office</strong></p><p><strong>About Abstract</strong></p><p>Abstract is a design workflow platform for teams to version, manage, and collaborate on Sketch files. Since launching in July 2017, over 5,000 design teams across 75 countries have adopted Abstract, including teams from Shopify, Cisco, Intuit, Spotify, Salesforce, Instacart, OpenTable, and more.</p><p>At Abstract, we are actively working to build a diverse and inclusive organization. Here, diversity&nbsp;<em>includes&nbsp;</em>age, economic class, educational background, ethnic variance, familial status, gender, gender expression, gender identity, marital status, national origin, religious affiliation, sex, sexual orientation, transgender status, or veteran status.</p><p><strong>Abstract is headquartered in San Francisco but many of our teams and roles are remote-first (U.S.-based only at this time).</strong>&nbsp;If you have a passion for rolling up your sleeves, building new programs, and have a strong, team-player mentality, we’d love to hear from you!</p><p>At Abstract we develop desktop and web applications that help teams design with confidence by providing a version control system and collaboration platform focused on design artifacts. We are looking for engineers to help us develop Go HTTP services and command line applications, as well as our Ruby API.</p><p>We use Go throughout our application stack, so Go engineers on the team will enjoy a wide range of projects. We run numerous services written in Go on the web, and also interact with design data on the desktop using a CLI application written in Go. Our RESTful API is powered by Ruby, and is at the core of our product architecture.</p><p>We’re more interested in your ability to learn and solve problems, so while previous Go and/or Ruby experience is preferred, expertise in similar languages (Java, PHP, Elixir, Erlang, Python, Perl, C#, C++) would also suffice.</p><p><strong>In a typical week as a Senior Back End Engineer, you will:</strong></p><ul><li>Discuss, plan, and build new features and web APIs</li><li>Diagnose performance issues and improve processing time for key operations</li><li>Triage and fix bugs, often working directly with our customers</li><li>Participate in peer code reviews through pull requests to make sure we’re moving fast while also maintaining quality codebases</li><li>Collaborate with fellow engineers and designers building user-facing features to decide how APIs and integrated libraries should work</li><li>Document service architecture and features in service of sharing knowledge with the rest of the engineering team</li><li>Work closely with the Infrastructure team to ensure any security concerns are addressed quickly and thoroughly</li></ul><p><strong>Practical skills you’ll need for success:</strong></p><ul><li><strong>In-depth understanding of Git’s internals</strong></li><li>Curiosity, and a commitment to lifelong learning</li><li><strong>Experience building web applications</strong></li><li>A product mindset and a willingness to ask questions in order to improve the product, not only in its technical implementation but also in how well it’s serving the needs of our customers</li><li>The ability to make things happen even when the path is not well defined</li><li>Ability to clearly discuss and explain complex technical topics</li><li>Commitment to improvement and an understanding of technical trade-offs</li><li>Respectful collaboration with team members, customers, and project managers</li><li>Willingness both to listen to others and to be heard</li><li>Experience communicating technical concepts to peers, junior engineers, and non-technical audiences</li><li>Enthusiasm for jumping in to diagnose and fix the core issues when things inevitably break. This is software, after all!</li></ul><p><strong>Bonus points if you have:</strong></p><ul><li>Designed high-volume APIs</li><li>Experience working with Git libraries such as go-git</li><li>Worked in an environment with microservices or another service-oriented architecture</li><li>Designed and built applications with Docker or Kubernetes</li><li>Worked on small teams and are comfortable wearing multiple hats</li><li>Experience working in an agile environment</li><li><strong>Experience working remotely</strong></li><li>Mentorship experience</li></ul><p><strong>Benefits</strong></p><p>At Abstract, we offer resources that emphasize personal and familial wellbeing. We provide 99% healthcare coverage, including dental, vision, and life insurance. We offer 10 weeks parental leave, unlimited paid-time off, and&nbsp;<strong>flexible working arrangements</strong>. Additional perks include dependent care and health care FSA as well as commuter benefits for SF office employees.</p><p>To help employees plan for the future, we’re able to offer competitive pay and a 401k.</p><p><strong>We are a distributed team and we are able to offer U.S.-based remote employment. We offer travel opportunities for company meetings, team meet-ups, and the occasional conference.</strong></p>        </div><div>        <a href='https://boards.greenhouse.io/abstract/jobs/4267650002' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "jGC8ZMHSR6uIvDQd6UinwA",
-    "url": "https://remoteok.io/jobs/72568",
-    "title": "Senior Software Engineer",
-    "tags": [
-      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:mapreduce/bigdata-ml/5",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=0, go=6, nodejs=1, bigdata-ml=5, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/c",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "c",
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "RetailNext, INc.",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "May 2, 2019 1:52:54 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "May 2, 2019 6:23:23 PM",
-    "content": "<span><h2>Senior Software Engineer</h2></span> <br> <span><h3>RetailNext, INc.</h3></span> <span>US-only</span> <span></span> <div>  <div>   Are you interested in distributed systems or big data?&nbsp; RetailNext is looking for engineers to help build our cloud analytics system. We pull in and process data from thousands of brick and mortar stores to help our customers better understand and serve their customers.   <br>   <br>   <br>   <br>&nbsp;   <br>   <br>&nbsp;   <br>   <br># Responsibilities   <br> We're looking for engineers with experience in distributed systems or data processing at scale.&nbsp; We write code in Go and use tools like Cassandra, Redis, GRPC and MapReduce.&nbsp; We don't expect you to be an expert in everything we do, but you should have a strong background in some plus an interest in learning the rest.&nbsp; The team is growing fast and there will be leadership opportunities for interested and qualified candidates.   <br>   <br>   <br>We've built an environment where you can focus on big problems. Low on meetings and overhead. We are a community of makers and we want people with the same mindset. Focused on building great solutions to the problems our customers face.   <br>   <br>   <br># Requirements   <br>**Who you are:**   <br>&nbsp;   <br>Strong in at least one of Go, Javascript, Ruby or C   <br>&nbsp;   <br>**Bonus points:**   <br>&nbsp;   <br>Production experience with Cassandra   <br>Experience with a project that used continuous deployment or Kanban   <br>Work experience in retail   <br>   <br>#Salary   <br>Open   <br>   <br>   <br>#Location   <br>- US-only   <br>  </div> </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "YJfTpKEMQN2y9s-GHLaQKA",
-    "url": "https://remoteok.io/jobs/72496",
-    "title": "Golang Developer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:golang/go/16",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=16, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "Veganbase",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 27, 2019 5:00:16 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "May 2, 2019 6:23:23 PM",
-    "content": "<span><h2>Golang Developer&nbsp;</h2></span> <br> <span><h3>Veganbase</h3></span> <div>  <div>   Remote, United Kingdom - We created a platform and API for publishing content and create marketplaces for ethical companies. We use kubernetes / microservices and graphql. The API is used by our flutter apps and Vuejs web apps. We would like to make the API available for third par...  </div> </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "QphwINflTVSmfn4nqG3YuA",
-    "url": "https://remoteok.io/jobs/72437",
-    "title": "Full Stack Single Page Application",
-    "tags": [
-      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "Redox",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 23, 2019 1:57:59 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "May 2, 2019 6:23:23 PM",
-    "content": "<span><h2>Full Stack Single Page Application&nbsp;</h2></span> <br> <span><h3>Redox</h3></span> <div>  <div>   At Redox, Engineers solve the most complex and challenging issues in healthcare technology - empowering the world’s scientists, engineers, and innovators to make healthcare data useful.   <br>   <br>As a full stack Single Page Application (SPA) engineer at Redox, you will create SPAs to configure the operation of, report on data flow within, and troubleshoot on our network. You will work primarily within a service oriented ecosystem and our new front-end stack to create SPAs that:   <br>Support the efficiency of our internal users when bringing dozens of new organizations onto our network.   <br>Facilitate rapid troubleshooting and technical operations at a scale of millions of transactions per day.   <br>Delight our customers with the ability to understand, configure, and report on more aspects of their use of our network.   <br>   <br>   <br>   <br>   <br>To be successful in the role, we expect that you will get to:   <br>   <br>   <br>   <br>   <br>* Collaborate with a multidisciplinary team to develop world class SPA applications.   <br>   <br>* Work within a µ-service architecture.   <br>   <br>* Collaborate in defining and developing to stringent Service Level Objectives.   <br>   <br>* Ask for forgiveness, not permission.   <br>   <br>* Continually improve in your craft as a developer.   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>Your day to day will consist of:   <br>   <br>   <br>   <br>   <br>* Pairing with your teammates to make progress on projects or solve problems.   <br>   <br>* Designing solutions to feature requirements prioritized by Product Management.   <br>   <br>* Implementing solutions designed by you or by teammates through the entirety of the SDLC, including testing, deployment, and operationalization.   <br>   <br>* Reviewing other developers code to ensure it is production ready.   <br>   <br>* Troubleshooting production issues when they arise.   <br>   <br>* Estimating features and projects on the product roadmap.   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>   <br>Required skills and experience:   <br>   <br>   <br>* A solid background in software development, be that a computer science degree, or more practical experience.   <br>   <br>* 3+ years professional software development experience in one or more general purpose languages.   <br>   <br>* Willingness working in all phases of the SDLC - from requirements, design, and development through testing, deployment, maintenance, and support.   <br>   <br>* Full stack web development experience.   <br>   <br>* Strong desire to expand your professional impact and autonomy.   <br>   <br>* Give and receive feedback effectively.   <br>   <br>* Operate effectively on a remote team.   <br>   <br>* Health Tech experience or exposure   <br>   <br>   <br>   <br>   <br>It is not expected that any single candidate would have expertise across all of the areas outlined above. Please apply even if you are not sure you meet all these criteria. If you are interested in the role and think it could be a fit, we'd like to hear from you.   <br>   <br>For more information on how we think about adding members to our engineering team, check out this blog post.   <br>   <br>   <br>   <br>   <br>   <br>Benefits:   <br>   <br>   <br>* We provide benefits that allow you to live life by your own design. Redox employees enjoy unmatched autonomy in their work and the support to live a balanced life. We trust you know what you need to be happy, at work and at home.   <br>   <br>* Tackle Challenging Problems Everyday.&nbsp;There is no roadmap for what we are building, so you’ll have the backing and support of talented engineers and security practitioners to make sure you have what you need to be successful.   <br>   <br>* Work Anywhere.&nbsp;All Redox employees are encouraged to live and work wherever they're happiest. All you need is power, wifi, and a computer and you’re good to go. We also run a number of co-located working spaces across many US cities if you prefer an office environment.   <br>   <br>* Flexible Working.&nbsp;Our best work happens when we feel fresh and inspired. We leave it up to you to decide when you need to take breaks and encourage you to make time for adventure and discovery.   <br>   <br>* Health &amp; Dental from Day 1.&nbsp;Your health and dental coverage starts when you do to make sure you're always covered. We provide health and dental insurance for employees, spouses, domestic partners, and dependents, as well as life and disability insurance.   <br>   <br>* Parental Leave.&nbsp;You can take 12 weeks of paid time off within the first year of your new addition arriving. We know that they need you and we have your back.   <br>   <br>* Productivity Fund.&nbsp;We want you to be able to set up a workspace that allows you to perform at your very best. All Redox employees receive an annual discretionary stipend so you can select what helps you be productive.   <br>   <br>* 401k.&nbsp;We offer an optional, customizable and flexible 401k plan for you to plan for your financial future on your terms.   <br>   <br>   <br>  </div> </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "cfeIlIIZRR6p2zOKCIZSYw",
-    "url": "https://remoteok.io/remote-jobs/72568-remote-senior-software-engineer-retailnext-inc-",
-    "title": "Senior Software Engineer",
-    "tags": [
-      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:mapreduce/bigdata-ml/5",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=0, go=6, nodejs=1, bigdata-ml=5, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/c",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "c",
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "RetailNext, INc.",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "May 2, 2019 1:52:54 AM",
-    "validThrough": "Jan 1, 1970 1:00:00 AM",
-    "crawled": "May 2, 2019 2:06:38 AM",
-    "content": "<span><h2>Senior Software Engineer</h2></span> <br> <span><h3>RetailNext, INc.</h3></span> <span>US-only</span> <span></span> <div>  <div>   Are you interested in distributed systems or big data?&nbsp; RetailNext is looking for engineers to help build our cloud analytics system. We pull in and process data from thousands of brick and mortar stores to help our customers better understand and serve their customers.   <br>   <br>   <br>   <br>&nbsp;   <br>   <br>&nbsp;   <br>   <br># Responsibilities   <br> We're looking for engineers with experience in distributed systems or data processing at scale.&nbsp; We write code in Go and use tools like Cassandra, Redis, GRPC and MapReduce.&nbsp; We don't expect you to be an expert in everything we do, but you should have a strong background in some plus an interest in learning the rest.&nbsp; The team is growing fast and there will be leadership opportunities for interested and qualified candidates.   <br>   <br>   <br>We've built an environment where you can focus on big problems. Low on meetings and overhead. We are a community of makers and we want people with the same mindset. Focused on building great solutions to the problems our customers face.   <br>   <br>   <br># Requirements   <br>**Who you are:**   <br>&nbsp;   <br>Strong in at least one of Go, Javascript, Ruby or C   <br>&nbsp;   <br>**Bonus points:**   <br>&nbsp;   <br>Production experience with Cassandra   <br>Experience with a project that used continuous deployment or Kanban   <br>Work experience in retail   <br>   <br>#Salary   <br>Open   <br>   <br>   <br>#Location   <br>- US-only   <br>  </div> </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

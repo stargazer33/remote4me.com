@@ -1,5 +1,3 @@
-Source of my aggregator for remote (tech) jobs - <a href="http://remote4me.com">remote4me.com</a>
-
 ## License
 
 Copyright (c) 2017 Dmitri Geller    
