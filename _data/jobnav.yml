@@ -7,14 +7,20 @@
   subnodes:
 
     - !jobnav
-      title: Remote frontend (JavaScript) jobs
+      title: Remote Frontend (JavaScript) jobs
       home_title: Frontend (JavaScript) jobs
-      tagline: HTML, JavaScript, code running in browser (AngularJS, React and similar JS frameworks)
+      tagline: "HTML, JavaScript, code running in browser (AngularJS, React, Vue.js and similar JS
+      frameworks)"
       img: 'fa fa-2x pull-left fa-javascript'
       img_style: 'font-size: 2.3em; width: 1em;'
       #img_style: ''
-      undertagline: "<strong>Includes:</strong> HTML/CSS and JavaScript which runs in browser (AngularJS, React and similar technologies). <br/><strong>Excludes:</strong> Node.js and cross-platform Javascript frameworks like Apache Cordova/PhoneGap"
-      description: 'Includes HTML/CSS and JavaScript which runs in browser (AngularJS, React and similar JS frameworks)'
+      undertagline: "<strong>Includes:</strong> HTML/CSS and JavaScript which runs in browser
+      (AngularJS, React, Vue.js and similar technologies).
+      <br/>
+      <strong>Excludes:</strong> Node.js and cross-platform Javascript frameworks like
+      Apache Cordova/PhoneGap"
+      description: 'Browse 100% remote Frontend (JavaScript) jobs.
+      Find your next remote Frontend job today, on remote4me!'
       url: /remote-frontend-jobs
       datafile: TECH1_frontend
       mailGroupDay: 10484476
@@ -27,33 +33,40 @@
       img: 'fa fa-3x pull-left fa-mobile'
       img_style: 'width: 0.7em;'
       undertagline: "<strong>Includes:</strong> iOS, Android, Windows Phone, Apache Cordova/PhoneGap, Xamarin and other technologies for mobile apps. <br/><strong>Excludes:</strong> backend Java and macOS programming"
-      description: 'Includes iOS, Android, Windows Phone, Apache Cordova/PhoneGap, Xamarin and other technologies for mobile apps'
+      description: 'Browse 100% remote Mobile (iOS, Android, Windows Phone) jobs.
+      Find your next Mobile job today, on remote4me!'
       url: /remote-mobile-jobs
       datafile: TECH1_mobile
       mailGroupDay: 10484478
       mailGroupWeek: 10484482
 
     - !jobnav
-      title: Remote Java jobs
-      home_title: Java jobs
+      title: Remote Java and Scala jobs
+      home_title: Java and Scala jobs
       tagline: Backend- and Web-programming with Java and Scala (except Android and (data) science)
       img: 'fa fa-3x pull-left fa-java'
       #img_style: 'font-weight: 800; font-size: 140%; '
       undertagline: "<strong>Includes</strong>: Backend- and Web-programming with Java and Scala <br/><strong>Excludes</strong>: Android programming"
-      description: 'Includes backend- and web-programming with Java and Scala'
+      description: 'Browse 100% remote Java and Scala jobs.
+      Find your next remote Java/Scala job today, on remote4me!'
       url: /remote-java-jobs
       datafile: TECH1_java
       mailGroupDay: 10487140
       mailGroupWeek: 10487142
 
     - !jobnav
-      title: Remote (Big) Data or Machine Learning or Scientist jobs
-      home_title: (Big)Data, Machine Learning, Scientist jobs
-      tagline: Statistics, math, algorythms, neural networks, Mathlab, R programming
+      title: Remote (Big) Data / ML / Scientist / Data Engineering jobs
+      home_title: (Big) Data / ML / Scientist / Data Engineering jobs
+      tagline: "Machine Learning, Statistics, Math, Neural Networks, Mathlab, R, Apache Spark"
       img: 'fa fa-fw fa-2x pull-left fa-machine-learnin'
       img_style: 'font-size: 2.8em; width: 0.8em;'
-      undertagline: "<strong>Includes:</strong> everything related to statistics or mathematics, Big Data, Machine Learning, Data Science. R programming language, Mathlab, neural networks, Apache Hadoop, Apache Spark. <br/><strong>Excludes:</strong> Web programming with Java or Python"
-      description: 'Includes everything related to statistics or mathematics, Big Data, Machine Learning, Data Science. R programming language, Mathlab, neural networks, Apache Hadoop, Apache Spark.'
+      undertagline: "<strong>Includes:</strong> everything related to Machine Learning,
+      Statistics/Mathematics, Data Science, R programming language, Mathlab, Neural Networks,
+      Apache Hadoop, Apache Spark, Kafka.
+      <br/>
+      <strong>Excludes:</strong> Web programming with Java or Python"
+      description: 'Browse 100% remote (Big)Data/ML/Data Engineering jobs.
+      Find your next remote (Big)Data job today, on remote4me!'
       url: /remote-big-data-science-machine-learning-jobs
       datafile: TECH1_bigdata-ml
       mailGroupDay: 10487146
@@ -66,7 +79,8 @@
       img: 'fa fa-3x pull-left fa-python'
       img_style: 'font-size: 2.5em; width: 0.9em;'
       undertagline: "<strong>Includes:</strong> Django, Flask, SQLAlchemy and other Python frameworks/libraries <br/><strong>Excludes:</strong> Python for science"
-      description: 'Includes Django, Flask, SQLAlchemy and other Python frameworks/libraries'
+      description: 'Browse 100% remote Python jobs.
+      Find your next remote Python job today, on remote4me!'
       url: /remote-python-jobs
       datafile: TECH1_python
       mailGroupDay: 10487152
@@ -79,7 +93,8 @@
       img: 'fa fa-fw fa-2x pull-left fa-dotnet'
       #img_style: 'font-size: 125%;'
       undertagline: "<strong>Includes:</strong> C# and other .NET languages; VB.NET, ASP.NET, WPF, desktop applications for Windows, Microsoft Azure and other Microsoft technologies. <br/><strong>Excludes:</strong> Windows Phone"
-      description: 'Includes C# and other .NET languages; VB.NET, ASP.NET, WPF, desktop applications for Windows, Microsoft Azure and other Microsoft technologies.'
+      description: 'Browse 100% remote C# and .NET jobs.
+      Find your next remote .NET job today, on remote4me!'
       url: /remote-dotnet-jobs
       datafile: TECH1_dotnet
       mailGroupDay: 10487178
@@ -92,7 +107,8 @@
       img: 'fa fa-3x pull-left fa-ruby'
       img_style: 'font-size: 2.5em; width: 0.9em;'
       undertagline: "<strong>Includes:</strong> frameworks like Ruby on Rails, Sinatra, RSpec"
-      description: "Includes frameworks like Ruby on Rails, Sinatra, RSpec"
+      description: 'Browse 100% remote Ruby jobs.
+      Find your next remote Ruby job today, on remote4me!'
       url: /remote-ruby-jobs
       datafile: TECH1_ruby
       mailGroupDay: 10487196
@@ -106,7 +122,8 @@
       img_style: 'font-size: 2em; width: 1.2em;'
       #img_style: 'font-weight: 100; font-size: 250%; '
       undertagline: "<strong>Includes:</strong> backend JavaScript technologies like Node.js, Meteor, Express.js. <br/><strong>Excludes:</strong> frontend and mobile JavaScript"
-      description: 'Includes backend JavaScript technologies like Node.js, Meteor, Express.js'
+      description: 'Browse 100% remote backend JavaScript(Node.js) jobs.
+      Find your next remote Node.js job today, on remote4me!'
       url: /remote-nodejs-jobs
       datafile: TECH1_nodejs
       mailGroupDay: 10487246
@@ -119,7 +136,8 @@
       img: 'fa fa-3x pull-left fa-golang'
       img_style: 'font-size: 2.7em; width: 0.8em;'
       undertagline: "<strong>Includes:</strong> everything related to Go programming language"
-      description: 'Includes everything related to Go programming language'
+      description: 'Browse 100% remote Go/Golang jobs.
+      Find your next remote Go job today, on remote4me!'
       url: /remote-go-golang-jobs
       datafile: TECH1_go
       mailGroupDay: 10487260
@@ -132,7 +150,8 @@
       img: 'fa fa-3x pull-left fa-cplusplus'
       img_style: 'font-size: 2.7em; width: 0.8em;'
       undertagline: "<strong>Includes:</strong> technologies like Qt, GCC, glibc, STL, Boost and Assembly language"
-      description: 'Includes technologies like Qt, GCC, glibc, STL, Boost and Assembly language'
+      description: 'Browse 100% remote C/C++ jobs.
+      Find your next remote C/C++ job today, on remote4me!'
       url: /remote-c-plus-plus-jobs
       datafile: TECH1_c
       mailGroupDay: 10487300
@@ -146,7 +165,8 @@
       img: 'fa fa-2x pull-left fa-php'
       img_style: 'font-size: 2em; width: 1.2em;'
       undertagline: "<strong>Includes:</strong> PHP frameworks like WordPress, Drupal, Laravel, Symfony, CodeIgniter, Zend"
-      description: 'Includes PHP frameworks like WordPress, Drupal, Laravel, Symfony, CodeIgniter, Zend'
+      description: 'Browse 100% remote PHP jobs.
+      Find your next remote PHP job today, on remote4me!'
       url: /remote-php-jobs
       datafile: TECH1_php
       mailGroupDay: 10494936
@@ -159,7 +179,8 @@
       img: 'fa fa-3x pull-left fa-apple2'
       img_style: 'width: 0.7em;'
       undertagline: "<strong>Includes:</strong> MacOS, Xcode, Cocoa Touch and other Apple-related technologies <br/><strong>Excludes:</strong> iOS, iPhone"
-      description: 'Includes MacOS, Xcode, Cocoa Touch and other Apple-related technologies.'
+      description: 'Browse 100% remote Apple-related jobs.
+      Find your next remote Apple developer job today, on remote4me!'
       url: /remote-apple-jobs
       datafile: TECH1_apple
       mailGroupDay: 10494924
@@ -172,7 +193,8 @@
       img: 'fa fa-3x pull-left fa-embedded'
       img_style: 'font-size: 2.8em; width: 0.8em;'
       undertagline: "<strong>Includes:</strong> Firmware and hardware development, microcontroller programming, technologies like Embedded Linux, Arduino, ARM, robots"
-      description: 'Includes firmware and hardware development, microcontroller programming, technologies like Embedded Linux, Arduino, ARM, robots'
+      description: 'Browse 100% remote embedded applications/devices jobs.
+      Find your next remote embedded job today, on remote4me!'
       url: /remote-embedded-jobs
       datafile: TECH1_embedded
       mailGroupDay: 10494948
@@ -185,7 +207,8 @@
       img: 'fa fa-3x pull-left fa-gamedev'
       img_style: 'width: 0.7em;'
       undertagline: "<strong>Includes:</strong> Game development, game engines like Unity, Unreal Engine, GameMaker, CryEngine, Cocos2d-x"
-      description: 'Includes: game development, game engines like Unity, Unreal Engine, GameMaker, CryEngine, Cocos2d-x'
+      description: 'Browse 100% remote Game development jobs.
+      Find your next remote Game development job today, on remote4me!'
       url: /remote-gamedev-jobs
       datafile: TECH1_gamedev
       mailGroupDay: 10494982
@@ -198,7 +221,8 @@
       img: 'fa fa-3x pull-left fa-otherlang'
       img_style: 'width: 0.7em;'
       undertagline: "<strong>Includes:</strong> Perl, Clojure, Haskell, Elixir, Rust, Shell script, Lisp, Erlang, OCaml, F#"
-      description: 'Includes Perl, Clojure, Haskell, Elixir, Rust, Shell script, Lisp, Erlang, OCaml, F#'
+      description: 'Browse 100% remote Perl/Clojure/Haskell/Perl/Clojure/Haskell jobs.
+      Find your next remote Perl/Clojure/Haskell/Perl/Clojure/Haskell job today, on remote4me!'
       url: /remote-other-technologies-jobs
       datafile: TECH1_other
       mailGroupDay: 10495054
@@ -214,13 +238,21 @@
   subnodes:
 
     - !jobnav
-      title: Remote DevOps, Sysadmin, SRE jobs
-      home_title: DevOps, Sysadmin, SRE jobs
-      tagline: Site Reliability Engineers, (Linux) System Engineers, Network engineers
-      img: 'fa fa-3x pull-left fa-devops'
-      #img_style: 'font-size: 3.8em; width: 0.5em; '
-      undertagline: "<strong>Includes:</strong> DevOps, Site Reliability Engineers (SRE), Linux System Engineers, Cloud Engineers, System administrators, Security Engineers, Operations Engineers, Network engineers <br/><strong>Excludes:</strong> Support Engineers, Support specialists, CRM Administrators, Software developers"
-      description: 'Includes DevOps, Site Reliability Engineers (SRE), Linux System Engineers, Cloud Engineers, System administrators, Security Engineers, Operations Engineers, Network engineers'
+      title: Remote DevOps, Cloud Engineers, SRE jobs
+      home_title: DevOps, Cloud Engineers, SRE jobs
+      tagline: "Remote Cloud (AWS/Azure) Engineers, Operations Engineers, Site Reliability Engineers,
+      Network engineers, System administrators, Kubernetes Server Engineers"
+      img: 'fa fa-3x pull-left fa-devops-06'
+      img_style: 'width: 0.8em;'
+      undertagline: '<strong>Includes:</strong> Remote Development Operations Engineers, Operations Engineers,
+      Tech Operations Engineers, DevOps, NetDevOps, DevSecOps, Production Engineers,
+      Devops Automation Developers, Site Reliability Engineers (SRE),
+      Infrastructure Engineers,
+      Cloud Engineers, Cloud Support Engineers, Azure Engineers, AWS Engineers,
+      Linux System Engineers, Storage Engineers, System administrators,
+      Network engineers, Kubernetes Server Engineers'
+      description: 'Browse 100% remote DevOps/Cloud Engineers jobs.
+      Find your next remote DevOps job today, on remote4me!'
       url: /remote-devops-sysadmin-sre-jobs
       datafile: TITLE1_admin
       col: 2
@@ -230,10 +262,14 @@
     - !jobnav
       title: Remote QA engineer jobs
       home_title: QA engineer jobs
-      tagline: Software Quality Assurance (QA), Tester, QA Automation, SDET
+      tagline: "Remote Software Quality Assurance (QA) engineers, Testers, QA Automation engineers,
+      SDET, Product Testers"
       img: 'fa fa-3x pull-left fa-qa5'
-      undertagline: "<strong>Includes:</strong> Software Quality Assurance (QA) Engineer, Test engineer, QA Automation Engineer, Software Development Engineer in Test (SDET) <br/><strong>Excludes:</strong> Software Developer, Programmer, Admin"
-      description: 'Includes Software Quality Assurance (QA) Engineer, Test engineer, QA Automation Engineer, Software Development Engineer in Test (SDET)'
+      undertagline: "<strong>Includes:</strong> Remote Software Quality Assurance (QA) Engineer,
+      QA Automation Engineer, QA Analyst, QA Testing Manager, Test engineer,
+      Software Development Engineer in Test (SDET), Product Tester, User Tester"
+      description: 'Browse 100% remote QA jobs.
+      Find your next remote QA job today, on remote4me!'
       url: /remote-qa-test-engineer-jobs
       datafile: TITLE1_qa
       col: 2
@@ -241,12 +277,16 @@
       mailGroupWeek: 10495132
 
     - !jobnav
-      title: Remote solution engineer (solution architect) jobs
-      home_title: Solution engineer (solution architect) jobs
-      tagline: "Solution Engineers and Solution Architects"
-      img: 'fa fa-3x pull-left fa-solution_engineer'
-      undertagline: "<strong>Includes:</strong> Solution Engineers, Solution Architects, Cloud Architects, Security Architects"
-      description: 'Includes Solution Engineers, Solution Architects, Cloud Architects, Security Architects'
+      title: Remote Solution Engineer and (AWS)Solution Architect jobs
+      home_title: Solution Engineer and (AWS)Solution Architect jobs
+      tagline: "Remote Solution Architects, Solution Engineers, Cloud Architects, Azure/AWS
+      Architects"
+      img: 'fa fa-3x pull-left fa-solutions_architect2'
+      undertagline: "<strong>Includes:</strong> remote Solution Architects, Solution Engineers,
+      Solutions Consultants, Cloud Architects, Developer Advocates, Azure Architects,
+      AWS Architects"
+      description: 'Browse 100% remote Solution Engineer/Architect jobs.
+      Find your next remote Solution Engineer/Architect job today, on remote4me!'
       url: /remote-solution-engineer-architect-jobs
       datafile: TITLE1_solution
       col: 2
@@ -254,12 +294,57 @@
       mailGroupWeek: 10495172
 
     - !jobnav
-      title: Remote database (RDBMS) developer and admin (DBA) jobs
-      home_title: Database (RDBMS) developer and admin (DBA) jobs
-      tagline: MySQL, PostgreSQL, Oracle, Redshift Developers and Administrators
+      title: Remote Security, Cybersecurity and Cryptography jobs
+      home_title: Security, Cybersecurity and Cryptography jobs
+      tagline: "Includes remote Security Engineers, Cybersecurity engineers, Cryptography Engineers"
+      img: 'fa fa-3x pull-left fa-noun_cyber-security_1870465_v2'
+      img_style: 'width: 0.8em;'
+      undertagline: "<strong>Includes:</strong> Remote Security Engineers, Security Architects,
+      Security Analysts, Security Leads, Cybersecurity engineers, Cryptography Engineers,
+      Threat Researchers, Penetration Testers"
+      description: 'Browse 100% remote Security/Cryptography jobs.
+      Find your next remote Security/Cryptography job today, on remote4me!'
+      url: /remote-security-cybersecurity-cryptography-jobs
+      datafile: TITLE1_sec
+      col: 2
+      # Daily Remote Security, Cybersecurity and Cryptography jobs (GroupID - 49309442)
+      mailGroupDay: 49309442
+      # Weekly Remote Security, Cybersecurity and Cryptography jobs (GroupID - 49309480)
+      mailGroupWeek: 49309480
+
+    - !jobnav
+      title: "Remote ERP/CRM/Enterprise software jobs"
+      home_title: "ERP/CRM/Enterprise software jobs"
+      tagline: "Includes remote SAP developers, Oracle E-Business Suite developers,
+      Microsoft Dynamics (365/AX/CRM/GP/NAV/POS/RMS/SL) developers"
+      img: 'fa fa-3x pull-left fa-noun_building_149488_v2'
+      img_style: 'width: 0.8em;'
+      undertagline: "<strong>Includes:</strong> Remote Enterprise Software jobs:
+      SAP developers, Oracle E-Business Suite developers, Oracle Financials developers,
+      Microsoft Dynamics (365/AX/CRM/GP/NAV/POS/RMS/SL) developers,
+      Salesforce developers, PeopleSoft developers, Hybris developers, NetSuite developers,
+      Care-NG CRM developers, SAS developers"
+      description: 'Browse 100% remote ERP/CRM/Enterprise Software jobs.
+      Find your next remote Enterprise Software job today, on remote4me!'
+      url: /remote-dynamics-salesforce-sap-erp-crm-jobs
+      datafile: TITLE1_crmerp
+      col: 2
+      # Daily Remote ERP/CRM/Enterprise software jobs (GroupID - 49309152)
+      mailGroupDay: 49309152
+      # Weekly Remote ERP/CRM/Enterprise software jobs (GroupID - 49309166)
+      mailGroupWeek: 49309166
+
+    - !jobnav
+      title: Remote Database (DBMS) Developer and Admin (DBA) jobs
+      home_title: Database (DBMS) Developer and Admin (DBA) jobs
+      tagline: 'Remote MySQL, PostgreSQL, Oracle, Microsoft SQL Server, Redshift Developers and
+      Administrators, Business Intelligence specialists'
       img: 'fa fa-3x pull-left fa-database'
-      undertagline: "<strong>Includes:</strong> MySQL/PostgreSQL/Oracle/Microsoft SQL Server/Amazon Redshift Database Developers and Administrators, Database Automation Engineers <br/><strong>Excludes:</strong> backend developers"
-      description: 'Includes MySQL/PostgreSQL/Oracle/Microsoft SQL Server/Amazon Redshift Database Developers and Administrators'
+      undertagline: "<strong>Includes:</strong> MySQL/PostgreSQL/Oracle/Microsoft SQL Server/
+      Amazon Redshift Database Developers and Administrators, Database Automation Engineers,
+      Business Intelligence specialists, Exadata/Teradata/Informix/Sybase Engineers, DB2 Engineers"
+      description: 'Browse 100% remote DBMS Developer and DBA jobs.
+      Find your next remote DBMS job today, on remote4me!'
       url: /remote-dbms-developer-admin-dba-jobs
       datafile: TITLE1_dbms
       col: 2
@@ -267,12 +352,15 @@
       mailGroupWeek: 10495208
 
     - !jobnav
-      title: Remote integration engineer jobs
-      home_title: Integration engineer jobs
-      tagline: Implementation Engineers, Build Release Engineers, Automation Developers
+      title: Remote Integration Engineer jobs
+      home_title: Integration Engineer jobs
+      tagline: 'Includes remote Implementation Engineers, Build/Release Engineers,
+      Automation Developers, Automation Engineers'
       img: 'fa fa-3x pull-left fa-implementation-engineer'
-      undertagline: "<strong>Includes:</strong> Implementation Engineers, Build Release Engineers, Automation Developers, Data Integration Engineers <br/> <strong>Excludes:</strong> QA engineers, Software developers"
-      description: 'Includes Implementation Engineers, Build Release Engineers, Automation Developers, Data Integration Engineers'
+      undertagline: "<strong>Includes:</strong> Implementation Engineers, Build/Release
+      Engineers, Automation Developers, Automation Engineers, Data Integration Engineers"
+      description: 'Browse 100% remote Integration/Automation jobs.
+      Find your next remote Integration Engineer job today, on remote4me!'
       url: /remote-integration-build-automation-engineer-jobs
       datafile: TITLE1_integration
       col: 2
@@ -289,12 +377,17 @@
   subnodes:
 
     - !jobnav
-      title: Remote designer, graphic/video artist jobs
-      home_title: Designer, graphic/video artist jobs
-      tagline: Graphic artists, UI/UX designers, Stylists, Character artists, Background artists, 2d and 3d artists, Animators
+      title: Remote Designer, UI/UX and Graphic/Video Artist jobs
+      home_title: Designer, UI/UX and Graphic/Video Artist jobs
+      tagline: 'Includes remote Graphic- and Video artists, UI/UX designers, 2d and 3d Artists,
+      Animators'
       img: 'fa fa-3x pull-left fa-designer2'
-      undertagline: "<strong>Includes:</strong> Graphic artists, Character artists, Background artists, 2d and 3d artists, UI/UX designers, Stylists, Animators"
-      description: 'Includes Graphic artists, Character artists, Background artists, 2d and 3d artists, UI/UX designers, Stylists, Animators'
+      undertagline: "<strong>Includes:</strong> Web Designer, Front End Designer, UX/UI Designer,
+      UX Researcher, Design Lead, Marketing Designer, Production Designer, Graphic designer,
+      Illustrator, Painter, Stylist, Artist, Graphic artist, Character artist, Background artist,
+      2d and 3d artist, Animator, Video animator, Video Editor, Film Making specialist"
+      description: 'Browse 100% remote Designer/Artist jobs.
+      Find your next remote Designer/Artist job today, on remote4me!'
       url: /remote-designer-graphic-video-artist-jobs
       datafile: TITLE1_designer
       col: 3
@@ -302,12 +395,17 @@
       mailGroupWeek: 10495252
 
     - !jobnav
-      title: Remote support specialist jobs
-      home_title: Support specialist jobs
-      tagline: Support Engineers, Customer champions, Support agents, Customer Relationship Management (CRM) Administrators, Microsoft Dynamics CRM administrators
+      title: Remote Support jobs
+      home_title: Support jobs
+      tagline: "Remote Support Engineers, Support Technicians, Support agents, Helpdesk and
+      Administrative Assistants"
       img: 'fa fa-3x pull-left fa-support1'
-      undertagline: "<strong>Includes:</strong> Support Engineers, Customer champions, Support agents, Customer Relationship Management (CRM) Administrators, Microsoft Dynamics CRM administrators"
-      description: 'Includes Support Engineers, Customer champions, Support agents, Customer Relationship Management (CRM) Administrators, Microsoft Dynamics CRM administrators'
+      undertagline: "<strong>Includes:</strong> Remote Support Technicians, Support Engineers,
+      Support agents, Accounts Support, Customer Support, Customer Success, Customer Operations,
+      Client Support, Client Success, Helpdesk, Service Desk, Field Service, Telephonic Case Managers,
+      Administrative Assistants, Executive Administrators, Executive Support, Operations Associate"
+      description: 'Browse 100% remote Support and Administrative Assistant jobs.
+      Find your next remote Support job today, on remote4me!'
       url: /remote-customer-support-jobs
       datafile: TITLE1_support
       col: 3
@@ -315,12 +413,16 @@
       mailGroupWeek: 10495350
 
     - !jobnav
-      title: Remote (technical) writer/editor jobs
-      home_title: (technical) Writer/editor jobs
-      tagline: Content editors, Copywriters, Storytellers, Communication Editors
+      title: Remote (Technical) Writer/Editor jobs
+      home_title: (Technical) Writer/Editor jobs
+      tagline: Remote Copywriters, Marketing Writers, Content editors, Storytellers, Communication
+       Editors, Bloggers
       img: 'fa fa-3x pull-left fa-writer'
-      undertagline:  "<strong>Includes:</strong> Technical Writers, Content editors, Copywriters, Blog Editors, Storytellers, Communication Editors"
-      description: 'Includes Technical Writers, Content editors, Copywriters, Blog Editors, Storytellers, Communication Editors'
+      undertagline:  "<strong>Includes:</strong> Remote Copywriters, Technical Writers, Marketing
+       Writers, Content editors, Content creators, Content Producers, Bloggers, Blog Editors,
+       Storytellers, Communication Editors, Proofreaders"
+      description: 'Browse 100% remote (Technical) Writer/Editor jobs.
+      Find your next remote Writer job today, on remote4me!'
       url: /remote-copywriter-editor-jobs
       datafile: TITLE1_writer
       col: 3
@@ -328,12 +430,17 @@
       mailGroupWeek: 10495360
 
     - !jobnav
-      title: Remote marketing, product specialist, SEO jobs
-      home_title: Marketing, product specialist, SEO jobs
-      tagline: "Product Managers, Content Marketing specialists, Search Engine Optimization(SEO) specialists"
+      title: Remote Product, Parketing and SEO jobs
+      home_title: Product, Marketing and SEO jobs
+      tagline: "Remote Product Managers, Product Designers, Content Marketing and
+      Search Engine Optimization(SEO) specialists"
       img: 'fa fa-3x pull-left fa-marketing'
-      undertagline: "<strong>Includes:</strong> Product Owners, Product Managers, Analysts, Content Marketing specialists, Search Engine Optimization(SEO) specialists"
-      description: 'Includes Product Owners, Product Managers, Analysts, Content Marketing specialists, Search Engine Optimization(SEO) specialists'
+      undertagline: "<strong>Includes:</strong> Product Managers, Product Owners, Product
+      Designers, Product Experts, Analysts, Marketing Managers, Community Managers, Communication Strategists, Product Strategists,
+      Content Marketing specialists, Advertising Specialists, PR Executives,
+      Growth Managers and Search Engine Optimization(SEO) specialists"
+      description: 'Browse 100% remote Product, Marketing and SEO jobs.
+      Find your next remote Product/Marketing job today, on remote4me!'
       url: /remote-marketing-product-seo-jobs
       datafile: TITLE1_product
       col: 3
@@ -341,12 +448,16 @@
       mailGroupWeek: 10495392
 
     - !jobnav
-      title: Remote sales jobs
-      home_title: Sales jobs
-      tagline: Sales and pre-sales specialists, Account- and Relationship Managers
+      title: Remote Sales and Business Development jobs
+      home_title: 'Sales jobs'
+      tagline: 'Remote Sales and pre-sales specialists, Sales Representatives, Account Managers and
+      Business Development Representatives'
       img: 'fa fa-3x pull-left fa-sales5'
-      undertagline: "<strong>Includes:</strong> Salesperson, Sales Manager, Account Manager, Relationship Management, Business Development specialist"
-      description: 'Includes Salesperson, Sales Manager, Account Manager, Relationship Management, Business Development specialist'
+      undertagline: "<strong>Includes:</strong> Remote Sales Executive, Salesperson, Sales Manager,
+      Sales Representative, Inbound Sales Representative, Business Development Representative,
+      Account Manager, Relationship Management and Buyer"
+      description: 'Browse 100% remote Sales/Business Development/Account Manager jobs.
+      Find your next remote Sales job today, on remote4me!'
       url: /remote-sales-jobs
       datafile: TITLE1_sales
       col: 3
@@ -354,12 +465,16 @@
       mailGroupWeek: 10495990
 
     - !jobnav
-      title: Remote manager/executive jobs
-      home_title: Manager/executive jobs
-      tagline: Engineering /QA managers, Line managers, Project Managers, Directors and VP
+      title: Remote Manager/Executive jobs
+      home_title: Manager/Executive jobs
+      tagline: "Includes remote Program/Project Managers, Directors and VP's, Technical Account
+      Managers and Scrum Masters"
       img: 'fa fa-3x pull-left fa-manager2'
-      undertagline: "<strong>Includes:</strong> Engineering/QA managers, Delivery managers, Project Managers, Directors and VP, General Managers. Technical Account Managers<br/><strong>Excludes:</strong> Team lead."
-      description: 'Includes Engineering/QA managers, Delivery managers, Project Managers, Directors and VP, General Managers. Technical Account Managers'
+      undertagline: "<strong>Includes:</strong> Remote Project Managers, Program Managers, Delivery
+      managers, Release Managers, General Managers, Technical Account Managers, Directors, VP's,
+      and Scrum Masters"
+      description: 'Browse 100% remote Manager/Director/VP/Scrum master jobs.
+      Find your next remote Management job today, on remote4me!'
       url: /remote-manager-executive-jobs
       datafile: TITLE1_manager
       col: 3
@@ -367,14 +482,36 @@
       mailGroupWeek: 10496142
 
     - !jobnav
-      title: Remote recruiter/HR jobs
-      home_title: Recruiter/HR jobs
-      tagline: and Talent Acquisition specialists
+      title: Remote Recruiter/HR jobs
+      home_title: 'Recruiter/HR jobs'
+      tagline: 'Includes remote Talent Acquisition specialists, Sourcing specialists, Hiring- and
+       People Managers'
       img: 'fa fa-3x pull-left fa-hr'
-      undertagline: "<strong>Includes:</strong> Recruiters, HR, Talent Acquisition specialists, people analytics"
-      description: 'Includes Recruiters, HR, Talent Acquisition specialists'
+      undertagline: "<strong>Includes:</strong> Remote HR specialists, Recruiters, Talent
+      Acquisition specialists, Sourcing specialists, Hiring- and People Managers"
+      description: 'Browse 100% remote Recruiter/HR/Talent Acquisition jobs.
+      Find your next remote HR job today, on remote4me!'
       url: /remote-hr-recruiter-jobs
       datafile: TITLE1_HR
       col: 3
       mailGroupDay: 10496254
       mailGroupWeek: 10496258
+
+    - !jobnav
+      title: Remote Finance and Accounting jobs
+      home_title: Finance and Accounting jobs
+      tagline: 'Includes remote Order Management specialists, Finance and Audit
+      specialists'
+      img: 'fa fa-3x pull-left fa-noun_accounting_2000402_v2'
+      img_style: 'width: 0.8em;'
+      undertagline: "<strong>Includes:</strong> Remote Accountants, Bookkeepers, Finance
+      specialists, Order Management and Audit specialists"
+      description: 'Browse 100% remote Accountant/Bookkeeper/Finance/Audit jobs.
+      Find your next remote Finance job today, on remote4me!'
+      url: /remote-finance-and-accounting-jobs
+      datafile: TITLE1_finacc
+      col: 3
+      # Daily Remote Finance and Accounting jobs (GroupID - 49308800)
+      mailGroupDay: 49308800
+      # Weekly Remote Finance and Accounting jobs (GroupID - 49308802)
+      mailGroupWeek: 49308802
