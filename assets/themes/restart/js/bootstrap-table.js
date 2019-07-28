@@ -1657,6 +1657,16 @@
             html.push(sprintf('<td colspan="%s"><div class="card-views">', this.header.fields.length));
         }
 
+        /* hack begin */
+        if (!this.options.cardView && this.options.detailView) {
+            html.push('<td class="detail-td">',
+                sprintf('<a class="detail-icon" href="#%splus">', item.id),
+                sprintf('<i class="%s %s"></i>', this.options.iconsPrefix, this.options.icons.detailOpen),
+                '</a>',
+                '</td>');
+        }
+        /* hack end */
+
         $.each(this.header.fields, function(j, field) {
             var text = '',
                 value_ = getItemField(item, field, that.options.escape),
@@ -1776,16 +1786,6 @@
 
             html.push(text);
         });
-
-        /* hack begin */
-        if (!this.options.cardView && this.options.detailView) {
-            html.push('<td class="detail-td">',
-                sprintf('<a class="detail-icon" href="#%splus">', item.id),
-                sprintf('<i class="%s %s"></i>', this.options.iconsPrefix, this.options.icons.detailOpen),
-                '</a>',
-                '</td>');
-        }
-        /* hack end */
 
         if (this.options.cardView) {
             html.push('</div></td>');

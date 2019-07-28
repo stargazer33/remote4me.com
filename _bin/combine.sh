@@ -14,7 +14,7 @@ CSP=_includes/themes/restart/assets
 _bin/compile-handl.sh
 
 # merge results of handlebars compilation with render_jobad_list_filter.js
-cat $JSP/render_jobad_list_filter.js _tmp/jobdetails.js > _tmp/render_jobad_list_filter.js
+cat $JSP/render_jobad_list_filter.js _tmp/jobdetails.js _tmp/jobtitle.js >_tmp/render_jobad_list_filter.js
 
 # write $JSP/default.js
 uglifyjs --compress unused,dead_code -- $JSP/jquery-1.12.4.min.js $JSP/bootstrap.js $JSP/modernizr.custom.48287.min.js $JSP/jquery.ui.totop.min.js $JSP/easing.min.js $JSP/wow.min.js $JSP/restart_theme.min.js $JSP/collapser.min.js > $JSP/default.js

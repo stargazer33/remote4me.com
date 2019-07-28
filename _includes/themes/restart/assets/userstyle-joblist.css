@@ -7,9 +7,6 @@
 }
 
 /* Table styling */
-a.rowTitleClass {
-    font-size: 1.3em;
-}
 tr[data-index] {
     border: 1px solid #dddddd;
 }
@@ -84,6 +81,13 @@ a.detail-icon:visited{
     color: #999999 !important;
 }
 
+.highlight {
+    padding: 9px 14px;
+}
+
+.crawledDate {
+    padding-top: 10px;
+}
 
 @media only screen and (max-width: 480px) {
 
@@ -102,9 +106,14 @@ a.detail-icon:visited{
     }
 
     td a .fa-caret-right, td a .fa-caret-down {
-        padding: 24px 10px 24px 0px;
+        padding: 24px 6px 24px 4px;
         float: right;
     }
+
+    .highlight {
+        padding: 9px 0px;
+    }
+
 }
 
 @media only screen and (min-width: 481px) {
@@ -118,7 +127,6 @@ a.detail-icon:visited{
         padding: 24px 12px 24px 24px;
         float: right;
     }
-
 }
 
 /*** "Report/Flag this job buttons" ***/

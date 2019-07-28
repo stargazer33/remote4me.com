@@ -113,8 +113,8 @@ $(document).ready(function () {
                 locale: 'en-US',
                 uniqueId: 'id',
                 icons: {
-                    detailOpen: 'fa fa-caret-right iconStyle',
-                    detailClose: 'fa fa-caret-down iconStyle'
+                    detailOpen:  'fa fa-2x fa-caret-right iconStyle',
+                    detailClose: 'fa fa-2x fa-caret-down iconStyle'
                 },
                 columns: [
                     {
@@ -829,22 +829,23 @@ function detailFormatter(index, jobAd) {
  * @param {string} the Job.crawled;
  * @return {string} the Job.crawled as string in format "dd mmm";
  */
-function crawledFormatter(value) {
-    var crawledDay = value.split(",")[0];
-    return '<p class="publishedDate">' + crawledDay + '</p>';
+function crawledFormatter(job) {
+    var crawledDay = job.split(",")[0];
+    return '<p class="crawledDate">' + crawledDay + '</p>';
 }
 
 /**
  * Formatter for "title" column.
  * @param {string} value; unused
- * @param {item} row; Job; see json_data;
- * @return {string} the "title" column as HTML
+ * @param {item} job; Job; see json_data;
  */
-function titleFormatter(value, row) {
-    var title = '<p  class="job-title"><a onClick="rowTitleClick(this);return false;" class="rowTitleClass" href="#'+row.id+'" id="'+row.id+'">' + row.title + '</a></p>';
-    var tags = tagsFormatter(row);
-    var organization = organizationFormatter(row);
-    var salary = salaryFormatter(row);
+function titleFormatter(value, job) {
+    var tags = tagsFormatter(job);
+    var organization = organizationFormatter(job);
+    var salary = salaryFormatter(job);
+
+    var context = {job: job};
+    var title = Handlebars.templates.jobtitle(context);
     return title + organization + salary + tags;
 }
 
@@ -972,7 +973,7 @@ function rowTitleClick(aNode) {
     markHrefAsVisited(aNode.href);
 
     // send click to PlusMinus Node
-    var nodePlusMinus=aNode.parentNode.parentNode.parentNode.children[2].children[0];
+    var nodePlusMinus=aNode.parentNode.parentNode.parentNode.children[0].children[0];
     nodePlusMinus.click();
     return false;
 }
@@ -987,7 +988,7 @@ function rowPlusMinusClick( eventObject) {
         return;
     }
     // mark "title" anchor visited
-    var titleNode = eventObject.currentTarget.parentNode.parentNode.children[0].children[0].children[0];
+    var titleNode = eventObject.currentTarget.parentNode.parentNode.children[1].children[0].children[0];
     markHrefAsVisited(titleNode.href);
 }
 
