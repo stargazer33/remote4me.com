@@ -66,6 +66,12 @@ div.homepage-f3 {
     text-align: center;
 }
 
+/******************/
+.undertagline {
+    color: #555;
+}
+
+
 /* Search Filters */
 
 .search-bar {
@@ -81,7 +87,8 @@ div.homepage-f3 {
 
 /*** email-subscribe button and social networks (top right side)***/
 .soc-netw-span {
-    font-size: 14px;
+    margin-top: 0.5em;
+    font-size: 1em;
     font-weight: 300;
     line-height: 1.5em;
     color: #555;
@@ -89,6 +96,9 @@ div.homepage-f3 {
 }
 
 @media (min-width: 992px) {
+    .soc-netw-span {
+        margin-top: 1em;
+    }
     .soc-netw-span i{
         font-size: 1.3333333333333333em;
         line-height: 0.75em;

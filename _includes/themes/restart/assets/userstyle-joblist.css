@@ -157,43 +157,7 @@ a.detail-icon:visited{
     cursor: pointer;
 }
 
-/*.reportthisjob-modal input[type="checkbox"],
-.reportthisjob-modal input[type="radio"] {
-    visibility: hidden;
-}
 
-.reportthisjob-modal input[type="checkbox"]:before,
-.reportthisjob-modal input[type="radio"]:before {
-    visibility: visible;
-    content: " ";
-    position: absolute;
-    height: 22px;
-    width: 22px;
-    display: block;
-    box-sizing: border-box;
-    box-shadow: 0 0 0 1px rgba(0, 0, 0, .6) inset;
-    border: 1px solid transparent;
-    transition-property: box-shadow;
-    transition-timing-function: cubic-bezier(0,0,.2,1);
-    transition-duration: 200ms;
-    cursor: pointer;
-}
-
-.reportthisjob-modal input[type="checkbox"]:before {
-    border-radius: 4px;
-}
-.reportthisjob-modal input[type="radio"]:before {
-    border-radius: 50%;
-}
-
-.reportthisjob-modal input[type="checkbox"]:checked:before,
-.reportthisjob-modal input[type="radio"]:checked:before {
-    box-shadow: 0 0 0 6px #428bca inset,0 0 0 11px #fff inset;
-}
-.reportthisjob-modal input[type=checkbox]:focus:before,
-.reportthisjob-modal input[type="radio"]:focus:before {
-    box-shadow: 0 0 0 1px #428bca, 0 0 0 1px rgba(0,0,0,.9) inset;
-}*/
 
 
 
