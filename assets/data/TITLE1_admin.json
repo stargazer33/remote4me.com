@@ -1,6 +1,787 @@
 {
  "items": [
   {
+    "id": "Mz0sHRnESVuuQRcZ75rU7Q",
+    "url": "http://workinstartups.com/job-board/job/82810/site-reliability-engineer-at-chattermill-gmbh/",
+    "title": "Site Reliability Engineer",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=10, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Chattermill GmbH",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 4:41:02 PM",
+    "validThrough": "Aug 5, 2019 4:41:02 PM",
+    "crawled": "Jul 29, 2019 6:22:51 PM",
+    "content": "At Chattermill we use cutting-edge AI technology to give leading companies the key to improving their customer experience. We work with many of the most exciting companies in the world (Uber, HelloFresh, Transferwise, Skyscanner, and Deliveroo to name a few!) and are passionate about helping them put their customers’ at the heart of their decision making.<br /><br />In four short years, we’ve grown from two co-founders to a team of 40 (and counting) bright and diverse individuals. We have big plans and are now looking for a Site Reliability Engineer to join our Engineering team in Berlin to ensure the stability and scalability of our platform.<br /><br />*As a Site Reliability Engineer, you will:*<br /><br />* Conduct an in-depth audit of our current infrastructure<br />* Help us to define and execute a plan for migration of our k8s cluster from bare metal to managed k8s in the cloud (our preference is GKE)<br />* Take active part at all stages of our engineering process from design and implementation to support and maintenance.<br />* Help colleagues from different teams (software engineers, data scientists) to setup the right infrastructure for their workloads<br />* Provide expertise and guidance to build self-healing system with high availability and horizontal scalability<br />* Ensure the health of all environments by monitoring technical and business metrics, setting up alerts for things going wrong, acting proactively to prevent disasters, acting fast and effectively when they happen<br />* Be the driver of our incident management process, apply root cause analysis in investigation of incidents with other engineers and help to define preventive measures to exclude the whole class of identified issues<br />* Improve our CI/CD pipelines based on CircleCI which involves but not limited to improving speed of our builds and tests, firing up prod-like test environments to run our e2e tests, canary releases with automatic rollback based on metrics<br />* Play a proactive role in identifying performance bottlenecks and other architectural issues and provide guidance on how to mitigate them in a planned and timely manner<br />* Take an active role in redesign of our data pipeline to build new version that facilitates agile experimentation for our Data Science team and enables even more complex data integration with our clients<br /><br />*What we’re looking for:*<br /><br />* Extensive experience managing production k8s clusters with data-intensive workloads in the cloud (GKE, AWS)<br />* Experience in complex infrastructure migrations of mission critical systems with zero downtime<br />* Operational experience with databases in our stack (Postgres, Redis, ElasticSearch).<br />* Proficiency in more than one programming language (including Go) and ability to identify and automate routine repetitive tasks<br />* A strong architectural background in distributed systems<br />* Experience in setting up central logging on ELK stack<br />* Experience in managing highly available Prometheus (with Thanos), setting up alerts with Prometheus’s Alertmanager, creating dashboards in Grafana<br />* The ability to define SLA and provide a viable plan how to stay stick to it<br />Experience setting up RabbitMQ and/or Kafka<br />* An understanding of infrastructure as code principle and experience in its successful application with tools like Terraform<br />* The ability to explain OSI model and to diagnose and debug network issues in a cloud environment<br />* Deep knowledge of Linux and the ability to explain how it works under the hood<br />* Good communication skills, interest in building effective relationships with colleagues<br />* An interest in providing a cutting-edge infrastructure, ability to assess new technologies, evaluate maintenance costs of different alternatives, prove their viability, willingness to facilitate adoption of new solutions within the team<br /><br />*Nice to have:*<br /><br />* Experience working as a Backend Engineer<br />* Experience in setting up data infrastructure for AI-companies<br /><br />*Why join us?*<br /><br />* A competitive salary and stock options<br />* Great progression opportunities - we want you to grow with us!<br />* 25 days holiday (in addition to public holidays)<br />* A big focus on personal development including a €550 development budget and biweekly Breakfast and Learns<br />* Flexible working conditions and the opportunity to work from home<br />* Central office location with free Barista coffee<br />* Quarterly Company Socials planned by our great colleagues!",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "1GpvfSgSSKapcOID-unlpg",
+    "url": "https://www.remoteage.com/remote-jobs/cyber-systems-engineer-omaha/",
+    "title": "Cyber Systems Engineer – Omaha",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:swing/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Peraton",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 4:21:45 PM",
+    "validThrough": "Aug 5, 2019 4:21:45 PM",
+    "crawled": "Jul 29, 2019 5:07:14 PM",
+    "content": "<h3>            Cyber Systems Engineer – Omaha        </h3><div>United States, Nebraska</div><div>Company: Peraton<p></p></div><div>                    <h4>Overview</h4>                    <div><strong>Overview</strong><br> Peraton is seeking a senior cyber security engineer in Omaha, Nebraska with thorough understanding of the DoD Risk Management Framework (RMF) per DoDI 8510.01 and the National Institute of Standards and Technology (NIST) 800 series set of documents.<p></p><div><strong>Responsibilities</strong><br> <strong>What you’ll do…</strong> <p></p><ul><li> Lead a team evaluating “end-to-end” systems and subsystems from a cyber security perspective. Conduct research and evaluate technical performance and cyber vulnerabilities. </li><li> Ensure components and systems comply with requirements and government information assurance and cyber security standards and practices through formal verification methods. </li><li> Verify and validate components and systems with specific emphasis on network operations and cyber security tactics, techniques, and procedures focused on the threats to information networks. </li><li> Assess component and system performance using evaluation criteria and technical performance measures. Prepare assessments and cyber threat profiles based on testing, research, and analysis. </li><li> Participate in design reviews of components and systems (hardware and software) to ensure applicability to the system and traceability of cyber requirements. </li><li> Review test plans/procedures and ensure they verify/validate cyber requirements. Develop and maintain analytical procedures to meet changing requirements. </li><li> Produce high-quality papers, presentations, recommendations, and findings for senior US government and operations officials. </li><li> DOD security Hardening </li><li> Collection and assessment tools (STIGs, VMS/SCAP, Nessus, etc.) </li><li> Security Architectures </li><li> Boundary and network devices (firewalls, routers, switches, etc.) </li><li> Identify, assess, and validate baseline security controls (BCS) </li><li> Prepare Plan of Action &amp; Milestone (PoA&amp;Ms) to document and mitigate cybersecurity deficiencies. </li></ul><div><strong>Qualifications</strong><br> <strong>You’d be a great fit if…</strong> <p></p><ul><li> You have a Bachelor of Science undergraduate degree </li><li> You possess a DoD 8570 Certification Information Assurance Technical (IAT) Level II minimum </li><li> You are proficient with MS Office suite </li></ul><p> <strong>It would be even better if you…</strong> </p><ul><li> Have a Master’s degree in engineering, cyber, or STEM area </li><li> Have knowledge of SEI CMMI DEV 1.3 Level 3 processes </li><li> Possess knowledge of Atlassian tool suite </li><li> Have knowledge and use of eMASS </li><li> Crrently have an active DoD Secret Security Clearance </li></ul><p> <strong>What you’ll get…</strong> </p><ul><li> An immediately-vested 401(K) with employer matching </li><li> Comprehensive medical, dental, and vision coverage </li><li> Tuition assistance, financing, and refinancing </li><li> Company-paid infertility treatments </li><li> Cross-training and professional development opportunities </li><li> Influence major initiatives </li></ul><div><strong>About Peraton</strong><br> Are you ready to join the next-generation of national security? Peraton is a fresh name in the industry with an established portfolio and legacy going back more than a century. We work differently than our peers – with agility, the freedom to innovate, an entrepreneurial spirit and a culture of responsibility. As part of the Peraton team, you’ll be part of our movement to build a great company, solve the most daunting challenges facing mankind today, to protect and promote freedom around the world, and to secure our future, for our families, our communities, our nation, and our way of life.<p></p><div><strong>EEO Statement</strong><br> We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.<p></p><p></p>                                                <div>                            <a href='https://www.jobg8.com/Traffic.aspx?csz1LVInVSqg8f0mnyZGUga' rel='nofollow'>Apply for job</a>                    </div>                                    </div>                                            </div>                        </div>    </div>            </div>                                        <div>                <div>                    <div>                                                 <div>                                        <div><h6>Support Inquiries:</h6><p><strong>hello@remoteage.com</strong></p><h6>Advertising Inquiries:</h6><p><strong>advertise@remoteage.com</strong></p></div>        <div><table><tbody><tr><td></td></tr><tr><td><a href='https://www.paypal.com/in/webapps/mpp/paypal-popup' title=&quot;How PayPal Works&quot; rel='nofollow'></a></td></tr></tbody></table></div>                        </div>                                                 <div>                            <h5>Featured On</h5><div><a href='https://www.producthunt.com/posts/remote-age' rel='nofollow'></a></div>                        </div>                                                 <div>                            <h5>Follow us on Twitter</h5>        <div>                                <div>                        <span>    <a href='https://twitter.com/RemoteAge/status/1149943806281703424' rel='nofollow'>        16 days ago    </a></span><div>    <div>                    <div><div><span><a href='https://twitter.com/RemoteAge' rel='nofollow'> <span>Remote Age</span><span>@RemoteAge</span>Follow</a></span><div><span>Apply for #remotejobs. Upload your Resume. Get found. Daily #remotework sweetness right here on Twitter. Swing by our Blog page https://t.co/BvPEJnA4be</span></div><div><div><span>Total Tweets</span>2.70K</div><div><span>Followers</span>4.44K</div><div><span>Following</span>1</div></div></div></div>            <a href='http://twitter.com/RemoteAge' rel='nofollow'>                <span>Remote Age</span>                <span>@RemoteAge</span>            </a>            </div>    <div></div>     It's our 2nd Twitter anniversary today!<br>Thanks to everyone who has been supportive since July 2017!<br>*drumroll please* <a href='https://t.co/IVwsOleA65' rel='nofollow'>https://t.co/IVwsOleA65</a>                      <div>        <a href='https://twitter.com/intent/tweet?in_reply_to=1149943806281703424' rel='nofollow'><i></i></a>        <a href='https://twitter.com/intent/retweet?tweet_id=1149943806281703424' rel='nofollow'><i></i><span>1</span></a>        <a href='https://twitter.com/intent/favorite?tweet_id=1149943806281703424' rel='nofollow'><i></i><span></span></a>    </div>                                <div>                            <div>                                    <div>                  </div>                                </div>                        </div>                        </div>                    </div>                    <div>    <div>        <a href='https://twitter.com/@RemoteAge' rel='nofollow'>            <i></i>            <span>Follow <b>@RemoteAge</b>            </span>        </a>    </div></div>        </div>                                </div>                                                 <div>                            <h5>Sitemap</h5>        <ul>            <li><a href='https://www.remoteage.com/blog/' rel='nofollow'>Blog</a></li><li><a href='https://www.remoteage.com/company-spotlight/' rel='nofollow'>Company Spotlight</a></li><li><a href='https://www.remoteage.com/find-a-candidate/' rel='nofollow'>Hire Remote Workers</a></li><li><a href='https://www.remoteage.com/partner-jobs/' rel='nofollow'>Jobs From Partners</a></li><li><a href='https://www.remoteage.com/myaccount/' rel='nofollow'>My Account</a></li><li><a href='https://www.remoteage.com/post-a-job/' rel='nofollow'>Post Remote Jobs</a></li><li><a href='https://www.remoteage.com/pricing/' rel='nofollow'>Pricing</a></li><li><a href='https://www.remoteage.com/privacy-policy/' rel='nofollow'>Privacy policy</a></li><li><a href='https://www.remoteage.com/remote-jobs/' rel='nofollow'>Remote Jobs &amp; Jobs Near You</a></li><li><a href='https://www.remoteage.com/submit-resume/' rel='nofollow'>Submit Resume</a></li><li><a href='https://www.remoteage.com/terms-and-conditions/' rel='nofollow'>Terms and Conditions</a></li>        </ul>                                    </div>                                            </div>                </div>            </div>                        <div>                <div>                    <div>                        © 2019 Remote Age — All Rights Reserved                    </div>                    <div><a href='https://twitter.com/RemoteAge' rel='nofollow'><span>Twitter</span></a></div>                    <a rel='nofollow'><span>Back to Top</span></a>                </div>            </div>            </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "mUQ-BqoeSWOwOoR8vSBuBA",
+    "url": "https://www.remoteage.com/remote-jobs/systems-engineer-navy-programs-active-top-secret-2/",
+    "title": "Systems Engineer – Navy Programs (Active Top Secret)",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:swing/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Peraton",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 4:21:45 PM",
+    "validThrough": "Aug 5, 2019 4:21:45 PM",
+    "crawled": "Jul 29, 2019 5:07:14 PM",
+    "content": "<h3>            Systems Engineer – Navy Programs (Active Top Secret)        </h3><div>United States, Washington DC</div><div>Company: Peraton<p></p></div><div>                    <h4>Overview</h4>                    <div><strong>Overview</strong><br> We are seeking a Mid to Senior Level Systems Engineer to support our US Navy customer Strategic Systems Programs, in Washington, DC with Weapon Systems Acquisition. <p></p><p> In this position you will support SSP’s nuclear weapon fuze modernization efforts and assist SSP with Nuclear Weapons Council (NWC) Action Officer (AO) support. The company has held this contract for over sixty years and is working on the fourth year of a five year Re-Entry System Technical Support Contract. Offices are located near the Washington Navy Yard within sight of the Nation’s Capital and with easy access to public transportation (Green line on the Metro).</p><div><strong>Responsibilities</strong><br> <strong> What you will do…. </strong> <p></p><ul><li> Writing technical white papers, preparing presentations </li><li> Track, status, and, as necessary, coordinate responses to actions assigned by the NWC and NWC SSC to Navy SSP as well as those assigned in other meetings </li><li> Assist Navy SSP with reviewing and providing coordinated comments to Presidential and Congressional level reports. </li><li> Serving as technical secretary for various DoD/DOE working groups </li><li> Analyzing and tracing requirements </li><li> Reviewing and commenting on detailed test plans and reports </li><li> Analyzing detailed schedules in support of EVMS </li><li> Assessing the design and production efforts of the Design and Production Agents </li><li> Serving as independent evaluator for formal design development, integration, qualification, and production reviews </li><li> Interface with SSP, Joint Staff, DTRA, Army, Navy, DOE (NNSA), OSD, and contractor personnel. </li><li> Representing the Navy customer at various meetings when they cannot be present </li></ul><div><strong>Qualifications</strong><br> <strong> You would be a great fit if… </strong> <p></p><ul><li> You have a BS in Aerospace Engineering, Electrical Engineering, Mechanical Engineering, Nuclear Engineering, Systems Engineering, Physics or Chemistry, and 8+ years of directly related Systems Engineering experience; or a MS degree and 6+ years of experience; without a degree 14+ years of experience is required </li><li> You can demonstrate 8+ years of experience in a related Systems Engineering role </li><li> You have an active Top Secret security clearance and can maintain the clearance. </li></ul><p> <strong> It would be even better if you… </strong> </p><ul><li> Have 5+ years of experience in the development of a major weapons system or experience with Navy littoral combat ship systems </li><li> Have knowledge of DOE processes for nuclear weapons development </li><li> Possess a MS degree in a related Engineering discipline </li><li> Have experience with DOORS </li><li> Have the ability to work independently </li><li> Possess strong communication skills </li><li> Have excellent teamwork </li></ul><p><strong> SECURITY CLEARANCE <br> </strong><strong> This position requires the candidate to already have an active and current Top Secret security clearance and to maintain that security clearance. </strong><strong> </strong></p><p><strong> What you’ll get… </strong></p><ul><li> An immediately-vested 401(K) with employer matching </li><li> Comprehensive medical, dental, and vision coverage </li><li> Tuition assistance, financing, and refinancing </li><li> Company-paid infertility treatments </li><li> Cross-training and professional development opportunities </li><li> Influence major initiatives </li></ul><div><strong>About Peraton</strong><br> Are you ready to join the next-generation of national security? Peraton is a fresh name in the industry with an established portfolio and legacy going back more than a century. We work differently than our peers – with agility, the freedom to innovate, an entrepreneurial spirit and a culture of responsibility. As part of the Peraton team, you’ll be part of our movement to build a great company, solve the most daunting challenges facing mankind today, to protect and promote freedom around the world, and to secure our future, for our families, our communities, our nation, and our way of life.<p></p><div><strong>EEO Statement</strong><br> We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.<p></p><p></p>                                                <div>                            <a href='https://www.jobg8.com/Traffic.aspx?YWeLnjQ5aeL0439sMJYHQwr' rel='nofollow'>Apply for job</a>                    </div>                                    </div>                                            </div>                        </div>    </div>            </div>                                        <div>                <div>                    <div>                                                 <div>                                        <div><h6>Support Inquiries:</h6><p><strong>hello@remoteage.com</strong></p><h6>Advertising Inquiries:</h6><p><strong>advertise@remoteage.com</strong></p></div>        <div><table><tbody><tr><td></td></tr><tr><td><a href='https://www.paypal.com/in/webapps/mpp/paypal-popup' title=&quot;How PayPal Works&quot; rel='nofollow'></a></td></tr></tbody></table></div>                        </div>                                                 <div>                            <h5>Featured On</h5><div><a href='https://www.producthunt.com/posts/remote-age' rel='nofollow'></a></div>                        </div>                                                 <div>                            <h5>Follow us on Twitter</h5>        <div>                                <div>                        <span>    <a href='https://twitter.com/RemoteAge/status/1149943806281703424' rel='nofollow'>        16 days ago    </a></span><div>    <div>                    <div><div><span><a href='https://twitter.com/RemoteAge' rel='nofollow'> <span>Remote Age</span><span>@RemoteAge</span>Follow</a></span><div><span>Apply for #remotejobs. Upload your Resume. Get found. Daily #remotework sweetness right here on Twitter. Swing by our Blog page https://t.co/BvPEJnA4be</span></div><div><div><span>Total Tweets</span>2.70K</div><div><span>Followers</span>4.44K</div><div><span>Following</span>1</div></div></div></div>            <a href='http://twitter.com/RemoteAge' rel='nofollow'>                <span>Remote Age</span>                <span>@RemoteAge</span>            </a>            </div>    <div></div>     It's our 2nd Twitter anniversary today!<br>Thanks to everyone who has been supportive since July 2017!<br>*drumroll please* <a href='https://t.co/IVwsOleA65' rel='nofollow'>https://t.co/IVwsOleA65</a>                      <div>        <a href='https://twitter.com/intent/tweet?in_reply_to=1149943806281703424' rel='nofollow'><i></i></a>        <a href='https://twitter.com/intent/retweet?tweet_id=1149943806281703424' rel='nofollow'><i></i><span>1</span></a>        <a href='https://twitter.com/intent/favorite?tweet_id=1149943806281703424' rel='nofollow'><i></i><span></span></a>    </div>                                <div>                            <div>                                    <div>                  </div>                                </div>                        </div>                        </div>                    </div>                    <div>    <div>        <a href='https://twitter.com/@RemoteAge' rel='nofollow'>            <i></i>            <span>Follow <b>@RemoteAge</b>            </span>        </a>    </div></div>        </div>                                </div>                                                 <div>                            <h5>Sitemap</h5>        <ul>            <li><a href='https://www.remoteage.com/blog/' rel='nofollow'>Blog</a></li><li><a href='https://www.remoteage.com/company-spotlight/' rel='nofollow'>Company Spotlight</a></li><li><a href='https://www.remoteage.com/find-a-candidate/' rel='nofollow'>Hire Remote Workers</a></li><li><a href='https://www.remoteage.com/partner-jobs/' rel='nofollow'>Jobs From Partners</a></li><li><a href='https://www.remoteage.com/myaccount/' rel='nofollow'>My Account</a></li><li><a href='https://www.remoteage.com/post-a-job/' rel='nofollow'>Post Remote Jobs</a></li><li><a href='https://www.remoteage.com/pricing/' rel='nofollow'>Pricing</a></li><li><a href='https://www.remoteage.com/privacy-policy/' rel='nofollow'>Privacy policy</a></li><li><a href='https://www.remoteage.com/remote-jobs/' rel='nofollow'>Remote Jobs &amp; Jobs Near You</a></li><li><a href='https://www.remoteage.com/submit-resume/' rel='nofollow'>Submit Resume</a></li><li><a href='https://www.remoteage.com/terms-and-conditions/' rel='nofollow'>Terms and Conditions</a></li>        </ul>                                    </div>                                            </div>                </div>            </div>                        <div>                <div>                    <div>                        © 2019 Remote Age — All Rights Reserved                    </div>                    <div><a href='https://twitter.com/RemoteAge' rel='nofollow'><span>Twitter</span></a></div>                    <a rel='nofollow'><span>Back to Top</span></a>                </div>            </div>            </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "c052NUc1QweIusmgmDQQ-A",
+    "url": "https://www.remoteage.com/remote-jobs/senior-systems-engineer-welcome/",
+    "title": "Senior Systems Engineer – Welcome",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:swing/java/8",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Peraton",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 4:21:45 PM",
+    "validThrough": "Aug 5, 2019 4:21:45 PM",
+    "crawled": "Jul 29, 2019 5:07:14 PM",
+    "content": "<h3>            Senior Systems Engineer – Welcome        </h3><div>United States, Maryland</div><div>Company: Peraton<p></p></div><div>                    <h4>Overview</h4>                    <div><strong>Overview</strong><br> Peraton has an immediate need for a Senior Systems Engineer who will join our team at Blossom Point Tracking Facility (BPTF) in Welcome, MD. You’ll be a part of the technical team that will assist with, and sometimes lead, the integration of new missions into the baseline, planning system upgrades, resolving issues and adding new capabilities to the infrastructure.<p></p><div><strong>Responsibilities</strong><br> <strong> What you’ll do… </strong><p></p><ul><li> The Systems Engineer shall be a part of the technical team that will assist with, and sometimes lead, the integration of new missions into the baseline, planning system upgrades, resolving issues and adding new capabilities to the infrastructure. </li><li> Will use standard requirements definition processes for new and/or expanded projects </li><li> Will identify and manage risks on new and existing projects </li><li> Will conduct trades studies on new technologies for ground system architecture </li><li> Create and update wiring diagrams, flow charts, and other documentation </li><li> Trouble shoot and coordinate repairs for any ground system issues<strong> </strong> </li><li> Use test equipment such as Oscilloscope or Spectrum Analyzer </li><li> Partner with Cyber Team to ensure network security regulations are met </li><li> Assist RF Technical Team w/upgrades and troubleshooting of large apeture antennas </li></ul><div><strong>Qualifications</strong><p></p><p><strong> You’d be a great fit if you have… </strong></p><ul><li> A Bachelor’s Degree (or equivalent) in Engineering, Computer Science, Physics, or related field. </li><li> 10 years of relevant work experience. </li><li> 5 years experience with satellite command and control systems. </li><li> Satellite/spacecraft ground systems knowledge including RF, radio frequency, digital signal, etc. </li><li> 3 years experience with cryptographic equipment and networks such as KG7, KG17, KG777. </li><li> An active Secret security clearance. </li><li> The ability to obtain a TS/SCI security clearance. </li></ul><p><strong> It’d be even better if you… </strong></p><ul><li> Have experience with Ground/Earth Station environments. </li><li> Understanding of RF Design principles </li><li> Component level troubleshooting and replacement </li><li> Windows/Linux System Administration knowledge </li><li> Understanding of network topologies </li></ul><p><strong> What you’ll get… </strong></p><ul><li> An immediately-vested 401(K) with employer matching </li><li> Rapid PTO accrual schedule with floating holidays </li><li> Comprehensive medical, dental, and vision coverage </li><li> Tuition assistance, financing, and refinancing </li><li> Paid maternity and paternity leave </li><li> Company-paid infertility treatments </li><li> Cross-training and professional development opportunities </li><li> The ability to influence major initiatives </li></ul><p><strong> SECURITY CLEARANCE <br> </strong> This position requires the candidate to have an ac tive Secret security clearance and must be able to obtain and maintain a TS/SCI clearance.</p><div><strong>About Peraton</strong><br> Are you ready to join the next-generation of national security? Peraton is a fresh name in the industry with an established portfolio and legacy going back more than a century. We work differently than our peers – with agility, the freedom to innovate, an entrepreneurial spirit and a culture of responsibility. As part of the Peraton team, you’ll be part of our movement to build a great company, solve the most daunting challenges facing mankind today, to protect and promote freedom around the world, and to secure our future, for our families, our communities, our nation, and our way of life.<p></p><div><strong>EEO Statement</strong><br> We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.<p></p><p></p>                                                <div>                            <a href='https://www.jobg8.com/Traffic.aspx?re6gYjdkhs%2fEYX79x6iF0Qq' rel='nofollow'>Apply for job</a>                    </div>                                    </div>                                            </div>                        </div>    </div>            </div>                                        <div>                <div>                    <div>                                                 <div>                                        <div><h6>Support Inquiries:</h6><p><strong>hello@remoteage.com</strong></p><h6>Advertising Inquiries:</h6><p><strong>advertise@remoteage.com</strong></p></div>        <div><table><tbody><tr><td></td></tr><tr><td><a href='https://www.paypal.com/in/webapps/mpp/paypal-popup' title=&quot;How PayPal Works&quot; rel='nofollow'></a></td></tr></tbody></table></div>                        </div>                                                 <div>                            <h5>Featured On</h5><div><a href='https://www.producthunt.com/posts/remote-age' rel='nofollow'></a></div>                        </div>                                                 <div>                            <h5>Follow us on Twitter</h5>        <div>                                <div>                        <span>    <a href='https://twitter.com/RemoteAge/status/1149943806281703424' rel='nofollow'>        16 days ago    </a></span><div>    <div>                    <div><div><span><a href='https://twitter.com/RemoteAge' rel='nofollow'> <span>Remote Age</span><span>@RemoteAge</span>Follow</a></span><div><span>Apply for #remotejobs. Upload your Resume. Get found. Daily #remotework sweetness right here on Twitter. Swing by our Blog page https://t.co/BvPEJnA4be</span></div><div><div><span>Total Tweets</span>2.70K</div><div><span>Followers</span>4.44K</div><div><span>Following</span>1</div></div></div></div>            <a href='http://twitter.com/RemoteAge' rel='nofollow'>                <span>Remote Age</span>                <span>@RemoteAge</span>            </a>            </div>    <div></div>     It's our 2nd Twitter anniversary today!<br>Thanks to everyone who has been supportive since July 2017!<br>*drumroll please* <a href='https://t.co/IVwsOleA65' rel='nofollow'>https://t.co/IVwsOleA65</a>                      <div>        <a href='https://twitter.com/intent/tweet?in_reply_to=1149943806281703424' rel='nofollow'><i></i></a>        <a href='https://twitter.com/intent/retweet?tweet_id=1149943806281703424' rel='nofollow'><i></i><span>1</span></a>        <a href='https://twitter.com/intent/favorite?tweet_id=1149943806281703424' rel='nofollow'><i></i><span></span></a>    </div>                                <div>                            <div>                                    <div>                  </div>                                </div>                        </div>                        </div>                    </div>                    <div>    <div>        <a href='https://twitter.com/@RemoteAge' rel='nofollow'>            <i></i>            <span>Follow <b>@RemoteAge</b>            </span>        </a>    </div></div>        </div>                                </div>                                                 <div>                            <h5>Sitemap</h5>        <ul>            <li><a href='https://www.remoteage.com/blog/' rel='nofollow'>Blog</a></li><li><a href='https://www.remoteage.com/company-spotlight/' rel='nofollow'>Company Spotlight</a></li><li><a href='https://www.remoteage.com/find-a-candidate/' rel='nofollow'>Hire Remote Workers</a></li><li><a href='https://www.remoteage.com/partner-jobs/' rel='nofollow'>Jobs From Partners</a></li><li><a href='https://www.remoteage.com/myaccount/' rel='nofollow'>My Account</a></li><li><a href='https://www.remoteage.com/post-a-job/' rel='nofollow'>Post Remote Jobs</a></li><li><a href='https://www.remoteage.com/pricing/' rel='nofollow'>Pricing</a></li><li><a href='https://www.remoteage.com/privacy-policy/' rel='nofollow'>Privacy policy</a></li><li><a href='https://www.remoteage.com/remote-jobs/' rel='nofollow'>Remote Jobs &amp; Jobs Near You</a></li><li><a href='https://www.remoteage.com/submit-resume/' rel='nofollow'>Submit Resume</a></li><li><a href='https://www.remoteage.com/terms-and-conditions/' rel='nofollow'>Terms and Conditions</a></li>        </ul>                                    </div>                                            </div>                </div>            </div>                        <div>                <div>                    <div>                        © 2019 Remote Age — All Rights Reserved                    </div>                    <div><a href='https://twitter.com/RemoteAge' rel='nofollow'><span>Twitter</span></a></div>                    <a rel='nofollow'><span>Back to Top</span></a>                </div>            </div>            </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "wsH92pLzTi2JpAoxLHt0pQ",
+    "url": "https://www.remoteage.com/remote-jobs/senior-systems-engineer-herndon/",
+    "title": "Senior Systems Engineer – Herndon",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:swing/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Peraton",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 4:21:45 PM",
+    "validThrough": "Aug 5, 2019 4:21:45 PM",
+    "crawled": "Jul 29, 2019 5:07:14 PM",
+    "content": "<h3>            Senior Systems Engineer – Herndon        </h3><div>United States, Virginia</div><div>Company: Peraton<p></p></div><div>                    <h4>Overview</h4>                    <div><strong>Overview</strong><br> Peraton is seeking a Senior Systems Engineer to join our team to support classified projects based in <strong>Herndon, VA. </strong>As part of the systems engineering team you will design, integration, test, delivery, and support phases of multiple inter-related contracts that transform customers’ enterprise-wide, globally deployed, data storage and dissemination services.<p></p><div><strong>Responsibilities</strong><br> <strong> What you’ll do… </strong><p></p><ul><li> Support Systems Engineering Subject Matter Expert (SME) on Peraton’s solutions and services.<strong> </strong> </li><li> Provide oral and written communications for customer-facing events to include weekly updates, quarterly reviews, contract milestones, proposals, ad hoc issue resolution, field deployments and technical roadmaps. </li><li> Develop internal documentation such as architectural system block diagrams, recommended components, vendors and technical solutions. </li><li> Help supervise, train and mentor junior engineers. Help determine shortfalls, develop training plans, drive process improvement, provide technical guidance to achieve programmatic goals and root cause analysis events. </li><li> Provide hands-on training to internal team members and external customers. Develop SOPs and train team members accordingly. </li><li> Provide quality assurance of all program deliverables the Systems Engineering team is responsible for as per contractual and team requirements. Includes technical requirements derivation, CONOPs recommendations, architectural system diagrams, system technical specifications, configuration and operation guides, system sparing plans, deployment plans, detailed system and component drawings, logistical system details, root cause analysis reports, and field deployment reports. </li><li> Plan, resource, and schedule fielding activities to include sub-contractor and vendor coordination and logistical pre-deployment shipments </li><li> Coordinate and prepare in-brief/out-brief meetings, prepare and submit daily reports, resolve ad hoc deployment issues, develop punchlists and resolution plans </li><li> Provide training and guidance to the on-site field support representative . </li></ul><div><strong>Qualifications</strong><p></p><p><strong> You’d be a great fit if… </strong></p><ul><li> Bachelor’s Degree in systems engineering or a related technical field and 5+ years of relevant experience. </li><li> 5+ years of relevant experience in the system engineering life cycle including requirements analysis and documentation, specification development, system design, concept of operations development, and interface control document development. </li><li> 5+ years of relevant experience with hardware/software testing and requirement verification </li></ul><p><strong> It’d be even better if you… </strong></p><ul><li> Have experience maintaining factory test equipment and environment in support of the Test team and Software team development needs </li><li> Are comfortable ensuring factory systems are capable of mirroring deployed system and planned system designs and configurations. Planned and scheduled configuration changes and system updates. </li></ul><p><strong> What you’ll get… </strong></p><ul><li> An immediately-vested 401(K) with employer matching </li><li> Rapid PTO accrual schedule with floating holidays </li><li> Comprehensive medical, dental, and vision coverage </li><li> Tuition assistance, financing, and refinancing </li><li> Paid maternity and paternity leave </li><li> Company-paid infertility treatments </li><li> Cross-training and professional development opportunities </li><li> The ability to influence major initiatives </li></ul><p><strong> SECURITY CLEARANCE <br> </strong> This position requires the candidate to hold an active TS-SCI security clearance, and to maintain this clearance.</p><div><strong>About Peraton</strong><br> Are you ready to join the next-generation of national security? Peraton is a fresh name in the industry with an established portfolio and legacy going back more than a century. We work differently than our peers – with agility, the freedom to innovate, an entrepreneurial spirit and a culture of responsibility. As part of the Peraton team, you’ll be part of our movement to build a great company, solve the most daunting challenges facing mankind today, to protect and promote freedom around the world, and to secure our future, for our families, our communities, our nation, and our way of life.<p></p><div><strong>EEO Statement</strong><br> We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.<p></p><p></p>                                                <div>                            <a href='https://www.jobg8.com/Traffic.aspx?H%2bJ0m9pAlMzy5wgZcJr3ygd' rel='nofollow'>Apply for job</a>                    </div>                                    </div>                                            </div>                        </div>    </div>            </div>                                        <div>                <div>                    <div>                                                 <div>                                        <div><h6>Support Inquiries:</h6><p><strong>hello@remoteage.com</strong></p><h6>Advertising Inquiries:</h6><p><strong>advertise@remoteage.com</strong></p></div>        <div><table><tbody><tr><td></td></tr><tr><td><a href='https://www.paypal.com/in/webapps/mpp/paypal-popup' title=&quot;How PayPal Works&quot; rel='nofollow'></a></td></tr></tbody></table></div>                        </div>                                                 <div>                            <h5>Featured On</h5><div><a href='https://www.producthunt.com/posts/remote-age' rel='nofollow'></a></div>                        </div>                                                 <div>                            <h5>Follow us on Twitter</h5>        <div>                                <div>                        <span>    <a href='https://twitter.com/RemoteAge/status/1149943806281703424' rel='nofollow'>        16 days ago    </a></span><div>    <div>                    <div><div><span><a href='https://twitter.com/RemoteAge' rel='nofollow'> <span>Remote Age</span><span>@RemoteAge</span>Follow</a></span><div><span>Apply for #remotejobs. Upload your Resume. Get found. Daily #remotework sweetness right here on Twitter. Swing by our Blog page https://t.co/BvPEJnA4be</span></div><div><div><span>Total Tweets</span>2.70K</div><div><span>Followers</span>4.44K</div><div><span>Following</span>1</div></div></div></div>            <a href='http://twitter.com/RemoteAge' rel='nofollow'>                <span>Remote Age</span>                <span>@RemoteAge</span>            </a>            </div>    <div></div>     It's our 2nd Twitter anniversary today!<br>Thanks to everyone who has been supportive since July 2017!<br>*drumroll please* <a href='https://t.co/IVwsOleA65' rel='nofollow'>https://t.co/IVwsOleA65</a>                      <div>        <a href='https://twitter.com/intent/tweet?in_reply_to=1149943806281703424' rel='nofollow'><i></i></a>        <a href='https://twitter.com/intent/retweet?tweet_id=1149943806281703424' rel='nofollow'><i></i><span>1</span></a>        <a href='https://twitter.com/intent/favorite?tweet_id=1149943806281703424' rel='nofollow'><i></i><span></span></a>    </div>                                <div>                            <div>                                    <div>                  </div>                                </div>                        </div>                        </div>                    </div>                    <div>    <div>        <a href='https://twitter.com/@RemoteAge' rel='nofollow'>            <i></i>            <span>Follow <b>@RemoteAge</b>            </span>        </a>    </div></div>        </div>                                </div>                                                 <div>                            <h5>Sitemap</h5>        <ul>            <li><a href='https://www.remoteage.com/blog/' rel='nofollow'>Blog</a></li><li><a href='https://www.remoteage.com/company-spotlight/' rel='nofollow'>Company Spotlight</a></li><li><a href='https://www.remoteage.com/find-a-candidate/' rel='nofollow'>Hire Remote Workers</a></li><li><a href='https://www.remoteage.com/partner-jobs/' rel='nofollow'>Jobs From Partners</a></li><li><a href='https://www.remoteage.com/myaccount/' rel='nofollow'>My Account</a></li><li><a href='https://www.remoteage.com/post-a-job/' rel='nofollow'>Post Remote Jobs</a></li><li><a href='https://www.remoteage.com/pricing/' rel='nofollow'>Pricing</a></li><li><a href='https://www.remoteage.com/privacy-policy/' rel='nofollow'>Privacy policy</a></li><li><a href='https://www.remoteage.com/remote-jobs/' rel='nofollow'>Remote Jobs &amp; Jobs Near You</a></li><li><a href='https://www.remoteage.com/submit-resume/' rel='nofollow'>Submit Resume</a></li><li><a href='https://www.remoteage.com/terms-and-conditions/' rel='nofollow'>Terms and Conditions</a></li>        </ul>                                    </div>                                            </div>                </div>            </div>                        <div>                <div>                    <div>                        © 2019 Remote Age — All Rights Reserved                    </div>                    <div><a href='https://twitter.com/RemoteAge' rel='nofollow'><span>Twitter</span></a></div>                    <a rel='nofollow'><span>Back to Top</span></a>                </div>            </div>            </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "N_rMS1msT6q5kXKYF8TDiA",
+    "url": "https://landing.jobs/at/landing-jobs/remote-operation-specialist-landing-work?utm_campaign=landing+rss&utm_content=Remote+Operation+Specialist+Landing.work&utm_medium=referral&utm_source=rss",
+    "title": "Remote Operation Specialist Landing.work",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(work,2W(work,remot)) 3W from 2W OR(wherev,wherev,where)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Landing.jobs",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 25, 2019 3:43:11 PM",
+    "validThrough": "Aug 1, 2019 3:43:11 PM",
+    "crawled": "Jul 29, 2019 4:07:20 PM",
+    "content": "<div><h3>Remote Operation Specialist Landing.work</h3></div><div>Company: Landing.jobs</div><div>Location: Lisbon, PT</div><div>Remote location: Fully remote</div>Level: Intermediate<br>Language: Portuguese <div>Product/Project Management<br>Skills:</div><li>Customer Support </li><li>Recruitment </li><h3>Intro</h3><p>Landing’s mission is to reshape the future of work by transforming the way career development and hiring work. As a step on the journey, we’ve just launched the alpha version of a new product that we’re calling Landing.work.<br><br></p><p>We’ve launched Landing.work to help solve some of the challenges tech professionals face when working remotely as contractors, which are two growing trends. Landing.work will help tech professionals benefit from all the advantages of working as a Contractor such as getting higher pay, choosing their own clients and setting their own rates.<br><br></p><p>Our plan for the first months is to roll-out Landing.work for contractors based in Portugal and learn a lot from the process. Being part of this team means you are going to help and evaluate contractors during the evaluation process. You will also support our Operations team to guarantee that we are providing the best service possible.<br><br></p><p><strong>What you will be doing<br></strong><br></p><ul><li>Support and evaluate the contractors going through the evaluation funnel;</li><li>Understand what are our contractors’ likes and dislikes about the process;</li><li>Help improving things like CV and Landing.work’s profile;</li><li>Give support during the matching process, including rate counselling, career development opportunities and others;</li><li>Match client projects with the best contractors available;</li><li>Share useful information about companies and job openings;</li></ul><p><br>&nbsp;This is a remote position which means that you can work from wherever you want (as long as you manage 5+ hours of common working time with the remaining team). However, with freedom comes responsibility - this means your work will be measured by the results you present.</p><h4>Main requirements</h4><p></p><ul><li>2+ years of experience working in fast-paced environments;</li><li>(Plus) Experience in account manager and recruitment;</li><li>Accountability and ownership of your own responsibilities;</li><li>You must be a people’s person and someone really communicative;</li><li>Data-driven mindset and solution-oriented;</li><li>Positive and proactive attitude, always aiming for more;</li><li>Fluent in Portuguese and English;</li><li>Multi-tasking ability.</li></ul><p><br></p><p></p><h4>Nice to have</h4><ul><li>Passionate about the HR/Recruiting Tech industry.<br></li></ul><h4>Perks</h4><ul><li>You can work from wherever you want (as long as you manage 5+ hours of common working time with the remaining team);</li><li>(Optional) 2-3 days per month at the Landing office;</li><li>Training and resources available so you continuously improve yourself;</li><li>A commission model that is designed to ignite you.<br><br></li></ul>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "9BKh7m5-QfKheNVWPIP1FA",
+    "url": "https://stackoverflow.com/jobs/285137/devops-engineer-interpersonal-frequency?a=1xCOKG3efYPK",
+    "title": "DevOps Engineer at Interpersonal Frequency  ",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:drupal/php/5",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/15",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=33, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Interpersonal Frequency",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 3:06:24 PM",
+    "validThrough": "Aug 5, 2019 3:06:24 PM",
+    "crawled": "Jul 29, 2019 3:06:25 PM",
+    "content": "<h3><span>DevOps Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps, System Administrator</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Government, Libraries, Web Hosting</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Interpersonal Frequency | No office location<br></div><h4>Technologies</h4><div></div><div>mysql</div><div>php</div><div>amazon-web-services</div><div>docker</div><div>varnish</div><div>sysadmin</div>                <h4>Job description</h4>                <div><p><span>We are looking for a DevOps engineer to help us scale our systems as we bring more cities and government agencies into the cloud. Our backend tech stack currently includes RHEL/CentOS, Docker, Node.js, PHP, Apache/Nginx, Solr/ElasticSearch, MariaDB/MySQL, GlusterFS, Redis/Memcache, HAProxy, Varnish, New Relic, and AWS (GovCloud, EC2, ELB, RDS, Aurora, ElastiCache, S3, CloudFormation, Redshift, EFS, etc.), DigitalOcean, and Rackspace.</span></p><p><strong>Who you are&nbsp;</strong></p><p><span>We're looking for a DevOps engineer with significant experience configuring, managing, automating, securing, monitoring and maintaining systems at scale.</span></p><p><span>- You love to solve problems and can do so under pressure.&nbsp;</span></p><p><span>- Scaling, reliability, automation, security, and performance are things you care about deeply.&nbsp;</span></p><p><span>- You have a good mixture of planning, risk taking and a “get-it-done” attitude.&nbsp;</span></p><p><span>- You value the open source community and want to give back to it.&nbsp;</span></p><p><span>- You can clearly explain your ideas to both clients and other team members both verbally and in writing.&nbsp;</span></p><p><span>- You like to have fun and work with a small team! You play well with others (not just engineers).&nbsp;</span></p><p><span>- You bring both creativity and maturity to your work: you’re a self-starter who can jump in quickly and can manage your own time effectively in a remote work environment.</span></p><p><strong>What you’ll do&nbsp;</strong></p><p><span>You will help ensure the scalability, security, performance, and availability of our systems by applying your expertise in the evolution and daily operation of our LAMP/LEMP stack, implementing and automating infrastructure deployments and working with our engineering team to ensure the software that we build can scale.</span></p><p><strong>Requirements</strong></p><p><span>- You must either be a US Citizen or already have a Green Card to apply</span></p><p><span>- 3-5 years of experience with Amazon Web Services (AWS) cloud hosting</span></p><p><span>- 3+ years of experience with MySQL (DevOps, not DBA)</span></p><p><span>- Linux - Nginx and/or Apache</span></p><p><span>- Varnish</span></p><p><span>- PHP (DevOps tuning, not dev)</span></p><p><span>- Docker</span></p><p><span>- Shell scripting</span></p><p><span>- Ansible / Chef / Puppet</span></p><p><span>- Code repository versioning (Git)</span></p><p><strong>Bonus Skills</strong></p><p><span>- Memcached/Redis</span></p><p><span>- CentOS/Redhat Linux</span></p><p><span>- HAProxy</span></p><p><span>- MariaDB/MySQL Clustering</span></p><p><span>- Elasticsearch and/or Apache Solr</span></p><p><span>- Code repository hosting (e.g. Gitlab)</span></p><p><span>- Drupal Optimization</span></p><p><span>- Big Data (e.g. Hadoop, Redshift)</span></p><p><span>- Authentication Integration (e.g. LDAP/AD/SAML)</span></p><p><span>- Penetration testing</span></p><p><span>- Load testing</span></p><p><span>- GlusterFS</span></p><p><span>- Performance testing (e.g. New Relic, Blackfire)</span></p><p><span>- Jenkins</span></p><p><strong>Why work with us?</strong></p><p><span>- Fun, cutting edge remote work environment – ever changing, always a chat away from team members</span></p><p><span>- Your work directly impacts the lives of millions of Americans every day</span></p><p><span>- Healthcare, and Dental/Vision/Life/Disability plans</span></p><p><span>- Unlimited vacation, and a flexible schedule</span></p><p><span>- Work in a mostly virtual environment or a coworking location. If you work virtually, be prepared to travel once per quarter for face-to-face with the team</span></p><p><span>If you are interested, please send your cover letter, resume, and some code samples or examples of past work to <a href='mailto:devopsjobs@ifsight.com' rel='nofollow'>devopsjobs@ifsight.com</a>.</span></p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/285137?reset=False&amp;ra=1xCOKG3efYPK&amp;oqs=a%3D1xCOKG3efYPK' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Interpersonal Frequency</h4>            <div><p>At I.F., we’re putting the government in the cloud. We design, build, maintain, and grow sites on our open source, highly available web stack for some of the largest cities, public libraries, and government agencies in the country. Our company’s purpose is to make government online more relevant, accountable, and responsive to everyone. We also created a suite of proprietary analytics tools that survey 3.4 million Americans each day. We are growing quickly and are looking for engineers to continue to deliver cutting-edge, open sourced websites for our clients.</p><p>I.F. is a 10 year-old company with team members in Seattle, Chicago, Denver, New York, and the DC area, among others.</p><p>We provide a remote work environment, so you don’t need to move for this job. We encourage face to face collaboration in our regional offices and expect you to travel when required. As a purpose and principles-driven organization, we want talented team members who want to make a difference.</p><p>Working remotely means we can bring together some of the best minds in the country. Between video calls and Slack, the distance evaporates quickly, and ideas, projects and puns fly at the speed of light. Working remotely also allows us to find harmony in work / life balance.&nbsp;</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Unlimited vacation policy</span>                            </li>                            <li>                                <span></span>                                <span>Access to training's and conferences in your field</span>                            </li>                            <li>                                <span></span>                                <span>401(k) available by the end of this year</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work schedule</span>                            </li>                            <li>                                <span></span>                                <span>Three competitive medical plans to chose from</span>                            </li>                            <li>                                <span></span>                                <span>Dental and vision plans</span>                            </li>                            <li>                                <span></span>                                <span>Long and short term disability insurance</span>                            </li>                            <li>                                <span></span>                                <span>Employer paid life insurance</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "NzHty2nsRka568WrMSeMEg",
+    "url": "https://stackoverflow.com/jobs/273237/senior-devops-engineer-europe-remote-nearform?a=1tDnLCNCYMog",
+    "title": "Senior DevOps Engineer (Europe, Remote) at NearForm  ",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``work 2W wherev 2W you",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=6, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/other",
+      "TITLE1/admin",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "go",
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "NearForm",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 2:06:24 PM",
+    "validThrough": "Aug 5, 2019 2:06:24 PM",
+    "crawled": "Jul 29, 2019 2:06:24 PM",
+    "content": "<h3><span>Senior DevOps Engineer (Europe, Remote)</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Consulting, Software Development / Engineering, Web Technology</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51–200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: NearForm | No office location<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+00:00) London +/- 4 hours</span>                                </div>                                                                                                            </div>                    </div>                <h4>Technologies</h4><div></div><div>ansible</div><div>amazon-web-services</div><div>terraform</div><div>kubernetes</div><div>continuous-integration</div><div>Osmond van Hemert Full Stack Mobile and Web Developer 74 3</div><div>jh3y I love making awesome things for awesome people! 1.3k 6 9</div><div>Filippo De Santis 12 2</div><div>Matt Harrison JS/Rust developer and author based in the UK 11k 6 32 54</div>                <h4>Job description</h4>                <div><p><strong>What your day looks like</strong></p><p>You get home from the gym, you like to get there early to avoid the rush hour and it gets your energy levels up for the day. Turn on your monitor and join the hangout for your daily standup. There are some GitHub pull requests that need your attention, time to put your Ansible hat on. Lunchtime - you go and meet some friends at your favourite cafe. When you get back to your desk, your Terraform environment has finished provisioning and you kick off some smoke tests. Then it’s back to your earlier automation work. Before you know it, it’s time to close the laptop.&nbsp;</p><p><strong>What you’ll be doing</strong></p><p>At NearForm, we work with international clients who are industry leaders in their respective fields. Our role is to help them build solutions and platforms; help them to launch new product ventures and fundamentally change how they operate.</p><p>Join a highly skilled multidisciplinary team; typically consisting of designers, front-end and back-end experts, DevOps engineers, and also members of the client team. This mix follows a modern agile development methodology where we run 2-week sprints with a defined backlog, daily standups, weekly demos, sprint planning and sprint retros; all with as little ceremony as necessary.</p><p><strong>What we ask of you</strong></p><ul><li>6+ years experience developing at an enterprise level</li><li>An ability to perform well in a fast-paced environment</li><li>Excellent analytical and multitasking skills</li><li>Located in Europe</li><li>Availability for short-term travel on a semi-regular basis</li><li>Fluent English and outstanding communication skills (written and oral)</li><li>Modern DevOps mindset using best of breed open source tools and technologies, for example, Terraform and Ansible</li><li>Management and automation experience of real-world platforms/applications on AWS</li><li>Experience working with Azure is desirable</li><li>Continuous integration - building continuous delivery pipelines</li><li>Experience working with containers and container orchestration must include Kubernetes</li><li>Security awareness throughout the stack</li><li>Data storage experience with RDBMS and NoSQL technologies</li></ul><p><strong>What will you get?</strong></p><ul><li>Work/Life balance: we have a genuine dedication to work/life balance.</li><li>Family-friendly: we understand how important family is, so our flexible environment allows you to work around what matters - school run, no problem!</li><li>The Wellness Hub: we offer resources and support and have a genuine commitment to fostering/improving nearFormer’s wellbeing.</li><li>Knowledge perks: explore new hobbies, brush up on life skills or simply learn something new, there is something there for everyone.</li><li>NearFest: we all get together in person at our annual company retreat</li></ul><p><strong>Why do you want to join the team?</strong></p><p>We adopt a person-first approach to hiring. That means we hire the best people – it’s as simple as that. Our lucky HR team gets to pick the cream of the crop from around the world and has brought together a collection of dynamic and talented individuals we like to call ‘NearFormers’.</p><p>Although we are widely dispersed, NearFormers are a tightly-knit team. We trust one another and care about our colleagues. Building on our open-source origins, we promote the sharing of thoughts, knowledge and ideas.</p><p>NearForm is committed to shaping a better world in all that we do. Our global team is built based on respect, inclusivity, diversity and excellence.</p>                </div>            <div>        <a href='http://nearform.breezy.hr/p/353492590e7001-senior-devops-engineer-europe--remote--permanent?source=StackOverflow' rel='nofollow'>                        Apply now        </a></div>            <h4>About NearForm</h4>            <div><p>At nearForm we work with international clients who are industry leaders in their respective fields. Our role is to help them build solutions and platforms; help them to launch new product ventures and fundamentally change how they operate.</p><p>We have been developing complex solutions for global organisations since 2011. Our team of more than 120 exceptional people, distributed throughout the world, build better software faster.</p><p>From high intensity digital transformations, to delivering fullstack cloud-native web applications, our pragmatic agile approach is not just proven but is constantly evolving.</p><p>By delivering world-class design coupled with world-class development, we have fundamentally changed customers' expectations of what's possible.</p><p>We work in&nbsp;highly skilled multidisciplinary teams; typically consisting of designers, front-end and back-end experts, a delivery architect, devops engineers, and also members of the client team. This mix follows a modern agile development methodology where we run 2 week sprints with a defined backlog, daily standups, weekly demos, sprint planning and sprint retros; all with as little ceremony as necessary.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Best People: we hire the best people from all over the world</span>                            </li>                            <li>                                <span></span>                                <span>Open Source: we aim to make significant contributions to Open Source</span>                            </li>                            <li>                                <span></span>                                <span>Work/Life Balance: we have a genuine commitment to work-life balance</span>                            </li>                            <li>                                <span></span>                                <span>Flexible: we support  a schedule that fits your style</span>                            </li>                            <li>                                <span></span>                                <span>Family-Friendly: we offer parental and maternity leave, flexible hours</span>                            </li>                            <li>                                <span></span>                                <span>Location: join us at HQ and go for a surf at lunch time</span>                            </li>                            <li>                                <span></span>                                <span>Work Remotely: you don't have to be at HQ, work wherever suits you</span>                            </li>                            <li>                                <span></span>                                <span>The Wellness Hub: we offer resources and support for your wellbeing</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "1UWM-WIsST203Xkp1AFQ1w",
+    "url": "https://jobmote.com/job/52866/aws-devops-engineer-remote/",
+    "title": "Aws DevOps Engineer REMOTE",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=5, c=10, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "Jefferson Frank",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 28, 2019 10:07:25 PM",
+    "validThrough": "Jul 31, 2019 10:07:25 PM",
+    "crawled": "Jul 29, 2019 3:06:25 AM",
+    "content": "<div><b>AWS DevOps Engineer</b>-<b> REMOTE</b><br><br><b>Job description:</b><br><br>We are looking for an AWS Software Engineer. We are looking for a motivated individual with strong analytical skills to lead AWS programming.<br><br><b>Benefits: </b><ul><li>$401k with company match.</li><li>Company provided pension plan</li><li>Family medical and dental care coverage</li><li>Generous vacation and paid holidays.</li><li>Sick Days.</li><li>NO TRAVEL</li></ul><b>Job responsibilities:</b><ul><li>Continually improve DevOps processes and procedures.</li><li>Develop and maintain Continuous Integration/Continuous Delivery systems.</li><li>Deploy automation solutions in a public cloud environment such as AWS.</li><li>Participate in ongoing design, implementation, and maintenance of systems and tools across our cloud stack.</li><li>Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li></ul><b>Requirements:</b><ul><li>Strong knowledge on AWS.</li><li>Strong verbal and written communication skills.</li><li>Strong analytic and problem-solving skills.</li></ul>For all inquiries about this position, please contact Christopher Gyedu at<b> (646)-4</b> or <b> [Click Here to Email Your Resum?] </b><b><br></b><br> Jefferson Frank is a leader in Niche IT Recruitment with a focus on AWS cloud technologies. We deal with AWS partners &amp; End Users throughout North America. We have open positions and relationships with some of the top partners and end users throughout the US and offer some excellent opportunities in the AWS space.<br><br>I understand the need for discretion and would welcome the opportunity to speak to any AWS candidates considering a new career or job either now, or in the future. Confidentiality is of the utmost importance. For more information on available AWS jobs, as well as the AWS market, I can be contacted at <b> [Click Here to Email Your Resum?] </b><b>. </b>Please see <b> </b> for more information.<br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "1DgCe3BsS5Cfa4YPXZqGyQ",
+    "url": "https://jobmote.com/job/52857/senior-aws-devops-engineer-remote/",
+    "title": "Senior AWS DevOps Engineer - Remote",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=4, other=6, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "MDI Group",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 28, 2019 10:07:25 PM",
+    "validThrough": "Jul 31, 2019 10:07:25 PM",
+    "crawled": "Jul 29, 2019 3:06:25 AM",
+    "content": "<div><b>Senior AWS DevOps Engineer (Terraform)<br> 100% Remote<br> Contract to Hire</b><br><b>What Will You Be Doing:</b><br><ul><li>Develop CI/CD processes for new projects as assigned</li> <li>Design and implement IaaS using a vendor-support Openstack distribution</li> <li>Use Terraform to deploy Infrastructure-as-Code. (Must have in depth knowledge)</li> <li>Create and deploy Docker containers using Kubernetes orchestration</li> <li>Utilize Configuration Management tools to maintain large, dynamic server environments (Puppet, Chef, Ansible, or Salt)</li> </ul><b>Must Haves:</b><br><ul><li>5+ Yrs. AWS - Experience with IaaS and PaaS across AWS (required) ?</li> <li>5+yrs. Dev Ops Experience</li> <li>In-depth Terraform coding?experience</li> <li>AWS: S3, EC2, VPC, Lambda, Elastic beanstalk, Route 53?</li> <li>CI/CD Tools: Jenkins, Git?</li> <li>CM Tools: Ansible, Terraform (</li> <li>Container Tools: EC2, Kubernetes, Docker</li> <li>Scripting languages: Python, Bash Monitoring and logging experience</li> </ul><b>Preferred:</b><br><ul><li>Be extremely comfortable using git for all scripts, configurations, and application code</li> <li>Development and maintenance of scripts in Python, Ruby, or Perl</li> <li>Deploy multiple environments through automated processes</li> <li>Build instrumentation and metrics for monitoring and alerting systems</li> </ul> Excellent opportunity with a global company! Reach out today for details about this role!<br><b>Contact:<br> Kaci Railey<br> [Click Here to Email Your Resum?] </b><br><br><b>***Position not eligible for Corp-to-Corp / C2C***<br> ***Sponsorship not offered***</b><br><br>Terraform</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "1spKoKPgSYyCb7UVrC8e3Q",
+    "url": "https://jobmote.com/job/52852/aws-devops-automation-engineer-remote/",
+    "title": "AWS DevOps Automation Engineer- Remote",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``can 2W remot",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c#/c/4",
+      "DBG_TECH1:k/t/w:c#/dotnet/10",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:windows/dotnet/16",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=26, c=4, mobile=2, go=3, nodejs=0, bigdata-ml=0, ruby=4, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Jefferson Frank",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 28, 2019 10:07:25 PM",
+    "validThrough": "Jul 31, 2019 10:07:25 PM",
+    "crawled": "Jul 29, 2019 3:06:25 AM",
+    "content": "<div><b> AWS DevOps Automation Engineer- Remote- $120,000-$140,000 </b><br> We are looking for top performers in software development and systems operations with AWS DevOps to go above and beyond, those who are hungry to expand their knowledge and contribute to new ideas pertaining to engineering autonomy. Our AWS premier consulting company assists enterprises with finding the services they need to develop fundamentally secure services for faster and more consistent software and infrastructure deployments. Our goal is to provide our customers with the flexibility to be in charge of their own software to increase product functionality.<br><br><b>WHY WORK FOR US? BECAUSE WITH US YOU CAN:</b><ul><li> Work remote </li><li> Receive unlimited PTO </li><li> Flexible schedules </li><li> Continuous learning opportunities </li><li> Become a part of a large distributed remote team</li></ul><b>WORK LIFE BALANCE</b><br> We understand the importance of a work-life balance, which is why we allow our employees to work anywhere with available internet connection. Outside of any core working hours, you could be working from home, the beach, outer space or a co-working space. We value your career goals, as well as our customer's goals, and are happy to allow employees an unlimited amount of PTO. Employees are part of a large distributed remote team. In order to insure you'll never feel alone, we provide employees the tools to stay in touch and collaborate with colleagues, whether that's through simple meetings or a pair programming exercise.<br><br><b>ROLES &amp; RESPONSIBILITIES</b><ul><li> Employ industry leading Continuous Delivery patterns and collaboratively work with other members to execute them to achieve successful continuous delivery solutions. </li><li> Collaboratively work with Senior DevOps Automation Engineers </li><li> You are required to travel to client locations and deliver DevOps consulting services when<br> needed </li><li> AWS certified preferred but not required </li></ul><b>REQUIREMENTS</b><ul><li> 2-5+ years of technical experience in either development, operations, or full-stack implementations </li><li> At least 1-2 years of demonstrated programming capability in a high-level programming language such as Ruby, Python, Java, C# or other language Flexible schedules </li><li> 0-2 years successful customer engagements providing continuous delivery solutions, preferably employing AWS </li><li> 0-2 years of demonstrated Linux or Windows command-line capability </li><li> Familiar with core suite of AWS Services related to DevOps, with particular depth in those that are heavily used when providing DevOps Automation solutions, including the Management and Deployment services such as AWS CloudFormation, OpsWorks and IAM </li><li> Experience establishing and employing Continuous Integration practices and tools such as Jenkins or other CI tools </li><li> Frequent and comfortable use of configuration management automation tools such as Chef (or other such tools) in creating continuous delivery systems </li><li> AWS Certified Associate (Solutions Architect, Sys Ops, Developer). If you do not already have one or more AWS certifications, we focus on achieving that during your first 100 days on the job. </li></ul>For all inquiries about this position, please contact Kayla Lozano at or [Click Here to Email Your Resum?]<br><br>Jefferson Frank is a leader in Niche IT Recruitment with a focus on AWS cloud technologies. We deal with AWS partners &amp; End Users throughout North America. We have open positions and relationships with some of the top partners and end users throughout the US and offer some excellent opportunities in the AWS space.<br><br>I understand the need for discretion and would welcome the opportunity to speak to any AWS candidates considering a new career or job either now, or in the future. Confidentiality is of the utmost importance. For more information on available AWS jobs, as well as the AWS market, I can be contacted at [Click Here to Email Your Resum?] . Please see for more information.<br>2-5+ years of technical experience in either development, operations, or full-stack implementations<br>At least 1-2 years of demonstrated programming capability in a high-level programming language such as Ruby, Python, Java, C# or other language Flexible schedules<br>0-2 years successful customer engagements providing continuous delivery solutions, preferably employing AWS<br>0-2 years of demonstrated Linux or Windows command-line capability<br>Familiar with core suite of AWS Services related to DevOps, with particular depth in those that are heavily used when providing DevOps Automation solutions, including the Management and Deployment services such as AWS CloudFormation, OpsWorks and IAM<br>Experience establishing and employing Continuous Integration practices and tools such as Jenkins or other CI tools<br>Frequent and comfortable use of configuration management automation tools such as Chef (or other such tools) in creating continuous delivery systems<br>AWS Certified Associate Preferred (Solutions Architect, Sys Ops, Developer)</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "xCJoaygIQtKZ4vefHKRzug",
+    "url": "https://jobmote.com/job/52849/azure-cloud-engineer-135-000-remote-flex/",
+    "title": "Azure Cloud Engineer - $135,000 - Remote flex",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=21, c=2, mobile=2, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Nigel Frank International US",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 28, 2019 10:07:25 PM",
+    "validThrough": "Jul 31, 2019 10:07:25 PM",
+    "crawled": "Jul 29, 2019 3:06:25 AM",
+    "content": "<div>Azure Cloud Engineer - $135,000 - Remote-flex<br> Come work for the fastest growing Microsoft Gold partner in Austin! You would be working with the most cutting edge technology to enhance their Azure platform. They are expanding rapidly and need you to become a vital member to their software development team. This is an exciting time to jump in with a modern company that is focused on remote work, exciting projects, and a chance to learn and develop your skill set. New learning opportunities would be provided, as well as certifications paid for.<br><em>What would your day-to-day look like?</em><br><em>On a daily basis, you would be?</em><ul><li>Leveraging your background in the Azure Cloud platform; this includes working with applications, microservices, APIs, and software development</li><li>Collaborating with a team of developers and senior leaders to put the Azure platform in place and develop out new software</li><li>Working on application deployments, automation, and building out the Azure platform in general</li><li>Keeping on top of the latest technology trends and Azure evolutions, to drive innovation within companies you work with</li></ul> This company has a lot of benefits of working for them, including:<ul><li>Remote flex work</li><li>Unlimited PTO</li><li>Pet friendly office</li><li>Snacks galore!</li><li>Great 401(k) matching</li><li>Friday morning breakfasts</li><li>Great benefits (healthcare, dental, life, vision, pet)</li><li>Gym membership reimbursement program</li><li>Tuition reimbursement program</li></ul> Some of the skills they are looking for include:<ul><li>2 years of Azure experience</li><li>You have worked with containers (Docker, Kubernetes)</li><li>Azure PaaS experience - API apps, applications, API management, Restful API, microservices, web apps, etc.</li><li>Familiarity with scripting languages (.NET, C#, Java, Python, Powershell)</li><li>Leadership and communication skills</li></ul> In order to fast-track your opportunity, please reach out to me ASAP to talk more about this role! The company is looking to fill the position soon and it will not be on the market long.<em> Please note, this is a permanent role. Candidates for this position must be either US citizens or Green Card holders; <b>Visa sponsorship is not provided. </b></em>My contact information can be found below.<br> Name: Abby Box<br> Phone number: <br> Email: [Click Here to Email Your Resum?] <br> LinkedIn: <br><br>Azure, Cloud, API, containers, Docker, Kubernetes, applications, microservices, python, .NET, java</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Z-AkU5SKQUGQYiHtDtmAdw",
+    "url": "https://jobmote.com/job/52845/senior-devops-engineer-remote/",
+    "title": "Senior DevOps Engineer - Remote",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=4, other=6, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "MDI Group",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 28, 2019 10:07:25 PM",
+    "validThrough": "Jul 31, 2019 10:07:25 PM",
+    "crawled": "Jul 29, 2019 3:06:25 AM",
+    "content": "<div><b>Senior AWS DevOps Engineer (Terraform)<br> 100% Remote</b><br> Contract (6 months) with desired goal of contract-to-hire<br> MDI Group, a national leader in IT Consulting Services, has an excellent opportunity in DevOps for seasoned engineer.? In this role, you will be working on a large migration to the cloud (AWS) and using current tools / technologies for automation of the task.? We are seeking talent with top-shelf experience, having been through the trials and fire of large enterprise migration challenges ability to improve and execute the move to the cloud.<br> ?<br><b>What Will You Be Doing:</b><br><ul><li>Design and implement IaaS using a vendor-supported Openstack distribution</li> <li>Reviewing and improving ?CI/CD processes?</li> <li>Use Terraform to deploy Infrastructure-as-Code. (Must have in depth knowledge)</li> <li>Create and deploy Docker containers using Kubernetes orchestration</li> <li>Utilize Configuration Management tools to maintain large, dynamic server environments (Puppet, Chef, Ansible, or Salt)</li> </ul><b>Must Haves:</b><br><ul><li>5+ Yrs. AWS - Experience with IaaS and PaaS?</li> <li>5+yrs. Dev Ops Experience</li> <li>Indepth, hands on Terraform experience (Coding experience. Far more then running an existing script)</li> <li>AWS: S3, EC2, VPC, Lambda, Elastic beanstalk, Route 53?</li> <li>CI/CD Tools: Jenkins, Git?</li> <li>CM Tools: Ansible, Terraform (Must have coding knowledge and hands on in depth knowledge)</li> <li>Container Tools: EC2, Kubernetes, Docker</li> <li>Scripting languages: Python, Bash Monitoring and logging experience</li> </ul><b>Preferred:</b><br><ul><li>Be extremely comfortable using git for all scripts, configurations, and application code</li> <li>Development and maintenance of scripts in Python, Ruby, or Perl</li> <li>Build instrumentation and metrics for monitoring and alerting systems</li> </ul> Reach out to MDI Group today to learn more details about this opportunity.<br> Contact:<br><b>Kaci Railey<br> [Click Here to Email Your Resum?] </b><br><br>MDI Group offers a full suite of benefits that includes health insurance, dental, 401K and paid sick leave.? We have been voted in the top 2% of all It Consulting firms for 5 years consecutively.? We look forward to helping you connect with you next career move!<br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "pzvGjYL1R-qXeYsIzMhenQ",
+    "url": "https://jobmote.com/job/52824/devops-engineer-100-remote/",
+    "title": "DevOps Engineer *100% Remote*",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Jefferson Frank",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 28, 2019 10:07:24 PM",
+    "validThrough": "Jul 31, 2019 10:07:24 PM",
+    "crawled": "Jul 29, 2019 3:06:25 AM",
+    "content": "<div>DevOps Engnieer <br><b>100% Remote</b><br> $80/hr <br> 6+ Months<br><br><b>Job Description:</b><ul><li>Expert level proficiency in Kubernetes at scale, microservices architecture and service meshes</li><li>Experiences with containerization technologies like docker, ECS, EKS</li><li>Experience implementing state of the art monitoring and alerting for microservices in kubernetes with grafana/Prometheus</li><li>Experience in automating Ops tasks using Puppet, Packer and Terraform</li><li>Experience with CI/CD tools suite (Jenkins, Bamboo, Gitlab, Spinnaker, Harness, CircleCI,..)</li><li>Ability to thrive in a startup/fast-paced environment</li><li>Core Technologies: Kubernetes, ELK, Prometheus, Datadog, Postgres RDS, Redis, Puppet, Terraform, Scala, SBT, CI/CD (Jenkins, Bamboo, Gitlab) and various AWS services such as EC2, RDS, EMR, ECS, Redshift, etc</li></ul>Jefferson Frank International is the global leader for Amazon Web Services recruitment, advertising more AWS jobs than any other agency. We deal with both AWS Partners &amp; End Users throughout North America. By specializing solely in placing candidates in the AWS and market I have built relationships with most of the key employers in North America and have an unrivalled understanding of where the best opportunities and AWS jobs are.<br> I understand the need for discretion and would welcome the opportunity to speak to any Amazon Web Services candidates that are considering a new career or job either now or in the future. Confidentiality is of course guaranteed. For information on the AWS market and some of the opportunities and AWS jobs that are available I can be contacted at: [Click Here to Email Your Resum?] and . Please see for more fantastic Amazon Web Services opportunities!<br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "GvgFgYoGQ36unziAMSG0AA",
+    "url": "https://jobmote.com/job/52862/remote-devops-engineer-aws/",
+    "title": "Remote DevOps Engineer - AWS",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Nigel Frank International",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 28, 2019 10:07:25 PM",
+    "validThrough": "Jul 31, 2019 10:07:25 PM",
+    "crawled": "Jul 29, 2019 3:06:25 AM",
+    "content": "<div><b>DevOps Engineer - AWS </b><br> One of our largest clients in the United States is looking for passionate DevOps engineers who aren't afraid to take on challenging projects on the cutting edge of the technology industry. Candidates who actively seek additional responsibilities and live to work on innovative systems will thrive in this exciting new position.<br><b>The Role </b><br> As a DevOps engineer, you will be heavily involved in projects throughout their entire development life-cycle. The environment is fast paced so confidence in your own coding ability, product knowledge and decision making skills will be essential in order to make sure you can keep up with the rest of the team.<br> Successful candidates will have great interpersonal skills. Many of our projects rely heavily on the cohesiveness of different teams working together so poorly communicated decisions will result in a negative impact on everyone. <br><b>Essential Experience/Skills </b><ul><li>Extensive experience in the design and implementation of software systems using the AWS cloud platform</li><li>Experience scripting using languages such as JavaScript/PowerShell/Python</li><li>Extensive knowledge of cloud infrastructure using the AWS platform</li><li>Virtualisation</li><li>Great interpersonal skills</li><li>Great written communication skills</li><li>A proactive approach towards tackling complex technological challenges</li></ul><b>Perks/Bonuses </b><ul><li>Flexible working hours</li><li>Medical/Dental coverage</li><li>Remote working options</li><li>A data plan for remote working</li></ul> Start your journey towards a better career path with the Frank Recruitment Group. If you're interested in this position or simply want a chat about the market, get in touch via email at [Click Here to Email Your Resum?] or call me on <b>+1 </b>.<br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "wWTdWTA_QcWmdqoW1zJUBQ",
     "url": "https://jobmote.com/job/52683/senior-technology-leadership-professional-automation-anywhere-remote/",
     "title": "Senior Technology Leadership Professional Automation Anywhere (remote",
@@ -17097,153 +17878,6 @@
     "validThrough": "Jun 6, 2019 11:06:57 AM",
     "crawled": "May 30, 2019 12:06:32 PM",
     "content": "<h3> Site Reliability Engineer (SRE) </h3>\n<div>\n <div>\n  If you are an SRE and you want to move forward your professional career in an international and dynamic environment, this job is for you!\n </div>\n <div>\n  <br>\n </div>\n <div>\n  You will be joining our SRE team to focus on site reliability of our Finance and Foreign Exchange platform, especially looking to further decouple our application deploy and infrastructure. We are mainly in AWS, and we are actively migrating to ECS and Kubernetes.\n </div>\n <div>\n  <br>\n </div>\n <div>\n  REQUIREMENTS\n </div>\n <ul>\n  <li>Have managed production infrastructure sites for front and back-end services</li>\n  <li>Good knowledge of Linux internals and administration</li>\n  <li>Experience in systems software development (go, python, bash, ... )</li>\n  <li>Deep knowledge of infrastructure as code principles, knowledge of Terraform would be a plus.</li>\n  <li>Deep experience with AWS (Cloud Computing: Ec2, S3, RDS, VPC, Security Groups, ELB, ElastiCache, Beanstalk, Redshift, ...)</li>\n  <li>knowledge with SQL and NoSQL database administration</li>\n  <li>Able to define actionable monitoring and alerting for systems</li>\n  <li>On-call experience dealing with production incident management and resolution</li>\n </ul>\n <div>\n  <br>\n </div>\n <div>\n  WHY WORKING WITH US?\n </div>\n <ul>\n  <li>Great professional opportunity in a company with the development of over 100% in the last five years and in a continuing innovative environment</li>\n  <li>Work with a distributed and international team experience professionals</li>\n  <li>To participate in one of the most disruptive technological sectors</li>\n  <li>We offer competitive conditions as well as the possibility to keep growing thanks to continuous reviews and career plan</li>\n </ul>\n <div>\n  <br>\n </div>\n <div>\n  We are looking forward to meeting you!\n </div>\n</div>\n<div></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "uOR_juPcQqyZ8rGY2OoTJQ",
-    "url": "https://remote.co/job/senior-devops-engineer-10/",
-    "title": "Senior DevOps Engineer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:swift/apple/5",
-      "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=5, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/mobile",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "mobile"
-    ],
-    "hiringOrganization": {
-      "name": "pMD",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "May 29, 2019 5:39:54 PM",
-    "validThrough": "Jun 5, 2019 5:39:54 PM",
-    "crawled": "May 29, 2019 6:26:14 PM",
-    "content": "<h3>Senior DevOps Engineer at <span>pMD</span></h3>\n<div>\n <span><i></i> Remote</span> \n</div>\n<div> \n <p><strong>SAN FRANCISCO OR REMOTE</strong></p>\n <p><strong>SOFTWARE ENGINEERING</strong></p>\n <p><strong>FULL-TIME</strong></p>\n <p>The medical software industry is experiencing a revolution, and pMD is looking for a Senior DevOps Engineer who has the talent and drive to change it forever. You’ll have a huge impact on health care in America by using cutting-edge technology to change the way that physicians practice medicine.</p>\n <p>Your engineering work will focus on using your deep knowledge of the web stack – including firewalls, web applications, caches and data stores – to create innovative infrastructure architectures that are resilient, scalable, and blazingly fast. You will bring best practices for automating the provisioning and patching of servers, replicating and versioning configuration changes, monitoring and alerting, deploying application and data store updates, and high availability / disaster recovery. You have a vision for how a best-in-the-world web application stack should run, and you’re excited to execute on that vision.</p>\n <p>An engineer’s career at pMD is nothing like the stereotype of a programmer. In addition to brilliant technical work, it involves high-level decision making and an understanding of the business. Our team is small and collaborative, so you’ll experience rapid career growth through real mentorship. You’ll be a name (or a nickname) on the team and at social events, rather than Engineer #300.</p>\n <p>At pMD you’ll wear many hats, have a lot of responsibility, and be part of a fun, smart, and creative team. We’re profitable, have extremely happy customers, and make up a team of people as talented and passionate as you are. We love what we do and care about doing good in the world. We strive to work like a beautifully engineered German car: fast, efficient, and fun.</p>\n <p><strong>You:</strong></p>\n <ul>\n  <li><strong>bring at least three years of focused, impactful experience with DevOps and web applications … plus a lifetime of curiosity</strong></li>\n  <li>work hard to find and fix performance and availability problems long before they impact any users</li>\n  <li>sleep better at night when system configurations are well-documented, or better yet, self-documenting</li>\n  <li><strong>have worked with both bare metal servers and cloud computing services such as AWS</strong></li>\n  <li>are no stranger to configuration and monitoring tools such as Puppet, Chef, Jenkins, Splunk, NewRelic, etc.</li>\n  <li>can figure out how to make data stores and caches such as MySQL, Redis, and Swift scalable and disaster resistant</li>\n  <li>keep your finger on the pulse of emerging technologies and proactively bring new ideas to the team</li>\n  <li>want to grow your career quickly and develop your leadership skills</li>\n  <li>enjoy the challenge of executing multiple high-priority projects simultaneously</li>\n  <li>feel equally at home building a continuous integration server and in a business strategy meeting</li>\n </ul>\n <p><strong>We:</strong></p>\n <ul>\n  <li>are a small, driven team passionate about making a difference</li>\n  <li>have a track record of success as a fast-growing private company. We’ve made the Inc. 5000 fastest growing company list for seven consecutive years, and in 2018 we made the SF Business Times Fast 100 fastest growing company list as well</li>\n  <li>inhabit a beautiful building on San Francisco’s north waterfront</li>\n  <li>love our work! Our employees rated us 5/5 on Glassdoor and we received “Best Place to Work” awards from SF Business Times, Modern Healthcare and Inc. Magazine</li>\n  <li>love our customers – and they love us! We have roughly 1,000 glowing reviews on our website</li>\n  <li>provide fun perks like happy hours, a dog-friendly environment and daily catered lunches</li>\n </ul>\n <p>At pMD you can grow as quickly as you want to. Plus, you’ll be able to see the impact of your work immediately, and you’ll hear from our users how your efforts have improved their lives.</p> \n</div>\n<div> \n <a href='https://jobs.lever.co/pmdsoft/2419c32e-9e3f-4826-9d18-a91ee877465f' rel='nofollow'>Apply for job</a> \n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "3ksFl2ULSk61I-KBKZtdqA",
-    "url": "https://stackoverflow.com/jobs/271048/senior-systems-administrator-washington-dc-us-wallethub?a=1sTRNCZjU8NO",
-    "title": "Senior Systems Administrator (Washington D.C., US) at Wallethub  ",
-    "tags": [
-      "DBG:surround``OR(no,no W central) W offic",
-      "DBG:surround``posit 3W perform 2W remot",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:lamp/php/13",
-      "DBG_TECH1:k/t/w:perl/other/5",
-      "DBG_TECH1:k/t/w:shell/other/4",
-      "DBG_TECH1:k/t/w:tomcat/java/24",
-      "DBG_TECH1:techWeightMap:{python=0, other=9, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=26, gamedev=0, php=13, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Wallethub",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "May 29, 2019 1:06:34 PM",
-    "validThrough": "Jun 5, 2019 1:06:34 PM",
-    "crawled": "May 29, 2019 1:06:34 PM",
-    "content": "<h3><span>Senior Systems Administrator (Washington D.C., US)</span> </h3> \n<h4>About this job</h4> \n<div> \n <div> \n  <div> \n   <span>Job type: </span> \n   <span>Full-time</span> \n  </div> \n  <div> \n   <span>Experience level: </span> \n   <span>Mid-Level, Senior</span> \n  </div> \n  <div> \n   <span>Role: </span> \n   <span>System Administrator</span> \n  </div> \n </div> \n <div> \n  <div> \n   <span>Industry: </span> \n   <span>Personal Finance</span> \n  </div> \n  <div> \n   <span>Company size: </span> \n   <span>51-200 people</span> \n  </div> \n  <div> \n   <span>Company type: </span> \n   <span>Private</span> \n  </div> \n </div> \n</div> \n<div> \n <h4>Reactions to this job</h4> \n <div> \n  <div> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n  </div> \n </div> \n <div> \n  <div> \n   <div> \n    <div></div> \n   </div> \n   <div> \n    <strong>New!</strong> How do you feel about this job listing? \n   </div> \n   <div> \n   </div> \n  </div> \n </div> \n <div></div>\n</div>\n<div>\n Company: Wallethub | No office location\n <br>\n</div>\n<h4>Technologies</h4>\n<div></div>\n<div>\n linux\n</div>\n<div>\n unix\n</div>\n<div>\n aws\n</div>\n<div>\n tomcat\n</div>\n<div>\n apache\n</div> \n<h4>Job description</h4> \n<div>\n <p><strong>Company details</strong></p>\n <p>WalletHub is one of the leading personal finance destinations in the US and rapidly growing. We’re looking for a highly skilled and motivated Senior Systems Administrator for a full-time, permanent position.</p>\n <p><strong>Requirements</strong></p>\n <p>You are the ideal candidate for this job if you have:</p>\n <ul>\n  <li>At least 5 years of experience in supporting AWS based production infrastructure.</li>\n  <li>Bachelor's or Master’s degree in Computer Science or equivalent work experience.</li>\n  <li>3+ years of experience administering UNIX/Linux server required or equivalent work experience.</li>\n  <li>3+ years of experience with Apache, Tomcat and any other Java application servers and relational database servers like MySQL (LAMP experience is highly preferred).</li>\n  <li>Experience with monitoring tools like Nagios, tripwire, aide etc and other custom monitoring tools.</li>\n  <li>Experience with configuring and securing mission critical production servers.</li>\n  <li>Experience with configuring load balancers and data.</li>\n  <li>Experience in Shell Scripting or Perl, with experience implementing automation and monitoring using shell scripting.</li>\n  <li>Experience in analysis and system performance tuning.</li>\n  <li>Critical thinking skills in a complex IT environment to analyze, troubleshoot, and resolve problems without direction.</li>\n  <li>Outstanding organizational skills and the ability to handle multiple projects simultaneously while meeting deadlines.</li>\n  <li>Excellent verbal and written communication skills.</li>\n  <li>Willingness to work hard (50 hrs per week).</li>\n </ul>\n <p><strong>Responsibilities</strong></p>\n <ul>\n  <li>Ensure proper security, monitoring, alerting and reporting for the infrastructure and be the on-call for production servers.</li>\n  <li>Develop security monitoring and other tools to ensure the integrity and availability of our applications, server resources, reviewing system and application logs.</li>\n  <li>Work with the incident team to diagnose and recover from hardware or software failures working with or as the Incident Commander to coordinate and communicate with our internal customers.</li>\n  <li>Assist project teams with technical issues during development efforts.</li>\n  <li>Gather system requirements and support several project teams in evolving, testing and rolling-out new products and services, then transitioning the site or product to post launch operations activities throughout life of the product or service.</li>\n  <li>Work with the application development team and other systems engineers to make improvements to current infrastructure.</li>\n  <li>Document processes and procedures and follow a formal change management procedure.</li>\n </ul>\n <p><strong>Our Offer</strong></p>\n <ul>\n  <li>Very competitive salary based on prior experience and qualifications</li>\n  <li>Potential for stock options after the first year</li>\n  <li>Raise and advancement opportunities based on periodic evaluations</li>\n  <li>Health benefits (in case you will be working from our office in Washington DC)</li>\n  <li>Visa sponsorship</li>\n </ul>\n <p><strong>Note</strong>: This position requires candidates to be living in the US. The position can be performed remotely if you don't live in the Washington DC area.</p>\n <p><strong>More about WalletHub</strong></p>\n <p>WalletHub is a high-growth fintech company based in Washington, DC that is looking for talented, hard-working individuals to help us reshape personal finance. More specifically, we are harnessing the power of data analytics and artificial intelligence to build the brain of a smart financial advisor, whose services we’re offering to everyone for free. The WalletHub brain enables users to make better financial decisions in a fraction of the time with three unique features:</p>\n <p>1) Customized Credit-Improvement Tips: WalletHub identifies improvement opportunities and guides you through the necessary corrections.</p>\n <p>2) Personalized Money-Saving Advice: WalletHub’s savings brain constantly scours the market for load-lightening opportunities, bringing you only the best deals.</p>\n <p>3) Wallet Surveillance: Personal finance isn’t as scary with 24/7 credit monitoring providing backup, notifying you of important credit-report changes.</p>\n <p>In addition to the valuable intelligence the brain provides, WalletHub is the first and only service to offer free credit scores and full credit reports that are updated on a daily basis absent of user interaction, rather than weekly or monthly and only when a user logs in. Some other services hang their hats on free credit scores and reports, yet they’re still inferior to what WalletHub considers minor pieces to a much larger puzzle.</p>\n <p><strong>How to Apply</strong></p>\n <p>To get our attention, all you need to do is send us a resume. If we believe that you will be a good match, we'll contact you to arrange the next steps. You can apply directly on Stackoverflow or email your application to <a href='mailto:jobs.dev@wallethub.com' rel='nofollow'>jobs.dev@wallethub.com</a></p> \n</div> \n<div> \n <a href='https://stackoverflow.com/jobs/apply/271048?reset=False&amp;ra=1sTRNCZjU8NO&amp;oqs=a%3D1sTRNCZjU8NO' rel='nofollow'>Apply now</a>\n</div> \n<h4>About Wallethub</h4> \n<div>\n <p>WalletHub helps all consumers reach top financial fitness by providing:<br><br>• Free credit scores and credit reports that are updated on a daily basis.<br><br>• Free 24/7 credit monitoring and personalized advice that will help you improve your credit and save money. <br><br>• More reviews on financial products, professionals and companies than any other website.<br><br>• An extensive education center coupled with the ability to ask financial experts your money-related questions for free .</p> \n</div> \n<h4>Benefits</h4> \n<ul> \n <li> <span></span> <span>Stock options</span> </li> \n <li> <span></span> <span>Health benefits</span> </li> \n <li> <span></span> <span>Work visa sponsorship</span> </li> \n <li> <span></span> <span>Competitive salary</span> </li> \n <li> <span></span> <span>Work from home</span> </li> \n</ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "7JH7D8uLT4mnVGgx6EpF5Q",
-    "url": "https://www.remoteage.com/remote-jobs/devops-engineer-mclean-va/",
-    "title": "DevOps Engineer – McLean, VA",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Jefferson Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "May 29, 2019 2:08:23 AM",
-    "validThrough": "Jun 5, 2019 2:08:23 AM",
-    "crawled": "May 29, 2019 2:08:33 AM",
-    "content": "<h3> DevOps Engineer – McLean, VA </h3>\n<div>\n United States, Virginia\n</div>\n<div>\n Company: Jefferson Frank\n <p></p>\n</div>\n<div> \n <h4>Overview</h4> \n <p>DevOps Engineer – McLean, VA<br> Security operations client is seeking DevOps Engineer to take over the DevOps role on a small team. You will need to have DevOps experience to be able to hit the ground running. You will be working closely with CEO and lead developer.<br> Job Description:</p>\n <ul>\n  <li>Strong candidate needed that is able to speed up execution and facilitate need to scale</li>\n  <li>SaaS platform that manages companies security</li>\n  <li>Manage client cloud base security services</li>\n </ul>\n <p> Necessary Requirements:</p>\n <ul>\n  <li>AWS cloud experience as well as being able to deploy in Azure or GCP</li>\n  <li>CI/CD pipeline – use Jenkins to automate, build, new instance at push of a button</li>\n  <li>Containerization – Docker experience(Docker Swarm)</li>\n </ul>\n <p> Why You Should Work Here:</p>\n <ul>\n  <li>Competitive Compensation 90-120k, medical, 401, PTO, HAS contribution</li>\n  <li>Small, fast-paced, technically skilled team</li>\n  <li>Ability to eventually become a remote position</li>\n </ul>\n <p> If you or someone you know is interested in this role, please contact Dan Carlson immediately at [Click Here to Email Your Resum?] with your most recent resume.<br> Jefferson Frank is the global leader for Amazon Web Services recruitment, advertising more AWS and DevOps jobs than any other agency. We deal with both AWS Partner &amp; End Users throughout North America. By specializing solely in placing candidates in the AWS and DevOps market I have built relationship[s with most of the key employers in North America and have an unrivalled understanding of where the best opportunities and AWS/ DevOps jobs are. I understand the need for discretion and would welcome the opportunity to speak to any AWS candidates that are considering a new career or job either now or in the future. Confidentiality is of course guaranteed. Please see for more fantastic AWS opportunities!<br></p> \n <div> \n  <a href='https://www.jobg8.com/Traffic.aspx?uyQWr2Nq%2fQOghj9dcNX%2bKQc' rel='nofollow'>Apply for job</a> \n </div> \n</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
