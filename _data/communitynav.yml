@@ -1,0 +1,171 @@
+- title: Most Recent
+  tagline:
+  url:
+  row: 1
+  col: 1
+  subnodes:
+
+    - type: article
+      title: "How a 100% Remote Organization is Leveraging Holacracy to Scale."
+      tagline: "Convert’s journey to self-management"
+      tags:
+        - "#companies-management"
+        - "#analytics"
+    - type: article
+      title: "Are you able to work remotely?"
+      tagline: "How ALICE select the candidates who can work remotely"
+      subnodes:
+      tags:
+        - "#companies-hiring"
+
+
+
+- title: Real stories from REAL people
+  tagline: The world from the remote worker point of view
+  url:
+  row: 1
+  col: 2
+  subnodes:
+
+  - title: "Office ⇨ Remote"
+    tagline: "Remote workers: describe your transition to remote"
+    url:
+    subnodes:
+
+  - title: Jobsearch.
+    tagline: "Remote workers: Describe your remote jobsearch"
+    url:
+    subnodes:
+
+  - title: Interview.
+    tagline: Describe your remote interview experience
+    url:
+    subnodes:
+
+  - title: Daily life.
+    tagline: As a remote worker
+    url:
+    subnodes:
+    - title: You remote Office/Workplace.
+      tagline: Describe your remote office
+    - title: Your day.
+      tagline: Describe your typical (work)day
+
+  - title: Taxes.
+    tagline: Paying taxes when working remotely
+    url:
+    subnodes:
+
+  - title: Dark side.
+    tagline: The dark and ugly side of remote work
+    url:
+    subnodes:
+
+
+
+
+- title: Remote Companies
+  tagline: Everything about remote, remote-friendly and distributed companies
+  url:
+  row: 1
+  col: 3
+  subnodes:
+    - type: article
+      title: "How a 100% Remote Organization is Leveraging Holacracy to Scale."
+      tagline: "Convert’s journey to self-management"
+      tags:
+        - "#companies-management"
+        - "#analytics"
+    - type: article
+      title: "Are you able to work remotely?"
+      tagline: "How ALICE select the candidates who can work remotely"
+      subnodes:
+      tags:
+        - "#companies-hiring"
+
+
+    - title: Introduce your company.
+      tagline: Is your company remote? Distributed? Something else?
+      subnodes:
+
+    - title: Hiring.
+      tagline: Everything about hiring in remote companies
+      url:
+      subnodes:
+      - title: Hiring process.
+        tagline: "Hiring in remote companies: tips and tricks"
+        subnodes:
+      - title: The candidates.
+        tagline: What companies expect from candidates. Where/how to find candidates
+        subnodes:
+
+      - title: "Interview."
+        tagline: From the company/interviewer point of view
+        subnodes:
+      - title: "Hackerrank/Leetcode and co."
+        tagline: What companies think about these platforms
+        subnodes:
+      - title: "The hiring process."
+        tagline: From the company/HR point of view
+        subnodes:
+      #- title: Onboarding
+      #  tagline:
+      #  subnodes:
+
+
+    - title: Management.
+      tagline: Everything about management in remote companies
+      url:
+      subnodes:
+      - title: Tools
+        tagline: "Zoom and other instruments we use in daily work."
+        url:
+        subnodes:
+      - title: Productivity.
+        tagline: "How to measure/improve productivity of a remote team"
+        url:
+        subnodes:
+      - title: Retreats/Conferences.
+        tagline: "Also Teambuilding. How to bring members of remote team together"
+        url:
+        subnodes:
+
+    #- title: Daily Routine
+    #  tagline:
+    #  url:
+    #  subnodes:
+
+
+
+- title: Trends, analytics
+  tagline: Statistics, analytics, discussions about the subjects common for remote workers and remote companies
+  url:
+  row: 2
+  col: 1
+  subnodes:
+
+  #- title: Salary
+  #  tagline:
+  #  url:
+  #  subnodes:
+  #- title: Payment
+  #  tagline:
+  #  url:
+  #  subnodes:
+
+
+
+
+- title: Travel/Digital Nomads
+  tagline: Everything about traveling working remotely.
+  url:
+  row: 2
+  col: 2
+  subnodes:
+
+- title: Remote4me.com Feedback
+  tagline: Discussion about this site, its organization, how it works, and how we can improve it.
+  url:
+  row: 2
+  col: 3
+  subnodes:

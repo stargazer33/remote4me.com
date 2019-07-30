@@ -1,0 +1,12 @@
+{% comment %}
+<!--
+Arguments:
+  include.node - a include.node from communitynav.yml
+-->
+{% endcomment %}
+
+{% if include.node.type != 'article' %}
+    <a href="{{ include.node.url }}">{{ include.node.title }}</a>
+    <small>{{ include.node.tagline }}</small>
+    <br/>
+{% endif %}

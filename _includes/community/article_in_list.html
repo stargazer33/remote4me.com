@@ -1,0 +1,17 @@
+{% comment %}<!--
+Arguments:
+  include.node - a include.node from communitynav.yml
+-->{% endcomment %}
+
+{% if include.node.type == 'article' %}
+<div>
+    <h4 style="line-height: 1.4; margin-bottom: 0.2em;"><a href="{{ include.node.url }}">{{
+        include.node.title }}</a></h4>
+        {{ include.node.tagline }}
+    <div style="margin-bottom: 4em;">
+        {% for tag in include.node.tags %}
+        <span  class="tag label label-primary labelTag">{{ tag }}</span>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
