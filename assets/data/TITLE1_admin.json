@@ -1,6 +1,418 @@
 {
  "items": [
   {
+    "id": "vqh1U_uPSxOlIByINQRQGA",
+    "url": "https://stackoverflow.com/jobs/285484/devops-sre-platformsh?a=1xK25Da0Wd2w",
+    "title": "DevOps / SRE at Platform.sh  ",
+    "tags": [
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG:surround``OR(work,2W(work,remot)) 3W from 2W OR(wherev,wherev,where)",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:drupal/php/5",
+      "DBG_TECH1:k/t/w:elixir/other/10",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:magento/php/16",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:rust/other/10",
+      "DBG_TECH1:k/t/w:symfony/php/16",
+      "DBG_TECH1:techWeightMap:{python=8, other=20, dotnet=8, c=0, mobile=1, go=11, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=42, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Platform.sh",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 30, 2019 4:06:24 PM",
+    "validThrough": "Aug 6, 2019 4:06:24 PM",
+    "crawled": "Jul 30, 2019 4:06:24 PM",
+    "content": "<h3><span>DevOps / SRE</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps, System Administrator</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud-Based Solutions, Continuous Delivery, PaaS</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51–200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Platform.sh | No office location<br></div><h4>Technologies</h4><div></div><div>python</div><div>symfony2</div><div>azure</div>                <h4>Job description</h4>                <div><p><strong>Mission</strong>&nbsp;</p><p>Platform.sh is a groundbreaking hosting and development tool for web applications. We’re a European VC-Backed startup with a host of blue-chip Enterprise clients and a string of awards and grants (including €2m from the EU Horizon 2020 program).</p><p>To reinforce our technical prowess, we are looking to grow our operations team in the US and in the APAC timezones. If you’re looking for an exciting, high-growth opportunity with an award-winning, cutting-edge company, this could be just the job for you</p><p>For its PaaS solution <a href='https://platform.sh/' rel='nofollow'>https://platform.sh</a> is looking for an Operations and Service Reliability Engineer with a taste for Python and Go, great Linux system understanding, and a real hunger for the challenges of building robust, distributed systems.</p><p>Platform.sh is a PaaS shrouded in a lot of black magic (we can consistently clone a whole running cluster, with its state, databases, indexes in a matter of seconds). We want to get this down to the hundreds of milliseconds domain. Interested? There is more...</p><p>Our external API is pure Hypermedia REST + oAuth on top of Pyramid. It mechanizes the Git layer and needs more features.</p><p>We can consistently generate from the same manifest a Docker container, an LXC one, or VM disk images (AWS, Azure, OpenStack), we want more targets.</p><p>We probably have the highest industry container density. We need to get it higher.</p><p>We support any Python, Ruby, NodeJS or PHP, Java and .NET, time to roll-out Elixir, of course, Elixir (and Rust. We need Rust).</p><p>In close interaction with our Engineering and Customer Support teams, you will be responsible for:</p><ul><li>cloud operations: configure clusters, deploy stuff, follow-up on alerts, help customer support debug issues.</li><li>automating all of the above so they can instead drink margaritas (or non-alcoholic beverages, of course)</li><li>creating systems, tools &amp; processes that will enhance our support and operations efficiency</li><li>improving service quality, discipline and reliability throughout lifecycle</li><li>monitoring operating objectives, streamline and automate intervention</li><li>continuous learning from Operations experience, modeled as software</li></ul><p><strong><br>The ideal candidate</strong></p><ul><li>has proven successful experience in an operations role,</li><li>has demonstrated the ability to successfully manage cloud-based infrastructure for a fast growing organization,</li><li>has experience with containerization technologies,</li><li>has had exposure to cloud services (AWS, Azure, GCP, ...),</li><li>understands how an OS works, knows networking, how git works, and the constraints of a distributed system,</li><li>Puppet experience,</li><li>is proficient in Python (Golang a plus)</li><li>is based either in Americas or APAC timezones.</li></ul><p><strong>Nice to have&nbsp;</strong></p><ul><li>knowledge of Magento Ecommerce, Symfony, Drupal, eZ Platform, or Typo3.</li></ul><p>Note: we don't like stress, so we build everything to be robust and resilient, but stuff does break. This is a role with on-call duties and fire drills. If this fills you with dread... well, this might not be a fit for you.<br>&nbsp;</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/285484?reset=False&amp;ra=1xK25Da0Wd2w&amp;oqs=a%3D1xK25Da0Wd2w' rel='nofollow'>Apply now</a></div>            <h4>About Platform.sh</h4>            <div><p>Platform.sh is an idea-to-cloud application platform that simplifies cloud infrastructures.</p><p>We give developers the tools they need to experiment, innovate, get rapid feedback and deliver better-quality features with speed and confidence thanks to our unique rapid cloning technology.</p><p>Platform.sh serves thousands of customers worldwide including The Financial Times, Gap, Magento Commerce, Orange, Hachette, Ikea, Stanford University, Harvard University, The British Council, and Lufthansa.</p><p>We want people who are passionate, open, multicultural, friendly, humble and smart to join us and help this fast-growing, award-winning company to revolutionize the tech industry.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Work from home, wherever you are</span>                            </li>                            <li>                                <span></span>                                <span>Safe and friendly working environment</span>                            </li>                            <li>                                <span></span>                                <span>Stock options for everyone</span>                            </li>                            <li>                                <span></span>                                <span>Rest and recovery are essential to health and happiness; we get that</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "DrUt2VhLSu-QF9t-__J4-Q",
+    "url": "https://jobmote.com/job/53735/sr-network-pricing-consultant-telecommute-within-connecticut-or-rho/",
+    "title": "Sr. Network Pricing Consultant - Telecommute within Connecticut or Rho",
+    "tags": [
+      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=1, c=0, mobile=0, go=6, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "UnitedHealth Group",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 10:07:27 PM",
+    "validThrough": "Aug 1, 2019 10:07:27 PM",
+    "crawled": "Jul 30, 2019 3:06:25 AM",
+    "content": "<div><br><p> <br></p><p> Expanding access toaffordable, high quality health care starts here. This is where some of themost innovative ideas in health care are created every day. This is where boldpeople with big ideas are writing the next chapter in health care. This is theplace to do <b>your life's best work.(sm) </b> <br></p> <br><p> This creative roleoffers an excellent opportunity to directly impact an innovative function andsecure your future with an industry leader. The Senior Network PricingConsultant supports and validates physician incentive / performance basedcontracting activities through financial and network pricing modeling,analysis, and reporting. The individual in this role will travel to provider locationsin the assigned territory to present / discuss financials, as well asthe data points that explain the financial results. <br></p> <br><p><br><br></p> <br><p><b> PrimaryResponsibilities: </b><br></p><ul><li> Develop, monitor and evolve the payment incentive model </li><li> Work independently and interact with external constituencies </li><li> Provide data analysis, contract auditing and metrics reporting to management </li><li> Perform reconciliations to determine if physicians have met contractual obligations </li><li> Translate highly complex concepts in ways that can be understood by a variety of audiences </li><li> Advocate for best economics internally and externally </li><li> Develop, analyze and monitor new, routine and ad hoc reports </li><li> Predict emerging customer needs and develop innovative solutions to meet them </li><li> Solve unique and complex problems with broad impact on the business </li><li> Develop and manage business plans to achieve objectives </li><li> Influence senior leadership to adopt new ideas, products, and / or approaches </li><li> NOTE: Travel to Providers in Northeast is a requirement </li><li> Role is office based in CT, RI </li></ul><br><p><br><br></p><b> Required Qualifications: </b> <br><ul><li> Bachelor-s degree or higher </li><li> 4+ years of analytical experience in financial analysis, healthcare pricing, network management, healthcare economics, or related discipline </li><li> 4+ years of experience with provider payment methodologies and healthcare products </li><li> Advanced level of proficiency in performing financial impact analysis, risk management, and data manipulation </li><li> 4+ years of experience in creating and using financial modeling tools, spreadsheets, and information acquisition tools including experience in interpreting and reviewing financial modeling results to evaluate the financial impact of contract changes and develop forecasts </li><li> Advanced level proficiency in MS Excel </li><li> Client facing experience </li><li> Must live within commutable distance of one of the office locations listed in the job posting. These locations area CT, RI </li></ul><br> <br><p><b> PreferredQualifications: </b><br></p><ul><li> Experience with relational databases (Oracle, SQL Server, SAS) </li><li> Strong written and verbal communication skills </li><li> ACO Experience </li></ul><br> <br><p><b> Careers at UnitedHealthcare Employer &amp;Individual. </b> We all want to make adifference with the work we do. Sometimes we're presented with an opportunityto make a difference on a scale we couldn't imagine. Here, you get thatopportunity every day. As a member of one of our elite teams, you'll providethe ideas and solutions that help nearly 25 million customers live healthierlives. You'll help write the next chapter in the history of health care. Andyou'll find a wealth of open doors and career paths that will take you as faras you want to go. Go further. This is <b>your life's best work.(sm) </b> <br></p> <br><p> *All Telecommuters willbe required to adhere to UnitedHealth Group-s Telecommuter Policy. <br></p> <br> <br><p> Diversity creates a healthier atmosphere: UnitedHealth Group is anEqual Employment Opportunity / Affirmative Action employer and all qualifiedapplicants will receive consideration for employment without regard to race,color, religion, sex, age, national origin, protected veteran status, disabilitystatus, sexual orientation, gender identity or expression, marital status,genetic information, or any other characteristic protected by law. <br></p> <br><p> UnitedHealth Group is a drug-free workplace. Candidates arerequired to pass a drug test before beginning employment. <br></p> <br> <br><p><b> Job Keywords: </b> HealthcareEconomics, Network Pricing, Medical Economics, Healthcare Analyst, FinancialAnalyst, Sales Contracts Analyst, Pricing Consultant, Shelton, CT, Hartford,CT, Trumbull, CT, Connecticut, RI, Rhode Island <br> - provided by Dice</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "N4-K50SvRT-feU1Z2xvgwA",
+    "url": "https://jobmote.com/job/53733/senior-systems-engineer-end-user-compute-open-location-remote/",
+    "title": "Senior Systems Engineer--End User Compute--Open Location / Remote",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Roundtower",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 10:07:27 PM",
+    "validThrough": "Aug 1, 2019 10:07:27 PM",
+    "crawled": "Jul 30, 2019 3:06:25 AM",
+    "content": "<div><p>RoundTower is a premier systems integrator that provides innovative solutions and services in the areas of data center infrastructure, converged platforms, mobility, cloud automation and orchestration, DevOps, and data analytics. RoundTower is helping enable its customers to drive positive business outcomes by becoming more agile and efficient through the use of technology. We are currently looking for an experienced Senior Engineer to join our End User Computing &amp; Mobility practice. The Senior Engineer (EUC) is a senior-level role capable of supporting all phases of the End User Computing methodology from Assessments, Designs, Implementation, Transitional Support, and Optimization.</p><p><strong> </strong></p><p><strong>Responsibilities</strong></p><ul><li>Direct delivery ownership of assigned End User Computing engagements including design, implementation, and support.</li><li>Create as-built documentation and provide knowledge transfer to customers upon completion of installation and configuration</li><li>Drive the continuous improvements of our Practice Methodology and Service Offerings based on client experiences.</li><li>Maintain up-to-date industry certifications specific to areas of practice and as required to maintain Vendor/VAR status.</li><li>Manage multiple engagements simultaneously in conjunction with other Practice Engineers while ensuring proper collaboration and hand-off as needed.</li><li>Evaluate and foster new partner products and solution capabilities within the Cloud &amp; DevOps practice portfolio.</li><li>Assist with delivery readiness and training for Cloud &amp; DevOps offerings.</li><li>Willingness to travel.</li></ul><p><strong>Capabilities:</strong></p><ul><li>Ability to perform advanced, independent design and implementation of Citrix and VMware End User Computing solutions such as Citrix XenDesktop/XenApp, XenMobile, and NetScaler as well as VMware Horizon View and AirWatch.</li><li>Develop and propose solutions around VDI, Application Virtualization, Enterprise Mobility Management, Enterprise File Sync &amp; Share, and complementary solutions that provide the highest value for our customers while taking into account their unique business, functional, and technical requirements.</li></ul><p>.<br><strong>Experience/Certifications:</strong></p><ul><li>Experience consulting, designing, architecting, implementing, and supporting either Citrix or VMware End User Computing solutions with 4+ years of industry experience.</li><li>Strong technical background in End User Computing and Mobility solutions, including: Desktop Virtualization, Application Virtualization, User Environment Management, Enterprise Software Deployment, Enterprise Mobility Management, and Enterprise File Sync &amp; Share.</li><li>Experience with the following End User Computing solutions preferred: Citrix, VMware, AirWatch, Unidesk, Liquidware Labs, RES, and AppSense.</li><li>Experience with the following Application Delivery Controllers preferred: Citrix NetScaler and F5.</li></ul><p><strong>Qualifications</strong></p><ul><li>Excellent written and verbal communication skills, interpersonal and collaborative skills, and the ability to communicate security and risk-related concepts to technical and nontechnical audiences.</li><li>Exhibit excellent problem solving and analytical skills, the ability to manage multiple projects under strict timelines, as well as the ability to work well in a demanding, dynamic environment and meet overall objectives.</li><li>High level of personal integrity, as well as the ability to professionally handle confidential matters, and show an appropriate level of judgment and maturity.</li><li>High degree of initiative, dependability and ability to work with little supervision.</li><li>Ability to analyze and interpret performance data in order to provide assessments and presentation solutions derived from empirical data and customer business requirements.</li><li>Translate complex business requirements into business proposals.</li><li>Develop overall virtualization solutions including high level designs, Statements of Work, and creating bills of materials.</li></ul><p><strong><br>Education</strong></p><ul><li>BS/BA (EE/CS) or equivalent experience</li></ul> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "USxjJTk3RyuhPF51vU8TfA",
+    "url": "https://jobmote.com/job/53707/devops-site-reliability-engineer-100-remote/",
+    "title": "DevOps / Site Reliability Engineer (100% Remote)",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=5, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 10:07:25 PM",
+    "validThrough": "Aug 1, 2019 10:07:25 PM",
+    "crawled": "Jul 30, 2019 3:06:25 AM",
+    "content": "<div>Minimum Required Skills:<br>AWS, Heroku, SALT, Ansible, Terraform, Postgres, Python, RUBY, Bash, RabbitMQ<br><br>If you are a DevOps / Site Reliability Engineer with experience, please read on!<br><br>We're located in sunny Southern California however we're looking for an experienced DevOps candidate to join our team - we allow 100% remote!! We're a technology/health company that is bridging the gap with user data to determine health behavior and needs. We received our Series C funding and we're ready to ramp up our team and product.<br><br>We offer great benefits including health, dental, and vision for your and your dependents; we also offer a relaxed and flexible work environment to accommodate any of the hiccups that life throws your way. Applications are reviewed and processed quickly - please apply today if you are interested.<br><br>**Application will be considered incomplete unless screening questions are answered; incomplete applications cannot be submitted for further review. Please answer all screening questions in detail in order to expedite the process.**<br><br>What You Will Be Doing<br><br>- Solving complex technical problems<br>- Working on product architecture and scalability of distributed systems<br>- Architect, develop &amp; deploy the operation of our systems<br>- Ensure proper health and security of our systems &amp; data<br>- Some on-call experience, distributed among the DevOps team<br>- Creating scalable pipelines for cost-effectiveness and security<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and the following:<br><br>- Bachelor Degree in Computer Science or similar area of study<br>- Strong experience working in a Linux environment<br>- Previous experience in a DevOps culture<br>- Use of configuration management &amp; automation tools (Chef, Puppet, Ansible)<br>- Working in the cloud (AWS is a big plus!)<br>- RDBMS experience (Postgres, MySQL)<br>- Messaging/queing systems (RabbitMQ, SQS, Kinesis)<br><br>What's In It for You<br><br>- Vacation/PTO<br>- Medical<br>- Dental<br>- Vision<br>- Team events<br>- Lunches<br>- 100% RemoteSo, if you are a DevOps / Site Reliability Engineer (100% Remote) with experience, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "FokC9Vm9Tv2Yo_jRuiOvZA",
+    "url": "https://jobmote.com/job/53729/devops-chef-expert-chef-cookbook-developer-remote/",
+    "title": "Devops Chef expert / Chef cookbook developer || REMOTE",
+    "tags": [
+      "DBG:surround``can 2W remot",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Anira Solutions",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 10:07:26 PM",
+    "validThrough": "Aug 1, 2019 10:07:26 PM",
+    "crawled": "Jul 30, 2019 3:06:25 AM",
+    "content": "<div><p>Hello</p> <p>Hope you re doing well</p> <p> </p> <p> <strong>Title: Devops Chef expert / Chef cookbook developer</strong></p> <p> <strong>Location: Boca Rotan, FL</strong></p> <p> <strong>Duration: 12 Months </strong></p> <p> <strong>Rate: DOE</strong></p> <p> </p> <p> <strong>(Candidate need to be onsite 1 full week of every month and rest 3 weeks he can do remote)</strong></p> <p> </p> <p> <strong>JD:</strong></p> <p> <strong>Primary Role: Chef expert / Chef cookbook developer</strong></p> <p> <strong>Primary Responsibilities</strong></p> <ul><li>Develop cookbooks to automate client's applications and infrastructure</li> <li>Advise on Chef best practices</li> <li>Mentor growing user base of new Chef users at client</li></ul><p> </p> <p> <strong>Skills, mostly in order of importance (imo):</strong></p> <ul><li>Chef cookbook development</li> <li>Version control using git</li> <li>Strong oral communication skills</li> <li>Enthusiastic learner</li> <li>Multi-platform automation experience(windows and non-windows)</li> <li>PowerShell scripting</li> <li>Bash scripting</li> <li>Amazon Web Services</li> <li>Hashicorp Vault</li> <li>Hashicorp Terraform</li></ul> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "2iK4ggg6THG4g_Yn1ZRDuQ",
+    "url": "https://remoteok.io/jobs/74203",
+    "title": "DevOps Support Escalation Engineer",
+    "tags": [
+      "DBG:surround``remot W OR(applic,candid) 4W OR(consid,consider)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "python",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Thycotic",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 30, 2019 12:48:52 AM",
+    "validThrough": "Aug 6, 2019 12:48:52 AM",
+    "crawled": "Jul 30, 2019 1:06:29 AM",
+    "content": "<span></span> <span><h4>Thycotic</h4></span> <br> <h3>Devops Support Escalation Engineer</h3> <div>  <div>   <br>The DevOps Support Escalation Engineer – Tier III is a key member of the Thycotic Technical Support Global Escalation Team. This individual will support multiple DevOps &amp; Cloud products and work closely with team experts from the Development and Cloud operations departments to solve highly escalated issues for the worldwide support team. Excellent communication skills, both verbal and written, are required to interact effectively with our worldwide customers and internal stakeholders.   <br>   <br>This position will report to the Global Escalation Manager and ideally be based in our DC office; however strong remote candidates may be considered. &nbsp;   <br>   <br>KEY RESPONSIBILITIES   <br>   <br>   <br>* Analyze escalated customer issues and provide solutions to address their needs including debugging, troubleshooting and owning all escalated issues until a resolution is provided   <br>   <br>* Communicate highly technical and complex issues with internal and external stakeholders   <br>   <br>* Work closely with the rest of the Escalation Team members to meet SLA and customer requirements   <br>   <br>* Provide team mentoring and product leadership   <br>   <br>* Create technical content for team and customer use   <br>   <br>   <br>   <br>   <br>REQUIRED SKILLS AND QUALIFICATIONS   <br>   <br>   <br>* Bachelor’s in Computer Science, Cybersecurity, or other related field a must   <br>   <br>* 5+ years of software consulting, customer service, and/or support experience required   <br>   <br>* Prior DevOps experience   <br>   <br>* Familiarity with some of these open source technologies: Jenkins, Kubernetes, Docker/Containers etc.   <br>   <br>* Proficiency with a scripting language such as PowerShell, Bash, Python, or Ruby   <br>   <br>* Familiarity with configuration management tools like Ansible, Chef, or Puppet (prior working experience a big plus)   <br>   <br>* Knowledge of Cloud technologies (Azure, AWS) a must   <br>   <br>* Ability to identify and communicate product gaps, resource/tooling gaps, and documentation gaps so they can be addressed   <br>   <br>* Excellent interpersonal, verbal (English) communication, written and presentation skills required   <br>   <br>* Ability to work independently and as part of a team   <br>   <br>* Ability to work with team members from different cultures and other regions   <br>   <br>* Highly motivated, “can do” attitude that adapts well under pressure   <br>   <br>* Ability to work on-call weekend rotations and some holidays   <br>   <br>   <br>   <br>   <br>   <br>Thycotic&nbsp;is an Equal Opportunity Employer and does not discriminate on the basis of race, ancestry, national origin, color, religion, gender, age, marital status, sexual orientation, disability, or veteran status.   <br>   <br>Upon conditional offer of employment, candidates are required to complete a criminal background check and drug screen per Thycotic employment policy. In addition, all publicly posted social media sites may be reviewed.  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "wCn_6dwKR-S8G7vfyGu6IQ",
+    "url": "https://remoteok.io/jobs/74185",
+    "title": "DevOps Engineer",
+    "tags": [
+      "DBG:surround``2N(remot,work) 3W OR(encourag, avail, environ)",
+      "DBG_TECH1:k/t/w:drupal/php/5",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=2, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=28, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Interpersonal Frequency",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 8:39:03 PM",
+    "validThrough": "Aug 5, 2019 8:39:03 PM",
+    "crawled": "Jul 29, 2019 9:30:30 PM",
+    "content": "<span></span> <span><h4>Interpersonal Frequency</h4></span> <br> <h3>Devops Engineer</h3> <div>  <div>   <br>We are looking for a DevOps engineer to help us scale our systems as we bring more cities and government agencies into the cloud. Our backend tech stack currently includes RHEL/CentOS, Docker, Node.js, PHP, Apache/Nginx, Solr/ElasticSearch, MariaDB/MySQL, GlusterFS, Redis/Memcache, HAProxy, Varnish, New Relic, and AWS (GovCloud, EC2, ELB, RDS, Aurora, ElastiCache, S3, CloudFormation, Redshift, EFS, etc.), DigitalOcean, and Rackspace.   <br>   <br>Who you are&nbsp;   <br>   <br>We're looking for a DevOps engineer with significant experience configuring, managing, automating, securing, monitoring and maintaining systems at scale.   <br>   <br>- You love to solve problems and can do so under pressure.&nbsp;   <br>   <br>- Scaling, reliability, automation, security, and performance are things you care about deeply.&nbsp;   <br>   <br>- You have a good mixture of planning, risk taking and a “get-it-done” attitude.&nbsp;   <br>   <br>- You value the open source community and want to give back to it.&nbsp;   <br>   <br>- You can clearly explain your ideas to both clients and other team members both verbally and in writing.&nbsp;   <br>   <br>- You like to have fun and work with a small team! You play well with others (not just engineers).&nbsp;   <br>   <br>- You bring both creativity and maturity to your work: you’re a self-starter who can jump in quickly and can manage your own time effectively in a remote work environment.   <br>   <br>What you’ll do&nbsp;   <br>   <br>You will help ensure the scalability, security, performance, and availability of our systems by applying your expertise in the evolution and daily operation of our LAMP/LEMP stack, implementing and automating infrastructure deployments and working with our engineering team to ensure the software that we build can scale.   <br>   <br>Requirements   <br>   <br>- You must either be a US Citizen or already have a Green Card to apply   <br>   <br>- 3-5 years of experience with Amazon Web Services (AWS) cloud hosting   <br>   <br>- 3+ years of experience with MySQL (DevOps, not DBA)   <br>   <br>- Linux - Nginx and/or Apache   <br>   <br>- Varnish   <br>   <br>- PHP (DevOps tuning, not dev)   <br>   <br>- Docker   <br>   <br>- Shell scripting   <br>   <br>- Ansible / Chef / Puppet   <br>   <br>- Code repository versioning (Git)   <br>   <br>Bonus Skills   <br>   <br>- Memcached/Redis   <br>   <br>- CentOS/Redhat Linux   <br>   <br>- HAProxy   <br>   <br>- MariaDB/MySQL Clustering   <br>   <br>- Elasticsearch and/or Apache Solr   <br>   <br>- Code repository hosting (e.g. Gitlab)   <br>   <br>- Drupal Optimization   <br>   <br>- Big Data (e.g. Hadoop, Redshift)   <br>   <br>- Authentication Integration (e.g. LDAP/AD/SAML)   <br>   <br>- Penetration testing   <br>   <br>- Load testing   <br>   <br>- GlusterFS   <br>   <br>- Performance testing (e.g. New Relic, Blackfire)   <br>   <br>- Jenkins   <br>   <br>Why work with us?   <br>   <br>- Fun, cutting edge remote work environment – ever changing, always a chat away from team members   <br>   <br>- Your work directly impacts the lives of millions of Americans every day   <br>   <br>- Healthcare, and Dental/Vision/Life/Disability plans   <br>   <br>- Unlimited vacation, and a flexible schedule   <br>   <br>- Work in a mostly virtual environment or a coworking location. If you work virtually, be prepared to travel once per quarter for face-to-face with the team   <br>   <br>If you are interested, please send your cover letter, resume, and some code samples or examples of past work to   <span>[email&nbsp;protected]</span>  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "OTTeQ9c9QGKsf2yUSUZabw",
+    "url": "https://stackoverflow.com/jobs/285229/lead-devops-engineer-docker-rancher-ci-for-infolox-gmbh-start-the?a=1xEJm2kKDGrC",
+    "title": "(Lead) DevOps Engineer - Docker/Rancher/CI for Symfony PHP applications at infolox GmbH - start ...",
+    "tags": [
+      "DBG:surround``3N(locat,remot)",
+      "DBG_TECH1:k/t/w:php/php/15",
+      "DBG_TECH1:k/t/w:shell/other/1",
+      "DBG_TECH1:k/t/w:sonarqube/java/8",
+      "DBG_TECH1:k/t/w:symfony/php/32",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=47, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "infolox GmbH - start the process",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 29, 2019 7:30:25 PM",
+    "validThrough": "Aug 5, 2019 7:30:25 PM",
+    "crawled": "Jul 29, 2019 7:30:25 PM",
+    "content": "<h3><span>(Lead) DevOps Engineer - Docker/Rancher/CI for Symfony PHP applications</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>E-Commerce, Marketing Automation, Software Development / Engineering</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: infolox GmbH - start the process | Dortmund, Deutschland<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Dortmund, Deutschland.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h4>Technologies</h4><div></div><div>docker</div><div>docker-compose</div><div>rancher</div><div>gitlab-ci</div><div>linux</div>                <h4>Job description</h4>                <div><p><strong>Standort: Lindau, Dortmund oder Remote</strong></p><p><strong>Wir sind ein sympathisches Team mit Büros in Lindau am Bodensee, Dortmund und Freiburg im Breisgau. Mit professionellen PIM-Systemen wie Viamedici EPIM, Contentserv und OpusCapita sowie Open-Source-Software wie Symfony, eZ Platform, Sylius, Solr, Gitlab, Docker, Rancher erstellen wir anspruchsvolle, cloudbasierte e-Commerce- und Omnichannel-Lösungen für Industrie und Handel.</strong><br><strong>Wir haben Spaß daran, uns neue Technologien zu erschließen – und damit Lösungen zu schaffen, auf die wir stolz sind! Unsere Projekte sind so groß, dass wir im Team daran arbeiten, bleiben aber immer überschaubar. So treffen wir auch Entscheidungen: schnell, einfach und gemeinsam.</strong></p><p>Mehr zu uns auf <strong><em><a href='https://www.facebook.com/infolox.de/' rel='nofollow'>facebook</a></em></strong></p><p><strong>Das erwartet dich</strong></p><ul><li>Schnittstellenfunktion zwischen der IT Infrastruktur und Softwareentwicklung</li><li>Erweiterung unserer Continuous Integration und Deployment-Prozesse</li><li>Administration und fachliche&nbsp;Verantwortung für unsere Tools: Rancher in Verbindung mit Docker und GitLab-Runners, sowie&nbsp;GitLab, SonarQube, Solr-Admin, Adminer, Sentry</li><li>Unterstützung der Teams in Projekten mit den containerbasierten Umgebung (Docker, Docker-Compose, GitLab-CI)</li></ul><p><strong>Das bringst du mit</strong></p><ul><li>Fundiertes Wissen und Erfahrungen mit Docker, Docker-Compose und Rancher</li><li>Praktische Erfahrungen in Build- und Integrations-Tools (GitLab-CI, GitLab-Runners oder Jenkins)&nbsp;</li><li>Sehr gute Kenntnisse in Linux sowie auch Shell und YAML</li><li>Erfahrungen&nbsp;im Betrieb von Web- &amp; Application-Servern in&nbsp;Cloud-Technologien</li><li>Idealerweise das Vorstehende für PHP Symfony Anwendungen</li><li>Gute Deutsch- und Englischkenntnisse</li></ul><p><strong>Deine Persönlichkeit zeichnet aus</strong></p><ul><li>Spaß an der Teamarbeit</li><li>Sehr gute Problemlösungskompetenz</li><li>Hoher Qualitätsanspruch</li></ul><p><strong>Unser Angebot</strong></p><ul><li>Mitarbeit in einem multinationalen, professionellen Team</li><li>Lösungen mit technologischem High-End-Anspruch</li><li>Individuelle Entwicklungsmöglichkeiten in strukturiertem Personalentwicklungsrahmen</li><li>Attraktives Vergütungsmodell</li><li>Betriebliche Altersvorsorge</li><li>Reizvoller Arbeitsplatz in Lindau direkt am Bodensee oder in Dortmund im Industriedenkmal in Citynähe - oder remote im Homeoffice</li></ul><p>Noch nicht ganz überzeugt? Weitere Informationen zum Thema &quot;Mitspielen im infolox-Team“ findest du unter <a title=&quot;Opens internal link in current window&quot; href='https://www.infolox.de/mitarbeiter' rel='nofollow'>www.infolox.de/mitarbeiter</a></p><p><strong>Deine Bewerbung</strong></p><p>Wir freuen uns auf deine vollständigen Bewerbungsunterlagen mit Gehaltsvorstellung und möglichem Starttermin.</p><p>Bei Fragen einfach fragen!</p><p><strong>Dein Ansprechpartner</strong></p><p>Gunnar Fuelle<br><a href='mailto:mitspielen@infolox.de' rel='nofollow'>mitspielen@infolox.de</a></p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/285229?reset=False&amp;ra=1xEJm2kKDGrC&amp;oqs=a%3D1xEJm2kKDGrC' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>                    <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Kleine Teams, kurze Wege, gemeinsame Entscheidungen</span>                            </li>                            <li>                                <span></span>                                <span>Betriebliche Altersvorsorge</span>                            </li>                            <li>                                <span></span>                                <span>Wöchentlicher Stammtisch</span>                            </li>                            <li>                                <span></span>                                <span>Frisches Obst und Getränke</span>                            </li>                            <li>                                <span></span>                                <span>Homeoffice</span>                            </li>                            <li>                                <span></span>                                <span>Lindau: Blick auf den Bodensee und die Alpen, 5 min zum Seebad</span>                            </li>                            <li>                                <span></span>                                <span>Dortmund: Industriedenkmal, gute Verkehrsanbindung, Citynähe</span>                            </li>                            <li>                                <span></span>                                <span>Optional Dienstwagen, Kinderbetreuungskostenzuschuss ...</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "Mz0sHRnESVuuQRcZ75rU7Q",
     "url": "http://workinstartups.com/job-board/job/82810/site-reliability-engineer-at-chattermill-gmbh/",
     "title": "Site Reliability Engineer",
@@ -2018,6 +2430,62 @@
     "validThrough": "Jul 27, 2019 10:07:26 PM",
     "crawled": "Jul 25, 2019 3:06:25 AM",
     "content": "<div>\n Minimum Required Skills:\n <br>Linux, XenDesktop, Xen, Citrix, VMWare, Cloudstack, Chef, Ansible, Puppet, EC2\n <br>\n <br>Job Title: Systems Engineer\n <br>Job Location: Remote - must be located in Southern California \n <br>Compensation: $90K to $100K with sensational benefits \n <br>Skills: Linux, Configuration Management, AWS, Scripting/Development, Enterprise deployments\n <br>\n <br>Top Reasons to Work with Us\n <br>\n <br>- Incredible PTO package and benefits 100% paid by Company \n <br>- We provide you with the best tools, equipment, and support to help you succeed in this remote position\n <br>- We are an industry leader with a global and rapidly expanding footprint\n <br>\n <br>What You Will Be Doing\n <br>\n <br>- Supporting, maintaining and improving our Linux environments\n <br>- Helping to diagnose and resolve issues within our production and development environments\n <br>- Automating configuration management\n <br>- Keeping up to date and learning new technologies to improve yourself and the capabilities of the team\n <br>- Creating and migrating development and production systems, in code, using chef and ansible\n <br>\n <br>What You Need for this Position\n <br>\n <br>Linux knowledge\n <br>You would class yourself as an expert in this field and can demonstrate your extensive capabilities in this area\n <br>\n <br>Automation skills\n <br>With good working knowledge of at least one of the common automation tools preferably Chef, Ansible or Puppet, you should also find Shell scripting a breeze\n <br>\n <br>Networking/Load Balancing\n <br>TCPIP, DNS, DHCP, HA and Capacity Management\n <br>\n <br>Working in a Compliance based Environment\n <br>Familiar and able to work under change control processes within a compliant work environment\n <br>\n <br>Encryption &amp; Security\n <br>Our customer's data is precious, knowledge about this is useful such as Linux Disk Encryption, Linux Hardening\n <br>\n <br>Virtualization\n <br>Our service runs on Xen infrastructure and it would be good if you had knowledge in this area. Knowledge of VMWare and Cloudstack would also be good\n <br>\n <br>Storage\n <br>We have Netapp storage as well as QNAP devices, support in this area would prove beneficial\n <br>\n <br>Working with Linux in Amazon EC2\n <br> We deploy on Amazon EC2 and are looking at this strategically, knowledge in this area would prove advantageous\n <br>\n <br>What's In It for You\n <br>\n <br>- Vacation/PTO\n <br>- Medical\n <br>- Dental\n <br>- Vision\n <br>- Bonus\n <br>- 401k with up to 10% matchSo, if you are a Systems Engineer with the required experience and seeking career advancement, please apply today!\n <br>\n <br>Applicants must be authorized to work in the U.S.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!\n <br>\n <br>Looking forward to receiving your resume and going over the position in more detail with you.\n <br>\n <br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.\n <br>\n <br>Looking forward to receiving your resume!\n <br>\n <br>CyberCoders\n <br>\n <br>CyberCoders, Inc is proud to be an Equal Opportunity Employer\n <br>\n <br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.\n <br>\n <br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\n <br>\n <br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.\n <br> - provided by Dice\n</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "D4tyhNWOQNizaDIb2O_QhA",
+    "url": "https://jobmote.com/job/52261/remote-lead-sre-engineer/",
+    "title": "REMOTE Lead SRE Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:bash/other/2",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:velocity/java/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=2, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=10, gamedev=0, php=5, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 24, 2019 10:07:26 PM",
+    "validThrough": "Jul 27, 2019 10:07:26 PM",
+    "crawled": "Jul 25, 2019 3:06:25 AM",
+    "content": "<div>\n Minimum Required Skills:\n <br>Devops, SRE, AWS, SysAdmin, Kubernetes, Docker, RSD, Leadership, Bash, Linux\n <br>\n <br>If you are a Lead SRE Engineer with 5+ years experience in a DevOps/SRE/SysAdmin role, please read on!\n <br>\n <br>We have the least attrition of any company in the greater Los Angeles area and we offer an unparalleled culture on top of competitive pay, benefits and cutting edge technology. This role has the opportunity to be FULLY REMOTE. \n <br>\n <br>This role will report to the Director of Platform Engineering, and will lead a growing team of high-performing engineers.\n <br>\n <br>Top Reasons to Work with Us\n <br>\n <br>1. We are digital data collection company that is setting a higher standard for data quality.\n <br>2. Our company is rapidly-growing and we just moved into a beautiful new office.\n <br>3. You will have the chance to work on exciting new development projects with a talented team.\n <br>\n <br>What You Will Be Doing\n <br>\n <br>-Report to the Director of Platform Engineering, lead a growing team of high-performing engineers \n <br>-Help define and enforce DevOps standards, procedures, and guidelines to improve the overall development process\n <br>-Provide technical leadership and guidance to both your team members and your peers\n <br>-Cultivate a modern DevOps culture and mindset throughout your teams and establish performance metrics and processes to improve velocity and deliverability\n <br>-Deploy and support high-performance, highly-available infrastructure on AWS\n <br>-Engage in service capacity planning and demand forecasting, software performance analysis and system tuning\n <br>-Conduct periodic on-call duties\n <br>-Own the day-to-day health, uptime, monitoring, and reliability of our cloud infrastructure\n <br>-Work closely with engineering and project management to develop tools and solutions\n <br>-Identify tactical issues and react to emerging areas of concern\n <br>-Identify unnecessary complexity and remove it\n <br>\n <br>What You Need for this Position\n <br>\n <br>-5+ years experience in an SRE/SysAdmin, DevOps, or equivalent role\n <br>-3+ years of production AWS experience, including but not limited to EC2, RDS, ElastiCache, S3, Auto Scale, ELB\n <br>-2+ years of experience in technical leadership role managing DevOps in Agile environments (Scrum)\n <br>-Capability to program in at least one language (other than Bash), ideally Python, PHP or Java\n <br>-Solid knowledge of the Linux architecture\n <br>-Experience with container stacks and orchestration (Docker, Kubernetes, Mesos, ECS, etc)\n <br>-Experience with Configuration Management tools such as Puppet, Chef, Salt, or Ansible\n <br>-Experience with Infrastructure as a Code frameworks such as Terraform\n <br>-Experience with Microservices\n <br>-Experience with application monitoring tools (DataDog, New Relic, SumoLogic, etc)\n <br>-Strong knowledge of core protocols and tech such as TCP/IP, HTTP, DNS, load balancers, distributed file systems, key-value and relational databases\n <br>-Excellent organizational skills and the ability to work in a fast-paced work environment\n <br>-Experience with CI/CD tools and production code deployments\n <br>\n <br>What's In It for You\n <br>\n <br>- Competitive Salary\n <br>- Health, Dental &amp; Vision Insurance\n <br>- Flexible hours\n <br>- MacBook Pros\n <br>- Overall engaging and fun atmosphereSo, if you are a Lead SRE Engineer, please apply today!\n <br>\n <br>Applicants must be authorized to work in the U.S.\n <br>\n <br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!\n <br>\n <br>Looking forward to receiving your resume and going over the position in more detail with you.\n <br>\n <br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.\n <br>\n <br>Looking forward to receiving your resume!\n <br>\n <br>CyberCoders\n <br>\n <br>CyberCoders, Inc is proud to be an Equal Opportunity Employer\n <br>\n <br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.\n <br>\n <br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\n <br>\n <br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.\n <br> - provided by Dice\n</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -17774,110 +18242,6 @@
     "validThrough": "Jun 8, 2019 4:09:15 AM",
     "crawled": "Jun 1, 2019 4:09:27 AM",
     "content": "<h3> Senior Systems Engineer – Permanent – Chicago, IL </h3>\n<div>\n United States, Illinois\n</div>\n<div>\n Company: Modis\n <p></p>\n</div>\n<div> \n <h4>Overview</h4> \n <p>Systems Engineer direct hire, permanent opening located in Chicago, IL! This is an established company and easily walkable from Union and Ogilvie Train Stations. Great work-life balance and opportunity to get in and grow with this stable organization. CulturePerks Benefits – Competitive Annual Salary – Generous Paid Time Off – Fantastic Benefits (Health, Dental and Vision) – Annual Bonus, Profit Sharing 401k match – Fun, energetic and tight-knit team – Self-manage and ability to work from home This Systems Engineer will ideally be an expert in Active Directory, Group Policy, Identity Management, SSO, SCCM, DNS and network file servers with scripting experience. To be considered you MUST have the following experience Bachelor s degree in Computer Science, Engineering, or related discipline 5+ years of systems administration andor design experience in enterprise environment including Active Directory Group Policy Migration experience with O365Exchange Online Backup and Disaster Recovery experience VMWare Citrix XenApp Virtualization 2+ years of scripting experience (PowerShell, Batch or VB) THIS IS A DIRECT HIRE POSITION. Please note that candidates MUST be authorized to work for any employer in the US without the need for sponsorship. NO Recruiter or Third Party Agency Inquiries.</p> \n <div> \n  <a href='https://www.jobg8.com/Traffic.aspx?%2fCnEahGHO0lgcc1%2fsrLJ1wq' rel='nofollow'>Apply for job</a> \n </div> \n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "KtdiBJY7RZ2a1dyiEgrqEA",
-    "url": "https://stackoverflow.com/jobs/271825/senior-devops-engineer-pricespider?a=1ta1txLzhLA4",
-    "title": "Senior DevOps Engineer at PriceSpider  ",
-    "tags": [
-      "DBG:surround``OR(thrive,benefit,comfort,hour) 3N 2N(remot,work)",
-      "DBG:surround``OR(travel,visit) W to 4W OR(offic,headquart,onsit)",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=5, c=2, mobile=0, go=3, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/nodejs",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "nodejs"
-    ],
-    "hiringOrganization": {
-      "name": "PriceSpider",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "May 30, 2019 10:30:34 PM",
-    "validThrough": "Jun 6, 2019 10:30:34 PM",
-    "crawled": "May 30, 2019 10:30:34 PM",
-    "content": "<h3><span>Senior DevOps Engineer</span> </h3> \n<h4>About this job</h4> \n<div> \n <div> \n  <div> \n   <span>Job type: </span> \n   <span>Full-time</span> \n  </div> \n  <div> \n   <span>Experience level: </span> \n   <span>Senior</span> \n  </div> \n  <div> \n   <span>Role: </span> \n   <span>DevOps</span> \n  </div> \n </div> \n <div> \n  <div> \n   <span>Industry: </span> \n   <span>Data &amp; Analytics, SaaS, Software Development / Engineering</span> \n  </div> \n  <div> \n   <span>Company size: </span> \n   <span>51-200 people</span> \n  </div> \n  <div> \n   <span>Company type: </span> \n   <span>Private</span> \n  </div> \n </div> \n</div> \n<div> \n <h4>Reactions to this job</h4> \n <div> \n  <div> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n  </div> \n </div> \n <div> \n  <div> \n   <div> \n    <div></div> \n   </div> \n   <div> \n    <strong>New!</strong> How do you feel about this job listing? \n   </div> \n   <div> \n   </div> \n  </div> \n </div> \n <div></div>\n</div>\n<div>\n Company: PriceSpider | No office location\n <br>\n</div>\n<h4>Technologies</h4>\n<div></div>\n<div>\n amazon-web-services\n</div>\n<div>\n cloud\n</div>\n<div>\n automation\n</div> \n<h4>Job description</h4> \n<div>\n <p>PriceSpider is a retail technology company filled with talented people relentlessly driven to revolutionize the online shopping experience. We are the fastest growing Brand Integrity, Where-to-Buy and data services innovator, providing unmatched insights into online consumer purchasing behaviors around the globe. Our technology helps manufacturers, marketers, and retailers radically improve their marketing impact, retail sales, and revenues. Our clients use PriceSpider’s proprietary technology to crawl the web and power their tools to reveal the secrets of exactly what people buy—as well as where, when, and how. We continue to push the boundaries of our technology to create amazing user experiences for both our clients and their consumers. Today PriceSpider is helping nearly 500 brands around the globe.</p>\n <p>At PriceSpider we are looking for enthusiastic and passionate engineers to join our team. If you would enjoy working to bring real world value to many of the world’s largest companies, we would love to hear from you. Our platform runs thousands of jobs and processes millions of requests each day as we strive to collect the most accurate information about the way our customers products are used and consumed around the globe.</p>\n <p>The <strong>Senior DevOps Engineer</strong> will collaborate to help build, maintain, and troubleshoot our rapidly expanding infrastructure and applications through support and automation of build, deployment, integration, and developer tools. You will be part of a talented team of engineers that build and support PriceSpider’s internal and external applications.&nbsp; You will directly contribute to the technical vision and implementation of integration and delivery for business-critical applications.</p>\n <p><strong>Essential Function:</strong></p>\n <ul>\n  <li>Active involvement in daily stand up meetings</li>\n  <li>Ability to collaborate with others to fulfill business requirements</li>\n  <li>Independently develop solutions that fit in the overall business processes developed</li>\n  <li>Research optimal solutions and provides recommendations on software and development methodologies for a given problem</li>\n  <li>Ability to model problems and explain rationale behind design decisions</li>\n  <li>Assist engineering teams in troubleshooting and rectifying application tier issues</li>\n  <li>Assist IT and engineering teams in identifying and troubleshooting system-level issues with capacity, performance, and security</li>\n  <li>Design configuration, deployment, and build solutions that are scalable, efficient, and maintainable</li>\n  <li>Automate build and deployment processes for repeatability and reliability</li>\n  <li>Modernize deployment pipelines for private cloud, public cloud, and traditional resource workloads</li>\n  <li>Expand and refine systems monitoring and response to meet SLAs</li>\n  <li>Serve on a flexible rotating on-call support team for issues</li>\n </ul>\n <p><strong>Competencies:</strong></p>\n <ul>\n  <li>Planning, organizing and coordinating – efficiently develops and implements plans to accomplish goals</li>\n  <li>Self-directed – identifies, prioritizes and implements necessary projects and tasks that align with departmental objectives</li>\n  <li>Maturation evangelism – promotes continuous and practical advancement of effective strategies to maximize service levels (e.g. DevOps evangelism)</li>\n </ul>\n <p><strong>Required Experience and Education:</strong></p>\n <ul>\n  <li>Computer Science degree or equivalent work experience</li>\n  <li>Experience coding with a variety of languages and paradigms</li>\n  <li>Programming knowledge of C#, Node.js, and GO preferred</li>\n  <li>Experience with SQL and relational databases</li>\n  <li>Understanding of various non-relational data stores</li>\n  <li>Expertise with container and deployment technologies (Docker, Kubernetes, Helm, etc.)</li>\n  <li>Experience with cloud-based build/deployment technologies such as AWS CloudFormation, AWS Lambda, Githooks, Bamboo, etc.</li>\n  <li>Proven experience building build and deployment automation (Ansible, Jenkins, Terraform, oVirt, Proxmox, etc.)</li>\n  <li>2 to 6 years working experience as a software developer or programmer</li>\n </ul>\n <p><strong>Location:</strong></p>\n <p>This position is based in Las Vegas and we are looking for local candidates who are comfortable working remotely with occasional travel to HQ.</p>\n <p>&nbsp;<em>PriceSpider is an equal opportunity employer that is committed to inclusion and diversity.</em></p> \n</div> \n<div> \n <a href='https://boards.greenhouse.io/pricespider/jobs/4296103002' rel='nofollow'> Apply now </a>\n</div> \n<h4>About PriceSpider</h4> \n<div>\n <p>At PriceSpider, we engineer custom data solutions for brand manufacturers. This includes one of the most recognizable Where-to-Buy features on the market. Our solutions enhance online retail experiences for customers while delivering accurate, real-time data to marketing managers. Using our proprietary spidering technology, we generate comprehensive insight reports including retail channel sales performance, seller price history, MAP monitoring, and compiled product ratings/reviews.</p>\n <p><strong>DIRECT INQUIRIES ONLY!!! </strong></p>\n <p>Benefits include 401(K), dental, health insurance, health savings plan, vision, paid time off.&nbsp;If you desire to contribute to a culture, be a key member of a diverse and talented team, and participate in the momentum we are creating here at PriceSpider.</p> \n</div> \n<h4>Benefits</h4> \n<ul> \n <li> <span></span> <span>401K Plan</span> </li> \n <li> <span></span> <span>Competitive Salary</span> </li> \n <li> <span></span> <span>Paid Time Off</span> </li> \n <li> <span></span> <span>Medical, Dental and Vision Plans</span> </li> \n <li> <span></span> <span>Catered Lunches</span> </li> \n <li> <span></span> <span>Free Snacks Drinks</span> </li> \n <li> <span></span> <span>High Energy Environment</span> </li> \n</ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "LT-HYEVTQF-qUTbPYTllgw",
-    "url": "https://weworkremotely.com/remote-jobs/ebury-site-reliability-engineer-sre-1",
-    "title": "Ebury: Site Reliability Engineer (SRE)",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/python",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "go",
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "May 30, 2019 11:06:57 AM",
-    "validThrough": "Jun 6, 2019 11:06:57 AM",
-    "crawled": "May 30, 2019 12:06:32 PM",
-    "content": "<h3> Site Reliability Engineer (SRE) </h3>\n<div>\n <div>\n  If you are an SRE and you want to move forward your professional career in an international and dynamic environment, this job is for you!\n </div>\n <div>\n  <br>\n </div>\n <div>\n  You will be joining our SRE team to focus on site reliability of our Finance and Foreign Exchange platform, especially looking to further decouple our application deploy and infrastructure. We are mainly in AWS, and we are actively migrating to ECS and Kubernetes.\n </div>\n <div>\n  <br>\n </div>\n <div>\n  REQUIREMENTS\n </div>\n <ul>\n  <li>Have managed production infrastructure sites for front and back-end services</li>\n  <li>Good knowledge of Linux internals and administration</li>\n  <li>Experience in systems software development (go, python, bash, ... )</li>\n  <li>Deep knowledge of infrastructure as code principles, knowledge of Terraform would be a plus.</li>\n  <li>Deep experience with AWS (Cloud Computing: Ec2, S3, RDS, VPC, Security Groups, ELB, ElastiCache, Beanstalk, Redshift, ...)</li>\n  <li>knowledge with SQL and NoSQL database administration</li>\n  <li>Able to define actionable monitoring and alerting for systems</li>\n  <li>On-call experience dealing with production incident management and resolution</li>\n </ul>\n <div>\n  <br>\n </div>\n <div>\n  WHY WORKING WITH US?\n </div>\n <ul>\n  <li>Great professional opportunity in a company with the development of over 100% in the last five years and in a continuing innovative environment</li>\n  <li>Work with a distributed and international team experience professionals</li>\n  <li>To participate in one of the most disruptive technological sectors</li>\n  <li>We offer competitive conditions as well as the possibility to keep growing thanks to continuous reviews and career plan</li>\n </ul>\n <div>\n  <br>\n </div>\n <div>\n  We are looking forward to meeting you!\n </div>\n</div>\n<div></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
