@@ -1,6 +1,54 @@
 {
  "items": [
   {
+    "id": "QEJP1linRv6Y2YB3P8mfXw",
+    "url": "https://remoteok.io/jobs/74195",
+    "title": "Golang Software Engineer",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:go-developer/go/52",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=52, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "Percona ",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 30, 2019 12:15:08 AM",
+    "validThrough": "Aug 6, 2019 12:15:08 AM",
+    "crawled": "Jul 30, 2019 1:06:29 AM",
+    "content": "<span></span> <span><h4>Percona</h4>&nbsp;</span> <br> <h3>Golang Software Engineer</h3> <div>  <div>   Durham, United States - We’re looking for a remote full-time backend developer to join our team and help bring open source backups management into MongoDB. We would love to find a MongoDB expert with Go development experience, or an experienced Go programmer who wants to become a M...  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "qEA1QeP7Q4y0dsg4g3C1yg",
     "url": "https://jobs.github.com/positions/7b9d0cce-cec1-43b8-9a76-9676eb69f44c",
     "title": "Senior Software Developer (Golang) - 100% Remote (UK/EU Only)",
@@ -6261,58 +6309,6 @@
     "validThrough": "Jun 8, 2019 5:09:47 PM",
     "crawled": "Jun 1, 2019 6:26:17 PM",
     "content": "<h3>Back End Developer at <span>Mattermost</span></h3>\n<div>\n <span><i></i> Remote</span> | \n <span> International </span>\n</div>\n<div> \n <div>\n  <div></div>\n  <p>We&nbsp;<a href='https://docs.mattermost.com/process/handbook.html#values' rel='nofollow'>value</a>&nbsp;high impact work, ownership, self-awareness and being focused on customer success. If these values match who you are, we hope you’ll learn more about&nbsp;<a href='https://docs.mattermost.com/process/working-at-mattermost.html' rel='nofollow'>working at Mattermost</a>&nbsp;and come talk to us!</p>\n  <div></div>\n  <h5><strong>About the Role</strong></h5>\n  <p>Working in open source means your work is publicly visible. Your code will receive both credit and constructive critique from the community. With the right mindset and support these can lead to you a highly positive working environment and making the best engineering decisions of your career. Core committers include highly skilled volunteer developers from the community, staff employed by enterprises deploying and investing in Mattermost, as well as staff employed by Mattermost, Inc.</p>\n  <div></div>\n  <p>Read about our end-to-end recruiting process for core committers at:&nbsp;<a href='https://docs.mattermost.com/process/developer.html' rel='nofollow'>https://docs.mattermost.com/process/developer.html</a></p>\n </div>\n <div>\n  <div>\n   <h5><strong>Responsibilities</strong></h5>\n   <ul>\n    <li>Be an end-to-end owner of our backend architecture</li>\n    <li>Work collaboratively with multiple teams to deliver quality software</li>\n    <li>Design, enhance and build out new products and features</li>\n    <li>Maintain and optimize scalability, performance and quality</li>\n    <li>Support operations with deployments, debugging production issues and tuning applications</li>\n    <li>Evaluate and recommend new technologies and tools to solve emergent challenges</li>\n    <li>Participate in code and design reviews to maintain our high development standards</li>\n    <li>Effectively work while remote, with the ability to travel 2-3 times per year for week-long off-site meetings with team members</li>\n   </ul>\n  </div>\n </div>\n <div>\n  <div>\n   <h5><strong>Requirements:</strong></h5>\n   <ul>\n    <li>Bachelor’s degree in Computer Science or related fields, or significant professional software development experience</li>\n    <li>Strong experience with or an ability to quickly become an expert in Go</li>\n    <li>Familiarity with relational databases, particularly MySQL and PostgreSQL</li>\n    <li>Comfortable working with containers, particularly Docker</li>\n    <li>Experience in writing high performance production quality code</li>\n    <li>General tools/skills: GitHub, JIRA, Jenkins</li>\n   </ul>\n  </div>\n </div>\n <div>\n  <div>\n   <h5><strong>Pluses</strong></h5>\n   <ul>\n    <li>Experience working in open source communities</li>\n    <li>Strong experience and interest in working with Kubernetes</li>\n    <li>Experience setting up and building highly available database clusters</li>\n    <li>Experience with distributed application systems using HTTP, WebSockets, RPC, pub/sub at scale</li>\n    <li>Exposure to key technologies utilizing our stack</li>\n    <li>Contributions to any open source project</li>\n   </ul>\n  </div>\n </div>\n <div>\n  <div></div>\n  <div>\n   We’re looking for someone who wants to help us build the future of Mattermost and improve the way the world communicates. The right person in this role has the opportunity to have a huge impact on Mattermost the product, and its many users worldwide, but also on our open source community that has been key to Mattermost’s success. If this sounds like you – please apply!\n  </div>\n </div> \n</div>\n<div> \n <a href='https://jobs.lever.co/mattermost/23a6b5e6-e1af-4b82-a35d-743546c89b8d' rel='nofollow'>Apply for job</a> \n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "GbyDdcQqTymIkhDUUW4C3w",
-    "url": "https://weworkremotely.com/remote-jobs/mattermost-back-end-developer",
-    "title": "Mattermost: Back End Developer",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "RebelMouseFull-TimeGlobalClevertechFull-TimeNorth America and EuropeClevertechFull-TimeNorth America and Canada",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "May 30, 2019 2:07:09 AM",
-    "validThrough": "Jun 6, 2019 2:07:09 AM",
-    "crawled": "May 30, 2019 3:06:29 AM",
-    "content": "<h3> Back End Developer </h3>\n<div>\n <div>\n  <span>Mattermost provides an open source enterprise-grade messaging platform to the world’s leading organizations that allows teams to collaborate securely and privately anywhere. With over 10,000 server downloads / month our customers include Uber, Samsung, Affirm, The US Department of Defense and more. Our private cloud solutions offer secure, configurable, highly-scalable messaging across web, phone and PC with archiving, search, and deep integrations with hundreds of SaaS and on-premises technologies. Headquartered in Palo Alto, California, our company serves customers around the world with a distributed organization spanning the globe.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>We&nbsp;</span>\n  <a href='https://docs.mattermost.com/process/handbook.html#values' rel='nofollow'>value</a>\n  <span>&nbsp;high impact work, ownership, self-awareness and being focused on customer success. If these values match who you are, we hope you'll learn more about&nbsp;</span>\n  <a href='https://docs.mattermost.com/process/working-at-mattermost.html' rel='nofollow'>working at Mattermost</a>\n  <span>&nbsp;and come talk to us!</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span><b>About the Role</b></span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  Working in open source means your work is publicly visible. Your code will receive both credit and constructive critique from the community. With the right mindset and support these can lead to you a highly positive working environment and making the best engineering decisions of your career. Core committers include highly skilled volunteer developers from the community, staff employed by enterprises deploying and investing in Mattermost, as well as staff employed by Mattermost, Inc.\n </div>\n <div>\n  <br>\n </div>\n <div>\n  Read about our end-to-end recruiting process for core committers at:&nbsp;\n  <a href='https://docs.mattermost.com/process/developer.html' rel='nofollow'>https://docs.mattermost.com/process/developer.html</a>\n </div>\n <div>\n  <h5><br></h5>\n </div>\n <div>\n  <h5>Responsibilities</h5>\n </div>\n <ul>\n  <li>Be an end-to-end owner of our backend architecture</li>\n  <li>Work collaboratively with multiple teams to deliver quality software</li>\n  <li>Design, enhance and build out new products and features</li>\n  <li>Maintain and optimize scalability, performance and quality</li>\n  <li>Support operations with deployments, debugging production issues and tuning applications</li>\n  <li>Evaluate and recommend new technologies and tools to solve emergent challenges</li>\n  <li>Participate in code and design reviews to maintain our high development standards</li>\n  <li>Effectively work while remote, with the ability to travel 2-3 times per year for week-long off-site meetings with team members</li>\n </ul>\n <div>\n  <h5><br></h5>\n </div>\n <div>\n  <h5>Requirements:</h5>\n </div>\n <ul>\n  <li>Bachelor's degree in Computer Science or related fields, or significant professional software development experience</li>\n  <li>Strong experience with or an ability to quickly become an expert in Go</li>\n  <li>Familiarity with relational databases, particularly MySQL and PostgreSQL</li>\n  <li>Comfortable working with containers, particularly Docker</li>\n  <li>Experience in writing high performance production quality code</li>\n  <li>General tools/skills: GitHub, JIRA, Jenkins</li>\n </ul>\n <div>\n  <h5><br></h5>\n </div>\n <div>\n  <h5>Pluses</h5>\n </div>\n <ul>\n  <li>Experience working in open source communities</li>\n  <li>Strong experience and interest in working with Kubernetes</li>\n  <li>Experience setting up and building highly available database clusters</li>\n  <li>Experience with distributed application systems using HTTP, WebSockets, RPC, pub/sub at scale</li>\n  <li>Exposure to key technologies utilizing our stack</li>\n  <li>Contributions to any open source project</li>\n </ul>\n <div>\n  <br>\n </div>\n <div>\n  We're looking for someone who wants to help us build the future of Mattermost and improve the way the world communicates. The right person in this role has the opportunity to have a huge impact on Mattermost the product, and its many users worldwide, but also on our open source community that has been key to Mattermost's success. If this sounds like you - please apply!\n </div>\n</div>\n<div>\n <h4> Related Jobs <span><a rel='nofollow'> See more Programming jobs<span>→</span></a></span></h4>\n <ul>\n  <li><span>New <i></i></span>\n   <div></div>\n   <div>\n    <a rel='nofollow'>\n     <div></div><span>View company profile</span></a>\n   </div><a rel='nofollow'><span>RebelMouse</span><br><span>Senior Frontend Engineer</span><span>featured</span><br><span>Full-Time</span><span>/</span><span>Global</span></a></li>\n  <li><span>New <i></i></span>\n   <div></div>\n   <div>\n    <a rel='nofollow'>\n     <div></div><span>View company profile</span></a>\n   </div><a rel='nofollow'><span>Clevertech</span><br><span>Javascript Full Stack Developer (US - Remote)</span><span>featured</span><br><span>Full-Time</span><span>/</span><span>North America and Europe</span></a></li>\n  <li><span>New <i></i></span>\n   <div></div>\n   <div>\n    <a rel='nofollow'>\n     <div></div><span>View company profile</span></a>\n   </div><a rel='nofollow'><span>Clevertech</span><br><span>Cloud Solution Architect</span><span>featured</span><br><span>Full-Time</span><span>/</span><span>North America and Canada</span></a></li>\n </ul>\n <br>\n</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
