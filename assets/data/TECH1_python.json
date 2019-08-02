@@ -1,6 +1,390 @@
 {
  "items": [
   {
+    "id": "rG7QDN22Qi62KpAGOa7E9w",
+    "url": "https://news.ycombinator.com/item?id=20589492",
+    "title": "10x Genomics | Software Engineers, Designers, QA, DevOps | San Francisco & Pleasanton, CA | ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:numpy/python/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:k/t/w:scipy/python/5",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=10, other=5, dotnet=0, c=1, mobile=0, go=8, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "go",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 2, 2019 1:53:57 AM",
+    "validThrough": "Aug 9, 2019 1:53:57 AM",
+    "crawled": "Aug 2, 2019 3:08:10 AM",
+    "content": "10x Genomics | Software Engineers, Designers, QA, DevOps | San Francisco &amp; Pleasanton, CA | Onsite or Remote (US Only)<p>We're a software team of 32 people within a biotech company who own software and firmware development, infrastructure, design, and QA. 10x develops novel products that help scientists deconvolute and discover biology to develop novel therapeutics. For example, scientists have been using our products to help identify new therapies for cancer [1], Alzheimer's [2], cystic fibrosis [3], and asthma [4]. No biological experience is required, but if you're interested, there are countless opportunities to learn!</p><p>Recently we moved into our newly renovated headquarters right next to a BART station. Recently, our CEO announced that he's considering taking the company public [5]. SF Business Times awarded us with the #1 fastest-growing private company with &quot;an eye-popping 2,044% spike in revenue&quot; from 2015 to 2017.</p><p>You can find out more about our customer facing software at <a href='https://support.10xgenomics.com/' rel='nofollow'>https://support.10xgenomics.com/</a>. We manage our pipelines and backends with Golang, develop analysis code using Rust and the NumPy/SciPy stack, and drive our front-end applications with React, Redux, and TypeScript.</p><p>We're currently hiring for all software roles. Some roles are remote friendly and is indicated in the job posting.</p><p>* Product Designer - <a href='https://www.10xgenomics.com/careers/product-designer/' rel='nofollow'>https://www.10xgenomics.com/careers/product-designer/</a></p><p>* Senior Front End Engineer - <a href='https://www.10xgenomics.com/careers/senior-software-engineer-front-end/' rel='nofollow'>https://www.10xgenomics.com/careers/senior-software-engineer...</a></p><p>* Senior Full Stack Engineer - <a href='https://www.10xgenomics.com/careers/senior-software-engineer-full-stack-2/' rel='nofollow'>https://www.10xgenomics.com/careers/senior-software-engineer...</a></p><p>* Senior QA Engineer - <a href='https://www.10xgenomics.com/careers/senior-software-engineer-in-test-automation/' rel='nofollow'>https://www.10xgenomics.com/careers/senior-software-engineer...</a></p><p>* Senior Embedded Engineer - <a href='https://www.10xgenomics.com/careers/senior-software-engineer-embedded/' rel='nofollow'>https://www.10xgenomics.com/careers/senior-software-engineer...</a></p><p>You can find a complete listing on our careers page: <a href='https://www.10xgenomics.com/careers/' rel='nofollow'>https://www.10xgenomics.com/careers/</a>. Feel free to email me if you think you're a good fit for these roles or if you just want to chat. You can reach me at kevin.wu@10xgenomics.com or @kevinwuhoo. I strive to reply to all emails, regardless of whether they're informational or applications!</p><p>[1]: <a href='https://www.parkerici.org/2019/07/29/where-cancer-killing-t-cells-come-from/' rel='nofollow'>https://www.parkerici.org/2019/07/29/where-cancer-killing-t-...</a></p><p>[2]: <a href='https://news.mit.edu/2019/gene-map-alzheimers-brain-0501' rel='nofollow'>https://news.mit.edu/2019/gene-map-alzheimers-brain-0501</a></p><p>[3]: <a href='https://www.statnews.com/2018/08/01/new-lung-cell-cystic-fibrosis-medicines/' rel='nofollow'>https://www.statnews.com/2018/08/01/new-lung-cell-cystic-fib...</a></p><p>[4]: <a href='https://www.sanger.ac.uk/news/view/first-lung-map-uncovers-new-insights-asthma' rel='nofollow'>https://www.sanger.ac.uk/news/view/first-lung-map-uncovers-n...</a></p><p>[5]: <a href='https://www.genomeweb.com/business-news/10x-genomics-plans-large-expansion-2019-mulls-going-public' rel='nofollow'>https://www.genomeweb.com/business-news/10x-genomics-plans-l...</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "4a-bIBxbSwGUze8czkOosg",
+    "url": "https://news.ycombinator.com/item?id=20589825",
+    "title": "Big Health | Engineering Manager (San Francisco), Senior Product Engineer (London, UK) | San ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W 2W( OR(qualifi, except), candid)",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 2, 2019 2:50:37 AM",
+    "validThrough": "Aug 9, 2019 2:50:37 AM",
+    "crawled": "Aug 2, 2019 3:08:10 AM",
+    "content": "Big Health | Engineering Manager (San Francisco), Senior Product Engineer (London, UK) | San Francisco, CA or London, UK, depending on role | ONSITE preferred, REMOTE for exceptional candidates | VISA<p>Are you passionate about mental health? At Big Health, we're building a digital medicine platform that uses clinically proven techniques to help our users deal with the problems of worry and sleeplessness.Our evidence-based techniques draw on Cognitive Behavioural Therapy, and are already helping people back to good mental health.</p><p>We value tenacity, humility, ingenuity and soul. In my interactions with my colleagues, these shine through on a daily basis.</p><p>I'm working on the platform and integrations team as a Backend Engineer, and we're also hiring full stack engineers, front end engineers and mobile engineers. We have two offices (in London and SF), and for the right candidate we'd be open to sponsoring a visa or supporting a remote role.</p><p>We have a micro-service architecture deployed on AWS Lambda, and the backend is written in Python 3.6.</p><p>If you're interested, you can email our head of recruiting Lauren at lauren.lazo@Big health.com (no space) with a resume.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "4sySF0ToQEetwuW2jUtYWw",
+    "url": "https://news.ycombinator.com/item?id=20588281",
+    "title": "Canonical | London (UK), Worldwide | 62 positions available including roles in engineering, ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 1, 2019 10:57:18 PM",
+    "validThrough": "Aug 8, 2019 10:57:18 PM",
+    "crawled": "Aug 1, 2019 11:33:17 PM",
+    "content": "Canonical | London (UK), Worldwide | 62 positions available including roles in engineering, support and sales | Full-time | REMOTE<p>Canonical builds the Ubuntu operating system. It is increasingly being relied upon to deliver private/hybrid clouds based on OpenStack and/or Kubernetes. Most of the technical stack is written in Python and Go. Many teams have open positions[0], with tasks ranging from kernel engineering through to front-end web development. Almost all of our engineering work is open source and the technology supports billions of users worldwide every day (albeit indirectly!).</p><p>Questions? tsm@canonical.com / <a href='https://twitter.com/timClicks' rel='nofollow'>https://twitter.com/timClicks</a></p><p>[0] <a href='https://boards.greenhouse.io/canonical?gh_src=03e9098e1' rel='nofollow'>https://boards.greenhouse.io/canonical?gh_src=03e9098e1</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ZI0vGs5hQFaDUqe5aVyUeA",
+    "url": "https://news.ycombinator.com/item?id=20586469",
+    "title": "The Vertex Project | Devops, Front end, Back end | REMOTE | W-2 US only | https://vertex.link ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 1, 2019 7:57:14 PM",
+    "validThrough": "Aug 8, 2019 7:57:14 PM",
+    "crawled": "Aug 1, 2019 9:32:11 PM",
+    "content": "The Vertex Project | Devops, Front end, Back end | REMOTE | W-2 US only | <a href='https://vertex.link/careers/' rel='nofollow'>https://vertex.link/careers/</a><p>The Vertex Project is looking for several folks to join our company.  We're a remote-only startup with a solid funding source.  Our main product is an hypergraph-based intelligence analysis platform called Synapse.  It is open source <a href='https://github.com/vertexproject/synapse' rel='nofollow'>https://github.com/vertexproject/synapse</a>.</p><p>We're looking for folks to help build out a commercial SaaS offering built on top of the open source engine.  SaaS, database internals, distributed architecture experience are all areas we're looking for.</p><p>Back end: Python, asyncio, Docker, Ansible, lmdb</p><p>Front end: plain Javascript, d3</p><p>Email: careers [at] vertex.link for more information</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "RS2DwvByQuWK3OitL_KiLQ",
+    "url": "https://news.ycombinator.com/item?id=20587233",
+    "title": "Zenput | San Francisco, CA USA or Remote | Full-time | Software Engineer, Staff Software ...",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:com/dotnet/8",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jersey/java/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=8, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=10}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "dotnet",
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 90000,
+      "maxValue": 175000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": "USD 90k - 175k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 1, 2019 9:11:15 PM",
+    "validThrough": "Aug 8, 2019 9:11:15 PM",
+    "crawled": "Aug 1, 2019 9:32:11 PM",
+    "content": "Zenput | San Francisco, CA USA or Remote | Full-time | Software Engineer, Staff Software Engineer | ONSITE or REMOTE | $90k-$175k + equity (depends on location/role)<p>We’re changing the way restaurants and other retail chain operators like Dominos, Chipotle, KFC, Jersey Mike’s, and 7-Eleven translate operations strategy into great customer experiences. Today we have customers who are collectively overseeing 40,000 locations across 35+ countries using our mobile platform to drive operations excellence across all their stores.</p><p>We're looking to expand our team of experienced software engineers to help us bring a number of new capabilities to market from advanced prediction to IoT and computer vision. Our stack is based on a service oriented architecture, so we have a number of different technologies at play. To begin with, you'll be working with Python (Django), JS/Typescript (React) as well as many other tools.</p><p>Love to chat stack, so if you're interested - reach out!</p><p>More about us: <a href='https://www.zenput.com' rel='nofollow'>https://www.zenput.com</a></p><p>If you're interested, email me at timols(at )zenput( dot)com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "v0tkJbr-RQy6Ot-3JgB44Q",
+    "url": "https://news.ycombinator.com/item?id=20586612",
+    "title": "Conservation Biology Institute | Experienced full-stack engineer | Corvallis, OR (Remote ...",
+    "tags": [
+      "DBG:surround``2N( OR(feasibl,OR(consid,consider),occas,possibl), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=0, go=8, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "go",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 1, 2019 8:11:55 PM",
+    "validThrough": "Aug 8, 2019 8:11:55 PM",
+    "crawled": "Aug 1, 2019 9:32:11 PM",
+    "content": "Conservation Biology Institute | Experienced full-stack engineer | Corvallis, OR (Remote Possible)<p>The Conservation Biology Institute (CBI) is a non-profit organization of scientists, GIS analysts, spatial modellers, and software engineers. Our software development team works closely with scientists and stakeholders to build software that helps them better understand and communicate their data, and make scientifically-informed decisions.</p><p>We're currently looking to hire at least one, and possibly two experienced full stack engineers. We use Python, Django, ReactJS, and Postgres/PostGIS extensively, though we are most interested in people who can learn quickly on the job. We also use Golang for some backend components. Most of our applications are GIS-focused, and we use Leaflet and Mapbox GL JS for mapping.</p><p>Our office is located in Corvallis, OR. We are open to hiring remote positions, and currently have 2 remote software engineers on the team, including me. Candidates must be authorized to work in the US.</p><p>Full application and instructions to apply are here (PDF): <a href='https://bit.ly/2YzBegn' rel='nofollow'>https://bit.ly/2YzBegn</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "B4_bWbtvT6qcZGlPdheQKw",
+    "url": "https://news.ycombinator.com/item?id=20586674",
+    "title": "Pilotlight | Moorestown, NJ (Philadelphia Area) | Full Time / Full stack Developer (mostly ...",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG_TECH1:k/t/w:django/python/24",
+      "DBG_TECH1:k/t/w:jersey/java/8",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=30, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 1, 2019 8:18:35 PM",
+    "validThrough": "Aug 8, 2019 8:18:35 PM",
+    "crawled": "Aug 1, 2019 9:32:11 PM",
+    "content": "Pilotlight | Moorestown, NJ (Philadelphia Area) | Full Time / Full stack Developer (mostly Python / Django) | ONSITE (some remote work possible) |<p>Pilotlight is looking to add an experienced, full-time developer to our team. We are a small, boutique development shop located in Southern New Jersey (Philadelphia area) focused on building web applications for clients large and small. If you have experience with Python/Django or with similar MVC-Style frameworks (Rails, etc..) we would love to chat.</p><p>jobs@gopilotlight.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "BcQdIIQSQCifX5atpn75wg",
     "url": "https://stackoverflow.com/jobs/141116/freelance-interview-engineer-karat?a=LkcSbeLCa0o",
     "title": "Freelance Interview Engineer at Karat  ",

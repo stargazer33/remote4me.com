@@ -1,6 +1,265 @@
 {
  "items": [
   {
+    "id": "Kd9pBkeXTa2v0YAgxqQVAg",
+    "url": "https://news.ycombinator.com/item?id=20591136",
+    "title": "Immux | https://www.immux.com | Systems Software Engineer | Remote | Full time We are building ...",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:rust/other/10",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 2, 2019 9:06:16 AM",
+    "validThrough": "Aug 9, 2019 9:06:16 AM",
+    "crawled": "Aug 2, 2019 11:07:06 AM",
+    "content": "Immux | <a href='https://www.immux.com' rel='nofollow'>https://www.immux.com</a> | Systems Software Engineer | Remote | Full time<p>We are building a fast and easy-to-use immutable database engine and a computing service that provide first-class citizen support for functional programming, versioned and auditable data operations, and automatic maintenance and tuning.</p><p>We intend to make immutable storage systems the norm in a decade. Join us to design and implement computing infrastructure for the next generation.</p><p>Stack: Rust + TypeScript.</p><p>Seed round from a NASDAQ-listed finance company. Salary + options.</p><p>The whole team works remotely.</p><p>Contact: shu@immux.com (Andy Shu, Founder/CEO), preferably with resume and GitHub link.</p><p>(If you haven't written Rust but is interested and learns fast, feel free to get in touch!)</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "_fb2KnJaRI2uDdKIIoofYg",
+    "url": "https://news.ycombinator.com/item?id=20589873",
+    "title": "Aclaimant | Remote | Full Stack Developer | Full-time | https://aclaimant.com Aclaimant is ...",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:clojure/other/15",
+      "DBG_TECH1:k/t/w:clojurescript/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 2, 2019 3:00:04 AM",
+    "validThrough": "Aug 9, 2019 3:00:04 AM",
+    "crawled": "Aug 2, 2019 5:08:12 AM",
+    "content": "Aclaimant | Remote | Full Stack Developer | Full-time | <a href='https://aclaimant.com' rel='nofollow'>https://aclaimant.com</a>Aclaimant is looking for a senior or mid-level Clojure developer to join our team. At Aclaimant we are redefining the way companies and employees work together to manage risk. Our SaaS platform is built using Clojure and ClojureScript. We work remotely from the comfort of our own homes. Pair programming is important to us; it helps us build culture and share knowledge. We expect candidates to be located within North America. Email jobs@aclaimant.com for more information or visit <a href='https://aclaimant.com/careers-developer' rel='nofollow'>https://aclaimant.com/careers-developer</a>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Lbu0Wg0NQ0mL40AcmyUApA",
+    "url": "https://jobs.github.com/positions/f0443e49-1f3b-461a-8f12-815862adb637",
+    "title": "Software Engineer (Backend, IoT)",
+    "tags": [
+      "DBG:surround``12N(work, OR(home,remot), 5N(OR(offic,headquart,onsit), OR(dai,daili,week,weekli,month,monthli)) )",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=10, dotnet=5, c=2, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 1, 2019 7:40:10 PM",
+    "validThrough": "Aug 8, 2019 7:40:10 PM",
+    "crawled": "Aug 1, 2019 8:30:28 PM",
+    "content": "A company is only as good as its employees. We at grandcentrix absolutely know and appreciate this. Become part of the best team in the world and realize digital large-scale productions on the Internet of Things with the grandcentrix family of over 150 colleagues.Therefore we are looking for you as a motivated and passionate *backend software engineer* for our locations in Cologne and Dortmund, as well as remote from Germany.The vast majority of the grandcentrix staff are engineers, expecting to be challenged on a daily basis.  Our teams give a great insight into working at grandcentrix on our team website, [grandcentrix.team](https://grandcentrix.team). You should take a look!**Your role**- You design, develop and test smart IoT solutions as part of our Systems &amp; Infrastructure Competence Center.- You work in a cloud-based environment with PaaS and IaaS services and are able to integrate them sensibly into solutions.- As an experienced engineer for the planning and implementation of complex software architectures, you are the contact person for your project team.**Requirements**- You have experience as a software engineer in agile development models (Scrum, Kanban, XP, etc.).- You have good knowledge of at least one object-oriented or functional programming language (C#, Rust, Elixir, Ruby, Python, etc.).- You are familiar with modern software architectures and process models in the industry.- You have experience with PaaS and IaaS services such as Microsoft Azure, Amazon Web Services or Google Cloud Platform.- Previous knowledge of IoT-specific services such as Azure IoT Hub or AWS IoT Core is an advantage.- You have advanced knowledge of protocols such as HTTP and the design of REST APIs.- You have a strong interest in test-driven development as well as high-performance and maintainable code for software development.- You have an open communication style in German or English.**Our offer**- Working hours based on the honour system, as well as a flexible home office scheme -- no more vacation days wasted when you need something repaired at home.- Innovative projects, unbureaucratic structures and short paths to decision makers.- State of the art equipment and an inspiring, modern working environment with an attractive atmosphere.- Regular internal lightning talks, hackathons and public meet-ups hosted by us.- Personal development through training courses, congress visits and time for active knowledge sharing in internal communities.- Attractive, performance-based compensation instead of static pay tables or seniority.Company pension, Jobrad, VRS job ticket and relocation assistance are available if you would like.",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "vQ4ocyd2QjyPlS1YOFzTSw",
+    "url": "https://news.ycombinator.com/item?id=20585841",
+    "title": "Digital Onboarding | Senior Full-stack Engineer | REMOTE (US based) | Full time Digital ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:com/dotnet/8",
+      "DBG_TECH1:k/t/w:elixir/other/10",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/frontend",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "frontend",
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 1, 2019 7:00:44 PM",
+    "validThrough": "Aug 8, 2019 7:00:44 PM",
+    "crawled": "Aug 1, 2019 7:32:07 PM",
+    "content": "Digital Onboarding | Senior Full-stack Engineer | REMOTE (US based) | Full time<p>Digital Onboarding is a marketing automation platform that helps banks and credit unions modernize their onboarding process and develop mutually beneficial, profitable relationships with their customers and members.</p><p>Current stack: Elixir + Phoenix, React + Redux, Lambda (Node), Postgres</p><p>Requirements:</p><p>- 5+ years in front end and back end web development</p><p>- Committed to building features you're proud of</p><p>- Strong understanding of SQL databases</p><p>- Strong understanding of functional programming</p><p>- Strong communication skills</p><p>- Previous Elixir experience</p><p>Nice-to-haves:</p><p>- Machine learning experience</p><p>- Experience working on a remote-first, distributed team</p><p>- Love of nachos</p><p>Send me an email me at jonathan at digitalonboarding dot com.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "2RFFP4C1QeObVhBD4O_ceA",
+    "url": "https://news.ycombinator.com/item?id=20586174",
+    "title": "Eleos Technologies | Remote (US only) | Full time | https://eleostech.com Eleos Technologies is ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:erlang/other/5",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 1, 2019 7:29:16 PM",
+    "validThrough": "Aug 8, 2019 7:29:16 PM",
+    "crawled": "Aug 1, 2019 7:32:07 PM",
+    "content": "Eleos Technologies | Remote (US only) | Full time | <a href='https://eleostech.com' rel='nofollow'>https://eleostech.com</a><p>Eleos Technologies is a growing 8-year-old company building communication software for truck drivers and field workers.</p><p>We’re helping a diverse mix of customers—from mom and pop operations to household names—improve how they communicate with their employees by tackling information overload, reducing phone calls, and eliminating obsolete technologies.</p><p>We're looking for someone to own and evolve our web backends. The primary backend is built on Erlang/OTP, plus supporting systems built in Clojure (image processing) and Ruby on Rails (dashboard, billing UI, those bits.) As a small team, we've all helped build and grow these systems, but we're ready for a specialist!</p><p>In addition to the above technologies, we're running on AWS, using PostgreSQL, although we're keen to remember that all these things are tools and not identities.</p><p>If that sounds fun and rewarding to you, the full description and info about applying are over here:</p><p><a href='https://jobs.lever.co/eleostech' rel='nofollow'>https://jobs.lever.co/eleostech</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "WD-UdEzqQ7WY9praxiQoFQ",
     "url": "https://remote.co/job/erlang-developer/",
     "title": "Erlang Developer",
