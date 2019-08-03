@@ -1,6 +1,55 @@
 {
  "items": [
   {
+    "id": "JkEDVJLdS16sIDKJiOJS6A",
+    "url": "https://jobmote.com/job/56235/looking-mainframe-remote-role/",
+    "title": "Looking Mainframe % remote role",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:assembly/c/1",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=6, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "Business Needs Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 2, 2019 10:07:26 PM",
+    "validThrough": "Aug 5, 2019 10:07:26 PM",
+    "crawled": "Aug 3, 2019 3:06:26 AM",
+    "content": "<div><p>Mainframe Developer / Programmer ***<br>Location: would prefer someone in Santa Clara, CA however will accept remote workers (can be 100%)<br>PHONE HIRE</p> <p>Responsibilities</p> <p>Mainframe Solution Design and Development</p> <p> Solutions to augment and complement the existing portfolioof Hitachi Mainframe-Attached Enterprise Storage products.</p> <p>o Hitachi VSP G1500/F1500 Storage Systems</p> <p>o Hitachi Business Continuity Manager (BCM) ReplicationManagement Software.</p> <p>o Hitachi Universal Replicator for Mainframe (HUR)Asynchronous Remote Replication</p> <p>o Hitachi TrueCopy for Mainframe (TC) Synchronous RemoteReplication Program Product.</p> <p>o Hitachi ShadowImage for Mainframe (SI) In-SystemReplication Program Product.</p> <p>o Hitachi Mainframe Recovery Manager (HMRM) BusinessContinuity Orchestration Software.</p> <p>Qualifications</p> <p> Strong Experience with the following IBM z/OS OperatingSystem Programming Languages, Utilities and Components:</p> <p>o Assembler</p> <p>o Metal C</p> <p>o Rexx</p> <p>o Software Configuration and Library Manager (SCLM)component of the IBM Interactive System Productivity Facility (ISPF) running onthe z/OS Operating System.</p> <p>z/OS Job Control Language (JCL)</p> <p>z/OS System Rexx (SYSREXX)</p> <p>z/OS Base Control Program internal interface (BCPii)</p> <p>z/OS Security Server (RACF)</p> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "UivKeBAAR8abkrPpS9o6EQ",
     "url": "https://news.ycombinator.com/item?id=20593014",
     "title": "Airtame (https://airtame.com) | Copenhagen, Denmark/ Budapest, Hungary | Full-time, Onsite ...",
