@@ -1,6 +1,107 @@
 {
  "items": [
   {
+    "id": "NAMF6sgcRoK_qOQfpO-XWw",
+    "url": "http://www.indeed.co.uk/viewjob?t=Associate+Software+Engineer&jk=97b848daec0b293f&",
+    "title": "Associate Software Engineer - starting Summer 2019 - Alert Logic - Cardiff",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:erlang/other/10",
+      "DBG_TECH1:k/t/w:haskell/other/5",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lisp/other/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=20, dotnet=0, c=13, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 10, 2018 12:46:08 AM",
+    "validThrough": "Nov 17, 2018 12:46:08 AM",
+    "crawled": "Aug 4, 2019 2:06:27 PM",
+    "content": "<div><p></p><div><div><div><div><div><p><b>About Alert Logic</b></p><p>Alert Logic® seamlessly connects an award-winning security platform, cutting-edge threat intelligence, and expert defenders – to provide the best security and peace of mind for your business 24/7 – at a lower total cost than point solutions, SIEM tools, or traditional security outsourcing vendors. We offer a new approach to evolving threats, expanding compliance risks, and resource constraints - helping you get the right level of security and compliance coverage across any environment. That’s SIEMless Threat Management. Only from Alert Logic.</p><br></div></div></div></div><p></p><p><b>Job Summary</b></p><p>Interested in making a difference? Looking for a company that’s customer obsessed, passionately pursues operational excellence, rewards design thinking and has a team first - individual ownership culture? Alert Logic employees design, implement, manage and support award winning cybersecurity products and solutions for over 4,000 customers. We are continuously seeking new team members who want to leverage their expertise to make a significant contribution to the company’s success and add value for our customers. If you’re ready to be a difference-maker, to bring new ideas and make things happen, consider the company that is leading and changing cybersecurity.</p><p>As an Associate Software Engineer, you’ll work as a member of a 5-10 person team of smart and creative developers responsible for designing, deploying, and managing a key subsystem within the Alert Logic security platform. You’ll get to leverage the latest AWS technologies, open source, and proprietary Alert Logic code to deliver customer value incrementally, every day! You’ll take on the computer science challenges posed by processing millions of events per second from over 4,000 customers. This is an opportunity for you to grow your software development skills by working with experienced colleagues to overcome the challenges of delivering next-generation security solutions at scale.</p><p><b>What you’ll do</b></p><ul><li>Implement new micro-services and features to solve customer needs while ensuring consistency in behavior and performance</li><li>Conduct continuous, incremental software releases</li><li>Ensure quality through appropriate unit and functional testing</li><li>Operationally support production software components, implementing thoughtful monitoring and alerting to detect error conditions before they impact customer</li></ul><p><b>What you’ve done and can do</b></p><ul><li>You’ve got a bachelor’s degree in Computer Science or Engineering, or you’ve gained equivalent knowledge through your work experience</li><li>You are familiar with one of these programming languages: C, C++, Java, Python , Erlang</li><li>You have developed for Linux Distributions (Debian or CentOS)</li><li>You know and like agile methodology</li><li>You’ve got experience developing and consuming RESTful APIs</li><li>You have an understanding of network protocols such as IP, TCP, UDP, with emphasis on HTTP</li></ul><p><b>You’re next-level with this knowledge and experience</b></p><ul><li>You’ve worked with AWS/Azure IaaS tools and services</li><li>You know serverless architecture: AWS Lambda or container technologies</li><li>You’ve done functional language programming in Erlang, LISP or Haskell</li><li>You’ve developed production applications using noSQL database technology such as DynamoDB, Riak, or Cassandra</li><li>Have used one or more map reduce frameworks</li><li>You’re familiar with SQL databases and experience with high volume transaction processing</li><li>You’re comfortable and experienced working with remote teams in different time zones</li><li>You’ve got some knowledge of network security</li><li>You’ve contributed to one or more open source projects</li><li>You’ve used Git source control system</li><br></ul><div><div><p></p><div><div><p>Alert Logic is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.</p><p><b>Notice to recruitment agencies</b>: Alert Logic does not accept unsolicited candidate resumes from recruiting agencies. We will not be liable for and will not pay placement fees for unsolicited resumes submitted to our jobs postings, employees or company locations.</p></div></div></div></div></div><p></p></div><div><div><div><span></span></div><span>Cardiff</span></div><div><div><span></span></div><span>Temporary</span></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "hQXEVdKJQKy5fwqEWAWmZw",
+    "url": "https://jobmote.com/job/56375/remote-blockchain-rust-wasm-developer/",
+    "title": "Remote Blockchain RUST/WASM Developer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG_TECH1:k/t/w:rust/other/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "CareerBuilder-US",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 3, 2019 10:07:23 PM",
+    "validThrough": "Aug 6, 2019 10:07:23 PM",
+    "crawled": "Aug 4, 2019 3:06:25 AM",
+    "content": "<div>Company Introduction<br><br>OneinaMil is a talent matchmaking firm, we specialize in culture driven recruiting. Our mission is to change the way traditional recruiting is done by putting human connection and culture back into the talent acquisition puzzle. This position is with one of our many fantastic clients. We only work with the best companies out there, so if you are looking to join an amazing company, this could be the opportunity for you!<br><br>Who You Are:<br><br>Our client is a technology startup focused on building a next generation scalable proof of stake blockchain platform. They are looking for a talented Software Engineer to crush goals with their team. This Software Engineer is responsible for architecting and developing features in the blockchain platform in close collaboration with other team members of the development team. Are you looking to join a team of brilliance? Are you up for this challenge? This is a startup that is in stealth mode. If you are not looking for a life-changing career, stop reading.<br><br><b>***This is a 100% remote opportunity***</b><br><br>What You'll Do:<ul><li>You will review business requirements and develop an implementation plan for a feature, including design documentation and technical specifications.</li><li>You will participate in product requirements and development sessions and contributes to design decisions to ensure seamless integration of new features with current system functionality.</li><li>You will develop features iteratively with frequent pull requests, including unit tests and documentation.</li><li>You will recommend ways to improve product functionality, usability, reliability, performance and scalability.</li><li>You will work independently using engineering practices to evaluate, enhance and maintain existing quality methods &amp; processes.</li><li>You will make excellent technical decisions and complete tasks &amp; assignments under only general direction. So, no, we cannot hold you hand, nicely.</li><li>You demonstrates self-initiative and self-motivation and recognizes problems that need further investigation seeking assistance only when needed.</li><li>You can independently determine and develop approach to solutions for a wide range of technically difficult problems, under only very general direction.</li></ul>Who You Are:<ul><li>You have experience working in a Linux environment. This is a huge requirement!</li><li>You have a Bachelor?s degree in Computer Engineering, Computer Science, or equivalent experience is required.</li><li>You have a minimum of three (3) years experience as a Software Engineer on large scale systems and/or distributed systems is required.</li><li>Having experience working with Rust in a production environment is a requirement .</li><li>You have experience working with WASM.</li><li>You have experience with functional programming.</li><li>You have experience with formal methods, computational mathematics, or process calculi is a huge plus.</li><li>You have experience with blockchain technologies.</li></ul></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "4sMrOpJ0SGiRnrn3i0jCLw",
     "url": "https://news.ycombinator.com/item?id=20595812",
     "title": "Interfolio | Software Engineer (Elixir) | Wash, DC OR Fully Remote (US) | Full Time | www ...",
