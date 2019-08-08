@@ -1,6 +1,119 @@
 {
  "items": [
   {
+    "id": "SZkw25LTQPKv1D7Ge74sUw",
+    "url": "https://remoteok.io/jobs/74383",
+    "title": "Senior Software Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(work,oper) 2N 2N( OR(independ,fulli), remot)",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=14, bigdata-ml=0, ruby=12, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Instructure",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 8, 2019 12:08:29 AM",
+    "validThrough": "Aug 15, 2019 12:08:29 AM",
+    "crawled": "Aug 8, 2019 1:06:30 AM",
+    "content": "<span></span> <span><h4>Instructure</h4></span> <br> <h3>Senior Software Engineer</h3> <div>  <div>   We are searching for an engineer who is passionate about building tools and services as a force multiplier. Our team builds and supports tools for other Instructure engineers to enable DevOps on every single team, reduce duplicated effort in our delivery pipeline, and increase overall developer happiness! The right candidate will be passionate about innovative tooling, engineering a great user experience, and large scale efficiency.\\n\\nCulturally our team will look and feel very much like a highly collaborative start-up. We value innovation, so much so that we have quarterly Hackweeks; a week each quarter to work on relevant pet projects and features.\\n\\nMost of our work is open source, even our primary product (Canvas). Check us out on Github:&nbsp;www.github.com/instructure.\\n\\n\\n\\n\\nWhat We Do:\\n\\n\\n\\n\\n* We are engineers with experience building innovative internal tools that help engineers be more productive.\\n\\n* We are a mixed stack and polyglot team with a deep commitment to quality and to using the right tech for each problem we solve.\\n\\n* This team works on a lot of different projects across a broad spectrum of technologies in the DevOps space.\\n\\n* Our engineers become the primary owners of services that enable product teams&nbsp;to execute on product instead of infrastructure.\\n\\n* We use Ruby, Rails, JavaScript,&nbsp;Node.js, Go, PostgreSQL, Linux, Java and many AWS technologies including CodeDeploy, DynamoDB, Lambda, ElasticSearch, RDS and Kinesis.\\n\\n* We review code and participate in technical design reviews.\\n\\n* We work with product management to refine requirements and scope projects.\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nWhat We Look For:\\n\\n\\n\\n\\n* Experience with Amazon Web Services and developing against Amazon APIs.\\n\\n* Experience programming in Ruby, Node, or Go.\\n\\n* Experience with containers (Docker, Kubernetes, etc).\\n\\n* Experience with Terraform, Ansible or other infrastructure as code tools.\\n\\n* Experience creating or managing a CI/CD pipeline (Jenkins, Git/Gerrit, Spinnaker etc.).\\n\\n* Previous experience working fully remote.\\n\\n* MS/B in Computer Science or applicable development camp certificate preferred\\n\\n\\n\\n\\n  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "yu9w2NUvTj64zt7ooZxfcQ",
+    "url": "https://weworkremotely.com/remote-jobs/enzyme-senior-full-stack-rails-javascript-engineer",
+    "title": "Enzyme: Senior Full Stack Rails / Javascript Engineer",
+    "tags": [
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:less/frontend/10",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=24, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=29}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Enzyme",
+      "sameAs": "https://www.enzyme.com"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 110000,
+      "maxValue": 190000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 110k - 190k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 7, 2019 7:18:12 PM",
+    "validThrough": "Aug 14, 2019 7:18:12 PM",
+    "crawled": "Aug 7, 2019 7:30:23 PM",
+    "content": "<h3> Senior Full Stack Rails / Javascript Engineer </h3><div><div><span></span></div><div><span>We are looking for a full-stack expert. You have taken multiple apps from conception to deployment, and have experience and opinions on the best technologies to use and why. You should be comfortable implementing new features from scratch, making changes to existing features and writing complex migrations on production data. You should be able to hit the ground running and be able to read code to figure out how it should work, how it currently works, and how best to improve it.</span></div><div><br></div><div><span>We are a remote-first company, with an office in San Francisco. Half of our 8-person team are remote. We meet up for offsite retreats bi-annually, previously we have skied near Tahoe and tasted wine in Sonoma. Our Employee Handbook is published here: </span><a href='https://github.com/EnzymeCorp/handbook' rel='nofollow'><span>https://github.com/EnzymeCorp/handbook</span></a></div><div><br></div><div><span>Enzyme is a Y Combinator company (YC S17), with 30+ paying customers, and we are growing our team to keep up with demand. This is an opportunity to be an early engineer at a startup that has found its feet and shape the engineering culture, and you should have opinions on how to do that.</span></div><div><br></div><div><span>If you enjoy working with smart and kind people, want to work for a company with a goal to improve peoples' lives and want an opportunity to both grow with a company and shape that company's growth, we want to hear from you.</span></div><div><br></div><div><span><b>Must-haves</b></span></div><ul><li><span>Expert Rails and modern JavaScript knowledge</span></li><li>Excellent verbal and written communication skills</li><li>“Strong opinions, weakly held”</li></ul><div><br></div><div><span><b>Nice-to-haves</b></span></div><ul><li><span>Experience in Ember, React or other SPA frameworks, AWS, Terraform</span></li><li>Experience working within life science or another regulated industry.</li><li>Experience working within a distributed team</li></ul><div><br></div><div><b>Compensation</b></div><div><b><br></b></div><div>Annual Salary $110,000 - $190,000</div><div>Equity 0.25% - 1%</div><div><br></div><div><span><b>What We’re Building</b></span></div><div><br></div><div><span>Think TurboTax, but for the FDA.</span></div><div><br></div><div><span>We’re building a software platform to handle the compliance aspects of running a drug or medical device company. Compliance is an ongoing activity for companies in this space, and annual costs per company range anywhere from $100K to $100M. Being deemed not compliant can be devastating, preventing a company from selling any new product for months and sometimes years.</span></div><div><br></div><div><span>In lieu of hiring costly consultants or employees to address this problem, customers provide our platform access to their data, and the platform outputs documentation in the manner that FDA and other regulatory agencies are looking for.</span></div><div><br></div><div><span>By using our software platform, customers will cut their annual regulatory costs by 50% (on average) and reduce the risk that their products will not get approved for sale.</span></div><div><br></div><div><span><br></span></div><div><span><b>About Enzyme</b></span></div><div><span><b><br></b></span></div><div><span>Imagine a world in which every new piece of medical technology -- every new chemo drug, pacemaker, Alzheimer’s therapy -- gets in the hands of patients 30% faster. That’s the world we’re building. And we’re looking for people who are motivated by the idea of being a force multiplier across an industry, and thus having a small hand in every new exciting technology being developed over the next 10 years.</span></div><div><br></div><div><span>Enzyme is enabling the next generation of biomedical technology by building FDA approval as a service. Our software allows our customers to get their products to market faster, with less capital and less risk of getting denied by FDA. Our mission is to ensure that no product ever fails to succeed because of regulatory issues.</span></div><div><br></div><div><span>We’re backed by YCombinator, Refactor Capital, Data Collective and Rock Health.</span></div><div><br></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "n14KqaMkRhei2P2tX_mYtA",
     "url": "https://authenticjobs.com/jobs/31538?r=rss2",
     "title": "MeetEdgar: Senior Full Stack Developer (Rails/React)",
@@ -11428,64 +11541,6 @@
     "validThrough": "Jun 16, 2019 8:30:12 PM",
     "crawled": "Jun 9, 2019 8:30:12 PM",
     "content": "<h3><span>Senior Rails Engineer (100% Remote or Onsite in SF) MyTime Series B SaaS Startup</span> </h3> \n<h4>About this job</h4> \n<div> \n <div> \n  <div> \n   <span>Job type: </span> \n   <span>Full-time</span> \n  </div> \n  <div> \n   <span>Experience level: </span> \n   <span>Senior</span> \n  </div> \n  <div> \n   <span>Role: </span> \n   <span>Backend Developer</span> \n  </div> \n </div> \n <div> \n  <div> \n   <span>Industry: </span> \n   <span>blockchain, functional programming, Recruiting</span> \n  </div> \n  <div> \n   <span>Company size: </span> \n   <span>11-50 people</span> \n  </div> \n  <div> \n   <span>Company type: </span> \n   <span>Private</span> \n  </div> \n </div> \n</div> \n<div> \n <h4>Reactions to this job</h4> \n <div> \n  <div> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n  </div> \n </div> \n <div> \n  <div> \n   <div> \n    <div></div> \n   </div> \n   <div> \n    <strong>New!</strong> How do you feel about this job listing? \n   </div> \n   <div> \n   </div> \n  </div> \n </div> \n <div></div>\n</div>\n<div>\n Company: Source Coders | No office location\n <br>\n</div>\n<h4>Technologies</h4>\n<div></div>\n<div>\n ruby-on-rails\n</div>\n<div>\n postgresql\n</div>\n<div>\n ruby\n</div>\n<div>\n elixir\n</div>\n<div>\n amazon-web-services\n</div> \n<h4>Job description</h4> \n<div>\n <p><strong>The Opportunity: Senior Rails Engineer</strong></p>\n <p>MyTime is based in SF and has a remote-friendly working environment with an excellent engineering culture. We've a team of 15 engineers who are based onsite in SF and spread across the US. We're looking experience Ruby on Rails Engineers based in the US who want to join a 100% remote distributed team, or anyone who may be interested in relocating to SF.</p>\n <p>This is a great opportunity to join a small and growing engineering team, where you will make a big impact on a multi-dimensional SaaS product that is used by millions of people each day.&nbsp;</p>\n <p><strong><strong>Preferred Qualifications</strong></strong></p>\n <ul>\n  <li>3+ years of professional software engineering experience with Ruby on Rails</li>\n  <li>Experience working with relational databases such as MySQL or PostgreSQL</li>\n  <li>Some experience with Memcache and ElasticSearch is preferred</li>\n  <li>Some experience with AWS products (EC2, ECS, RDS, S3, ELB) is preferred</li>\n  <li>Comfortable writing test suites and specs in our test-driven environment</li>\n </ul>\n <p>MyTime offers competitive salaries, an annual bonus, meaningful equity, strong equity package, full health benefits and a generous PTO policy</p> \n</div> \n<div> \n <a href='https://stackoverflow.com/jobs/apply/273164?reset=False&amp;ra=1tBRETukHjQQ&amp;oqs=a%3D1tBRETukHjQQ' rel='nofollow'>Apply now</a>\n</div>\n<div> \n</div> \n<h4>About Source Coders</h4> \n<div>\n <p>MyTime is a fully integrated scheduling, payments and automated marketing platform, specializing in large multi-location chains and franchises. Our mission critical software -- which includes in-store scheduling and online booking, client record management, email and SMS marketing, and a full point of sale for handling payments -- is used in every aspect of the customer journey. Our customers rely on their service businesses to remain competitive in the age of Amazon, and they need a next generation POS to help them achieve this growth. We aspire to be the “operating system” of their business.</p>\n <p>We also made it easy to plug our online booking, payments and messaging capabilities into the places customers are found today, including Google Search, Facebook, Instagram, and the merchants’ own websites and mobile apps. Upon adopting MyTime, our customers see average revenue growth of up to 30% through improved operational efficiency, greater customer retention, and access to new customer acquisition channels.</p>\n <p>Our product is used at over 14,000 locations across the globe, ranging from single-location sole proprietors to multi-billion dollar Fortune 500 chains. &nbsp;As a completely cloud-based solution, MyTime is designed for quick and easy deployments. It’s lauded for its ease-of-use and short ramp-up time, having won numerous awards such as the Best Commerce Product of 2017 from the Local Search Association.</p>\n <p>MyTime is backed by Upfront Ventures and Khosla Ventures and was founded by Ethan Anderson, a successful serial entrepreneur whose first startup, Redbeacon, won TechCrunch50 in 2009 and was acquired by The Home Depot.</p> \n</div> \n<h4>Benefits</h4> \n<ul> \n <li> <span></span> <span>casual dress</span> </li> \n <li> <span></span> <span>private medical</span> </li> \n <li> <span></span> <span>uncapped commision</span> </li> \n <li> <span></span> <span>unlimited PTO</span> </li> \n <li> <span></span> <span>occasional work from home</span> </li> \n</ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Z2JddQKiTSiPlOjHNxj2SQ",
-    "url": "https://weworkremotely.com/remote-jobs/kolau-senior-ruby-on-rails-engineer-full-stack-developer",
-    "title": "Kolau: Senior Ruby on Rails Engineer | Full-Stack Developer",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:laravel/php/8",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:rspec/ruby/8",
-      "DBG_TECH1:k/t/w:ruby-developer/ruby/26",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
-      "DBG_TECH1:k/t/w:ruby/ruby/6",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=56, apple=0, java=0, gamedev=0, php=13, embedded=0, frontend=38}",
-      "REMOTE1/100",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "Blacksquared GmbHFull-Timepreferably Europe, but pretty flexible SoshaceContractWorldwideReaktiv StudiosFull-TimeUSA",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 8, 2019 4:32:05 PM",
-    "validThrough": "Jun 15, 2019 4:32:05 PM",
-    "crawled": "Jun 8, 2019 5:06:09 PM",
-    "content": "<h3> Senior Ruby on Rails Engineer | Full-Stack Developer </h3>\n<div>\n <div>\n  <strong>What is Kolau</strong>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  Kolau is a SaaS company that is building the marketing of tomorrow - and it’s doing it today.\n </div>\n <div>\n  <br>\n </div>\n <div>\n  96% of all businesses have 0-9 employees and Kolau’s is their solution to rank in the 1st page of Google. Why? They have no time to do it, knowledge to do it right or money to pay marketing agencies, thus Kolau. Simple, quick, effortless.\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>We’re a distributed team, with offices in the United States, Spain and Mexico.</span>\n  <br>\n </div>\n <div></div>\n <div>\n  Our backend tools are fairly standard - Rails, Postgres, Redis, Rspec, Sidekiq, AWS &amp; Heroku.&nbsp;\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <b>Our mission is beyond standard however!</b>\n  <span> We look forward to meeting you!</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <strong>What you would be working on?</strong>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  With Kolau, we are building a platform that makes it easier for any micro/small business without a website and without any time or marketing knowledge to have one and ranking on the 1st page of the search results.&nbsp;\n </div>\n <div>\n  <br>\n </div>\n <div>\n  Kolau is not just software, though. We have an amazing tech support team that is available in case users need some extra assistance and are as much a part of the Kolau product, success and experience as the platform itself.\n  <br>\n </div>\n <div></div>\n <div></div>\n <div>\n  <br>\n </div>\n <div>\n  <h4>REQUIREMENTS</h4>\n </div>\n <div>\n  <br>\n </div>\n <ul>\n  <li>5+ years experience with Ruby on Rails</li>\n  <li>1+ years experience with a JS framework, VUE preferred</li>\n  <li>A product-first approach to building software and great attention to detail</li>\n  <li>You ship quality code quickly with great coding skills.</li>\n  <li>You enjoy the fast-paced nature of a startup and look forward to joining a company that is shaping the digital marketing world</li>\n  <li>Experience with SaaS development and API development preferred</li>\n </ul>\n <div>\n  <span><br></span>\n </div>\n <div>\n  <h4>BENEFITS</h4>\n </div>\n <div>\n  <br>\n </div>\n <ul>\n  <li><strong>Competitive salary</strong>: Competitive compensation package based on experience and location.</li>\n  <li><strong>Opportunity</strong>: Ground floor opportunity to shape the direction of the company</li>\n  <li><strong>Getaways</strong>: Company retreat around the world 1x year - Barcelona, anyone?</li>\n  <li><strong>Continuing Education:</strong>&nbsp;$250 for anything you’d like to learn. Also, we ship a new book monthly within your category of interest!</li>\n </ul>\n</div>\n<div>\n <h4> Related Jobs <span><a rel='nofollow'> See more Programming jobs<span>→</span></a></span></h4>\n <ul>\n  <li><span>New</span>\n   <div></div>\n   <div>\n    <a rel='nofollow'>\n     <div></div><span>View company profile</span></a>\n   </div><a rel='nofollow'><span>Blacksquared GmbH</span><br><span>Senior Backend Engineer (PHP/Laravel)</span><span>featured</span><br><span>Full-Time</span><span>/</span><span>preferably Europe, but pretty flexible </span></a></li>\n  <li><span>New</span>\n   <div></div>\n   <div>\n    <a rel='nofollow'>\n     <div></div><span>View company profile</span></a>\n   </div><a rel='nofollow'><span>Soshace</span><br><span>Front-end Developer with React or Angular 2+</span><span>featured</span><br><span>Contract</span><span>/</span><span>Worldwide</span></a></li>\n  <li><span>New</span>\n   <div></div>\n   <div>\n    <a rel='nofollow'>\n     <div></div><span>View company profile</span></a>\n   </div><a rel='nofollow'><span>Reaktiv Studios</span><br><span>Senior Web Developer</span><span>featured</span><br><span>Full-Time</span><span>/</span><span>USA</span></a></li>\n </ul>\n <br>\n</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

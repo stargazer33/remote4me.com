@@ -1,6 +1,374 @@
 {
  "items": [
   {
+    "id": "YiGn3HH6RFaMPOOUhY9cmw",
+    "url": "https://news.ycombinator.com/item?id=20643882",
+    "title": "Eurostaff Group | Mid-level developer REMOTE WORKING OFFERED- offices based in London - ...",
+    "tags": [
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(role,work) 4W OR(offic,headquart,onsit)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:techWeightMap:{python=20, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 8, 2019 2:31:13 PM",
+    "validThrough": "Aug 15, 2019 2:31:13 PM",
+    "crawled": "Aug 8, 2019 4:09:11 PM",
+    "content": "Eurostaff Group | Mid-level developer REMOTE WORKING OFFERED- offices based in London - permanent role<p>Tech stack- python, django, AWS...</p><p>Looking on behalf of an end to end sensor plus SaaS solutions company. They're using microsensors (software) to monitor and control things such as temp, proximity and touch. They then apply a variety of algorithms to the data that has been drawn to produce useful information.</p><p>User cases; monitor temperature in NHS drugs fridges - removes the need for nurses to monitor etc or a more complex and dynamic example might be using temp to identify desk occupancy in an office and provide stats such as peak usage etc. The same sensor can also be used for preventative maintenance  - e.g rising heat on servers in data centres. (AMB, Google Data Centre in Holland)</p><p>Major clients - late-stage angel investor, NHS, Verizon, Amazon through JLL, ABM (Google data centre in Holland) and they're in talks with Pret, Hello Fresh.</p><p>email CVs to s.athwain@eurostaffgroup.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "gcjXEKMiSWC9oF1bv5bDgw",
+    "url": "http://workinstartups.com/job-board/job/83180/senior-infrastructure-engineer-cambridge-office-at-wegift/",
+    "title": "Senior Infrastructure Engineer (Cambridge Office)",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "WeGift",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 50000,
+      "maxValue": 100000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 50k - 100k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 7, 2019 5:50:26 PM",
+    "validThrough": "Aug 14, 2019 5:50:26 PM",
+    "crawled": "Aug 8, 2019 12:06:30 PM",
+    "content": "<h3>Role</h3><br /><p>As a Senior Infrastructure Engineer you will help supporting our infrastructure needs and requirements as we continue to scale our business. You will be working closely with the CTO to ensure the company&rsquo;s infrastructure continues to be robust, secure, and scalable.</p><br /><h3>Responsibilities</h3><br /><ul><br /><li>Maintain and monitor all network, security and computer systems to meet the organization's current and future requirements.</li><br /><li>Responsible for management, maintenance and architecture of storage, virtualized environment, servers, network devices, and productivity tools.</li><br /><li>Monitor systems and identify performance issues proactively.</li><br /><li>Test all changes to networks, hardware, software, and hosted applications.</li><br /><li>Monitor service delivery compliance to budget, quality standards, customer and business stakeholder requirements.</li><br /><li>Cater to doing infrastructure coordination related to design and setup activities at different stages of a project.</li><br /><li>Maintain the necessary project plans and documentation of all system builds and modifications.</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Must haves</strong></p><br /><ul><br /><li>Over 10 years&rsquo; experience as an Infrastructure Engineer.</li><br /></ul><br /><ul><br /><li>Expert level of understanding of Linux with a focus on security.</li><br /><li>Experience with some configuration management tool like Saltstack to manage multiple servers (about 50).</li><br /><li>Expert level experience of managing AWS services.</li><br /><li>Deep understanding of Nginx server both as HTTP server and as a reverse proxy.</li><br /><li>Experienced in managing Squid Proxy Server.</li><br /><li>SMTP Server configuration.</li><br /><li>Advanced level of understanding of Postgres server configuration and replication. (Postgres replication knowledge is very desirable. Must have replication experience with at least one database server, for example, Oracle or MySql).</li><br /><li>Application cluster, failover and load balancing experience.</li><br /><li>Familiar with Google Compute Engine.</li><br /><li>Gunicorn, celery, MQ Rabbit and Python are a bonus.</li><br /><li>Zabbix or similar monitoring tools.</li><br /><li>Excellent communicator and collaborator with both technical and non-technical members of the team.</li><br /><li>Maintain a good working knowledge of current infrastructure and future trends.</li><br /></ul><br /><h3>What&rsquo;s in for you?</h3><br /><p>We believe there is a clear distinction between perks and benefits. Perks are easily replicable, whereas benefits are something that are unique to us. We have taken the time to tailor a number of them to fit our culture and ethos.</p><br /><h3>Compensation</h3><br /><ul><br /><li>&pound;50-100k (DOE)</li><br /></ul><br /><h3>Benefits</h3><br /><ul><br /><li>Pay reviews every 6 months to make sure we&rsquo;re paying market rate.</li><br /><li>Participation in the Employee Options pool so you get to own a piece of WeGift.</li><br /><li>Pension scheme (3% contribution)</li><br /><li>A minimum of 25 days holiday + bank holidays (we&rsquo;re not too descriptive about holidays so if you need more time off then just ask).</li><br /><li>Staff perks with WeGift brands - discounts of up to 12% on coffee, weekly groceries, holidays, the list is endless.</li><br /><li>Flexible hours and work from home when needed - yes, yes everyone says this but we do.</li><br /><li>WeRecognise, where we shine the spotlight on exceptional employees every month who in turn get a &pound;200 award in the eGift card of their choice.</li><br /><li>Personal development budget - well actually there is no budget as we don&rsquo;t believe in putting a cap on learning new things.</li><br /><li>Generous maternity and paternity packages to make sure you get to spend time with your new bundle of joy.</li><br /><li>Fully licensed as a tier 2 sponsor + relocation packages to help you get settled in.</li><br /></ul><br /><h3>Perks</h3><br /><ul><br /><li>A modern office on the Cambridge Science Park with lots of natural light</li><br /><li>A new laptop as standard - no one wants an old one when they need to be doing their best work + all the trimmings you need to get the perfect work setup.</li><br /><li>Catered lunch once a week.</li><br /><li>Monthly team socials (Escape Rooms, Karaoke - everyone gets a chance to choose what this looks like)</li><br /><li>Cycle to work scheme - save some &pound;&pound;&pound; on buying a bike</li><br /></ul><br /><p>&nbsp;</p><br /><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br /><p>&nbsp;</p><br /><p>Successful candidates will be contacted within two weeks.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "tn_02FwCQqC0BRD8i9_OBQ",
+    "url": "http://workinstartups.com/job-board/job/83178/lead-engineer-cambridge-office-at-wegift/",
+    "title": "Lead Engineer (Cambridge Office)",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/8",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python-developer/python/13",
+      "DBG_TECH1:k/t/w:sqlalchemy/python/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=29, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "WeGift",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 70000,
+      "maxValue": 90000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 70k - 90k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 7, 2019 5:45:18 PM",
+    "validThrough": "Aug 14, 2019 5:45:18 PM",
+    "crawled": "Aug 8, 2019 12:06:30 PM",
+    "content": "<h3>Role</h3><br /><p>Writing clean, scalable and reusable code to deliver the features on the company roadmap.</p><br /><h3>Responsibilities</h3><br /><ul><br /><li>Leading a team to ensure we deliver clean, scalable, reusable and maintainable code.</li><br /><li>Designing technical solutions to solve business problems.</li><br /><li>Analysing, vetting and testing new technology choices.</li><br /><li>Participating in code reviews to maintain code quality and coaching other team members on best practise.</li><br /><li>Maintaining well documented release notes and change log.</li><br /><li>Developing back-end components to improve responsiveness and overall performance</li><br /><li>Integrating user-facing elements into applications</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Must haves</strong></p><br /><ul><br /><li>8+ years of strong python development experience.</li><br /><li>Good knowledge of HTML, JS and CSS and Linux is necessary.</li><br /><li>Strong experience of creating and using Web APIs.</li><br /><li>Experience of working with a relational database and preferably knowledge of one ORM like, for example, SqlAlchemy.</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Nice to haves</strong></p><br /><ul><br /><li>PostgreSQL</li><br /><li>Celery</li><br /><li>ES6+</li><br /><li>Flask (highly desired)</li><br /><li>Familiarity with Vue</li><br /><li>Payment or financial service experience</li><br /></ul><br /><h3>What&rsquo;s in for you?</h3><br /><p>We believe there is a clear distinction between perks and benefits. Perks are easily replicable, whereas benefits are something that are unique to us. We have taken the time to tailor a number of them to fit our culture and ethos.</p><br /><h3>Compensation</h3><br /><ul><br /><li>&pound;70-90k (DOE)</li><br /></ul><br /><h3>Benefits</h3><br /><ul><br /><li>Pay reviews every 6 months to make sure we&rsquo;re paying market rate.</li><br /><li>Participation in the Employee Options pool so you get to own a piece of WeGift.</li><br /><li>Pension scheme (3% contribution)</li><br /><li>A minimum of 25 days holiday + bank holidays (we&rsquo;re not too descriptive about holidays so if you need more time off then just ask).</li><br /><li>Staff perks with WeGift brands - discounts of up to 12% on coffee, weekly groceries, holidays, the list is endless.</li><br /><li>Flexible hours and work from home when needed - yes, yes everyone says this but we do.</li><br /><li>WeRecognise, where we shine the spotlight on exceptional employees every month who in turn get a &pound;200 award in the eGift card of their choice.</li><br /><li>Personal development budget - well actually there is no budget as we don&rsquo;t believe in putting a cap on learning new things.</li><br /><li>Generous maternity and paternity packages to make sure you get to spend time with your new bundle of joy.</li><br /><li>Fully licensed as a tier 2 sponsor + relocation packages to help you get settled in.</li><br /></ul><br /><h3>Perks</h3><br /><ul><br /><li>A modern office on the Cambridge Science Park with lots of natural light</li><br /><li>A new laptop as standard - no one wants an old one when they need to be doing their best work + all the trimmings you need to get the perfect work setup.</li><br /><li>Catered lunch once a week.</li><br /><li>Monthly team socials (Escape Rooms, Karaoke - everyone gets a chance to choose what this looks like)</li><br /><li>Cycle to work scheme - save some &pound;&pound;&pound; on buying a bike</li><br /></ul><br /><p><br />We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br /><p>&nbsp;</p><br /><p>Successful candidates will be contacted within two weeks.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Qf7Ucj-tQ-6GBlSXuNC9Gw",
+    "url": "https://jobmote.com/job/57966/aws-infrastructure-engineer-5-mo-contract-to-hire-remote/",
+    "title": "AWS Infrastructure Engineer - 5 Mo Contract to Hire - Remote",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Jefferson Frank",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 7, 2019 10:07:30 PM",
+    "validThrough": "Aug 10, 2019 10:07:30 PM",
+    "crawled": "Aug 8, 2019 3:06:25 AM",
+    "content": "<div><br><br><p>AWS Infrastructure Engineer - 5 Month Contract to Hire - Remote</p><br><p>My client is looking to bring on an Infrastructure Engineer with 3-5 years of experience to build out new infrastructure and maintain old environments. </p><br><p><strong>My client is unable to sponsor visas </strong></p><br><p>About the role:</p><br><ul><li><br></li><li>Remote for contract<br></li><li>Ideally on site in North Wilksboro for full time hire <br></li><li>Looking to build out new environment to specific specifications<br></li><li>Create from Existing Environments<br></li><li>New Infrastructure but keep old environment<br></li><li>Working in a federal environment <br></li></ul><br><p>Must have: </p><br><ul><li><br></li><li>AWS<br></li><li>Linux<br></li><li>Windows<br></li><li>Active Directory <br></li></ul><br><p>Additional Skills that would be helpful: </p><br><ul><li><br></li><li>DevOps<br></li><li>CI/CD<br></li><li>Automation<br></li></ul><br><p>If interested please contact me at or </p> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "R71uJ39HSWmTu3KEohe7VA",
+    "url": "https://jobmote.com/job/57955/devops-engineer-remote/",
+    "title": "DevOps Engineer (Remote)",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 80000,
+      "maxValue": 105000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 80k - 105k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 7, 2019 10:07:29 PM",
+    "validThrough": "Aug 10, 2019 10:07:29 PM",
+    "crawled": "Aug 8, 2019 3:06:25 AM",
+    "content": "<div>Minimum Required Skills:<br>System Administrator, ELK Stack, Automation, Linux, Open Source, DevOps Tools, Devops, Jenkins<br><br>Title: DevOps Engineer (Telecommute)<br>Location: Must report to Ogden, UT 1x weekly or bi-weekly<br>Salary: $80K - $105K<br>Hard requirements for this position: Must live in Utah. 2+ years with design, implementation, and support of infrastructure automation using modern DevOps tools.<br><br>Top Reasons to Work with Us<br><br>Telecommute opportunity!<br><br>Located North of Salt Lake City, is our Technology headquarters in an evolving and growing city called Ogden, UT.<br><br>Our organization is well-known for the technology that we create for our clients across the US and through Canada. Our business is mainly focused on the Financial Services end and we create end-user applications to help manage financial products for large organizations.<br><br>If you are tired of driving through traffic and into the city but are also looking for the next BIG move in your career, this is the place for you!<br><br>What You Will Be Doing<br><br>Currently, we are looking for a DevOps Engineer that has exposure to Automation DevOps Tools in a Linux open-source environment. Example of technologies: Jenkins, MuleSoft, Kubernetes, ELK, and Docker<br><br>Job duties break down as:<br>50% Sys Admin duties - Maintenance and automation<br>50% DevOps duties - Using Jenkins automation and close correspondence with Developers<br><br>What You Need for this Position<br><br>Requirements needed for this job:<br>1.) 2+ years as a Systems Administrator/DevOps<br>2.) Must have Automation experience<br>3.) Must have Linux Open-Source background<br>4.) Must have experience using DevOps Tools (ideally, Jenkins)<br>5.) Must feel comfortable with answering help desk tickets<br><br>Bonus skill sets for this role:<br>1.) Jenkins<br>2.) Kubernetes<br>3.) Docker <br>4.) Ansible<br>5.) Puppet<br>6.) Chef<br>7.) Certifications<br>8.) ELK Stack<br><br>What's In It for You<br><br>Salary ranging from $80,000 - $105,000<br>+ Bonus ranging from 5% - 7%<br>+ Work from home optionSo, if you are a System Administrator with DevOps experience, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "OlgTrY86Sr-iwn3mzCFfxA",
+    "url": "http://workinstartups.com/job-board/job/83180/senior-infrastructure-engineer-at-wegift/",
+    "title": "Senior Infrastructure Engineer",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "WeGift",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 50000,
+      "maxValue": 100000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 50k - 100k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 7, 2019 5:50:26 PM",
+    "validThrough": "Aug 14, 2019 5:50:26 PM",
+    "crawled": "Aug 7, 2019 7:30:33 PM",
+    "content": "<h3>Role</h3><br /><p>As a Senior Infrastructure Engineer you will help supporting our infrastructure needs and requirements as we continue to scale our business. You will be working closely with the CTO to ensure the company&rsquo;s infrastructure continues to be robust, secure, and scalable.</p><br /><h3>Responsibilities</h3><br /><ul><br /><li>Maintain and monitor all network, security and computer systems to meet the organization's current and future requirements.</li><br /><li>Responsible for management, maintenance and architecture of storage, virtualized environment, servers, network devices, and productivity tools.</li><br /><li>Monitor systems and identify performance issues proactively.</li><br /><li>Test all changes to networks, hardware, software, and hosted applications.</li><br /><li>Monitor service delivery compliance to budget, quality standards, customer and business stakeholder requirements.</li><br /><li>Cater to doing infrastructure coordination related to design and setup activities at different stages of a project.</li><br /><li>Maintain the necessary project plans and documentation of all system builds and modifications.</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Must haves</strong></p><br /><ul><br /><li>Over 10 years&rsquo; experience as an Infrastructure Engineer.</li><br /></ul><br /><ul><br /><li>Expert level of understanding of Linux with a focus on security.</li><br /><li>Experience with some configuration management tool like Saltstack to manage multiple servers (about 50).</li><br /><li>Expert level experience of managing AWS services.</li><br /><li>Deep understanding of Nginx server both as HTTP server and as a reverse proxy.</li><br /><li>Experienced in managing Squid Proxy Server.</li><br /><li>SMTP Server configuration.</li><br /><li>Advanced level of understanding of Postgres server configuration and replication. (Postgres replication knowledge is very desirable. Must have replication experience with at least one database server, for example, Oracle or MySql).</li><br /><li>Application cluster, failover and load balancing experience.</li><br /><li>Familiar with Google Compute Engine.</li><br /><li>Gunicorn, celery, MQ Rabbit and Python are a bonus.</li><br /><li>Zabbix or similar monitoring tools.</li><br /><li>Excellent communicator and collaborator with both technical and non-technical members of the team.</li><br /><li>Maintain a good working knowledge of current infrastructure and future trends.</li><br /></ul><br /><h3>What&rsquo;s in for you?</h3><br /><p>We believe there is a clear distinction between perks and benefits. Perks are easily replicable, whereas benefits are something that are unique to us. We have taken the time to tailor a number of them to fit our culture and ethos.</p><br /><h3>Compensation</h3><br /><ul><br /><li>&pound;50-100k (DOE)</li><br /></ul><br /><h3>Benefits</h3><br /><ul><br /><li>Pay reviews every 6 months to make sure we&rsquo;re paying market rate.</li><br /><li>Participation in the Employee Options pool so you get to own a piece of WeGift.</li><br /><li>Pension scheme (3% contribution)</li><br /><li>A minimum of 25 days holiday + bank holidays (we&rsquo;re not too descriptive about holidays so if you need more time off then just ask).</li><br /><li>Staff perks with WeGift brands - discounts of up to 12% on coffee, weekly groceries, holidays, the list is endless.</li><br /><li>Flexible hours and work from home when needed - yes, yes everyone says this but we do.</li><br /><li>WeRecognise, where we shine the spotlight on exceptional employees every month who in turn get a &pound;200 award in the eGift card of their choice.</li><br /><li>Personal development budget - well actually there is no budget as we don&rsquo;t believe in putting a cap on learning new things.</li><br /><li>Generous maternity and paternity packages to make sure you get to spend time with your new bundle of joy.</li><br /><li>Fully licensed as a tier 2 sponsor + relocation packages to help you get settled in.</li><br /></ul><br /><h3>Perks</h3><br /><ul><br /><li>A modern office on the Cambridge Science Park with lots of natural light</li><br /><li>A new laptop as standard - no one wants an old one when they need to be doing their best work + all the trimmings you need to get the perfect work setup.</li><br /><li>Catered lunch once a week.</li><br /><li>Monthly team socials (Escape Rooms, Karaoke - everyone gets a chance to choose what this looks like)</li><br /><li>Cycle to work scheme - save some &pound;&pound;&pound; on buying a bike</li><br /></ul><br /><p>&nbsp;</p><br /><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br /><p>&nbsp;</p><br /><p>Successful candidates will be contacted within two weeks.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "alFT5-JETE-CwbFnfTuvfg",
+    "url": "https://stackoverflow.com/jobs/287544/site-reliability-engineer-application-platform-wikimedia-foundation-inc?a=1yqRKWgSNPsk",
+    "title": "Site Reliability Engineer (Application Platform) at Wikimedia Foundation, Inc.  ",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/10",
+      "DBG_TECH1:k/t/w:go/go/9",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:lamp/php/13",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:k/t/w:php/php/15",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:shell/other/1",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:k/t/w:zend-framework/php/8",
+      "DBG_TECH1:techWeightMap:{python=6, other=2, dotnet=0, c=18, mobile=10, go=9, nodejs=26, bigdata-ml=0, ruby=2, apple=5, java=4, gamedev=0, php=36, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/nodejs",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "nodejs",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Wikimedia Foundation, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 7, 2019 7:30:25 PM",
+    "validThrough": "Aug 14, 2019 7:30:25 PM",
+    "crawled": "Aug 7, 2019 7:30:25 PM",
+    "content": "<h3><span>Site Reliability Engineer (Application Platform)</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Education Technology, eLearning, Non-Profit</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>201–500 people</span>                                    </div>                            </div>                    </div>                <div>Company: Wikimedia Foundation, Inc. | No office location<br></div><h4>Technologies</h4><div></div><div>php</div><div>python</div><div>node.js</div><div>go</div><div>java</div>                <h4>Job description</h4>                <div><p><strong>Preferred time zones: (North, Central, South) Americas or Asia</strong></p><p><strong>Summary</strong></p><p>We are looking for a Site Reliability Engineer to directly support our application platform serving the world’s favorite encyclopædia to millions of people around the globe. Wikipedia and its sister projects are powered strictly by Free and Open Source software with MediaWiki in its core surrounded by an ecosystem of microservices in PHP, NodeJS, Python, Go and Java.</p><p>We are a distributed and diverse team of engineers with a drive to explore, experiment and embrace new technologies. During the past few years we have been transitioning our platform from a monolith to a hybrid, microservices architecture, and started migrating our microservices onto Kubernetes. We’ve adopted Elastic Stack and Prometheus as our de facto logging and monitoring platforms and are improving our automation (we ❤️ automation).</p><p>If you find what we do interesting, if you are up to the challenge of improving the reliability and delivery of one of the Internet’s top 10 websites, and you enjoy the idea of working with a globally distributed team, you might be just the person we need. Come as you are!&nbsp;</p><p><strong><strong>Responsibilities</strong></strong></p><ul><li>Ensure smooth and reliable operation of the MediaWiki application platform, the surrounding ecosystem of microservices, and their dependencies (Memcached, Redis, Kafka, etcd, …)</li><li>Perform platform transformations and migrations towards modernized infrastructure (HHVM to Zend PHP7, bare metal deployments to Kubernetes clusters, active/active multi-data center support, etc.)</li><li>Bring your creativity to improve our current infrastructure and introduce new automation where needed</li><li>Support new code/feature deployments when required</li><li>Troubleshoot, debug and follow-up on emerging issues in our application stack and its surroundings</li><li>Perform day-to-day operational/DevOps tasks on Wikimedia’s wider public facing infrastructure (deployment, maintenance, configuration, troubleshooting), as well as reduction of manual, repetitive, automatable tasks (<em>toil)</em>.</li><li>Implement and utilize configuration management and deployment tools (Puppet, Kubernetes)</li><li>Assist in the architectural design of new services and making them operate at scale</li><li>Monitoring of systems, services and service clusters, optimization of performance and resource utilization</li><li>Incident response, diagnosis and follow-up on system outages or alerts across Wikimedia’s production infrastructure</li><li>Share our <a href='https://wikimediafoundation.org/wiki/Values' rel='nofollow'>values</a> and work in accordance with them</li></ul><p><strong><strong>Qualifications</strong></strong></p><ul><li>3+ years experience in an SRE/Operations/DevOps role as part of a team</li><li>Experience in supporting complex web applications running highly available and high traffic infrastructure based on Linux</li><li>Comfortable with configuration management and orchestration tools (Puppet, Ansible, Chef, SaltStack, etc.), and modern observability infrastructure (monitoring, metrics and logging)</li><li>Aptitude for automation and streamlining of tasks</li><li>Comfortable with shell and scripting languages used in an SRE/Operations engineering context (e.g. Python, Go, Bash, Ruby, etc.)</li><li>Good understanding of Linux/Unix fundamentals and debugging skills</li><li>Strong English language skills and ability to work independently, as an effective part of a globally distributed team</li><li>B.S. or M.S. in Computer Science or equivalent in related work experience</li></ul><p><strong><strong>Pluses</strong></strong></p><ul><li>Experience managing MediaWiki installations is a <em>major</em> plus</li><li>Track record of open source contributions is highly appreciated</li><li>Experience running PHP/LAMP stack applications is a plus, especially in geographically distributed environments</li><li>Familiarity &nbsp;with modern distributed container cluster management systems (Kubernetes, Docker Swarm, Mesos, …)</li><li>Low level systems troubleshooting and debugging (CPU/memory profiling, C/C++ experience, in-depth Linux knowledge)</li><li>Experience with advanced distributed storage and database systems (Swift, Ceph, Cassandra, etc.)</li><li>Familiarity with RFC2549 or similar protocols</li></ul><p><strong>U.S. Benefits &amp; Perks*</strong></p><ul><li>Fully paid medical, dental and vision coverage for employees and their eligible families (yes, fully paid premiums!)</li><li>The Wellness Program provides reimbursement for mind, body and soul activities such as fitness memberships, baby sitting, continuing education&nbsp;and much more</li><li>The 401(k) retirement plan offers matched contributions at 4% of annual salary</li><li>Flexible and generous time off - vacation, sick and volunteer days, plus 19 paid holidays - including the last week of the year.</li><li>Family friendly! 100% paid new parent leave for seven weeks plus an additional five weeks for pregnancy, flexible options to phase back in after leave, fully equipped lactation room.</li><li>For those emergency moments - long and short term disability, life insurance (2x salary) and an employee assistance program</li><li>Pre-tax savings plans for health care, child care, elder care, public transportation and parking expenses</li><li>Telecommuting and flexible work schedules available</li><li>Appropriate fuel for thinking and coding (aka, a pantry full of treats) and monthly massages to help staff relax</li><li>Great colleagues - diverse staff and contractors speaking dozens of languages from around the world, fantastic intellectual discourse, mission-driven and intensely passionate people</li></ul><p><em><strong>*Eligible international workers' benefits are specific to their location and dependent on their employer of record</strong></em></p><p><strong>More information</strong></p><p><a href='https://wikimediafoundation.org/' rel='nofollow'><strong>WMF<br></strong></a><a href='https://wikimediafoundation.org/news/' rel='nofollow'><strong>Blog<br></strong></a><a href='https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017' rel='nofollow'><strong>Wikimedia 2030<br></strong></a><a href='https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019' rel='nofollow'><strong>Wikimedia Medium Term Plan<br></strong></a><a href='https://wikimediafoundation.org/2018/08/30/diversity-inclusion-numbers/' rel='nofollow'><strong>Diversity and inclusion information for Wikimedia workers, by the numbers<br></strong></a><a href='https://meta.wikimedia.org/wiki/Wikimania_2019' rel='nofollow'><strong>Wikimania 2019<br></strong></a><a href='https://annual.wikimedia.org/2017/' rel='nofollow'><strong>Annual Report - 2017</strong></a></p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/287544?reset=False&amp;ra=1yqRKWgSNPsk&amp;oqs=a%3D1yqRKWgSNPsk' rel='nofollow'>Apply now</a></div>            <h4>About Wikimedia Foundation, Inc.</h4>            <div><p><strong>The Wikimedia Foundation is...</strong></p><p>...the nonprofit organization that supports Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared&nbsp;knowledge,&nbsp;and that everyone should be able to access that knowledge, free of interference. We host the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive&nbsp;<a href='https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&amp;uselang=en&amp;utm_medium=wmfWikiLink&amp;utm_source=B_FAQ&amp;utm_campaign=C_FAQ' rel='nofollow'>financial support</a>&nbsp;from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p><p><em>The Wikimedia Foundation is an equal opportunity employer, and we encourage people with a diverse range of backgrounds to apply.</em></p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Fully paid premiums for medical, dental &amp; vision insurance premiums</span>                            </li>                            <li>                                <span></span>                                <span>401(k) with 4% matching contribution</span>                            </li>                            <li>                                <span></span>                                <span>7-12 weeks parental leave with 100% pay + lactation room</span>                            </li>                            <li>                                <span></span>                                <span>Wellness Program ($1800 annual) to promote wellness &amp; personal growth</span>                            </li>                            <li>                                <span></span>                                <span>Pre-tax savings plans for Transportation &amp; Parking</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work schedules and remote working options</span>                            </li>                            <li>                                <span></span>                                <span>Pet Friendly office</span>                            </li>                            <li>                                <span></span>                                <span>Commitment to diversity &amp; inclusion throughout the employee lifecycle</span>                            </li>                            <li>                                <span></span>                                <span>12 days vacation, 19 days holiday, 2 days volunteer work and more!</span>                            </li>                            <li>                                <span></span>                                <span>Lean more at https://wikimediafoundation.org/wiki/Work_with_us</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "Jscq8qzjTZ-FFdAg4sPslg",
     "url": "https://jobmote.com/job/57731/cloud-developer-remote/",
     "title": "Cloud Developer (Remote)",

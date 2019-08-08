@@ -5751,62 +5751,6 @@
       "region": "UNSET",
       "country": "UNSET"
     }
-  },
-  {
-    "id": "xczDhnKvRTaGhJxKQI97dg",
-    "url": "https://stackoverflow.com/jobs/272915/software-engineer-go-betting-team-bluelabs-software?a=1twGEROiDOKI",
-    "title": "Software Engineer (Go) - Betting Team at BlueLabs Software  ",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:elixir/other/5",
-      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
-      "DBG_TECH1:k/t/w:go/go/15",
-      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=15, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "BlueLabs Software",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "EUR",
-      "minValue": 55000,
-      "maxValue": 75000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserDefaultImpl",
-      "isEquity": false,
-      "formatted": "EUR 55k - 75k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 8, 2019 11:30:14 PM",
-    "validThrough": "Jun 15, 2019 11:30:14 PM",
-    "crawled": "Jun 8, 2019 11:30:14 PM",
-    "content": "<h3><span>Software Engineer (Go) - Betting Team</span> </h3> \n<h4>About this job</h4> \n<div> \n <div> \n  <div> \n   <span>Job type: </span> \n   <span>Full-time</span> \n  </div> \n  <div> \n   <span>Experience level: </span> \n   <span>Mid-Level</span> \n  </div> \n  <div> \n   <span>Role: </span> \n   <span>Backend Developer</span> \n  </div> \n </div> \n <div> \n  <div> \n   <span>Industry: </span> \n   <span>Enterprise Web Solutions, Gaming, Software Development / Engineering</span> \n  </div> \n  <div> \n   <span>Company size: </span> \n   <span>1-10 people</span> \n  </div> \n  <div> \n   <span>Company type: </span> \n   <span>Private</span> \n  </div> \n </div> \n</div> \n<div> \n <h4>Reactions to this job</h4> \n <div> \n  <div> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n  </div> \n </div> \n <div> \n  <div> \n   <div> \n    <div></div> \n   </div> \n   <div> \n    <strong>New!</strong> How do you feel about this job listing? \n   </div> \n   <div> \n   </div> \n  </div> \n </div> \n <div></div>\n</div>\n<div>\n Company: BlueLabs Software | No office location\n <br>\n</div> \n<h4>Remote details</h4> \n<div> \n <div> \n  <div> \n   <span>Preferred Timezone:</span> \n   <span>(GMT+01:00) Central European Time - Prague +/- 2 hours</span> \n  </div> \n </div> \n</div> \n<h4>Technologies</h4>\n<div></div>\n<div>\n go\n</div>\n<div>\n concurrency\n</div>\n<div>\n distributed-computing\n</div>\n<div>\n cqrs\n</div>\n<div>\n asynchronous\n</div>\n<div>\n is-serp 86 1 9\n</div>\n<div>\n pietro909 Frontend Developer 1.4k 14 24\n</div>\n<div>\n Laurynas Tretjakovas 571 2 11\n</div>\n<div>\n Enrique Fernández Casado 1 1\n</div> \n<h4>Job description</h4> \n<div>\n <p>A few months ago we started out with the vision of building a next generation sports betting platform focused on performance, reliability, modularity and automation. We believe that our experience paired with today’s technologies, great talent and the agility of a startup environment will enable us to deliver a best-in-class product that meets the demands of the market of tomorrow.</p>\n <p>Our Betting Team is now on the lookout for an experienced Software Engineer who wants to join our distributed team and help us execute our vision.</p>\n <p><strong>The Team</strong></p>\n <p>The Betting Team is tasked with the provisioning of all services relating to the lifecycle of bets in our sports betting platform. This stretches from bet placement to bet settlement, including advanced features such as an event- and player-based risk management, ability to build complex bets such as from outcomes with dependent probabilities, or continuous calculation of early settlement offers (cash out).</p>\n <p>Sub-second latency is welcomed but high throughput has higher priority in the Betting domain. The goal is building a sports betting platform where no bet is rejected due to lack of capacity in the system. Bet settlement is worth a special mention as the platform needs to be able to quickly evaluate hundreds of thousands of bets upon the resulting of an underlying sporting event.</p>\n <p>You will be working on developing these services primarily in Go and have a voice in the architectural decisions surrounding them.</p>\n <p><strong>Remote Work</strong></p>\n <p>We are hiring for talent, not for a specific location. You will find that members of our team are distributed all over Europe. Being a distributed team enables us to hire only the best, without being restricted to the talent pool available at a specific geographic location. However, to facilitate team communication and collaboration we currently require you to be located in a European time zone (between UTC-1 and UTC+3). You must also be able to travel to other European locations a few times a year for on-site meetings and workshops.</p>\n <p><strong>Compensation</strong></p>\n <p>The budgeted compensation range for this role is €55k-75k annually, depending on your background and experience. As an independent contractor you will be responsible for paying any taxes or applicable fees in your country of residence (unless you are based in Malta, in which case you will be employed).&nbsp;In addition to that, we offer a number of&nbsp;<a href='https://careers.bluelabs.eu/#section-127563' rel='nofollow'>perks</a>&nbsp;to each of our team members as we truly believe in a healthy work-life balance and continuous learning.</p>\n <p><strong>Requirements</strong></p>\n <ul>\n  <li><p>BS degree in Computer Science or a similar technical field</p></li>\n  <li><p>2+ years of professional software development experience using Go</p></li>\n  <li><p>Interest in or previous experience with Elixir will be considered an asset</p></li>\n  <li><p>Experience building large-scale distributed systems, communicating asynchronously via message passing using RabbitMQ or Kafka</p></li>\n  <li><p>Deep understanding of DDD, CQRS, microservices architecture, and SQL/NoSQL data stores</p></li>\n  <li><p>Interest in unit testing and test automation, and continuous integration/deployment</p></li>\n  <li><p>Good understanding of DevOps concepts such as containerization, cloud computing, security and networking</p></li>\n  <li><p>Interest in keeping yourself up to date and learning new languages, frameworks and technologies as required</p></li>\n  <li><p>Ability to work autonomously in a fully distributed team</p></li>\n  <li><p>Good communication skills in verbal and written English</p></li>\n </ul> \n</div> \n<div> \n <a href='https://careers.bluelabs.eu/o/software-engineer-go-st-julians/c/new?source=Stack%20Overflow' rel='nofollow'> Apply now </a>\n</div> \n<h4>Benefits</h4> \n<ul> \n <li> <span></span> <span>Distributed Team, enabling us to hire Europe's best talents</span> </li> \n <li> <span></span> <span>Work only with the latest technologies</span> </li> \n <li> <span></span> <span>Use the best tools and resources money can buy</span> </li> \n <li> <span></span> <span>Regular onsite meetings across Europe</span> </li> \n <li> <span></span> <span>Competitive Compensation</span> </li> \n <li> <span></span> <span>Personal Development Allowance of €1,000 annually</span> </li> \n <li> <span></span> <span>Co-Working Space &amp; Home Office Allowances</span> </li> \n <li> <span></span> <span>Flexible working hours and time-off policy</span> </li> \n <li> <span></span> <span>Monthly wellbeing allowance for Gym Membership, Massages etc.</span> </li> \n</ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
   }
 ]
 }
