@@ -1460,62 +1460,6 @@
       "region": "UNSET",
       "country": "UNSET"
     }
-  },
-  {
-    "id": "QGLCDdkoTXW728sP_YKX_w",
-    "url": "http://workinstartups.com/job-board/job/81323/database-specialist-at-streamhub/",
-    "title": "Database Specialist",
-    "tags": [
-      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
-      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:scala/java/6",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=2, go=8, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=10, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TECH1/java",
-      "TITLE1/dbms",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "go",
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Streamhub",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "GBP",
-      "minValue": 70000,
-      "maxValue": 80000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "GBP 70k - 80k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 11, 2019 11:50:28 AM",
-    "validThrough": "Jun 18, 2019 11:50:28 AM",
-    "crawled": "Jun 11, 2019 8:30:42 PM",
-    "content": "Streamhub is a London based video analytics startup driving technological innovation in the space of OTT media. At a time where OTT services are growing at tremendous rates, we truly believe the big challenge for the media companies lies in profiling and growing their loyal audiences through the matching of interests and context data to available content and advertisements.\n<br>\n<br>Streamhub’s journey from consulting to a global big data platform has been phenomenal, reflecting how technology has strengthened the media over recent years. This journey will get bigger and we are inviting a passionate technologist with plenty of big data experience, to apply your hands-on skills and ideas to our core technology as a core member of the team. We are based in London with clients spread worldwide in Europe, Asia, the US and Japan.\n<br>\n<br>The Role\n<br>\n<br>You will play a key role in our technology team, joining as a Database Specialist. This is truly the first role of this kind that Streamhub is opening so we are equally excited to open this role! Which also means that you will have a lot of exposure and immense learning. We are a SaaS platform and our customers entrust us with their online TV &amp; video streaming data, where we process billions of points to profile, target and grow their audiences and revenue. Being SaaS, it is challenging to meet different clients needs and we already have different solutions in place. We are looking to optimise and standardise our reporting platform in every possible way and develop a general purpose, multi-application, multi-user platform that supports needs other than just reporting. Yes, this is going to be challenging and for sure opens the door for innovation and immense on the job learning!\n<br>\n<br>We are looking for someone with strong experience in online analytical processing (OLAP) and online transactional processing (OLTP) systems, deep knowledge of data warehousing, data lake and NoSQL databases and understanding of distributed caches, search engines. Basically we are looking for someone very strong on various from data storage and querying, including operational side and has proven interest in exploring newer technologies. If you have an experience with Data management platform (DMP) and advertising/media, that is a huge plus!\n<br>\n<br>We are strongly looking for people with excellent organisational and self-management skills with a strong work ethic and team skills.\n<br>\n<br>Required skills and experience \n<br>\n<br>- Strong experience and in-depth knowledge of any online analytical processing or OLAP(-like) tool.\n<br>- Strong experience with any OLTP platform – MySQL, Amazon Aurora, Oracle RDBMS.\n<br>- Experience with at least one NOSQL database – both application and operations.\n<br>- In-depth SQL programming knowledge – partitioning, sharding, indexing, tuning knowledge, stored procedures, views.\n<br>- In-depth understanding of data warehousing concepts – facts, dimensions, KPI, load strategies, surrogate keys, staging/analytic layer, data loading concepts, materialized views.\n<br>- Data model – Understanding of data model, online transactional and analytical processing, batch processing, normalized and denormalized schema.\n<br>- Deep ETL concepts – data versioning, deployment concepts, transaction handling, logging, auditing, error handling and automating pipelines.\n<br>Good knowledge of any programming language – Scala, Java, Python, Golang.\n<br>- Proven track record of delivering analytical solutions for terabyte-scale data.\n<br>- Experience or proven interest with cloud based solutions.\n<br>\n<br>Responsibilities\n<br>\n<br>- Architect/develop solutions for high volume OLTP/OLAP environments, batch data processing, design future state terabyte-scale data warehouse/lake/MS service and influence adoption of newer technologies.\n<br>- Develop/design of our core analytics/reporting system.\n<br>- Develop/manage/automate data processing pipelines.\n<br>- Day-to-day operational maintenance and well being of datastores.\n<br>- Integrate with third party data sources and bring them to operational store like DMP / viewership logs / CRM segments etc.\n<br>- The ability to quickly understand customer and operational considerations.\n<br>\n<br>Qualifications &amp; Prerequisites\n<br>\n<br>- Master’s degree or higher in Computer Science / Big Data or related disciplines.\n<br>- Must be proficient in reading, writing and speaking English.\n<br>- Startup experience a plus.\n<br>\n<br>Our technology Stack\n<br>\n<br>- Scala / Java\n<br>- Apache Spark\n<br>- AWS big data stack\n<br>- Kinesis / Kafka\n<br>- Cassandra\n<br>- Elasticsearch / Solr\n<br>- Clickhouse\n<br>- Apache Nifi\n<br>- Kibana / Prometheus / Grafana / AWS monitoring tools\n<br>- Pub-sub messaging\n<br>- Serverless / Lambda\n<br>\n<br>Package\n<br>\n<br>- Full-time employment\n<br>- Start time: July, 2019\n<br>- Salary: circa £70-80K\n<br>- Equity: FTE share options (~1%)\n<br>- We offer VISA sponsorship for non UK nationals with exceptional fit to the position",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
   }
 ]
 }
