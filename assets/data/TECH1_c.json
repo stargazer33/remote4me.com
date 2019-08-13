@@ -1,6 +1,116 @@
 {
  "items": [
   {
+    "id": "uuXOD3VxQ-C6Y3ASJDhogg",
+    "url": "https://landing.jobs/at/daltix/software-engineer-in-lisbon-2019-8?utm_campaign=landing+rss&utm_content=Software+Engineer&utm_medium=referral&utm_source=rss",
+    "title": "Software Engineer",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/4",
+      "DBG_TECH1:k/t/w:javascript/nodejs/4",
+      "DBG_TECH1:k/t/w:pandas/python/5",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=15, other=0, dotnet=5, c=15, mobile=2, go=0, nodejs=5, bigdata-ml=0, ruby=0, apple=0, java=7, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Daltix",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 13, 2019 1:42:22 AM",
+    "validThrough": "Aug 20, 2019 1:42:22 AM",
+    "crawled": "Aug 13, 2019 2:09:42 AM",
+    "content": "<div><h3>Software Engineer</h3></div><div>Company: Daltix</div><div>Location: Lisbon, PT</div><div>Remote location: Partially remote</div>Level: Intermediate<br>Language: English <div>Full-stack Developer<br>Skills:</div><li>Java </li><li>JavaScript </li><li>Linux </li><li>Python </li><li>SQL </li><h3>Intro</h3><p>We are looking for talented profiles to help build and maintain the distributed data collection system that is at the heart of our business. You'll be in the front-lines, facing massive (but interesting!) challenges as we try to scrape all retail data available.<br><br>We are a data-driven company which collects and processes more than 600GB of raw data (HTML) daily. We leverage big data technologies such as Serverless, Spark on AWS EMR to crunch these volumes of data and make it queryable.<br><br>In this role, you will ensure that our data collection engine, which consists of distributed web crawlers, is state of the art and ahead of our competition. You will ensure that we can scrape any webshop, no matter the ban-detection that has been put in place. Then, it will be important that proper monitoring tools are in place. We are currently scraping 60 sites and your goal is to at least triple that without losing completeness and quality.&nbsp;<br><br><strong>Responsibilities</strong></p><ul><li>Developing &amp; maintaining web crawlers using Python &amp; JavaScript.</li><li>Designing &amp; developing internal tools and frameworks.</li><li>Designing &amp; developing tools to automate testing &amp; QA.</li><li>Building &amp; maintaining distributed data collection systems on AWS.</li><li>Guarantee data integrity and quality by extending our logging, monitoring and outlier detection systems.ng</li></ul><h4>Main requirements</h4><ul><li>Knowledge of Computer Engineering (through formal education or other means)</li><li>Strong programming experience with one or more languages: Python (preferred), Javascript, C#, Java, Scala, C/C++</li><li>Good understanding REST API's, databases and SQL</li><li>Linux command-line experience</li><li>Highly proficient in spoken and written English</li><li>You are <strong>passionate</strong> about software engineering</li></ul><h4>Nice to have</h4><ul><li>Strong experience with both Python &amp; JavaScript</li><li>Experience working on top of Amazon Web Services</li><li>Excellent coding skills and deep knowledge of web technologies</li><li>Excellent problem-solving capabilities and a critical mindset</li><li>You get energy from working in a highly complex and challenging startup environment with a high tech product</li><li>DevOps &amp; automation (Terraform, Ansible)</li><li>Data analysis using Pandas (Python)</li></ul><h4>Perks</h4><ul><li>Work with the latest tech stack</li><li>We're a quickly growing company =&gt; you're personal growth can be huge too.</li><li>Health Benefits – Comprehensive coverage for medical</li><li>Meal allowance – Monthly meal card along with a fully stocked kitchen with enough coffee and fruits, along with monthly team drinks and dinners</li><li>Work-Life Balance – We trust you to know your schedule and work when you feel most productive</li><li>Learning and Development – Attend meet-up, conferences, and events that interest you and benefit your personal and career growth.</li></ul>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "y6dG9C5PR1-etL97lH-Wgw",
+    "url": "https://remoteok.io/jobs/74447",
+    "title": "Software Engineer II",
+    "tags": [
+      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=5, c=26, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "CNC Software",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 12, 2019 11:02:24 PM",
+    "validThrough": "Aug 19, 2019 11:02:24 PM",
+    "crawled": "Aug 12, 2019 11:30:28 PM",
+    "content": "<span></span> <span><h4>CNC Software</h4></span> <br> <h3>Software Engineer II</h3> <div>  <div>   \\nAt CNC Software, Inc., our mission is to create software and services that solve the world’s manufacturing challenges. Our software, Mastercam, developed and supported by our talented team, is the most widely used CAM software in the world. Headquartered in Tolland, CT, we are a culture that embraces remote work, with twenty-five percent of our team working from their home office in United States as well as in offices in Switzerland and China. As the industry leader, we strive to innovate, and we partner with our resellers and customers to make the impossible, well, possible.\\n\\nAs a privately held, family-owned business, our culture is shaped by our concern and care for each other and our community. Our work environment reflects this care, with exceptional benefits and services you would expect of an industry leader [on-site fitness center, walking paths, employee gardens, bicycle shop, kitchen facilities] which are supported by geothermal heating/cooling and solar arrays which power the majority of our utility consumption. As a Top Workplace, [#1 Mid-size Company 2018 http://www.courant.com/business/top-workplaces/hartford], our focus has always been on creating a workplace that embodies the family-friendly values we hold, and which, well, doesn’t feel like “work”, but more like a place that you want to be. If you have a passion for your work, an inquisitive nature, and a pride in exceeding the expectations others have set for you – then CNC may just be the place you have been looking for.\\n\\nPosition Overview:\\n\\nCNC Software is looking for a Software Engineer to join our mill toolpath development team.&nbsp; This team develops, maintains and improves algorithms to efficiently drive milling machines as they cut out precision parts.\\n\\nThis role will focus on the foundation of our toolpath development – our math libraries.&nbsp; You’ll start out by improving, consolidating, and expanding our existing libraries.&nbsp; From there, you’ll have the opportunity to develop and apply these libraries in one of the most impactful areas of our product – our toolpath generation code.&nbsp; You’ll be able to bring a wide range of skills to bear on interesting mathematical problems involving large sets of data.\\n\\nTo succeed in this role, you will need to be a gifted mathematician with a love of solving complex problems and an innate hatred of inefficiency.&nbsp; You have a knack for crafting algorithms to wring the most performance out of hardware.&nbsp; You have a drive to constantly improve your software development skills, and will have a passion for clean, well-written code.&nbsp; In addition to strong development skills, you’ll be a proactive self-starter who can communicate well with both technical and non-technical coworkers.\\n\\nWho you are:\\n\\n\\n* You have 3-5 years of experience building commercial software in either C# or C++\\n\\n* You have a strong understanding of object-oriented development\\n\\n* You are comfortable with standard software development practices such as source control, peer reviews, and unit testing\\n\\n* You have a strong handle on linear algebra and computational geometry\\n\\n* You are familiar with iterative computational techniques, such as the conjugant gradient method\\n\\n* You can clearly communicate with both technical and non-technical coworkers\\n\\n* You have a Bachelor’s degree in Computer Science, Mathematics, or Engineering\\n\\n\\n\\n\\nIt’s a plus if:\\n\\n\\n* You’ve worked in an agile (Scrum, Kanban) software development environment before\\n\\n* You have experience with CNC machining\\n\\n* You have experience writing multithreaded applications\\n\\n* You’re familiar with C++ design patterns and the C++ standard library\\n\\n* You have experience with computational physics\\n\\n* You have knowledge of 3 axis machining algorithms for roughing and finishing (ex. axial and radial cutter projection, geodesic, pencil, and adaptive algorithms)\\n\\n\\n\\n\\nCNC Software, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.\\n\\nEOE/M/F/Vet/Disabled are encouraged to apply.\\n\\nWe are an E-Verify Employer.  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "Kxc-8MBuQt29ghlxuk7QFQ",
     "url": "https://stackoverflow.com/jobs/288435/software-engineer-ii-mill-toolpaths-cnc-software-inc?a=1yJooCSuMUFi",
     "title": "Software Engineer II - Mill Toolpaths at CNC Software, Inc  ",
