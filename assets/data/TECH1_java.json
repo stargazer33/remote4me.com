@@ -1,6 +1,332 @@
 {
  "items": [
   {
+    "id": "NcHn8NLfR-yLm2XcuJURhw",
+    "url": "https://stackoverflow.com/jobs/288985/senior-compiler-engineer-poland-luna?a=1yUPqVwykNag",
+    "title": "Senior Compiler Engineer (Poland) at Luna (Kraków, Poland) ",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:jvm/java/39",
+      "DBG_TECH1:k/t/w:scala/java/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=2, go=3, nodejs=0, bigdata-ml=24, ruby=0, apple=0, java=49, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Luna",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 40000,
+      "maxValue": 120000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 40k - 120k /Year | Equity"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 14, 2019 3:06:25 PM",
+    "validThrough": "Aug 21, 2019 3:06:25 PM",
+    "crawled": "Aug 14, 2019 3:06:25 PM",
+    "content": "<h3><span>Senior Compiler Engineer (Poland)</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud Computing, Data Science, Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Luna | Kraków, Poland<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Warsaw </span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>Kraków, Poland.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                            <div>                                    <span>Visa Sponsorship:</span>                                    <span>Yes</span>                                </div>                                                            <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h4>Technologies</h4><div></div><div>java</div><div>scala</div><div>truffle</div><div>jvm</div><div>graalvm</div>                <h4>Job description</h4>                <div><p><a href='https://luna-lang.org/' rel='nofollow'>Luna</a> is looking for a senior compiler engineer to help build the next generation compiler and runtime for Luna, a project said by Singularity University to have the potential to change the lives of one-billion people. If you have strong technical skills and a passion for all things compiler, then this role could be the one for you.</p><p>As a compiler engineer you'll work as part of the compiler team to design and implement the new Luna compiler and runtime, work that is at the very core of the next phase of Luna's development. You'll have the opportunity to collaborate with a world-class team of engineers, community managers, and business developers (with experience at Bloomberg, GitHub, and PayPal, to name a few), and make your indelible mark on the future of Luna.</p><p><strong>What You'll Do</strong></p><p>As a senior compiler developer, you'll be working on the design and development of the new Luna compiler and runtime, to help support the Language's evolution. This will involve:</p><ul><li>Working to design and implement the new Luna interpreter, including the typechecker, optimiser, and foreign-language interoperability.</li><li>Theoretical and practical treatments of the theory behind Luna's type-system, and the implementation of the type inference and type checking engines for the same.</li><li>Practical work improving both the performance and capabilities of the new interpreter.</li><li>Practical work implementing front-end optimisations for Luna that improve the code that is executed by the interpreter.</li></ul><p><strong>The Skills We're Looking For</strong></p><p>We have a few particular skills that we're looking for in this role:</p><ul><li>Practical and rich experience writing code in both Scala and Java, including experience with type-level programming techniques in the former (3+ years).</li><li>A deep understanding of the JVM, its execution model, and garbage collection behaviours, born of practical experience.</li><li>Experience using the JVM's profiling and debugging tools to solve problems on large-scale projects.</li><li>Practical experience building large and complex software systems.</li><li>Experience in building compilers and/or the design of type systems.</li></ul><p>It would be a big bonus if you had:</p><ul><li>Experience with GraalVM and the Truffle framework for programming language development.</li><li>Experience with dependent type systems, row types, type-checking algorithms, and type-inference.</li></ul><p><strong>About Luna</strong></p><p>Luna is an award-winning general-purpose programming language and data-science platform, selected by NASA and Singularity University as a technology with the potential to impact the lives of one-billion people worldwide. It spans the entire stack, from high-level visualisation and communication, to the nitty-gritty of running backend services in a single language. With inbuilt capabilities for visualisation and a dual-syntax architecture, the possibilities are limitless.</p><p>At Luna, we have a world-class team, with developers, community managers, and business developers from all walks of life and backgrounds, and work in close collaboration with industry advisers such as Robert Gentleman, the creator of the R programming language and computational biologist at 23andMe, and Edward Kmett, a skilled language designer and machine intelligence researcher at MIRI.</p><p>We welcome anybody to our team, as long as you have the desire and drive to see Luna succeed.</p><p><strong>Who You'll Work With</strong></p><p>You'll be joining a distributed, multi-disciplinary team that includes people with skills spanning from compiler development to data-science. Though you'll have your area to work on, our internal culture is one of collaboration and communication, and input is always welcomed.</p><p>We firmly believe that only by working <em>together</em>, rather than putting our team members in their own boxes, can we create the best version of Luna that can be.</p><p><strong>The Details</strong></p><p>As part of the Luna team you'd be able to work from anywhere, whether that be at home, or on the go! We have team members distributed across the world, from San Francisco, to London, to Kraków. We welcome remote work and flexible schedules, or you can work from the Kraków office (or our planned SF office) if you'd like. We can provide competitive compensation and holiday, as well as the possibility of equity as time goes on.</p><p><strong>How To Apply?</strong></p><p>Send us an email at <code><a href='mailto:jobs@luna-lang.org' rel='nofollow'>jobs@luna-lang.org</a></code>, and tell us a little bit about yourself and why you think you'd be a good fit for the role! You can also tell us about:</p><ul><li>Some of your past work or projects.</li><li>Why you'd like to work on Luna, and where you imagine Luna being in 5 years.</li><li>The most important features of a team that you'd like to work in.</li><li>Whether you take pride in your ability to communicate clearly and efficiently with your team.</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/288985?reset=False&amp;ra=1yUPqVwykNag&amp;oqs=a%3D1yUPqVwykNag' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>                    <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Team built around the Humility, Respect, and Trust ideology.</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours, possible part / full time remote work.</span>                            </li>                            <li>                                <span></span>                                <span>Work in a small team of world-class engineers and make impact on Luna.</span>                            </li>                            <li>                                <span></span>                                <span>Competitive compensation + possibility of equity as time goes on.</span>                            </li>                            <li>                                <span></span>                                <span>Equality, diversity &amp; inclusion.</span>                            </li>                            <li>                                <span></span>                                <span>We've got standing desks in our office (no one uses them though :P).</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "7MkCo9o_QgqmpE1ipvzz7w",
+    "url": "https://jobmote.com/job/60813/remote-remote-javafx-software-engineer/",
+    "title": "Remote Remote JavaFX Software Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java-developer/java/13",
+      "DBG_TECH1:k/t/w:javafx/java/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=29, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "O'REILLY AUTOMOTIVE",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 13, 2019 10:07:31 PM",
+    "validThrough": "Aug 16, 2019 10:07:31 PM",
+    "crawled": "Aug 14, 2019 3:06:25 AM",
+    "content": "<div>A <strong>Software Engineer</strong> is a highly skilled software developer with expert knowledge in at least one department or system. They work with a high degree of independence and develop information systems to support the business. Engineers are primarily focused on the design or integration of various software systems, databases, and third-party packages. <br><br><strong>Essential Job Functions</strong> <ul><li>Generally takes leadership role in guiding projects through the complete software development life cycle</li> <li>Typical focus is on code design efforts</li> <li>Solid understanding of secure coding techniques and best practices</li><li>Responsible (takes ownership) for multiple software applications</li><li>Manage tasks and resources while utilizing modern project management principles</li><li>Participate or lead the development of multiple projects at one time</li><li>Conducts code reviews and ensures coding best practices are being followed</li><li>Recommend software improvements and changes to systems, as needed</li> <li>May approve software to be deployed to production systems</li> <li>Perform software and data analysis to uncover issues and solve complicated problems that typically span multiple systems</li> <li>Lead various meetings to gather software requirements and project details</li><li>Conduct software demo's to educate and train others in the use of software</li><li>Debug and correct complex software defects</li> <li>Develop new or modify existing software using coding best practices</li> <li>Create or update advanced project documentation</li><li>Test software to validate accuracy of code and high quality software systems</li> </ul><strong>Skills and Qualifications</strong> <ul><li>4+ years of Java development experience</li> <li>Advanced understanding of JavaFX</li><li>Advanced knowledge of Project Development Life Cycle (PDLC) and Software Development Life Cycle (SDLC)</li><li>Advanced understanding of the software and system(s) supported by their team, as well as the overall company business</li> <li>Ability to lead and get results from others</li><li>Ability to articulate advanced technical concepts and teach others</li><li>Ability to effectively multitask</li> <li>Expert software debugging and testing knowledge</li><li>Advanced understanding of complex computer systems (multiple programs, databases, communications etc)</li> <li>Advanced knowledge of programming, database systems, and systems analysis and design</li><li>Ability to write advanced technical documentation</li><li>Advanced problem-solving skills</li><li>Good verbal and written communications skills</li><li>Must work well in a team environment,</li> <li>Ability to learn independently</li><li>Willingness to work flexible schedule including nights/weekends</li> <li>High School diploma or equivalent</li> </ul></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "99cpcSgmTmyqGxDUw4NWZw",
+    "url": "https://jobmote.com/job/60812/remote-remote-senior-software-engineer/",
+    "title": "Remote Remote Senior Software Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=10, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "O'REILLY AUTOMOTIVE",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 13, 2019 10:07:31 PM",
+    "validThrough": "Aug 16, 2019 10:07:31 PM",
+    "crawled": "Aug 14, 2019 3:06:25 AM",
+    "content": "<div>A <strong>Senior Software Engineer</strong> is a highly skilled software developer with expert knowledge in at least one department or system. They work with a high degree of independence and develop information systems to support the business. Engineers are primarily focused on the design or integration of various software systems, databases, and third-party packages. <br><br><strong>Essential Job Functions</strong> <ul><li>Generally takes leadership role in guiding projects through the complete software development life cycle</li> <li>Typical focus is on code design efforts</li> <li>Solid understanding of secure coding techniques and best practices</li><li>Responsible (takes ownership) for multiple software applications</li><li>Manage tasks and resources while utilizing modern project management principles</li><li>Participate or lead the development of multiple projects at one time</li><li>Conducts code reviews and ensures coding best practices are being followed</li><li>Recommend software improvements and changes to systems, as needed</li> <li>May approve software to be deployed to production systems</li> <li>Perform software and data analysis to uncover issues and solve complicated problems that typically span multiple systems</li> <li>Lead various meetings to gather software requirements and project details</li><li>Conduct software demo's to educate and train others in the use of software</li><li>Debug and correct complex software defects</li> <li>Develop new or modify existing software using coding best practices</li> <li>Create or update advanced project documentation</li><li>Test software to validate accuracy of code and high quality software systems</li> </ul><strong>Skills and Qualifications</strong> <ul><li>7+ years of software development experience</li> <li>Advanced understanding of change management and the O'Reilly change control process and procedures</li><li>Advanced knowledge of Project Development Life Cycle (PDLC) and Software Development Life Cycle (SDLC)</li><li>Advanced understanding of the software and system(s) supported by their team, as well as the overall company business</li> <li>Ability to lead and get results from others</li><li>Ability to articulate advanced technical concepts and teach others</li><li>Ability to effectively multitask</li> <li>Expert software debugging and testing knowledge</li><li>Advanced understanding of complex computer systems (multiple programs, databases, communications etc)</li> <li>Advanced knowledge of programming, database systems, and systems analysis and design</li><li>Ability to write advanced technical documentation</li><li>Advanced problem-solving skills</li><li>Good verbal and written communications skills</li><li>Must work well in a team environment,</li> <li>Ability to learn independently</li><li>Experience with Java and Spring framework</li><li>Willingness to work flexible schedule including nights/weekends</li><li>High School diploma or equivalent</li> </ul></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "xKKtq9EYSBeBaZCTpEa7xw",
+    "url": "https://jobmote.com/job/60837/full-stack-java-developer-remote-working/",
+    "title": "Full Stack Java Developer REMOTE WORKING",
+    "tags": [
+      "DBG:surround``OR(requir,need) 6W OR(travel,visit) 5W OR(offic,headquart,onsit)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/16",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/24",
+      "DBG_TECH1:k/t/w:java-developer/java/39",
+      "DBG_TECH1:k/t/w:javascript/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/nodejs/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=48, c=6, mobile=0, go=0, nodejs=5, bigdata-ml=0, ruby=0, apple=0, java=39, gamedev=0, php=0, embedded=0, frontend=37}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TECH1/frontend",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet",
+      "frontend",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Anonymous",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 13, 2019 10:07:31 PM",
+    "validThrough": "Aug 16, 2019 10:07:31 PM",
+    "crawled": "Aug 14, 2019 3:06:25 AM",
+    "content": "<div>Full Stack Java Developer - Remote Working <br><br>£45 - 55k DOE <br><br>Permanent <br><br>Mon - Fri - 9.00am - 17.30pm (Flexible)<br><br>Job Title:<br><br>Full stack C# .NET and web-based developer This role reports to the Development Manager and will require travelling to office in Hemel Hempstead, Hertfordshire for the initial training period. Thereafter this is a home working position with ad-hoc requirement to travel to office.<br><br>Job Description:<br><br>An exciting opportunity has arisen for a Full Stack Java Developer to join a core team of developers who provide web-based framework to then allow other developers to create line - of - business applications. You will be working closely with the development manager to extend and enhance the framework to meet new requirements and new industry standards in a constantly evolving process with high demands. In this role you will find a certain degree of creative freedom to create new systems.<br><br>Skills and attributes required:<br><br>A great enthusiasm for creating quality software in particular creating systems which are elegant, extendable, and sustainable over the long-term<br>Long-term experience of C# .NET and ASP.NET<br>Long-term experience of browser-based technologies, with a deep understanding of JavaScript<br>Some experience of Google Polymer is desirable but not essential<br>Demonstrable experience of working with modern web-based frameworks and toolchains<br>Experience of relational databases, in particular, Microsoft SQL Server<br>A strong ability to work on own initiative and achieve timely results<br>Experience of Isomorphic Smartclient is desirable but not essential<br>Experience of modern JavaScript<br>Angular / React / JavaScript / .Net<br>Developed controls/widgets/specific web components<br>Need C#.Net for the back end<br>JavaScript experience including various JavaScript frameworks.<br>React / Angular knowledge<br>Benefits:<br><br>Holidays 20 days per year, increasing to 25 days after 5 years' service. Access to BOSH scheme.<br>Entitlement to join the Health scheme as an individual after 3 months probationary period<br>Entitlement to join Company Pension scheme<br>Life cover as part of Company Pension which is currently 3x salary<br>Laptop</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "6CjYnE3zRA20bgsmgjsD_Q",
+    "url": "https://remoteok.io/jobs/74477",
+    "title": "Senior Backend Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=10, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "gomo video",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 14, 2019 12:10:24 AM",
+    "validThrough": "Aug 21, 2019 12:10:24 AM",
+    "crawled": "Aug 14, 2019 1:06:30 AM",
+    "content": "<span></span> <span><h4>gomo video</h4></span> <br> <h3>Senior Backend Developer</h3> <div>  <div>   \\nWe are looking for an experienced back-end or full-stack developer to join our remote UK team.\\n\\n\\n\\nTell me about Instilled!\\n\\nInstilled is a new learning experience platform (LXP), meaning it is the very latest breed of learning delivery tools. Despite being new to the market, Instilled is built on a mature product with a solid client base and consolidates a wealth of experience and technology from our parent group. We are a small, agile team in a much larger learning technology business that is successful and passionate about creating outstanding learning tools.\\n\\nWhat Instilled provides is a YouTube like experience for learners to discover content and progress at their own pace—it was originally a video platform, so included are a host of video features such as auto-captioning, auto-translation and commenting etc.\\n\\nWe are still in the early stages of this products transformation but we have huge aspirations and want developers that relish the opportunity to create industry-leading products.\\n\\nHow will I know this is for me?\\n\\nFirst, this is a UK-specific role.&nbsp;Candidates must be eligible to work in the UK.&nbsp;Our team does have a US component, but we are not currently hiring for&nbsp;any US roles.\\n\\nOur ideal candidate is friendly, enthusiastic and just as passionate about technology as we are. The team spans multiple offices and time-zones so a self-starter attitude and excellent communication skills are key. We know not everyone has experience of the learning industry but that’s fine, we want people that understand code. Our current tech stack is comprised of Java, Spring, PostgreSQL, AngularJS, and others. These things change though, so whilst prior experience is advantageous, the key is being able to adapt to whatever technology the task demands. We look for developers that have an opinion about how technology can be applied, but remain equally open minded about new or different approaches. Working well in a team is vital as this role will be fundamental in shaping our product architecture - clearly articulating a concept and nurturing other team members is hugely important.\\n\\nOk, sounds great! What do I do?\\n\\nThis is a unique opportunity to join a dynamic product team that is taking an impressive client list in to a whole new world of learning. If this sounds like a good fit then we would like to hear from you. Please send over a cover letter explaining why and attach your CV. Feel free to outline any achievements you are particularly proud of and include a link to code you can share. Extra points for your best joke!  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "IxSzsmaBTmS6IqJi9qnQZg",
+    "url": "https://stackoverflow.com/jobs/232957/scala-lead-developer-enterprise-workflow-primotus-llc?a=1g7Qt3ptvqaQ",
+    "title": "Scala Lead Developer; Enterprise Workflow Platform (REMOTE) at Primotus, LLC  ",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``remot 16W timezon",
+      "DBG_TECH1:k/t/w:akka/java/8",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:java-ee/java/13",
+      "DBG_TECH1:k/t/w:java/java/8",
+      "DBG_TECH1:k/t/w:java/mobile/4",
+      "DBG_TECH1:k/t/w:scala/java/18",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=1, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=47, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/America/East"
+    ],
+    "tagsNames1": [
+      "US East time zone"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Primotus, LLC",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 13, 2019 7:30:26 PM",
+    "validThrough": "Aug 20, 2019 7:30:26 PM",
+    "crawled": "Aug 13, 2019 7:30:26 PM",
+    "content": "<h3><span>Scala Lead Developer; Enterprise Workflow Platform (REMOTE)</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead, Manager</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Business Process Optmization, Enterprise Software, Mobile Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Primotus, LLC | No office location<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT-05:00) Eastern Time +/- 6 hours</span>                                </div>                                                                                                            </div>                    </div>                <h4>Technologies</h4><div></div><div>scala</div><div>elasticsearch</div><div>java</div><div>postgresql</div><div>apache-kafka</div>                <h4>Job description</h4>                <div><p><strong>Job Description</strong></p><p>Primotus is developing a unique Enterprise scale, user-configurable mobile BPM (Business Process Management) platform. We’re looking for an experienced Scala lead developer with functional programming experience who has architectural expertise in data-driven asynchronous enterprise applications.&nbsp;</p><p><strong>Our stack includes many of the most-desired technologies, including:</strong></p><ul><li><p>Scala/Akka/CATS, Play Framework, Slick</p></li><li><p>BPMN (Java), DMN (Java)</p></li><li><p>Postgres, ElasticSearch</p></li><li><p>Kafka</p></li><li><p>Restful API</p></li><li><p>Angular6, CSS3, Ionic Mobile</p></li><li><p>Unit, end-to-end, API and performance testing tools</p></li><li><p>Jenkins continuous integration, GIT</p></li><li><p>AWS<br><br></p></li></ul><p><strong>Our Development Team:</strong></p><ul><li><p>Is small and growing with 8 members, so your contribution is immediately appreciated</p></li><li><p>Is divided into frontend and backend teams</p></li><li><p>Separates code into distinct modules and services</p></li><li><p>Uses JSON API for backend/frontend integration</p></li><li><p>Applies Agile programming and paired development methodology in 3-week sprints</p></li><li><p>Works in a virtual environment<br><br></p></li></ul><p><strong>You’d Be:</strong></p><ul><li>Managing backend architecture and developers.&nbsp;</li><li><p>Extending web sockets architecture to new Progressive Web App (PWA)</p></li><li><p>Extending&nbsp;BPM, CMMN (Case Management), and supporting systems</p></li><li><p>Adding additional components to core modules including BPM modeler and engine, Form, Mobile, and Reporting Builders, and Entitlements</p></li><li><p>Extending Business Rules and Business Decisions module using DMN</p></li><li><p>Enhancing Kafka messaging pipelines</p></li><li><p>Building BI backend tools for maps, charts and graphs</p></li><li><p>Utilizing backend test tools for unit testing</p></li><li><p>Assisting in DevOps (availability, scalability, and security) in our AWS environment</p></li><li><p>Working on Eastern Time (EST)</p></li></ul><p>If you think you’re a good fit and are interested in building something highly configurable and really innovative, please shoot us an email.&nbsp; Open to US and Non-US candidates (who&nbsp;can work&nbsp;mostly during&nbsp;Eastern Timezone). Sorry, no H1 or similar sponsorships.&nbsp;<br><br></p><p><strong><strong>Skills &amp; Requirements<br></strong></strong></p><p><strong>You're Expected To Have:</strong></p><ul><li><p>Bachelor degree in computer science or other related field</p></li></ul><ul><li><p>8 years experience in backend Enterprise software development</p></li></ul><ul><li><p>3+ years experience with Scala functional development</p></li><li><p>Strong knowledge of Java, J2EE, REST, and JSON</p></li><li><p>3+ years experience in cloud DevOps, ideally with AWS</p></li><li>Saas multi-tenant architecture</li><li><p>Strong knowledge in version control using GIT.</p></li><li><p>Ability to work well under pressure</p></li><li><p>Experience working in a virtual team environment.</p></li><li><p>Knowledge of Agile methodology</p></li><li><p>Strong written and verbal communication skills and willingness to share knowledge</p></li></ul><p><strong>Nice To Have Some of the Following:</strong></p><ul><li><p>Background in BPM (i.e. Activiti, Camunda) and Enterprise workflows</p></li><li><p>DMN exposure or decision management with Drools or other platforms</p></li><li><p>ElasticSearch (or Solr), Kibana, BI tools</p></li><li><p>Postgres</p></li><li><p>Kafka</p></li><li><p>Jenkins</p></li><li><p>WebSockets</p></li><li><p>Mobile, PWA, and/or embedded development</p></li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/232957?reset=False&amp;ra=1g7Qt3ptvqaQ&amp;oqs=a%3D1g7Qt3ptvqaQ' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Primotus, LLC</h4>            <div><p><em>Primotus</em> is a development-stage company creating a revolutionary way of delivering cloud-based mobile and web business applications based on BPM. Each are configurable on-the-fly through the use of drag and drop templates (forms, documents, etc), visual BPM models, user-configurable mobile application, and visually-appealing reporting engine.&nbsp;</p><p>Competitive salary and full benefits including medical, dental, 401k, and flex time.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Flex Hours</span>                            </li>                            <li>                                <span></span>                                <span>Remote Work</span>                            </li>                            <li>                                <span></span>                                <span>Benefits including Health, Dental, 401K</span>                            </li>                            <li>                                <span></span>                                <span>Paired Development</span>                            </li>                            <li>                                <span></span>                                <span>Cross Training</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "z4gHEPdqSIyglf26dRH0cQ",
     "url": "https://landing.jobs/at/monese/senior-back-end-java-developer-in-lisbon-2019?utm_campaign=landing+rss&utm_content=Senior+Back-end+Java+Developer&utm_medium=referral&utm_source=rss",
     "title": "Senior Back-end Java Developer",
@@ -3313,53 +3639,6 @@
     "validThrough": "Aug 6, 2019 4:06:24 PM",
     "crawled": "Jul 30, 2019 4:06:24 PM",
     "content": "<h3><span>Senior Back-End Java Developer - GitPrime</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                    </div>                <div>Company: Pluralsight | No office location<br></div><h4>Technologies</h4><div>java</div><div>java-ee</div><div>spring</div>                <h4>Job description</h4>                <div><p><strong>Working at Pluralsight</strong></p><p>Founded in 2004 and trusted by Fortune 500 companies, Pluralsight is the technology skills platform organizations and individuals in 150+ countries count on to create progress for the world.</p><p>Our platform helps technologists master their craft and take control of their careers. We empower businesses everywhere to build adaptable teams, speed up release cycles and become scalable, reliable and secure. We come to work everyday knowing we’re helping our customers build the skills that power innovation.</p><p>And we don’t let fear, egos, or drama distract us from our mission. Our mission to democratize technology skills is what drives us and our values are at the helm of how we work together. It’s our commitment to practicing them day in, day out that enables our performance. We’re adults, and we treat each other that way. We have the autonomy to do our jobs, transparency to eliminate office politics and trust each other to do the right thing. We thrive in an environment with creativity around every corner, challenges that keep us on our toes, and peers who inspire us to be the best we can be. We bring different viewpoints, backgrounds and experiences, and united by our mission, we are one. &nbsp;</p><p><strong>Job Description</strong></p><p>We are seeking a highly experienced Java Developer who will join our talented software team, working on mission-critical applications. This position is ideal for the senior candidate seeking a non-managerial development track position.</p><p><strong>Who you’re committed to being:</strong></p><ul><li>A writer of clean code with properly running programs</li><li>A hands-in-the-code daily developer who defaults to productivity</li><li>A passionate, self-motivated builder who recognizes the need to work well with other team members.</li></ul><p><strong>What you’ll own:</strong></p><ul><li>Developing scalable Java applications</li><li>Providing expertise in the full software development lifecycle, from concept and design to testing.</li><li>Design and develop high-volume, low-latency applications for mission-critical systems and delivering high-availability and performance</li><li>Create elegantly designed, testable, efficient code</li><li>Participate in all phases of the development lifecycle</li><li>Running point in any and all preparations for production releases of software components</li><li>Ensure designs meet specifications</li><li>Investigate alternatives and technologies and present them for architectural review, in order to support continuous improvement</li></ul><p><strong>Experience you’ll need:</strong></p><ul><li>You should have no less than five years of commercial experience in building high-performing, scalable, enterprise-grade applications</li><li>You must be able to write clean code and ensure your programs run properly</li><li>We also expect you to be passionate about building software and perform well working in a team of engineers and web designers</li><li>Excellent knowledge of Java internals, such as Classloading, Memory Management, Transaction management and so on</li><li>Experience with Kafka and the Samza framework</li><li>Extensive experience with deployments Kubernetes</li><li>Experience with Docker</li><li>Good knowledge of Relational Databases, SQL and ORM technologies, including JPA2 and Hibernate</li><li>Verifiable and articulate knowledge of Spring web framework</li><li>BS degree in Computer Science required. And while a Master’s degree is not required, appropriate and high-level work history that can map over to Master’s level work is</li></ul><p><strong>Additional Information</strong></p><p>Bring yourself. Pluralsight is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age or veteran status.</p><p><a href='https://www.youtube.com/watch?v=-HTcEYIzA6c&amp;t=1s' rel='nofollow'>https://www.youtube.com/watch?v=-HTcEYIzA6c&amp;t=1s</a></p><p>All your information will be kept confidential according to EEO guidelines.</p>                </div>            <div>        <a href='https://jobs.smartrecruiters.com/Pluralsight/743999692465720-senior-back-end-java-developer-gitprime' rel='nofollow'>                        Apply now        </a></div>            <h4>About Pluralsight</h4>            <div><p>Now a part of Pluralsight, GitPrime is a rapidly growing Software-as-a-Service platform that generates data-driven performance metrics for software engineering. &nbsp;Prior to joining Pluralsight, GitPrime was recognized as the Number 2 best company to work in Colorado 2019.</p><p>We report on the work patterns and the people-side of software development so engineering leaders can advocate for resources and demonstrate that they’re driving business value based on objective data. We have strong product-market fit with hundreds of happy customers and we are growing rapidly.</p>            </div>        ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "LRUKhuVcQReelAH50SQJag",
-    "url": "http://workinstartups.com/job-board/job/82819/highly-skilled-saas-sales-co-founder-at-saasco/",
-    "title": "Highly skilled SaaS sales co-founder",
-    "tags": [
-      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
-      "DBG_TECH1:k/t/w:generics/java/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "SAASco",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 29, 2019 11:08:47 PM",
-    "validThrough": "Aug 5, 2019 11:08:47 PM",
-    "crawled": "Jul 30, 2019 11:06:42 AM",
-    "content": "Most experienced SaaS sales professionals have participated in a sales training programme at one point in their careers. Famous sales methodologies like MEDDIC, Value Selling and others, have been adopted by thousands of software organisations throughout the world to help sales teams ultimately deliver better results, sometimes to good effect.<br /><br />What often happens though, is that salespeople have forgettable experiences with these programmes and whilst they may show initial enthusiasm, it is common to see a new methodology rigorously followed for a few months, before disappearing out of sight and mind forever.<br /><br />Todays selection of programmes offer valuable learning, but the delivery of programmes can be a poor experience. Trainings are often much too generic, and almost never align with the unique challenges SaaS businesses face, such as preparing for rapid scale, or future acquisition.<br /><br />SAASco seeks a successful SaaS salesperson to help build a better way for companies to implement successful sales methodologies, process and training, by compiling unique programmes which align with business goals and revolutionise the sales function.<br /><br />The perfect co-founder will have experienced great success working with hyper-growth SaaS businesses in a sales capacity - experience of closing six figure deals is essential but seven figure deals will be preferable.<br /><br />Remote working is welcomed but US or UK based persons would be preferred for proximity to SaaS hubs.",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -13328,119 +13607,6 @@
     "validThrough": "Jun 22, 2019 6:54:06 AM",
     "crawled": "Jun 15, 2019 7:06:35 AM",
     "content": "<span><h3>Cloud Native Java Software Engineer</h3></span> \n<br> \n<span><h4>Railroad19</h4></span> \n<div> \n <div> \n  <br>Cloud Native Java Software Engineer \n  <br>Railroad19, Inc. ~&nbsp; Remote - United States \n  <br>Cloud Native Java Software Engineer (Remote United States) \n  <br>At Railroad19, we develop custom software products and provide software development services.&nbsp; \n  <br>We are looking for a Cloud Native Java Software Engineer with 8 years of experience that is fluent in both Java 8 and Spring Boot to be a strong advocate for clean and maintainable code.&nbsp;In addition to contributing to the codebase you will work as an adviser to help create best-in-class solutions. \n  <br>You will report to the Principal Software Developer leading the team. While there are no management responsibilities for this position there is opportunities for leadership for those who want to grow. \n  <br>At Railroad19, you are part of a company that values your work and gives you the tools you need to succeed. We are&nbsp;headquartered in Saratoga Springs, New York, but we are a distributed team of remote developers across the US.&nbsp; \n  <br>This is a full-time role with vacation, health insurance, and a 401k. Railroad19 provides healthy compensation with excellent benefits and a great corporate culture. \n  <br>The role is remote - U.S. located, only full time (NO- contractors,&nbsp;Corp-to-Corp or 1099).&nbsp; \n  <br> \n  <br>Primary responsibilities: \n  <br> \n  <br> \n  <br>* Understand our client's evolving needs \n  <br> \n  <br>* Advocate for appropriate solutions with multiple stakeholders \n  <br> \n  <br>* Write and maintain scalable enterprise quality software \n  <br> \n  <br>* Build Rest and GraphQL APIs for single-page web applications \n  <br> \n  <br>* Build Microservices that connect to Oracle, Cassandra, and Kafka \n  <br> \n  <br>* Write functional and unit tests to maintain code quality \n  <br> \n  <br>* Identify new opportunities, tools, and services to enhance the custom software platform \n  <br> \n  <br>* Support and troubleshoot issues (process &amp; system), identify cause, and proactively recommend sustainable corrective actions \n  <br> \n  <br> \n  <br> \n  <br> \n  <br>Experience: \n  <br> \n  <br> \n  <br>* Advanced Java development experience \n  <br> \n  <br>* Hands-on experience with Java 8 and above (especially streaming collections and functional interfaces) \n  <br> \n  <br>* Hands-on experience with NoSQL (Cassandra, MongoDB, ElasticSearch) technologies is a plus \n  <br> \n  <br>* Hands-on experience with Spring Boot, Spring Cloud(using Netflix OSS) is a plus \n  <br> \n  <br>* Hands-on experience with Oracle or similar relational database technology \n  <br> \n  <br>* Hands-on experience with AngularJS or similar JavaScript frameworks is a plus \n  <br> \n  <br>* Demonstrates a passion for learning new technologies and takes pride in delivering working software \n  <br> \n  <br>* Experience collaborating on an Agile team \n  <br> \n  <br>* Git experience preferred \n  <br> \n  <br>* Continuous integration practices are a plus \n  <br> \n  <br>* Familiarity with AWS \n  <br> \n  <br>* Bachelor's or master’s degree in computer science, computer engineering, or other technical discipline; or equivalent work experience \n  <br> \n  <br> \n  <br> \n  <br> \n  <br>No Agencies*** \n  <br>This is a non-management position \n  <br>This is a full time position \n  <br> \n  <br>We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace. \n </div> \n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "O7deKNNESP2uh2TFUyMLCw",
-    "url": "https://remote.co/job/senior-software-engineer-java/",
-    "title": "Senior Software Engineer – Java",
-    "tags": [
-      "DBG:surround``3N(locat,remot)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:java/java/6",
-      "DBG_TECH1:k/t/w:java/mobile/3",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
-      "DBG_TECH1:k/t/w:spring-boot/java/8",
-      "DBG_TECH1:k/t/w:spring/java/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=0, bigdata-ml=6, ruby=0, apple=0, java=22, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Snapcart",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 14, 2019 6:34:43 PM",
-    "validThrough": "Jun 21, 2019 6:34:43 PM",
-    "crawled": "Jun 14, 2019 7:32:29 PM",
-    "content": "<h3>Senior Software Engineer – Java at <span>Snapcart</span></h3>\n<div>\n <span><i></i> Remote</span> | \n <span> International </span>\n</div>\n<div> \n <p><strong>OPEN LOCATION</strong></p>\n <p><strong>TECHNOLOGY – ENGINEERING</strong></p>\n <p><strong>PERMANENT</strong></p>\n <p>Founded in 2015, Snapcart applies AI to build the richest offline database of users in emerging markets and democratize data capabilities offline. Snapcart enables brands and retailers to measure, target, and optimize advertising and price promotions, (globally a USD 1.7 Trillion spending), helping clients compete in an increasingly data-driven world.</p>\n <p>Through its receipt crowd-sourcing application, point-of-sale application, and hundreds of machine learning models that process and decipher invoices and receipts, Snapcart collects and processes in real-time, billions of data points at an individual shopper and retailer level. Snapcart is currently providing insights to over 30 companies including LOreal, Nestle, P&amp;G and Unilever in 2 countries (Indonesia and Philippines). The company is backed by prominent VC firms, Vickers Venture, Wavemaker Partners, SPH, Social Capital, Kickstart Ventures and JG Summit Group.</p>\n <p><strong>Responsibilities</strong></p>\n <ul>\n  <li>Design, develop, test, deploy, maintain and improve software.</li>\n  <li>Manage individual project priorities, deadlines and deliverable.</li>\n </ul>\n <p><strong>Minimum Qualifications</strong></p>\n <ul>\n  <li><strong>Bachelor’s degree in Computer Science, or similar technical field, or equivalent practical experience.</strong></li>\n  <li>4 years of relevant work experience in software development.</li>\n  <li>Java Software development experience (Spring boot framework)</li>\n  <li>Experience working with two or more from the following: web application development, Unix/Linux environments, distributed and concurrent systems, machine learning, information retrieval, developing large software systems.</li>\n </ul>\n <p><strong>Preferred Qualifications</strong></p>\n <ul>\n  <li>Demonstrable ability to rapidly prototype proofs-of-concept and technical demonstrations.</li>\n  <li>Ability to quickly learn, understand and work with new emerging technologies, methodologies and solutions in the cloud/IT technology space.</li>\n  <li>Experience architecting and developing large scale distributed systems, parallelism, multithreading and synchronization.</li>\n  <li>Solid foundation in computer science, with strong competencies in data structures, algorithms and software design optimized for high-load, concurrent systems.</li>\n </ul> \n</div>\n<div> \n <a href='https://jobs.lever.co/snapcart/c339f3b2-4a7a-4d0d-8439-517ba7bc2b8e' rel='nofollow'>Apply for job</a> \n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Req4BHheRRKiAs9HqBH6zw",
-    "url": "https://stackoverflow.com/jobs/273940/java-developer-mobiquity?a=1tS02SK2HM2Y",
-    "title": "Java Developer at Mobiquity  ",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:hibernate/java/16",
-      "DBG_TECH1:k/t/w:html5/frontend/5",
-      "DBG_TECH1:k/t/w:java-8/java/16",
-      "DBG_TECH1:k/t/w:java-developer/java/39",
-      "DBG_TECH1:k/t/w:java-ee/java/26",
-      "DBG_TECH1:k/t/w:java/java/10",
-      "DBG_TECH1:k/t/w:java/mobile/5",
-      "DBG_TECH1:k/t/w:jdbc/java/8",
-      "DBG_TECH1:k/t/w:node.js/nodejs/26",
-      "DBG_TECH1:k/t/w:spring-mvc/java/16",
-      "DBG_TECH1:k/t/w:spring/java/48",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=0, nodejs=26, bigdata-ml=0, ruby=0, apple=0, java=179, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/dev",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Mobiquity",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 14, 2019 6:23:14 PM",
-    "validThrough": "Jun 21, 2019 6:23:14 PM",
-    "crawled": "Jun 14, 2019 6:23:14 PM",
-    "content": "<h3><span>Java Developer</span> </h3> \n<h4>About this job</h4> \n<div> \n <div> \n  <div> \n   <span>Job type: </span> \n   <span>Contract</span> \n  </div> \n  <div> \n   <span>Experience level: </span> \n   <span>Mid-Level, Senior</span> \n  </div> \n  <div> \n   <span>Role: </span> \n   <span>Full Stack Developer</span> \n  </div> \n </div> \n <div> \n  <div> \n   <span>Industry: </span> \n   <span>Enterprise Software, Software Consulting</span> \n  </div> \n  <div> \n   <span>Company size: </span> \n   <span>501-1k people</span> \n  </div> \n  <div> \n   <span>Company type: </span> \n   <span>Private</span> \n  </div> \n </div> \n</div> \n<div> \n <h4>Reactions to this job</h4> \n <div> \n  <div> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n  </div> \n </div> \n <div> \n  <div> \n   <div> \n    <div></div> \n   </div> \n   <div> \n    <strong>New!</strong> How do you feel about this job listing? \n   </div> \n   <div> \n   </div> \n  </div> \n </div> \n <div></div>\n</div>\n<div>\n Company: Mobiquity | No office location\n <br>\n</div> \n<h4>Remote details</h4> \n<div> \n <div> \n  <div> \n   <span>Preferred Timezone:</span> \n   <span>(GMT-05:00) Eastern Time </span> \n  </div> \n </div> \n</div> \n<h4>Technologies</h4>\n<div></div>\n<div>\n java\n</div>\n<div>\n spring\n</div>\n<div>\n spring-mvc\n</div>\n<div>\n hibernate\n</div>\n<div>\n Explosion Pills Developer at Mobiquity 153k 38 241 320\n</div>\n<div>\n Firoze Rakib 132 1 4\n</div>\n<div>\n Corey Pyle 31 1\n</div>\n<div>\n Meet Technical Lead @ Mobiquity Inc. 4.5k 3 18 36\n</div> \n<h4>Job description</h4> \n<div>\n <p>We are seeking a strong Java Developer with demonstrated experience designing and implementing enterprise scale web solutions. The ideal candidate will bring both strategic vision and solid execution skills to create responsive web applications for mobile and the desktop.<br><br><strong>Responsibilities:</strong></p>\n <ul>\n  <li>4+ years experience developing enterprise software applications</li>\n  <li>Design and develop scalable web applications using open source technologies</li>\n  <li>Experience with NodeJS to build scalable web services</li>\n  <li>Experience developing web services using J2EE/Java/Spring is required.&nbsp; Java 8 is a plus.</li>\n  <li>Clear understanding of MVC design pattern. Use of Spring MVC preferred.</li>\n  <li>Demonstrated experience working with teams using agile methodologies</li>\n  <li>Create solutions using leading edge technologies</li>\n  <li>Clear understanding of software development best practices</li>\n </ul>\n <p><br><strong>Skills and Experience:</strong></p>\n <ul>\n  <li>4+ years experience developing enterprise software applications</li>\n  <li>J<strong>2EE/Java/Spring</strong> is required. &nbsp;Java 8 is a plus</li>\n  <li>Experience with <strong>Spring sub-projects</strong> is required. Spring Cloud Stream is a plus</li>\n  <li>Experience with <strong>Oracle, MySql, or PostgreSQL</strong> and use of <strong>Hibernate, ORMs</strong> and/or <strong>JDBC</strong> is required</li>\n  <li>Understanding of document description languages such as JSON and XML</li>\n  <li>Experience with Node.js for web services a plus</li>\n  <li>Clear understanding of software development best practices</li>\n  <li>Demonstrated experience working with teams using <strong>agile methodologies</strong></li>\n  <li>Experience with NoSql databases such as MongoDB or CouchDB a plus</li>\n  <li>Demonstrated expertise with HTML5, CSS3 and Responsive Web Development is a plus</li>\n </ul> \n</div> \n<div> \n <a href='https://stackoverflow.com/jobs/apply/273940?reset=False&amp;ra=1tS02SK2HM2Y&amp;oqs=a%3D1tS02SK2HM2Y' rel='nofollow'>Apply now</a>\n</div>\n<div> \n</div> \n<h4>About Mobiquity</h4> \n<div>\n <p>Mobiquity is a digital engagement provider for more than 200 of the world’s leading brands.&nbsp;We are a collective&nbsp;of consultants, designers, developers, cloud advisors, and data scientists - spread across 3 continents and 9 offices - who create compelling digital experiences to help clients show they care to the people who matter most - their consumers, patients, and employees.</p> \n</div> \n<h4>Benefits</h4> \n<ul> \n <li> <span></span> <span>15 PTO days to start, 20 after 3 years</span> </li> \n <li> <span></span> <span>Flex time - sometimes, you need to focus out of the office.</span> </li> \n <li> <span></span> <span>Medical, dental, vision, etc. All starting day 1.</span> </li> \n <li> <span></span> <span>Machines matter. We'll get you the tech you need.</span> </li> \n <li> <span></span> <span>Work with brilliant people.</span> </li> \n <li> <span></span> <span>Training - mentorship, supplies, classes.</span> </li> \n</ul>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
