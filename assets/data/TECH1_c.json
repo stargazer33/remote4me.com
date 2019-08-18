@@ -5292,65 +5292,6 @@
       "region": "UNSET",
       "country": "UNSET"
     }
-  },
-  {
-    "id": "ZG1U4DyRRcOklz6uWKE21w",
-    "url": "https://remoteok.io/jobs/73456",
-    "title": "Senior Software Engineer",
-    "tags": [
-      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:k/t/w:go/go/6",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:mapreduce/bigdata-ml/5",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=0, go=6, nodejs=1, bigdata-ml=5, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/c",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "c",
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "RetailNext",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 18, 2019 10:29:10 PM",
-    "validThrough": "Jun 25, 2019 10:29:10 PM",
-    "crawled": "Jun 18, 2019 10:30:38 PM",
-    "content": "<span><h3>Senior Software Engineer</h3></span> \n<br> \n<span><h4>RetailNext</h4></span> \n<span>US-only</span> \n<span></span> \n<span>verified</span> \n<div> \n <div>\n   Are you interested in distributed systems or big data? RetailNext is looking for engineers to help build our cloud analytics system. We pull in and process data from thousands of brick and mortar stores to help our customers better understand and serve their customers. \n  <br> \n  <br> \n  <br># Responsibilities \n  <br> We're looking for engineers with experience in distributed systems or data processing at scale. We write code in Go and use tools like Cassandra, Redis, GRPC and MapReduce. We don't expect you to be an expert in everything we do, but you should have a strong background in some plus an interest in learning the rest. The team is growing fast and there will be leadership opportunities for interested and qualified candidates. \n  <br> \n  <br> \n  <br>We've built an environment where you can focus on big problems. Low on meetings and overhead. We are a community of makers and we want people with the same mindset. Focused on building great solutions to the problems our customers face. \n  <br> \n  <br># Requirements \n  <br>**Who you are:** \n  <br> \n  <br>* Strong in at least one of Go, Javascript, Ruby or C \n  <br> \n  <br>**Bonus points:** \n  <br> \n  <br>* Production experience with Cassandra \n  <br>* Experience with a project that used continuous deployment or Kanban \n  <br>* Work experience in retail \n  <br> \n  <br>#Location \n  <br>- US-only \n  <br> \n </div> \n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
   }
 ]
 }
