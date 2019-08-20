@@ -1,6 +1,115 @@
 {
  "items": [
   {
+    "id": "m6P_BwS-R6OA-yGzL84AIw",
+    "url": "https://remote.co/job/infrastructure-engineer-3/",
+    "title": "Infrastructure Engineer",
+    "tags": [
+      "DBG:surround``can 2W remot",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:shell/other/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=2, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/other",
+      "TECH1/python",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "other",
+      "python",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Nava",
+      "sameAs": "https://www.navapbc.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 20, 2019 5:27:30 PM",
+    "validThrough": "Aug 27, 2019 5:27:30 PM",
+    "crawled": "Aug 20, 2019 6:24:55 PM",
+    "content": "<h3>Infrastructure Engineer at <span>Nava</span></h3><div><span><i></i> Remote</span>        </div><div>            <p><strong>REMOTE</strong></p><p><strong>ENGINEERING</strong></p><p><strong>FULL-TIME</strong></p><p>Nava is at the forefront of reimagining how our government serves its people, and we’re looking for experienced infrastructure engineers to help drive this mission forward.</p><p>You will work on a small team, helping to improve and manage all aspects of our systems, which are deployed on AWS. We make heavy use of tools such as Docker, Packer, Terraform, Jenkins, and Statsd/Graphite/Grafana and we continually evaluate new technologies as they become production-ready for government contexts.</p><p>You’ll be responsible for pushing the limits of these critical systems, from Billion User Load Tests to achieving and maintaining sub-millisecond transaction times. By doing this, you’ll help ensure that Nava continues delivering services that millions of Americans depend on. You care deeply about working on technology that affects people’s lives, and are passionate about building and maintaining large-scale systems that are well-designed, fast, scalable, and secure.</p><p><strong>You can work remotely, or from one of Nava’s offices in DC, SF, or NYC.</strong></p><p><strong>Opportunities and Challenges</strong></p><p>You will be working within the government ecosystem, which means working, sometimes closely, with other government contractors and civil servants. Working with people outside of your company means you’ll likely encounter different working styles and cultural norms. At the same time, working as part of a larger team allows us to deliver on projects of larger scale and complexity.</p><p>The government also imposes a level of bureaucracy that is typically not present in a company of our size in the private sector. We operate in a regulated environment, where checks and compliance is built into the process of building software. This can make the path to production slower and some decisions, such as tools and processes, lie outside of our control. However, beyond writing code, finding and recommending ways to improve the way government software is built is one of the highest-leverage ways we help fulfill our mission.</p><p>You will be working with legacy systems. While our work is to build new systems with up-to-date technology, we have to do that within an existing ecosystem. Our work is building functional, resilient software for production. We don’t build flashy prototypes that don’t work for real people. This usually means getting to know legacy systems, often with poor documentation and unreliable narrators, and trying to determine how to replicate the systems’ behavior or how to integrate with these systems. This is a great opportunity for engineers who enjoy software archaeology. If you care deeply about how software systems work over time, and building systems for longevity and resilience, this work is for you.</p><p><strong>Who we’re looking for</strong></p><p>You are a reliable, experienced engineer who cares deeply about building software that makes a real difference in people’s lives, and is keen to grapple with the complexities and trade-offs involved in building government software. You prefer using proven technologies to build well-designed systems that are scalable, performant, and secure.</p><p>You enjoy working on cross-functional teams, and collaborating with others, and you are able to direct yourself and work independently. You have empathy for the people who rely on your work, and you care about how your behavior affects others. You are humble and you value critical feedback and personal growth. You are comfortable receiving and giving kind, candid feedback.</p><p>Beyond coding ability, communication and teamwork skills are paramount. You must be able to communicate clearly and professionally in writing, in person, and through online tools, especially because we work with government stakeholders and other contractors.</p><p>You exhibit good judgment and are able to adapt to new situations well. You may encounter situations that no one on your team or at Nava has encountered before. You take responsibility and are able to persist through ambiguity to get to a solution.</p><p><strong>What you’ll do</strong></p><ul><li>Work with fellow Infrastructure Engineers to build and maintain our production infrastructure to ensure ongoing reliability while maximizing development team efficiency</li><li>Troubleshoot and debug infrastructure, network, and operating system issues</li><li>Build and maintain operations software which automates the configuration, provisioning, deployment and monitoring of our core systems</li><li>Manage security systems, linux file system permissions and network firewalls</li><li>Perform automated deployments to create new or update existing production environments</li><li>Set up and maintain alarm systems for notifications on error conditions</li><li>Join our on-call rotation as a first line of defense during production issues</li></ul><p><strong>What we’re looking for</strong></p><ul><li>Previous experience maintaining a medium or larger scale production system</li><li>Significant experience in one or more of the following areas: Cloud infrastructure, Unix/Linux, Scripting, or Security</li><li>Ability to automate procedural tasks using scripting or coding in Python, Javascript, or Ruby</li><li>A thoughtful, adaptive, and collaborative mindset</li><li>Understanding of networks, HTTP</li><li>Ability to use the shell to achieve practical aims. E.g. navigate the shell, SSH into machines, create SSH keys, read log files, move files, and start/stop services, search in files, change permissions</li><li>Excellent written and verbal communication skills, technical and otherwise</li><li>Ability to pick up and learn new development and operations skills</li></ul><p>We’re a small team working to radically improve our government, so everyone that joins us has a direct impact on the direction and success of Nava. We are stewards – we hold a deep responsibility towards the systems that we work with. We are a community – we value collaboration both within our teams and with the many hardworking people within government. We offer generous compensation and equity packages and value a healthy work/life balance.</p><p>We care deeply about diversity and inclusion at Nava. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><p>Note that we participate in E-Verify and upon hire, will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.</p>        </div><div>        <a href='https://jobs.lever.co/nava/817283f6-9911-4f72-a5ef-fbcdd2c04a7c' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "J2f6T7BIS7qtDvWQo-SIWw",
+    "url": "https://remote.co/job/devops-engineer-30/",
+    "title": "DevOps Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:flask/python/16",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:sqlalchemy/python/8",
+      "DBG_TECH1:techWeightMap:{python=26, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "ReCharge",
+      "sameAs": "https://rechargepayments.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 19, 2019 7:56:28 PM",
+    "validThrough": "Aug 26, 2019 7:56:28 PM",
+    "crawled": "Aug 19, 2019 8:32:14 PM",
+    "content": "<h3>DevOps Engineer at <span>ReCharge</span></h3><div><span><i></i> Remote</span>         | <span> International </span></div><div>            <p><strong>at ReCharge Payments</strong></p><p><strong>Remote</strong></p><p><strong>Overview</strong></p><p>With over 10,000 online merchants launching subscriptions and over 1,000,000 subscribers powered by ReCharge we’re processing tens of millions of dollars in sales every week. Our mission making repeat orders easier for everyone’ began four years ago as a bootstrapped startup and today we’re at the forefront of recurring billing software with over 100 remote-first employees around the globe.</p><p>We’re looking for an DevOps Engineer to join the Infrastructure team and collaborate on a critical part of the platform. This team is responsible for the design and support of the product platform, focusing Cloud-native solutions to enable our product and feature teams to keep up with the fast pace of our industry. Facilitated by robust tooling, automation and well maintained documentation.</p><p>Our stack includes: Python, Flask, Jinja, Docker, GCP, Terraform, Ansible, Memcached, Nginx, Snowflake, Looker, Matillion</p><p><strong>What You’ll Do</strong></p><ul><li>Live by and champion our values: #ownership, #empathy, #simple-solutions.</li><li>Design and support the product platform and operational runtime.</li><li>Collaborate with other departments to improve developer and customer experience through Infrastructure or pipeline improvements.</li><li>Implement new technologies to solve ReCharge’s technical challenges as they arise.</li><li>Champion good habits (development techniques, security, tech debt balance, TDD, and agile habits) within your team; improve engineering standards, tooling, and processes.</li><li>Debug production issues across multiple levels of the stack.</li><li>Find and address performance issues throughout the application.</li><li>Perform thorough code reviews and troubleshoot complex issues.</li></ul><p><strong>What You’ll Bring</strong></p><ul><li>Typically, 5+ years of relevant DevOps experience in fast paced environments</li><li>4+ years experience with Docker, Ansible, TDD</li><li>2+ years experience with Metrics and APM, Logging solutions</li><li>2+ years experience in cloud-native environments such as GCP, AWS, or Azure</li><li>Proficient with python2/3, flake8/pep8, flask, gunicorn, gevent</li><li>Experience with auto-scaling, serverless infrastructure components</li><li>Experience with Terraform, MySQL, SQLAlchemy,Git/Github, lint</li><li>A knack for engineering simple solutions to solve complex problems</li><li>Willingness to participate in a first line of support on-call rotation</li><li>Ability to work remotely and desire to make an impact at a boot-strapped start-up</li><li>Proficient with Signalfx or other SaaS monitoring solution desired</li><li><strong>Bachelors degree or equivalent experience desired</strong></li></ul><p><em>ReCharge Payments is an equal opportunity employer. In addition to EEO being the law, it is a policy that is fully consistent with our principles. All qualified applicants will receive consideration for employment without regard to status as a protected veteran or a qualified individual with a disability, or other protected status such as race, religion, color, national origin, sex, sexual orientation, gender identity, genetic information, pregnancy or age. ReCharge Payments prohibits any form of workplace harassment.</em></p>        </div><div>        <a href='https://boards.greenhouse.io/recharge/jobs/4371030002' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "QsdRh4FBSQmVis9CeoRgWA",
     "url": "https://stackoverflow.com/jobs/286028/devops-engineer-remote-upstack?a=1xVlomEQf42I",
     "title": "DevOps Engineer - Remote at Upstack  ",
@@ -4496,6 +4605,59 @@
     }
   },
   {
+    "id": "YiGn3HH6RFaMPOOUhY9cmw",
+    "url": "https://news.ycombinator.com/item?id=20643882",
+    "title": "Eurostaff Group | Mid-level developer REMOTE WORKING OFFERED- offices based in London - ...",
+    "tags": [
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(role,work) 4W OR(offic,headquart,onsit)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:techWeightMap:{python=20, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 8, 2019 2:31:13 PM",
+    "validThrough": "Aug 15, 2019 2:31:13 PM",
+    "crawled": "Aug 8, 2019 4:09:11 PM",
+    "content": "Eurostaff Group | Mid-level developer REMOTE WORKING OFFERED- offices based in London - permanent role<p>Tech stack- python, django, AWS...</p><p>Looking on behalf of an end to end sensor plus SaaS solutions company. They're using microsensors (software) to monitor and control things such as temp, proximity and touch. They then apply a variety of algorithms to the data that has been drawn to produce useful information.</p><p>User cases; monitor temperature in NHS drugs fridges - removes the need for nurses to monitor etc or a more complex and dynamic example might be using temp to identify desk occupancy in an office and provide stats such as peak usage etc. The same sensor can also be used for preventative maintenance  - e.g rising heat on servers in data centres. (AMB, Google Data Centre in Holland)</p><p>Major clients - late-stage angel investor, NHS, Verizon, Amazon through JLL, ABM (Google data centre in Holland) and they're in talks with Pret, Hello Fresh.</p><p>email CVs to s.athwain@eurostaffgroup.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "gcjXEKMiSWC9oF1bv5bDgw",
     "url": "http://workinstartups.com/job-board/job/83180/senior-infrastructure-engineer-cambridge-office-at-wegift/",
     "title": "Senior Infrastructure Engineer (Cambridge Office)",
@@ -4533,6 +4695,62 @@
     "validThrough": "Aug 14, 2019 5:50:26 PM",
     "crawled": "Aug 8, 2019 12:06:30 PM",
     "content": "<h3>Role</h3><br /><p>As a Senior Infrastructure Engineer you will help supporting our infrastructure needs and requirements as we continue to scale our business. You will be working closely with the CTO to ensure the company&rsquo;s infrastructure continues to be robust, secure, and scalable.</p><br /><h3>Responsibilities</h3><br /><ul><br /><li>Maintain and monitor all network, security and computer systems to meet the organization's current and future requirements.</li><br /><li>Responsible for management, maintenance and architecture of storage, virtualized environment, servers, network devices, and productivity tools.</li><br /><li>Monitor systems and identify performance issues proactively.</li><br /><li>Test all changes to networks, hardware, software, and hosted applications.</li><br /><li>Monitor service delivery compliance to budget, quality standards, customer and business stakeholder requirements.</li><br /><li>Cater to doing infrastructure coordination related to design and setup activities at different stages of a project.</li><br /><li>Maintain the necessary project plans and documentation of all system builds and modifications.</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Must haves</strong></p><br /><ul><br /><li>Over 10 years&rsquo; experience as an Infrastructure Engineer.</li><br /></ul><br /><ul><br /><li>Expert level of understanding of Linux with a focus on security.</li><br /><li>Experience with some configuration management tool like Saltstack to manage multiple servers (about 50).</li><br /><li>Expert level experience of managing AWS services.</li><br /><li>Deep understanding of Nginx server both as HTTP server and as a reverse proxy.</li><br /><li>Experienced in managing Squid Proxy Server.</li><br /><li>SMTP Server configuration.</li><br /><li>Advanced level of understanding of Postgres server configuration and replication. (Postgres replication knowledge is very desirable. Must have replication experience with at least one database server, for example, Oracle or MySql).</li><br /><li>Application cluster, failover and load balancing experience.</li><br /><li>Familiar with Google Compute Engine.</li><br /><li>Gunicorn, celery, MQ Rabbit and Python are a bonus.</li><br /><li>Zabbix or similar monitoring tools.</li><br /><li>Excellent communicator and collaborator with both technical and non-technical members of the team.</li><br /><li>Maintain a good working knowledge of current infrastructure and future trends.</li><br /></ul><br /><h3>What&rsquo;s in for you?</h3><br /><p>We believe there is a clear distinction between perks and benefits. Perks are easily replicable, whereas benefits are something that are unique to us. We have taken the time to tailor a number of them to fit our culture and ethos.</p><br /><h3>Compensation</h3><br /><ul><br /><li>&pound;50-100k (DOE)</li><br /></ul><br /><h3>Benefits</h3><br /><ul><br /><li>Pay reviews every 6 months to make sure we&rsquo;re paying market rate.</li><br /><li>Participation in the Employee Options pool so you get to own a piece of WeGift.</li><br /><li>Pension scheme (3% contribution)</li><br /><li>A minimum of 25 days holiday + bank holidays (we&rsquo;re not too descriptive about holidays so if you need more time off then just ask).</li><br /><li>Staff perks with WeGift brands - discounts of up to 12% on coffee, weekly groceries, holidays, the list is endless.</li><br /><li>Flexible hours and work from home when needed - yes, yes everyone says this but we do.</li><br /><li>WeRecognise, where we shine the spotlight on exceptional employees every month who in turn get a &pound;200 award in the eGift card of their choice.</li><br /><li>Personal development budget - well actually there is no budget as we don&rsquo;t believe in putting a cap on learning new things.</li><br /><li>Generous maternity and paternity packages to make sure you get to spend time with your new bundle of joy.</li><br /><li>Fully licensed as a tier 2 sponsor + relocation packages to help you get settled in.</li><br /></ul><br /><h3>Perks</h3><br /><ul><br /><li>A modern office on the Cambridge Science Park with lots of natural light</li><br /><li>A new laptop as standard - no one wants an old one when they need to be doing their best work + all the trimmings you need to get the perfect work setup.</li><br /><li>Catered lunch once a week.</li><br /><li>Monthly team socials (Escape Rooms, Karaoke - everyone gets a chance to choose what this looks like)</li><br /><li>Cycle to work scheme - save some &pound;&pound;&pound; on buying a bike</li><br /></ul><br /><p>&nbsp;</p><br /><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br /><p>&nbsp;</p><br /><p>Successful candidates will be contacted within two weeks.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "tn_02FwCQqC0BRD8i9_OBQ",
+    "url": "http://workinstartups.com/job-board/job/83178/lead-engineer-cambridge-office-at-wegift/",
+    "title": "Lead Engineer (Cambridge Office)",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/8",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python-developer/python/13",
+      "DBG_TECH1:k/t/w:sqlalchemy/python/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=29, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "WeGift",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 70000,
+      "maxValue": 90000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 70k - 90k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 7, 2019 5:45:18 PM",
+    "validThrough": "Aug 14, 2019 5:45:18 PM",
+    "crawled": "Aug 8, 2019 12:06:30 PM",
+    "content": "<h3>Role</h3><br /><p>Writing clean, scalable and reusable code to deliver the features on the company roadmap.</p><br /><h3>Responsibilities</h3><br /><ul><br /><li>Leading a team to ensure we deliver clean, scalable, reusable and maintainable code.</li><br /><li>Designing technical solutions to solve business problems.</li><br /><li>Analysing, vetting and testing new technology choices.</li><br /><li>Participating in code reviews to maintain code quality and coaching other team members on best practise.</li><br /><li>Maintaining well documented release notes and change log.</li><br /><li>Developing back-end components to improve responsiveness and overall performance</li><br /><li>Integrating user-facing elements into applications</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Must haves</strong></p><br /><ul><br /><li>8+ years of strong python development experience.</li><br /><li>Good knowledge of HTML, JS and CSS and Linux is necessary.</li><br /><li>Strong experience of creating and using Web APIs.</li><br /><li>Experience of working with a relational database and preferably knowledge of one ORM like, for example, SqlAlchemy.</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Nice to haves</strong></p><br /><ul><br /><li>PostgreSQL</li><br /><li>Celery</li><br /><li>ES6+</li><br /><li>Flask (highly desired)</li><br /><li>Familiarity with Vue</li><br /><li>Payment or financial service experience</li><br /></ul><br /><h3>What&rsquo;s in for you?</h3><br /><p>We believe there is a clear distinction between perks and benefits. Perks are easily replicable, whereas benefits are something that are unique to us. We have taken the time to tailor a number of them to fit our culture and ethos.</p><br /><h3>Compensation</h3><br /><ul><br /><li>&pound;70-90k (DOE)</li><br /></ul><br /><h3>Benefits</h3><br /><ul><br /><li>Pay reviews every 6 months to make sure we&rsquo;re paying market rate.</li><br /><li>Participation in the Employee Options pool so you get to own a piece of WeGift.</li><br /><li>Pension scheme (3% contribution)</li><br /><li>A minimum of 25 days holiday + bank holidays (we&rsquo;re not too descriptive about holidays so if you need more time off then just ask).</li><br /><li>Staff perks with WeGift brands - discounts of up to 12% on coffee, weekly groceries, holidays, the list is endless.</li><br /><li>Flexible hours and work from home when needed - yes, yes everyone says this but we do.</li><br /><li>WeRecognise, where we shine the spotlight on exceptional employees every month who in turn get a &pound;200 award in the eGift card of their choice.</li><br /><li>Personal development budget - well actually there is no budget as we don&rsquo;t believe in putting a cap on learning new things.</li><br /><li>Generous maternity and paternity packages to make sure you get to spend time with your new bundle of joy.</li><br /><li>Fully licensed as a tier 2 sponsor + relocation packages to help you get settled in.</li><br /></ul><br /><h3>Perks</h3><br /><ul><br /><li>A modern office on the Cambridge Science Park with lots of natural light</li><br /><li>A new laptop as standard - no one wants an old one when they need to be doing their best work + all the trimmings you need to get the perfect work setup.</li><br /><li>Catered lunch once a week.</li><br /><li>Monthly team socials (Escape Rooms, Karaoke - everyone gets a chance to choose what this looks like)</li><br /><li>Cycle to work scheme - save some &pound;&pound;&pound; on buying a bike</li><br /></ul><br /><p><br />We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br /><p>&nbsp;</p><br /><p>Successful candidates will be contacted within two weeks.</p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -22659,54 +22877,6 @@
     "validThrough": "Jun 28, 2019 6:23:43 PM",
     "crawled": "Jun 21, 2019 6:24:53 PM",
     "content": "<h3>Systems Engineer at <span>Modulz</span></h3>\n<div>\n <span><i></i> Remote</span> | \n <span> 100k </span> | \n <span> International </span>\n</div>\n<div> \n <p>A very experienced full-stack JavaScript engineer to help us build the next generation of design tools.</p>\n <p><strong>Main duties</strong>:</p>\n <ul>\n  <li>Architect and develop an enterprise-grade auth system</li>\n  <li>Own database and asset security rules, data audits, and customer data security</li>\n  <li>Develop offline mode in Modulz</li>\n  <li>Architect and develop cloud functions in support of Modulz features like image processing and code generation</li>\n  <li>Develop detailed privacy and sharing settings in Modulz</li>\n  <li>Set up and maintain payment and subscription systems</li>\n  <li>Own data backup and recovery plans</li>\n </ul>\n <p><strong>Other duties include:</strong></p>\n <ul>\n  <li>Work on core Modulz features in React and TypeScript</li>\n  <li>Work on integrations to services like NPM, GitHub, and Netlify</li>\n  <li>Perform data transformations and migrations to existing data</li>\n  <li>Maintain analytics integrations</li>\n  <li>Build E2E testing specs and tests</li>\n </ul>\n <p><strong>Handy experience:</strong></p>\n <ul>\n  <li>Firebase Cloud Firestore</li>\n  <li>Google Cloud Functions</li>\n  <li>React, MobX, TypeScript</li>\n  <li>Auth0 or similar vendors for enterprise authorization projects (SSO, multi-factor, social, AD/LDAP)</li>\n  <li>Node, NoSQL databases, SQL databases</li>\n  <li>Data privacy and security</li>\n  <li>Creating architecture diagrams and internal documentation</li>\n  <li>E2E UI testing</li>\n </ul>\n <p><strong>The right candidate:</strong></p>\n <ul>\n  <li>You are well-rounded and able to take high level, directional goals from rough idea through to release. You understand product needs and build solutions to fit.</li>\n  <li>You are comfortable and excited in a fully remote role.</li>\n  <li>You are capable in multiple areas: collaborating with the product team on requirements, designing the technical architecture, writing the code, and pushing your features through to release.</li>\n </ul>\n <p><strong>The offer</strong></p>\n <ul>\n  <li>$90k – $110k USD salary</li>\n  <li>0.5% – 1% stock options</li>\n  <li>30 days paid time off</li>\n  <li><strong>Work remotely from anywhere in the world. Choose your own hours.</strong></li>\n  <li>Health &amp; dental coverage. We pay 75% of your premium.</li>\n  <li>$200 USD monthly stipend for hotdesking, travel, hipster coffee or fancypants headphones.</li>\n  <li>$50 USD monthly stipend for gym, yoga, health apps, therapy or whatever you need to stay healthy.</li>\n  <li>One free ticket to a conference of your choice, annually.</li>\n  <li>$1k USD upfront to help you kit out your home office or workstation.</li>\n  <li>Unlimited free books.</li>\n </ul> \n</div>\n<div> \n <a href='https://www.modulz.app/careers/systems-engineer/' rel='nofollow'>Apply for job</a> \n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "gxpYgSjRQnOj9u5XgQAXxA",
-    "url": "https://www.remoteage.com/remote-jobs/devops-engineer-work-remote-2/",
-    "title": "DevOps Engineer – Work Remote!",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
-      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Hamilton Technical Personnel",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 20, 2019 6:19:58 PM",
-    "validThrough": "Jun 27, 2019 6:19:58 PM",
-    "crawled": "Jun 20, 2019 6:24:19 PM",
-    "content": "<h3> DevOps Engineer – Work Remote! </h3>\n<div>\n United States, New York\n</div>\n<div>\n Company: Hamilton Technical Personnel\n <p></p>\n</div>\n<div> \n <h4>Overview</h4> \n <p>Work-from-home Option! Our client is located in North East and offers a remote-work option. Our client, a successful technology company known for their technological innovations has a new position on their DevOps team for someone experienced with supporting customer-facing Web Applications and Cloud technology. This DevOps engineer will join small team which monitors the internal Web development pipeline by handling load balancing and multi-layer application .NetWindowsSQLServer stack handles release management and production incidents and supporting a a cloud native infrastructure all with a focus on DevOps best practices. Qualifications 3-5+ years of experience as DevOps Engineer with good knowledge of release management andor production issues. Programming familiarity Foundation or good knowledge of programming with MSCSQL stack. Experience supporting multi-tiered, high availability Web Applications Familiarity with Cloud technology ndash AWS or other Experience with design, implementation and delivery of buildtestrelease infrastructure Admin experience with continuous integration tools like Jenkins, Travis, TeamCity Experience with monitoring tools such as AppDynamics, Datadog, etc Ability to debug and optimize code and automate routine tasks using scripting languages Systematic problem-solving approach coupled with strong communication skills and a sense of ownership and drive. Preferred Bachelors in comp sci or other related technology area. Our client is a dynamic company with a great culture and cutting edge technology. This is a ‘permanent’ direct hire position – not a contract.</p> \n <div> \n  <a href='https://www.jobg8.com/Traffic.aspx?jTiKNAuOTmVm%2f2xLCtBZ0Qy' rel='nofollow'>Apply for job</a> \n </div> \n</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

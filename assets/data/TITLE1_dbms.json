@@ -1,6 +1,56 @@
 {
  "items": [
   {
+    "id": "IKGTdz0mTLyqomW97iNw2g",
+    "url": "http://www.indeed.co.uk/viewjob?t=Senior+Database+Developer&jk=54d7ae43a53ac541&",
+    "title": "Senior Database Developer - Sanderson Recruitment Plc - Glasgow",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
+      "DBG_TECH1:k/t/w:perl/other/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/other",
+      "TITLE1/dbms",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "Sanderson Recruitment Plc",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 55000,
+      "maxValue": 55000,
+      "info": "Permanent",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "GBP 55k /Year | Permanent"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 12, 2019 11:00:01 PM",
+    "validThrough": "Aug 19, 2019 11:00:01 PM",
+    "crawled": "Aug 19, 2019 11:30:27 PM",
+    "content": "<div><div><ul><li>Senior Database Developer</li><li>Glasgow</li><li>Up to £55,000 DOE + Leading benefits package</li></ul><p><b>Role Overview</b></p><p>Sanderson are working alongside a global financial institution who operate at the forefront of technology, who are currently looking for a Senior Database Developer to join a team which is projected to double in size over the next 12 months as a result of an ongoing growth initiative being undertaken by the business.</p><p>This role would give the successful applicant the chance to work on a complex system which is seen as one of the most important assets within the business. Due to the complexity of the system, the employer is looking for someone who sees themselves as a “SQL Expert” with a desire to learn new skills and new ways of working. The employer offers a competitive salary, a leading benefits package, flexible and remote working options, career progression opportunities within a global organisation and much more.</p><p><b>Required Skills &amp; Experience</b></p><ul><li>Advanced SQL Development skills</li><li>Knowledge of Perl Scripting (or the willingness to learn)</li><li>Exposure to Linux scripting would be advantageous however someone who is willing to learn would also be considered.</li><li>The successful applicant should be comfortable working within a global team, there are currently SME’s on this platform around the world.</li><li>Experience creating stored procedures</li><li>Experience creating table partitions</li></ul><p><b>Responsibilities</b></p><ul><li>Deliver high quality code (SQL and Perl) under direction of a project manager/team lead.</li><li>Optimise/extend existing complex SQL queries</li><li>Potential to re-write entire sections of the system</li></ul><p><b>Benefits</b></p><ul><li>Market Leading pension</li><li>Competitive holidays with a buy/sell option</li><li>Preferential rates on financial products</li><li>Progression opportunities within 6 – 12 months</li><li>Performance related bonus of up to 15%</li><li>Opportunity to learn new technologies.</li></ul><p>Please contact Ryan Finch on 0141 428 4272 should you have any questions or for a confidential discussion, or apply below.</p></div></div><div><div><div><span></span></div><span>Glasgow</span></div><div><div><span></span></div><span>Permanent</span></div><div><div><span></span></div><span>£55,000 a year</span></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "udL7Yj1tQqmOZhqMCHrLbA",
     "url": "https://jobmote.com/job/62599/websphere-server-administrator-remote/",
     "title": "WebSphere Server Administrator - REMOTE",
