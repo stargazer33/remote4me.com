@@ -1,0 +1,12 @@
+{% comment %}<!--
+Shows one link in list
+
+Arguments:
+  include.link - a link from communitynav.yml
+-->{% endcomment %}
+{% if include.link.type == 'link' %}
+    <div style="margin-bottom: 1.25em;">
+        <h4 style="line-height: 1.4; margin-bottom: 0.2em;"><a href="{{ include.link.url }}">{{ include.link.title }}</a></h4>
+            {{ include.link.tagline }}
+    </div>
+{% endif %}

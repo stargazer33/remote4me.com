@@ -10,6 +10,29 @@ jobnav_tech_node : 1
 # Non-tech jobs "Remote" is not only for engineers!
 jobnav_nontech_node : 2
 
+collections:
+  col_most_recent:
+    output: true
+    permalink: /community/:year/:month/:day/:title
+  col_people:
+    output: true
+    permalink: /community/:year/:month/:day/:title
+  col_companies:
+    output: true
+    permalink: /community/:year/:month/:day/:title
+  col_trends:
+    output: true
+    permalink: /community/:year/:month/:day/:title
+  col_travel:
+    output: true
+    permalink: /community/:year/:month/:day/:title
+  col_news:
+    output: true
+    permalink: /community/:year/:month/:day/:title
+  col_sitefeedback:
+    output: true
+    permalink: /community/:year/:month/:day/:title
+
 site_og_wide_image : "https://remote4me.com/og-image.png?v=wide003"
 site_og_quadrat_small_image : "https://remote4me.com/og-image-quadrat-400-400.png?v=q002"
 

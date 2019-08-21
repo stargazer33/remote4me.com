@@ -1,0 +1,20 @@
+{% comment %}<!--
+Print tags for the given "page" and "n1"
+
+Arguments:
+  include.page - a page
+  include.n1 - node1 from communitynav.yml
+-->{% endcomment %}
+
+{% for tag in include.page.tags %}
+    {% for node2 in include.n1.subnodes %}
+        {% if node2.title == tag %}
+            {% include community/tag-one.html tag=node2.title url=node2.url %}
+        {% endif %}
+        {% for node3 in node2.subnodes %}
+            {% if node3.title == tag %}
+                {% include community/tag-one.html tag=node3.title url=node3.url %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}

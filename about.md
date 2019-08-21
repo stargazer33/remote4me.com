@@ -3,7 +3,7 @@ layout: page
 title: About
 description: About this site, credits, contacts
 permalink: /about/
-group: navigation
+group: morenavigation
 breadcrumb_title: Miscellaneous
 breadcrumb_url: /misc/pages.html
 last_modified_at: 2018-09-25T00:00:00+00:00

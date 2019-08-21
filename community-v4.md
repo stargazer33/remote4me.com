@@ -1,0 +1,42 @@
+---
+layout: page
+title: Community
+undertagline: "Where remote workers and distributed companies share ideas. It is an online 
+community for sharing and discovering great ideas about remote work, having debates, and making friends.<br/> 
+<ul>
+<li>Remote workers can share their experience.</li> 
+<li>Remote (or distributed) companies can tell their stories.</li>
+<li>Journalists, coaches can publish analytics and reviews related to remote work.</li>
+<li>Digital nomads can share their stories about traveling and working remotely.</li> 
+</ul>
+Cross-posting from your own blog is welcome."
+permalink: /community/
+---
+{% for row in (1..3) %}
+<div class="row">
+
+    {% for node1 in site.data.communitynav %}
+        {% if node1.row != row %}
+            {% continue %}
+        {% endif %}
+
+    
+        <div class="col-md-4">
+            {% include community/node1_in_list.html node=node1 %}                                                              
+
+            {% for l in node1.subnodes %}
+                {% include community/link_in_list.html link=l %}
+            {% endfor %}                                 
+
+            {% assign node1_articles=site[node1.collection] %}               
+            {% if node1_articles == nil %}
+                {% continue %}
+            {% endif %}            
+            {% assign node1_articles_sorted=node1_articles | sort: 'order' | reverse %}               
+            {% for p in node1_articles_sorted %}
+                {% include community/article_page_in_list.html page=p n1=node1 %}
+            {% endfor %}                                    
+        </div>
+    {% endfor %}
+</div>   
+{% endfor %}

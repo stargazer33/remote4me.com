@@ -137,9 +137,21 @@ gtag('config', 'UA-117928562-1');
               </ul>
             </li>
 
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
+            <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Community<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                {% assign pages_list = site.data.communitynav %}
+                {% include JB/pages_list %}
+              </ul>
+            </li>
+
+            <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">More<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                {% assign pages_list = site.pages %}
+                {% assign group = 'morenavigation' %}
+                {% include JB/pages_list %}
+              </ul>
+            </li>
+
           </ul>
 
         </div>

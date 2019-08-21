@@ -1,0 +1,86 @@
+{% comment %}<!--
+Displays level1 page like:
+ /community/remote-people
+ /community/remote-companies
+
+Arguments:
+  page.permalink
+-->{% endcomment %}
+{% assign node1 = site.data.communitynav | where:"url", page.permalink  | first %}
+
+<section class="hgroup">
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xs-1" style="padding-right: 0px;">
+                <img style="color: #428bca; max-height: 60px;" type="image/svg+xml"
+                     src="{{ node1.img }}" >
+            </div>
+            <div class="col-xs-11">
+                <h1 class="elegant">{{ node1.title }}</h1>
+                {% if node1.tagline %}{{ node1.tagline }}{% endif %}
+            </div>
+        </div>
+
+        <ul class="breadcrumb pull-right">
+            <li><a href="{{ HOME_PATH }}">Home</a> </li>
+            <li><a href="/community/">Community</a> </li>
+            <li class="active">{{ node1.title }}</li>
+        </ul>
+    </div>
+</section>
+
+{% if site[node1.collection] %}
+<section>
+    <div class="container">
+        <div class="row">
+
+            {% assign node1_articles_sorted=site[node1.collection] | sort: 'order' | reverse %}
+
+            <div id="leftcol" class="col-sm-8 col-md-8">
+                {% for p in node1_articles_sorted %}
+                    {% include community/article_page_in_list.html page=p n1=node1 %}
+                {% endfor %}
+            </div>
+
+            <div id="sidebar" class="col-sm-4 col-md-4 hidden-xs">
+                {% for node2 in node1.subnodes %}
+                    {% assign nodeprint=nil %}
+
+                    {% for p in node1_articles_sorted %}
+                        {% for tag in p.tags %}
+                            {% if tag == node2.title %}
+                                {% assign nodeprint=node2 %}
+                                {% break %}
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
+                    {% comment %}<!-- now nodeprint contains level2 node with articles or nil -->
+                    {% endcomment %}
+
+                    {% if nodeprint!=nil %}
+
+                        {% comment %}<!-- print the nodeprint -->{% endcomment %}
+                        {% include community/node2_in_list.html node=nodeprint %}
+
+                        {% comment %}<!-- print the articles/pages in nodeprint -->{% endcomment %}
+                        {% for p in node1_articles_sorted %}
+                            {% for tag in p.tags %}
+                                {% if tag == nodeprint.title %}
+                                    {% include community/article_page_in_list.html page=p n1=nodeprint %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %}
+                        <br/>
+
+                    {% endif %}
+
+                {% endfor %}
+            </div>
+
+        </div>
+    </div>
+</section>
+{% endif %}
+

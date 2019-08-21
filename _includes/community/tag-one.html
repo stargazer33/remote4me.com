@@ -1,0 +1,13 @@
+{% comment %}<!--
+Print ONE tags
+
+Arguments:
+include.tag - string (name)
+include.url - tag url
+-->{% endcomment %}
+
+{% if include.url %}
+<span class="tag label label-primary labelTag"><a href="{{ include.url }}">{{ include.tag }}</a></span>
+{% else %}
+<span class="tag label label-primary labelTag">{{ include.tag }}</span>
+{% endif %}

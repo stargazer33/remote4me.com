@@ -1,134 +1,120 @@
-- title: Most Recent
+#- title: Most Recent
+#  tagline:
+#  img: "/assets/svg/c-recent.svg"
+#  collection: "col_most_recent"
+#  url: /community/recent
+#  row: 1
+#  col: 1
+#  subnodes:
+
+- title: "Community"
   tagline:
-  url:
+  img:
+  collection:
+  url: /community/
+  row: 0
+  col: 0
+  subnodes:
+
+
+- title: "Stories from REAL people"
+  tagline: "The world from the remote worker point of view"
+  img: "/assets/svg/c-stories-people.svg"
+  collection: "col_people"
+  url: /community/remote-people
   row: 1
   col: 1
   subnodes:
 
-    - type: article
-      title: "How a 100% Remote Organization is Leveraging Holacracy to Scale."
-      tagline: "Convert’s journey to self-management"
-      tags:
-        - "#companies-management"
-        - "#analytics"
-    - type: article
-      title: "Are you able to work remotely?"
-      tagline: "How ALICE select the candidates who can work remotely"
-      subnodes:
-      tags:
-        - "#companies-hiring"
+  - title: "Office ⇨ Remote"
+    tagline: "Remote workers: describe your transition to remote"
+    url: 'office-to-remote'
+    subnodes:
+
+  - title: "Jobsearch"
+    tagline: "Remote workers: Describe your remote jobsearch"
+    url: 'jobsearch'
+    subnodes:
+
+  - title: "Interview"
+    tagline: "Describe your remote interview experience"
+    url: 'interview'
+    subnodes:
+
+  - title: "Daily life"
+    tagline: "As a remote worker"
+    url: 'daily-life'
+    subnodes:
+
+  - title: "You remote Office/Workplace"
+    tagline: "Describe your remote office"
+
+  - title: "Your day"
+    tagline: "Describe your typical (work)day"
+
+  - title: "Taxes"
+    tagline: "Paying taxes when working remotely"
+    url: 'taxes'
+    subnodes:
+
+  - title: "Dark side"
+    tagline: The dark and ugly side of remote work
+    url: 'dark-and-ugly-side'
+    subnodes:
 
 
-
-- title: Real stories from REAL people
-  tagline: The world from the remote worker point of view
-  url:
+- title: Stories from Remote Companies
+  tagline: Everything about remote, remote-friendly and distributed companies
+  img: "/assets/svg/c-stories-companies.svg"
+  collection: "col_companies"
+  url: /community/remote-companies
   row: 1
   col: 2
   subnodes:
 
-  - title: "Office ⇨ Remote"
-    tagline: "Remote workers: describe your transition to remote"
-    url:
-    subnodes:
-
-  - title: Jobsearch.
-    tagline: "Remote workers: Describe your remote jobsearch"
-    url:
-    subnodes:
-
-  - title: Interview.
-    tagline: Describe your remote interview experience
-    url:
-    subnodes:
-
-  - title: Daily life.
-    tagline: As a remote worker
-    url:
-    subnodes:
-    - title: You remote Office/Workplace.
-      tagline: Describe your remote office
-    - title: Your day.
-      tagline: Describe your typical (work)day
-
-  - title: Taxes.
-    tagline: Paying taxes when working remotely
-    url:
-    subnodes:
-
-  - title: Dark side.
-    tagline: The dark and ugly side of remote work
-    url:
-    subnodes:
-
-
-
-
-- title: Remote Companies
-  tagline: Everything about remote, remote-friendly and distributed companies
-  url:
-  row: 1
-  col: 3
-  subnodes:
-    - type: article
-      title: "How a 100% Remote Organization is Leveraging Holacracy to Scale."
-      tagline: "Convert’s journey to self-management"
-      tags:
-        - "#companies-management"
-        - "#analytics"
-    - type: article
-      title: "Are you able to work remotely?"
-      tagline: "How ALICE select the candidates who can work remotely"
-      subnodes:
-      tags:
-        - "#companies-hiring"
-
-
-    - title: Introduce your company.
+    - title: "Company introduction"
       tagline: Is your company remote? Distributed? Something else?
+      url: 'introduction'
       subnodes:
 
-    - title: Hiring.
+    - title: "Hiring"
       tagline: Everything about hiring in remote companies
-      url:
-      subnodes:
-      - title: Hiring process.
-        tagline: "Hiring in remote companies: tips and tricks"
-        subnodes:
-      - title: The candidates.
-        tagline: What companies expect from candidates. Where/how to find candidates
-        subnodes:
+      url: 'hiring'
 
-      - title: "Interview."
-        tagline: From the company/interviewer point of view
-        subnodes:
-      - title: "Hackerrank/Leetcode and co."
-        tagline: What companies think about these platforms
-        subnodes:
-      - title: "The hiring process."
-        tagline: From the company/HR point of view
-        subnodes:
+    - title: "Hiring process"
+      tagline: "Hiring in remote companies: tips and tricks"
+      url: 'hiring-process'
+
+    - title: "The candidates"
+      tagline: What companies expect from candidates. Where/how to find candidates
+      url: 'candidates'
+
+    - title: "Interview"
+      tagline: From the company/interviewer point of view
+      url: 'interview'
+
+    - title: "Hackerrank/Leetcode and co."
+      tagline: What companies think about these platforms
+      url: 'hackerrank-leetcode'
       #- title: Onboarding
       #  tagline:
       #  subnodes:
 
+    - title: "Tools"
+      tagline: "Zoom and other instruments we use in daily work."
+      url: 'tools'
 
-    - title: Management.
-      tagline: Everything about management in remote companies
-      url:
-      subnodes:
-      - title: Tools
-        tagline: "Zoom and other instruments we use in daily work."
-        url:
-        subnodes:
-      - title: Productivity.
-        tagline: "How to measure/improve productivity of a remote team"
-        url:
-        subnodes:
-      - title: Retreats/Conferences.
-        tagline: "Also Teambuilding. How to bring members of remote team together"
-        url:
-        subnodes:
+    - title: "Management"
+      tagline: "Everything about management in remote companies"
+      url: 'management'
+
+    - title: "Management and Productivity"
+      tagline: "How to measure/improve productivity of a remote team"
+      url: 'productivity'
+
+    - title: "Retreats/Conferences"
+      tagline: "Also Teambuilding. How to bring members of remote team together"
+      url: 'retreats-conferences'
 
     #- title: Daily Routine
     #  tagline:
@@ -136,36 +122,61 @@
     #  subnodes:
 
 
+- title: "Trends, analytics"
+  tagline: "Statistics, analytics, discussions about the subjects common for remote workers and
+  remote companies"
+  img: "/assets/svg/c-trends.svg"
+  collection: "col_trends"
+  url: /community/remote-work-trends-analytics
+  row: 1
+  col: 3
+  subnodes:
 
-- title: Trends, analytics
-  tagline: Statistics, analytics, discussions about the subjects common for remote workers and remote companies
-  url:
+
+- title: "Travel/Digital Nomads"
+  tagline: "Everything about traveling and working remotely"
+  img: "/assets/svg/c-travel.svg"
+  url: /community/travel-digital-nomads
+  collection: "col_travel"
   row: 2
   col: 1
   subnodes:
 
-  #- title: Salary
-  #  tagline:
-  #  url:
-  #  subnodes:
-  #- title: Payment
-  #  tagline:
-  #  url:
-  #  subnodes:
+
+#- title: "Remote4me site news"
+#  tagline:
+#  img: "/assets/svg/c-site-news.svg"
+#  url: /community/site-news
+#  collection: "col_news"
+#  row: 2
+#  col: 3
 
 
-
-
-- title: Travel/Digital Nomads
-  tagline: Everything about traveling working remotely.
-  url:
+- title: "Feedback, contacts"
+  tagline: "Discussion about this site, how it works, and how we can improve it. Bug reports. Publishing your jobs."
+  img: "/assets/svg/c-feedback.svg"
+  url: /community/site-feedback
+  collection: ""
   row: 2
   col: 2
   subnodes:
+  - type: link
+    title: "I want to propose a new feature"
+    url: /community/propose-feature
+    tagline: "Something that should add a new and usefull functionality to remote4me.com"
 
-- title: Remote4me.com Feedback
-  tagline: Discussion about this site, its organization, how it works, and how we can improve it.
-  url:
-  row: 2
-  col: 3
-  subnodes:
+  - type: link
+    title: "Bug! I found a bug!"
+    url: /community/found-bug
+    tagline: "Bug reports goes here."
+
+  - type: link
+    title: "I'd like to publish my company remote jobs on remote4me"
+    url: /community/publish-jobs
+    tagline: "From your ATS to remote4me.com"
+
+  - type: link
+    title: "I'd like to learn about partnerships with remote4me"
+    url: /community/partnerships
+    tagline: "Let us talks"
+
