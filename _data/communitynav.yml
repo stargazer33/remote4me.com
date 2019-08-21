@@ -28,39 +28,39 @@
 
   - title: "Office ⇨ Remote"
     tagline: "Remote workers: describe your transition to remote"
-    url: 'office-to-remote'
-    subnodes:
+    urlbookmark: 'office-to-remote'
+    url: /community/remote-people#office-to-remote
 
   - title: "Jobsearch"
     tagline: "Remote workers: Describe your remote jobsearch"
-    url: 'jobsearch'
-    subnodes:
+    urlbookmark: 'jobsearch'
+    url: /community/remote-people#jobsearch
 
   - title: "Interview"
     tagline: "Describe your remote interview experience"
-    url: 'interview'
-    subnodes:
+    urlbookmark: 'interview'
+    url: /community/remote-people#interview
 
   - title: "Daily life"
     tagline: "As a remote worker"
-    url: 'daily-life'
-    subnodes:
+    urlbookmark: 'daily-life'
+    url: /community/remote-people#daily-life
 
-  - title: "You remote Office/Workplace"
-    tagline: "Describe your remote office"
+#  - title: "You remote Office/Workplace"
+#    tagline: "Describe your remote office"
 
-  - title: "Your day"
-    tagline: "Describe your typical (work)day"
+#  - title: "Your day"
+#    tagline: "Describe your typical (work)day"
 
   - title: "Taxes"
     tagline: "Paying taxes when working remotely"
-    url: 'taxes'
-    subnodes:
+    urlbookmark: 'taxes'
+    url: /community/remote-people#taxes
 
   - title: "Dark side"
     tagline: The dark and ugly side of remote work
-    url: 'dark-and-ugly-side'
-    subnodes:
+    urlbookmark: 'dark-and-ugly-side'
+    url: /community/remote-people#dark-and-ugly-side
 
 
 - title: Stories from Remote Companies
@@ -74,47 +74,47 @@
 
     - title: "Company introduction"
       tagline: Is your company remote? Distributed? Something else?
-      url: 'introduction'
+      urlbookmark: 'introduction'
       subnodes:
 
     - title: "Hiring"
       tagline: Everything about hiring in remote companies
-      url: 'hiring'
+      urlbookmark: 'hiring'
 
     - title: "Hiring process"
       tagline: "Hiring in remote companies: tips and tricks"
-      url: 'hiring-process'
+      urlbookmark: 'hiring-process'
 
     - title: "The candidates"
       tagline: What companies expect from candidates. Where/how to find candidates
-      url: 'candidates'
+      urlbookmark: 'candidates'
 
     - title: "Interview"
       tagline: From the company/interviewer point of view
-      url: 'interview'
+      urlbookmark: 'interview'
 
     - title: "Hackerrank/Leetcode and co."
       tagline: What companies think about these platforms
-      url: 'hackerrank-leetcode'
+      urlbookmark: 'hackerrank-leetcode'
       #- title: Onboarding
       #  tagline:
       #  subnodes:
 
     - title: "Tools"
       tagline: "Zoom and other instruments we use in daily work."
-      url: 'tools'
+      urlbookmark: 'tools'
 
     - title: "Management"
       tagline: "Everything about management in remote companies"
-      url: 'management'
+      urlbookmark: 'management'
 
     - title: "Management and Productivity"
       tagline: "How to measure/improve productivity of a remote team"
-      url: 'productivity'
+      urlbookmark: 'productivity'
 
     - title: "Retreats/Conferences"
       tagline: "Also Teambuilding. How to bring members of remote team together"
-      url: 'retreats-conferences'
+      urlbookmark: 'retreats-conferences'
 
     #- title: Daily Routine
     #  tagline:
