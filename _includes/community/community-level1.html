@@ -18,7 +18,7 @@ Arguments:
                      src="{{ node1.img }}" >
             </div>
             <div class="col-xs-11">
-                <h1 class="elegant">{{ node1.title }}</h1>
+                <h1 class="elegant">Community: {{ node1.title }}</h1>
                 {% if node1.tagline %}{{ node1.tagline }}{% endif %}
             </div>
         </div>
@@ -40,7 +40,7 @@ Arguments:
 
             <div id="leftcol" class="col-sm-8 col-md-8">
                 {% for p in node1_articles_sorted %}
-                    {% include community/article_page_in_list.html page=p n1=node1 %}
+                    {% include community/story_in_list.html page=p n1=node1 %}
                 {% endfor %}
             </div>
 
@@ -68,7 +68,7 @@ Arguments:
                         {% for p in node1_articles_sorted %}
                             {% for tag in p.tags %}
                                 {% if tag == nodeprint.title %}
-                                    {% include community/article_page_in_list.html page=p n1=nodeprint %}
+                                    {% include community/story_in_list.html page=p n1=nodeprint %}
                                 {% endif %}
                             {% endfor %}
                         {% endfor %}

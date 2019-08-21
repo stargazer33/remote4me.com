@@ -2,7 +2,7 @@
 layout: page
 title: Community
 undertagline: "Where remote workers and distributed companies share ideas. It is an online 
-community for sharing and discovering great ideas about remote work, having debates, and making friends.<br/> 
+community for sharing and discovering great ideas about remote work, having debates, and making friends. 
 <ul>
 <li>Remote workers can share their experience.</li> 
 <li>Remote (or distributed) companies can tell their stories.</li>
@@ -34,7 +34,7 @@ permalink: /community/
             {% endif %}            
             {% assign node1_articles_sorted=node1_articles | sort: 'order' | reverse %}               
             {% for p in node1_articles_sorted %}
-                {% include community/article_page_in_list.html page=p n1=node1 %}
+                {% include community/story_in_list.html page=p n1=node1 %}
             {% endfor %}                                    
         </div>
     {% endfor %}
