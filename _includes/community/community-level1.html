@@ -38,6 +38,8 @@ Arguments:
 
             {% assign node1_stories_sorted=site[node1.collection] | sort: 'order' | reverse %}
 
+
+
             <div id="leftcol" class="col-sm-8 col-md-8">
                 {% for s in node1_stories_sorted %}
                     {% include community/story_in_list.html page=s %}

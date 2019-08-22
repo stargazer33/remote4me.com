@@ -1,5 +1,5 @@
 ---
-layout: page-level1
+layout: community-level1
 permalink: /community/remote-companies
 ---
 
