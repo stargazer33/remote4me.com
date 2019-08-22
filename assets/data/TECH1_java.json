@@ -1,6 +1,450 @@
 {
  "items": [
   {
+    "id": "JR6YjKD2RIibFwsCMScfuw",
+    "url": "https://landing.jobs/at/free-now/backend-developer-kotlin-java-m-f-d?utm_campaign=landing+rss&utm_content=Backend+Developer+%28Kotlin%2FJava%29+%28m%2Ff%2Fd%29&utm_medium=referral&utm_source=rss",
+    "title": "Backend Developer (Kotlin/Java) (m/f/d)",
+    "tags": [
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``from 4W your 2W home",
+      "DBG_TECH1:k/t/w:java-developer/java/13",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:k/t/w:kotlin/mobile/10",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=19, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "FREE NOW DE",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 22, 2019 3:23:59 PM",
+    "validThrough": "Aug 29, 2019 3:23:59 PM",
+    "crawled": "Aug 22, 2019 4:07:38 PM",
+    "content": "<div><h3>Backend Developer (Kotlin/Java) (m/f/d)</h3></div><div>Company: FREE NOW DE</div><div>Location: Berlin, DE</div>Level: Senior<br>Language: English <div>Back-end Developer<br>Skills:</div><li>DevOps </li><li>Java </li><li>Microservces </li><li>Scrum </li><li>Software design </li><h3>Intro</h3><p></p><p>You want to be part of the next step in the evolution of FREE NOW into a global player in the ride hailing industry and the establishment of FREE NOW’s role in the future of autonomous vehicle platforms?</p><p>FREE NOW is building up a new team that is solving key problems relating to urban transportation. Therefore, we are keen on hiring a Backend Java Developer (m/f).</p><p>The team we are seeking to build will focus on the data behind core challenges in mobility markets including machine learning, demand prediction, surge pricing and other predictive analysis required for the upcoming challenges of autonomous driving.</p><p>The primary focus will be to build prediction systems that make use of a variety of data inputs to be integrated into various products across different systems.&nbsp;</p><p>&nbsp;</p><pre><strong>JobOffer jobOffer = new JobOffer();</strong></pre><p>&nbsp;</p><pre><strong>Job job = Job.builder()</strong></pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.setProducts(</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN_HOUSE_APPS,</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BUSINESS_INTELLIGENCE,</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PAYMENT,</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOBILE_APPS)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.setProductType(SCALABLE_HIGH_AVAILABILITY_SYSTEM)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.setDevelopmentStyle(AGILE_SCRUM)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.setTeamAttributes(</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOTIVATED,</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INNOVATIVE,</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FLAT_HIERARCHIES,</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INTERDISCIPLINARY)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.build();</pre><p>&nbsp;</p><pre>jobOffer.addJob(job);</pre><p></p><h4>Main requirements</h4><p></p><pre><strong>Candidate candidate = Candidate.builder()</strong></pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.hasDegreeInComputerSciencesOrSimilar(true)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.add(Skill.JAVA.experience(SEVERAL_YEARS))</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.add(Skill.SOFTWARE_DESIGN.experience(SEVERAL_YEARS))</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.add(Skill.REST)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.add(Skill.MICRO_SERVICES)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.add(Skill.SCRUM)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.add(Skill.DEV_OPS)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.setLanguages(Locale.ENGLISH, Locale.GERMAN)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.build();</pre><p>&nbsp;</p><pre>new Application(candidate).submit();<br><br>/<em>Experience in an international company or team away from your home country is a plus</em>/</pre><p>&nbsp;</p><p></p><h4>Perks</h4><p><strong>Benefits benefits = Benefits.builder()</strong></p><p>&nbsp;</p><pre>&nbsp;&nbsp;.setFurtherTraining(WORKSHOPS, CREATIVE_DAYS, LANGUAGE_COURSES)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.setMonetaryBenefits(</pre><p>&nbsp;</p><pre>&nbsp; &nbsp; &nbsp;PENSION_PLAN,</pre><p>&nbsp;</p><pre>&nbsp; &nbsp; &nbsp;FREE_TAXI_RIDES,<br><br>     PUBLIC_TRANSPORT_TICKET)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.setFoodAndDrinks(</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FRUIT_BASKET,<br><br>      FREE_BEER,</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOFT_DRINKS)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.setEvents(MONTHLY_AFTER_WORK, OFF_SITE, TEAM_EVENTS, BBQ)</pre><p>&nbsp;</p><pre>&nbsp;&nbsp;.build();</pre><p>&nbsp;</p><pre>jobOffer.addBenefits(benefits);</pre><p>&nbsp;</p><p><br>Oh, and the opportunity to work with the best team in the world (we know, everybody says so, but at FREE NOW it’s true)!&nbsp;</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "t4bUZwyRTPShp-BmymHC9A",
+    "url": "https://stackoverflow.com/jobs/290524/java-backend-engineer-remote-semanticbits?a=1zqPrQcYutYQ",
+    "title": "Java Backend Engineer - REMOTE at SemanticBits  ",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 16W timezon",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:hibernate/java/8",
+      "DBG_TECH1:k/t/w:java-ee/java/13",
+      "DBG_TECH1:k/t/w:java/java/14",
+      "DBG_TECH1:k/t/w:java/mobile/7",
+      "DBG_TECH1:k/t/w:jpa/java/8",
+      "DBG_TECH1:k/t/w:junit/java/8",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:spring-boot/java/8",
+      "DBG_TECH1:k/t/w:spring/java/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=7, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=2, java=83, gamedev=0, php=0, embedded=0, frontend=25}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/America/East"
+    ],
+    "tagsNames1": [
+      "US East time zone"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "SemanticBits",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 22, 2019 4:06:24 PM",
+    "validThrough": "Aug 29, 2019 4:06:24 PM",
+    "crawled": "Aug 22, 2019 4:06:24 PM",
+    "content": "<h3><span>Java Backend Engineer - REMOTE</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Digital Health</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51–200 people</span>                                    </div>                            </div>                    </div>                <div>Company: SemanticBits | No office location<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT-05:00) Eastern Time </span>                                </div>                                                                                                            </div>                    </div>                <h4>Technologies</h4><div></div><div>java</div><div>spring</div><div>reactjs</div>                <h4>Job description</h4>                <div><p><span>SemanticBits is looking to hire a talented software developer who can help us build modern digital health services implemented as highly scalable Java services deployed on the AWS cloud in Docker containers.&nbsp; The project will be implemented using an Agile, Scrum-based process that includes Sprint Planning/Review/Retrospectives and daily stand-ups. The team uses human-centered design to implement highly modern, usable interfaces.</span></p><p><span>This is a remote position and can be fulfilled from any location within the US and its territories. SemanticBits will provide a laptop.</span></p><p><span>SemanticBits is a leading company specializing in the design and development of digital health services, and the work we do is just as unique as the culture we’ve created. We develop cutting-edge solutions to complex problems for commercial, academic, and government organizations. The systems we develop are used in finding cures for deadly diseases, improving the quality of healthcare delivered to millions of people, and revolutionizing the healthcare industry on a nationwide scale. There is a meaningful connection between our work and the real people who benefit from it; and, as such, we create an environment in which new ideas and innovative strategies are encouraged. We are an established company with the mindset of a startup and we feel confident that we offer an employment experience unlike any other and that we set our employees up for professional success every day.</span></p><p><span>Requirements</span></p><ul><li><span>Core Java and JEE</span></li><li><span>Significant experience with Spring Framework required</span></li><li><span>Experience with Spring Boot required</span></li><li><span>Experience with object-relational mapping frameworks, such as Hibernate and JPA, required</span></li><li><span>Continuous build and test automation through Jenkins required</span></li><li><span>Deployment and testing via containerization with Docker highly preferred</span></li><li><span>Relational databases - should be very comfortable writing SQL, defining relational schemas, writing data migrations, and querying through ORM</span></li><li><span>Modern frontend web development through frameworks like Angular or React preferred</span></li><li><span>RESTful microservice development in Java required</span></li><li><span>Automated unit/integration/functional testing experience on both front- and back-end is a must: JUnit, Selenium/WebDriver, Protractor, Jasmine or similar</span></li><li><span>Experience deploying and testing applications on AWS preferred</span></li><li><span>Experience with git (workflows, merge strategies, etc) is strongly desired</span></li><li><span>Knowledge of modern design pattern and building enterprise-grade production applications</span></li><li><span>Excellent command of written and spoken English</span></li></ul><p><span>Benefits</span></p><ul><li><span>Generous base salary</span></li><li><span>Three weeks of PTO</span></li><li><span>Excellent health benefits program (Medical, dental and vision)</span></li><li><span>Education and conference reimbursement</span></li><li><span>401k retirement plan. We contribute 3% of base salary irrespective of employee's contribution</span></li><li><span>100% paid life insurance</span></li><li><span>FSA</span></li><li><span>Casual working environment</span></li><li><span>Choice of laptop type (Mac or PC)</span></li><li><span>Flexible work hours</span></li><li><span>Remote</span></li></ul><p><span>SemanticBits, LLC is an equal opportunity, affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other characteristic protected by law. We are also a veteran-friendly employer.</span></p><p><br><br><br></p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/290524?reset=False&amp;ra=1zqPrQcYutYQ&amp;oqs=a%3D1zqPrQcYutYQ' rel='nofollow'>Apply now</a></div>            <h4>About SemanticBits</h4>            <div><p>SemanticBits is a leading company specializing in the design and development of digital health services, and the work we do is just as unique as the culture we’ve created. We develop cutting-edge solutions to complex problems for commercial, academic, and government organizations. The systems we develop are used in finding cures for deadly diseases, improving the quality of healthcare delivered to millions of people, and revolutionizing the healthcare industry on a nationwide scale. There is a meaningful connection between our work and the real people who benefit from it; and, as such, we create an environment in which new ideas and innovative strategies are encouraged. We are an established company with the mindset of a startup and we feel confident that we offer an employment experience unlike any other and that we set our employees up for professional success every day.</p><p><strong>Salary &amp; Benefits</strong></p><ul><li>Generous base salary</li><li>Three weeks of PTO</li><li>Excellent health benefits program (Medical, dental and vision)</li><li>Education and conference reimbursement</li><li>401k retirement plan. We contribute 3% of base salary irrespective of employee's contribution</li><li>100% paid short-term and long-term disability</li><li>100% paid life insurance</li><li>FSA</li><li>Casual Working Environment</li><li>Flexible Office Hours</li></ul><p>SemanticBits, LLC is an equal opportunity, affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other characteristic protected by law. We are also a veteran-friendly employer.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Medical, dental, vision, life, disability</span>                            </li>                            <li>                                <span></span>                                <span>Matched 401K plan</span>                            </li>                            <li>                                <span></span>                                <span>Generous vacation allowances, floating holidays, and sick leave</span>                            </li>                            <li>                                <span></span>                                <span>Continued Education Reimbursement</span>                            </li>                            <li>                                <span></span>                                <span>Free coffee and snacks</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "9nn5VnI0S0WZIdREowytjQ",
+    "url": "https://berlinstartupjobs.com/operations/technical-trainer-java-m-w-d-remote-deutschlandweit-camunda-services-gmbh/",
+    "title": "Technical Trainer Java (m/w/d) (REMOTE – Deutschlandweit) // Camunda Services GmbH",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:java/java/8",
+      "DBG_TECH1:k/t/w:java/mobile/4",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:spring-boot/java/8",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=16, c=0, mobile=4, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=2, java=24, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "camunda",
+      "sameAs": "https://camunda.com"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 22, 2019 11:15:48 AM",
+    "validThrough": "Aug 29, 2019 11:15:48 AM",
+    "crawled": "Aug 22, 2019 12:07:41 PM",
+    "content": "<h3>Technical Trainer Java (m/w/d) (REMOTE – Deutschlandweit) // camunda</h3><div> Company:  camunda <br> <br></div><div> Tags:</div><li>Java</li><li>German</li><li>Travel</li><li>Trainer</li><div>  <p>BESCHREIBUNG</p>  <p>Camunda ist eines der am schnellsten wachsenden Unternehmen in Europa. Wir sind ein über 130 Mitarbeiter starkes, internationales Team mit Hauptsitz in Berlin und Büros in San Francisco und Denver. Wir bieten eine innovative Open Source-Plattform, mit der wir Unternehmen dabei helfen, ihre Geschäftsprozesse zu automatisieren. Als leichtgewichtiges Framework kann Camunda dabei sehr einfach in bestehende Tech-Stacks integriert werden: in jede Java-basierte Umgebung wie Spring Boot oder Jakarta EE, aber auch in andere Sprachumgebung wie Node JS, .NET oder Python.</p>  <p>Mit diesem Angebot sind wir sehr erfolgreich. Mittlerweile nutzen mehr als 250 Kunden unsere Lösung, darunter Unternehmen wie AT&amp;T, 24 Hour Fitness, Zalando, T-Mobile und Universal. Neben dieser innovativen Technologie ist unsere große Expertise und Praxiserfahrung im Bereich der Workflowautomatisierung und modernster Softwareentwicklungs-Technologien ein weiteres wesentliches Element, warum sich Unternehmen für Camunda entscheiden.</p>  <p>Als Technical Trainer machst du Softwareentwickler und IT-Architekten fit für die Entwicklung mit und den Betrieb von Camunda. Deine Arbeit ist entscheidend für das Gelingen von strategischen Projekten bei unseren Kunden. Dabei trägst du mit deiner Kompetenz und deinem Humor dazu dabei, dass aus Trainingsteilnehmern begeisterte Camunda-Nutzer werden.</p>  <p>DEINE TÄTIGKEITEN:</p>  <ul>   <li>Du führst Trainings bei Kunden vor Ort und in unserem Trainingscenter in Berlin zu den Themen Camunda BPM, DevOps, BPMN und DMN (siehe&nbsp;https://camunda.com/de/services/training/) durch. Diese zeichnen sich durch kleine Gruppen (max. 10 Teilnehmer pro Training) und einen interaktiven Workshopcharakter mit hohem Hands-On-Anteil aus.</li>   <li>Du entwickelst bestehende Trainings weiter und arbeitest an der Konzeption von neuen Inhalten mit.</li>   <li>Wenn keine Kundeneinsätze anstehen, arbeitest du an vielfältigen Aufgaben und Projekten innerhalb des Consulting-Teams: z.B. Beratung von Kunden im Rahmen von Remote Consulting, Betreuung von Nutzern im Forum, Entwickeln von Showcases und Code Snippets, Schreiben von Blog Posts, Whitepapers oder Best Practice Guides. Die Schwerpunkte setzt du je nach Interesse selbst.</li>  </ul>  <p>WEN WIR SUCHEN:</p>  <ul>   <li>Du hast einen Bachelor- oder Masterabschluss in einem technischen Fach</li>   <li>Du bist fit in der Programmierung mit Java, vertraut mit aktuellen Frameworks und Technologien im Java-Umfeld und hast bereits selbst Software in einem professionellen Kontext entwickelt</li>   <li>Du besitzt bereits Erfahrung als Trainer oder Consultant</li>   <li>Dich begeistert es, Menschen neue Skills beizubringen und du kannst auch komplexe Sachverhalte in leicht zu verstehende Erklärungen verpacken</li>   <li>Mit deiner Empathie kannst du dich in die technischen Probleme deiner Teilnehmer schnell hineindenken</li>   <li>Du hast eine Hands-on-Mentalität und deshalb keine Angst davor, schwierige Probleme anzupacken und zielstrebig Lösungen zu erarbeiten</li>   <li>Du besitzt eine hohe Eigenmotivation und Freude an der Teamarbeit</li>   <li>Du hast Lust, ca. 50% deiner Zeit bei Kunden zu verbringen und bist daher bereit zu reisen, sowohl in Deutschland als auch international</li>   <li>Du beherrschst Deutsch und Englisch sicher in Wort und Schrift</li>  </ul>  <p>DEIN ARBEITSORT:</p>  <p>Camunda begreift sich als verteilte Organisation – für uns ist es nicht entscheidend, von welchem Ort aus Du arbeitest. Wir möchten mit herausragenden Talenten zusammenarbeiten, die ihrer Tätigkeit mit Leidenschaft, Spaß und Begeisterung nachgehen. Daher kannst Du Deinen Arbeitsort frei wählen. Da Du regelmäßig reisen wirst, ist es jedoch wichtig, dass ein Bahnhof und ein Flughafen für Dich in erreichbarer Nähe sind.</p>  <p>WAS WIR DIR BIETEN:</p>  <ul>   <li>Die Möglichkeit, mit dem Unternehmen auch persönlich zu wachsen</li>   <li>Viele verschiedene Einsätze, um einen unglaublich aufregenden Markt mit rasanter Entwicklung hautnah bei den Kunden zu erleben – dabei lernst du unterschiedlichste Branchen und Projekte kennen</li>   <li>Ein internationales Team mit hoch motivierten und großartigen Kollegen</li>   <li>30 Tage Urlaub pro Jahr</li>   <li>Freie Wahl des technischen Equipments (Mac, Linux oder Windows)</li>   <li>Urban Sports Club Mitgliedschaft und gesponserte Sport-Events</li>   <li>Unser modernes Büro in Kreuzberg mit Kicker, Tischtennis sowie gratis Müsli, Obst, Snacks, Eis, Kalt- und Heißgetränke, Bier und mehr</li>  </ul>  <p>Camunda ist ein Arbeitgeber mit Chancengleichheit für alle – wir schätzen Vielfalt in unserem Unternehmen.</p> </div><span>Apply for this position</span>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "udcEECuORnmCcdD0szp-kg",
+    "url": "https://jobmote.com/job/64333/remote-software-developer/",
+    "title": "Remote Software Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:gradle/java/13",
+      "DBG_TECH1:k/t/w:hibernate/java/16",
+      "DBG_TECH1:k/t/w:intellij-idea/java/8",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jpa/java/16",
+      "DBG_TECH1:k/t/w:maven/java/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:spring-boot/java/8",
+      "DBG_TECH1:k/t/w:spring/java/40",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=120, gamedev=0, php=0, embedded=0, frontend=4}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 21, 2019 10:07:29 PM",
+    "validThrough": "Aug 24, 2019 10:07:29 PM",
+    "crawled": "Aug 22, 2019 3:06:24 AM",
+    "content": "<div>Minimum Required Skills:<br>Java, Spring, Hibernate, JPA, AWS, Rest, JSON, GIT, Jenkins<br><br>If you are a Remote Software Developer with experience, please read on!<br><br>Top Reasons to Work with Us<br><br>We are reimagining the intersection of technology and healthcare. We design and build systems that interpret clinical data in real-time and are continuing to build a healthcare social network. We provide services to physicians, caregivers and community-based organizations. Our systems render predictions and provide insights that were not imagined before. If you are passionate about full-stack development, writing code in a fast-paced startup environment, and making a tangible impact on population health, come be a part of our team.<br><br>We are looking for technically talented and driven individuals who have a passion to use their skills to create applications and services that directly impact the health and lives of our communities.<br><br>What You Will Be Doing<br><br>Primary Responsibilities:<br><br>Adhere to established development, maintenance and testing standards.<br>Analyze requirements and technical specifications and implement assigned development tasks.<br>Design, develop, and maintain cloud based applications and microservice APIs.<br>Participate in iteration planning meetings and daily product team standups.<br>Participate in retrospectives to gather feedback and drive actionable items to improve the team and product.<br>Participate in executing the strategy, keeping the customer needs and wants in mind.<br>Collaborate within the team in designing systems and applications.<br>Provides support for software products in user environments.<br>Participates in knowledge sharing and contributes to the overall growth of the team.<br>Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br><br>Required Skills<br><br>Be productive in a fast-paced, constantly changing environment and work well with a diverse team of technical SMEs.<br>Strong technical knowledge of Java, SQL, JSON, web technologies, software engineering, continuous integration, test automation, and agile development.<br>Knowledge of relational databases like MySql or similar and using ORM technologies.<br>Familiar with Idea IntelliJ or similar IDE.<br>Willingness to learn.<br>Strong communication, interpersonal and analytical skills.<br><br>What You Need for this Position<br><br>Preferred Experience:<br><br>5+ years of experience in design and development of SaaS applications and services, to include the following:<br>experience in building and deploying Java technologies.<br>Experience with Spring Framework, JPA, Hibernate, and Spring Boot.<br>Experience with cloud development and deployment best practices on AWS (ECS, EC2, ECR, microservices, Lambda, VPC, S3, EKS).<br>Experience with web service development using Spring, REST, JSON, and Spring security.<br>Experience with build tools - Maven, Gradle.<br>Experience with Git, Jenkins, JIRA, and Confluence.<br>Experience in Python, Javascript, HTML, CSS and UI/UX development.<br>Experience in the healthcare and/or HMIS.<br><br>College degree or equivalent experience in Computer Science or similar field.<br><br>What's In It for You<br><br>- Medical<br>- Vision<br>- Dental<br>- 401k<br>- Vacation/PTOSo, if you are a Remote Software Developer with experience, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "zK-6T5S4QziqFd_iE_OoBQ",
+    "url": "https://jobmote.com/job/64329/senior-java-developer-remote/",
+    "title": "Senior Java Developer - Remote",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:hibernate/java/8",
+      "DBG_TECH1:k/t/w:java-developer/java/26",
+      "DBG_TECH1:k/t/w:java-ee/java/26",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=74, gamedev=0, php=0, embedded=0, frontend=12}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Resourcesoft, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 21, 2019 10:07:29 PM",
+    "validThrough": "Aug 24, 2019 10:07:29 PM",
+    "crawled": "Aug 22, 2019 3:06:24 AM",
+    "content": "<div><p> <strong>Requirements:</strong></p> <ul><li>At least 8 years of experience as a Java Developer.</li> <li>Experience in Java/J2EE technologies.</li> <li>Experience in HTML, CSS, JavaScript and JQuery.</li> <li>Experience in Rest APIs.</li> <li>Experience in Oracle, with expertise in SQL.</li> <li>Expertise in Spring, Hibernate, EJBs, etc.</li> <li>Excellent communication skills both written and verbal.</li></ul><p> </p> <p> <strong>Responsibilities:</strong></p> <ul><li>Designing, implementing, and maintaining Java applications that are often high-volume and low-latency, required for mission-critical systems.</li> <li>Delivering high availability and performance.</li> <li>Contributing in all phases of the development lifecycle.</li> <li>Writing well-designed, efficient, and testable code.</li> <li>Conducting software analysis, programming, testing, and debugging.</li> <li>Managing Java and Java EE application development.</li></ul><p> </p> <p> </p> <p>Founded in 1999, Resourcesoft, Inc. is a leading Technology Consulting and Professional Services organization. Headquartered in Marlborough, MA, the company serves the technology needs of its clients nationwide. Resourcesoft has often been recognized by prominent rating agencies for its exemplary growth and stability. With over two decades of industry experience, the Company has evolved as a front runner in enabling project optimization. We partner with leading organizations to provide technology solutions within the financial, insurance, education, government, publishing, healthcare and pharmaceutical domains. We take pride in mentoring a workforce that is well positioned to respond to the emerging IT trends and needs. With the employees at the crux of every business endeavor, our success is driven by our expertise in pairing the right talent with the best jobs in the technology sector. We forge long term, personalized relationships with our employees to advance their career to the next level. We engage them in technology centric client projects that provide opportunities for them to evolve, innovate and deliver world class products and services. Our career opportunities offer challenging assignments and exposure to emerging and cutting edge technologies. We are committed to providing our employees with the tools necessary to accelerate their career progression, while maintaining a healthy, work-life balance. We are deeply committed to providing a workplace ambience that is both challenging and fulfilling.</p> <p> </p> <p> </p> <p>Resourcesoft is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.</p> <p> </p> <p> </p> <p>For more information about Resourcesoft and our services, please visit us at .</p> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "9M0wlZ8PSHSoiytx7R96Dw",
+    "url": "https://jobmote.com/job/64324/remote-remote-javafx-software-engineer/",
+    "title": "Remote Remote JavaFX Software Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java-developer/java/13",
+      "DBG_TECH1:k/t/w:javafx/java/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=29, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "O'REILLY AUTOMOTIVE",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 21, 2019 10:07:29 PM",
+    "validThrough": "Aug 24, 2019 10:07:29 PM",
+    "crawled": "Aug 22, 2019 3:06:24 AM",
+    "content": "<div>A <strong>Software Engineer</strong> is a highly skilled software developer with expert knowledge in at least one department or system. They work with a high degree of independence and develop information systems to support the business. Engineers are primarily focused on the design or integration of various software systems, databases, and third-party packages. <br><br><strong>Essential Job Functions</strong> <ul><li>Generally takes leadership role in guiding projects through the complete software development life cycle</li> <li>Typical focus is on code design efforts</li> <li>Solid understanding of secure coding techniques and best practices</li><li>Responsible (takes ownership) for multiple software applications</li><li>Manage tasks and resources while utilizing modern project management principles</li><li>Participate or lead the development of multiple projects at one time</li><li>Conducts code reviews and ensures coding best practices are being followed</li><li>Recommend software improvements and changes to systems, as needed</li> <li>May approve software to be deployed to production systems</li> <li>Perform software and data analysis to uncover issues and solve complicated problems that typically span multiple systems</li> <li>Lead various meetings to gather software requirements and project details</li><li>Conduct software demo's to educate and train others in the use of software</li><li>Debug and correct complex software defects</li> <li>Develop new or modify existing software using coding best practices</li> <li>Create or update advanced project documentation</li><li>Test software to validate accuracy of code and high quality software systems</li> </ul><strong>Skills and Qualifications</strong> <ul><li>4+ years of Java development experience</li> <li>Advanced understanding of JavaFX</li><li>Advanced knowledge of Project Development Life Cycle (PDLC) and Software Development Life Cycle (SDLC)</li><li>Advanced understanding of the software and system(s) supported by their team, as well as the overall company business</li> <li>Ability to lead and get results from others</li><li>Ability to articulate advanced technical concepts and teach others</li><li>Ability to effectively multitask</li> <li>Expert software debugging and testing knowledge</li><li>Advanced understanding of complex computer systems (multiple programs, databases, communications etc)</li> <li>Advanced knowledge of programming, database systems, and systems analysis and design</li><li>Ability to write advanced technical documentation</li><li>Advanced problem-solving skills</li><li>Good verbal and written communications skills</li><li>Must work well in a team environment,</li> <li>Ability to learn independently</li><li>Willingness to work flexible schedule including nights/weekends</li> <li>High School diploma or equivalent</li> </ul></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "kPXGOjHlQ1mV9OsvXT_kgQ",
+    "url": "https://jobmote.com/job/64322/remote-remote-senior-software-engineer/",
+    "title": "Remote Remote Senior Software Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=10, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "O'REILLY AUTOMOTIVE",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 21, 2019 10:07:29 PM",
+    "validThrough": "Aug 24, 2019 10:07:29 PM",
+    "crawled": "Aug 22, 2019 3:06:24 AM",
+    "content": "<div>A <strong>Senior Software Engineer</strong> is a highly skilled software developer with expert knowledge in at least one department or system. They work with a high degree of independence and develop information systems to support the business. Engineers are primarily focused on the design or integration of various software systems, databases, and third-party packages. <br><br><strong>Essential Job Functions</strong> <ul><li>Generally takes leadership role in guiding projects through the complete software development life cycle</li> <li>Typical focus is on code design efforts</li> <li>Solid understanding of secure coding techniques and best practices</li><li>Responsible (takes ownership) for multiple software applications</li><li>Manage tasks and resources while utilizing modern project management principles</li><li>Participate or lead the development of multiple projects at one time</li><li>Conducts code reviews and ensures coding best practices are being followed</li><li>Recommend software improvements and changes to systems, as needed</li> <li>May approve software to be deployed to production systems</li> <li>Perform software and data analysis to uncover issues and solve complicated problems that typically span multiple systems</li> <li>Lead various meetings to gather software requirements and project details</li><li>Conduct software demo's to educate and train others in the use of software</li><li>Debug and correct complex software defects</li> <li>Develop new or modify existing software using coding best practices</li> <li>Create or update advanced project documentation</li><li>Test software to validate accuracy of code and high quality software systems</li> </ul><strong>Skills and Qualifications</strong> <ul><li>7+ years of software development experience</li> <li>Advanced understanding of change management and the O'Reilly change control process and procedures</li><li>Advanced knowledge of Project Development Life Cycle (PDLC) and Software Development Life Cycle (SDLC)</li><li>Advanced understanding of the software and system(s) supported by their team, as well as the overall company business</li> <li>Ability to lead and get results from others</li><li>Ability to articulate advanced technical concepts and teach others</li><li>Ability to effectively multitask</li> <li>Expert software debugging and testing knowledge</li><li>Advanced understanding of complex computer systems (multiple programs, databases, communications etc)</li> <li>Advanced knowledge of programming, database systems, and systems analysis and design</li><li>Ability to write advanced technical documentation</li><li>Advanced problem-solving skills</li><li>Good verbal and written communications skills</li><li>Must work well in a team environment,</li> <li>Ability to learn independently</li><li>Experience with Java and Spring framework</li><li>Willingness to work flexible schedule including nights/weekends</li><li>High School diploma or equivalent</li> </ul></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "8Lc5SBG7SveDoFKKBxVuiA",
+    "url": "https://jobmote.com/job/64309/sr-software-engineer-100-remote/",
+    "title": "Sr. Software Engineer- 100% remote",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/16",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:maven/java/13",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=7, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=30, gamedev=0, php=0, embedded=0, frontend=27}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Vaco Technology",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 21, 2019 10:07:28 PM",
+    "validThrough": "Aug 24, 2019 10:07:28 PM",
+    "crawled": "Aug 22, 2019 3:06:24 AM",
+    "content": "<div><br><br>*100% Remote Opportunity* *Direct Hire* <br><br>Vaco is working with a leading cogniative computing organization to find elite level talent to fill their Sr Full Stack Java Engineering position. The position is remote and well set up with tools to make communication effective with the team. <br><br>Their award-winning cognitive computing platform, can rapidly read data from any source, determine what's useful, and reason using a dynamic knowledge graph, which helps enterprises, financial services institutions, government agencies and healthcare organizations reveal concealed relationships, risks and opportunities.<br><br><p>Time Allocation: <br>* 70% Backend (RDBMS / API / Server) development<br>* 15% Frontend (Javascript / Angular) development<br>* 15% Code Reviews and QA<br><br>Minimum Education and Experience:<br>* B.S. in computer science or a related field, or equivalent experience<br>* 6-8 years software development experience<br>* Strong computer science fundamentals: data structures, algorithms, design patterns<br>* Proficiency with a JVM language (Kotlin, Java, etc.)<br>* Proficiency with Linux<br>* Experience leveraging RDBMS<br>* Experience with RESTful API design and best practice including OWASP<br>* Familiarity with Elasticsearch<br>* Familiarity with Javascript<br>Preferred Education and Experience: <br>* Experience with Elasticsearch<br>* Experience writing Javascript applications<br>* Experience with Angular or React<br>* Experience with Docker and Kubernetes<br>* Experience using a distributed version control tool and Maven<br>* Community or open source involvement <br>* Some cool projects that you'd love to show off</p> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "tgJoUX1AQpaccSsoO-bOTA",
     "url": "http://www.indeed.co.uk/viewjob?t=Senior+Java+Developer&jk=0f3609602da6cf05&",
     "title": "Senior Java Developer - Opus Recruitment Solutions - Cardiff",
@@ -6565,53 +7009,6 @@
     "validThrough": "Aug 6, 2019 4:06:24 PM",
     "crawled": "Jul 30, 2019 4:06:24 PM",
     "content": "<h3><span>Senior Back-End Java Developer - GitPrime</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                    </div>                <div>Company: Pluralsight | No office location<br></div><h4>Technologies</h4><div>java</div><div>java-ee</div><div>spring</div>                <h4>Job description</h4>                <div><p><strong>Working at Pluralsight</strong></p><p>Founded in 2004 and trusted by Fortune 500 companies, Pluralsight is the technology skills platform organizations and individuals in 150+ countries count on to create progress for the world.</p><p>Our platform helps technologists master their craft and take control of their careers. We empower businesses everywhere to build adaptable teams, speed up release cycles and become scalable, reliable and secure. We come to work everyday knowing we’re helping our customers build the skills that power innovation.</p><p>And we don’t let fear, egos, or drama distract us from our mission. Our mission to democratize technology skills is what drives us and our values are at the helm of how we work together. It’s our commitment to practicing them day in, day out that enables our performance. We’re adults, and we treat each other that way. We have the autonomy to do our jobs, transparency to eliminate office politics and trust each other to do the right thing. We thrive in an environment with creativity around every corner, challenges that keep us on our toes, and peers who inspire us to be the best we can be. We bring different viewpoints, backgrounds and experiences, and united by our mission, we are one. &nbsp;</p><p><strong>Job Description</strong></p><p>We are seeking a highly experienced Java Developer who will join our talented software team, working on mission-critical applications. This position is ideal for the senior candidate seeking a non-managerial development track position.</p><p><strong>Who you’re committed to being:</strong></p><ul><li>A writer of clean code with properly running programs</li><li>A hands-in-the-code daily developer who defaults to productivity</li><li>A passionate, self-motivated builder who recognizes the need to work well with other team members.</li></ul><p><strong>What you’ll own:</strong></p><ul><li>Developing scalable Java applications</li><li>Providing expertise in the full software development lifecycle, from concept and design to testing.</li><li>Design and develop high-volume, low-latency applications for mission-critical systems and delivering high-availability and performance</li><li>Create elegantly designed, testable, efficient code</li><li>Participate in all phases of the development lifecycle</li><li>Running point in any and all preparations for production releases of software components</li><li>Ensure designs meet specifications</li><li>Investigate alternatives and technologies and present them for architectural review, in order to support continuous improvement</li></ul><p><strong>Experience you’ll need:</strong></p><ul><li>You should have no less than five years of commercial experience in building high-performing, scalable, enterprise-grade applications</li><li>You must be able to write clean code and ensure your programs run properly</li><li>We also expect you to be passionate about building software and perform well working in a team of engineers and web designers</li><li>Excellent knowledge of Java internals, such as Classloading, Memory Management, Transaction management and so on</li><li>Experience with Kafka and the Samza framework</li><li>Extensive experience with deployments Kubernetes</li><li>Experience with Docker</li><li>Good knowledge of Relational Databases, SQL and ORM technologies, including JPA2 and Hibernate</li><li>Verifiable and articulate knowledge of Spring web framework</li><li>BS degree in Computer Science required. And while a Master’s degree is not required, appropriate and high-level work history that can map over to Master’s level work is</li></ul><p><strong>Additional Information</strong></p><p>Bring yourself. Pluralsight is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age or veteran status.</p><p><a href='https://www.youtube.com/watch?v=-HTcEYIzA6c&amp;t=1s' rel='nofollow'>https://www.youtube.com/watch?v=-HTcEYIzA6c&amp;t=1s</a></p><p>All your information will be kept confidential according to EEO guidelines.</p>                </div>            <div>        <a href='https://jobs.smartrecruiters.com/Pluralsight/743999692465720-senior-back-end-java-developer-gitprime' rel='nofollow'>                        Apply now        </a></div>            <h4>About Pluralsight</h4>            <div><p>Now a part of Pluralsight, GitPrime is a rapidly growing Software-as-a-Service platform that generates data-driven performance metrics for software engineering. &nbsp;Prior to joining Pluralsight, GitPrime was recognized as the Number 2 best company to work in Colorado 2019.</p><p>We report on the work patterns and the people-side of software development so engineering leaders can advocate for resources and demonstrate that they’re driving business value based on objective data. We have strong product-market fit with hundreds of happy customers and we are growing rapidly.</p>            </div>        ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "LRUKhuVcQReelAH50SQJag",
-    "url": "http://workinstartups.com/job-board/job/82819/highly-skilled-saas-sales-co-founder-at-saasco/",
-    "title": "Highly skilled SaaS sales co-founder",
-    "tags": [
-      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
-      "DBG_TECH1:k/t/w:generics/java/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "SAASco",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 29, 2019 11:08:47 PM",
-    "validThrough": "Aug 5, 2019 11:08:47 PM",
-    "crawled": "Jul 30, 2019 11:06:42 AM",
-    "content": "Most experienced SaaS sales professionals have participated in a sales training programme at one point in their careers. Famous sales methodologies like MEDDIC, Value Selling and others, have been adopted by thousands of software organisations throughout the world to help sales teams ultimately deliver better results, sometimes to good effect.<br /><br />What often happens though, is that salespeople have forgettable experiences with these programmes and whilst they may show initial enthusiasm, it is common to see a new methodology rigorously followed for a few months, before disappearing out of sight and mind forever.<br /><br />Todays selection of programmes offer valuable learning, but the delivery of programmes can be a poor experience. Trainings are often much too generic, and almost never align with the unique challenges SaaS businesses face, such as preparing for rapid scale, or future acquisition.<br /><br />SAASco seeks a successful SaaS salesperson to help build a better way for companies to implement successful sales methodologies, process and training, by compiling unique programmes which align with business goals and revolutionise the sales function.<br /><br />The perfect co-founder will have experienced great success working with hyper-growth SaaS businesses in a sales capacity - experience of closing six figure deals is essential but seven figure deals will be preferable.<br /><br />Remote working is welcomed but US or UK based persons would be preferred for proximity to SaaS hubs.",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
