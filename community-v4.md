@@ -28,13 +28,13 @@ permalink: /community/
                 {% include community/link_in_list.html link=l %}
             {% endfor %}                                 
 
-            {% assign node1_articles=site[node1.collection] %}               
-            {% if node1_articles == nil %}
+            {% assign node1_stories=site[node1.collection] %}               
+            {% if node1_stories == nil %}
                 {% continue %}
             {% endif %}            
-            {% assign node1_articles_sorted=node1_articles | sort: 'order' | reverse %}               
-            {% for p in node1_articles_sorted %}
-                {% include community/story_in_list.html page=p n1=node1 %}
+            {% assign node1_stories_sorted=node1_stories | sort: 'order' | reverse %}               
+            {% for s in node1_stories_sorted limit:site.num_stories_small_list %}
+                {% include community/story_in_list.html page=s %}
             {% endfor %}                                    
         </div>
     {% endfor %}

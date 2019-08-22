@@ -36,11 +36,11 @@ Arguments:
     <div class="container">
         <div class="row">
 
-            {% assign node1_articles_sorted=site[node1.collection] | sort: 'order' | reverse %}
+            {% assign node1_stories_sorted=site[node1.collection] | sort: 'order' | reverse %}
 
             <div id="leftcol" class="col-sm-8 col-md-8">
-                {% for p in node1_articles_sorted %}
-                    {% include community/story_in_list.html page=p n1=node1 %}
+                {% for s in node1_stories_sorted %}
+                    {% include community/story_in_list.html page=s %}
                 {% endfor %}
             </div>
 
@@ -48,8 +48,8 @@ Arguments:
                 {% for node2 in node1.subnodes %}
                     {% assign nodeprint=nil %}
 
-                    {% for p in node1_articles_sorted %}
-                        {% for tag in p.tags %}
+                    {% for s in node1_stories_sorted %}
+                        {% for tag in s.tags %}
                             {% if tag == node2.title %}
                                 {% assign nodeprint=node2 %}
                                 {% break %}
@@ -65,10 +65,10 @@ Arguments:
                         {% include community/node2_in_list.html node=nodeprint %}
 
                         {% comment %}<!-- print the articles/pages in nodeprint -->{% endcomment %}
-                        {% for p in node1_articles_sorted %}
-                            {% for tag in p.tags %}
+                        {% for s in node1_stories_sorted %}
+                            {% for tag in s.tags %}
                                 {% if tag == nodeprint.title %}
-                                    {% include community/story_in_list.html page=p n1=nodeprint %}
+                                    {% include community/story_in_list.html page=s %}
                                 {% endif %}
                             {% endfor %}
                         {% endfor %}

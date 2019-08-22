@@ -33,6 +33,9 @@ collections:
     output: true
     permalink: /community/:year/:month/:day/:title
 
+# used in community.md to limit number of stories per category
+num_stories_small_list: 3
+
 site_og_wide_image : "https://remote4me.com/og-image.png?v=wide003"
 site_og_quadrat_small_image : "https://remote4me.com/og-image-quadrat-400-400.png?v=q002"
 
