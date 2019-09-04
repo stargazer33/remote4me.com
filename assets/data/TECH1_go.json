@@ -1,6 +1,55 @@
 {
  "items": [
   {
+    "id": "wk-s8mKxS5WTpCX5e8XXLw",
+    "url": "https://remoteok.io/jobs/74874",
+    "title": "Go Developer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:go-developer/go/26",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=32, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "X Team",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 4:15:09 PM",
+    "validThrough": "Sep 11, 2019 4:15:09 PM",
+    "crawled": "Sep 4, 2019 5:06:32 PM",
+    "content": "<span></span> <span><h4>X Team</h4></span> <br> <h3>Go Developer</h3> <div>  <div>   Remote, United States - About X-Team&quot;X-Team provides high-performing, on-demand teams of developers for leading brands.&quot;X-Team is a 100% remote international company, originally founded in Melbourne, Australia. We help companies scale their development teams by providing them w...  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "wbHv-pXnTcuN3P8ah7aGHA",
     "url": "https://jobspresso.co/job/lead-product-designer-3-3-3-2-2-2/",
     "title": "Back End Engineer",
@@ -4607,61 +4656,6 @@
     "validThrough": "Jul 12, 2019 10:07:13 PM",
     "crawled": "Jul 6, 2019 3:06:27 AM",
     "content": "<div>\n Golang Developer required for an immediate start on a long-term contract\n <br>\n <br>The role is working on a real-time data analytics platform, used in multiple industries from e-commerce to finance.\n <br>\n <br>We are looking for experienced developers with strong, commercial golang development experience.\n <br>\n <br>The role is fully remote and flexible.\n <br>\n <br>Rate is £300/day, duration 12 months\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "qfFH-SbURiGIYTeKQUARZQ",
-    "url": "https://berlinstartupjobs.com/engineering/software-engineer-golang-zattoo/",
-    "title": "Software Engineer (Golang) // Zattoo",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:c++/c/8",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:k/t/w:express/nodejs/8",
-      "DBG_TECH1:k/t/w:golang/go/32",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:rust/other/5",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=13, mobile=0, go=32, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 5, 2019 3:46:36 PM",
-    "validThrough": "Jul 12, 2019 3:46:36 PM",
-    "crawled": "Jul 5, 2019 4:08:23 PM",
-    "content": "<h3>Software Engineer (Golang) // Zattoo</h3>\n<div>\n  Company: Zattoo \n <br> \n <br>\n</div>\n<div>\n  Tags:\n</div>\n<div> \n <p><strong>The Role</strong></p> \n <p>At Zattoo we are building the TV platform of the future. To make that possible, we are looking for an experienced backend developer (f/m/x) with a specialization in Golang to join our backend team.</p> \n <p>As the demand for unicast TV delivery is constantly growing, we are scaling out our custom-built delivery infrastructure to serve linear and non-linear video data on a multi Tbps scale. Because we control the whole chain from ingest through encoding/transcoding, to packaging and delivery, there are many exciting areas to work on and to push TV to a new level.</p> \n <p>You will play a key role in developing and extending our own Content Delivery Network (CDN) and be responsible to optimize video traffic flow, access authorization and logging/reporting. You will be working together closely with the core video, middleware, data and SRE/Ops teams and build and maintain services that link all of them together.</p> \n <p>What you’ll do</p> \n <ul> \n  <li>Design, engineer &amp; implement highly-available, fault-tolerant, distributed systems enhancing our core video streaming platform</li> \n  <li>Analyse and understand Zattoo’s core services and explore ways on how to efficiently scale them</li> \n  <li>Write and maintain systems that collect and preprocess large scale log data</li> \n  <li>Implement and develop improvements to platforms, infrastructure, tools and processes</li> \n  <li>Develop clean and maintainable code</li> \n  <li>Collaborate with stakeholders and engineers across the company</li> \n  <li>Become a valued member of Zattoo’s Engineering team and improve our core services</li> \n </ul> \n <p>What you’ll bring</p> \n <ul> \n  <li>2+ years proven experience with Golang in a production environment</li> \n  <li>Experience with any of the following programming languages are also a plus: C/C++, Rust, Python</li> \n  <li>Strong knowledge of Unix/Linux platforms</li> \n  <li>Expertise in concurrent and distributed systems/web services</li> \n  <li>Good understanding of data stores, we use cassandra, redis, elasticsearch, mysql</li> \n  <li>Comfortable working with remote colleagues, multidisciplinary teams and external partners</li> \n  <li>Fluent verbal and written English language skills</li> \n  <li>Bonus: A BS/MS degree in computer science or similar discipline</li> \n  <li>Bonus: Previously worked in a DevOps environment and worked with container management such as Kubernetes, Docker or LXC</li> \n  <li>Bonus: Knowledge about http based streaming protocols like HLS or MPEG DASH</li> \n  <li>Bonus: Knowledge about routing protocols (BGP)</li> \n </ul> \n <p>Here’s what we offer you</p> \n <ul> \n  <li>Highly motivated, growing, diverse team made up of 33 different nationalities</li> \n  <li>Flexible work schedules and options to work from home</li> \n  <li>Flat hierarchies and open door policy</li> \n  <li>Competitive compensation and vacation entitlement</li> \n  <li>Social events ranging from company lunches and after work drinks to annual off site company events</li> \n  <li>Free yoga classes, German language classes and health checks</li> \n  <li>☕⚽️</li> \n </ul> \n <p><strong>The Product Team</strong></p> \n <p>At the heart of Zattoo’s organisation there is a group of people who are extremely passionate about TV Products and Technology. This diverse group of engineers, product managers, designers, SRE, network, QA and support specialists cover a large area of expertise and are building our vision of the streaming age TV platform. We value high quality, user oriented and sustainable work and strive to be at the forefront of technology and collaboration.</p> \n <p>We encourage everybody to express their ideas and give autonomy and focus to independent teams. Our dream is to let people watch their favorite TV content in the simplest and most comfortable way. We see our strength in disrupting traditional broadcasting technology while collaborating closely with the great companies that produce this content.</p> \n <p><strong>We are Zattoo</strong></p> \n <p>Zattoo enables our users to view indiscriminately and we reflect that in our team too. Regardless of race, gender, sexual orientation, religion, national origin, age, disability or any other characteristic protected by law we encourage everyone to apply and will give everyone equal consideration. We are an equal opportunities employer, join us and help build a diverse team dedicated to revolutionising the way you watch TV.</p> \n <p>You can learn more about us at: https://zattoo.com</p> \n <p>Join us and become part of our Stream Team!</p> \n</div>\n<a href='https://zattoo.join.com/jobs/238057-software-engineer-golang?pid=98c1261599ca17c51388&amp;utm_source=berlinstartupjobs&amp;utm_medium=paid&amp;utm_campaign=einzelinseratstandard&amp;utm_content=softwareengineergolang' rel='nofollow'>Apply for this position</a>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

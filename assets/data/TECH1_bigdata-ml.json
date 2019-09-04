@@ -1,6 +1,376 @@
 {
  "items": [
   {
+    "id": "UmfqiBGmQG-6NUORywINeA",
+    "url": "https://stackoverflow.com/jobs/293627/senior-type-system-engineer-luna?a=1AtlHRHh98be",
+    "title": "Senior Type-System Engineer at Luna (Kraków, Poland) ",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:haskell/other/5",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:scala/java/9",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=2, go=3, nodejs=0, bigdata-ml=24, ruby=0, apple=0, java=13, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Luna",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 40000,
+      "maxValue": 120000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 40k - 120k /Year | Equity"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 3:06:25 PM",
+    "validThrough": "Sep 11, 2019 3:06:25 PM",
+    "crawled": "Sep 4, 2019 3:06:25 PM",
+    "content": "<h3><span>Senior Type-System Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud Computing, Data Science, Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Luna | Kraków, Poland<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Kraków, Poland.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                            <div>                                    <span>Visa Sponsorship:</span>                                    <span>Yes</span>                                </div>                                                            <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h4>Technologies</h4><div></div><div>java</div><div>scala</div><div>truffle</div><div>graalvm</div><div>types</div>                <h4>Job description</h4>                <div><p><strong>Senior Type-System Engineer</strong><br><a href='https://luna-lang.org' rel='nofollow'>Luna</a> is looking for a senior type-system engineer to help build the next generation interpreter and runtime for Luna, a project said by Singularity University to have the potential to change the lives of one-billion people. If you have strong technical skills and a passion for all things compiler, then this role could be the one for you.<br><br>As a type-system engineer you'll work as part of the compiler team to design and implement Luna's new type system, including its underlying theory, type-checker, and inference engine. This wok is _intrinsic_ to Luna's evolution, and will provide you with the opportunity to collaborate with a world-class team of engineers, community managers, and business developers (with experience at Bloomberg, GitHub, PayPal, to name a few), making your mark on Luna's future.<br><br><strong>What You'll Do<br></strong>As a senior type-system engineer, you'll be working on the design and development of Luna's new type-system, in conjunction with the rest of the compiler team, to help support the language's evolution. This will involve:</p><ul><li>Determining and formalising the theoretical underpinnings of the new type system in a way as to ensure its soundness.</li><li>Both theoretical and practical treatments of the theory behind Luna's type system.</li><li>Working with the broader compiler team to implement the type-checking and type-inference engines as part of the greater interpreter.</li><li>Using the type-system's information to improve the interpreter's functionality and performance, as well as how it interacts with the users.</li></ul><p><strong>The Skills We're Looking For</strong><br>We have a few particular skills that we're looking for in this role:</p><ul><li>Practical and rich experience writing code in a functional programming language such as Haskell or Scala, including experience with type-level programming techniques (3+ years).</li><li>Experience working with the theory behind powerful type systems, including row types, type-checking and type-inference algorithms, and dependently-typed systems.</li><li>Practical experience building real-world type-systems, including facilities for both type-checking and inference.</li><li>An awareness of the UX impacts of type-systems, and a willingness to minimise their often-intrusive nature.</li><li>Practical experience in building large and complex software systems.</li></ul><p>It would be a big bonus if you had:</p><ul><li>Experience writing Java and Scala code, as these will be used to implement the type-system.</li><li>Experience in writing comprehensive regression tests for both type-inference and type-checking systems.</li></ul><p>Avoid <a href='https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/' rel='nofollow'>the confidence gap</a>. You don't have to match <em>all</em> of the skills above to apply!<br><br><strong>Who You'll Work With</strong><br>You'll be joining a distributed, multi-disciplinary team that includes people with skills spanning from compiler development to data-science. Though you'll have your area to work on, our internal culture is one of collaboration and communication, and input is always welcomed.<br><br>We firmly believe that only by working <em>together</em>, rather than putting our team members in their own boxes, can we create the best version of Luna that can be.<br><br><strong>The Details</strong><br>As part of the Luna team you'd be able to work from anywhere, whether that be at home, or on the go! We have team members distributed across the world, from San Francisco, to London, to Kraków. We welcome remote work and flexible schedules, or you can work from the Kraków office (or our planned SF office) if you'd like. We can provide competitive compensation and holiday, as well as the possibility<br>of equity as time goes on.<br><br><strong>How To Apply?</strong><br>Send us an email at <a href='mailto:jobs@luna-lang.org' rel='nofollow'>jobs@luna-lang.org</a>, and tell us a little bit about yourself and why you think you'd be a good fit for the role! You can also tell us about:</p><ul><li>Some of your past work or projects.</li><li>Why you'd like to work on Luna, and where you imagine Luna being in 5 years.</li><li>The most important features of a team that you'd like to work in.</li><li>Whether you take pride in your ability to communicate clearly and efficiently with your team.</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/293627?reset=False&amp;ra=1AtlHRHh98be&amp;oqs=a%3D1AtlHRHh98be' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Luna</h4>            <div><p><strong>About Luna</strong><br>Luna is an award-winning general-purpose programming language and data-science platform, selected by NASA and Singularity University as a technology with the potential to impact the lives of one-billion people worldwide. It spans the entire stack, from high-level visualisation and communication, to the<br>nitty-gritty of running backend services in a single language. With inbuilt capabilities for visualisation and a dual-syntax architecture, the possibilities are limitless.<br><br>At Luna, we have a world-class team, with developers, community managers, and business developers from all walks of life and backgrounds, and work in close collaboration with industry advisers such as Robert Gentleman, the creator of the R programming language and computational biologist at 23andMe, and Edward Kmett, a skilled language designer and machine intelligence researcher at MIRI.<br><br>We welcome anybody to our team, as long as you have the desire and drive to see Luna succeed.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Team built around the Humility, Respect, and Trust ideology.</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours, possible part / full time remote work.</span>                            </li>                            <li>                                <span></span>                                <span>Work in a small team of world-class engineers and make impact on Luna.</span>                            </li>                            <li>                                <span></span>                                <span>Competitive compensation + possibility of equity as time goes on.</span>                            </li>                            <li>                                <span></span>                                <span>Equality, diversity &amp; inclusion.</span>                            </li>                            <li>                                <span></span>                                <span>We've got standing desks in our office (no one uses them though :P).</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "8cvhgidGQhy-huOZiDxj6Q",
+    "url": "https://jobmote.com/job/68963/remote-python-data-engineer/",
+    "title": "Remote Python Data Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 401000,
+      "maxValue": 401000,
+      "info": "",
+      "unit": "DAY",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 401k /Day"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2019 10:07:45 PM",
+    "validThrough": "Sep 6, 2019 10:07:45 PM",
+    "crawled": "Sep 4, 2019 3:06:24 AM",
+    "content": "<div>Minimum Required Skills:<br>AWS, Kinesis, Lambda, Snowflake, Python 3.6/3.7, S3, Data Management, Data Ingestion, Data Processing, IOT<br><br>If you are a Remote Python Data Engineer with experience, please read on!<br><br>What You Need for this Position<br><br>Previous experience providing robust and reliable data management techniques; massaging, optimizations for aggregating/reading performantly.<br>Familiar with developing solutions that scale to meet scenarios of high-velocity data ingestion and processing.<br>Be a core player in collaborations with the team(s) to identify new and useful ways to package and present data to clients<br>A deep understanding of distributed programming concepts and are able to identify the patterns necessary for a scalable, robust, and reliable service.<br>Ability to reason about performance benefits and tradeoffs in software and infrastructure design decisions as they relate to preventing data loss and recovering from failure.<br>Comfortable with contributing to a collaborative development environment both within the team and across the organization. We are true full stack since we are from silicon to the cloud, so there are several teams with which to interact and collaborate.<br>Create and communicate tests that need to exist to prevent regressions and find performance bottlenecks.<br>Know what metrics need to be created or monitored to alert on abnormal operation and to aid in capacity/scale planning.<br>Desire to automate processes to keep the team moving efficiently and safely.<br><br>Tech Stack:<br><br>Modern Python (3.6/3.7) and Go<br>AWS primitives for an event based architecture<br>CI/CD, automation for infrastructure and code, and observability/instrumentation are first class citizens<br><br>What's In It for You<br><br>Full Remote! <br>Monthly hack days<br>Health, Dental, and Vision benefits<br>21 days PTO + separate sick day quota<br>401K plan<br>Amazingly talented team!So, if you are a Remote Python Data Engineer with experience, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Udm2nxzDRp6skiq-6--kOA",
+    "url": "https://jobmote.com/job/68967/remote-data-analyst/",
+    "title": "Remote Data Analyst",
+    "tags": [
+      "DBG:surround``can 2W remot",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=1, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=34, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Job Juncture",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2019 10:07:46 PM",
+    "validThrough": "Sep 6, 2019 10:07:46 PM",
+    "crawled": "Sep 4, 2019 3:06:24 AM",
+    "content": "<div><p>This full-time, permanent Remote Data Analyst career opportunity can be remote as the company is very employee-oriented and family-oriented.&nbsp; </p><p>If the successful candidate prefers to be onsite, that is also welcomed.&nbsp; The company utilizes the very latest predictive, cloud-based technology to reduce risk exposure.&nbsp;&nbsp;IoT (Internet of Things) and Artificial Intelligence are utilized. The company is growing and on a pace to triple its staff this year. The staff is team-oriented and highly collaborative. Employees are given leeway as to how they go about their day.&nbsp; The company has a history of promoting from within.</p> <p>&nbsp;The successful Data Analyst will be responsible for the following:</p> <ul><li>Leveraging new data collection processes and sources</li> <li>Developing and deploying innovative methods, models, and algorithms</li> <li>Utilizing statistics, algorithms, data mining, and visualization</li> <li>Interacting with all levels</li> <li>Working with Data Scientist (s) and the Product Development employees</li> <li>Anticipating, identifying, and investigating data trends</li> <li>Discovering actionable insights</li> <li>Identifying business opportunities</li> <li>Designing presentations for decision makers</li> <li>Identifying data sources</li> </ul><p>Candidates will have a minimum background consisting of the following:</p> <ul><li>A Wisconsin residence</li> <li>A four year degree in Statistics, Actuarial Science, Computer Science, Engineering, Mathematics, or equivalent experience</li> <li>SQL and relational database experience</li> <li>Data visualization tool experience</li> <li>Data analysis programming language experience</li> <li>Statistical software experience</li> <li>ETL knowledge</li> <li>Strong visual presentation skills</li> <li>An innovative mindset</li> </ul><p><strong>Preferred</strong> but <strong>not required</strong> backgrounds will include <strong> any </strong> of the following:&nbsp;</p> <ul><li>Insurance industry experience</li> <li>Tableau experience</li> <li>Power BI experience</li> <li>SQL Server experience</li> <li>SSRS, Performance Point experience</li> <li>Python experience</li> <li>Algorithm &nbsp;experience</li> <li>AWS Cloud service experience EC2 experience</li> <li>RDS experience S3 experience</li> </ul><br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "D0UkskvkSQK3MfJ9U2GDGA",
+    "url": "https://jobmote.com/job/68966/remote-data-analyst/",
+    "title": "Remote Data Analyst",
+    "tags": [
+      "DBG:surround``can 2W remot",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=1, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=34, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Job Juncture",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2019 10:07:46 PM",
+    "validThrough": "Sep 6, 2019 10:07:46 PM",
+    "crawled": "Sep 4, 2019 3:06:24 AM",
+    "content": "<div><p>This full-time, permanent Remote Data Analyst career opportunity can be remote as the company is very employee-oriented and family-oriented.&nbsp; </p><p>If the successful candidate prefers to be onsite, that is also welcomed.&nbsp; The company utilizes the very latest predictive, cloud-based technology to reduce risk exposure.&nbsp;&nbsp;IoT (Internet of Things) and Artificial Intelligence are utilized. The company is growing and on a pace to triple its staff this year. The staff is team-oriented and highly collaborative. Employees are given leeway as to how they go about their day.&nbsp; The company has a history of promoting from within.</p> <p>&nbsp;The successful Data Analyst will be responsible for the following:</p> <ul><li>Leveraging new data collection processes and sources</li> <li>Developing and deploying innovative methods, models, and algorithms</li> <li>Utilizing statistics, algorithms, data mining, and visualization</li> <li>Interacting with all levels</li> <li>Working with Data Scientist (s) and the Product Development employees</li> <li>Anticipating, identifying, and investigating data trends</li> <li>Discovering actionable insights</li> <li>Identifying business opportunities</li> <li>Designing presentations for decision makers</li> <li>Identifying data sources</li> </ul><p>Candidates will have a minimum background consisting of the following:</p> <ul><li>A Wisconsin residence</li> <li>A four year degree in Statistics, Actuarial Science, Computer Science, Engineering, Mathematics, or equivalent experience</li> <li>SQL and relational database experience</li> <li>Data visualization tool experience</li> <li>Data analysis programming language experience</li> <li>Statistical software experience</li> <li>ETL knowledge</li> <li>Strong visual presentation skills</li> <li>An innovative mindset</li> </ul><p><strong>Preferred</strong> but <strong>not required</strong> backgrounds will include <strong> any </strong> of the following:&nbsp;</p> <ul><li>Insurance industry experience</li> <li>Tableau experience</li> <li>Power BI experience</li> <li>SQL Server experience</li> <li>SSRS, Performance Point experience</li> <li>Python experience</li> <li>Algorithm &nbsp;experience</li> <li>AWS Cloud service experience EC2 experience</li> <li>RDS experience S3 experience</li> </ul><br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "anlr-TKvT-ubZMjVR0Ed3w",
+    "url": "https://jobmote.com/job/68935/remote-data-analytics-data-statistics-actuarial-scientist/",
+    "title": "Remote Data Analytics/Data Statistics/Actuarial Scientist",
+    "tags": [
+      "DBG:surround``can 2W remot",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=1, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=10, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Job Juncture",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2019 10:07:44 PM",
+    "validThrough": "Sep 6, 2019 10:07:44 PM",
+    "crawled": "Sep 4, 2019 3:06:24 AM",
+    "content": "<div><p>This full-time, permanent Data Analytics/Data Statistics/Actuarial Scientist career opportunity can be remote as the company is very employee-oriented and family-oriented.&nbsp; </p><p>If the successful candidate prefers to be onsite, that is also welcomed.&nbsp; The company utilizes the very latest predictive, cloud-based technology to reduce risk exposure.&nbsp;&nbsp;IoT (Internet of Things) and Artificial Intelligence are utilized. The company is growing and on a pace to triple its staff this year. The staff is team-oriented and highly collaborative. Employees are given leeway as to how they go about their day.&nbsp; The company has a history of promoting from within.&nbsp;</p> <p>The successful Data Analytics/Data Statistics/Actuarial Scientist will be responsible for the following:</p> <ul><li>Seeking case studies, behavioral reports and new learning from sensor data collection&nbsp;</li> <li>Seeking new learning from the collected data</li> <li>Taking advantage of the increasing amount of data collected from the company's new products</li> <li>Leveraging new data collection processes and sources</li> <li>Developing and deploying innovative methods, models, and algorithms utilizing statistics, algorithms, data mining, and visualization</li> <li>Anticipating, identifying and investigating data trends</li> <li>Discovering actionable insights</li> <li>Identifying business opportunities</li></ul><p>Candidates will have a minimum background consisting of the following:</p> <ul><li>Must reside within a three hour drive of Madison, Wisconsin</li> <li>Five years of experience as a Data Scientist</li> <li>Strong ability to talk through findings and algorithms&nbsp;</li> <li>A four year degree in Statistics, Actuarial Science, Computer Science, Mathematics, or equivalent</li> <li>SQL relational database experience</li> <li>Data visualization experience</li> <li>Data analysis programming language experience</li> <li>Statistical software experience</li> <li>ETL knowledge</li> </ul><p> <strong>Preferred</strong> but <strong>not required</strong> backgrounds will include <strong> any </strong> of the following:&nbsp;</p> <ul><li>Insurance industry experience</li> <li>Tableau experience</li> <li>Power BI experience</li> <li>SQL Server experience</li> <li>SSRS, Performance Point experience</li> <li>Python experience</li> <li>Algorithm &nbsp;experience</li> <li>AWS Cloud service experience EC2 experience</li> <li>RDS experience S3 experience</li> </ul><br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "5d4OkeIMQKOKMcS9pqPMUg",
+    "url": "https://jobmote.com/job/68934/remote-data-analytics-data-statistics-actuarial-scientist/",
+    "title": "Remote Data Analytics/Data Statistics/Actuarial Scientist",
+    "tags": [
+      "DBG:surround``can 2W remot",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=1, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=10, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Job Juncture",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2019 10:07:44 PM",
+    "validThrough": "Sep 6, 2019 10:07:44 PM",
+    "crawled": "Sep 4, 2019 3:06:24 AM",
+    "content": "<div><p>This full-time, permanent Data Analytics/Data Statistics/Actuarial Scientist career opportunity can be remote as the company is very employee-oriented and family-oriented.&nbsp; </p><p>If the successful candidate prefers to be onsite, that is also welcomed.&nbsp; The company utilizes the very latest predictive, cloud-based technology to reduce risk exposure.&nbsp;&nbsp;IoT (Internet of Things) and Artificial Intelligence are utilized. The company is growing and on a pace to triple its staff this year. The staff is team-oriented and highly collaborative. Employees are given leeway as to how they go about their day.&nbsp; The company has a history of promoting from within.&nbsp;</p> <p>The successful Data Analytics/Data Statistics/Actuarial Scientist will be responsible for the following:</p> <ul><li>Seeking case studies, behavioral reports and new learning from sensor data collection&nbsp;</li> <li>Seeking new learning from the collected data</li> <li>Taking advantage of the increasing amount of data collected from the company's new products</li> <li>Leveraging new data collection processes and sources</li> <li>Developing and deploying innovative methods, models, and algorithms utilizing statistics, algorithms, data mining, and visualization</li> <li>Anticipating, identifying and investigating data trends</li> <li>Discovering actionable insights</li> <li>Identifying business opportunities</li></ul><p>Candidates will have a minimum background consisting of the following:</p> <ul><li>Must reside within a three hour drive of Madison, Wisconsin</li> <li>Five years of experience as a Data Scientist</li> <li>Strong ability to talk through findings and algorithms&nbsp;</li> <li>A four year degree in Statistics, Actuarial Science, Computer Science, Mathematics, or equivalent</li> <li>SQL relational database experience</li> <li>Data visualization experience</li> <li>Data analysis programming language experience</li> <li>Statistical software experience</li> <li>ETL knowledge</li> </ul><p> <strong>Preferred</strong> but <strong>not required</strong> backgrounds will include <strong> any </strong> of the following:&nbsp;</p> <ul><li>Insurance industry experience</li> <li>Tableau experience</li> <li>Power BI experience</li> <li>SQL Server experience</li> <li>SSRS, Performance Point experience</li> <li>Python experience</li> <li>Algorithm &nbsp;experience</li> <li>AWS Cloud service experience EC2 experience</li> <li>RDS experience S3 experience</li> </ul><br></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "knDiRGcYQRm-07dzd8S0pw",
+    "url": "https://unicornhunt.io/jobs/senior-data-scientist-at-ourpath",
+    "title": "Senior Data Scientist",
+    "tags": [
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=36, ruby=0, apple=0, java=0, gamedev=8, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "OurPath",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 3, 2019 6:48:50 PM",
+    "validThrough": "Sep 10, 2019 6:48:50 PM",
+    "crawled": "Sep 3, 2019 7:31:43 PM",
+    "content": "<p>We’re looking for a senior data scientist who is passionate about making a positive difference in the world.</p><ul><li>Full-time, in-house</li><li>London</li></ul><h4> 1 The Problem </h4><p>Type 2 diabetes and obesity are huge problems, both for the millions of people that suffer from lifestyle diseases, as well as healthcare systems like the NHS.</p><p>In the UK we spend almost 10% of the NHS budget on treating type 2 diabetes alone (£9 billion/year). What’s shocking is almost all of this is avoidable, 80-90% in fact.</p><p>How? Through sustained lifestyle and weight loss. It sounds so simple, but in reality is much harder to achieve at scale.</p><h4> 2 OurPath </h4><p>OurPath provide a digital lifestyle improvement programme that is proven to help people improve their lifestyle and lose weight, which ultimately reduces their risk for conditions such as type 2 diabetes.</p><p>The programme incorporates evidence-based education, health coaches, peer group support, and digital tracking tools. Everything is delivered digitally through phone and web apps.</p><p>The quickest way to understand what we do is watch this very short 1 min animation:&nbsp;https://vimeo.com/199648301</p><p>We were the first digital behavioural change programme to be commissioned by the NHS – we’re now expanding rapidly having won a few big national contracts (both in diabetes prevention and management).</p><p>Alongside our NHS work, we also offer the programme directly to consumers – you can buy the programme on our website if you’re looking to make a healthy lifestyle change and lose weight. Our direct-to-consumer channel is essentially a competitor to the likes of Weight Watchers and Slimming World.</p><p>About us: We are now a team of 50 – consisting of ex-strategy consultants, dietitians, designers, and developers. We believe OurPath is a fun place to work with an informal, non-bureaucratic, and agile working environment. Finally, we will provide endless amounts of poor jokes and sub-standard humour. Just so you know.</p><p>Some of our national press:</p><p><a href='https://techcrunch.com/2018/08/10/ourpath-raises-3m-in-round-led-by-connect-ventures-to-reverse-type-2-diabetes/' rel='nofollow'>TechCrunch</a></p><p><a href='https://www.wired.co.uk/article/ourpath-diabetes-app-roche-nhs-partnership' rel='nofollow'>Wired</a></p><h4> 3 The role </h4><p>We are looking for a senior data scientist, not only to help us build and grow our product but also our data team.</p><p>What you’ll do:</p><ul><li><strong>Help junior analysts</strong> deliver insightful analysis to discover areas of opportunity that shape the product roadmap.</li><li><strong>Lead the development</strong> of new data-driven product features.</li><li><strong>Work with product</strong> to design and analyse product tests.</li><li><strong>Work with engineering</strong> to ensure that good ETL processes are in place to deliver clean and accurate data to team members.</li><li><strong>Collaborate with members of all teams</strong> to ensure that data is easily accessible to answer business decisions and drive the decision-making process.</li></ul><h4> 4 Person Specification </h4><p>Required:</p><ul><li>Experience querying databases and using statistical computer languages</li><li>Coding knowledge and experience with several languages (Python/R required)</li><li>Experience in Machine Learning applications</li></ul><p>Nice to have:</p><ul><li>Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks</li><li>Strong knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications</li><li>Experience managing a team of data analysts/scientists.</li></ul><h4>   5 What can we offer you? </h4><ul><li>You’ll be able to <strong>provide direct input</strong> into how we should improve our product and the development of OurPath.</li><li>You’ll get to <strong>work with amazing, friendly, smart colleagues</strong> all incredibly passionate about solving the type 2 diabetes epidemic.</li><li>You’ll have <strong>autonomy and responsibility</strong> for your work direction; we also offer a flexible working environment where you can work from home when you need to.</li><li>We have <strong>regular company-sponsored socials</strong> (pub drinks, team dinners, board games and movie nights) that’ll allow you to catch up and make friends outside of your team.</li><li>We all have a <strong>thirst for knowledge</strong> and have regular Lunch&amp;Learn sessions to help us expand our knowledge base; the product team also get together and run quarterly Hackathons.</li></ul><h4> 6 To Apply </h4><p>This position is available to start immediately, so please send your CV and email via this application page: https://workable.com/j/B45EE2ECED</p><p>We’ll be interviewing on a rolling basis, so the quicker you can apply the better.</p><p>If Ben doesn’t respond within 7 days then he’s not intentionally being rude but please assume it’s probably a no for now.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "ZZzZ11wSTG6H1zNpCX9BAQ",
     "url": "https://remote.co/job/data-scientist-8/",
     "title": "Data Scientist",
@@ -12455,59 +12825,6 @@
     }
   },
   {
-    "id": "KNM8vjFaTay5nFwx5Gj1aw",
-    "url": "https://jobmote.com/job/47906/remote-data-associate-french-canadian/",
-    "title": "REMOTE Data Associate (French Canadian)",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=4, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "50% remote",
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Aerotek",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 8, 2019 10:56:48 AM",
-    "validThrough": "Jul 11, 2019 10:56:48 AM",
-    "crawled": "Jul 8, 2019 3:06:26 PM",
-    "content": "<div>\n <p><strong>JOB DESCRIPTION</strong></p>\n <p> This position will be working with Amazon's <strong>Alexa Data Services Team (ADS). </strong>ADS organization provides data creation, curation, and analytics services to help develop, test, and train the Alexa AI. They work closely with internal customers like Machine Learning Science modeling teams, providing the critical data they need to improve Alexa's Automatic Speech Recognition and Natural Language Understanding models and domain features.</p>\n <p> <strong>Location:</strong> Able to work remotely</p>\n <p><strong>Hours:</strong> Mon-Fri 9:00am-5:00pm <strong>(EASTERN STANDARD TIME)</strong></p>\n <p><strong>Duration:</strong> 3 Month Contract-<em>From there it will depend how the project is going as well as how your performance has been to see if there is room for an extension or not. </em></p>\n <p><strong>JOB MISSION</strong></p>\n <ul>\n  <li>Amazon is hiring Data Associates to work with their remote team on transcriptions of audio files for Automatic Speech Recognition, semantic annotation for Natural Language Understanding, and dialogue evaluation for improving overall customer interaction with Alexa.</li>\n  <li>You will focus on speech and language data, primarily in the areas of transcription, text annotation, and general data analysis to meet the internal customer's request.</li>\n  <li>Driven by your passion for data, you show proactive behavior in solving issues with efficiency and accuracy. Your ability to concentrate and your high attention to details help you deliver high-quality work.</li>\n  <li>In this role, you're comfortable with, and understand, the changes to the conventions deployed in response to internal customers' requests. You demonstrate ability to adjust your workflows accordingly. You prioritize strict compliance with regulatory requirements, and contribute to improvements in the software tools by identifying bugs and suggesting enhancements.</li>\n </ul>\n <p><strong>RESPONSIBILITIES</strong></p>\n <ul>\n  <li>Maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information</li>\n  <li>Transcribing and annotating high priority deliverables</li>\n  <li>Translating established guidelines into daily work practices and processing data in order of priority</li>\n  <li>Delivering high quality on deadlines</li>\n  <li>Getting the job done and work autonomously with minimum direction</li>\n  <li>Contributing to process improvements to reduce handling time and improve output</li>\n </ul>\n <p> <strong>BASIC QUALIFICATIONS</strong></p>\n <ul>\n  <li><strong>Native-level proficiency in FRENCH CANADIAN AND ENGLISH, both verbal and written skills</strong></li>\n  <li>Comfortable working with speech from various dialects and accents of FRENCH CANADIAN</li>\n  <li>Willing to work with audio content (wearing headsets) for a portion of the day</li>\n  <li>Experience with business software</li>\n  <li>Capable of working in strict compliance with internal guidelines</li>\n  <li>Excellent communication and organizational skills, detailed-oriented, highly collaborative</li>\n  <li>Comfortable working in an ever-changing, highly collaborative and dynamic work environment</li>\n  <li>Willingness to support several projects at one time and to accept re-prioritization as necessary</li>\n  <li>Continuous efforts to deliver the high quality data such as self-analysis</li>\n </ul>\n <p><br></p>\n <p><br></p>\n <p><br></p>\n <p><strong>About Aerotek:</strong></p>\n <p><strong>We know that a company's success starts with its employees. We also know that an individual's success starts with the right career opportunity. As a Best of Staffing<sup> </sup> Client and Talent leader, Aerotek's people-focused approach yields competitive advantage for our clients and rewarding careers for our contract employees. Since 1983, Aerotek has grown to become a leader in recruiting and staffing services. With more than 250 non-franchised offices, Aerotek's 8,000 internal employees serve more than 300,000 contract employees and 18,000 clients every year. Aerotek is an Allegis Group company, the global leader in talent solutions. Learn more at Aerotek.com.</strong></p>\n <br>\n <br>\n <b>The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.</b>\n <br>\n <br>\n <b>If you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing process due to a disability, please call 888-###-#### or email accommodation@aerotek .com for other accommodation options. However, if you have questions about this position, please contact the Recruiter located at the bottom of the job posting. The Recruiter is the sole point of contact for questions about this position.</b>\n <br>\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "azxI4ojdT3SXu7slehAftg",
     "url": "https://jobmote.com/job/47549/software-developer-part-remote-c-machine-learning/",
     "title": "Software Developer - Part Remote, C#, Machine Learning",
@@ -12600,227 +12917,6 @@
     "validThrough": "Jul 12, 2019 10:07:13 PM",
     "crawled": "Jul 6, 2019 3:06:27 AM",
     "content": "<div>\n Minimum Required Skills:\n <br>Mapreduce, ElasticSearch, Data Conversion\n <br>\n <br>We are one of the most successful technology start-ups in the Philadelphia region....and we've only just BEGUN! We have a lean team that executes like a big company. We allow our customers to distribute branded consumer-facing native mobile and web apps focused on home search and collaboration. \n <br>\n <br>We power data and services for our customers that fuel their real estate operations. Our app powers many of the most significant players in the real estate industry in North America, including leading franchisers and independent real estate firms representing over 3,000 brokerage companies and hundreds of thousands of individual agents.\n <br>\n <br>We need a Data Rockstar to help us transform how consumers interact with real estate data.\n <br>\n <br>What You Will Be Doing\n <br>\n <br>- Recommend and implement data processing tools and technologies\n <br>- Extract, transform and load data pipelines from end to end\n <br>- Identify and fix &quot; data bugs&quot; and improve overall quality of info\n <br>- Create, develop and document data mapping rules from multiple sources\n <br>- Develop continuous process movements\n <br>\n <br>What You Need for this Position\n <br>\n <br>- 3+ years experience using data related technologies( MapReduce, ElasticSearch, DynamoDB, Logstash) \n <br>- Full understanding of databases, data conversion, data manipulation, and data cleansing \n <br>- Experience with parsing and mapping data\n <br>- Microsoft Excel proficient \n <br>- Results driven with strong communication skills\n <br>- Real Estate data experience is a plus!\n <br>\n <br>What's In It for You\n <br>\n <br>- Competitive Pay\n <br>- Fully Remote! \n <br>- Medical, Dental, Vision\n <br>- Flexible PTOSo, if you are a Senior Data ETL Engineer- Partial Remote with experience, please apply today!\n <br>\n <br>Applicants must be authorized to work in the U.S.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!\n <br>\n <br>Looking forward to receiving your resume and going over the position in more detail with you.\n <br>\n <br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.\n <br>\n <br>Looking forward to receiving your resume!\n <br>\n <br>CyberCoders\n <br>\n <br>CyberCoders, Inc is proud to be an Equal Opportunity Employer\n <br>\n <br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.\n <br>\n <br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\n <br>\n <br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.\n <br> - provided by Dice\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "51l-qiKbThqgcUOeAlVALw",
-    "url": "https://stackoverflow.com/jobs/279533/lead-data-scientist-remote-global-wallethub?a=1vKijb0FVreE",
-    "title": "Lead Data Scientist- Remote, Global at Wallethub  ",
-    "tags": [
-      "DBG:surround``OR(&quot;not&quot;,no) 3W locat W requir",
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 2W hour",
-      "DBG:surround``OR(no,no W central) W offic",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/56",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:spring/java/8",
-      "DBG_TECH1:k/t/w:svm/bigdata-ml/16",
-      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=0, bigdata-ml=82, ruby=0, apple=0, java=12, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Wallethub",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 5, 2019 7:30:25 PM",
-    "validThrough": "Jul 12, 2019 7:30:25 PM",
-    "crawled": "Jul 5, 2019 7:30:25 PM",
-    "content": "<h3><span>Lead Data Scientist- Remote, Global</span> </h3> \n<h4>About this job</h4> \n<div> \n <div> \n  <div> \n   <span>Job type: </span> \n   <span>Full-time</span> \n  </div> \n  <div> \n   <span>Experience level: </span> \n   <span>Mid-Level, Senior, Lead</span> \n  </div> \n  <div> \n   <span>Role: </span> \n   <span>Data Scientist</span> \n  </div> \n </div> \n <div> \n  <div> \n   <span>Industry: </span> \n   <span>Personal Finance</span> \n  </div> \n  <div> \n   <span>Company size: </span> \n   <span>51-200 people</span> \n  </div> \n  <div> \n   <span>Company type: </span> \n   <span>Private</span> \n  </div> \n </div> \n</div> \n<div> \n <h4>Reactions to this job</h4> \n <div> \n  <div> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n  </div> \n </div> \n <div> \n  <div> \n   <div> \n    <div></div> \n   </div> \n   <div> \n    <strong>New!</strong> How do you feel about this job listing? \n   </div> \n   <div> \n   </div> \n  </div> \n </div> \n <div></div>\n</div>\n<div>\n Company: Wallethub | No office location\n <br>\n</div>\n<h4>Technologies</h4>\n<div></div>\n<div>\n machine-learning\n</div>\n<div>\n r\n</div>\n<div>\n java\n</div>\n<div>\n python\n</div> \n<h4>Job description</h4> \n<div>\n <p><strong>Company details</strong></p>\n <p>WalletHub is one of the leading personal finance destinations in the US and rapidly growing. We're looking for a highly experienced and motivated Data Scientist for a full-time, permanent position.</p>\n <p>The main objective of the Data Science Team is to improve WalletHub's services and core product. This has a direct impact on the overall user experience.</p>\n <p>Making the right personal finance decisions by sifting through vast amounts of available information can be a daunting task for almost anyone. This is because a large number of interrelated factors need to be taken into account when making such decisions.</p>\n <p>By designing and constructing data-driven models, the Data Science Team is able to provide our users with indispensable knowledge and meaningful advice on how they can achieve their personal finance goals.</p>\n <p>Such goals include:</p>\n <ul>\n  <li>Selecting the best financial products for your needs</li>\n  <li>Taking the right actions to improve your credit score</li>\n  <li>Anticipate your future financial health based on your current financial status and history</li>\n </ul>\n <p>With these goals in mind, our Data Scientists use the latest cloud technologies and machine learning tools in order to exploit the potential of data analytics. We always have new and interesting projects on the horizon that aim to help our users reach their personal finance aspirations!</p>\n <p><strong>Requirements</strong></p>\n <p>You are the ideal candidate for this job if you have:</p>\n <ul>\n  <li>At least 8 years experience in Java, Spring and MySQL (or any relational database) and Python</li>\n  <li>At least 5 years of experience as a Data Scientist.</li>\n  <li>Experience with databases (including NoSQL)</li>\n  <li>Experience in machine learning frameworks and libraries</li>\n  <li>Supervised and Unsupervised learning</li>\n  <li>Machine learning concepts and techniques: Regularization, Boosting, Random Forests, Decision Trees, Bayesian models, Neural networks, Support Vector Machines (SVM)</li>\n  <li>Experience with the whole ETL data cycle (extract, validate, transform, clean, aggregate, audit, archive)</li>\n  <li>Computer Science or Mathematics or Physics degree</li>\n  <li>Excellent communication and analytical skills</li>\n  <li>Willingness to work hard (50 hrs per week)</li>\n  <li>Very good English</li>\n </ul>\n <p><strong>Nice to have but not required</strong></p>\n <ul>\n  <li>Experience with Apache Spark</li>\n  <li>Natural Language Processing (tokenization, tagging, sentiment analysis, entity recognition, summarization)</li>\n  <li>R programming language</li>\n </ul>\n <p><strong>Responsibilities</strong></p>\n <ul>\n  <li>Modeling complex problems, discovering insights and identifying opportunities through the use of statistical, algorithmic, mining and visualization techniques</li>\n  <li>Participating in the areas of architecture, design, implementation, and testing</li>\n  <li>Proposing innovative ways to look at problems by using data mining approaches on the set of information available</li>\n  <li>Designing experiments, testing hypotheses, and building models</li>\n  <li>Conducting advanced data analysis and designing highly complex algorithm</li>\n  <li>Applying advanced statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems</li>\n </ul>\n <p><strong>Our Offer</strong></p>\n <ul>\n  <li>Very competitive salary based on prior experience and qualifications</li>\n  <li>Potential for stock options after the first year</li>\n  <li>Raise and advancement opportunities based on periodic evaluations</li>\n  <li>Visa sponsorship (if working from outside the US, sponsorship&nbsp;can be granted after 18 months with the company, based on performance).</li>\n  <li>Health benefits (in case you will be working from our office in Washington DC)</li>\n </ul>\n <p><strong>Notes</strong>&nbsp;</p>\n <ul>\n  <li>This position does not have a location requirement and can be performed either remotely (including from outside the U.S.) or from WalletHub’s offices in downtown Washington DC.</li>\n  <li>If you're intending to work from outside the US please&nbsp;be aware this position entails working at least 50 hour per week and requires an overlap with EST business hours.</li>\n </ul>\n <p><strong>More about WalletHub</strong></p>\n <p>WalletHub is a high-growth fintech company based in Washington, DC that is looking for talented, hard-working individuals to help us reshape personal finance. More specifically, we are harnessing the power of data analytics and artificial intelligence to build the brain of a smart financial advisor, whose services we’re offering to everyone for free. The WalletHub brain enables users to make better financial decisions in a fraction of the time with three unique features:</p>\n <p>1) Customized Credit-Improvement Tips: WalletHub identifies improvement opportunities and guides you through the necessary corrections.</p>\n <p>2) Personalized Money-Saving Advice: WalletHub’s savings brain constantly scours the market for load-lightening opportunities, bringing you only the best deals.</p>\n <p>3) Wallet Surveillance: Personal finance isn’t as scary with 24/7 credit monitoring providing backup, notifying you of important credit-report changes.</p>\n <p>In addition to the valuable intelligence the brain provides, WalletHub is the first and only service to offer free credit scores and full credit reports that are updated on a daily basis absent of user interaction, rather than weekly or monthly and only when a user logs in. Some other services hang their hats on free credit scores and reports, yet they’re still inferior to what WalletHub considers minor pieces to a much larger puzzle.</p>\n <p><strong>How to Apply</strong><br><br>To get our attention, all you need to do is send us a resume. If we believe that you will be a good match, we'll contact you to arrange the next steps. You can&nbsp;apply directly on Stackoverflow or email your application to&nbsp;<a href='mailto:jobs.dev@wallethub.com' rel='nofollow'>jobs.dev@wallethub.com</a></p> \n</div> \n<div> \n <a href='https://stackoverflow.com/jobs/apply/279533?reset=False&amp;ra=1vKijb0FVreE&amp;oqs=a%3D1vKijb0FVreE' rel='nofollow'>Apply now</a>\n</div>\n<div> \n</div> \n<h4>About Wallethub</h4> \n<div>\n <p>WalletHub helps all consumers reach top financial fitness by providing:<br><br>• Free credit scores and credit reports that are updated on a daily basis.<br><br>• Free 24/7 credit monitoring and personalized advice that will help you improve your credit and save money. <br><br>• More reviews on financial products, professionals and companies than any other website.<br><br>• An extensive education center coupled with the ability to ask financial experts your money-related questions for free .</p> \n</div> \n<h4>Benefits</h4> \n<ul> \n <li> <span></span> <span>Stock options</span> </li> \n <li> <span></span> <span>Health benefits</span> </li> \n <li> <span></span> <span>Work visa sponsorship</span> </li> \n <li> <span></span> <span>Competitive salary</span> </li> \n <li> <span></span> <span>Work from home</span> </li> \n</ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "9W8GszMSSEOqVi32m3vG_g",
-    "url": "https://stackoverflow.com/jobs/279343/data-analyst-hotjar?a=1vGlmTioV0w8",
-    "title": "Data Analyst at Hotjar  ",
-    "tags": [
-      "DBG:surround``12N(work, OR(home,remot), 5N(OR(offic,headquart,onsit), OR(dai,daili,week,weekli,month,monthli)) )",
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
-      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
-      "DBG_TECH1:k/t/w:macos/apple/2",
-      "DBG_TECH1:k/t/w:python-developer/python/13",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:techWeightMap:{python=17, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=32, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Hotjar",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "EUR",
-      "minValue": 50000,
-      "maxValue": 70000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserDefaultImpl",
-      "isEquity": false,
-      "formatted": "EUR 50k - 70k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 5, 2019 11:06:25 AM",
-    "validThrough": "Jul 12, 2019 11:06:25 AM",
-    "crawled": "Jul 5, 2019 11:06:25 AM",
-    "content": "<h3><span>Data Analyst</span> </h3> \n<h4>About this job</h4> \n<div> \n <div> \n  <div> \n   <span>Job type: </span> \n   <span>Full-time</span> \n  </div> \n  <div> \n   <span>Experience level: </span> \n   <span>Senior</span> \n  </div> \n  <div> \n   <span>Role: </span> \n   <span>Data Scientist</span> \n  </div> \n </div> \n <div> \n  <div> \n   <span>Industry: </span> \n   <span>Data &amp; Analytics, SaaS, Web Technology</span> \n  </div> \n  <div> \n   <span>Company size: </span> \n   <span>51-200 people</span> \n  </div> \n  <div> \n   <span>Company type: </span> \n   <span>Private</span> \n  </div> \n </div> \n</div> \n<div> \n <h4>Reactions to this job</h4> \n <div> \n  <div> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n   <span>0</span> \n  </div> \n </div> \n <div> \n  <div> \n   <div> \n    <div></div> \n   </div> \n   <div> \n    <strong>New!</strong> How do you feel about this job listing? \n   </div> \n   <div> \n   </div> \n  </div> \n </div> \n <div></div>\n</div>\n<div>\n Company: Hotjar | No office location\n <br>\n</div> \n<h4>Remote details</h4> \n<div> \n <div> \n  <div> \n   <span>Preferred Timezone:</span> \n   <span>(GMT+01:00) Amsterdam +/- 2 hours</span> \n  </div> \n </div> \n</div> \n<h4>Technologies</h4>\n<div></div>\n<div>\n r\n</div>\n<div>\n sql\n</div>\n<div>\n qa\n</div>\n<div>\n excel\n</div>\n<div>\n mfitzp Python Developer at Hotjar 11k 5 34 55\n</div>\n<div>\n Rory O'Keeffe Full stack web engineer with a passion for learning and creating cool things 201 1 5\n</div>\n<div>\n eKIK 896 9 6\n</div>\n<div>\n Jonathan Vella Director of Design at HotJar 1\n</div> \n<h4>Job description</h4> \n<div>\n <p><strong>Note:</strong>&nbsp;Although this is a remote position, we are only looking for candidates in timezones between UTC-1 and UTC+3.</p>\n <p>At Hotjar we’re on a mission to build the leading user feedback and analytics platform, with our product being used by over 915,000 users in 190 countries. As part of our Business Intelligence team, you will make data-driven recommendations on strategy and keep a finger on the pulse of our business.</p>\n <p>We work in an agile and highly collaborative environment, 100% remotely, and challenge the norms of<a href='https://www.hotjar.com/blog/effective-leadership' rel='nofollow'>&nbsp;traditional business leadership</a>. Our focus is on true transparency and respect.</p>\n <p>We’re looking for someone who loves to turn data into insights and communicate findings fearlessly. You want to help teams make data-informed decisions and take data-informed actions, you have a curious mindset, and you are motivated to understand our business better.</p>\n <p><strong>You will:&nbsp;</strong></p>\n <ul>\n  <li><p>Identify and analyze trends or patterns in complex data sets</p></li>\n  <li><p>Develop and implement databases, data collection systems, data analytics and other strategies that improve statistical efficiency and quality</p></li>\n  <li><p>Filter and “clean” data by reviewing multiple data sources and performance indicators to locate and correct inconsistencies.</p></li>\n  <li><p>Support scoping complex data-centric projects across multiple teams and systems, and work on deliverables to promote bias to action</p></li>\n  <li><p>Build data models to accelerate the business by providing deeper insights into visitor and customer behaviors, and feed the team’s hunger for actionable insights</p></li>\n  <li><p>Assist our teams in defining, tracking and optimizing processes, tools, and dashboards for better planning and management of the business</p></li>\n  <li><p>Help analyze the effectiveness of new solutions to inform whether to double down, pivot, or eliminate a new feature or process</p></li>\n  <li><p>Select and integrate new technologies to promote better segmentation and attribution</p></li>\n </ul>\n <p><strong>Requirements</strong></p>\n <ul>\n  <li>Experience in analytics/data science or a directly related field – some of which is in a technology environment</li>\n  <li><p>Experience initiating and delivering applicable analyses/recommendations to guide impact</p></li>\n  <li><p>Excellent skills with analytics tools, fluency with BI/visualization tools such as Mode, Tableau, etc and knowledge of Excel, R, Python, SQL, or other analysis tools</p></li>\n  <li><p>An understanding of SaaS business models and essential metrics</p></li>\n  <li><p>Experience implementing and integrating an event tracking platform</p></li>\n  <li><p>Critical-reasoning skills, including the understanding of common pitfalls of data analysis</p></li>\n  <li><p>A desire to work in a respectful, transparent, and transparent work environment, following Hotjar’s&nbsp;<a href='https://hotjar.atlassian.net/wiki/spaces/REC/pages/269942884/Hotjar+Core+Values' rel='nofollow'>company values</a>,&nbsp;<a href='https://careers.hotjar.com/' rel='nofollow'>culture&nbsp;</a>and&nbsp;<a href='https://hotjar.atlassian.net/wiki/spaces/REC/pages/269779142/Working+at+Hotjar' rel='nofollow'>ways of working</a></p></li>\n  <li><p>Must submit to a background check confidentially processed by our third-party&nbsp;</p></li>\n </ul>\n <p><strong>Plus points:</strong></p>\n <ul>\n  <li><p>Experience with building predictive data models to provide deeper insights</p></li>\n  <li><p>Knowledge of statistics and experience using statistical packages for analyzing datasets</p></li>\n </ul>\n <p><strong>What we offer</strong></p>\n <ul>\n  <li><p>A remote and accomplished diverse and international team</p></li>\n  <li><p>An opportunity to positively enhance people’s experience online and make the web a better place</p></li>\n  <li><p>Annual learning and development budget</p></li>\n  <li><p>Several perks designed for your well-being and a healthy work-life balance. (Holiday Budget, Wellbeing Allowance, Working Together Budget, 16 weeks paid parental leave, and much more)</p></li>\n </ul>\n <p><strong>Compensation Range</strong></p>\n <p>The budgeted compensation range for this role is €50,000 to €70,000 annually. Ranges are based on market research and are equitable to other roles within Hotjar. The actual compensation offered will be based on relative experience. At this time we are only able to provide official employment status to those located in Malta, and Germany (for candidates who don’t require visa sponsorship). All other team members will join as full-time consultants and will be responsible for paying any taxes or applicable fees where they reside.</p> \n</div> \n<div> \n <a href='https://careers.hotjar.com/o/data-analyst-emea/?source=Stackoverflow' rel='nofollow'> Apply now </a>\n</div> \n<h4>About Hotjar</h4> \n<div>\n <p>Hotjar is a rapidly growing startup that is giving thousands of website owners the tools needed to discover how their visitors are really using their website. We are looking for passionate and ambitious developers who can help us shape the product and company while growing with us.</p>\n <p><strong>Culture at Hotjar:</strong></p>\n <p>Headquartered on the beautiful island of Malta, in the “heart” of the Mediterranean, Hotjar is a young startup that embraces remote working and personal development.</p>\n <p>Hotjar’s culture is driven by transparency, respect, open discussion, collaboration and blunt and direct feedback. In fact, we’re obsessed with communicating with our users as well as within the team. We hate bureaucracy and slow moving organizations –&nbsp;but we’re suckers for well-defined processes. We love lean, iterative improvements and success is measured by the value we create for our users.</p>\n <p><strong>The Perks:</strong></p>\n <ul>\n  <li><strong>Remote &amp; Flexible.</strong> Work from anywhere within a European timezone.&nbsp;</li>\n  <li><strong>Ample Time Off.&nbsp;</strong>All team members get 40 days of paid planned leave/year, plus 10 sick days/year and time off to attend conferences / events.</li>\n  <li><strong>Collaborate with prestigious organizations.</strong> Imagine what it will feels like to be part of a product that is used by companies like Time Inc., Nintendo, Lloyd's Bank, Pingdom, Booking.com, Intuit and the Red Cross.</li>\n  <li><strong>Only the best hardware and software</strong>. Mac, PC or Linux –&nbsp;we will get you equipped with the best hardware and software available, of your own choice.</li>\n  <li><strong>Home Office budget.</strong> Every Hotjar team member receives a €4000 home office setup budget, with a yearly €500 top-up thereafter. Upgrade your desk, chair, screens or buy any peripherals you might need.</li>\n  <li><strong>Personal Development budget.</strong> Everyone receives a free Kindle as well as direct management of their own personal development yearly budget of €1,000. Buy books, short courses or magazine subscriptions.</li>\n  <li><strong>Holiday budget.</strong> A spend of €2,000/year for each team mate to spend relaxing and recharging on holiday.</li>\n  <li><strong>Work Together budget.</strong> Even though we're remote, we don't underestimate the value of getting together in person sometimes. Each team member has €2,000/year to spend on travelling to work with other Hotjarians.</li>\n  <li><strong>Working Space Allowance.</strong> Decide how you want to spend your monthly €200, whether it's on a co-working space, working from a coffee shop, getting your favourite coffee delivered to your home office, etc.</li>\n  <li><strong>Wellbeing Allowance.</strong> €200/month to spend on your wellbeing, be that physical, mental or spiritual.</li>\n  <li><strong>Work with a very talented team.</strong> Our team has an impressive background building and optimizing products and businesses around the globe.</li>\n  <li><strong>Make a difference.</strong> Hotjar is ‘democratizing’ site analytics and feedback by making them affordable and easy to use for everyone around the world. We call it the ‘Hotjar revolution’.</li>\n </ul> \n</div> \n<h4>Benefits</h4> \n<ul> \n <li> <span></span> <span>€4,000 Home Office Budget, topped up €500/year</span> </li> \n <li> <span></span> <span>100% Remote</span> </li> \n <li> <span></span> <span>Free Kindle Paperwhite, Fitbit, Headset and Reading Pack</span> </li> \n <li> <span></span> <span>€1,000 Annual Personal Development Budget</span> </li> \n <li> <span></span> <span>€200 Monthly Well Being Allowance</span> </li> \n <li> <span></span> <span>40 days leave annually</span> </li> \n <li> <span></span> <span>Two company retreats each year</span> </li> \n <li> <span></span> <span>€2,000 Annual Holiday Budget</span> </li> \n <li> <span></span> <span>€200 Monthly Working Space Allowance</span> </li> \n <li> <span></span> <span>€2,000 Annual Work Together Budget</span> </li> \n</ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "nfAmin3NRhekPjUzk1oRog",
-    "url": "https://jobmote.com/job/47443/solidity-engineer-remote-60-000-120-000/",
-    "title": "Solidity Engineer – Remote - £60,000-£120,000",
-    "tags": [
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``remot 16W timezon",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:rust/other/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Anonymous",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 4, 2019 10:07:18 PM",
-    "validThrough": "Jul 11, 2019 10:07:18 PM",
-    "crawled": "Jul 5, 2019 3:06:26 AM",
-    "content": "<div>\n Solidity Engineer - Remote - £60,000-£120,000\n <br>\n <br>Solidity Engineer - Remote - £60,000-£120,000 - I am currently recruiting for a solidity engineer to join a very well-respected start up within the Ethereum ecosystem. They are at the forefront of bringing enterprise zero-knowledge systems to the public Ethereum space.\n <br>\n <br>They are looking to recruit a solidity engineer to build out the core components of their smart contract architecture. This role would involve both architecture and implementation of their smart contracts as well as mentoring of junior team members. In this role you would also help with the hiring and subsequent scaling of the business.\n <br>\n <br>The ideal candidate will have significant experience of the EVM as well as hands on experience with solidity. You will have come from at least 5 years software development as well as commercial experience with Javascript.\n <br>\n <br>Any experience of Rust and cryptography would be a bonus but is not essential. The client is open to this role being perform completely remotely but their preference would be candidate around EU timezones.\n <br>\n <br>If you are interested in this role please send your cv / github asap\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "zsAUS8TyQCaRKayrNNmP2Q",
-    "url": "https://jobmote.com/job/47409/spark-pyspark-developer-c2c-remote/",
-    "title": "Spark(PySpark) Developer - C2C (REMOTE)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:k/t/w:shell/other/1",
-      "DBG_TECH1:techWeightMap:{python=6, other=2, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml",
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "OrbITpeople",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 4, 2019 10:07:16 PM",
-    "validThrough": "Jul 11, 2019 10:07:16 PM",
-    "crawled": "Jul 5, 2019 3:06:26 AM",
-    "content": "<div>\n <br>Spark(PySpark) Developer - C2C (REMOTE)\n <br>\n <br>Chicago, IL - Contracted\n <br>\n <br> As a Big Data Spark Developer/Engineer, you will interface with key stakeholders and apply your technical proficiency across different stages of the Spark code development life cycle including gathering requirements, implementing complex componential models, massively parallel processing and advanced data modeling as well as performance tuning and scalability. You will play an important role all throughout the development process, from creating the high level design artifacts to actual implementation.\n <br>\n <br>\n <b>Primary skill set: </b> \n <br>\n <br> * PySpark\n <br> * AWS\n <br> * Python\n <br> * Strong ETL processes\n <br> * Linux (scripting Shell/Bash)\n <br>\n <br> Qualifications/experience\n <br> * Hands-on experience with AWS cloud\n <br> * Experience in PySpark development including data frames, data transformations, performance tuning, memory sizing and tuning Spark Master and Executors.\n <br> * Experience in Python and Spark/Python writing streaming and/or batch processing code (for example - coding ETL pipelines). REQUIRED\n <br> * Some hands-on experience with AWS services and solutions (Glue) - REQUIRED\n <br> * hands-on experience working with the Hadoop ecosystem components for data analysis\n <br> * hands-on data modeling including table partitioning models.\n <br>\n <br> Thanks\n <br> Alex Prem | T:\n <br> | \n <br>\n <br> - provided by Dice\n</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
