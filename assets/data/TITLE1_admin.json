@@ -1,6 +1,503 @@
 {
  "items": [
   {
+    "id": "-lHoC6rsR2ybbvwoJ5Wm-w",
+    "url": "https://stackoverflow.com/jobs/293378/devops-engineer-automate-and-scale-securityscorecard?a=1AoaHQ1f5D56",
+    "title": "DevOps Engineer: Automate and scale infrastructure. Remote North America at SecurityScorecard  ...",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``remot 16W timezon",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=8, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TITLE1/admin",
+      "TZ/America/East"
+    ],
+    "tagsNames1": [
+      "US East time zone"
+    ],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "SecurityScorecard",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 5, 2019 6:23:00 PM",
+    "validThrough": "Sep 12, 2019 6:23:00 PM",
+    "crawled": "Sep 5, 2019 6:23:00 PM",
+    "content": "<h3><span>DevOps Engineer: Automate and scale infrastructure. Remote North America</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cybersecurity, SaaS</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51–200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: SecurityScorecard | New York, NY<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT-05:00) Eastern Time +/- 4 hours</span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>New York, NY.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                            <div>                                    <span>Visa Sponsorship:</span>                                    <span>Yes</span>                                </div>                                                    </div>                    </div>                <h4>Technologies</h4><div></div><div>amazon-web-services</div><div>ansible</div><div>devops</div><div>scripting</div><div>kubernetes</div>                <h4>Job description</h4>                <div><p><strong>The Opportunity</strong></p><p>SecurityScorecard is hiring an Ops Engineer to bridge the gap between our global development and operational teams who is motivated to help continue automating and scaling our infrastructure. The Ops Engineer will be responsible for setting up and managing the operation of project development and test environments as well as the software configuration management processes for the entire application development lifecycle. Your role would be to ensure the optimal availability, latency, scalability, and performance of our product platforms. You would also be responsible for automating production operations, promptly notifying backend engineers of platform issues, and checking long term quality metrics.</p><p>Our infrastructure is based on AWS with a mix of managed services like RDS, ElastiCache, and SQS, as well as hundreds of EC2 instances managed with Ansible and Terraform. We are actively using three AWS regions, and have equipment in several data centers across the world.</p><p>This role will be remote in North America, or in our HQ in NY, NY.</p><p><strong>Responsibilities</strong></p><ul><li>Training, mentoring, and lending expertise to coworkers with regards to operational and security best practises.&nbsp;</li><li>Reviewing and providing feedback on GitHub Pull Requests to team members AND development teams- a significant percentage of our Software Engineers have written Terraform.</li><li>Identifying opportunities for technical and process improvement and owning the implementation.&nbsp;</li><li>Championing the concepts of immutable containers, Infrastructure as Code, stateless applications, and software observability throughout the organization.</li><li>Systems performance tuning with a focus on high availability and scalability.</li><li>Building tools to ease the usability and automation of processes</li><li>Keeping products up and operating at full capacity</li><li>Assisting with migration processes as well as backup and replication mechanisms</li><li>Working on a large-scale distributed environment where you were focused on scalability/reliability/performance</li><li>Ensuring proper monitoring / alerting are configured</li><li>Investigating incidents and performance lapses</li></ul><p><strong>Come help us with projects such as…</strong></p><ul><li>Extending our compute clusters to support low latency, on-demand job execution</li><li>Turning pets into cattle</li><li>Cross region replication of systems and corresponding data to support low latency access</li><li>Rolling out application performance monitoring to existing services, extending integrations where required</li><li>Migration from self hosted ELK to a SaaS stack</li><li>Continuous improvement of CI/CD processes making builds &amp; deployments faster, safer, and more consistent</li><li>Extending a Global VPN WAN to a datacenter with IPSec+BGP</li></ul><p><strong>Requirements</strong></p><ul><li>3+ years of DevOps and/or Operations experience</li><li>1+ years of production environment experience with Amazon Web Services (AWS)</li><li>1+ years using SQL databases (MySQL, Oracle, Postgres)</li><li>Scripting ability (Bash, Python, C++ a plus)</li><li>Strong Experience with CI/CD processes (Jenkins, Ansible) and automated configuration tools (Puppet/Chef/Ansible)</li><li>Experience with container orchestration (AWS ECS, Kubernetes, Marathon/Mesos)</li><li>Ability to work as part of a highly collaborative team</li><li>Understanding of monitoring tools like DataDog</li><li>Strong written and verbal communication skills</li></ul><p><strong>Nice to Have</strong></p><ul><li>You knew exactly what is meant by &quot;Turning pets into cattle&quot;</li><li>Experience working with Kubernetes on bare-metal and/or the AWS Elastic Kubernetes Service.</li><li>Experience with RabbitMQ, MongoDB, or Apache Kafka.</li><li>Experience with Presto or Apache Spark.</li><li>Familiarity with computation orchestration tools such as HTCondor, Apache Airflow, or Argo.</li><li>Understanding of network concepts- OSI layers, firewalls, DNS, split horizon DNS, VPN, routing, BGP, etc.</li><li>A deep understanding of AWS IAM, and how it interacts with S3 buckets.</li><li>Experience with SAFe.</li><li>Strong programming skills in 2+ languages.</li></ul>                </div>            <div>        <a href='https://grnh.se/0fa4887e1' rel='nofollow'>                        Apply now        </a></div>            <h4>About SecurityScorecard</h4>            <div><p><strong>About SSC</strong></p><p>At SecurityScorecard, we are revolutionizing the cyber security industry. Our platform has created a new category of enterprise software, which companies worldwide rely on to manage the cyber security posture of their vendors. We are on a mission to create a new language for companies and their partners to communicate, understand, and improve each other’s security posture.</p><p>Backed by Sequoia and Google Ventures, we are growing tremendously year over year. As we scale, so does our need for talent - if you are intellectually curious and excited by the idea of contributing to a high-growth startup, we’d love to talk to you.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Unlimited PTO</span>                            </li>                            <li>                                <span></span>                                <span>Health Benefits Starting Day One</span>                            </li>                            <li>                                <span></span>                                <span>401k</span>                            </li>                            <li>                                <span></span>                                <span>Education Stipend</span>                            </li>                            <li>                                <span></span>                                <span>Learning and Development</span>                            </li>                            <li>                                <span></span>                                <span>Stocked Kitchen</span>                            </li>                            <li>                                <span></span>                                <span>Remote Work Options</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ud1ZtQh-QsKULUHATELu9g",
+    "url": "https://jobmote.com/job/69073/remote-lead-devops-engineer/",
+    "title": "REMOTE Lead DevOps Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:bash/other/2",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=2, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 10:07:46 PM",
+    "validThrough": "Sep 7, 2019 10:07:46 PM",
+    "crawled": "Sep 5, 2019 3:06:25 AM",
+    "content": "<div>Minimum Required Skills:<br>Devops, AWS, SRE, SysAdmin, Docker, RDS, ElastiCache, Linux, Bash, Agile<br><br>If you are a Lead DevOps Engineer with 5+ years experience in a SysAdmin, DevOps, SRE or equivalent role? If so, please read on!<br><br>We have the least attrition of any company in the greater Los Angeles area and we offer an unparalleled culture on top of competitive pay, benefits and cutting edge technology. This role has the opportunity to be FULLY REMOTE. <br><br>This role will report to the Director of Platform Engineering, and will lead a growing team of high-performing engineers.<br><br>Top Reasons to Work with Us<br><br>Based in Glendale, we are digital data collection company that is setting a higher standard for data quality. Our company is rapidly-growing and we just moved into a beautiful new office. We provide the highest quality and most accurate consumer data to industry leaders in marketing, analytics, and brand. <br><br>We have the world's largest insight panels and our members actively participate in millions of surveys with advanced cross-reference &amp; multi-faceted behavioral data points. The information we provide allows clients to understand behavioral trends, create immersive experiences, and be the best.<br><br>What You Will Be Doing<br><br>-Report to the Director of Platform Engineering, lead a growing team of high-performing engineers <br>-Help define and enforce DevOps standards, procedures, and guidelines to improve the overall development process<br>-Provide technical leadership and guidance to both your team members and your peers<br>-Cultivate a modern DevOps culture throughout teams and establish performance metrics and processes<br>-Deploy and support high-performance, highly-available infrastructure on AWS<br>-Engage in service capacity planning and demand forecasting, software performance analysis and system tuning<br>-Conduct periodic on-call duties<br>-Own the day-to-day health, uptime, monitoring, and reliability of our cloud infrastructure<br>-Work closely with engineering and project management to develop tools and solutions<br>-Identify tactical issues and react to emerging areas of concern<br>-Identify unnecessary complexity and remove it<br><br>What You Need for this Position<br><br>Must-Have Skills: <br>- 5+ years experience in an SRE/SysAdmin, DevOps, or equivalent role<br>- 3+ years of production AWS experience, including but not limited to EC2, RDS, ElastiCache, S3, Auto Scale, ELB<br>- 2+ years of experience in technical leadership role managing DevOps in Agile environments (Scrum)<br>- Capability to program in at least one language (other than Bash), ideally Python, PHP or Java<br>- Solid knowledge of the Linux architecture<br><br>Nice to Have Skills: <br>- Experience with container stacks and orchestration (Docker, Kubernetes, Mesos, ECS, etc)<br>- Experience with Configuration Management tools such as Puppet, Chef, Salt, or Ansible<br>- Experience with Infrastructure as a Code framework such as Terraform<br>- Experience with Microservices<br>- Experience with application monitoring tools (DataDog, New Relic, SumoLogic, etc)<br>- Strong knowledge of core protocols and tech such as TCP/IP, HTTP, DNS, load balancers, distributed file systems, key-value and relational databases<br>- Experience with CI/CD tools and production code deployments<br><br>What's In It for You<br><br>- Competitive Salary<br>- Health, Dental &amp; Vision Insurance<br>- Flexible hours<br>- Overall engaging and fun atmosphereSo, if you are a Lead DevOps Engineer, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ZFQd6daORGay-67pq7ZSfA",
+    "url": "https://jobmote.com/job/69055/100-remote-opportunity-bmc-remedy-system-engineer/",
+    "title": "100 % Remote Opportunity BMC Remedy System Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Meridian Technologies, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 10:07:46 PM",
+    "validThrough": "Sep 7, 2019 10:07:46 PM",
+    "crawled": "Sep 5, 2019 3:06:25 AM",
+    "content": "<div><p>Job Title: Sr. BMC Remedy Systems Engineer (Remote Opportunity) <br>Location: Jacksonville, FL<br>Duration: 6+ Months <br>Interview Type: telephonic + skype </p> <p> <em> <strong>*****NO C2C.</strong></em></p> <p> <em> <strong>Only W2 Candidates without sponsorship.</strong></em> <em> <strong>(US Citizens, Green Card Holders)</strong></em></p> <p>Job Description: <br>Senior IT System Engineer- BMC Remedy Developer/Admin is responsible for monitoring, configuration, administration, troubleshooting and maintenance of the BMC Remedy Core Suite and other supporting BMC technologies. Provide technical support and troubleshoot problems and perform scripting/programming to ensure stable and efficient operation of technology solutions. Drive and implement automation enhancements and process improvement efforts, are assigned to multiple complex systems/applications. Lead initiatives, oversee work results, provide training and serve as a technical resource for other Systems Engineers.<br>Essential Functions:<br>Configures, and customizes software solutions using the BMC Remedy Action Request System (ARS) platform<br>Configures, and customizes software solutions using the BMC Remedy IT Service Management ITSM Suite (IM, PM, AM, CM, SLA, CMDB, SRM &amp; ADDM)<br>Designs and provides software solutions in ARS ensuring the process flow of the Remedy ITSM modules renders expectations in SmartIT/MYIT (Digital Workplace) UI<br>Experience with supporting the UI for the following BMC Products: Digital Workplace Advanced (DWPA), Smart IT, MY IT<br>Leverages the software development lifecycle to design, build, test, and implement solutions based on customers requirements <br>Assists in defining user requirements within the Remedy ITSM client applications<br>Develop custom applications and workflows to support the automation of manual and resource intensive business processes<br>Documents coding changes to be used for test and migration plans <br>Troubleshoots software bugs using client and server logging <br>Packages coding changes for releases to be migrated between the applicable environments, e.g., development, test and production<br>Provides the Operations and Maintenance Team system support, as needed<br>Performs standard administration system configuration<br>Works as part of a Team on customer engagements <br>May participate in Disaster Recovery planning and exercise <br>Preferred Work Experience:<br>7+ years related work experience or equivalent combination of transferable experience and education.<br>Preferred Education:<br>Bachelor's degree or equivalent combination of experience and education<br>Additional Required Qualifications:<br>Demonstrated proficiency and experience in design, implementation, monitoring and troubleshooting technical infrastructure or development or <br>equivalent combination of transferable experience and education<br>Extensive working knowledge of multiple technologies and their interfaces and integration<br>Creating and modifying objects using Developer Studio <br>Competent working in one or more environments highly integrated with an operating system<br>Experience with Data Migration Tool<br>Experience with Spoon <br>Experience implementing and administering/managing technical solutions in major, large-scale system implementations<br>High critical thinking skills to evaluate alternatives and present solutions that are consistent with business objectives and strategy<br>Ability to manage tasks independently and take ownership of responsibilities<br>Ability to learn from mistakes and apply constructive feedback to improve performance<br>Ability to adapt to a rapidly changing environment<br>Proven leadership abilities including effective knowledge sharing, conflict resolution, facilitation of open discussions, fairness and displaying appropriate <br>levels of assertiveness<br>Ability to communicate highly complex technical information clearly and articulately for all levels and audiences</p> <p>Additional Preferred Qualifications: <br>ITIL Foundations V3<br>BMC Certified AR System Developer 9.x or higher<br>Working knowledge of Configuration Management Database (CMDB), Smart Reporting and Analytics<br>Experience using Agile methodology<br>Comments for Suppliers: 100% Remote Acceptable</p> <p> </p> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "upKfwlN9Qji_QW2fPW2UJw",
+    "url": "https://jobmote.com/job/69083/devops-engineer-remote/",
+    "title": "DevOps Engineer - Remote!",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 10:07:47 PM",
+    "validThrough": "Sep 7, 2019 10:07:47 PM",
+    "crawled": "Sep 5, 2019 3:06:25 AM",
+    "content": "<div>Minimum Required Skills:<br>Devops, CI/CD, AWS, Ansible, Terraform, EC2, RDS, Puppet, Chef, Kubernetes<br><br>We are an established Cyber Security startup and are moving in a stage of stable and consistent growth. We have a wonderful work culture and environment, and modern mentality when it comes to hiring the best talent regardless of where you are located in the country. You can work from our offices, or you can work from home completely remotely!<br><br>If you are a DevOps Engineer with an Engineering background and are interested in a remote working opportunity, please read on! <br><br>*You'll find a series of questions in the application that we'll need you to complete, so please answer those thoroughly in your application.*<br><br>What You Will Be Doing<br><br>You'll be championing DevOps best practices among your coworkers, focusing on immutable containers, Infrastructure as Code, stateless applications, and software observability<br><br>You'll be setting up and managing project development and test environments, as well as software configuration management processes for the entire software development life cycle.<br><br>You'll be responsible for ensuring high availability, optimal latency and scalability, and overall performance of our product platforms<br><br>You'll automate production operations and monitoring platform issues.<br><br>You'll be working with AWS and a blend of managed services including RDS, ElastiCache, SQS, and managing hundreds of EC2 instances with Ansible and Terraform.<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and knowledge of:<br><br>- Devops<br>- CI/CD<br>- AWS<br>- Ansible<br>- Terraform<br>- EC2<br>- RDS<br>- Puppet<br>- Chef<br>- Kubernetes and container orchestration<br><br>We'd like to find a great candidate with an Engineering background. Ideally you've got a coding background before moving into DevOps and have experience writing code in at least 2 languages.So, if you are a DevOps Engineer with coding experience and would like to join a great remote team, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "aXxdwofpQMGr1J9UzKdrCQ",
+    "url": "https://jobmote.com/job/69080/devops-engineer-remote/",
+    "title": "DevOps Engineer - Remote!",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 10:07:47 PM",
+    "validThrough": "Sep 7, 2019 10:07:47 PM",
+    "crawled": "Sep 5, 2019 3:06:25 AM",
+    "content": "<div>Minimum Required Skills:<br>Devops, CI/CD, AWS, Ansible, Terraform, EC2, RDS, Puppet, Chef, Kubernetes<br><br>We are an established Cyber Security startup and are moving in a stage of stable and consistent growth. We have a wonderful work culture and environment, and modern mentality when it comes to hiring the best talent regardless of where you are located in the country. You can work from our offices, or you can work from home completely remotely!<br><br>If you are a DevOps Engineer with an Engineering background and are interested in a remote working opportunity, please read on! <br><br>*You'll find a series of questions in the application that we'll need you to complete, so please answer those thoroughly in your application.*<br><br>What You Will Be Doing<br><br>You'll be championing DevOps best practices among your coworkers, focusing on immutable containers, Infrastructure as Code, stateless applications, and software observability<br><br>You'll be setting up and managing project development and test environments, as well as software configuration management processes for the entire software development life cycle.<br><br>You'll be responsible for ensuring high availability, optimal latency and scalability, and overall performance of our product platforms<br><br>You'll automate production operations and monitoring platform issues.<br><br>You'll be working with AWS and a blend of managed services including RDS, ElastiCache, SQS, and managing hundreds of EC2 instances with Ansible and Terraform.<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and knowledge of:<br><br>- Devops<br>- CI/CD<br>- AWS<br>- Ansible<br>- Terraform<br>- EC2<br>- RDS<br>- Puppet<br>- Chef<br>- Kubernetes and container orchestration<br><br>We'd like to find a great candidate with an Engineering background. Ideally you've got a coding background before moving into DevOps and have experience writing code in at least 2 languages.So, if you are a DevOps Engineer with coding experience and would like to join a great remote team, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "E7aQX1DESRKs8wrew5wm1g",
+    "url": "https://jobmote.com/job/69077/devops-engineer-remote/",
+    "title": "DevOps Engineer - Remote!",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 10:07:47 PM",
+    "validThrough": "Sep 7, 2019 10:07:47 PM",
+    "crawled": "Sep 5, 2019 3:06:25 AM",
+    "content": "<div>Minimum Required Skills:<br>Devops, CI/CD, AWS, Ansible, Terraform, EC2, RDS, Puppet, Chef, Kubernetes<br><br>We are an established Cyber Security startup and are moving in a stage of stable and consistent growth. We have a wonderful work culture and environment, and modern mentality when it comes to hiring the best talent regardless of where you are located in the country. You can work from our offices, or you can work from home completely remotely!<br><br>If you are a DevOps Engineer with an Engineering background and are interested in a remote working opportunity, please read on! <br><br>*You'll find a series of questions in the application that we'll need you to complete, so please answer those thoroughly in your application.*<br><br>What You Will Be Doing<br><br>You'll be championing DevOps best practices among your coworkers, focusing on immutable containers, Infrastructure as Code, stateless applications, and software observability<br><br>You'll be setting up and managing project development and test environments, as well as software configuration management processes for the entire software development life cycle.<br><br>You'll be responsible for ensuring high availability, optimal latency and scalability, and overall performance of our product platforms<br><br>You'll automate production operations and monitoring platform issues.<br><br>You'll be working with AWS and a blend of managed services including RDS, ElastiCache, SQS, and managing hundreds of EC2 instances with Ansible and Terraform.<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and knowledge of:<br><br>- Devops<br>- CI/CD<br>- AWS<br>- Ansible<br>- Terraform<br>- EC2<br>- RDS<br>- Puppet<br>- Chef<br>- Kubernetes and container orchestration<br><br>We'd like to find a great candidate with an Engineering background. Ideally you've got a coding background before moving into DevOps and have experience writing code in at least 2 languages.So, if you are a DevOps Engineer with coding experience and would like to join a great remote team, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "byh1dNm-SQ6gIkhzm7R7lw",
+    "url": "https://jobmote.com/job/69070/devops-engineer-remote/",
+    "title": "DevOps Engineer - Remote!",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 10:07:46 PM",
+    "validThrough": "Sep 7, 2019 10:07:46 PM",
+    "crawled": "Sep 5, 2019 3:06:25 AM",
+    "content": "<div>Minimum Required Skills:<br>Devops, CI/CD, AWS, Ansible, Terraform, EC2, RDS, Puppet, Chef, Kubernetes<br><br>We are an established Cyber Security startup and are moving in a stage of stable and consistent growth. We have a wonderful work culture and environment, and modern mentality when it comes to hiring the best talent regardless of where you are located in the country. You can work from our offices, or you can work from home completely remotely!<br><br>If you are a DevOps Engineer with an Engineering background and are interested in a remote working opportunity, please read on! <br><br>*You'll find a series of questions in the application that we'll need you to complete, so please answer those thoroughly in your application.*<br><br>What You Will Be Doing<br><br>You'll be championing DevOps best practices among your coworkers, focusing on immutable containers, Infrastructure as Code, stateless applications, and software observability<br><br>You'll be setting up and managing project development and test environments, as well as software configuration management processes for the entire software development life cycle.<br><br>You'll be responsible for ensuring high availability, optimal latency and scalability, and overall performance of our product platforms<br><br>You'll automate production operations and monitoring platform issues.<br><br>You'll be working with AWS and a blend of managed services including RDS, ElastiCache, SQS, and managing hundreds of EC2 instances with Ansible and Terraform.<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and knowledge of:<br><br>- Devops<br>- CI/CD<br>- AWS<br>- Ansible<br>- Terraform<br>- EC2<br>- RDS<br>- Puppet<br>- Chef<br>- Kubernetes and container orchestration<br><br>We'd like to find a great candidate with an Engineering background. Ideally you've got a coding background before moving into DevOps and have experience writing code in at least 2 languages.So, if you are a DevOps Engineer with coding experience and would like to join a great remote team, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "DgyWpZX3T0O83Cp7A7KOJQ",
+    "url": "https://jobmote.com/job/69069/devops-engineer-remote/",
+    "title": "DevOps Engineer - Remote!",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 10:07:46 PM",
+    "validThrough": "Sep 7, 2019 10:07:46 PM",
+    "crawled": "Sep 5, 2019 3:06:25 AM",
+    "content": "<div>Minimum Required Skills:<br>Devops, CI/CD, AWS, Ansible, Terraform, EC2, RDS, Puppet, Chef, Kubernetes<br><br>We are an established Cyber Security startup and are moving in a stage of stable and consistent growth. We have a wonderful work culture and environment, and modern mentality when it comes to hiring the best talent regardless of where you are located in the country. You can work from our offices, or you can work from home completely remotely!<br><br>If you are a DevOps Engineer with an Engineering background and are interested in a remote working opportunity, please read on! <br><br>*You'll find a series of questions in the application that we'll need you to complete, so please answer those thoroughly in your application.*<br><br>What You Will Be Doing<br><br>You'll be championing DevOps best practices among your coworkers, focusing on immutable containers, Infrastructure as Code, stateless applications, and software observability<br><br>You'll be setting up and managing project development and test environments, as well as software configuration management processes for the entire software development life cycle.<br><br>You'll be responsible for ensuring high availability, optimal latency and scalability, and overall performance of our product platforms<br><br>You'll automate production operations and monitoring platform issues.<br><br>You'll be working with AWS and a blend of managed services including RDS, ElastiCache, SQS, and managing hundreds of EC2 instances with Ansible and Terraform.<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and knowledge of:<br><br>- Devops<br>- CI/CD<br>- AWS<br>- Ansible<br>- Terraform<br>- EC2<br>- RDS<br>- Puppet<br>- Chef<br>- Kubernetes and container orchestration<br><br>We'd like to find a great candidate with an Engineering background. Ideally you've got a coding background before moving into DevOps and have experience writing code in at least 2 languages.So, if you are a DevOps Engineer with coding experience and would like to join a great remote team, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "OepCg0--Q3-4uxP77JZJ8Q",
+    "url": "https://stackoverflow.com/jobs/293782/senior-devops-engineer-bluemodus?a=1AwzwG2I4Ave",
+    "title": "Senior DevOps Engineer at BlueModus  ",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``remot 16W timezon",
+      "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "BlueModus",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 75000,
+      "maxValue": 95000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 75k - 95k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 5, 2019 12:06:25 AM",
+    "validThrough": "Sep 12, 2019 12:06:25 AM",
+    "crawled": "Sep 5, 2019 12:06:25 AM",
+    "content": "<h3><span>Senior DevOps Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Digital Marketing, Web Development, Web Technology</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51–200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: BlueModus | No office location<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT-07:00) Mountain Time +/- 2 hours</span>                                </div>                                                                                                            </div>                    </div>                <h4>Technologies</h4><div></div><div>azure</div><div>asp.net-web-api</div><div>cloud</div>                <h4>Job description</h4>                <div><p><strong>What You Will Be Doing:</strong></p><ul><li>Work alongside the web development team to support transition and operation of its client web sites/applications in Microsoft Azure Cloud or client on-premise scenarios</li><li>Deploying, managing, and operating scalable, highly available, and fault-tolerant systems on Azure or client-owned systems</li><li>Selecting the appropriate Azure service based on compute, data, or security requirements</li><li>Identifying appropriate use of Azure operational best practices</li><li>Estimating Azure usage costs and identifying operational cost control mechanisms</li><li>Responsible for system updates, monitoring, troubleshooting, and providing end-user support</li><li>Provide production support and management for client cloud servers and environments</li><li>Develop scripts and tooling to automate build, software release, application deployment, and system and application management</li><li>Identify and roll out new infrastructure technologies and methodologies.</li><li>Liaise with 3rd party software and hardware vendors to manage and resolve incidents and technical issues</li><li>Documenting and keeping up-to-date standard operating procedures related to the duties of the position.</li></ul><p><strong>What You Need:</strong></p><ul><li>A genuine passion for technology</li><li>Ability to multitask and excellent time management skills</li><li>A desire to learn and grow technical knowledge</li><li>3+ years’ experience in a Cloud Administration, System Admin, Network Engineer and/or similar role</li><li>Experience working closely with the internal team and clients to understand the process of designing and implementing enterprise-class solutions based on the principles of redundancy, data integrity, security, and recoverability</li><li>Strong knowledge of Microsoft Technologies including</li><li>Experience with Microsoft Azure</li><li>Experience with DNS</li><li>Understanding of SQL / MySQL / NoSQL</li></ul><p><strong>What We’d Like To Find:</strong></p><ul><li>Experience working in an agency environment</li><li>Bachelor’s degree in computer science, computer or electronics engineering, information technology or related</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/293782?reset=False&amp;ra=1AwzwG2I4Ave&amp;oqs=a%3D1AwzwG2I4Ave' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About BlueModus</h4>            <div><p>In 2001, we started a company trying to bridge the gap between marketers needs and the latest technology. 16 years later we've become a consultative-first technology firm, bringing innovation and transparency to everything we do. We are proud to recently to have been named a Finalist for 2018 Best Places to Work by Denver Business Journal.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Competitive salary</span>                            </li>                            <li>                                <span></span>                                <span>Ample paid time off for holidays, vacation and flex days</span>                            </li>                            <li>                                <span></span>                                <span>Full health full benefits with medical, dental, vision and disability</span>                            </li>                            <li>                                <span></span>                                <span>Casual work environment</span>                            </li>                            <li>                                <span></span>                                <span>401(k) plan + employer match</span>                            </li>                            <li>                                <span></span>                                <span>Fully stocked kitchen, snack dispensers, catered lunches 4X a week</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work schedule, work from home &amp; remote options</span>                            </li>                            <li>                                <span></span>                                <span>Dog friendly office</span>                            </li>                            <li>                                <span></span>                                <span>Tuition reimbursement</span>                            </li>                            <li>                                <span></span>                                <span>Professional development opportunities with conferences &amp; training</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "taF7dMubRICvJfy8vWo2ag",
+    "url": "https://remoteok.io/jobs/74880",
+    "title": "Senior Type System Engineer",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:haskell/other/5",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:scala/java/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=1, go=3, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Luna",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 4, 2019 8:50:45 PM",
+    "validThrough": "Sep 11, 2019 8:50:45 PM",
+    "crawled": "Sep 4, 2019 9:30:30 PM",
+    "content": "<span></span> <span><h4>Luna</h4></span> <br> <h3>Senior Type System Engineer</h3> <div>  <div>   \\nSenior Type-System Engineer\\nLuna is looking for a senior type-system engineer to help build the next generation interpreter and runtime for Luna, a project said by Singularity University to have the potential to change the lives of one-billion people. If you have strong technical skills and a passion for all things compiler, then this role could be the one for you.\\n\\nAs a type-system engineer you'll work as part of the compiler team to design and implement Luna's new type system, including its underlying theory, type-checker, and inference engine. This wok is _intrinsic_ to Luna's evolution, and will provide you with the opportunity to collaborate with a world-class team of engineers, community managers, and business developers (with experience at Bloomberg, GitHub, PayPal, to name a few), making your mark on Luna's future.\\n\\nWhat You'll Do\\nAs a senior type-system engineer, you'll be working on the design and development of Luna's new type-system, in conjunction with the rest of the compiler team, to help support the language's evolution. This will involve:\\n\\n\\n* Determining and formalising the theoretical underpinnings of the new type system in a way as to ensure its soundness.\\n\\n* Both theoretical and practical treatments of the theory behind Luna's type system.\\n\\n* Working with the broader compiler team to implement the type-checking and type-inference engines as part of the greater interpreter.\\n\\n* Using the type-system's information to improve the interpreter's functionality and performance, as well as how it interacts with the users.\\n\\n\\n\\n\\nThe Skills We're Looking For\\nWe have a few particular skills that we're looking for in this role:\\n\\n\\n* Practical and rich experience writing code in a functional programming language such as Haskell or Scala, including experience with type-level programming techniques (3+ years).\\n\\n* Experience working with the theory behind powerful type systems, including row types, type-checking and type-inference algorithms, and dependently-typed systems.\\n\\n* Practical experience building real-world type-systems, including facilities for both type-checking and inference.\\n\\n* An awareness of the UX impacts of type-systems, and a willingness to minimise their often-intrusive nature.\\n\\n* Practical experience in building large and complex software systems.\\n\\n\\n\\n\\nIt would be a big bonus if you had:\\n\\n\\n* Experience writing Java and Scala code, as these will be used to implement the type-system.\\n\\n* Experience in writing comprehensive regression tests for both type-inference and type-checking systems.\\n\\n\\n\\n\\nAvoid the confidence gap. You don't have to match all of the skills above to apply!\\n\\nWho You'll Work With\\nYou'll be joining a distributed, multi-disciplinary team that includes people with skills spanning from compiler development to data-science. Though you'll have your area to work on, our internal culture is one of collaboration and communication, and input is always welcomed.\\n\\nWe firmly believe that only by working together, rather than putting our team members in their own boxes, can we create the best version of Luna that can be.\\n\\nThe Details\\nAs part of the Luna team you'd be able to work from anywhere, whether that be at home, or on the go! We have team members distributed across the world, from San Francisco, to London, to Kraków. We welcome remote work and flexible schedules, or you can work from the Kraków office (or our planned SF office) if you'd like. We can provide competitive compensation and holiday, as well as the possibility\\nof equity as time goes on.\\n\\nHow To Apply?\\nSend us an email at   <span>[email&nbsp;protected]</span>, and tell us a little bit about yourself and why you think you'd be a good fit for the role! You can also tell us about:\\n\\n\\n* Some of your past work or projects.\\n\\n* Why you'd like to work on Luna, and where you imagine Luna being in 5 years.\\n\\n* The most important features of a team that you'd like to work in.\\n\\n* Whether you take pride in your ability to communicate clearly and efficiently with your team.\\n\\n\\n  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "x-9aYxAzS-GXcf86JSar2g",
     "url": "https://remote.co/job/site-manager/",
     "title": "Site Manager",
@@ -9094,6 +9591,59 @@
     }
   },
   {
+    "id": "YiGn3HH6RFaMPOOUhY9cmw",
+    "url": "https://news.ycombinator.com/item?id=20643882",
+    "title": "Eurostaff Group | Mid-level developer REMOTE WORKING OFFERED- offices based in London - ...",
+    "tags": [
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(role,work) 4W OR(offic,headquart,onsit)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:techWeightMap:{python=20, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 8, 2019 2:31:13 PM",
+    "validThrough": "Aug 15, 2019 2:31:13 PM",
+    "crawled": "Aug 8, 2019 4:09:11 PM",
+    "content": "Eurostaff Group | Mid-level developer REMOTE WORKING OFFERED- offices based in London - permanent role<p>Tech stack- python, django, AWS...</p><p>Looking on behalf of an end to end sensor plus SaaS solutions company. They're using microsensors (software) to monitor and control things such as temp, proximity and touch. They then apply a variety of algorithms to the data that has been drawn to produce useful information.</p><p>User cases; monitor temperature in NHS drugs fridges - removes the need for nurses to monitor etc or a more complex and dynamic example might be using temp to identify desk occupancy in an office and provide stats such as peak usage etc. The same sensor can also be used for preventative maintenance  - e.g rising heat on servers in data centres. (AMB, Google Data Centre in Holland)</p><p>Major clients - late-stage angel investor, NHS, Verizon, Amazon through JLL, ABM (Google data centre in Holland) and they're in talks with Pret, Hello Fresh.</p><p>email CVs to s.athwain@eurostaffgroup.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "gcjXEKMiSWC9oF1bv5bDgw",
     "url": "http://workinstartups.com/job-board/job/83180/senior-infrastructure-engineer-cambridge-office-at-wegift/",
     "title": "Senior Infrastructure Engineer (Cambridge Office)",
@@ -9131,6 +9681,62 @@
     "validThrough": "Aug 14, 2019 5:50:26 PM",
     "crawled": "Aug 8, 2019 12:06:30 PM",
     "content": "<h3>Role</h3><br /><p>As a Senior Infrastructure Engineer you will help supporting our infrastructure needs and requirements as we continue to scale our business. You will be working closely with the CTO to ensure the company&rsquo;s infrastructure continues to be robust, secure, and scalable.</p><br /><h3>Responsibilities</h3><br /><ul><br /><li>Maintain and monitor all network, security and computer systems to meet the organization's current and future requirements.</li><br /><li>Responsible for management, maintenance and architecture of storage, virtualized environment, servers, network devices, and productivity tools.</li><br /><li>Monitor systems and identify performance issues proactively.</li><br /><li>Test all changes to networks, hardware, software, and hosted applications.</li><br /><li>Monitor service delivery compliance to budget, quality standards, customer and business stakeholder requirements.</li><br /><li>Cater to doing infrastructure coordination related to design and setup activities at different stages of a project.</li><br /><li>Maintain the necessary project plans and documentation of all system builds and modifications.</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Must haves</strong></p><br /><ul><br /><li>Over 10 years&rsquo; experience as an Infrastructure Engineer.</li><br /></ul><br /><ul><br /><li>Expert level of understanding of Linux with a focus on security.</li><br /><li>Experience with some configuration management tool like Saltstack to manage multiple servers (about 50).</li><br /><li>Expert level experience of managing AWS services.</li><br /><li>Deep understanding of Nginx server both as HTTP server and as a reverse proxy.</li><br /><li>Experienced in managing Squid Proxy Server.</li><br /><li>SMTP Server configuration.</li><br /><li>Advanced level of understanding of Postgres server configuration and replication. (Postgres replication knowledge is very desirable. Must have replication experience with at least one database server, for example, Oracle or MySql).</li><br /><li>Application cluster, failover and load balancing experience.</li><br /><li>Familiar with Google Compute Engine.</li><br /><li>Gunicorn, celery, MQ Rabbit and Python are a bonus.</li><br /><li>Zabbix or similar monitoring tools.</li><br /><li>Excellent communicator and collaborator with both technical and non-technical members of the team.</li><br /><li>Maintain a good working knowledge of current infrastructure and future trends.</li><br /></ul><br /><h3>What&rsquo;s in for you?</h3><br /><p>We believe there is a clear distinction between perks and benefits. Perks are easily replicable, whereas benefits are something that are unique to us. We have taken the time to tailor a number of them to fit our culture and ethos.</p><br /><h3>Compensation</h3><br /><ul><br /><li>&pound;50-100k (DOE)</li><br /></ul><br /><h3>Benefits</h3><br /><ul><br /><li>Pay reviews every 6 months to make sure we&rsquo;re paying market rate.</li><br /><li>Participation in the Employee Options pool so you get to own a piece of WeGift.</li><br /><li>Pension scheme (3% contribution)</li><br /><li>A minimum of 25 days holiday + bank holidays (we&rsquo;re not too descriptive about holidays so if you need more time off then just ask).</li><br /><li>Staff perks with WeGift brands - discounts of up to 12% on coffee, weekly groceries, holidays, the list is endless.</li><br /><li>Flexible hours and work from home when needed - yes, yes everyone says this but we do.</li><br /><li>WeRecognise, where we shine the spotlight on exceptional employees every month who in turn get a &pound;200 award in the eGift card of their choice.</li><br /><li>Personal development budget - well actually there is no budget as we don&rsquo;t believe in putting a cap on learning new things.</li><br /><li>Generous maternity and paternity packages to make sure you get to spend time with your new bundle of joy.</li><br /><li>Fully licensed as a tier 2 sponsor + relocation packages to help you get settled in.</li><br /></ul><br /><h3>Perks</h3><br /><ul><br /><li>A modern office on the Cambridge Science Park with lots of natural light</li><br /><li>A new laptop as standard - no one wants an old one when they need to be doing their best work + all the trimmings you need to get the perfect work setup.</li><br /><li>Catered lunch once a week.</li><br /><li>Monthly team socials (Escape Rooms, Karaoke - everyone gets a chance to choose what this looks like)</li><br /><li>Cycle to work scheme - save some &pound;&pound;&pound; on buying a bike</li><br /></ul><br /><p>&nbsp;</p><br /><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br /><p>&nbsp;</p><br /><p>Successful candidates will be contacted within two weeks.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "tn_02FwCQqC0BRD8i9_OBQ",
+    "url": "http://workinstartups.com/job-board/job/83178/lead-engineer-cambridge-office-at-wegift/",
+    "title": "Lead Engineer (Cambridge Office)",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/8",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python-developer/python/13",
+      "DBG_TECH1:k/t/w:sqlalchemy/python/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=29, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "WeGift",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 70000,
+      "maxValue": 90000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 70k - 90k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Aug 7, 2019 5:45:18 PM",
+    "validThrough": "Aug 14, 2019 5:45:18 PM",
+    "crawled": "Aug 8, 2019 12:06:30 PM",
+    "content": "<h3>Role</h3><br /><p>Writing clean, scalable and reusable code to deliver the features on the company roadmap.</p><br /><h3>Responsibilities</h3><br /><ul><br /><li>Leading a team to ensure we deliver clean, scalable, reusable and maintainable code.</li><br /><li>Designing technical solutions to solve business problems.</li><br /><li>Analysing, vetting and testing new technology choices.</li><br /><li>Participating in code reviews to maintain code quality and coaching other team members on best practise.</li><br /><li>Maintaining well documented release notes and change log.</li><br /><li>Developing back-end components to improve responsiveness and overall performance</li><br /><li>Integrating user-facing elements into applications</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Must haves</strong></p><br /><ul><br /><li>8+ years of strong python development experience.</li><br /><li>Good knowledge of HTML, JS and CSS and Linux is necessary.</li><br /><li>Strong experience of creating and using Web APIs.</li><br /><li>Experience of working with a relational database and preferably knowledge of one ORM like, for example, SqlAlchemy.</li><br /></ul><br /><p><strong data-redactor-tag=&quot;strong&quot;>Nice to haves</strong></p><br /><ul><br /><li>PostgreSQL</li><br /><li>Celery</li><br /><li>ES6+</li><br /><li>Flask (highly desired)</li><br /><li>Familiarity with Vue</li><br /><li>Payment or financial service experience</li><br /></ul><br /><h3>What&rsquo;s in for you?</h3><br /><p>We believe there is a clear distinction between perks and benefits. Perks are easily replicable, whereas benefits are something that are unique to us. We have taken the time to tailor a number of them to fit our culture and ethos.</p><br /><h3>Compensation</h3><br /><ul><br /><li>&pound;70-90k (DOE)</li><br /></ul><br /><h3>Benefits</h3><br /><ul><br /><li>Pay reviews every 6 months to make sure we&rsquo;re paying market rate.</li><br /><li>Participation in the Employee Options pool so you get to own a piece of WeGift.</li><br /><li>Pension scheme (3% contribution)</li><br /><li>A minimum of 25 days holiday + bank holidays (we&rsquo;re not too descriptive about holidays so if you need more time off then just ask).</li><br /><li>Staff perks with WeGift brands - discounts of up to 12% on coffee, weekly groceries, holidays, the list is endless.</li><br /><li>Flexible hours and work from home when needed - yes, yes everyone says this but we do.</li><br /><li>WeRecognise, where we shine the spotlight on exceptional employees every month who in turn get a &pound;200 award in the eGift card of their choice.</li><br /><li>Personal development budget - well actually there is no budget as we don&rsquo;t believe in putting a cap on learning new things.</li><br /><li>Generous maternity and paternity packages to make sure you get to spend time with your new bundle of joy.</li><br /><li>Fully licensed as a tier 2 sponsor + relocation packages to help you get settled in.</li><br /></ul><br /><h3>Perks</h3><br /><ul><br /><li>A modern office on the Cambridge Science Park with lots of natural light</li><br /><li>A new laptop as standard - no one wants an old one when they need to be doing their best work + all the trimmings you need to get the perfect work setup.</li><br /><li>Catered lunch once a week.</li><br /><li>Monthly team socials (Escape Rooms, Karaoke - everyone gets a chance to choose what this looks like)</li><br /><li>Cycle to work scheme - save some &pound;&pound;&pound; on buying a bike</li><br /></ul><br /><p><br />We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br /><p>&nbsp;</p><br /><p>Successful candidates will be contacted within two weeks.</p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -21093,352 +21699,6 @@
     "published": "Jul 6, 2019 10:07:13 PM",
     "validThrough": "Jul 9, 2019 10:07:13 PM",
     "crawled": "Jul 7, 2019 3:06:27 AM",
-    "content": "<div>\n REMOTE WORK IS OPTIONAL. If you are a Senior DevOps Engineer with experience using AWS, Kubernetes, Docker, Jenkins, Java/Spring, SQL/NoSQL, CI/CD, as well as maintained a PCI DSS compliant environment please read on!We are a mid-stage startup that delivers high performance mobile security and authentication software products.We're looking for a Senior DevOps Engineer who loves building brand new things. If you enjoy working with all the latest cutting edge technology, building new innovative products and be rewarded for your creativity and innovation, please read on!Top Reasons to Work with Us1. Ultra-fast growing mid-stage startup and we just signed our biggest deal to date!2. Work with latest, cutting edge technologies in mobile and payments 3. Build a revolutionary, industry leading product that secures and authenticates millions of financial and m-commerce mobile app users around the worldWhat You Will Be DoingWe are expanding JAVA applications for large payment networks, financial institutions, and e-commerce users. This application runs in a SaaS environment, as well as deployed on-premise at large financial institutions.Have knowledge of cloud computing (preferably AWS) operations and how to secure them.Have significant experience performing security design review of distributed systems and APIs.Play a key role in the development, deployment, and maintenance of automation tools that allows a variety of other engineering teams to work productively in the cloud (AWS)Take charge of configuring test environments and deploying applicationsUtilize PCI compliance requirements to ensure the new solutions and documentation are up to standardsAs a Senior DevOps Engineer you will be a piece of the core development team building out the next generation of our flagship product.Required SkillsDeep knowledge of cloud operational models and secure SaaS architecture in a world of containerized microservices.Knowledge of primary AWS services (EC2, ELB, RDS, Route53, S3, Lambda) and IAM implementation5+ years experience with AWS servicesExperience obtaining and maintaing a PCI DSS compliant produciton environment NO RECRUITERS ACCEPTED.This company is based in Nashville, TN with developers around the world. REMOTE WORK IS OPTIONAL.What's In It for YouCompetitive Base SalaryAttractive Equity PackageReally fun and exciting work atmosphere with a startup that has already passed the shaky phase and is now servicing major customers.So, If you are a Senior DevOps Engineer please apply today!\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Rvn-Gs_DT2KsoC0NiZ4xvg",
-    "url": "https://www.remoteage.com/remote-jobs/senior-devops-engineer-107/",
-    "title": "Senior DevOps Engineer",
-    "tags": [
-      "DBG:surround``2N( OR(employe,develop,engin,team,workmat), spread, OR(out,across) )",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Worldpay",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 6, 2019 3:09:24 PM",
-    "validThrough": "Jul 13, 2019 3:09:24 PM",
-    "crawled": "Jul 6, 2019 4:07:17 PM",
-    "content": "<h3> Senior DevOps Engineer </h3>\n<div>\n United Kingdom, London\n</div>\n<div>\n Company: Worldpay\n <p></p>\n</div>\n<div> \n <h4>Overview</h4> \n <p><strong>Why is our DevOps Core Engineering team the next step for you?</strong> </p>\n <p>Worldpay is continuing to invest heavily in its Engineering capabilities with agile development teams spread across the UK, Romania, America and India. We drive continual improvement (kaizen) and are always looking to remove waste, risk or inefficiency from the entire SDLC so that our teams can reach their full potential. Key to this is our adoption of the DevOps mind-set across all stakeholders – not just the development teams!</p>\n <p>In order to realise this strategy, Worldpay runs a centralised team that provide the core DevOps capabilities required by the organisation (the DOCET team). The team designs, builds, tests, releases and supports our CI/CD pipeline which is used by engineering teams to build and deploy production applications to on- and off-premise environments including public clouds (AWS). Containers are a vital part of this architecture.</p>\n <p>Most important of all – we believe that DevOps is a culture, not a team. As such members of the team are expected to evangelise our DevOps capabilities; helping other teams help themselves and always looking to empower stakeholders through self-service tooling. Our vision is a lightning-fast distributed development capability, constantly delivering business value and sharing solutions for the benefit of all.</p>\n <p> <strong>How will you contribute on a day-to-day basis?</strong> </p>\n <p>An opportunity has arisen for a Senior DevOps Engineer to join this team and assist in building the future of Worldpay’s delivery pipeline. You will work alongside other talented engineers to determine how best to meet the requirements of the business, and then turning that into a reliable, scalable and supported pipeline used by agile development teams across different business areas and geographical locations.<br>As a senior member of the team you will be expected to engage with stakeholders, provide technical leadership both within the team and to development teams starting on the DevOps journey, and should expect to take ownership for one or more of the tools that the team support.</p>\n <p> <strong>What will make you the right fit for the team?</strong> </p>\n <p>You will have extensive DevOps engineering and tools experience, as well as solid understanding of DevOps and Middleware implementations. Previous experience in DevOps design, engineering, implementation and support from a financial services organisation is ideal, and you will have experience with many of the following: CI/ CD pipelining, Ansible, Puppet, Chef High Availability and Disaster Recovery, Capacity Planning and Backup, Windows and Linux Administration, Application, Systems and Network Troubleshooting, Runbook Automation and Scripting, Application Performance Monitoring and Root Cause Analysis, Software Development Lifecycle, Infrastructure as a Service (IaaS), Amazon Web Service (AWS), User and Process Documentation, Unit, Performance and Integration Testing.</p>\n <p>You will have the ability to build strong relationships with business and technology stakeholders through open and honest dialogue. Knowledge of payment applications and services are ideal.</p>\n <p> <strong>How is Worldpay changing the world?</strong> </p>\n <p>Worldpay has merged with Vantiv Inc. to create a new global leader in payments. The new Worldpay will have the scale, the reach and the resources to take our success story to another level. This move allows us to expand further into high growth markets, deliver innovation at scale and above all, brings together exceptional talent and a shared passion that will help propel us forward to the next chapter of our collective story.</p>\n <p>Our technology enables billions of payments to be made each year whether online or in person. Working with customers large and small we help them to take payments quickly, safely and reliably, allowing them to grow their businesses and making your life more convenient in the process.</p>\n <p></p> \n <div> \n  <a href='https://www.jobg8.com/Traffic.aspx?VErAys6JIkGU%2bzCmviqJIQb' rel='nofollow'>Apply for job</a> \n </div> \n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "1phxP94RTUaCqPvNIvHM1g",
-    "url": "https://jobmote.com/job/47512/100-remote-devops-engineer/",
-    "title": "100% REMOTE Devops Engineer",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 5, 2019 10:07:14 PM",
-    "validThrough": "Jul 12, 2019 10:07:14 PM",
-    "crawled": "Jul 6, 2019 3:06:27 AM",
-    "content": "<div>\n Minimum Required Skills:\n <br>AWS, Linux, Terraform, Ansible, Devops\n <br>\n <br>If you are a Devops Engineer looking for 100% remote work, this is the job for you!\n <br>\n <br>We are a cloud consulting company who service clients all over the country. We are currently looking for Devops Engineer in the West Coast timezone to join our team in a 100% work from home role.\n <br>\n <br>The tools we primarily use are AWS, Linux, Terraform, and Ansible.\n <br>\n <br>If you've used these and are open to something new, apply now!\n <br>\n <br>What You Need for this Position\n <br>\n <br>At Least 3 Years of experience and knowledge of:\n <br>\n <br>- AWS\n <br>- Linux\n <br>- Terraform\n <br>- Ansible\n <br>- Devops\n <br>\n <br>What's In It for You\n <br>\n <br>- Vacation/PTO\n <br>- Dental\n <br>- Vision\n <br>- Medical\n <br>- Bonus\n <br>- 401k\n <br>- RelocationSo, if you are a 100% REMOTE Devops Engineer with experience, please apply today!\n <br>\n <br>Applicants must be authorized to work in the U.S.\n <br>\n <br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!\n <br>\n <br>Looking forward to receiving your resume and going over the position in more detail with you.\n <br>\n <br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.\n <br>\n <br>Looking forward to receiving your resume!\n <br>\n <br>CyberCoders\n <br>\n <br>CyberCoders, Inc is proud to be an Equal Opportunity Employer\n <br>\n <br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.\n <br>\n <br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\n <br>\n <br>CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.\n <br>\n <br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.\n <br> - provided by Dice\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "SwgttegOSLue2M1lXeBBtg",
-    "url": "https://jobmote.com/job/47506/remote-senior-devops-engineer-blockchain-security-startup/",
-    "title": "REMOTE Senior DevOps Engineer - Blockchain Security Startup",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:c++/c/8",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:scala/java/6",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=13, mobile=2, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=10, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/c",
-      "TECH1/java",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "c",
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 5, 2019 10:07:14 PM",
-    "validThrough": "Jul 12, 2019 10:07:14 PM",
-    "crawled": "Jul 6, 2019 3:06:27 AM",
-    "content": "<div>\n Minimum Required Skills:\n <br>AWS, Lambda, OWASP tools for penetration testing, Terraform, Ansible, Cloud Formation, Java, Scala, NIST Security guidelines\n <br>\n <br>Job Title: Senior 'DevSecOps' Engineer\n <br>Job Location: Menlo Park, CA or REMOTE\n <br>Salary Range: 150k-200k DOE + Equity\n <br>Required Skills: AWS, Lambda, Terraform, penetration testing, security\n <br>Nice To Have Skills: Blockchain/Cryptocurrency experience, Spark/Ignite\n <br>\n <br>Based in Menlo Park, CA - We are a well-funded, revolutionary Blockahin/Cryptocurrency security startup paving the way for cryptocurrency, crypto asset &amp; blockchain intelligence, analytics &amp; compliance. We provide blockchain analytics &amp; intelligence for financial investigations, anti-money laundering, counter-terrorist financing, verification of funds, audit and compliance. We received our 2nd round of funding last month ($15M ) and need to scale our engineering team!\n <br>\n <br>What You Will Be Doing\n <br>\n <br>- Enabling engineering team to deply product features\n <br>- Develop &amp; maintain CI/CD features\n <br>- Build highly scalable disributed systems on AWS\n <br>- Penetration Testing\n <br>\n <br>What You Need for this Position\n <br>\n <br>- BS or MS Degree in Computer Science highly preferred (not required)\n <br>- 3+ years of experience deploying highly scalable distributed systems on AWS\n <br>- Ability to write a Lambda function\n <br>- Programming experience with one of the following: Scala, Java, C/C++, Go\n <br>- DNS &amp; Networking\n <br>- NIST security guidelines\n <br>\n <br>BONUS experience:\n <br>- Passion for blockchain/cryptocurrency\n <br>- Apache Spark/Ignite\n <br>\n <br>What's In It for You\n <br>\n <br>- 100% REMOTE\n <br>- GREAT starting salary + benefits + 401k + PTO + EquitySo, if you are a Senior DevOps Engineer with experience, please apply today!\n <br>\n <br>Applicants must be authorized to work in the U.S.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!\n <br>\n <br>Looking forward to receiving your resume and going over the position in more detail with you.\n <br>\n <br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.\n <br>\n <br>Looking forward to receiving your resume!\n <br>\n <br>CyberCoders\n <br>\n <br>CyberCoders, Inc is proud to be an Equal Opportunity Employer\n <br>\n <br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.\n <br>\n <br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\n <br>\n <br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.\n <br> - provided by Dice\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "kZaWlcq_RTyf0dDA2AfcUw",
-    "url": "https://jobmote.com/job/47492/lead-devops-engineer-part-remote-working/",
-    "title": "Lead DevOps Engineer part remote working",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:k/t/w:velocity/java/8",
-      "DBG_TECH1:k/t/w:windows/dotnet/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=16, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "interAct Consulting Limited",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 5, 2019 10:07:13 PM",
-    "validThrough": "Jul 12, 2019 10:07:13 PM",
-    "crawled": "Jul 6, 2019 3:06:27 AM",
-    "content": "<div>\n A Lead DevOps Engineer sought after by Shoreditch based FinTech company where remote working and flexibility is encouraged throughout. \n <br>\n <br>Does complexity of both data and visualisation appeal? This opportunity would see you evaluating and selecting appropriate infrastructure solutions and seamlessly integrating them. Hand on and leading from the front you will work with AWS (Linux and Windows) using Terraform, Packer, Kubernetes and much more. \n <br>\n <br>Reporting directly into the board, you not only build the infrastructure but also a grow a team and strategy to go with.\n <br>\n <br>Innovation is key and as such, the stack is changing. Our client are moving away from a monolithic n-tier architecture towards microservices and embracing server less where it fits. As lead Engineer you will contribute to the design, build and operational management of highly scalable, secure and available infrastructure. As Lead, you will contribute to improve the company's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace using tools and automation to continuously improve our software development/deployment and infrastructure management processes.\n <br>\n <br>AWS, HAProxy, Terraform, Terraform Enterprise, Powershell, Packer, SumoLogic, AlertLogic, TeamCity, Octopus, SauceLab, Sentry, Grafana, New Relic, Serverless, Windows Servers, Linux, Kubernetes and more. \n <br>\n <br>Client interviewing immediately. Please apply now.\n <br>\n <br>\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Zjo_mH5XQ6CKlGZszaaLfg",
-    "url": "https://jobmote.com/job/47534/juniper-network-engineer-ii-remote/",
-    "title": "Juniper Network Engineer II - REMOTE",
-    "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Request Technology - Robyn Honquest",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 5, 2019 10:07:15 PM",
-    "validThrough": "Jul 12, 2019 10:07:15 PM",
-    "crawled": "Jul 6, 2019 3:06:27 AM",
-    "content": "<div>\n <p>Juniper Consultant</p> \n <p>Location: Lincolnshire, IL</p> \n <p>Selling Point: </p>\n <p>This project does not start until (July end) will last for 6 months to 1 year. Must be Juniper JNCIE-DC certified. This is a support and troubleshooting role not an architect role. NSX is a plus would prefer local to drive in to meeting 2 times a month but open to remote with 10% travel.</p> \n <p>We have a project with a client who owns two very large Juniper Data Centers. We need a resource for 6 months to a year that can assist with the daily support the Juniper Network infrastructure as the client migrates from NSX-V into NSX-t (NSX is out of the scope, but previous experience integrating Juniper and NSX is a plus)</p> \n <p>Can you help us with a resource with the following experience:</p> \n <ul>\n  <li>Juniper JNCIE-DC Certified</li> \n </ul>\n <p>Experience with:</p> \n <ul>\n  <li>Juniper QFX 10008, QFX10002 (72Q and 60Q)</li> \n  <li>Juniper MX480, and MX240</li> \n  <li>EVPN, VXLAN, MP-BGP</li> \n  <li>MPLS-Based Layer 3 VPNs</li> \n  <li>Some Experience with VMWare NSX over Juniper underlay</li> \n </ul>\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Tk0A8RpARCCg4Z8-lRbo2w",
-    "url": "https://jobmote.com/job/47533/juniper-network-engineer-ii-remote/",
-    "title": "Juniper Network Engineer II - REMOTE",
-    "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Request Technology - Robyn Honquest",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 5, 2019 10:07:15 PM",
-    "validThrough": "Jul 12, 2019 10:07:15 PM",
-    "crawled": "Jul 6, 2019 3:06:27 AM",
-    "content": "<div>\n <p>Juniper Consultant</p> \n <p>Location: Lincolnshire, IL</p> \n <p>Selling Point: </p>\n <p>This project does not start until (July end) will last for 6 months to 1 year. Must be Juniper JNCIE-DC certified. This is a support and troubleshooting role not an architect role. NSX is a plus would prefer local to drive in to meeting 2 times a month but open to remote with 10% travel.</p> \n <p>We have a project with a client who owns two very large Juniper Data Centers. We need a resource for 6 months to a year that can assist with the daily support the Juniper Network infrastructure as the client migrates from NSX-V into NSX-t (NSX is out of the scope, but previous experience integrating Juniper and NSX is a plus)</p> \n <p>Can you help us with a resource with the following experience:</p> \n <ul>\n  <li>Juniper JNCIE-DC Certified</li> \n </ul>\n <p>Experience with:</p> \n <ul>\n  <li>Juniper QFX 10008, QFX10002 (72Q and 60Q)</li> \n  <li>Juniper MX480, and MX240</li> \n  <li>EVPN, VXLAN, MP-BGP</li> \n  <li>MPLS-Based Layer 3 VPNs</li> \n  <li>Some Experience with VMWare NSX over Juniper underlay</li> \n </ul>\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "YYE5IM9NT_SfMb-d_adL1A",
-    "url": "https://jobmote.com/job/47500/senior-devops-engineer-cloud-aws-remote-is-ok/",
-    "title": "Senior DevOps Engineer - Cloud / AWS (REMOTE IS OK)",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
-      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:spring/java/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=12, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/java",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "mSIGNIA",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 5, 2019 10:07:14 PM",
-    "validThrough": "Jul 12, 2019 10:07:14 PM",
-    "crawled": "Jul 6, 2019 3:06:27 AM",
     "content": "<div>\n REMOTE WORK IS OPTIONAL. If you are a Senior DevOps Engineer with experience using AWS, Kubernetes, Docker, Jenkins, Java/Spring, SQL/NoSQL, CI/CD, as well as maintained a PCI DSS compliant environment please read on!We are a mid-stage startup that delivers high performance mobile security and authentication software products.We're looking for a Senior DevOps Engineer who loves building brand new things. If you enjoy working with all the latest cutting edge technology, building new innovative products and be rewarded for your creativity and innovation, please read on!Top Reasons to Work with Us1. Ultra-fast growing mid-stage startup and we just signed our biggest deal to date!2. Work with latest, cutting edge technologies in mobile and payments 3. Build a revolutionary, industry leading product that secures and authenticates millions of financial and m-commerce mobile app users around the worldWhat You Will Be DoingWe are expanding JAVA applications for large payment networks, financial institutions, and e-commerce users. This application runs in a SaaS environment, as well as deployed on-premise at large financial institutions.Have knowledge of cloud computing (preferably AWS) operations and how to secure them.Have significant experience performing security design review of distributed systems and APIs.Play a key role in the development, deployment, and maintenance of automation tools that allows a variety of other engineering teams to work productively in the cloud (AWS)Take charge of configuring test environments and deploying applicationsUtilize PCI compliance requirements to ensure the new solutions and documentation are up to standardsAs a Senior DevOps Engineer you will be a piece of the core development team building out the next generation of our flagship product.Required SkillsDeep knowledge of cloud operational models and secure SaaS architecture in a world of containerized microservices.Knowledge of primary AWS services (EC2, ELB, RDS, Route53, S3, Lambda) and IAM implementation5+ years experience with AWS servicesExperience obtaining and maintaing a PCI DSS compliant produciton environment NO RECRUITERS ACCEPTED.This company is based in Nashville, TN with developers around the world. REMOTE WORK IS OPTIONAL.What's In It for YouCompetitive Base SalaryAttractive Equity PackageReally fun and exciting work atmosphere with a startup that has already passed the shaky phase and is now servicing major customers.So, If you are a Senior DevOps Engineer please apply today!\n</div>",
     "place1": {
       "locality": "UNSET",
