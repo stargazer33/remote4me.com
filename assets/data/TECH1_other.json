@@ -1983,56 +1983,6 @@
       "region": "UNSET",
       "country": "UNSET"
     }
-  },
-  {
-    "id": "tYh5dmWlSUCxG_JT_70QtQ",
-    "url": "https://remote.co/job/backend-engineer-17/",
-    "title": "Backend Engineer",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:elixir/other/15",
-      "DBG_TECH1:k/t/w:haskell/other/5",
-      "DBG_TECH1:k/t/w:ocaml/other/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=25, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "Nash.io",
-      "sameAs": "https://nash.io/"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 16, 2019 6:03:15 PM",
-    "validThrough": "Jul 23, 2019 6:03:15 PM",
-    "crawled": "Jul 16, 2019 6:23:53 PM",
-    "content": "<h3>Backend Engineer at <span>Nash.io</span></h3>\n<div>\n <span><i></i> Remote</span> | \n <span> International </span>\n</div>\n<div> \n <p><strong>REMOTE</strong></p>\n <p><strong>ENGINEERING</strong></p>\n <p><strong>FULL-TIME</strong></p>\n <p>Our goal at NEX is to make trading, holding, and interacting with cryptocurrencies accessible to everyone. We are looking for backend engineers (remote) to help build our exchange matching engine, settlement layer, and APIs. You should be well versed in Elixir or a similar functional programming language and have a passion for test-driven development.</p>\n <p><strong>Requirements</strong></p>\n <ul>\n  <li>Develop modular code and reusable components for the NEX exchange matching engine, settlement layer, and APIs.</li>\n  <li>Document your work thoroughly so that others can work with and build upon it.</li>\n  <li>Engage in test-driven development practices.</li>\n  <li>Work asynchronously with a fully remote team</li>\n </ul>\n <p><strong>We are looking for</strong></p>\n <ul>\n  <li>1+ years experience working with Elixir.</li>\n  <li>Experience with Phoenix 1.3 and ExUnit testing.</li>\n  <li>Extensive knowledge of Git.</li>\n  <li>Experience with other functional programming languages such as OCaml or Haskell.</li>\n </ul>\n <p><strong>We prefer but don’t require</strong></p>\n <ul>\n  <li>Experience working in remote teams.</li>\n  <li>A history of contributing to open source software.</li>\n  <li>Experience working with OTP, Ecto, and Plug.</li>\n  <li>Familiarity with Elixir typespecs.</li>\n  <li>Experience managing cloud provider services (e.g., AWS GCP)</li>\n </ul> \n</div>\n<div> \n <a href='https://jobs.lever.co/nash.io/1928193c-a2d8-47a4-a392-a99987d597a8' rel='nofollow'>Apply for job</a> \n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
   }
 ]
 }

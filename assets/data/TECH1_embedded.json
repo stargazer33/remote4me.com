@@ -1521,61 +1521,6 @@
       "region": "UNSET",
       "country": "UNSET"
     }
-  },
-  {
-    "id": "Ou75Uxn8QLyRDr8jcATaVQ",
-    "url": "https://unicornhunt.io/jobs/software-developer-at-karakuri-ltd",
-    "title": "Software Developer",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG_TECH1:k/t/w:embedded-linux/embedded/8",
-      "DBG_TECH1:k/t/w:embedded/c/6",
-      "DBG_TECH1:k/t/w:embedded/embedded/48",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:typescript/frontend/1",
-      "DBG_TECH1:k/t/w:typescript/nodejs/1",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=6, mobile=1, go=0, nodejs=1, bigdata-ml=2, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=56, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/embedded",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "embedded"
-    ],
-    "hiringOrganization": {
-      "name": "Karakuri Ltd",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 16, 2019 11:57:19 AM",
-    "validThrough": "Jul 23, 2019 11:57:19 AM",
-    "crawled": "Jul 16, 2019 12:07:21 PM",
-    "content": "<p>Want to work with Robots and Food? We certainly do. Come and join a small and passionate team who are building robots for the restaurant and food industries and having a lot of fun along the way.</p>\n<p>We’re a small and friendly team working across robotics, mechatronics, software and down into embedded systems.</p>\n<p>In this role, you’ll be a key part of our software development team. You’ll be helping us create a complete system around our robotic machines. You’ll be responsible both for your modules as well as how they integrate up into the wider architecture. But don’t worry - even if you’re not directly working on robot control, we’ll still let you play with the robots.</p>\n<p>We’re looking for someone who is excited by food, robots and software and is fascinated by what can happen when we mix them according to our secret recipe...</p> \n<p><strong>What problem will you be solving?</strong></p>\n<p>We’re building a large distributed system, which spans from the cloud all the way down to processing embedded into our dispensers and sensors.</p>\n<p>You’ll be responsible for working on an area of this, which could vary from Back end software for scheduling and restaurant operations, robot control software all the way through to consumer-facing software interfaces, both in-restaurant and on the web.</p>\n<p><strong>What will you be doing?</strong></p>\n<ul>\n <li>Working on our distributed software systems to connect customers, robots and restaurants trough code.</li>\n <li>Contributing to our architecture and helping design new solutions</li>\n <li>Ensuring that everything we do is secure, robust and fits with our wider architecture</li>\n <li>Working effectively within the wider community of Karakuri’s customers, partners and 3rd Parties.</li>\n</ul>\n<strong>What we need you to have</strong> \n<ul>\n <li>2-5 years of industry experience shipping products, preferably in the robotics, IoT, Machine Learning or Embedded OS space</li>\n <li>Application development experience in at least one higher level language (e.g. Python, TypeScript, Java, …)</li>\n <li>Bachelor’s Degree in a technical area (or equivalent work experience)</li>\n <li>Experience building end-to-end systems, from embedded software to the cloud</li>\n <li>Be available to work in the UK (unfortunately we are not yet able to sponsor visas).</li>\n</ul>\n<p><strong>What we’d like you to be</strong></p>\n<ul>\n <li>An inventive and out-of-box thinker, with strong interpersonal skills</li>\n <li>A self-starter, who can take charge of what needs doing and work effectively in a global, distributed team</li>\n <li>Able to work across disciplines, understanding requirements from both hardware and software teams as well as customer needs</li>\n <li>Strong written and verbal communication skills in English.</li>\n</ul>\n<p><strong>It would be a bonus if you have</strong></p>\n<ul>\n <li>Familiarity with robotic software development environments</li>\n <li>Embedded and cloud development capabilities</li>\n <li>Experience with TDD processes and a strong sense for quality</li>\n <li>Understanding of micro-services and decentralised systems</li>\n <li>Experience developing and debugging connected applications utilising Real-Time Operating Systems (RTOS). Embedded Linux is a plus.</li>\n</ul> \n<h4><b>Benefits</b><br></h4>\n<p>As well as being a fun place to work, we also offer a competitive salary and the following perks:</p>\n<ul>\n <li>Company Stock option scheme</li>\n <li>Bonus scheme</li>\n <li>Good contributory pension</li>\n <li>Vitality Health Insurance - giving you discounted gym membership plus many more rewards</li>\n <li>Most importantly, monthly social events!</li>\n <li>And you’ll get to play with our robots...</li>\n</ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
   }
 ]
 }
