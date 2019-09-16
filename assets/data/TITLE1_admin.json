@@ -1,6 +1,236 @@
 {
  "items": [
   {
+    "id": "DDuaF0OCRQOwfOXz50s46Q",
+    "url": "http://workinstartups.com/job-board/job/84465/site-reliability-engineer-at-snowplow-analytics/",
+    "title": "Site Reliability Engineer",
+    "tags": [
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:air/frontend/8",
+      "DBG_TECH1:k/t/w:air/mobile/8",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=4, other=6, dotnet=0, c=0, mobile=9, go=8, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TECH1/mobile",
+      "TITLE1/admin",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "go",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "Snowplow Analytics",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 16, 2019 5:18:02 PM",
+    "validThrough": "Sep 23, 2019 5:18:02 PM",
+    "crawled": "Sep 16, 2019 6:23:28 PM",
+    "content": "<div class=&quot;section page-centered&quot;><br /><div><strong>Site Reliability Engineer&nbsp;(AWS)</strong></div><br /><div><strong>Remote, ideally located in the UTC -4 to -6 region&nbsp;</strong></div><br /><div>&nbsp;</div><br /><div>Snowplow enables you to track any event data; ask any question of that data and use any tool you want to answer it. We want to empower people and companies to do transformative things using data.&nbsp;</div><br /><div>&nbsp;</div><br /><div>As a company, we have almost doubled in size over the last 18 months and we&rsquo;re not looking to slow down. To support our growth, we are now looking for an SRE (Site Reliability Engineer) to join our Tech Ops Team. You&rsquo;ll be taking the lead on all things AWS including development and improvements of the current stack and rolling out new features - all whilst keeping these environments running smoothly. We would love to hear from you if the idea of programmatically controlling thousands of production environments excites you!.</div><br /><div>&nbsp;</div><br /><div><strong>The Opportunity:&nbsp;</strong></div><br /><div>Our Private SaaS offering has grown significantly over the past year and we now orchestrate and monitor Snowplow event pipelines across more than 150 customer-owned AWS &amp; GCP sub-accounts.&nbsp; Each account has its own individualised and optimised stack and all are capable of processing many billions of events per month.</div><br /><div>&nbsp;</div><br /><div>We are looking for another SRE to help us grow to managing 1,000 and then 10,000 AWS, GCP &amp; Azure accounts. You will be pioneering solutions to managing estates of this size through cutting edge monitoring and automation. You&rsquo;ll work closely with our Tech Ops Lead on all aspects of our proprietary deployment, orchestration and monitoring stacks.</div><br /><div>&nbsp;</div><br /><div>Tech Ops has two areas of responsibility: the centralised services we provide customers and their pipeline infrastructure hosted in their own AWS or GCP accounts.&nbsp; Within both domains we are striving to increase service reliability, fulfil customer requests in a timely fashion, and automate recurring tasks.&nbsp; Task automation is essential as our customer base grows, because our infrastructure estate scales linearly with our customer numbers, unlike most software businesses.</div><br /><div>&nbsp;</div><br /><div>The challenge of automating the maintenance and deployment of thousands of individualised stacks is an enormously ambitious undertaking and a hugely exciting infrastructure automation challenge!</div><br /><div>&nbsp;</div><br /><div><strong>The environment you&rsquo;ll be working in:</strong></div><br /><div>Our company values are Transparency, Honesty, Ownership, Inclusivity, Empowerment, Customer-centricity, Growth and Technical Excellence. These aren&rsquo;t just words we plucked out of thin air, we came up with them together as a company and are continually looking to find new ways to weave these into our day to day operations. From flexible hours and working locations to the way we give feedback, we&rsquo;re passionate about building a company that supports both company and individual development.</div><br /><div>&nbsp;</div><br /><div><strong>What you&rsquo;ll be doing:</strong></div><br /><div>Maintaining and developing our growing Terraform infrastructure-as-code stacks which we use to deploy infrastructure for all internal and client use cases</div><br /><div>Maintaining our internal infrastructure stacks which include the HashiCorp suite as well as our Snowplow Insights UI and VPNs</div><br /><div>Participating in our on-call rotation to help us serve our client base 24/7</div><br /><div>Taking rotations of L3 Technical Support where you will be responsible for triaging and dealing with infrastructure issues</div><br /><div>Handling high-severity internal or customer incidents, ensuring we meet all SLAs</div><br /><div>&nbsp;</div><br /><div><strong>What you bring to the team:</strong></div><br /><div>Has worked with AWS in a production capacity - experience in GCP and/or Azure is a bonus</div><br /><div>Has worked with Terraform, CloudFormation or some form of infrastructure-as-code tooling</div><br /><div>Any experience with the HashiCorp stack (Vault, Consul, Nomad) and understanding their role in infrastructure automation is a bonus</div><br /><div>Has worked with Docker and is familiar with container-based architectures</div><br /><div>Knowledgeable about the Linux operating system and how to manage servers in a production capacity</div><br /><div>Knowledgeable about Cloud networking principles and how to troubleshoot issues in this space</div><br /><div>Comfortable scripting in one or more of: Bash, Python, Ruby or Perl</div><br /><div>Comfortable programming in one or more of: Java, Scala, Golang or Python</div><br /><div>&nbsp;</div><br /><div><strong>What you&rsquo;ll get in return</strong></div><br /><div>A competitive package based on experience, including share options</div><br /><div>25 days of holiday a year (plus bank holidays)</div><br /><div>MacBook or Dell XPS 13/15</div><br /><div>Two fantastic company Away Weeks in a different European city each year (the last one was in May 2019 in Lisbon)</div><br /><div>Work alongside a supportive and talented team with the opportunity to work on cutting edge technology and challenging problems</div><br /><div>Grow and develop in a fast-moving, collaborative organisation</div><br /><div>Enjoy fun events in and around London organised by our Cultural Work Committee</div><br /><div>If based in London, convenient office location in central London (Shoreditch) and a continuous supply of Pact coffee and healthy snacks</div><br /><div>&nbsp;</div><br /></div><br /><div class=&quot;section page-centered&quot;><br /><div><em>Snowplow is dedicated to building and supporting a brilliant, diverse and hugely inclusive team. We don't discriminate against gender, race, religion or belief, disability, age, marital status or sexual orientation. Whatever your background may be, we welcome anyone with talent, drive and emotional intelligence.</em></div><br /></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Uy1Zt3ibT-277CiH40Hl5g",
+    "url": "https://stackoverflow.com/jobs/282539/site-reliability-engineer-for-growing-uk-startup-snowplow-analytics?a=1wKNwcALkwUw&so_medium=Talent&so_source=TalentApi",
+    "title": "Site Reliability Engineer for growing UK startup based in US or Canada at Snowplow Analytics  ",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:air/frontend/8",
+      "DBG_TECH1:k/t/w:air/mobile/8",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=6, other=6, dotnet=0, c=0, mobile=9, go=8, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/go",
+      "TECH1/mobile",
+      "TITLE1/admin",
+      "TZ/America/East"
+    ],
+    "tagsNames1": [
+      "US East time zone"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "go",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "Snowplow Analytics",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 16, 2019 6:23:01 PM",
+    "validThrough": "Sep 23, 2019 6:23:01 PM",
+    "crawled": "Sep 16, 2019 6:23:02 PM",
+    "content": "<h3><span>Site Reliability Engineer for growing UK startup based in US or Canada</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>System Administrator</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Customer Data Platform, Data &amp; Analytics, Mobile Analytics</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Snowplow Analytics | No office location<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT-05:00) Eastern Time +/- 2 hours</span>                                </div>                                                                                                            </div>                    </div>                <h4>Technologies</h4><div></div><div>amazon-web-services</div><div>terraform</div><div>amazon-cloudformation</div><div>docker</div><div>python</div>                <h4>Job description</h4>                <div><p><strong>Site Reliability Engineer&nbsp;(AWS)</strong></p><p><strong>Remote, ideally located in the UTC -4 to -6 region&nbsp;</strong></p><p>Snowplow enables you to track any event data; ask any question of that data and use any tool you want to answer it. We want to empower people and companies to do transformative things using data.&nbsp; As a company, we have almost doubled in size over the last 18 months and we’re not looking to slow down.</p><p>To support our growth, we are now looking for an SRE (Site Reliability Engineer) to join our Tech Ops Team. You’ll be taking the lead on all things AWS including development and improvements of the current stack and rolling out new features - all whilst keeping these environments running smoothly. We would love to hear from you if the idea of programmatically controlling thousands of production environments excites you!</p><p><strong>The Opportunity:&nbsp;</strong></p><p>Our Private SaaS offering has grown significantly over the past year and we now orchestrate and monitor Snowplow event pipelines across more than 150 customer-owned AWS &amp; GCP sub-accounts.&nbsp; Each account has its own individualised and optimised stack and all are capable of processing many billions of events per month.</p><p>We are looking for another SRE to help us grow to managing 1,000 and then 10,000 AWS, GCP &amp; Azure accounts. You will be pioneering solutions to managing estates of this size through cutting edge monitoring and automation. You’ll work closely with our Tech Ops Lead on all aspects of our proprietary deployment, orchestration and monitoring stacks.</p><p>Tech Ops has two areas of responsibility: the centralised services we provide customers and their pipeline infrastructure hosted in their own AWS or GCP accounts.&nbsp; Within both domains we are striving to increase service reliability, fulfil customer requests in a timely fashion, and automate recurring tasks.&nbsp; Task automation is essential as our customer base grows, because our infrastructure estate scales linearly with our customer numbers, unlike most software businesses.</p><p>The challenge of automating the maintenance and deployment of thousands of individualised stacks is an enormously ambitious undertaking and a hugely exciting infrastructure automation challenge!</p><p><strong>The environment you’ll be working in:</strong></p><p>Our company values are Transparency, Honesty, Ownership, Inclusivity, Empowerment, Customer-centricity, Growth and Technical Excellence. These aren’t just words we plucked out of thin air, we came up with them together as a company and are continually looking to find new ways to weave these into our day to day operations. From flexible hours and working locations to the way we give feedback, we’re passionate about building a company that supports both company and individual development.</p><p><strong>What you’ll be doing:</strong></p><ul><li>Maintaining and developing our growing Terraform infrastructure-as-code stacks which we use to deploy infrastructure for all internal and client use cases</li><li>Maintaining our internal infrastructure stacks which include the HashiCorp suite as well as our Snowplow Insights UI and VPNs</li><li>Participating in our on-call rotation to help us serve our client base 24/7</li><li>Taking rotations of L3 Technical Support where you will be responsible for triaging and dealing with infrastructure issues</li><li>Handling high-severity internal or customer incidents, ensuring we meet all SLAs</li></ul><p><strong>What you bring to the team:</strong></p><ul><li>Has worked with AWS in a production capacity - experience in GCP and/or Azure is a bonus</li><li>Has worked with Terraform, CloudFormation or some form of infrastructure-as-code tooling</li><li>Any experience with the HashiCorp stack (Vault, Consul, Nomad) and understanding their role in infrastructure automation is a bonus</li><li>Has worked with Docker and is familiar with container-based architectures</li><li>Knowledgeable about the Linux operating system and how to manage servers in a production capacity</li><li>Knowledgeable about Cloud networking principles and how to troubleshoot issues in this space</li><li>Comfortable scripting in one or more of: Bash, Python, Ruby or Perl</li><li>Comfortable programming in one or more of: Java, Scala, Golang or Python</li></ul><p><strong>What you’ll get in return:</strong></p><ul><li>A competitive package based on experience, including share options 25 days of holiday a year (plus bank holidays)</li><li>MacBook or Dell XPS 13/15</li><li>Two fantastic company Away Weeks in a different European city each year (the last one was in May 2019 in Lisbon)</li><li>Work alongside a supportive and talented team with the opportunity to work on cutting edge technology and challenging problems</li><li>Grow and develop in a fast-moving, collaborative organisation</li><li>Enjoy fun events in and around London organised by our Cultural Work Committee</li><li>If based in London, convenient office location in central London (Shoreditch) and a continuous supply of Pact coffee and healthy snacks</li></ul>                </div>            <div>        <a href='https://jobs.lever.co/snowplowanalytics/0469b933-9d16-49aa-bc83-ffdaf1839c03?lever-origin=applied&amp;lever-source%5B%5D=StackOverflow' rel='nofollow'>                        Apply now        </a></div>            <h4>About Snowplow Analytics</h4>            <div><p>We have an office located in London but believe in letting our team members choose where they work best so nearly half of the company currently works remotely. We offer flexibility, trust and freedom.</p><p>We're looking for a Site Reliability Engineer to join our fully remote TechOps team.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>A competitive package, including share options</span>                            </li>                            <li>                                <span></span>                                <span>MacBook Pro</span>                            </li>                            <li>                                <span></span>                                <span>25 days holiday plus bank holidays</span>                            </li>                            <li>                                <span></span>                                <span>Freedom to work wherever suits you best</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours</span>                            </li>                            <li>                                <span></span>                                <span>Two fantastic company Away Weeks a year (last one was in Madrid)</span>                            </li>                            <li>                                <span></span>                                <span>Convenient Shoreditch office location</span>                            </li>                            <li>                                <span></span>                                <span>Regular fun events organised by our Cultural Works Committee</span>                            </li>                            <li>                                <span></span>                                <span>Improve coding skills with our Software Development Guild</span>                            </li>                            <li>                                <span></span>                                <span>Regular meetups/team offsites</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "nSlBFNNdRq6XMgm33Im33A",
+    "url": "http://workinstartups.com/job-board/job/84406/product-ops-and-strategy-intern-at-flexy-health/",
+    "title": "Product, Ops and Strategy Intern",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``OR(thrive,benefit,comfort,hour) 3N 2N(remot,work)",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Flexy Health",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 2,
+      "maxValue": 2,
+      "info": "",
+      "unit": "WEEK",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 2 /Week"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 13, 2019 5:42:54 PM",
+    "validThrough": "Sep 20, 2019 5:42:54 PM",
+    "crawled": "Sep 16, 2019 12:06:34 PM",
+    "content": "<p><strong>Product, Ops &amp; Strategy Intern</strong></p><br /><p>Flexy Health provides 24/7 AI-assisted support for preventing and managing behavioural conditions. Our first product is an intelligent assistant for what you eat, recommending recipes and food-to-go tailored to your location, goals, lifestyle, and budget.</p><br /><p>We&rsquo;re early stage and trying to establish product-market fit before raising a seed round in a few months, so it&rsquo;s the perfect time to join if you&rsquo;re looking for a challenge and a rare opportunity to join a UK healthtech startup in the early days.</p><br /><p>You&rsquo;ll work together with our Founder on some of our toughest challenges across product development and operations. You'll employ your experiences, creativity, and keen eye for detail alongside the Founder's experiences gained in startups, strategy consulting, and as a qualified personal trainer. Expect a style that's focused, very human, open to challenge, and down-to-earth.</p><br /><p><strong>Here&rsquo;s what we&rsquo;re expecting from you:</strong></p><br /><ul><br /><li>Are hyper-dependable when it comes to getting stuff done</li><br /><li>Show flawless attention to detail</li><br /><li>Understand how to manage your time and communicate progress and challenges - no bad surprises</li><br /><li>Demonstrate a solid level of Google Sheets</li><br /><li>Are quick to upskill with unfamiliar programmes (e.g., Airtable, Coda, Trello)</li><br /><li>Show a deep interest in health and wellbeing</li><br /></ul><br /><p><strong>It&rsquo;d also be great if you:</strong></p><br /><ul><br /><li>Have experience and interest in nutrition / nutritional science specifically</li><br /><li>Have worked in another early stage startup / on your own idea, side hustle or business</li><br /></ul><br /><p><strong>Location:</strong></p><br /><ul><br /><li>Rocketspace (by Angel tube station) or remote possible</li><br /></ul><br /><p><strong>Working hours and pay:</strong></p><br /><ul><br /><li>2 days per week, flexible on which days</li><br /><li>Travel and lunch expenses plus &pound;50 daily stipend</li><br /></ul>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "1T7kWfilTXygsOviLsqXOQ",
+    "url": "https://jobmote.com/job/74053/100-remote-senior-devops-engineer/",
+    "title": "100% Remote Senior Devops Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Jobspring Partners",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 160000,
+      "maxValue": 160000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 160k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 15, 2019 10:07:41 PM",
+    "validThrough": "Sep 18, 2019 10:07:41 PM",
+    "crawled": "Sep 16, 2019 3:06:24 AM",
+    "content": "<div><p>An exciting EdTech company based in the DC metro area is hiring for a 100% remote Senior level DevOps/Operations engineer to manage their high availability cloud footprint. Their software/platform provides cutting edge, patent pending tools for teachers to impact students in the classroom. 40% of all teachers in the US are currently users of their product suite and they take impacting kids education very seriously. They have world leaders and foundations as their investors, and became profitable this year. This person will work with a talented team of software developers and QA to manage the AWS environment, build CI/CD pipelines, automate where possible and innovate where necessary. They are looking for an engineer capable of continuing their 99.8% up time track record while still finding ways of improving the environment. Therefore, they are looking for an engineer with extensive Linux experience who is great at problem solving and can think outside of the box. The ideal candidate would also have experience with scripting, automation and a good understanding of the cloud. Any docker or kubernetes is a major plus!</p><p>This is a Full-Time role, with competitive compensation and benefits which includes affordable healthcare, disability insurance, 401(k) match and training budget. </p> <p><b>Required Skills &amp; Experience</b></p> 6+ years of Linux EngineeringExtensive AWS knowledgeAutomation (Chef, Salt, Ansible)scripting with Ruby on Rails or PythonKnowledge of Cloud technologies <p>Desired Skills &amp; Experience</p> DockerKubernetes <p><b>What You Will Be Doing</b></p> <p>Tech Breakdown</p> 60% AWS40% Automation/Orchestration/CI/CD <p>Daily Responsibilities</p> 100% Hands On <p><b>The Offer</b></p> Competitive Salary: Up to $160K/year, DOE <p>You will receive the following benefits:</p> Health, Vision, &amp; Dental InsuranceFlexible Spending Accounts401(k)PTO &amp; Holidays Offstock options  <p>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.</p> <p>This position does not offer sponsorship.</p> <p>Jobspring Partners, part of the Motion Recruitment network, provides IT Staffing Solutions (Contract, Contract-to-Hire, and Direct Hire) across 10 major North American markets. Our unique expertise in today's highest demand tech skill sets, paired with our deep networks and knowledge of our local technology markets, results in an exemplary track record with candidates and clients.</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "Ga3Rugb2ToCpu3ftJR2iEA",
     "url": "https://jobmote.com/job/73860/terraform-devops-engineer-remote/",
     "title": "Terraform DevOps Engineer / Remote",
@@ -21923,327 +22153,6 @@
     "validThrough": "Jul 20, 2019 10:07:21 PM",
     "crawled": "Jul 18, 2019 3:06:25 AM",
     "content": "<div>\n <b>DevOps Automation Engineer - AWS Partner- 100% REMOTE - $110K</b>\n <br> Our client, a Premier AWS Partner is seeking a 100% Remote DevOps Automation Engineer to join their growing DevOps team. We're looking for candidates from a good programming background (specifically either Python, Ruby, Java or C#) and experience working within an AWS DevOps environment. You will be responsible for implementing automation solutions that help speed increase the speed of my clients customer's ability to deliver features to production\n <br>\n <b>Tasks to be Performed:</b>\n <ul>\n  <li>Integrate, Automate and Migrate on premise applications to AWS.</li>\n  <li>At least 1-2 years of programming experience in either of Python, Java, Ruby or C#</li>\n  <li>Familiarity with complete suite of AWS Services, with particular in those that are heavily used when providing DevOps Automation solutions, including tools like CloudFormation, EC2, Route53, S3, etc.</li>\n  <li>2-5+ years of technical experience in either development, operations, or full-stack implementations</li>\n  <li>Frequent and comfortable use of configuration management automation tools such as Chef. Puppet or Ansible creating continuous delivery systems</li>\n </ul>\n <b>Desired Skills:</b>\n <ul>\n  <li>Strong experience working with AWS environment</li>\n  <li>Advanced skill set in programming in Python, Java or Ruby</li>\n  <li>Expertise in containerization with Docker or Kubernetes</li>\n  <li>Experience building pipeline with CI/CD tools Jenkins</li>\n  <li>AWS Professional Certification</li>\n </ul> Interviews have already begun so if you are interested in applying or know someone who is please contact Vishank Mehta immediately at [Click Here to Email Your Resum?] with an updated resume, or call .\n <br> Jefferson Frank is the global leader for Amazon Web Services recruitment, advertising more AWS and DevOps jobs than any other agency. We deal with both AWS Partners &amp; End Users throughout North America. By specializing solely in placing candidates in the AWS and DevOps market I have built relationships with most of the key employers in North America and have an unrivalled understanding of where the best opportunities and AWS / DevOps jobs are. \n <br> I understand the need for discretion and would welcome the opportunity to speak to any Amazon Web Services candidates that are considering a new career or job either now or in the future. Confidentiality is of course guaranteed. For information on the AWS market and some of the opportunities and AWS jobs that are available I can be contacted on . Please see for more fantastic Amazon Web Services opportunities!\n <br>\n <br>Jefferson Frank. is acting as an Employment Agency in relation to this vacancy. \n <br> AWS/DevOps/AWS DevOps/Amazon Web Services/ Engineer/Austin/Java / Python / Ruby / Jenkins/Docker/Leadership/Automation/\n <br>\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "8aVrR2mUSfOEB9-fGyS5zg",
-    "url": "https://www.remotepython.com/jobs/b5403bc903bb4595a25b0347b89a9fd6/",
-    "title": "Python/DevOps Engineer at Mozio Inc",
-    "tags": [
-      "DBG:surround``2N(anywher, remot)",
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:django/python/16",
-      "DBG_TECH1:k/t/w:python/python/10",
-      "DBG_TECH1:techWeightMap:{python=26, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Mozio Inc",
-      "sameAs": "https://www.mozio.com/"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 17, 2019 10:31:14 PM",
-    "validThrough": "Jul 24, 2019 10:31:14 PM",
-    "crawled": "Jul 17, 2019 10:31:14 PM",
-    "content": "<h3>Python/DevOps Engineer</h3>San Francisco, United States\n<br>Company: Mozio Inc\n<br>Job Type:&nbsp;Full-time&nbsp;Contract\n<div> \n <div> \n </div> \n <p></p>\n <p>Come help us integrate APIs &amp; build out our backend stack. We run on Python, MySql &amp; Redis with Celery and RabbitMQ.</p>\n <p>The ideal candidates will have solid principles of software design, infrastructure and DevOps on AWS, and a demonstrated ability to get things done. A proactive nature, resourcefulness, and ability to figure new things out are key assets in this role.</p>\n <p>Successful candidates will have experience in Python/Django or other python or MVC frameworks for at least 2 years. Having a Degree is a big plus.</p>\n <p>In exchange for their long hours and hard work, Mozio's engineering team members earn competitive salaries, equity, the ability to work remotely from anywhere, and a flexible vacation policy.</p>\n <p>We have a rigorous recruiting process so you will be working with only the best, and we can promise that you will be able to use the best new technologies and will be constantly intellectually stimulated.</p>\n <p>Mozio offers great leadership opportunities and flexibility to individuals who demonstrate an ability to get things done.</p>\n <p>Combine that with a &quot;flat&quot; organizational culture and lack of bureaucracy, and what's not to love?</p>\n <p>Salary and equity are flexible and based on experience, location and other factors.</p>\n <p></p> \n <h4>Desired Skills</h4> \n <ul> \n  <li><span>Django</span></li> \n </ul> \n <h4>How to Apply</h4> \n <p></p>\n <p>Send your CV at recruiting@mozio.com</p>\n <p></p> \n <h4>Contact Info</h4> \n <ul> \n  <li><strong>Contact Name:</strong> Julieta Raineri</li> \n  <li><strong>Contact Email:</strong> <a href='mailto:recruiting@mozio.com' rel='nofollow'>recruiting@mozio.com</a></li> \n  <li><strong>Company Website:</strong> <a href='https://www.mozio.com/' rel='nofollow'>https://www.mozio.com/</a></li> \n </ul> \n</div>\n<a href='https://angel.co/company/mozio/jobs/99544-python-devops-engineer' rel='nofollow'>Apply</a>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "5VrIPQ6RSoSoX3usWlGcow",
-    "url": "https://jobmote.com/job/50149/remote-sr-aws-devops-automation-engineer/",
-    "title": "Remote Sr. AWS DevOps Automation Engineer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:ruby/ruby/4",
-      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=0, bigdata-ml=0, ruby=4, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TECH1/python",
-      "TECH1/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java",
-      "python",
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "Jefferson Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 16, 2019 10:07:21 PM",
-    "validThrough": "Jul 19, 2019 10:07:21 PM",
-    "crawled": "Jul 17, 2019 3:06:25 AM",
-    "content": "<div>\n Remote Sr. AWS DevOps Automation Engineer\n <br> Permanent $140 - $155k\n <br> Jefferson Frank is looking for a permanent Sr. DevOps Automation Engineer with a heavy development/programming background and extensive CI/CD experience. The majority of this role will be spent on development and automation. This role will require 25% travel.\n <br> Required knowledge of\n <ul>\n  <li>AWS</li>\n  <li>Python, Java, Ruby or Node</li>\n  <li>Jenkins or Git</li>\n  <li>Puppet, Ansible or Chef</li>\n  <li>Kubernetes or Docker</li>\n  <li>CloudFormation or Terraform </li>\n </ul> If you're interested in learning more, send your resume to [Click Here to Email Your Resum?] or give me a call at .\n <br> Jefferson Frank is the global leader for Amazon Web Services recruitment, advertising more AWS and DevOps jobs than any other agency. We deal with both AWS Partners &amp; End Users throughout North America. By specializing solely in placing candidates in the AWS and DevOps market I have built relationships with most of the key employers in North America and have an unrivalled understanding of where the best opportunities and AWS / DevOps jobs are. \n <br>\n <em>US Citizens and all parties authorized to work in the US are encouraged to apply. </em>\n <br>\n <em>Jefferson Frank is the global leader for Amazon Web Services recruitment, advertising more AWS and DevOps jobs than any other agency. We deal with both AWS Partners &amp; End Users throughout North America. By specializing solely in placing candidates in the AWS and DevOps market I have built relationships with most of the key employers in North America and have an unrivalled understanding of where the best opportunities and AWS / DevOps jobs are. </em>\n <br>\n <br>AWS, Python, Java, Ruby or Node, Jenkins or Git, Puppet, Ansible, Chef, Kubernetes, Docker, CloudFormation, Terraform\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ryDiLJhwTjCO2sYEtfkwGw",
-    "url": "https://jobmote.com/job/50148/remote-devops-engineer/",
-    "title": "Remote DevOps Engineer",
-    "tags": [
-      "DBG:surround``5N( opportun,             2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Nigel Frank International",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 16, 2019 10:07:21 PM",
-    "validThrough": "Jul 19, 2019 10:07:21 PM",
-    "crawled": "Jul 17, 2019 3:06:25 AM",
-    "content": "<div>\n <b>** REMOTE DEVOPS ENGINEER OPPORTUNITY ** </b>\n <br>\n <br>Interested in working for a leading AWS Premier Consulting Partner? \n <br> Looking for the flexibility to work remotely? \n <br> Due to the rate of growth from this company, they are looking to expand their development teams. With a number of exciting projects lined up they are looking for DevOps Engineer to play a major role in driving these projects forward. \n <br> You will have a number of responsibilities working within the development and infrastructure of the systems, whilst working closely with the rest of the development team. \n <br> This opportunity offers a highly competitive salary,along side benefits such as Medical, 401k etc. \n <br> The successful candidate will have:\n <ul>\n  <li>Experience as a devops engineer</li>\n  <li>Experience working with AWS</li>\n  <li>Experience working with the likes of Python, Jenkins, Ansible etc. </li>\n  <li>Strong Communication and leadership skills </li>\n </ul> To find out more about this exciting role, or other AWS &amp; Azure opportunities contact Sian on or email [Click Here to Email Your Resum?]\n <br>\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "oh2s88vDSmqBnwZs2nX1BA",
-    "url": "https://jobmote.com/job/50147/fully-remote-cloud-engineer/",
-    "title": "Fully Remote Cloud Engineer",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Jefferson Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 16, 2019 10:07:21 PM",
-    "validThrough": "Jul 19, 2019 10:07:21 PM",
-    "crawled": "Jul 17, 2019 3:06:25 AM",
-    "content": "<div>\n Fully Remote AWS Cloud Engineer: \n <br> What you will do:\n <ul>\n  <li>Architect and develop applications to leverage cloud native systems across several languages and frameworks</li>\n  <li>Build continuous delivery pipelines that orchestrate, build, test and deploy containerized applications</li>\n  <li>Provide guidance on container orchestration systems including Kubernetes</li>\n  <li>Mentor engineers to develop their cloud skills and expertise</li>\n </ul> Ideal candidates will have:\n <ul>\n  <li>Application development with GO, Java, JavaScript and Python</li>\n  <li>Build systems such as Jenkins or GitLab</li>\n  <li>Experience designing Infastructure as Code with Terraform, Ansible, Puppet or Chef</li>\n </ul> If interested please call Stefanie at and email your CV to [Click Here to Email Your Resum?] . My client is scheduling interviews as early as tomorrow so if interested please reach out ASAP.\n <br>\n <br>Jefferson Frank is the global leader for Amazon Web Services recruitment, advertising more AWS and DevOps jobs than any other agency. We deal with both AWS Partners &amp; End Users throughout North America. By specializing solely in placing candidates in the AWS and DevOps market I have built relationships with most of the key employers in North America and have an unrivalled understanding of where the best opportunities and AWS / DevOps jobs are. I understand the need for discretion and would welcome the opportunity to speak to any Amazon Web Services candidates that are considering a new career or job either now or in the future. Confidentiality is of course guaranteed. Please see for more fantastic Amazon Web Services opportunities!\n <br>\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "OrcTRyUQQ7qpD0QmUGdc9g",
-    "url": "https://jobmote.com/job/50144/aws-senior-devops-engineer-boston-remote-flex-160-000/",
-    "title": "AWS Senior DevOps Engineer - Boston, Remote Flex - $160,000",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:artifactory/java/5",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:spring-boot/java/8",
-      "DBG_TECH1:k/t/w:spring/java/8",
-      "DBG_TECH1:techWeightMap:{python=4, other=1, dotnet=0, c=0, mobile=2, go=0, nodejs=1, bigdata-ml=8, ruby=2, apple=0, java=25, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Jefferson Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 16, 2019 10:07:21 PM",
-    "validThrough": "Jul 19, 2019 10:07:21 PM",
-    "crawled": "Jul 17, 2019 3:06:25 AM",
-    "content": "<div>\n URGENT DevOps Roles in Boston\n <br>\n <br>I'm working with Start-up, Biotech and Data Analytic companies in the Boston area that is seeking a Sr. DevOps Engineers to join and help grow their US teams! See information below and call me today for more information!\n <br>\n <br>\n <b>*sponsorship &amp; relocation not available*</b>\n <br>\n <br>Responsibilities:\n <ul>\n  <li>Work collaboratively with Software Development team to deploy and scale microservices</li>\n  <li>Build and deploy processes as part of a Continuous Integration pipeline</li>\n  <li>Keep up with a fast, agile environment while remaining efficient and organized</li>\n  <li>Lead DevOps initiatives across the US and work with the team overseas</li>\n  <li>Eventually build out a team of your own DevOps Engineers and act as Lead</li>\n </ul> Requirements:\n <ul>\n  <li>AWS (S3, EC2, Lambda, Route53, RDS, ELK, VPC, IAM, etc.)</li>\n  <li>Terraform, CloudFormation is secondary</li>\n  <li>Kubernetes (building and deploying clusters from scratch) and Docker</li>\n  <li>CI/CD (Jenkins, Artifactory, ConcourseCI)</li>\n  <li>Hands on coding experience with Java &amp; Spring Boot, Python, or Javascript</li>\n  <li>DNS load balancing with nginx, RESTful and GraphQL concepts</li>\n  <li>Administration supporting SaaS systems with GSuite, Jira, GitHub or Slack</li>\n </ul>Jefferson Frank is the global leader for Amazon Web Services recruitment, advertising more AWS and DevOps jobs than any other agency. We deal with both AWS Partners &amp; End Users throughout North America. By specializing solely in placing candidates in the AWS and DevOps market I have built relationships with most of the key employers in North America and have an unrivalled understanding of where the best opportunities and AWS / DevOps jobs are.\n <br> If you are interested in this opportunity or any other with Amazon Web Services please e-mail your CV and contact details to Audrey Griego at [Click Here to Email Your Resum?] or call x 3139\n <br>\n <br>AWS / DevOps / Linux / AWS DevOps / AWS Partners / Amazon Web Services / On premise / Hybrid Cloud / Ansible / Puppet / Chef / Salt / CloudFormation / Terraform / Python / Bash / Ruby / Java / Linux / ELK Stack / ElasticSearch / Logstash / Kibana\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "eQVcOW9cQra-AlZPX9t6IA",
-    "url": "https://jobmote.com/job/50133/linux-cloud-operations-engineer-direct-hire-remote/",
-    "title": "Linux Cloud Operations Engineer- Direct Hire- Remote",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:iis/dotnet/8",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:lamp/php/13",
-      "DBG_TECH1:k/t/w:maven/java/13",
-      "DBG_TECH1:k/t/w:perl/other/5",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:tomcat/java/16",
-      "DBG_TECH1:techWeightMap:{python=2, other=6, dotnet=8, c=0, mobile=2, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=33, gamedev=0, php=13, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Vaco Technology",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 16, 2019 10:07:21 PM",
-    "validThrough": "Jul 19, 2019 10:07:21 PM",
-    "crawled": "Jul 17, 2019 3:06:25 AM",
-    "content": "<div>\n <br>\n <br>\n <p>Vaco is looking for a fully remote Linux Cloud Operations Engineer for our client.</p>\n <br>\n <p>The Linux Cloud Operations Engineer is responsible for effective provisioning, installation/configuration, operation, and maintenance of systems, software and related infrastructure. This individual participates in technical research and development to enable continuing innovation within the infrastructure. This individual ensures that operating systems, software systems, and related procedures adhere to organizational values, enabling customers, staff, and partners.</p>\n <br>\n <p><strong>Responsibilities:</strong></p>\n <br>\n <ul>\n  <li><br></li>\n  <li>Build, maintain, and support production and non-production servers within AWS<br></li>\n  <li>Lead server-related maintenance such as patching, account maintenance, backups, and security permissions<br></li>\n  <li>Monitor server security, perform routine security assessments, and manage software update services<br></li>\n  <li>Daily system monitoring, verifying the integrity and availability of all hardware, server resources, systems and key processes, reviewing system and application logs, and verifying completion of scheduled jobs such as backups<br></li>\n  <li>Triage and resolve Production incidents related to the cloud platform and the applications that run there<br></li>\n  <li>Participate in root cause analysis and post mortem discussions<br></li>\n  <li>Build effective monitoring, alerts, and metrics for production services and applications<br></li>\n  <li>Ensure system scalability, redundancy, and failover mechanisms are working and tested<br></li>\n  <li>Provide support to Development and QA teams around automation and CI/CD pipeline<br></li>\n  <li>Provide support for application deployments<br></li>\n  <li>Assist in testing changes in lower environments to ensure solution is as desired<br></li>\n  <li>Provide assistance in maintaining compliance with password resets, access reviews, remediation of Operational Incidents and MSIs<br></li>\n  <li>Develop and document processes to support ongoing development, change control, and production maintenance<br></li>\n  <li>Provide after-hours support as needed<br></li>\n </ul>\n <br>\n <p><strong>Job Requirements:</strong></p>\n <br>\n <ul>\n  <li><br></li>\n  <li>3+ years of experience maintaining complex, secure Java/LAMP systems in AWS<br></li>\n  <li>5+ years Linux System Administration experience<br></li>\n  <li>Experience administering web servers running Apache, Tomcat, IIS, Nginx<br></li>\n  <li>Solid knowledge of AWS platform and its services - including but not limited to: AMIs, Route53, VPC, EC2, S3, IAM, AWS CLI, EBS, ELB, SQS, CloudWatch, CloudTrail<br></li>\n  <li>Hands on experience in AWS provisioning of systems, securing of VPC, implementation of Security Groups, Identity and Access Management, Backups, Restore and Disaster Recovery<br></li>\n  <li>Experience with Docker/Kubernetes and container orchestration<br></li>\n  <li>Experience deploying Infrastructure as Code using configuration orchestration tools such as Terraform or CloudFormation<br></li>\n  <li>Experience with CICD pipelines (e.g. Maven / circleCI)<br></li>\n  <li>Experience with Git, Bitbucket or GitHub<br></li>\n  <li>Experience with system health and performance monitoring tools (CloudWatch, SolarWinds, Nagios, SumoLogic, Splunk)<br></li>\n  <li>Networking experience including IPsec, VPN, DNS, certificate management, load balancing, firewalls and routing<br></li>\n  <li>Some programming / scripting experience (Java, Perl, Ruby, Python, bash)<br></li>\n  <li>Bachelor's degree in Information Technology or related technical field or equivalent experience in a technical position<br></li>\n </ul> - provided by Dice\n</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
