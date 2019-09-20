@@ -1,6 +1,328 @@
 {
  "items": [
   {
+    "id": "Qqp6UJ5UQha9rSiqk8SAPw",
+    "url": "https://www.remotepython.com/jobs/e63fe776b1284ddeb7210c1b129e327f/",
+    "title": "Senior Python Backend Developer at Worthy Peer Capital",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``can 2W remot",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=14, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Worthy Peer Capital",
+      "sameAs": "https://worthybonds.com"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 20, 2019 9:07:26 AM",
+    "validThrough": "Sep 27, 2019 9:07:26 AM",
+    "crawled": "Sep 20, 2019 9:07:26 AM",
+    "content": "<h3>Senior Python Backend Developer</h3>Boca Raton, FL, United States<br>Company: Worthy Peer Capital<br>Job Type:&nbsp;Full-time<div>                              <div>                      </div>                    <p></p><h5>Who we are</h5><p>We are Worthy - and so are you! We want to democratize capital by making money more accessible for those who need to borrow it and by making investments with strong returns available to those who would like a better financial future.</p><p>We want to help people grow a nest egg even if they think they can’t… and to do it while supporting Main Street, not Wall Street!</p><p>Our first product is a free micro-investment app that helps you save &amp; grow your money – a dollar at a time. It monitors your everyday spending and rounds up each transaction to a whole dollar. It then automatically invests every $10 into a 5% interest earning Worthy Bond, which in turn supports small creditworthy businesses across the U.S., helping to strengthen our local communities.</p><p>We are a remote-first company with offices in sunny Boca Raton, Florida. We avoid the noise of Slack, but we use Twist, Keybase and Confluence to keep in sync. We're on Gitlab to take advantage of their integrated CI/CD pipeline (we love continuous stuff!) and issue tracker.</p><h5>Who you are</h5><p>You’re an experienced backend web developer who has worked for 5+ years on a few production web apps and APIs at scale. Experience working on financial or accounting applications preferred.</p><p>You use Python on a daily basis for various tasks, from APIs to scheduled tasks and maintenance scripts.</p><p>You can design and implement an API and future-proof it. You have a strong opinion on whether APIs should be versioned in the URI or in a response header, and can defend that opinion. You know how to upgrade an API while keeping it backwards-compatible for older clients.</p><p>You’re aware of which data fits best in a relational database and which in a document-oriented one. You can use a framework-provided ORM, but can also jump in and fine-tune SQL queries when needed. You know enough database management to create and maintain an efficient schema in PostgreSQL, indexes and all.</p><p>You’re experienced enough to avoid most bugs and programming errors, but you use tools such as linters and write unit &amp; integration tests to catch all the others.</p><p>You can secure both internal and public-facing APIs using different methods, including one-time passwords (TOTP) for two-factor authentication. You consider security and privacy when designing any new features or reviewing existing code.</p><p>Most importantly, you can communicate clearly and efficiently in writing, as well as in online video/audio calls. You can handle the async (over)communication requirements of a remote-first environment and can manage your own time and productivity.</p><p>For everyone’s sake, you develop on either OS X or a Linux flavor. We don’t do windows.</p><p>You are eligible to legally work in the U.S. as a full-time employee. Given the role's responsibilities, this is a hard requirement, even though we will have other positions where we can hire more liberally. Note that this doesn't require actual presence in the U.S. (expats welcome!).</p><h5>What you’ll do</h5><p>We’ve build a solid, stable serverless API using Zappa on AWS Lambda. Our infrastructure is mostly managed via Terraform and our deployments are one-click, thanks to Gitlab’s CI/CD pipelines. While we rely on third parties for some key features, we’ve never had any downtime caused by anything we wrote.</p><p>Concretely, you’ll help build new business features as we grow our offerings. You will help us trim our backlog and keep technical debt in check. Since we already have robust test coverage, you will help maintain that by writing unit and integration tests for all new features and any bugs fixed.</p><p>You will also perform light devOps duties via Terraform and (rarely) manually, such as Gitlab instance upgrades or bastion security checks and updates. You’ll participate in planning &amp; prioritization meetings to help estimate complexity and think of creative solutions to business and growth problems.</p><p>You are required to have at least basic experience with our existing stack, but more importantly, you need to have the ability and desire to learn and adapt.</p><h5>What you’ll get</h5><p>You can work remote from anywhere or from our office in Boca Raton, FL</p><ul><li>you’ll set your own work schedule, as long as you can deliver and be productive (we prefer two 3-hour focused, uninterrupted work sessions, with morning, lunch and evening communication breaks to stay in sync)</li><li>competitive salary for a remote position</li><li>health insurance &amp; stock options</li><li>more benefits as we continue growing</li></ul><p></p>                      <h4>Desired Skills</h4>            <ul>                              <li><span>Amazon Web Services</span></li>                              <li><span>Celery</span></li>                              <li><span>Flask</span></li>                              <li><span>PostgreSQL</span></li>                              <li><span>Terraform</span></li>                          </ul>                                <h4>How to Apply</h4>            <p></p><p>We don’t do resumes. They only prove who signed your previous paychecks.</p><p>Send us your Git(hub/lab/bucket) profile, places where we can &quot;see&quot; your backend code in production, along with a short email explaining what kinds of problems you solved in the past, and how you did it.</p><p>In essence, please convince us we’re a good fit for each other with any arguments you’d like.</p><p>We’ll contact you by phone or email for a quick chat, then we’ll set up a video call with the CEO and CTO.</p><p>There will be no gimmicky interview quizzes or whiteboard tests. Instead, we’ll ask you to show us some code, either from a previous job or, if NDAs prevent that, we’ll write some together. This is not to test you under pressure, but to filter out the inevitable applicants who are trying to fake it till they make it.</p><p>We’ll ask you to try out something new and talk us through it, whether it’s a new framework, concept (GraphQL instead of REST?) or an AWS service neither of us used before. We do this to see if you’re willing and able to learn new things and how you handle bumping into small obstacles on the way to delivering something that works, however trivial.</p><p></p>                                <h4>Contact Info</h4>            <ul>                                          <li><strong>Company Website:</strong> <a href='https://worthybonds.com' rel='nofollow'>https://worthybonds.com</a></li>            </ul>                  </div><a href='https://worthy-financial.breezy.hr/p/41fc2b92488301-senior-python-backend-developer' rel='nofollow'>Apply</a>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "peGVF766RWS64oWboXwu6Q",
+    "url": "https://www.remotepython.com/jobs/1d4cd0f549304f8590dccba038a9ffb3/",
+    "title": "Senior Python Backend Developer at Reef Technologies",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:python/python/8",
+      "DBG_TECH1:k/t/w:wxpython/python/8",
+      "DBG_TECH1:techWeightMap:{python=24, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Reef Technologies",
+      "sameAs": "http://reef.pl"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 20, 2019 9:07:26 AM",
+    "validThrough": "Sep 27, 2019 9:07:26 AM",
+    "crawled": "Sep 20, 2019 9:07:26 AM",
+    "content": "<h3>Senior Python Backend Developer</h3>Warsaw, Poland<br>Company: Reef Technologies<br>Job Type:&nbsp;Full-time&nbsp;Part-time&nbsp;Contract<div>                              <div>                      </div>                    <p></p><p>We are looking for a remote Senior Python Backend Developer to join our team [Reef Technologies: fully remote python software house]</p><p>Salary (B2B):4 800 -7 200 USD net /month (full-time) or 30 - 45 USD / h (part-time)</p><p></p>                      <h4>Desired Skills</h4>            <ul>                              <li><span>Django</span></li>                              <li><span>wxPython</span></li>                          </ul>                                <h4>How to Apply</h4>            <p></p><p>Apply via https://justjoin.it/offers/reef-technologies-rockstar-python-developer</p><p></p>                                <h4>Contact Info</h4>            <ul>                                          <li><strong>Company Website:</strong> <a href='http://reef.pl' rel='nofollow'>http://reef.pl</a></li>            </ul>                  </div><a href='https://justjoin.it/offers/reef-technologies-rockstar-python-developer' rel='nofollow'>Apply</a>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ta5gy6_DSxWdw9qe8zcm0Q",
+    "url": "https://jobmote.com/job/76360/php-python-developer-remote-opportunity/",
+    "title": "PHP/Python Developer remote opportunity",
+    "tags": [
+      "DBG:surround``5N( opportun,             2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:django/python/24",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/40",
+      "DBG_TECH1:k/t/w:python-developer/python/52",
+      "DBG_TECH1:k/t/w:python/python/16",
+      "DBG_TECH1:k/t/w:reactjs/frontend/24",
+      "DBG_TECH1:k/t/w:symfony/php/8",
+      "DBG_TECH1:techWeightMap:{python=92, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=56, embedded=0, frontend=35}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Opus Recruitment Solutions Ltd",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 19, 2019 10:07:51 PM",
+    "validThrough": "Sep 22, 2019 10:07:51 PM",
+    "crawled": "Sep 20, 2019 3:06:33 AM",
+    "content": "<div>PHP/Python Developer (remote working available) <br><br>PHP, Python, Django, Wagtail, Laravel, Symfony, JavaScript, AWS, Angular, ReactJS<br><br>A fantastic opportunity for a permanent PHP/Python Developer has come up for a South Devon based organisation. <br><br>Ideally the developer would have a mixture of PHP and Python/Django to join the already existing team of developers. However, if you only have Python or PHP still apply. <br><br>This role offers remote working (but meeting the team twice per month at the HQ) or you can work full time in the office. <br><br>A full stack PHP/Python Developer is needed with experience working with JavaScript (React) as well as server architecture.<br><br>Tech required:<br><br>- Python <br>- PHP<br>- Django<br>- Wagtail<br>- JavaScript <br>- ReactJS<br>- AWS<br><br>The company is an early stage, high growth start-up in South Devon with a client base all around the UK. <br><br>Their services include, web applications, e-learning systems and they are constantly looking for new ways to grow the product. <br><br>This company prides themselves on their ability to deliver highly effective solutions to their clients. <br><br>What do you get in return: Paid holidays, pension, free parking, social events, flexi hours, remote working opportunity. <br><br>ITH123</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "HUOowriBRbe-tH9-4-7KMQ",
+    "url": "https://jobmote.com/job/76351/python-sql-developer-remote-bethesda/",
+    "title": "Python/SQL Developer (Remote) - Bethesda",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:techWeightMap:{python=6, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Workbridge Associates",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 130000,
+      "maxValue": 130000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 130k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 19, 2019 10:07:50 PM",
+    "validThrough": "Sep 22, 2019 10:07:50 PM",
+    "crawled": "Sep 20, 2019 3:06:33 AM",
+    "content": "<div><p>A new healthcare company with an old-fashioned goal of putting doctors back in control of health care is looking for Full Stack Python Engineers to help build out their team. They partner with independent, primary care physicians to provide everything the doctors need to create and run an Accountable Care Organization (ACO) - from business and practice transformation services to upfront capital and a cutting-edge technology platform. Our customized solutions - and our continuous, on-the-ground support of our physician partners - will help doctors in all types of communities across America preserve their autonomy, deliver better care to their patients, reduce overall costs, and keep independent physician practices flourishing.</p> Required Skills &amp; Experience <ul><li>3-5 years of architecting and building production software</li> <li>Expert in Python and SQL</li> <li>Experience with Airflow is a major plus </li> <li>Frontend experience with JavaScript and related frontend frameworks</li> <li>Work with an agile team to deliver high value, high quality software</li> <li>Experience with MySQL and Relational Database Design</li> </ul> Desired Skills &amp; Experience <ul><li>B.S. in Computer Science, Computer Engineering, Statistics, or related field</li> <li>Experience working on a production product on a collaborative team</li> </ul> What You Will Be Doing <p>Tech Breakdown</p> <ul><li>10% Frontend</li> <li>90% Server-side</li> </ul> The Offer <ul><li>Competitive Salary: Up to $130K/year, DOE</li> </ul><p>You will receive the following benefits:</p> <ul><li>80% Health, Vision, Dental coverage</li> <li>Full Remote</li> <li>Monthly Cell Phone Stipend </li> <li>11 paid holidays </li> <li>401k with 4% match</li> </ul><p> </p> <p>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.</p> <p> </p> <p>Workbridge Associates, part of the Motion Recruitment network, provides IT Staffing Solutions (Contract, Contract-to-Hire, and Direct Hire) in major North American markets. Our unique expertise in today's highest demand tech skill sets, paired with our deep networks and knowledge of our local technology markets, results in an exemplary track record with candidates and clients.</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "1lU12hoTTqeK0CfwGdYRLA",
+    "url": "https://jobmote.com/job/76326/python-cyber-security-developer-100-remote/",
+    "title": "Python Cyber security Developer (100% Remote)",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:python-developer/python/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=15, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Econosoft",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 19, 2019 10:07:49 PM",
+    "validThrough": "Sep 22, 2019 10:07:49 PM",
+    "crawled": "Sep 20, 2019 3:06:33 AM",
+    "content": "<div>Must Have Skills Python Development Cybersecurity expertise Nice to have skills Understanding of virtualization (can be via azure) Network infrastructure understanding of testing terraform - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "n5FyTsTYTqajWAu3rf_1mg",
+    "url": "http://workinstartups.com/job-board/job/84615/software-engineer-at-coefficient/",
+    "title": "Software Engineer",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:numpy/python/5",
+      "DBG_TECH1:k/t/w:pandas/python/5",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:techWeightMap:{python=24, other=0, dotnet=0, c=0, mobile=0, go=6, nodejs=1, bigdata-ml=22, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Coefficient",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 19, 2019 5:26:07 PM",
+    "validThrough": "Sep 26, 2019 5:26:07 PM",
+    "crawled": "Sep 19, 2019 8:30:40 PM",
+    "content": "<p><strong>Description</strong></p><br /><p><em data-redactor-tag=&quot;em&quot;>&quot;Machine Learning will impact every industry on Earth, including manufacturing, agriculture, healthcare and many more&quot; &ndash; Fei-Fei Li</em></p><br /><p>We are looking for a Software/Data/DevOps Engineer to join the Coefficient team full-time in London. You'll be working on projects with multiple clients across different industries, from financial services to healthcare to app startups and beyond. You'll be expected to take ideas from whiteboard to deployment, to design and build cloud architecture, and to ensure the code we deliver continues to meet the high standards our clients have come to expect from Coefficient.</p><br /><p>This is no ordinary software engineering role: you will also be delivering Python workshops, mentoring junior developers and taking a lead on some of the super secret AI-infused products that we've been developing in Coefficient Labs. We aim to be best-in-class at what we do, and we want to work with people who share that same attitude.</p><br /><p><strong>About Us</strong></p><br /><p><a href='https://workable.com/nr?l=https%3A%2F%2Fcoefficient.ai' rel='nofollow noreferrer noopener'>Coefficient</a>&nbsp;is a data consultancy offering data science, engineering, machine learning and other AI-related services as well as bespoke training courses. We are driven by the challenge of solving real world problems by combining research-grade statistical techniques with a lean startup mentality and a technical skillset. We have also designed and delivered data training courses for clients such as BNP Paribas, EY, Hawk-Eye and the BBC.</p><br /><p><strong>Requirements</strong></p><br /><p>You may be fit for this role if you ...</p><br /><ul><br /><li>Have&nbsp;<strong data-redactor-tag=&quot;strong&quot;>good communication skills</strong>&nbsp;- this is a client-facing role, so the ability to communicate patiently with clients and to explain processes in clear and simple language is important.</li><br /><li>Are fluent in&nbsp;<strong data-redactor-tag=&quot;strong&quot;>Python</strong>&nbsp;and have experience of productionising Python-based web frameworks such as Django.</li><br /><li>Have used&nbsp;<strong data-redactor-tag=&quot;strong&quot;>MySQL</strong>&nbsp;or&nbsp;<strong data-redactor-tag=&quot;strong&quot;>PostgreSQL</strong>&nbsp;extensively and you know your way around Apache, nginx or other server.</li><br /><li>Have good experience of using the libraries in the&nbsp;<a href='https://workable.com/nr?l=https%3A%2F%2Fpydata.org%2Fdownloads%2F' rel='nofollow noreferrer noopener'>Python Open Data Science Stack</a>, especially&nbsp;<strong data-redactor-tag=&quot;strong&quot;>Pandas</strong>&nbsp;and&nbsp;<strong data-redactor-tag=&quot;strong&quot;>NumPy</strong>.</li><br /><li>Have a good understanding of&nbsp;<strong data-redactor-tag=&quot;strong&quot;>deploying applications</strong>&nbsp;within various environments (AWS, GCP, on-prem), from&nbsp;<strong data-redactor-tag=&quot;strong&quot;>security</strong>&nbsp;best practices to&nbsp;<strong data-redactor-tag=&quot;strong&quot;>continuous integration</strong>&nbsp;and&nbsp;<strong data-redactor-tag=&quot;strong&quot;>containerisation</strong>.</li><br /><li>Are comfortable with writing front-end applications, good&nbsp;<strong data-redactor-tag=&quot;strong&quot;>JavaScript</strong>&nbsp;skills are a bonus.</li><br /><li>Have good&nbsp;<strong data-redactor-tag=&quot;strong&quot;>time management</strong>&nbsp;and are able to prioritise - there will be multiple projects on the go at any one time.</li><br /><li>Actively seek out opportunities to&nbsp;<strong data-redactor-tag=&quot;strong&quot;>speak at meetups or conferences</strong>, or otherwise have prior experience as an instructor or teaching assistant.</li><br /><li>Enjoy&nbsp;<strong data-redactor-tag=&quot;strong&quot;>sharing your knowledge</strong>, experience and passion for&nbsp;<strong data-redactor-tag=&quot;strong&quot;>good coding practices</strong>&nbsp;with others.</li><br /></ul><br /><p><strong>Benefits</strong></p><br /><ul><br /><li><strong data-redactor-tag=&quot;strong&quot;>Location:</strong>&nbsp;This role is located in Central London (either working from our coworking space or on-site at clients' offices). There may be opportunities for remote working after an initial onboarding period.</li><br /><li><strong data-redactor-tag=&quot;strong&quot;>Salary/Rates:</strong>&nbsp;Competitive.</li><br /><li><strong data-redactor-tag=&quot;strong&quot;>33 days of annual paid holiday&nbsp;</strong>including bank holidays.</li><br /><li><strong data-redactor-tag=&quot;strong&quot;>Choose your own laptop:</strong>&nbsp;any OS, any specs, up to &pound;3k.</li><br /><li><strong data-redactor-tag=&quot;strong&quot;>10% time</strong><strong data-redactor-tag=&quot;strong&quot;>:</strong>&nbsp;4 hours per week dedicated to pursue your own projects or to develop skills.</li><br /><li><strong data-redactor-tag=&quot;strong&quot;>&pound;1,500 annual allowance for conferences &amp; training:&nbsp;</strong>we&rsquo;re big on learning and development and encourage everyone to attend events &amp; stay curious. In fact we go further and actively sponsor and run various community events.</li><br /><li>Opportunity to be part of a&nbsp;<strong data-redactor-tag=&quot;strong&quot;>unique &amp; exciting young AI startup</strong>, to push yourself to learn new skills and be recognised as one of the best in your field.</li><br /></ul><br /><p>&nbsp;</p><br /><p>If this role sounds exciting to you, please apply below. If you&rsquo;re unsure, please still get in touch&mdash;we welcome applicants from different backgrounds and would love to hear from you.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "dJ3MhHXPRD-gytJAV2b-ag",
     "url": "https://stackoverflow.com/jobs/297940/full-stack-developer-with-react-and-django-soshace?a=1BV1QycU0jtK&so_medium=Talent&so_source=TalentApi",
     "title": "Full-stack Developer with React and Django at Soshace  ",
