@@ -1,6 +1,58 @@
 {
  "items": [
   {
+    "id": "ZlvuorKHQfiUrCJjYSDJVQ",
+    "url": "https://weworkremotely.com/remote-jobs/worthy-peer-capital-senior-python-backend-developer",
+    "title": "Worthy Peer Capital: Senior Python Backend Developer",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``can 2W remot",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=6, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Worthy Peer Capital",
+      "sameAs": "https://worthy-financial.breezy.hr/p/41fc2b92488301-senior-python-backend-developer?source=weworkremotely"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 23, 2019 10:45:28 PM",
+    "validThrough": "Sep 30, 2019 10:45:28 PM",
+    "crawled": "Sep 23, 2019 11:30:30 PM",
+    "content": "<h3> Senior Python Backend Developer </h3><div><div><br>Who we are<br><br></div><div>We are Worthy - and so are you! We want to democratize capital by making money more accessible for those who need to borrow it and by making investments with strong returns available to those who would like a better financial future.<br><br></div><div>We want to help people grow a nest egg even if they think they can’t… and to do it while supporting Main Street, not Wall Street!<br><br></div><div>Our first product is a free micro-investment app that helps you save &amp; grow your money – a dollar at a time. It monitors your everyday spending and rounds up each transaction to a whole dollar. It then automatically invests every $10 into a 5% interest earning Worthy Bond, which in turn supports small creditworthy businesses across the U.S., helping to strengthen our local communities.<br><br></div><div>We are a remote-first company with offices in sunny Boca Raton, Florida. We avoid the noise of Slack, but we use Twist, Keybase and Confluence to keep in sync. We're on Gitlab to take advantage of their integrated CI/CD pipeline (we love continuous stuff!) and issue tracker.<br><br></div><div><br>Who you are<br><br></div><div>You’re an experienced backend web developer who has worked for 5+ years on a few production web apps and APIs at scale. Experience working on financial or accounting applications preferred.<br><br></div><div>You use Python on a daily basis for various tasks, from APIs to scheduled tasks and maintenance scripts.<br><br></div><div>You can design and implement an API and future-proof it. You have a strong opinion on whether APIs should be versioned in the URI or in a response header, and can defend that opinion. You know how to upgrade an API while keeping it backwards-compatible for older clients.<br><br></div><div>You’re aware of which data fits best in a relational database and which in a document-oriented one. You can use a framework-provided ORM, but can also jump in and fine-tune SQL queries when needed. You know enough database management to create and maintain an efficient schema in PostgreSQL, indexes and all.<br><br></div><div>You’re experienced enough to avoid most bugs and programming errors, but you use tools such as linters and write unit &amp; integration tests to catch all the others.<br><br></div><div>You can secure both internal and public-facing APIs using different methods, including one-time passwords (TOTP) for two-factor authentication. You consider security and privacy when designing any new features or reviewing existing code.<br><br></div><div>Most importantly, you can communicate clearly and efficiently in writing, as well as in online video/audio calls. You can handle the async (over)communication requirements of a remote-first environment and can manage your own time and productivity.<br><br></div><div>For everyone’s sake, you develop on either OS X or a Linux flavor. We don’t do windows.<br><br></div><div>You are eligible to legally work in the U.S. as a full-time employee. Given the role's responsibilities, this is a hard requirement, even though we will have other positions where we can hire more liberally. Note that this doesn't require actual presence in the U.S. (expats welcome!).<br><br></div><div><br>What you’ll do<br><br></div><div>We’ve build a solid, stable serverless API using Zappa on AWS Lambda. Our infrastructure is mostly managed via Terraform and our deployments are one-click, thanks to Gitlab’s CI/CD pipelines. While we rely on third parties for some key features, we’ve never had any downtime caused by anything we wrote.<br><br></div><div>Concretely, you’ll help build new business features as we grow our offerings. You will help us trim our backlog and keep technical debt in check. Since we already have robust test coverage, you will help maintain that by writing unit and integration tests for all new features and any bugs fixed.<br><br></div><div>You will also perform light devOps duties via Terraform and (rarely) manually, such as Gitlab instance upgrades or bastion security checks and updates. You’ll participate in planning &amp; prioritization meetings to help estimate complexity and think of creative solutions to business and growth problems.<br><br></div><div>You are required to have at least basic experience with our existing stack, but more importantly, you need to have the ability and desire to learn and adapt.<br><br></div><div><br>What you’ll get<br><br></div><ul><li>you can work remote from anywhere in the U.S. or from our office in Boca Raton, FL</li><li>you’ll set your own work schedule, as long as you can deliver and be productive (we prefer two 3-hour focused, uninterrupted work sessions, with morning, lunch and evening communication breaks to stay in sync)</li><li>competitive salary for a remote position</li><li>health insurance &amp; stock options</li><li>more benefits as we continue growing</li></ul><div><br>How to apply<br><br></div><div>We don’t do resumes. They only prove who signed your previous paychecks.<br><br></div><div>Send us your Git(hub/lab/bucket) profile, places where we can &quot;see&quot; your backend code in production, along with a short email explaining what kinds of problems you solved in the past, and how you did it.<br><br></div><div>In essence, please convince us we’re a good fit for each other with any arguments you’d like.<br><br></div><div>We’ll contact you by phone or email for a quick chat, then we’ll set up a video call with the CEO and CTO.<br><br></div><div>There will be no gimmicky interview quizzes or whiteboard tests. Instead, we’ll ask you to show us some code, either from a previous job or, if NDAs prevent that, we’ll write some together. This is not to test you under pressure, but to filter out the inevitable applicants who are trying to fake it till they make it.<br><br></div><div>We’ll ask you to try out something new and talk us through it, whether it’s a new framework, concept (GraphQL instead of REST?) or an AWS service neither of us used before. We do this to see if you’re willing and able to learn new things and how you handle bumping into small obstacles on the way to delivering something that works, however trivial.<br><br></div><div><br></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "UWViKghCTCe_cOJm__t75A",
     "url": "https://www.remotepython.com/jobs/9d7e7f100cf1401a8394d277f592a3f8/",
     "title": "Senior Backend Developer at Monarch Money",
@@ -10794,211 +10846,6 @@
     "validThrough": "Jul 31, 2019 4:39:18 PM",
     "crawled": "Jul 26, 2019 6:22:50 PM",
     "content": "*About us:*\n<br>Squirrel is a simple app that changes people’s lives for the better – by managing their money for them. Instead of getting paid into a bank account, Squirrel users get paid into Squirrel! The app then saves and budgets for them. Paying money into their bank account just before they need it – for bills, weekly spending, and when they finish saving up for something.\n<br>\n<br>It’s rare for ideas to be good for the world, unique, profitable, and be fun and challenging to work on – but Squirrel is all of these things! \n<br>\n<br>*What we’re looking for:*\n<br>* A Full Stack Senior level developer to build the next generation Open Banking version of Squirrel.\n<br>* Ambitious Python Backend Engineer Wanting to Grow Into CTO\n<br>* 5+ Years Exerience\n<br>* Interest in working with open banking API’s\n<br>* Keen to grow into architecting a new product &amp; coding, as well as learning to lead.\n<br>\n<br>We’re all passionate and interested in making a sustainably great business, and ideally you’ll be the same – We’d love to meet someone able to communicate and work across the team on various topics (from tech to UX, to product) to refine requirements, prioritise and deploy.\n<br>\n<br>*Location*\n<br>Ideally you’ll be London based, but we’re willing to consider remote workers in other parts of the UK (with occasional travel to the London office).",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "kf5GsUk7TrWa8WFeXA_bbQ",
-    "url": "https://weworkremotely.com/remote-jobs/shiphero-senior-python-developer",
-    "title": "ShipHero: Senior Python Developer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:flask/python/8",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:python-developer/python/26",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:k/t/w:sqlalchemy/python/8",
-      "DBG_TECH1:techWeightMap:{python=48, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=4, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "ShipHero",
-      "sameAs": "https://shiphero.com/"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 25, 2019 7:24:38 PM",
-    "validThrough": "Aug 1, 2019 7:24:38 PM",
-    "crawled": "Jul 25, 2019 7:30:23 PM",
-    "content": "<h3> Senior Python Developer </h3>\n<div>\n <div>\n  <span></span>\n </div>\n <div>\n  <span>We are ShipHero (https://shiphero.com). We have built a software platform entrusted by hundreds of ecommerce companies, large and small to run their operations. Many of our customers sell on Shopify and/or Amazon. We’re driven to help our customers grow their businesses, by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology, that is beautiful and easy to use. Our culture also reflects our ethos and belief that by bringing passionate, talented and great people together - you can do great things.</span>\n  <br>\n </div>\n <div>\n  <span></span>\n </div>\n <div></div>\n <div>\n  <br>\n </div>\n <div>\n  <span>Our team is remote, with most of our engineers right now are either in New York, Argentina and Colombia.&nbsp;</span>\n  <br>\n </div>\n <div>\n  <span></span>\n </div>\n <div></div>\n <div>\n  <br>\n </div>\n <div>\n  <span>We are seeking a senior software engineer with proven programming and analytic abilities. You would be a fundamental member of the team focusing on building a solid foundation for the platform. We seek people who are excited and driven to grow with the experience of working with talented engineers. We are obsessed with disrupting an industry that desperately needs it, by continuing to build tools that help make our customers do great things.</span>\n  <br>\n </div>\n <div>\n  <span>You will work on our integrations with ecommerce platforms such as Shopify, Amazon, eBay and Etsy. The integrations are used at scale.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>We are hiring engineers in American timezones only for right now.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span><b>About You</b></span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You understand that great things are accomplished when teams work together.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You’ve got lots of experience with Python, SQLAlchemy, FLASK and ideally GraphQL.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You have some AWS experience.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You can code review other team members work and provide assistance and appreciate feedback.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You take pride in your craft.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You’ve learned from building systems and solutions the reasons to avoid technical debt, and how to approach and implement TDD and CI practices.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You can craft elegant solutions when solving complex features and solutions.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You want to build something that is disrupting an entire industry.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- While hands on experience is not a requirement, you’re interested in learning how to apply machine learning and AI technologies and tools.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You can handle a fast paced environment.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You’ve made a lot of mistakes, and most importantly, have learned from them.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You have 7+ years of experience developing software.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- You have worked remotely before.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span><b>The Role</b></span>\n  <br>\n </div>\n <div>\n  <span><br></span>\n </div>\n <div>\n  <span>- Work on a cross-functional team including front end and UX to build solutions that are easy for customers to understand, work consistently and scale well.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- Review features and requirements and guide, design and implement solutions.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- Understand business requirements and think through solutions in terms of not just the coding implementation but also how the solution fits into the solution and how it solves a customer need.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- Ability to estimate effort and ship on agreed schedule. Comfortable pushing yourself and your team members when challenges pop up.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- Lead regular code reviews, with the goal of code quality, good design and approach along with pushing engineers to improve and evolve.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- Optimize existing tech stack and solutions, determine path to next step in the evolution.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- Learn, and push those around you to do the same - this is a craft that you’re constantly improving upon.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- Implement solutions that are pragmatic to get the platform built.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- Have the confidence to work with experienced and talented people to just build great things, you’re not a “rockstar”.</span>\n </div>\n <div>\n  <br>\n </div>\n <div>\n  <span>- Work with ShipHero leadership to implement practices and principles for the team.</span>\n  <br>\n </div>\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "GQ-Oh7OKQQKl6nsKxhbPzQ",
-    "url": "https://www.remotepython.com/jobs/b60ad08ba6a841d1ac105a22c2777cbe/",
-    "title": "Remote Senior Python Backend Developer at Reef Technologies",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG_TECH1:k/t/w:django/python/8",
-      "DBG_TECH1:k/t/w:python/python/8",
-      "DBG_TECH1:k/t/w:wxpython/python/8",
-      "DBG_TECH1:techWeightMap:{python=24, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Reef Technologies",
-      "sameAs": "http://reef.pl"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 25, 2019 6:25:42 PM",
-    "validThrough": "Aug 1, 2019 6:25:42 PM",
-    "crawled": "Jul 25, 2019 6:25:42 PM",
-    "content": "<h3>Remote Senior Python Backend Developer</h3>Warsaw, Poland\n<br>Company: Reef Technologies\n<br>Job Type:&nbsp;Full-time&nbsp;Part-time&nbsp;Contract\n<div> \n <div> \n </div> \n <p></p>\n <p>We are looking for a remote Senior Python Backend Developer to join our team [Reef Technologies: fully remote python software house]</p>\n <p>Salary (B2B):4 800 -7 200 USD net /month (full-time) or 30 - 45 USD / h (part-time)</p>\n <p><a href='https://justjoin.it/offers/reef-technologies-rockstar-python-developer?utm_source=remote_python&amp;utm_medium=posting&amp;utm_campaign=promo' rel='nofollow'>https://justjoin.it/offers/reef-technologies-rockstar-python-developer?utm_source=remote_python&amp;utm_medium=posting&amp;utm_campaign=promo</a></p>\n <p></p> \n <h4>Desired Skills</h4> \n <ul> \n  <li><span>Django</span></li> \n  <li><span>wxPython</span></li> \n </ul> \n <h4>How to Apply</h4> \n <p></p>\n <p>https://justjoin.it/offers/reef-technologies-rockstar-python-developer?utm_source=remote_python&amp;utm_medium=posting&amp;utm_campaign=promo</p>\n <p></p> \n <h4>Contact Info</h4> \n <ul> \n  <li><strong>Contact Email:</strong> <a href='mailto:karolina.gola@reef.pl' rel='nofollow'>karolina.gola@reef.pl</a></li> \n  <li><strong>Company Website:</strong> <a href='http://reef.pl' rel='nofollow'>http://reef.pl</a></li> \n </ul> \n</div>\n<a href='https://justjoin.it/offers/reef-technologies-rockstar-python-developer?utm_source=remote_python&amp;utm_medium=posting&amp;utm_campaign=promo' rel='nofollow'>Apply</a>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "DG_exOB7SXmEDsl4shLXaQ",
-    "url": "https://jobmote.com/job/52254/remote-cto/",
-    "title": "REMOTE CTO",
-    "tags": [
-      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
-      "DBG_TECH1:k/t/w:angularjs/frontend/16",
-      "DBG_TECH1:k/t/w:django/python/24",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:techWeightMap:{python=30, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=18}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 24, 2019 10:07:26 PM",
-    "validThrough": "Jul 27, 2019 10:07:26 PM",
-    "crawled": "Jul 25, 2019 3:06:25 AM",
-    "content": "<div>\n Minimum Required Skills:\n <br>Python, Django, PostgreSQL, Redis, Celery, RabbitMQ, Angular.js, AWS, Startup Experience, JavaScript\n <br>\n <br>If you are a CTO with experience, please read on!\n <br>\n <br>Home care is a rapidly growing $72 billion dollar industry in the United States serving over 1.5 million people. Home care is supported by some of the most powerful macro factors affecting the global economy: (1) the largest demographic shift in human history; (2) a shift in the $3 trillion dollar healthcare industry from fee-for-service to value-based care, which has expanded reimbursement for home care services; and (3) advancements in telehealth which enable the shift of healthcare from traditional clinical environments to the home.\n <br>\n <br>Of the over 18 million seniors currently needing home care, 6 million receive care from family members and 1.5 million receive care through home care agencies. Our aging population drives the growth of the home care industry, with 10,000 people turning 65 every day. On top of this core growth, health insurers and other payers are increasingly reimbursing for home care, thus driving an increase in the percentage of seniors that can afford home care and driving an increase from the 1.5 million who receive home care today into the 18 million seniors that need home care in order to stay independent and age-in-place. Over 90% of seniors want to age-in-place: not only is it the most desired outcome, but it is also the most cost-effective.\n <br>\n <br>Despite tremendous growth, the home care industry, along with the seniors and families it serves, faces numerous challenges. Agencies struggle to efficiently operate amidst complex logistics and regulatory pressures: dozens or hundreds of caregivers operate remotely in the homes of seniors during one of the most difficult periods in life, with limited oversight and delayed visibility to family members into the daily care provided in the home.\n <br>\n <br>Family members suffer from acute pain points associated with the demands of managing a loved one with a deteriorating health condition, often compounded by having to do so from afar. Problems of monitoring the day-to-day care and well-being of a loved one, managing medications, and coordinating with providers and other family members are particularly acute.\n <br>\n <br>For healthcare constituents (providers, payers, and pharmaceutical companies), the patients served by home care agencies are typically among the highest cost and highest utilization, and are characterized by having multiple chronic conditions and functional limitations. Home care today is largely decoupled from the traditional healthcare ecosystem. If healthcare constituents could drive in-home interventions via the home care industry, billions of dollars could be saved each year while simultaneously improving healthcare and aging for millions of people.\n <br>\n <br>Over the past two years, our company has emerged as the market leader serving 8 of the 10 largest home care enterprises and over 4,000 home care agencies nationwide. We power over 250 million hours of care per year, acting effectively as the virtual nervous system for the last mile of care for the world's\n <br>costliest patient population: that is, seniors with multiple chronic conditions and functional limitations.\n <br>\n <br>By virtue of our market leadership and ongoing cadence of innovation, we are rapidly emerging as the system of record for the home care industry. Our new platform sales motion continues to accelerate, and our growth is further buoyed by upsells, which now achieve more than 60% attachment on new accounts.\n <br>\n <br>While the revenue model today is powered by B2B sales to home care agencies, our company's web-based platform solves problems for all of the parties involved in the care of seniors: family members, caregivers, seniors and the broader healthcare community.\n <br>\n <br>Top Reasons to Work with Us\n <br>\n <br>WORK REMOTELY\n <br>\n <br>What You Will Be Doing\n <br>\n <br>Build and design a scalable technology stack\n <br>Approach challenges proactively\n <br>Design and utilize third-party APIs to core systems and healthcare institutions\n <br>Effectively communicate technical solutions and roadmap to leadership\n <br>Triage and fix bugs in code\n <br>Effectively QA and test code\n <br>Ability to build and strengthen a team of developers (employees and freelancers)\n <br>\n <br>What You Need for this Position\n <br>\n <br>Entrepreneurial mindset required\n <br>Prior experience building an application from scratch\n <br>Prior Start-up Experience Required\n <br>Extensive Python/Django experience\n <br>Full-stack experience (will be working on both front and back end)\n <br>Balanced ego- able to take ownership and action while collaborating and receiving direction\n <br>Excellent creative problem solver- able to come up with unusual or clever ideas about a given topic or situation, or to develop creative ways to solve a problem\n <br>Strong deductive reasoning- able to apply general rules to specific problems to produce answers that make sense\n <br>Prior experience in Healthcare or Elderly services is a plus\n <br>Machine Learning skills is a plus\n <br>\n <br>- Python\n <br>- Django\n <br>- PostgreSQL\n <br>- Redis\n <br>- Celery\n <br>- RabbitMQ\n <br>- Angular.js\n <br>- AWS\n <br>- Startup Experience\n <br>- JavaScript\n <br>\n <br>What's In It for You\n <br>\n <br>-Base Salary \n <br>- Vacation/PTO\n <br>- Medical\n <br>- Dental\n <br>- Vision\n <br>- Bonus\n <br>- 401k\n <br>- Equity ShareSo, if you are a CTO with experience, please apply today!\n <br>\n <br>Applicants must be authorized to work in the U.S.\n <br>\n <br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!\n <br>\n <br>Looking forward to receiving your resume and going over the position in more detail with you.\n <br>\n <br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.\n <br>\n <br>Looking forward to receiving your resume!\n <br>\n <br>CyberCoders\n <br>\n <br>CyberCoders, Inc is proud to be an Equal Opportunity Employer\n <br>\n <br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.\n <br>\n <br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\n <br>\n <br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.\n <br> - provided by Dice\n</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Lq4LfkNHSo2YoPp6xKkiXg",
-    "url": "https://jobmote.com/job/52242/remote-cto/",
-    "title": "REMOTE CTO",
-    "tags": [
-      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
-      "DBG_TECH1:k/t/w:angularjs/frontend/16",
-      "DBG_TECH1:k/t/w:django/python/24",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:techWeightMap:{python=30, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=18}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 24, 2019 10:07:26 PM",
-    "validThrough": "Jul 27, 2019 10:07:26 PM",
-    "crawled": "Jul 25, 2019 3:06:25 AM",
-    "content": "<div>\n Minimum Required Skills:\n <br>Python, Django, PostgreSQL, Redis, Celery, RabbitMQ, Angular.js, AWS, Startup Experience, JavaScript\n <br>\n <br>If you are a CTO with experience, please read on!\n <br>\n <br>Home care is a rapidly growing $72 billion dollar industry in the United States serving over 1.5 million people. Home care is supported by some of the most powerful macro factors affecting the global economy: (1) the largest demographic shift in human history; (2) a shift in the $3 trillion dollar healthcare industry from fee-for-service to value-based care, which has expanded reimbursement for home care services; and (3) advancements in telehealth which enable the shift of healthcare from traditional clinical environments to the home.\n <br>\n <br>Of the over 18 million seniors currently needing home care, 6 million receive care from family members and 1.5 million receive care through home care agencies. Our aging population drives the growth of the home care industry, with 10,000 people turning 65 every day. On top of this core growth, health insurers and other payers are increasingly reimbursing for home care, thus driving an increase in the percentage of seniors that can afford home care and driving an increase from the 1.5 million who receive home care today into the 18 million seniors that need home care in order to stay independent and age-in-place. Over 90% of seniors want to age-in-place: not only is it the most desired outcome, but it is also the most cost-effective.\n <br>\n <br>Despite tremendous growth, the home care industry, along with the seniors and families it serves, faces numerous challenges. Agencies struggle to efficiently operate amidst complex logistics and regulatory pressures: dozens or hundreds of caregivers operate remotely in the homes of seniors during one of the most difficult periods in life, with limited oversight and delayed visibility to family members into the daily care provided in the home.\n <br>\n <br>Family members suffer from acute pain points associated with the demands of managing a loved one with a deteriorating health condition, often compounded by having to do so from afar. Problems of monitoring the day-to-day care and well-being of a loved one, managing medications, and coordinating with providers and other family members are particularly acute.\n <br>\n <br>For healthcare constituents (providers, payers, and pharmaceutical companies), the patients served by home care agencies are typically among the highest cost and highest utilization, and are characterized by having multiple chronic conditions and functional limitations. Home care today is largely decoupled from the traditional healthcare ecosystem. If healthcare constituents could drive in-home interventions via the home care industry, billions of dollars could be saved each year while simultaneously improving healthcare and aging for millions of people.\n <br>\n <br>Over the past two years, our company has emerged as the market leader serving 8 of the 10 largest home care enterprises and over 4,000 home care agencies nationwide. We power over 250 million hours of care per year, acting effectively as the virtual nervous system for the last mile of care for the world's\n <br>costliest patient population: that is, seniors with multiple chronic conditions and functional limitations.\n <br>\n <br>By virtue of our market leadership and ongoing cadence of innovation, we are rapidly emerging as the system of record for the home care industry. Our new platform sales motion continues to accelerate, and our growth is further buoyed by upsells, which now achieve more than 60% attachment on new accounts.\n <br>\n <br>While the revenue model today is powered by B2B sales to home care agencies, our company's web-based platform solves problems for all of the parties involved in the care of seniors: family members, caregivers, seniors and the broader healthcare community.\n <br>\n <br>Top Reasons to Work with Us\n <br>\n <br>WORK REMOTELY FROM HOME\n <br>\n <br>What You Will Be Doing\n <br>\n <br>Build and design a scalable technology stack\n <br>Approach challenges proactively\n <br>Design and utilize third-party APIs to core systems and healthcare institutions\n <br>Effectively communicate technical solutions and roadmap to leadership\n <br>Triage and fix bugs in code\n <br>Effectively QA and test code\n <br>Ability to build and strengthen a team of developers (employees and freelancers)\n <br>\n <br>What You Need for this Position\n <br>\n <br>Entrepreneurial mindset required\n <br>Prior experience building an application from scratch\n <br>Prior Start-up Experience Required\n <br>Extensive Python/Django experience\n <br>Full-stack experience (will be working on both front and back end)\n <br>Balanced ego- able to take ownership and action while collaborating and receiving direction\n <br>Excellent creative problem solver- able to come up with unusual or clever ideas about a given topic or situation, or to develop creative ways to solve a problem\n <br>Strong deductive reasoning- able to apply general rules to specific problems to produce answers that make sense\n <br>Prior experience in Healthcare or Elderly services is a plus\n <br>Machine Learning skills is a plus\n <br>\n <br>- Python\n <br>- Django\n <br>- PostgreSQL\n <br>- Redis\n <br>- Celery\n <br>- RabbitMQ\n <br>- Angular.js\n <br>- AWS\n <br>- Startup Experience\n <br>- JavaScript\n <br>\n <br>What's In It for You\n <br>\n <br>-Base Salary \n <br>- Vacation/PTO\n <br>- Medical\n <br>- Dental\n <br>- Vision\n <br>- Bonus\n <br>- 401k\n <br>- Equity ShareSo, if you are a CTO with experience, please apply today!\n <br>\n <br>Applicants must be authorized to work in the U.S.\n <br>\n <br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!\n <br>\n <br>Looking forward to receiving your resume and going over the position in more detail with you.\n <br>\n <br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.\n <br>\n <br>Looking forward to receiving your resume!\n <br>\n <br>CyberCoders\n <br>\n <br>CyberCoders, Inc is proud to be an Equal Opportunity Employer\n <br>\n <br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.\n <br>\n <br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\n <br>\n <br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.\n <br> - provided by Dice\n</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
