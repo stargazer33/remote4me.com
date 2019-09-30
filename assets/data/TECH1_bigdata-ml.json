@@ -1,6 +1,222 @@
 {
  "items": [
   {
+    "id": "zn6KZcyOSQeBF1nASTy52Q",
+    "url": "https://stackoverflow.com/jobs/296070/senior-rust-webgl-developer-luna?a=1Bi97wOj97Ms&so_medium=Talent&so_source=TalentApi",
+    "title": "Senior Rust WebGL Developer at Luna (Kraków, Poland) ",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:animation/gamedev/8",
+      "DBG_TECH1:k/t/w:assembly/c/1",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
+      "DBG_TECH1:k/t/w:game-developer/gamedev/13",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:opengl/c/5",
+      "DBG_TECH1:k/t/w:rust/other/40",
+      "DBG_TECH1:techWeightMap:{python=0, other=40, dotnet=0, c=6, mobile=0, go=3, nodejs=1, bigdata-ml=32, ruby=0, apple=0, java=0, gamedev=21, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "Luna",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 40000,
+      "maxValue": 120000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 40k - 120k /Year | Equity"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 30, 2019 5:06:31 PM",
+    "validThrough": "Oct 7, 2019 5:06:31 PM",
+    "crawled": "Sep 30, 2019 5:06:31 PM",
+    "content": "<h3><span>Senior Rust WebGL Developer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Graphics/Game Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud Computing, Data Science, Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Luna | Kraków, Poland<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Kraków, Poland.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                            <div>                                    <span>Visa Sponsorship:</span>                                    <span>Yes</span>                                </div>                                                            <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h4>Technologies</h4><div></div><div>rust</div><div>webassembly</div><div>graphics</div><div>rendering</div><div>webgl</div>                <h4>Job description</h4>                <div><p><strong>Senior Graphics Developer</strong></p><p><a href='https://luna-lang.org' rel='nofollow'>Luna</a> is looking for a senior graphics developer to take charge of the design, development, and evolution of a new WebGL-based GUI for Luna, a project said by Singularity University to have the potential to change the lives of one-billion people. If you bring strong technical skills and a passion for performance, this could be the role for you.</p><p>As a senior graphics developer you'll be a key part of bringing the vision for Luna 2.0 into reality, with your work being integral to the realisation of the next iteration of Luna. You'll be able to collaborate with world-class team of skilled engineers, community managers, and business developers (from Bloomberg, PayPal, and GitHub to name a few), and make your indelible mark on the future of Luna.</p><p><strong>What You'll Do</strong></p><p>As a senior graphics developer, you'll be responsible for designing and building a high-performance renderer based on web technologies for use in the Luna IDE: Luna Studio. This will involve:</p><ul><li>Working closely with stakeholders and customers to design the new GUI for Luna Studio.</li><li>Developing a design for the new renderer that will be used to implement this GUI.</li><li>Implementing the new renderer in a high-performance manner on top of WebGL and Rust (via Web Assembly).</li><li>Building a next-generation UI framework using this renderer for use in Luna Studio.</li><li>Using this UI framework to build the new GUI for Luna Studio itself.</li><li>Debug performance issues to ensure that the renderer is capable of achieving high performance even on low-powered hardware.</li><li>Creating visualisations for data science libraries using the renderer and D3.js.</li></ul><p><strong>The Skills We're Looking For</strong></p><p>We have a few particular skills that we're looking for in this role:</p><ul><li>A strong focus on both user experience and aesthetics.</li><li>3+ years experience with WebGL (or OpenGL).</li><li>A deep understanding of graphics abstractions including: VAOs, FBOs, PBOs, buffer types, and asynchronous computation modes.</li><li>A deep understanding of GPU techniques including: efficient buffer management, efficient GLSL construction, high-performance vector and font rendering, post-processing, 3D scene description (with nested objects), lights, cameras, and animation.</li><li>2+ years experience with Rust, including experience writing <code>unsafe</code> code for FFI and performance, and using the macro system for metaprogramming. You should be able to write <em>idiomatic</em> rust code.</li><li>Practical experience building high-performance graphical interfaces for end-user-facing applications.</li></ul><p>As part of the hiring process for this job posting we're <em>very</em> interested in your previous work in these areas. Please link us to your Rust projects, blog posts and shadertoy shaders if you have them! It's important for us to understand your experience at the start of the hiring process.</p><p>It would be a big bonus if you had:</p><ul><li>Experience with Rust's WASM toolchain, with wasm-bindgen, and experience with WASM itself.</li><li>Experience with visual programming systems such as Houdini, Max/MSP, Lab VIEW, or Touch Designer.</li><li>Knowledge of the runtime and memory models used by various JavaScript virtual machines.</li><li>Knowledge of D3.js, and experience using it to visualise data.</li></ul><p>Avoid <a href='https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/' rel='nofollow'>the confidence gap</a>. You don't have to match <em>all</em> of the skills above to apply!</p><p><strong>Who You'll Work With</strong></p><p>You'll be joining a distributed, multi-disciplinary team that includes people with skills spanning from compiler development to data-science. Though you'll have your area to work on, our internal culture is one of collaboration and communication, and input is always welcomed.</p><p>We firmly believe that only by working <em>together</em>, rather than putting our team members in their own boxes, can we create the best version of Luna that can be.</p><p><strong>The Details</strong></p><p>As part of the Luna team you'd be able to work from anywhere, whether that be at home, or on the go! We have team members distributed across the world, from San Francisco, to London, to Kraków. We welcome remote work and flexible schedules, or you can work from the Kraków office (or our planned SF office) if you'd like. We can provide competitive compensation and holiday, as well as the possibility of equity as time goes on.</p><p><strong>How To Apply?</strong></p><p>Send us an email at <code><a href='mailto:jobs@luna-lang.org' rel='nofollow'>jobs@luna-lang.org</a></code>, and tell us a little bit about yourself and why you think you'd be a good fit for the role! You can also tell us about:</p><ul><li>Some of your past work or projects.</li><li>Why you'd like to work on Luna, and where you imagine Luna being in 5 years.</li><li>The most important features of a team that you'd like to work in.</li><li>Whether you take pride in your ability to communicate clearly and efficiently with your team.</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/296070?reset=False&amp;ra=1Bi97wOj97Ms&amp;oqs=a%3D1Bi97wOj97Ms%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Luna</h4>            <div><p><strong>About Luna</strong><br>Luna is an award-winning general-purpose programming language and data-science platform, selected by NASA and Singularity University as a technology with the potential to impact the lives of one-billion people worldwide. It spans the entire stack, from high-level visualisation and communication, to the<br>nitty-gritty of running backend services in a single language. With inbuilt capabilities for visualisation and a dual-syntax architecture, the possibilities are limitless.<br><br>At Luna, we have a world-class team, with developers, community managers, and business developers from all walks of life and backgrounds, and work in close collaboration with industry advisers such as Robert Gentleman, the creator of the R programming language and computational biologist at 23andMe, and Edward Kmett, a skilled language designer and machine intelligence researcher at MIRI.<br><br>We welcome anybody to our team, as long as you have the desire and drive to see Luna succeed.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Team built around the Humility, Respect, and Trust ideology.</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours, possible part / full time remote work.</span>                            </li>                            <li>                                <span></span>                                <span>Work in a small team of world-class engineers and make impact on Luna.</span>                            </li>                            <li>                                <span></span>                                <span>Competitive compensation + possibility of equity as time goes on.</span>                            </li>                            <li>                                <span></span>                                <span>Equality, diversity &amp; inclusion.</span>                            </li>                            <li>                                <span></span>                                <span>We've got standing desks in our office (no one uses them though :P).</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Xarta-_CR8Kg1XslehpRUA",
+    "url": "https://stackoverflow.com/jobs/195433/kickass-python-machine-learning-engineer-seez?a=13xC5yoQ0tX2&so_medium=Talent&so_source=TalentApi",
+    "title": "Kickass Python Machine Learning Engineer at Seez  ",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/6",
+      "DBG_TECH1:k/t/w:classification/bigdata-ml/1",
+      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:matplotlib/python/5",
+      "DBG_TECH1:k/t/w:numpy/python/5",
+      "DBG_TECH1:k/t/w:pandas/python/5",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:k/t/w:scikit-learn/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:scikit-learn/python/5",
+      "DBG_TECH1:k/t/w:scipy/python/5",
+      "DBG_TECH1:techWeightMap:{python=35, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=39, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Seez",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 48000,
+      "maxValue": 72000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 48k - 72k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 30, 2019 1:06:34 PM",
+    "validThrough": "Oct 7, 2019 1:06:34 PM",
+    "crawled": "Sep 30, 2019 1:06:34 PM",
+    "content": "<h3><span>Kickass Python Machine Learning Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Machine Learning, Marketplace, Mobile Application</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Seez | No office location<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Copenhagen </span>                                </div>                                                                                                            </div>                    </div>                <h4>Technologies</h4><div></div><div>python</div><div>machine-learning</div>                <h4>Job description</h4>                <div><p><strong>Be a part of a growing startup and join us in changing how people buy cars</strong><br><br>Seez is looking for a kickass ML engineer with in-depth knowledge in building machine learning end-to-end projects; researching the problem, feature selection, model building, correctly evaluating the model to building a scalable service and deploying it. Our current ML stack is mostly based around the python data stack so we preferably want someone with experience in this domain. While not working on our ML projects, you'd be working on general purpose backend related tasks for our car search engine.<br><br>You will be a part of a distributed team in the middle east and europe, with possibility to work anywhere in the world, though we would love to have you at one of our offices. Your role will be to help make a great product that many people will use and love. You will have freedom, you will be challenged, you will not be shut down due to bureacracy, your voice will be heard. <strong>We are looking to hire</strong> - no freelancers or&nbsp; consultants. We value communication very highly and you will be expected to participate and join discussions in product development as well as company direction, lastly, you are not a code monkey. We have a very free and openminded culture and are preferably looking for someone with the same mentality.<br><br>We use slack extensively and employ very little hierarchy, you are free to speak your mind, come up with ideas and be a part of our community. Even though Seez is a startup and in the real world, funds are limited, we value our employees highly and acknowledge that a great developer should be paid a competitive salary. </p><p><strong>Our ideal candiate has the following characteristics</strong></p><ul><li>An analytical mind with product-first mentality</li><li>A minimum of 3 years of experience as a machine learning engineer, building machine learning products.</li><li>Extensive machine learning knowledge (regression, classification and recommenders mostly)</li><li>Your education is less important than your ability to challenge yourself and write code (We’d rather see a beautiful GitHub profile than a fancy degree).</li><li>You care greatly about code quality.</li><li>You take pride in what you do, but welcome critique</li><li>Prior experience in working with Scrum and, or Agile methodologies.</li><li>Good communication skills and willingness to work in a team.</li><li>Complete proficiency in reading, writing and speaking english</li><li>A lot of good ideas and constantly following the latest trends in your field</li></ul><p>Technology and tools in order of importance:</p><ol><li>Python data stack (numpy, sklearn, pandas, jupyter notebooks,&nbsp; scipy and matplotlib)</li><li>DBMS knowledge - writing SQL and designing schemas</li><li>Deep learning knowledge (we have some upcoming projects in this space)</li><li>Docker (we use it extensively)</li><li>Other general backend related tasks (API, crawling and devops)</li></ol><p>We value growing our team and there will be plenty of oppurtunities for you to jump into our other projects and get familar with our other projects.</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/195433?reset=False&amp;ra=13xC5yoQ0tX2&amp;oqs=a%3D13xC5yoQ0tX2%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Seez</h4>            <div><p>Seez was founded in 2016 and in June 2017 got funded with $1.8M. Seez develops and maintains the app Seez R, currently available in the United Arab Emirates. Our main vision is to reduce the time spent for consumers to find their dream car, mostly through visibility, aggregation and automation.</p><p>We heavily focus on software and most of our team members are software developers or coming from math related fields.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Work anywhere</span>                            </li>                            <li>                                <span></span>                                <span>Unlimited Paid Vacation</span>                            </li>                            <li>                                <span></span>                                <span>Competitive salary</span>                            </li>                            <li>                                <span></span>                                <span>Be a part of a community</span>                            </li>                            <li>                                <span></span>                                <span>Heavy start-up culture in a stable organization</span>                            </li>                            <li>                                <span></span>                                <span>Paid coworking space (if remote) or office</span>                            </li>                            <li>                                <span></span>                                <span>Strong peers to learn from</span>                            </li>                            <li>                                <span></span>                                <span>This perk is only here to have an even number of perks</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "VPT-2npCTWyi3JYIAmZdAQ",
+    "url": "https://jobmote.com/job/82128/senior-data-engineer-remote/",
+    "title": "Senior Data Engineer (REMOTE)",
+    "tags": [
+      "DBG:surround``5N( opportun,             2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=32, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Visionaire Partners",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 29, 2019 10:07:49 PM",
+    "validThrough": "Oct 2, 2019 10:07:49 PM",
+    "crawled": "Sep 30, 2019 3:06:29 AM",
+    "content": "<div><p> Senior Data Engineer (REMOTE) </p> <p> Exciting opportunity for a Senior Data Engineer to join an automotive company to drive data and analytics across the company! </p> <p> This is a brand new role where you will play a key part in the operations of our newly established data platform to drive insights and business trends through data analysis across the organization. This is an individual contributor role where you will partner with C-Level Executives, external vendors, and other technical resources to develop data strategies and dashboards to be used for reporting and analytical purposes. </p> <p> This is a critical hands-on role where you will be responsible for building and managing batch and Real Time data pipelines, documentation, database/cube/dashboard development, and ETL processes. </p> <p> Enjoy this REMOTE direct-hire position with a well respected local company where you can truly make an impact and drive analytics across the organization! </p> <p> REQUIRED EXPERIENCE: </p> <ul><li> 4+ years BI/Data Engineering experience in a Microsoft environment </li> <li> Advanced experience maintaining, creating, and monitoring ETL tools (Alteryx, Knime, Informatica, etc) </li> <li> Advanced SQL - must be able to write advanced queries from scratch </li> <li> BI Tools (PowerBI preferred) </li> <li> Data Warehouse (modify existing models, analysis, and programming) </li> <li> MUST have experience working with the business and solid understanding of business processes </li> <li> Experience gathering business requirements and translating into technical specifications </li> <li> Excellent communication skills - will be interacting with stakeholders and upper management </li> </ul><p> PREFERRED EXPERIENCE: </p> <ul><li> Cloud (Azure) </li> <li> Alteryx </li> <li> Tableau </li> <li> Programming experience </li> </ul><p> Must be authorized to work in the U.S./Sponsorships are not available </p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Gzzs3IX8QD-9EBYS3owZGA",
+    "url": "https://jobmote.com/job/82126/senior-data-engineer-remote/",
+    "title": "Senior Data Engineer (REMOTE)",
+    "tags": [
+      "DBG:surround``5N( opportun,             2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=32, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Visionaire Partners",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 29, 2019 10:07:49 PM",
+    "validThrough": "Oct 2, 2019 10:07:49 PM",
+    "crawled": "Sep 30, 2019 3:06:29 AM",
+    "content": "<div><p> Senior Data Engineer (REMOTE) </p> <p> Exciting opportunity for a Senior Data Engineer to join an automotive company to drive data and analytics across the company! </p> <p> This is a brand new role where you will play a key part in the operations of our newly established data platform to drive insights and business trends through data analysis across the organization. This is an individual contributor role where you will partner with C-Level Executives, external vendors, and other technical resources to develop data strategies and dashboards to be used for reporting and analytical purposes. </p> <p> This is a critical hands-on role where you will be responsible for building and managing batch and Real Time data pipelines, documentation, database/cube/dashboard development, and ETL processes. </p> <p> Enjoy this REMOTE direct-hire position with a well respected local company where you can truly make an impact and drive analytics across the organization! </p> <p> REQUIRED EXPERIENCE: </p> <ul><li> 4+ years BI/Data Engineering experience in a Microsoft environment </li> <li> Advanced experience maintaining, creating, and monitoring ETL tools (Alteryx, Knime, Informatica, etc) </li> <li> Advanced SQL - must be able to write advanced queries from scratch </li> <li> BI Tools (PowerBI preferred) </li> <li> Data Warehouse (modify existing models, analysis, and programming) </li> <li> MUST have experience working with the business and solid understanding of business processes </li> <li> Experience gathering business requirements and translating into technical specifications </li> <li> Excellent communication skills - will be interacting with stakeholders and upper management </li> </ul><p> PREFERRED EXPERIENCE: </p> <ul><li> Cloud (Azure) </li> <li> Alteryx </li> <li> Tableau </li> <li> Programming experience </li> </ul><p> Must be authorized to work in the U.S./Sponsorships are not available </p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "mboYGpPMQwmaez6FaqEUzQ",
     "url": "https://jobmote.com/job/80673/senior-data-etl-engineer-remote/",
     "title": "Senior Data ETL Engineer - Remote",
@@ -14098,314 +14314,6 @@
     "validThrough": "Aug 3, 2019 10:07:19 PM",
     "crawled": "Aug 1, 2019 3:06:25 AM",
     "content": "<div>Dynamic, Entrepreneurial Marketing Consulting Company is seeking a Marketing Operations Manager to contribute to Financial Services Client?s customer retention strategy. If you have an entrepreneurial spirit and passion, are driven by results, solid campaign execution skills, we?re looking for you!?<br><br>C2G Partners is a successful marketing and analytics solutions company that has been ranked among Inc. Magazine?s ?Inc. 500 - 5000? list fastest growing companies in America, five out of the last six years. Our name C2G Partners means 'Committed to Growth'?, and this reflects both our desire to deliver exceptional results to our clients in helping them grow their business, as well as a strong growth culture that develops our employees and grows our company.? We aspire to be the preeminent provider of data driven marketing solutions in the industry.<br><br>The Senior Web Developer solves client problems using leading marketing technologies including solutions from Adobe, Google and Salesforce. Projects will include implementation, integration and enhancement of digital marketing tools. ??In this role, you?ll satisfy your desire for hands-on development, while exciting your entrepreneurial spirit with critical solution designs. This is a unique opportunity to help build a new division of the Data Science practice, focused on digital analytics and marketing technologies.<br><br>Key Responsibilities<ul><li>Design, document and implement technical solutions to client business questions in Adobe Experience Cloud, Google Marketing Cloud and Salesforce Marketing Cloud using relevant technical skills. Example projects may include:<ul><li>Re-architecture of existing digital marketing tools</li><li>Optimization of lead-generation efforts using Salesforce Marketing Cloud</li><li>Integration and ingestion of offline and online data in Adobe Audience Manager to deliver targeted remarketing advertisements</li><li>Implementation of tag management solutions (such as Google Tag Manager and Adobe Launch)</li></ul></li><li>Develop deep knowledge of emerging data governance, privacy, and information security regulations that affect marketing ? and understand the impact to solution offerings</li><li>Deliver high-quality projects on time and within budget in a fast-paced environment</li><li>Employ industry best practices in solution design, implementation, and testing</li></ul>The Details:<ul><li>Location: Remote (East Coast preferred)</li><li>Duration: Full-time</li><li>Travel Requirements: Up to 30-40%</li><li>Benefits: Health, Vision, Dental, 401K plan, Life Insurance, Pretax Commuter Benefits, and an incredibly supportive team cheering you on!</li></ul>Required Skills &amp; Qualifications:<ul><li>Degree in Computer Science, Engineering, MIS, or similar field</li><li>Minimum 3-5 years of hands-on experience with the following technologies:<ul><li>JavaScript (Advanced)</li><li>HTML &amp; CSS (Intermediate)</li><li>SQL, REST &amp; SOAP APIs</li></ul></li><li>Proven ability to collaborate and communicate effectively (written and oral) with both IT and marketing professionals</li><li>Ability to manage priorities across multiple projects</li></ul>Desired Skills &amp; Qualifications:<ul><li>Hands on experience with the following technologies:<ul><li>Adobe Experience Cloud solutions, particularly Analytics, Target or Audience Manager</li><li>Google Marketing Cloud, particularly GA360 and BigQuery</li><li>Tag Management technologies, especially data layer architecture and implementation</li><li>Mobile SDKs for marketing technologies</li><li>JSON</li></ul></li><li>Comfortable working in an Agile environment</li></ul>?</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "6tkFWez4R4ulv-HzHYYxCw",
-    "url": "https://www.workingnomads.co/job/go/24734/",
-    "title": "Data Engineer",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
-      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:pandas/python/5",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:scala/java/3",
-      "DBG_TECH1:k/t/w:velocity/java/8",
-      "DBG_TECH1:techWeightMap:{python=7, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=24, ruby=8, apple=0, java=11, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Toptal",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 9, 2019 12:20:02 PM",
-    "validThrough": "Jul 16, 2019 12:20:02 PM",
-    "crawled": "Jul 31, 2019 6:26:46 PM",
-    "content": "<p><strong>About </strong><strong>Toptal</strong></p><p>Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $100+ million in annual revenue and triple-digit growth, Toptal is the&nbsp;<a href='https://www.toptal.com/careers#remote-team' rel='nofollow'>largest fully distributed workforce</a>&nbsp;in the world.</p><p>We take the best elements of virtual teams and combine them with a support structure that encourages innovation, social interaction, and fun (see this&nbsp;<a href='http://www.huffingtonpost.com/entry/work-from-anywhere-in-the-world_us_581a1f01e4b083aaeef76a9b?064s98zsrt19n3ik9' rel='nofollow'>video</a>&nbsp;from The Huffington Post). We see no borders, move at a fast pace, and are never afraid to break the mold</p><p><strong>Position Description</strong></p><p>At Toptal, we measure everything and always rely on data to guide all of our initiatives, including both our long-term strategy and our day-to-day operations.</p><p>As a Data Engineer, your main goal is to be one step ahead of data scientists and analysts, and support them by providing infrastructure and tools they can use to deliver end-to-end solutions to business problems that can be developed rapidly and maintained easily. This is more than building and maintaining ETL pipelines. We need innovation, creativity and solutions that will have significant impact on our velocity. We, in turn, will give you autonomy and freedom to turn your ideas into reality.</p><p><strong>Responsibilities:</strong></p><ul><li>Build scalable, highly performant infrastructure for delivering clear business insights from a variety of raw data sources.</li><li>Develop batch &amp; real-time analytical solutions, prototypes, and proofs of concept for selected solutions.</li><li>Implement complex analytical projects with a focus on collecting, managing, analyzing, and visualizing data.</li><li>Build frameworks and tools to empower our data scientists and analysts.</li><li>Be in constant communication with team members and other relevant parties and convey results efficiently and clearly.</li></ul><p><strong>Requirements:</strong></p><ul><li>Working experience with&nbsp;<strong>Python</strong>,&nbsp;<strong>Pandas</strong>. Prior experience with&nbsp;<strong>Luigi</strong>&nbsp;is a plus.</li><li>Working experience with&nbsp;<strong>Scala</strong>&nbsp;and&nbsp;<strong>Airflow</strong>&nbsp;is a big plus.</li><li>Familiarity with&nbsp;<strong>Google Cloud Platform</strong>&nbsp;(e.g.&nbsp;<strong>GCS</strong>&nbsp;and BigQuery) is a plus.</li><li>Working experience with&nbsp;<strong>Dimensional Modeling</strong>&nbsp;and&nbsp;<strong>Rails</strong>&nbsp;is a plus.</li><li>Familiarity with the basic principles of&nbsp;<strong>distributed computing</strong>&nbsp;and&nbsp;<strong>data modeling</strong>.</li><li>Extensive experience with object-oriented design and coding and testing patterns, including experience with engineering software platforms and data infrastructures. Familiarity with functional programming concepts is a plus.</li><li>Outstanding communication and interpersonal skills.</li><li>Be excited about collaborating daily with your team and other groups while working via a distributed model.</li><li>Be eager to help your teammates, share your knowledge with them, and learn from them.</li><li>Be open to receiving constructive feedback.</li><li>You must be a world-class individual contributor to thrive at Toptal.</li></ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "BcQdIIQSQCifX5atpn75wg",
-    "url": "https://stackoverflow.com/jobs/141116/freelance-interview-engineer-karat?a=LkcSbeLCa0o",
-    "title": "Freelance Interview Engineer at Karat  ",
-    "tags": [
-      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
-      "DBG:surround``OR(no,no W central) W offic",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=2, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/mobile",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml",
-      "mobile",
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Karat",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 50000,
-      "maxValue": 160000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserDefaultImpl",
-      "isEquity": false,
-      "formatted": "USD 50k - 160k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 31, 2019 6:23:01 PM",
-    "validThrough": "Aug 7, 2019 6:23:01 PM",
-    "crawled": "Jul 31, 2019 6:23:01 PM",
-    "content": "<h3><span>Freelance Interview Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Contract</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer, Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Development / Engineering</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Karat | No office location<br></div><h4>Technologies</h4><div></div><div>technical-interviewing</div><div>data-structures</div><div>algorithm</div><div>java</div><div>python</div><div>jcs150 1</div><div>JLK 1</div><div>Kier 1</div><div>Austin Heimark 1</div>                <h4>Job description</h4>                <div><p><strong>Who is Karat?</strong> Karat is the world's leader in conducting first-round technical interviews. Our network of experienced interview engineers have conducted over 20,000 technical interviews on behalf of clients including Indeed, Pinterest, Intuit, and Citrix. We continuously analyze our interview data to get smarter and more predictive with every interview we conduct. As a result, our clients reclaim 60% of engineering hours per hire, accelerate achievement of their hiring goal by 25%, and offer an exceptional experience with 95% of candidates rating their experience as positive.</p><p><strong>Our Mission</strong> Our mission is to be the world’s interviewer. We conduct highly predictive interviews for our clients with rigor, humanity and fairness. Karat helps companies hire the engineers they need to create the future and helps ensure that engineers are in jobs that maximize their strengths.</p><p><strong>Join our community of Freelance Interview Engineers.</strong> Karat Interview Engineers are a network of experienced software engineers who are equipped with the best practices and technology required to be professional interviewers. Every interviewer in the network is an accomplished engineer. &nbsp;Our interviewers include development managers, software engineers and freelancers covering the full technology stack.</p><p><strong>Flexible, high impact work that is compensated at highly competitive rates.</strong> As an Interview Engineer, you will be compensated at highly competitive rates for your interviewing expertise. &nbsp;The time commitment is flexible---many of our interviews happen on nights and weekends. &nbsp;Some experts do 10 interviews/week while others do over 25 interviews/week. &nbsp;You can work from anywhere, anytime. &nbsp;You will sharpen your interviewing skills and transform the interviewing experience for every candidate and company. Interviews are paid at a flat rate of $100 USD per interview (60 minutes interview + up to 30 minutes for written feedback report).</p><p><strong>We are looking for experienced software engineers who believe that interviewing is a first-class job. You should possess:</strong></p><ul><li>Interviewing experience focused on evaluating fundamental computer science skills (i.e. data structures, algorithms etc.), software craftsmanship (i.e. understanding of unit testing, source control, APIs etc.), and/or specific technologies (i.e. iOS, distributed systems etc.).</li><li>Strong oral and written communication skills. Able to empathize with candidates and provide actionable feedback.</li><li>An ability to structure your schedule (i.e. you can pick certain blocks of time during the day, evenings, weekends).</li><li>A genuine desire to continuously improve the Karat service and technical interviewing.</li></ul>                </div>            <div>        <a href='https://grnh.se/1295fb4f2' rel='nofollow'>                        Apply now        </a></div>            <h4>About Karat</h4>            <div><p><strong>Interviewing is broken. &nbsp;Karat professionalizes interviewing.</strong></p><ul><li>Karat is on a mission to assess the world's talent. &nbsp;We are the first dedicated marketplace for technical interviewers. Karat's network of seasoned engineers conduct the first rounds of technical interviews for elite engineering companies. Our robust platform saves teams thousands of valuable hours while allowing them to focus on the top performing candidates. &nbsp;Karat's unique approach recognizes that people are central to the hiring process and that they can be supercharged by leveraging machine learning and our rich database of the world's interviews.</li></ul>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Flexible Hours - You own your schedule</span>                            </li>                            <li>                                <span></span>                                <span>Work from anywhere</span>                            </li>                            <li>                                <span></span>                                <span>Transparent compensation</span>                            </li>                            <li>                                <span></span>                                <span>Bonus programs</span>                            </li>                            <li>                                <span></span>                                <span>Regular company outings</span>                            </li>                            <li>                                <span></span>                                <span>Access to a world-class community of expert interviewers</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "xraRxYzxSoOCfmID4wCdfg",
-    "url": "http://workinstartups.com/job-board/job/82892/data-scientist-extraordinaire-at-exciting-startup-at-clikd-dating-app/",
-    "title": "Data Scientist Extraordinaire at Exciting Startup",
-    "tags": [
-      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:wordpress/php/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=3}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Clikd Dating App",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 31, 2019 11:41:15 AM",
-    "validThrough": "Aug 7, 2019 11:41:15 AM",
-    "crawled": "Jul 31, 2019 1:06:31 PM",
-    "content": "<p>Here at CLiKD We are currently recruiting for an intern with attitude. We are an early stage startup we are enjoying some great traction; you may have seen us featured on/in BBC News, Evening Standard, MTV, GQ, London Live, The Telegraph, Daily Mail plus many more, and we are looking for someone to join the team at this very exciting time. Our app is called CLiKD, you can find more info at www.clikdapp.com &ndash; we have been nominated for 4 awards and won best innovation in the dating industry 2017 as well as holding the number 4 spot for the UK&rsquo;s best dating blog!<br /><br />What we are looking for:<br />People with a passion for data, algorythims and business. Your number one aim will be able to help us to improve the in app mertrics and refine our recommendations algorthim. You will be part of fun and competitive team which is seeking to make CLiKD the next big dating app. You will be managed by our business development manager but also have scope to push your own businesses ideas. If your looking to get experience, well we are a startup which believes in giving you the opportunity to try things. With over 2.5 million personality based questions already answered by our ~40,000 users we have the data to build the most powerfull recommendation algorithm in the industry and this is your chance to shape that!</p><br /><p><br />You will be a confident communicator, with strong communication skills and go-get attitude. You&rsquo;ll need to be passionate about meeting new people and happy to muck in and get involved in a range of commercial initiatives as well as provide valuable insights and guidance to our app development team.<br /><br />Whilst you&rsquo;ll be working with our Business Development Manager and the CEO, you&rsquo;ll also have independence to work on many of small projects and experience any of the wider functions of an exciting app startup , hopefully allowing you to build your own portfolio of great work.</p><br /><p><br />This role is best aimed at those looking to gain some experience, put their academic studies to practical use or maybe you have an app idea yourself and would like to see how it&rsquo;s done, as long as you are passionate about what ever you do then we want you!<br /><br />You will be required to give us 2-3 days a week though we can be flexible to extent as to the time though this will generally be expected during 9-5:30.<br /><br />The company is growing quickly and we are keen to take people with us on our exciting journey and we are currently fundraising so we hope that post fundraising we will look to hire interns who prove themselves to be asset to the company. Sadly the current position is renumerated in expenses (normally &pound;15 per day) and equity.<br /><br /><br />SKILLS:&nbsp;<br />This opportunity is for someone with the right attitude, but we do need some basics:<br />-A background in Data Science and analysis<br />-Familiarity with Amazon Red Shift, MySQL, Tableau and Segment<br />-Technically proficient in terms of using standard office equipment<br />-Excellent communicator<br />-An enthusiasm for creating business and talking to people.&nbsp;<br />-Confidence, enthusiasm and the ability to challenge conventional thinking<br />-Anything else you can bring the table is a plus! PHP, HTML, CSS, SEO, PPC, Social Media Management/Advertising, Web Design, Wordpress, Photoshop, Final Cut, etc. amazing, but by no means essential.<br /><br /><br /><br />WHAT YOU&rsquo;LL GET:&nbsp;<br />The opportunity to work for an exciting new start up, shaping the future of the CLiKD app (and the dating industry) and growing a startup.<br />The chance to work on some crazy projects: https://www.clikdapp.com/love-at-first-flight<br />The chance to work on some great community projects: https://www.clikdapp.com/loveinlondon<br />The chance to show off your creative side and work with other creatives: https://www.clikdapp.com/blog https://www.youtube.com/channel/UCBE7SuipvhPp4snKJPhhOKQ<br />A repository of portfolio work<br />The opportunity to work with a wide range of interesting entrepreneurs and awesome brands.<br />Weekly seminars from experienced professionals on a range of business topics.</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "XBiNwWw2QMisDh6LF_-e7Q",
-    "url": "https://jobmote.com/job/53965/senior-data-architect-remote/",
-    "title": "Senior Data Architect- REMOTE",
-    "tags": [
-      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=32, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 30, 2019 10:07:26 PM",
-    "validThrough": "Aug 2, 2019 10:07:26 PM",
-    "crawled": "Jul 31, 2019 3:06:25 AM",
-    "content": "<div>Minimum Required Skills:<br>NiFi, AWS, glue, Kinesis, ETL<br><br>If you are a Senior Data Architect (remote) with experience in AWS and ETL development/pipelines, please read on!<br><br>Located in Denver, Colorado (but this person can be located anywhere in the U.S.), we specialize in assisting our clients with their digital assets in the crypto portfolio/management space. We have been in business for a couple of years and are growing immensely. We are a tight-knit team over here so someone who enjoys working collaboratively will work great here!<br><br>We are looking for a talented Data Architect who is going to have a strong background in AWS, ETL development and Linux. Any experience with Glue, Kinesis, or Nifi is a PLUS! You will be responsible for building or architecting the infrastructure, as well as data modeling and potentially ingestion and ex-filtration of data to different sources. This is a leadership role so someone who enjoys being the most Senior on the team will like it here! Any experience in the Crypto, Blockchain, or Fiance world would also be a PLUS!<br><br>**Will require 50% travel to Denver at first, then flatten out to 25%**<br><br>What You Will Be Doing<br><br>-Working collaboratively in a team<br>-Utilizing AWS and ETL pipelines<br>-Architecting the infrastructure<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and knowledge of:<br><br>- NiFi<br>- AWS<br>- glue<br>- Kinesis<br>- ETLSo, if you are a Senior Data Architect- REMOTE with experience, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "zbp7oc8jQM25-_aGlUog9w",
-    "url": "https://jobmote.com/job/53957/senior-data-quality-analyst-relocation-or-work-remote/",
-    "title": "Senior Data Quality Analyst - Relocation or Work Remote",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Z&A Recruiting",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 75000,
-      "maxValue": 88000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 75k - 88k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 30, 2019 10:07:26 PM",
-    "validThrough": "Aug 2, 2019 10:07:26 PM",
-    "crawled": "Jul 31, 2019 3:06:25 AM",
-    "content": "<div>Job DescriptionPremier global, high growth San Antonio Company is adding to the team due to growth. This well- established Company is known for its phenomenal benefits, single digit turnover, team atmosphere, internal promotion track record, and work life balance. It has an incredible reputation for being people centric and a huge contributor to the community.The ideal candidate will be able to apply their knowledge of master, reference, and transaction data to define, develop and execute test cases that ensure Company data stores and assets are complete, of high quality, and are in alignment with Co. business process and goals.The candidate will leverage training in data analytics and SQL to develop an in-depth testing approach and work with stakeholders by creating and executing test cases in alignment with project and process goals as well as Data Governance guidelines.Driven by curiosity and a passion for data, the ideal candidate thrives in situations where they can apply their knowledge of data and testing protocols to ensuring that the Company has high quality, consistent information that can be leveraged to drive business decisions. Responsible for defining and executing data-oriented testing and must possess intermediate to advanced expertise in data analytics and SQL.ResponsibilitiesDefine and execute test cases in the Oracle &amp; HADOOP environments using SQL as the primaryApply best-in-class testing methodologies to ensuring the accuracy and consistency of Company data across multiple platforms.Perform root cause analysis on data errors and issues and identify source, process, or person generating the errors.Identify data exceptions that require stewardship and work with cross-functional teams to define procedures for resolving those errors.Document test cases, execution, and results and provide metrics that demonstrate the % complete, progress to date, and remaining work.Develop an expertise in the Co. data, business, and processes that can be used to drive future testing initiatives and improvements in the overall quality of Co. data.Translate testing results into on-going metrics and exceptions that can be used to proactively monitor data once it has been moved to production.Act as support for investigating and resolving production data issues.Develop a close collaboration with technology partners to strengthen alignment between business data applications, implications and technical architecture QualificationsQualifications Bachelor's Degree (Master's preferred) 5+ years' experience; working with end-users stakeholders in testing and analytics Advanced analytical and quantitative skills with the ability to systematically test large and complex data sets identifying potential errors and driving to a root cause. Intermediate to advanced knowledge of SQL as a power user. Excellent communication skills Excellent planning, organization and time management skills- Intense curiosity and passion for data. Customer Relationship Management (CRM) Solutions, specifically Salesforce.com, preferred Experience with Total Quality Management (TQM) preferred. Office-based (San Antonio) position OR Remote#ind123Additional InformationCompensation: $75,000 -$88,000 plus 10% bonus, several weeks of vacation and great benefits</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "GR3Q7fLWQuOMZIA8c8tRAQ",
-    "url": "https://jobmote.com/job/53954/senior-big-data-engineer-product-development-remote-us/",
-    "title": "Senior Big Data Engineer - Product Development (Remote - US)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:apache-storm/java/8",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
-      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=5, c=2, mobile=0, go=0, nodejs=1, bigdata-ml=24, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "TTEC",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Jul 30, 2019 10:07:26 PM",
-    "validThrough": "Aug 2, 2019 10:07:26 PM",
-    "crawled": "Jul 31, 2019 3:06:25 AM",
-    "content": "<div>Sr. Engineer - Product development?<br><br>TTEC?s Insights Platform is a cloud-based customer data platform that provides brands with a 360? view of their customers? needs, behaviors, and preferences with the insights they need to deliver a great customer experience.<br><br>The product development engineer will be responsible for development, implementation and delivery for new and ongoing client implementations of the Insights Platform. This will require working with clients and coordinating with internal business consulting, analyst, data science, and technology teams.<br><br>Check out our website below to learn more about what we do and how we help our clients.<br><br>Primary Responsibilities:<br><br>???????? Provide thought leadership in architecture, design for analytics products<br><br>???????? Be an SME in technical and functional aspects of the insights platform and its integration requirements<br><br>???????? Lead cross functional product development efforts<br><br>???????? Proactive identification of internal and external dependencies, highlighting issues, scope changes, and progress against project plan<br><br>???????? Work with data scientists and business stakeholders to build the product and feature pipelines<br><br>???????? Provide technical support to assist clients and partners during and post implementation<br><br>???????? Manage development resources onsite and offshore<br><br>???????? Develop and expand our application knowledge base and best practices for delivering data products<br><br>Required Experience and Skills:<br><br>???????? Master?s in computer science or equivalent with at least 5 years of relevant experience in big data ecosystem<br><br>???????? Expert level proficiency in C#, Python, JavaScript, SQL is a must<br><br>???????? Experience in building/consuming REST APIs (JSON) and SDKs is a must<br><br>???????? Proficiency with the Azure(preferred), AWS or other cloud ecosystem<br><br>???????? Understanding of Agile Software Development Lifecycle and project planning/execution skills<br><br>???????? Ability to assess business rules, collaborate with stakeholders and perform source-to-target data mapping, design and review.<br><br>???????? Experience with processing large sets of structured, semi-structured and unstructured data and supporting systems application architecture<br><br>???????? Experience with batch and?real-time?processing frameworks (Hadoop, Apache Storm, Apache Kafka, Apache Spark etc.)<br><br>???????? Experience with NoSQL databases<br><br>???????? Understanding of complex data flows, identification of data processing bottlenecks and designing and implementing solutions.<br><br>???????? A broad set of technical skills and knowledge across hardware, software, systems and solutions development and across more than one technical domain.<br><br>???????? Experience in professional services or technical consulting with enterprise software solutions<br><br>???????? Proven ability to balance and manage multiple, competing priorities.<br><br>???????? Collaborative interpersonal skills and ability to work within cross-functional teams.<br><br>???????? Self-starter who relies on experience and judgment to plan and accomplish goals in complex fast-paced environment to ensure quality of all data integration points.<br><br>What We Offer:<br><br>???????? Variable incentive bonus plan, 401K company match, tuition reimbursement<br><br>???????? Global career mobility, employee recognition programs, professional development<br><br>???????? State of the art technology which allows for seamless global connectivity<br><br>???????? Rich wellness program and health incentives<br><br>Lead Everyday w Do the Right Thing w?Reach for Amazing w?Seek First to Understand w Act as One w Live life Passionately<br><br>#LI-RD1<br></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
