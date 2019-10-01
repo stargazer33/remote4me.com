@@ -1,6 +1,226 @@
 {
  "items": [
   {
+    "id": "err5Ah5oT2ONgTWmEqYwaA",
+    "url": "https://news.ycombinator.com/item?id=21126736",
+    "title": "DuckDuckGo - We are looking for candidates that are excited to join us on a mission to be the ...",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/unknown",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "undefined job title"
+    ],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 5:49:44 PM",
+    "validThrough": "Oct 8, 2019 5:49:44 PM",
+    "crawled": "Oct 1, 2019 6:24:08 PM",
+    "content": "DuckDuckGo - We are looking for candidates that are excited to join us on a mission to be the company people trust most with their online privacy.  All of our roles are fully-remote!<p>DuckDuckGo | Director, User Insights | REMOTE</p><p>DuckDuckGo | Senior Mobile Engineer | REMOTE</p><p>DuckDuckGo | Senior Site Reliability Engineer | REMOTE</p><p>DuckDuckGo | Senior Frontend Engineer | REMOTE</p><p>DuckDuckGo | Senior macOS Engineer | REMOTE</p><p><a href='https://duckduckgo.com/hiring' rel='nofollow'>https://duckduckgo.com/hiring</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "l0Fs70PHQuG1OrAs6qW6hg",
+    "url": "https://news.ycombinator.com/item?id=21126565",
+    "title": "Root Insurance Co| Columbus, OH / Chicago, IL | Full-time | Onsite / remote (US only)| $80k- ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=1, bigdata-ml=8, ruby=10, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/unknown",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "undefined job title"
+    ],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 80000,
+      "maxValue": 170000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": "USD 80k - 170k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 5:37:17 PM",
+    "validThrough": "Oct 8, 2019 5:37:17 PM",
+    "crawled": "Oct 1, 2019 6:24:08 PM",
+    "content": "Root Insurance Co| Columbus, OH / Chicago, IL | Full-time | Onsite / remote (US only)| $80k-$170k <a href='https://root.engineering/' rel='nofollow'>https://root.engineering/</a><p>Root is an auto insurance carrier, like GEICO and Progressive. We use data science to identify and insure good drivers, reducing insurance premiums for good drivers significantly as a result.</p><p>We're a startup — we're 700+ people who have been working on this since March 2015. We've built an iOS and Android app that gathers data on how well people drive. We use that to set insurance prices. To build the best possible product and user experience, we went through the arduous process of starting an insurance carrier from scratch.</p><p>We're focused on becoming a national insurance carrier and are now live in 29 states.</p><p>We recently raised the largest VC round ever for an Ohio technology company ($523 million in funding to date.) We're planning on leveraging that momentum to continue scaling rapidly and build something truly unique in the insurance industry. To do that, we're looking to bring on more exceptionally talented engineers. Whether you're just getting started out in software development or someone who is looking to lend your experience in leadership to a rapidly scaling engineering organization, we plan on doubling our engineering team in the next year alone.</p><p>Our tech stack involves Ruby / Rails and Javascript / React Native. However, we're not only looking for people with experience in our stack but rather we're looking for experienced technologists with sound engineering fundamentals using any technology.</p><p>We're actively hiring in Columbus, OH and are also building an Engineering Team in Chicago, IL that will be working very closely with our telematics data. This team will play a major part in where we're headed, and we're searching for experienced Engineers who are looking to have a significant impact by building and leading a team from scratch specifically in Chicago.</p><p>Email us at enghiring@joinroot.com to apply and either Tim or Chris will respond to you promptly.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "SKQ6rFy0Rki6TEdPkR9v1Q",
+    "url": "https://news.ycombinator.com/item?id=21126528",
+    "title": "Taskade (YC S19) | San Francisco + Singapore | Onsite / Remote | https://www.taskade.com ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:k/t/w:reactjs/frontend/24",
+      "DBG_TECH1:k/t/w:socket.io/nodejs/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=34, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=40}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/unknown",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "undefined job title"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 5:34:41 PM",
+    "validThrough": "Oct 8, 2019 5:34:41 PM",
+    "crawled": "Oct 1, 2019 6:24:08 PM",
+    "content": "Taskade (YC S19) | San Francisco + Singapore | Onsite / Remote | <a href='https://www.taskade.com' rel='nofollow'>https://www.taskade.com</a><p>Taskade is building the unified workspace for distributed teams. Manage tasks, write notes, and video chat, in one unified tool. We are reimagining the future of work, remote collaboration, and team productivity.</p><p>Our mission is simple, to help teams get work done, faster and smarter. Here is our story: <a href='https://www.taskade.com/about' rel='nofollow'>https://www.taskade.com/about</a></p><p><i></i>Here are our open roles:<i></i></p><p></p><pre><code>   * Full Stack Software Engineer — React, Redux, GraphQL, NodeJS, Postgres   * Front-end Software Engineer — HTML/CSS, React, Redux   * UX / Product Designer — Sketch, Figma, Adobe Creative Suite</code></pre><i></i>Our Tech Stack:<i></i><p></p><pre><code>   * Back End: NodeJS, Postgres, Redis, Elastic, Socket.IO   * Front End: ReactJS, GraphQL   * DevOps: Kubernetes   * Cloud: AWS, GCP   * Mobile: iOS, Android, React-Native   * Desktop: ElectronJS</code></pre><i></i>Key Traits:<i></i><p></p><pre><code>   * Passion for productivity tools and remote collaboration   * Excellent problem-solving abilities   * Ability to learn and adapt</code></pre>To learn more about who we are, our culture, and whether Taskade is the right place for you, please ping me at john@taskade.com and check the full job descriptions at <a href='https://www.taskade.com/jobs' rel='nofollow'>https://www.taskade.com/jobs</a>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "oqqK3NVqR7uVhl9YkxNUQQ",
+    "url": "http://workinstartups.com/job-board/job/85077/youtube-channel-host-at-miskie-london/",
+    "title": "Youtube Channel Host",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/unknown",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "undefined job title"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Miskie London",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 3:39:53 PM",
+    "validThrough": "Oct 8, 2019 3:39:53 PM",
+    "crawled": "Oct 1, 2019 5:06:41 PM",
+    "content": "<p>At Miskie London we are looking for a bubbly and confident individual to host our youtube channel (2-3 short videos per week) discussing a range of topics that affect our consumer base as well as other topics. we also have video editors and graphic designer to deal with the edditing and art work for videos. the host will be credited and if you are the right fit an oppurtunity for a full time possition may arrise. this role can be completed remotely from anywhere in the U.K. If you believe you have the desired qualities for the role send us an email. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "aIHDzt-MSNKUTjX8gDxuBQ",
     "url": "https://remote.co/job/intelligence-management-graduate-school-adjunct-faculty/",
     "title": "Intelligence Management, Graduate School – Adjunct Faculty",
@@ -1599,6 +1819,57 @@
     "validThrough": "Oct 2, 2019 3:25:09 PM",
     "crawled": "Sep 25, 2019 4:07:25 PM",
     "content": "<h3>Registered Nurse Call Center at <span>UnitedHealth Group</span></h3><div><span><i></i> Remote</span>        </div><div>            <p><strong>Location:</strong>&nbsp;Georgia United States<br><strong>Division:</strong>OH Ops-PHM Payer<br><strong>Contest Number:</strong>&nbsp;850160<br><strong>Family:</strong>&nbsp;Nursing<br><strong>Function:</strong>&nbsp;Call Center/Triage<br><strong>BusinessSegment:</strong>&nbsp;Optum Consumer Solutions Group<br><strong>Region:</strong>&nbsp;North America<br><strong>Country:</strong>&nbsp;United States<br><strong>State:</strong>&nbsp;Georgia<br><strong>Other States:</strong>&nbsp;California Florida Iowa Missouri Florida<br><strong>EmployeeStatus:</strong>Regular<br><strong>Schedule:</strong>Full-time<br><strong>JobLevel:</strong>Individual Contributor<br><strong>Shift:</strong>Variable<br><strong>Travel:</strong>No<br><strong>Overtime Status:</strong>Non-exempt<br><strong>TelecommuterPosition:</strong>&nbsp;<strong>Yes</strong></p><h5><strong>Position Description</strong></h5><p>There’s energy and excitement here, a shared mission to improve the lives of others as well as our own. Nursing here isn’t for everybody. Instead of seeing a handful of patients each day, your work may affect millions for years to come. Ready for a new path? Start doing&nbsp;<strong>your life’s best work.(sm)</strong></p><p><strong>Optum Nurse Line is a 24/7 inbound call center.</strong></p><p>Training, regardless of schedule, will be a full 40 hours per week for approximately 4 – 6 weeks, during regular business hours, 9am – 5pm EST and during your assigned shift.</p><p><strong>Below are the schedules available and Flex Hours policies. The schedules are firm and not negotiable.</strong></p><p>Time Zone</p><p>Time</p><p>PST</p><p>6:00pm – 2:30am</p><p>MST</p><p>7:00pm – 3:30am</p><p>CST</p><p>8:00pm – 4:30am</p><p>EST</p><p>9:00pm – 5:30am</p><p><strong><u>Full Time Flex (Flex Hours</u>):</strong></p><ul><li>Will be considered a full-time employee</li><li>Will be scheduled 40 hours per week during training</li><li>Will be scheduled up to 45 hours per week during peak need periods</li><li>Will be scheduled no less than 35 hours per week, during non-peak periods</li><li>Will be scheduled in increments of up to one hour more or less per day than standard schedule</li></ul><p><strong>You’ll enjoy the flexibility to telecommute* from anywhere within the U.S. as you take on some tough challenges.</strong></p><p><strong>Primary Responsibilities:</strong></p><ul><li>We are an inbound call center open 24/7, including holidays</li><li>Assesses and triages immediate health concerns</li><li>Identifies problems or gaps in care offering opportunity for intervention</li><li>Coordinates services and referrals to health programs</li><li>Provides health education and coaches consumers on treatment alternatives to assist them in best decision making</li><li>Supports consumers in selection of best physician and facility to maximize access, quality, and to manage heath care cost</li><li>Prepares individuals for physician visits</li><li>Manages utilization through education</li><li>Special projects, initiatives, and other job duties as assigned</li></ul><p>You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.</p><p><strong>Required Qualifications:</strong></p><ul><li><strong>Active, unrestricted RN license in the state of residence</strong></li><li>Multiple state licensure (in addition to Compact License if applicable) or ability to obtain multiple state nursing licenses</li><li>5+ years of experience in any clinical setting</li><li>1+ years experience working in a hospital setting</li><li>Proficient level of experience with Microsoft Office applications, and strong technical aptitude</li><li>Ability to work 8 hour shifts with a two week rotation schedule – Flex shifts</li><li>Ability to work 40 hours per week Monday – Friday during daytime hours for first 4 – 6 weeks for training and precepting</li><li>Access to high speed DSL or cable internet along with a home office</li></ul><p><strong>Preferred Qualifications:</strong></p><ul><li>CA RN license</li><li>Bilingual Spanish</li><li>Previous experience working with the geriatric population</li><li>Home health experience</li><li>Triage experience</li><li>Case management experience</li><li>Previous customer service experience</li><li>Previous experience in a telephonic case management role</li><li>Strong verbal and written communication skills</li><li>Highly organized, self-directed worker with an ability to function in high volume environment</li></ul>        </div><div>        <a href='http://careers.unitedhealthgroup.com/data/jobs/nursing/850160-registered-nurse-call-center-bilingual-spanish-speaking-preferred-evenings-weekends-telecommute?utm_source=flexjobs&amp;utm_medium=job_posting&amp;utm_campaign=branding&amp;utm_term=&amp;utm_content=' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "TcpK2xEvRNmfbNDAG5hIOA",
+    "url": "https://remote.co/job/senior-risk-policy-analyst/",
+    "title": "Senior Risk Policy Analyst",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``can 2W remot",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/unknown",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "undefined job title"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "JPMorgan Chase",
+      "sameAs": "https://go.wepay.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 25, 2019 2:41:20 PM",
+    "validThrough": "Oct 2, 2019 2:41:20 PM",
+    "crawled": "Sep 25, 2019 3:07:26 PM",
+    "content": "<h3>Senior Risk Policy Analyst at <span>JPMorgan Chase</span></h3><div><span><i></i> Remote</span>        </div><div>            <p><strong>REMOTE/ANYWHERE</strong></p><p>OPERATIONS – RISK</p><p>FULL-TIME</p><p>WePay is rapidly growing and is actively seeking a Senior Risk Policy Analyst to be a part of its risk team. If you are passionate about building risk policy for a growing online payment team, making thoughtful business decisions and mentoring individuals to grow, this may be the right role for you.</p><p>WePay risk is growing its risk policy team to match a growing portfolio of small and medium businesses. The Senior Risk Policy Analyst will help create new risk policies and modify existing policies for the growing merchant portfolio. This role will work directly with senior risk management to come up with credit and fraud risk policies, and contribute directly to WePay’s financial and regulatory goals. In addition, this role will help shape WePay’s risk procedures and products to align with risk policy.</p><p>In this position, you will constantly be faced with challenging and interesting policy decisions that will impact and influence the bottom line of the company. That means no two days are the same. The individual who joins this team will have a chance to work in the areas of risk product, policy, detection, and analytics, as well as influence credit risk and fraud review teams. You will have an opportunity to expand your skills and be able to determine your future career path.</p><p><strong>Please note that this position can be remote, or it can be seated in our office in Providence, Rhode Island.</strong></p><p><strong>What You Will Do</strong></p><ul><li><ul><li>Create and modify risk and underwriting policies based on portfolio risk and market needs</li><li>Make decisions on the direction of risk management based on and supported by data</li><li>Prepare appropriate documentation and update internal software programs pertaining to policy decision changes</li><li>Work with analytics and reporting teams to come up with new credit risk policy for WePay’s high exposure merchant portfolio</li><li>Collaborate closely with product, engineering, and data science teams to ensure risk policy decisions are included in product and process changes</li><li>Discuss and communicate policy decisions to management as necessary</li><li>Collaborate with risk operations teams to ensure policy changes are operational downstream</li><li>Assist product teams in creating risk-mitigating controls as appropriate</li><li>Other duties as needed</li></ul></li></ul><p><strong>What We Are Looking For</strong></p><ul><li><ul><li>MUST have 3+ years of experience building and overseeing risk policy at a payments company or in financial services</li><li>Demonstrable experience in making and executing sound risk policy decisions, especially using both data and good judgment</li><li>Analytical skills (SQL, Excel) and database experience a huge plus</li><li>Experience working with product and engineering teams a plus</li><li>Experience in working with rule engines a plus</li><li>Attention to detail and accuracy</li><li>Good analytical and problem-solving skills</li><li>Strong email communication skills</li></ul></li></ul><p><strong>About WePay</strong></p><p>WePay’s mission is to make commerce seamless. Our products help software companies integrate payments into their applications – thereby empowering small businesses and individuals to get paid easily and quickly using their go-to apps and software. Our customers include BigCommerce, GoFundme, Meetup and Freshbooks, just to name a few. By joining forces with JPMorgan Chase, a global financial services firm with over $2.5 trillion in assets that serves millions of customers worldwide, WePay is now able to connect our customers seamlessly into a range of banking services beyond payments. WePay is a unique place to work and offers the best of both worlds. WePay has a FinTech startup culture that emphasizes transparency, collaboration and career growth, with the ability to work on small, nimble teams. However, now combined with the power of JPMorgan Chase, employees are also able to create change at scale and have an opportunity to truly disrupt and shape FinTech.</p><p>You can find more information at wepay.com</p><p>To all recruitment agencies: WePay does not accept agency resumes. Please do not forward resumes to our jobs alias, WePay employees, or any other company location. WePay is not responsible for any fees related to unsolicited resumes.</p>        </div><div>        <a href='https://jobs.lever.co/wepay/1873d02a-872b-4389-8199-7bb77f4c4d21' rel='nofollow'>Apply for job</a>    </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -15366,1240 +15637,6 @@
     "validThrough": "Aug 9, 2019 7:56:48 AM",
     "crawled": "Aug 2, 2019 8:07:11 AM",
     "content": "SEEKING FREELANCER | San Francisco, CA | REMOTE OK<p>Launched 3 years ago, Hack Club (<a href='https://hackclub.com' rel='nofollow'>https://hackclub.com</a>) is a nonprofit global network of student-led hacker clubs across 35 states and 17 countries, impacting thousands of students each year. Our programs span hundreds of after-school clubs, dozens of student-led hackathons, a vibrant online Slack community with thousands of students, and a fiscal sponsorship (<a href='https://en.wikipedia.org/wiki/Fiscal_sponsorship' rel='nofollow'>https://en.wikipedia.org/wiki/Fiscal_sponsorship</a>) program that recently crossed $700K in transactions and frontpaged Hacker News a few months ago (<a href='https://news.ycombinator.com/item?id=19257241' rel='nofollow'>https://news.ycombinator.com/item?id=19257241</a>).</p><p>We’re seeking a talented graphic designer to join on contract to design our first t-shirt. We see swag as an increasingly important investment and this shirt will be printed and distributed to our thousands of students across the world.</p><p>About you: obsessive, past experience with t-shirt design, and deeply understands developers and branding.</p><p>Please email zach@hackclub.com if interested. We’re a nonprofit, but pay is competitive.</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "y6nu95IIRvuI0UaVEk0hnQ",
-    "url": "https://news.ycombinator.com/item?id=20587853",
-    "title": "Root Insurance Co| Columbus, OH / Chicago, IL | Full-time | Onsite / remote (US only)| $80k- ...",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG:surround``remot 3W onli",
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=1, bigdata-ml=8, ruby=10, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=9}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/frontend",
-      "TECH1/ruby",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "frontend",
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 80000,
-      "maxValue": 170000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": "USD 80k - 170k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 10:12:26 PM",
-    "validThrough": "Aug 8, 2019 10:12:26 PM",
-    "crawled": "Aug 1, 2019 10:32:05 PM",
-    "content": "Root Insurance Co| Columbus, OH / Chicago, IL | Full-time | Onsite / remote (US only)| $80k-$170k<p><a href='https://root.engineering/' rel='nofollow'>https://root.engineering/</a></p><p>Root is an auto insurance carrier, like GEICO and Progressive. We use data science to identify and insure good drivers, reducing insurance premiums for good drivers significantly as a result.</p><p>We're a startup — we're 600+ people who have been working on this since March 2015. We've built an iOS and Android app that gathers data on how well people drive. We use that to set insurance prices. To build the best possible product and user experience, we went through the arduous process of starting an insurance carrier from scratch.</p><p>We're focused on becoming a national insurance carrier and are now live in 24 states.</p><p>We've raised $180M in Venture Capital since 2015 and we're scaling rapidly. To do that, we're looking to bring on more exceptionally talented engineers. Whether you're just getting started out in software development or someone who is looking to lend your experience in leadership to a rapidly scaling engineering organization, we plan on doubling our engineering team in the next year alone.</p><p>Our tech stack involves Ruby / Rails and Javascript / React Native. However, we're not only looking for people with experience in our stack but rather we're looking for experienced technologists with sound engineering fundamentals using any technology.</p><p>We're actively hiring in Columbus, OH and are also building an Engineering Team in Chicago, IL that will be working very closely with our telematics data. This team will play a major part in where we're headed, and we're searching for experienced Engineers who are looking to have a significant impact by building and leading a team from scratch specifically in Chicago.</p><p>Email us at enghiring@joinroot.com to apply and either Tim or Chris will respond to you promptly.</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "lkJUuVHxRICJemx_dMMEog",
-    "url": "https://news.ycombinator.com/item?id=20587784",
-    "title": "FreeAgent, Edinburgh and REMOTE https://www.freeagent.com At FreeAgent we help freelancers and ...",
-    "tags": [
-      "DBG:surround``2N( OR(across,digit),     2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG_TECH1:k/t/w:com/dotnet/8",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=10, ruby=10, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/dotnet",
-      "TECH1/ruby",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "bigdata-ml",
-      "dotnet",
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 10:06:10 PM",
-    "validThrough": "Aug 8, 2019 10:06:10 PM",
-    "crawled": "Aug 1, 2019 10:32:05 PM",
-    "content": "FreeAgent, Edinburgh and REMOTE<p><a href='https://www.freeagent.com' rel='nofollow'>https://www.freeagent.com</a></p><p>At FreeAgent we help freelancers and small businesses be more successful by putting them in control of their company finances.</p><p>We have built an award-winning banking and accounting app that offers full end-to-end compliance, from time tracking to tax return filing. We're based in beautiful Edinburgh and we're growing from strength to strength with over 90,000 paying customers and strong YoY growth. Our NPS is amazing (70!) - customers love what we do and our team get to make a real impact.</p><p>We're a growing team of over 200 people. 50% of our engineering team are distributed across the UK, the rest being based at our Edinburgh HQ. If you want to help us make small businesses AWESOME at doing their finances, take a look at our vacancies -&gt; <a href='https://www.freeagent.com/company/careers' rel='nofollow'>https://www.freeagent.com/company/careers</a>.</p><p>* Product engineers, junior/mid/senior/principal - you'll be working predominantly with Ruby on Rails but you don't need to have direct experience of - we'll get you up to speed!</p><p>* Platform engineers, mid/senior/principal - opportunities to work on our cloud migration (we've moving to AWS), CI/CD, developer tooling, data science, machine learning</p><p>* Engineering managers, team leads, product managers, product designers</p><p>You can apply directly via the website but feel free to get in touch with me (the CTO) directly – olly [at] freeagent [dot] com – if you have any questions. Happy to chat!</p><p>(We are looking for <i></i>UK-based<i></i> full-time staff only right now)</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "nhWzK4WtSIiWR8z2dPz9OA",
-    "url": "https://news.ycombinator.com/item?id=20587570",
-    "title": "Tanium | Emeryville, CA (SF) or Morrisville, NC (RTP) or REMOTE https://www.tanium.com/careers ...",
-    "tags": [
-      "DBG:surround``OR(scrum,standup) 7W OR(timezon,time,hour)",
-      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
-      "DBG_TECH1:k/t/w:air/frontend/8",
-      "DBG_TECH1:k/t/w:air/mobile/8",
-      "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:c++/c/8",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:rust/other/5",
-      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=8, mobile=8, go=11, nodejs=15, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=26}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 9:47:18 PM",
-    "validThrough": "Aug 8, 2019 9:47:18 PM",
-    "crawled": "Aug 1, 2019 10:32:05 PM",
-    "content": "Tanium | Emeryville, CA (SF) or Morrisville, NC (RTP) or REMOTE<p><a href='https://www.tanium.com/careers/?gh_src=qprker8f1' rel='nofollow'>https://www.tanium.com/careers/?gh_src=qprker8f1</a></p><p>Tanium's product is basically computer security &amp; management software for government and large enterprises. It's orders of magnitude faster than most competition, and customers love it. Fortune called us the &quot;Usain Bolt of cyber­security&quot; [1], and Forbes put us at #4 on the Cloud 100 list [2].</p><p>The former CIO of the US Air Force, said that Tanium is &quot;game-changing ... allowing a tremendous amount of automation and reduced workloads for our network operations people significantly, meaning things that used to take them months is now down to seconds, or minutes.&quot; [3] The USAF used Tanium to patch all of their systems for WannaCry in 41 minutes and consider any system without our software as &quot;high risk&quot;. [4]</p><p>Fortune featured us as one of the best medium-sized places to work [5], and the Great Place to Work survey put us at #18 in Best Workplaces in the Bay Area [6].</p><p>Benefits include healthcare, 401k match, self-directed/unlimited vacation time (most folks take 4-5 weeks), paid time off for volunteering, extensive parental leave, fertility and adoption benefits, and more.</p><p>Compensation is near FAANG levels with strong base pay, large annual bonuses, and equity in the form of RSUs. The recruiting team can share more details there.</p><p>We get everyone together 4 times a year to keep the remote staff from feeling too remote, and most teams do zoom calls for standup 2-3 times a week.</p><p>We have roles open in Engineering, Technical Account Management, Security, Sales, Legal, Marketing, Finance, HR, Accounting, and more. I called out a few interesting positions below.</p><p>Feel free to ask me about anything, reply here or email nathan.friedly@[company site].</p><p>--</p><p>Senior Software Engineer - Tanium's Product Engineering is an all-star team with a quality-focused culture. I've never felt like I was the smartest guy in the room here.</p><p>Every PR requires a code review and passing of automated testing before merging, and the ticket is later followed up with a verification to ensure the changes actually met the requirements.</p><p>No one says &quot;not my job&quot;, and depending on what you're doing, you might find yourself writing C++, JavaScript (Node.js, React, AngularJS), Python, Go (golang), or Rust - I did all but one of those within the past year. (95% of my work is JS, though - you do mostly stick to your job ;)</p><p>On-site or US Remote: <a href='https://www.tanium.com/careers/?p=department&amp;t=Engineering&amp;gh_src=b44d958b1#openings' rel='nofollow'>https://www.tanium.com/careers/?p=department&amp;t=Engineering&amp;g...</a></p><p>--</p><p>Enterprise Services Engineer - This is a new role in response to customer demand, where we're managing Tanium software directly for customers instead of only training and advising their employees.</p><p>Additional roles open in US Remote or on site in Fort Belvoir, Quantico, Washington D.C., or Reston:</p><p><a href='https://www.tanium.com/careers/?p=department&amp;t=Enterprise%20Services%20Organization&amp;gh_src=r64ytqkl1#openings' rel='nofollow'>https://www.tanium.com/careers/?p=department&amp;t=Enterprise%20...</a></p><p>--</p><p>Associate or Director of Technical Account Management - The TAM organization is central to our company, and doesn't have any real parallels that I'm aware of. As a TAM, you'd be expected to set up a home lab with a network of machines (or VMs) running our software, and you'd be primarily responsible for advising 2~5 customers on how best to use Tanium. However, TAMs come from all kinds of backgrounds including sysadmin, ops, programming, and security, and really work together as a team to support each other and meet the needs of each customer.</p><p>(Note: &quot;Director&quot; is indicative of the responsibility level, but Director TAM is not a people-managing role.)</p><p>The organization also has open roles for Customer Success, Solutions Architect, and Enterprise Integration Developer.</p><p>These roles are primarily remote/work from home, but we try to have them near the customers they support. We're currently looking for folks in a number of US cities as well as Belgium, Canada, DACH region (Germany, Austria Switzerland), France, Japan, Netherlands, Sweden, and the United Kingdom.</p><p><a href='https://www.tanium.com/careers/?p=department&amp;t=Technical%20Account%20Management&amp;gh_src=r64ytqkl1#openings' rel='nofollow'>https://www.tanium.com/careers/?p=department&amp;t=Technical%20A...</a></p><p>--</p><p>Senior User Experience (UX) Designer, SF: <a href='https://grnh.se/ec5df4181' rel='nofollow'>https://grnh.se/ec5df4181</a> | RTP: <a href='https://grnh.se/hf4v4o8l1' rel='nofollow'>https://grnh.se/hf4v4o8l1</a></p><p>Security Engineer, SF: <a href='https://grnh.se/2789b9fb1' rel='nofollow'>https://grnh.se/2789b9fb1</a> | RTP: <a href='https://grnh.se/50641aab1' rel='nofollow'>https://grnh.se/50641aab1</a> | US-Remote: <a href='https://grnh.se/f17d7afe1' rel='nofollow'>https://grnh.se/f17d7afe1</a></p><p>Senior Product Security Engineer, SF: <a href='https://grnh.se/1e5241bf1' rel='nofollow'>https://grnh.se/1e5241bf1</a> | RTP: <a href='https://grnh.se/33dfe08d1' rel='nofollow'>https://grnh.se/33dfe08d1</a> | US-Remote: <a href='https://grnh.se/f9dbcb8c1' rel='nofollow'>https://grnh.se/f9dbcb8c1</a></p><p>Enterprise Integration Developer, SF: <a href='https://grnh.se/07fcfb511' rel='nofollow'>https://grnh.se/07fcfb511</a> | NYC: <a href='https://grnh.se/951b18061' rel='nofollow'>https://grnh.se/951b18061</a> | Chicago: <a href='https://grnh.se/3ef6930d1' rel='nofollow'>https://grnh.se/3ef6930d1</a> | Raleigh: <a href='https://grnh.se/44fc76ff1' rel='nofollow'>https://grnh.se/44fc76ff1</a> | Seattle: <a href='https://grnh.se/232c475d1' rel='nofollow'>https://grnh.se/232c475d1</a> | Dallas: <a href='https://grnh.se/daf2a30b1' rel='nofollow'>https://grnh.se/daf2a30b1</a> | Washington DC: <a href='https://grnh.se/8d49274f1' rel='nofollow'>https://grnh.se/8d49274f1</a></p><p>Lots more: <a href='https://www.tanium.com/careers/?gh_src=qprker8f1' rel='nofollow'>https://www.tanium.com/careers/?gh_src=qprker8f1</a></p><p>--</p><p>[1]: <a href='http://fortune.com/most-important-private-companies/tanium-24/' rel='nofollow'>http://fortune.com/most-important-private-companies/tanium-2...</a></p><p>[2]: <a href='https://www.forbes.com/companies/tanium/#3bbe09173eea' rel='nofollow'>https://www.forbes.com/companies/tanium/#3bbe09173eea</a></p><p>[3]: <a href='https://www.fedscoop.com/air-force-cio-says-role-become-much-prominent-prepares-retire/' rel='nofollow'>https://www.fedscoop.com/air-force-cio-says-role-become-much...</a></p><p>[4]: <a href='https://federalnewsnetwork.com/dod-reporters-notebook-jared-serbu/2018/12/air-force-to-release-new-fast-track-cyber-approval-process/' rel='nofollow'>https://federalnewsnetwork.com/dod-reporters-notebook-jared-...</a></p><p>[5]: <a href='http://fortune.com/best-medium-workplaces/tanium-55/' rel='nofollow'>http://fortune.com/best-medium-workplaces/tanium-55/</a></p><p>[6]: <a href='http://reviews.greatplacetowork.com/tanium' rel='nofollow'>http://reviews.greatplacetowork.com/tanium</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "8PZ1lUW3RPq7c7VwFdW0rg",
-    "url": "https://news.ycombinator.com/item?id=20586455",
-    "title": "CipherTechs | Blue Team Director | New York City, NY | ONSITE OR REMOTE | Full time | https:/ ...",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 7:55:47 PM",
-    "validThrough": "Aug 8, 2019 7:55:47 PM",
-    "crawled": "Aug 1, 2019 9:32:11 PM",
-    "content": "CipherTechs | Blue Team Director | New York City, NY | ONSITE OR REMOTE | Full time | <a href='https://www.ciphertechs.com/job/blue-team-director/' rel='nofollow'>https://www.ciphertechs.com/job/blue-team-director/</a><p>CipherTechs is seeking experienced technical leader to drive development of established cyber security defense monitoring and management platform. The candidate in this technical leadership position will be given autonomy to evaluate and further develop security operations centers (SOC) coverage, security event monitoring platform, operating procedures, data collection, post-processing, alerting and automation. This is a management role but with emphasis on technical leadership. Personal and communications soft skills are required to foster and provide technical leadership to the internal teams. for the theoretical foundation of the legal knowledge library.</p><p>Ethos of PositionLead the technical strategy and development for MSSP monitoring and management platform.Analyse and evaluate current MSSP monitoring deployment model.Analyse and evaluate effectiveness of current data analysis and processing platforms.Identify, compare, select and implement technology solutions to meet current and future needs of MSSP services.Provide technical defensive leadership and training to the MSSP monitoring and management teams.Keep abreast of new trends and best practices in technology landscape and propose potential solutions to enhance efficiency of security services.Take the initiative in thought leadership, innovation and creativity.Work closely with other company departments – Offensive Security, Audit/Compliance and Sales on platform development.Interface with new and current clients to understand and develop appropriate service offerings.</p><p>QualificationsBroad knowledge of monitoring and data collection and analysis platforms SIEM, ELK, Graylog, Kibana, Elasticsearch.Understanding of MITRE ATT&amp;CK framework.Experience in IOC and threat hunting across complex enterprise environments.Experience with endpoint detection and response (EDR) technologies.Knowledge of Powershell and Python.Experience with intrusion detection and prevention technologies.Experience with messaging queues, high availability, capacity planning, and scalability.Experience with Windows Event Forwarding and Sysmon.5+ years previous working experience as a senior technical professional services sector.5+ years previous working experience in the cybersecurity or information security industry.In-depth knowledge of systems architecture, cloud, networking design and development.</p><p>Please email your resume to jobs@ciphertechs.com</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "7mtJGvnASPG0Ry5obqsZjw",
-    "url": "https://news.ycombinator.com/item?id=20587017",
-    "title": "Aptible (YC S14) | Remote (North America) | Remote-OK | https://www.aptible.com We're working ...",
-    "tags": [
-      "DBG:surround``remot W OR(contractor,assist,ok)",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 8:48:11 PM",
-    "validThrough": "Aug 8, 2019 8:48:11 PM",
-    "crawled": "Aug 1, 2019 9:32:11 PM",
-    "content": "Aptible (YC S14) | Remote (North America) | Remote-OK | <a href='https://www.aptible.com' rel='nofollow'>https://www.aptible.com</a><p>We're working to make information security a core competency of every startup. We envision a world in which startups have access to great information security, are empowered to focus on their business instead of on compliance, can scale faster and more efficiently, and are confident that they're creating quality products.</p><p>To learn more about who we are, our engineering culture, and whether this is the right place for you, read our Key Values profile: <a href='https://www.keyvalues.com/aptible' rel='nofollow'>https://www.keyvalues.com/aptible</a>.</p><p>Here are our open roles:</p><p>- Senior Software Engineer (Aptible Deploy): <a href='https://jobs.lever.co/aptible/e14de4f6-9fb1-426d-8003-82b91f72d1f9?lever-origin=applied&amp;lever-source%5B%5D=Key%20Values' rel='nofollow'>https://jobs.lever.co/aptible/e14de4f6-9fb1-426d-8003-82b91f...</a></p><p>- UX Software Engineer: <a href='https://jobs.lever.co/aptible/653db0aa-6eef-4ca7-a3a1-078d5f28ce9f?lever-origin=applied&amp;lever-source%5B%5D=Key%20Values' rel='nofollow'>https://jobs.lever.co/aptible/653db0aa-6eef-4ca7-a3a1-078d5f...</a></p><p>- Product Designer: <a href='https://jobs.lever.co/aptible/80f4556a-73ee-428d-b2af-2c67ee8c9e12?lever-origin=applied&amp;lever-source%5B%5D=Key%20Values' rel='nofollow'>https://jobs.lever.co/aptible/80f4556a-73ee-428d-b2af-2c67ee...</a></p><p>Tech Stack: For Comply: JS, React, Ruby, Flow, Postgres. For Deploy: Cloud IaaS (AWS), Docker, PostgreSQL, Redis, sqlite.</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "4UCvcDK8QKCx24h2PcA1mQ",
-    "url": "https://news.ycombinator.com/item?id=20586809",
-    "title": "[HIRING][REMOTE][FULL TME][NO SPONSORSHIP OFFERED][MUST BE US CITIZEN] Remote Haskell work.... ...",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
-      "DBG_TECH1:k/t/w:haskell/other/15",
-      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=4, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 8:32:20 PM",
-    "validThrough": "Aug 8, 2019 8:32:20 PM",
-    "crawled": "Aug 1, 2019 9:32:11 PM",
-    "content": "[HIRING][REMOTE][FULL TME][NO SPONSORSHIP OFFERED][MUST BE US CITIZEN]Remote Haskell work....Now that I have you're attention I'm looking for Haskellers for a couple of remote or onsite, full-time opportunities in the US. Links to the job descriptions are in the comments.One of the roles is working with an AI/ML engine built with Haskell used to personalize offers on a massive scale. It's a well-backed 110+ person start-up.The other role is with a 50+ person cybersecurity software start-up offering state-of-the-art network emulation and modeling tools for realistic cyber testing, training, and assessment. Check them out via the links below. Email me if interested! nicole@functionalworks.com Formation: <a href='http://bit.ly/formationde' rel='nofollow'>http://bit.ly/formationde</a> SimSpace: <a href='http://bit.ly/2OiJugY' rel='nofollow'>http://bit.ly/2OiJugY</a>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ziqsj_uRQ1mpVPL3viTvTQ",
-    "url": "https://news.ycombinator.com/item?id=20585988",
-    "title": "Pear Deck | Full Time | REMOTE | Iowa City, IA | https://www.peardeck.com Hiring for: - Senior ...",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/nodejs",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "nodejs"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 7:12:29 PM",
-    "validThrough": "Aug 8, 2019 7:12:29 PM",
-    "crawled": "Aug 1, 2019 7:32:07 PM",
-    "content": "Pear Deck | Full Time | REMOTE | Iowa City, IA | <a href='https://www.peardeck.com' rel='nofollow'>https://www.peardeck.com</a><p>Hiring for:</p><p>- Senior Software Engineer</p><p>We help teachers engage every student every day.  We are growing fast and are looking for experienced people to help us scale and build our product.  The stack is primarily JS based and most of our systems run on GCP (k8s).</p><p>Please reach out to me directly at thomas@peardeck.com or via our open position posts at <a href='https://peardeck.com/careers' rel='nofollow'>https://peardeck.com/careers</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "pcVsqdXrSwaga_KxMG81oA",
-    "url": "https://news.ycombinator.com/item?id=20585494",
-    "title": "Mir Protocol | San Francisco, CA | Remote OK | https://mirprotocol.org/ We're an early stage ...",
-    "tags": [
-      "DBG:surround``remot W OR(contractor,assist,ok)",
-      "DBG_TECH1:k/t/w:rust/other/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 6:33:55 PM",
-    "validThrough": "Aug 8, 2019 6:33:55 PM",
-    "crawled": "Aug 1, 2019 7:32:07 PM",
-    "content": "Mir Protocol | San Francisco, CA | Remote OK | <a href='https://mirprotocol.org/' rel='nofollow'>https://mirprotocol.org/</a><p>We're an early stage startup building a new blockchain protocol. Each state transition in this protocol is accompanied by a cryptographic proof, so users can verify blockchain state without downloading and re-executing transactions. We see this as the key to scaling blockchains and making them viable for broad adoption.</p><p>A lot of our work will involve programming in R1CS (similar to arithmetic circuits), which presents lots of unique challenges. We're looking for engineers with a strong math and/or cryptography background. Rust experience would also be a plus.</p><p>Contact: daniel@mirprotocol.org</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "NzQUHagwTwuUn93cWjb8JA",
-    "url": "https://news.ycombinator.com/item?id=20585965",
-    "title": "KickBack Rewards Systems | Full time | Remote  KickBack Rewards Systems http://www ...",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 7:10:50 PM",
-    "validThrough": "Aug 8, 2019 7:10:50 PM",
-    "crawled": "Aug 1, 2019 7:32:07 PM",
-    "content": "KickBack Rewards Systems | Full time | Remote<p></p><pre><code>  KickBack Rewards Systems  http://www.kickbacksystems.com  http://careers.kickbacksystems.com</code></pre>KickBack Rewards Systems (KRS) is a bootstrapped company that specializes in customer specific marketing and payments solutions for over 1000 US clients.<p>- Lead Senior Software Engineer</p><p>We are seeking a Senior Fullstack Developer with leadership experience to act as a technical team lead. We’re looking for someone with a strong software development background in PHP, JavaScript and Python.We need a leader who can mentor and help the team develop better applications. This is a fulltime remote employee position. If remote, candidate must be willing to work around regular MST (-0700) office hours. KRS will _not_ consider agencies, outsourced or software development contracts for this role.</p><p><a href='https://kickbackpoints.bamboohr.com/jobs/view.php?id=11' rel='nofollow'>https://kickbackpoints.bamboohr.com/jobs/view.php?id=11</a></p><p>To apply: Email me, my contact information is located under my profile, or, visit <a href='http://careers.kickbacksystems.com' rel='nofollow'>http://careers.kickbacksystems.com</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Ml9WdsmxT7-9Z5pOameP7A",
-    "url": "https://news.ycombinator.com/item?id=20585559",
-    "title": "Broadway Lab | Bozeman, MT | Remote OK | https://broadwaylab.com We're a consulting company ...",
-    "tags": [
-      "DBG:surround``remot W OR(contractor,assist,ok)",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=16, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 6:39:01 PM",
-    "validThrough": "Aug 8, 2019 6:39:01 PM",
-    "crawled": "Aug 1, 2019 7:32:07 PM",
-    "content": "Broadway Lab | Bozeman, MT | Remote OK | <a href='https://broadwaylab.com' rel='nofollow'>https://broadwaylab.com</a><p>We're a consulting company looking to hire on a full time developer for one of our clients, a B2C online tournament provider.</p><p>We're looking for someone VERY strong with AWS who could champion a project of leveraging other AWS services and improving the overall system architecture.</p><p>Knowledge of .NET MVC is also crucial.</p><p>Bonus points if you have some front-end skills, but this is definitely more of a back-end centric role.</p><p>Contact: michael@broadwaylab.com</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "nk2dafyzTt-r7Mt9jp85RQ",
-    "url": "https://news.ycombinator.com/item?id=20585524",
-    "title": "Nylas | New York, NY and San Francisco, CA | Onsite or Remote (US and Canada only please) | ...",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 6:35:44 PM",
-    "validThrough": "Aug 8, 2019 6:35:44 PM",
-    "crawled": "Aug 1, 2019 7:32:07 PM",
-    "content": "Nylas | New York, NY and San Francisco, CA | Onsite or Remote (US and Canada only please) | <a href='https://www.nylas.com' rel='nofollow'>https://www.nylas.com</a><p>Our mission is to empower the world to communicate with context and insight. The Nylas Cloud APIs powers email, calendar, and contacts features in SaaS products ranging from CRM and marketing automation to recruiting tools, scheduling assistants, legal and real estate platforms, and more. The Nylas email API integrates with 100% of email service providers, allowing bidirectional email sync between SaaS apps and your email client.</p><p>To learn more about who we are, our engineering culture, and whether this is the right place for you, read our Key Values profile: <a href='https://www.keyvalues.com/nylas' rel='nofollow'>https://www.keyvalues.com/nylas</a></p><p>Our open positions:</p><p>* Site Reliability (SF, NY, or Remote US/Canada): <a href='https://jobs.lever.co/nylas/904a7af3-1734-47f6-8896-5d9e5b07704c?lever-origin=applied&amp;lever-source=KeyValues' rel='nofollow'>https://jobs.lever.co/nylas/904a7af3-1734-47f6-8896-5d9e5b07...</a></p><p>* Staff Engineer (SF): <a href='https://jobs.lever.co/nylas/7f6b0dad-7867-4bf9-9697-3e16babbcf6b?lever-origin=applied&amp;lever-source=KeyValues' rel='nofollow'>https://jobs.lever.co/nylas/7f6b0dad-7867-4bf9-9697-3e16babb...</a></p><p>* Staff Engineer (NYC): <a href='https://jobs.lever.co/nylas/c30d7640-b56a-4ddf-adf7-ca7f229dc1c8?lever-origin=applied&amp;lever-source=KeyValues' rel='nofollow'>https://jobs.lever.co/nylas/c30d7640-b56a-4ddf-adf7-ca7f229d...</a></p><p>* Staff Engineer (Remote US/Canada): <a href='https://jobs.lever.co/nylas/ef830a90-f963-430a-9722-7904bc4f9ce2' rel='nofollow'>https://jobs.lever.co/nylas/ef830a90-f963-430a-9722-7904bc4f...</a></p><p>* Software Engineer (SF): <a href='https://jobs.lever.co/nylas/1c18d507-657e-40cf-a331-0533d6456fba?lever-origin=applied&amp;lever-source=KeyValues' rel='nofollow'>https://jobs.lever.co/nylas/1c18d507-657e-40cf-a331-0533d645...</a></p><p>* Developer Success Engineer (SF, NYC, or Remote): <a href='https://jobs.lever.co/nylas/96a06eac-35df-40c8-9f33-635f72510f26?lever-origin=applied&amp;lever-source=KeyValues' rel='nofollow'>https://jobs.lever.co/nylas/96a06eac-35df-40c8-9f33-635f7251...</a></p><p>* Developer Success Engineer - Support Lead (SF, NYC, or Remote): <a href='https://jobs.lever.co/nylas/a2080297-8a17-4d1f-820c-54244739c3d9?lever-origin=applied&amp;lever-source=KeyValues' rel='nofollow'>https://jobs.lever.co/nylas/a2080297-8a17-4d1f-820c-54244739...</a></p><p>Tech Stack: Python, MySQL, Redis, Kinesis, HAProxy, Linux, Javascript, React, Redux, Flux, Flow, Elasticsearch, AWS, Jenkins, MyPy, nginx</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "V6QlKvKgTbyaGhvqXW9LCg",
-    "url": "https://news.ycombinator.com/item?id=20585685",
-    "title": "Resolute Property Tax Solutions | Dallas, TX / Remote | https://resolutepts.com We're a small ...",
-    "tags": [
-      "DBG:classic``&quot;open to remot&quot;",
-      "DBG_TECH1:k/t/w:laravel/php/32",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=32, embedded=0, frontend=8}",
-      "REMOTE1/50",
-      "TECH1/php",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote",
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 6:48:11 PM",
-    "validThrough": "Aug 8, 2019 6:48:11 PM",
-    "crawled": "Aug 1, 2019 7:32:07 PM",
-    "content": "Resolute Property Tax Solutions | Dallas, TX / Remote | <a href='https://resolutepts.com' rel='nofollow'>https://resolutepts.com</a><p>We're a small property tax company based in Texas looking to hire another Laravel developer. We currently have two devs who handle everything, but we're getting too big and need someone else to help.</p><p>Our tech stack is very much in the Laravel universe: Laravel, VueJS, TailwindCSS, MySQL, Laravel Horizon, Forge, Envoyer, etc.</p><p>We're exist in a very unsexy industry but we get to build extremely useful tools that give us a huge competitive advantage. Totally open to remote workers as long as you're within a few hours of CST.</p><p>Looking for either a full time hire or a 30-40 hour a week contractor.</p><p>Contact: aaron@resolutepts.com</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "PyhpbCT-RFKwGo9rYeqCTQ",
-    "url": "https://remote.co/job/nursing-tutor-3/",
-    "title": "Nursing Tutor",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/unknown",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones",
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Pearson",
-      "sameAs": "https://www.pearson.com/us/"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 5:57:09 PM",
-    "validThrough": "Aug 8, 2019 5:57:09 PM",
-    "crawled": "Aug 1, 2019 6:24:53 PM",
-    "content": "<h3>Nursing Tutor at <span>Pearson</span></h3><div><span><i></i> Remote</span>         | <span> Part-time </span></div><div>            <p><strong>Description</strong></p><p>At Pearson, we’re committed to a world that’s always learning and to our talented team who makes it all possible. From bringing lectures vividly to life to turning textbooks into laptop lessons, we are always re-examining the way people learn best, whether it’s one child in our own backyard or an education community across the globe. We are bold thinkers and standout innovators who motivate each other to explore new frontiers in an environment that supports and inspires us to always be better. By pushing the boundaries of technology — and each other to surpass these boundaries — we create seeds of learning that become the catalyst for the world’s innovations, personal and global, large and small.</p><p>Smarthinking, a Pearson service unit, is hiring experienced, motivated individuals to serve as part-time online tutors. Smarthinking provides online tutoring to support colleges, universities, and individuals. Online nursing/allied health tutors work with students at all academic levels — from students seeking associate’s degrees through colleagues in doctoral programs.</p><p>At Pearson and within Smarthinking, we work to facilitate a culture of professional reflection and consistent quality among our teams of tutors. Tutors can work from any location with computer and Internet access.</p><p><strong>Qualifications</strong></p><p><strong>To qualify, individuals must have:</strong></p><ul><li><strong>Advanced coursework or graduate degree in a nursing or allied health discipline.</strong></li><li>College-level teaching or tutoring experience in nursing and allied health courses.</li><li>Experience reviewing written work and an ability to help others synthesize their thoughts into clear written communication.</li><li>Excellent interpersonal and communication skills and ability to troubleshoot problems calmly in potentially stressful situations.</li><li>Strong typing and computer skills; comfort with working in an online environment.</li><li>Availability to work at least 2 hours on Fridays or Saturdays.</li><li>An enthusiasm for online education and a passion for helping students to improve their lives through learning.</li><li>Preference will be given to candidates with:</li><li>Teaching experience, teaching certificate and/or advanced degree in nursing, health science, or related field.</li><li>Significant clinical experience.</li><li>Solid knowledge of APA style.</li><li>Experience mentoring or supervising adjunct instructors or tutors.</li></ul><p><strong>This is a remote position that will require tutors to work at any location with reliable access to a computer and Internet. Candidates must reside in the United States and, if hired, be able to provide documentation regarding eligibility to work in the United States.</strong></p><p><em>Pearson is an Equal Opportunity and Affirmative Action Employer and a member of E-Verify. All qualified applicants, including minorities, women, protected veterans, and individuals with disabilities are encouraged to apply.</em></p><p><strong>Primary Location:</strong>&nbsp;United States</p><p><strong>Job:</strong>&nbsp;Learning Delivery</p><p><strong>Organization:</strong>&nbsp;North America</p><p><strong>Employee Status:</strong>&nbsp;Regular Employee</p><p><strong>Job Type:</strong>&nbsp;Standard</p><p><strong>Shift:</strong>&nbsp;Day Job</p><p><strong>Schedule: Part-time Regular</strong></p><p><strong>Req ID:</strong>&nbsp;1908033</p>        </div><div>        <a href='https://pearson.jobs/virtual-usa/nursing-tutor-remote-work-from-home/698D1ACF6A9048698A35E1608FF3C4D1/job/?&amp;utm_source=remote.co' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ozBAVeFJQLWZ2DmSRMKnXQ",
-    "url": "https://remote.co/job/facility-outpatient-surgical-coder/",
-    "title": "Facility Outpatient Surgical Coder",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/unknown",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones",
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Aviacode",
-      "sameAs": "https://www.aviacode.com/"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 5:53:44 PM",
-    "validThrough": "Aug 8, 2019 5:53:44 PM",
-    "crawled": "Aug 1, 2019 6:24:53 PM",
-    "content": "<h3>Facility Outpatient Surgical Coder at <span>Aviacode</span></h3><div><span><i></i> Remote</span>        </div><div>            <p><strong>Job Locations: US-Virtual/Remote</strong></p><p><strong>Job ID:</strong> 2019-1753</p><p><strong># of Openings:</strong> 1</p><p><strong>Category:</strong> Medical Coding</p><p><strong>Minimum Hours:</strong> Varies</p><p><strong>Overview</strong></p><p><strong>Facility Outpatient Coding Specialist</strong></p><p>Are you interested in joining one of the nation’s leading providers of medical coding services that is experiencing impressive year-over-year growth? Aviacode is nationally recognized as one of the top medical coding companies in KLAS and Black Book Market Research surveys. Here is your opportunity to be part of this exciting team. We are hiring now and have an immediate need for facility outpatient coders.</p><p><strong>Responsibilities</strong></p><ul><li>Responsible for coding all diseases, operations and procedures on outpatients according to ICD-10-CM, UHDDS, American Medical Association’s CPT-4 and ICD-10-PCS when necessary, according to client specifications.</li><li>Abstracts all codes paying particular attention to accuracy. Abstracts patient data per client specifications. Makes abstracting corrections as required per client.</li><li>Responsible for keeping current on all Aviacode and client coding policies and procedures while ensuring all procedure changes and additions are understood. Responsible to discuss any unclear information needing clarification with supervisor and/or data quality specialist.</li><li>Works with healthcare abstracting software ICD-10 data sets and encoder.</li><li>Initiates physician queries in compliance with Aviacode and client specific procedures.</li><li>Keeps abreast of regulatory changes and communicates these changes to Coding Supervisor.</li><li>Consults with Coding Supervisor or designee and works through difficult coding situations and/or coding problems</li></ul><p><strong>Qualifications</strong></p><ul><li>Assigns appropriate and accurate codes to all assigned charts.</li><li>Principals of ICD-10 Outpatient Coding</li><li>Maintains accuracy of diagnosis code assignment per client and Aviacode Solutions policies.</li><li>Maintains productivity levels per client and Aviacode policies.</li><li>Maintains reports and their integrity by insuring that all data is entered and recorded as directed by supervisor and director.</li><li>Communicates in a responsible manner according to Aviacode policies</li><li>Complies with HIPAA and Aviacode policies concerning patient data</li><li>RHIT, RHIA, CCS, or COC</li></ul><p>Aviacode provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identification, disability, or genetics. In addition to federal law requirements, Aviacode complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. Aviacode expressly prohibits any form of workplace harassment based on protected classes. Improper interference with the ability of Aviacode’s employees to perform their job duties may result in discipline up to and including discharge.</p>        </div><div>        <a href='https://careers-aviacode.icims.com/jobs/1753/facility-outpatient-surgical-coder/job' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "a8i0DQ2fQu2LYKf4EyP0GA",
-    "url": "https://remote.co/job/immigration-paralegal-2/",
-    "title": "Immigration Paralegal",
-    "tags": [
-      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Equivity",
-      "sameAs": "https://www.equivityva.com/"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 5:41:56 PM",
-    "validThrough": "Aug 8, 2019 5:41:56 PM",
-    "crawled": "Aug 1, 2019 6:24:53 PM",
-    "content": "<h3>Immigration Paralegal at <span>Equivity</span></h3><div><span><i></i> Remote</span>         | <span> Part-time </span></div><div>            <p><strong>Job description</strong></p><p>Equivity is looking for a&nbsp;<strong>part-time virtual paralegal</strong>&nbsp;with recent experience supporting attorneys in an immigration law office.</p><ul><li>We are looking for paralegals with at least three years of experience in immigration law, including preparing applications for immigration, motions and supporting documents, and performing case law research.</li><li>If you are an expert in this area, have previously assisted attorneys remotely, and have excellent writing skills, we want to hear from you!</li><li>Virtual paralegals at Equivity develop a portfolio of clients supporting a number of different attorneys.</li><li>We are currently seeking a virtual paralegal who has recently (within the last six months) worked in an immigration law firm and is able to prepare immigration forms, draft correspondence, create and update standard immigration questionnaires, ensure prompt client communication, and ensure timely and accurate document production.</li><li>The candidate must be familiar with preparing immigrant and non-immigrant visa, both employment-based (H1-B, PERM, Adjustment of Status, etc.) and family-based petitions.</li><li>Experience with adjustments of status, naturalization, applications for asylum, withholding of removal, and cancelation of removal, preparing motions; preparing I-601 and I-601A waivers; and preparing applications for citizenship are a plus.</li><li>In addition to these requirements, we are looking for a paralegal that is detail-oriented, proactive, extremely organized, and possesses strong case management skills.</li><li>The ideal candidate will be very technologically adept and have excellent Word and Adobe skills. In addition, the candidate should have experience working with cloud-based practice management software.</li><li>Experience in other areas of legal practice, including litigation, family law, bankruptcy, or estate planning, would be a plus.</li></ul><p><strong><u>More about our company</u>:</strong></p><ul><li>Equivity matches clients with virtual assistants that provide paralegal, administrative and marketing support.</li><li>Our virtual paralegals typically work with a number of different firms and attorneys at the same time, providing each support.</li><li>You would work with a high degree of autonomy and would be responsible for developing relationships with your clients.</li><li>Because we provide extremely attentive service to our clients, you must be available to respond to client communications during the business within one hour by email, phone, and text and be available to work on projects throughout the business day.</li><li>All of this work is done remotely, meaning that you can work from home.</li><li>The selected candidate would be hired as a part-time employee of Equivity, not an independent contractor.</li><li>We are looking for somebody who has at least 20 hours per week of availability, and the starting pay is $18.50 per hour.</li><li>We are a growing business and are looking for a virtual paralegal who is excited to partner with us and is interested in a long-term role with our company.</li></ul><p><strong><u>Qualities we are looking for</u>:</strong></p><ul><li>Organization</li><li>Dedication</li><li>Proactive</li><li>Reliability</li><li>Attention to detail</li><li>Resourcefulness</li><li>Excellent communication skills</li><li>Responsiveness</li><li>Ability to work independently with limited oversight</li><li>Technologically savvy</li></ul><p><strong>Requirements</strong></p><ul><li><strong>Bachelor’s degree</strong></li><li>3+ years of recent experience working as a paralegal in immigration law firms</li><li>Excellent writing skills</li><li>Experience preparing employment-based petitions</li><li>Experience managing immigration cases</li><li>Experience with deportation or asylum is a plus</li><li>Experience with e-Immigration, INSZoom or other immigration software is a plus</li><li>Experience using practice management software, preferably Clio, PC Law, or Serengeti</li><li>Availability to respond to requests within an hour during the hours of 9 AM – 6 PM</li><li>Experience using law firm bookkeeping software for invoicing and timekeeping is a plus</li><li>Your own laptop and smart phone with broadband access to Internet</li><li>Quiet location in which to take phone calls</li></ul>        </div><div>        <a href='https://equivity.recruitee.com/o/virtual-immigration-paralegal-san-francisco' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "r-XGRpQAQgi0nZY2dIkLdA",
-    "url": "https://news.ycombinator.com/item?id=20584591",
-    "title": "TalkJS (https://talkjs.com) | Eindhoven (the Netherlands) or REMOTE (European timezones only) ...",
-    "tags": [
-      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``remot 16W timezon",
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:swift/apple/5",
-      "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=7, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/mobile",
-      "TITLE1/unknown",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones",
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "mobile"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 5:21:08 PM",
-    "validThrough": "Aug 8, 2019 5:21:08 PM",
-    "crawled": "Aug 1, 2019 6:24:48 PM",
-    "content": "TalkJS (<a href='https://talkjs.com' rel='nofollow'>https://talkjs.com</a>) | Eindhoven (the Netherlands) or REMOTE (European timezones only)<p>TalkJS lets developers build custom chat features in hours instead of months. We're product driven and we power communication inside online marketplaces, community sites, trading platforms and so on.</p><p>JUNIOR PROGRAMMER WHO CAN WRITE</p><p>We're looking for someone who's great at writing, pretty good at coding, and wants to get better at the latter. We can give you an opportunity to deeply learn many technologies in a very brief time all while producing useful community content (tutorials, code examples, SDKs, etc) for our (potential) customers.</p><p>---</p><p>MOBILE DEVELOPER WHO LOVES API DESIGN</p><p>TalkJS is currently focused on the web and that's just not good enough. Easy to use APIs and SDKs are the key to our success on the web, and we're looking to do this natively on mobile as well. We could use your help with that.</p><p>If you're an experienced developer who's good at coming up with Java and Swift APIs that Android/iOS devs love to use, then get in touch. Apply by emailing to hey@talkjs.com. Bonus points if you can show us an API you designed (on any platform).</p><p>---</p><p>ONLINE MARKETER</p><p>Demand for TalkJS is quickly increasing to the point that we have no time left to work on the funnel that drives this demand. This is a luxury problem, which we intend to solve with full force with the help of you, an experienced online marketer with a passion for technical products. We're looking for someone who:</p><p></p><pre><code>    * Has demonstrable experience growing B2B SaaS inbound     * Has sufficient tech skills to set up analytics pipelines     * Proactively iterates and experiments     * Can write     * Wants to jump on a rocket ship that's just taking off² </code></pre>Bonus points if you can code a bit. We offer you an opportunity to start, build, and lead our marketing team as we grow. Significant equity is on the table, as well as the chance to work in a great collaborative, open, and constructive distributed team culture.<p>Apply by sending an email to hey@talkjs.com. Mention something you've helped grow and include something you've written. This can be anything that shows your ability to enthuse: a blog post or a landing page or even a flyer for the local christmas fair.</p><p>²) I'm well aware that this is a platitude, but in our case it's really quite true and it wasn't half a year ago. We're blowing up and we need your help :-)</p><p>---</p><p>All jobs are remote (Europe) or on-site in Eindhoven, NL. No recruiters or agencies, please.</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "tryx8GWTQ3CX9tP_FIvyAw",
-    "url": "https://news.ycombinator.com/item?id=20585043",
-    "title": "DuckDuckGo - We are looking for candidates that are excited to join us on a mission to be the ...",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
-      "DBG_TECH1:k/t/w:macos/apple/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 6:01:16 PM",
-    "validThrough": "Aug 8, 2019 6:01:16 PM",
-    "crawled": "Aug 1, 2019 6:24:48 PM",
-    "content": "DuckDuckGo - We are looking for candidates that are excited to join us on a mission to be the company people trust most with their online privacy.  All of our roles are fully-remote!<p>DuckDuckGo | Director, User Insights | REMOTE</p><p>DuckDuckGo | Senior Mobile Engineer | REMOTE</p><p>DuckDuckGo | Senior Site Reliability Engineer | REMOTE</p><p>DuckDuckGo | Senior Frontend Engineer | REMOTE</p><p>DuckDuckGo | Brand Design Lead | REMOTE</p><p>DuckDuckGo | Senior macOS Engineer | REMOTE</p><p><a href='https://duckduckgo.com/hiring' rel='nofollow'>https://duckduckgo.com/hiring</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "6oRUqScoTm6cSbdP4Yo5gQ",
-    "url": "https://news.ycombinator.com/item?id=20584566",
-    "title": "Voxnest | REMOTE | EUROPE ONLY | FULLTIME Voxnest is a forethinker in the world of audio ...",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG:surround``remot 3W onli",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 5:19:46 PM",
-    "validThrough": "Aug 8, 2019 5:19:46 PM",
-    "crawled": "Aug 1, 2019 6:24:48 PM",
-    "content": "Voxnest | REMOTE | EUROPE ONLY | FULLTIME<p>Voxnest is a forethinker in the world of audio technology solutions. We anticipate trends and provide our customers with the best tools to face a vast and fast-changing podcasting landscape. Our platforms connect podcast producers and advertisers, enabling them to benefit from one another.</p><p>Out team is hiring for:</p><p>- Fullstack Engineer <a href='https://www.voxnest.com/join-us/fullstack-engineer-php-nodejs/' rel='nofollow'>https://www.voxnest.com/join-us/fullstack-engineer-php-nodej...</a></p><p>- Infrastructure Engineer <a href='https://www.voxnest.com/join-us/infrastructure-engineer-aws-serverless-kubernetes/' rel='nofollow'>https://www.voxnest.com/join-us/infrastructure-engineer-aws-...</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "8HWg9cgdRX2iKFAxb-Vm-w",
-    "url": "https://jobmote.com/job/55027/np-or-pa-home-based/",
-    "title": "NP or PA - Home Based",
-    "tags": [
-      "DBG:surround``home W base",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "DFW Texas Staffing",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 10:22:30 AM",
-    "validThrough": "Aug 4, 2019 10:22:30 AM",
-    "crawled": "Aug 1, 2019 3:06:25 PM",
-    "content": "<div><h3>Job Description</h3><div><p>In this role, you will be a part of the first cohort of staff providing direct services to members, who face economic and social challenges in addition to having mental and physical health needs, through our innovative care model. You will be a mobile care provider, extending out in the surrounding neighborhood and community. It is integral to our care model that we meet people where they are, both physically and emotionally. Given this, your work will frequently take you out into the field and surrounding community to provide care in settings that work best for our members.<br><br>As an Advanced Practice Clinician, you will work with a panel of members to improve their health holistically through longitudinal primary care, care management, and care coordination. You will provide a necessary bridge to specialty care, homecare services, and other facility services. You will provide comprehensive care management, chronic disease management, urgent community-based primary care visits, preventative care and wellness, liaison with relevant other providers around behavioral health and long term service and support needs, and the provision of palliative care. <br><br>Requirements<br>-NP or PA with licensure in good standing in Connecticut.<br>-AANC or AANP certification for NPs<br>-Connecticut Controlled Substance Registration<br>-DEA Controlled Substances Registration<br>-Certified in Basic Life Support for Healthcare Providers<br>-Experience providing clinical services to individuals with co-occurring chronic medical and behavioral health conditions, and have interest in serving complex, vulnerable, and disabled populations.<br>-Prefer 3-4 years of experience, but will consider 2 years.<br>-Unrestricted Connecticut Driver s License and Car (client will provide mileage/gas reimbursement)<br><br>Nice to have:<br>-You have experience caring for seniors in a low-income community or in a community health setting.<br>-You have experience working collaboratively with an interdisciplinary care team, and specifically working alongside community health workers or care coordination staff.<br>-Bilingual<br><br></p></div><br> Associated topics: anesthetist crna, care nurse, certified nursing, certified nursing assistant, cns, english, midwife, np, practice, specialis</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "29NC6e0FSHChoc281o_zSQ",
-    "url": "https://jobmote.com/job/55066/oncology-nurse-educator-remote-based-phone/",
-    "title": "Oncology Nurse Educator-Remote Based Phone",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote",
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Amplity Health",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 10:22:31 AM",
-    "validThrough": "Aug 4, 2019 10:22:31 AM",
-    "crawled": "Aug 1, 2019 3:06:25 PM",
-    "content": "<div>Oncology Nurse Educator-Remote Based Phone <br> <br> RN-Oncology Nurse <br> <br> Remote Phone -Telecommute <br> <br> Fantastic opportunity for an experienced oncology nurse educator with Amplity Health and one of our leading pharmaceutical clients. Our educators will work remotely from home, M-F in a full time capacity making outbound calls to engage with HCP's and their staff. This is a Monday-Friday salaried position with full benefits offered. If you have a passion for patients with rare diseases, enjoy interacting with multiple levels of healthcare providers via phone daily, with no weekly travel required, this could be the opportunity for you. Experience in a commercial pharmaceutical environment is a plus. If you are seeking an opportunity to utilize your oncology nursing experience and any previous pharma, industry experience working from home with no weekly travel required, this could be a great opportunity for you now. <br> <br> If you meet the below qualifications we would like to hear from you immediately: <br> <br>RN Required with BA/BS <br> <br>3+ years clinical oncology nursing experience minimum required <br> <br>Previous or current pharma industry experience preferred <br>Ability to work well collaboratively with others in a team environment needed <br>Strong communication skills both written and orally a must <br>Basic computer skills needed, Word, Excel, PowerPoint and other software programs as needed by client <br>Personal home office with quiet, professional environment, internet access required <br>Travel 15% for training meetings-no weekly or territory travel <br>Ability to pass pre-employment drug screen and background check <br> <br> <br> ABOUT US <br> A true partner to global healthcare companies, Amplity Health builds transformational solutions by challenging boundaries and the status quo. Amplity Health has the expertise, infrastructure, and insights to help clients overcome any healthcare commercialization hurdle. With wide-ranging capabilities such as patient identification solutions, multichannel messaging, inside sales and service resourcing, field sales, campaign planning and execution, and more, we have what it takes to maximize commercialization efforts and set strategies up for success. <br> <br> Partnership. Amplified. <br> <br> OUR CULTURE <br> When you join Amplity Health, you have the opportunity to work with and learn from leaders in the health care industry. Our commitment to a team-oriented culture and value-based leadership model provides an environment where our employees can work to their full potential. All opportunities with offer competitive compensation including a comprehensive medical benefits package, 401-k benefits, and the opportunity to grow with us. <br> A goal of ours is to continuously drive innovation through our people by creating an open, respectful, inclusive and trustworthy work environment. We encourage and support equal employment opportunities for all associates and applicants for employment without regard to race, color, creed, religion, age, sex, sexual orientation, gender, gender identity, gender expression, national origin, ancestry, citizenship status, marital status, medical condition as defined by applicable state law, genetic information, disability, military service and veteran status, pregnancy, childbirth and related medical conditions, or any other characteristic protected by applicable federal, state, or local laws and ordinances. Employment decisions are evaluated based on an individual's skills, knowledge, abilities, job performance and other qualifications. We do not condone or tolerate an atmosphere of intimidation or harassment. <br> <br> <br> <br> Follow us on Social Media! <br>  <br>  <br>  <br> <br> <br>Equal Opportunity Employer Minorities/Women/Protected Veterans/Disabled <br> <br>PandoLogic. Category: Healthcare, Keywords: Clinical Educator<br> Associated topics: bioethics, cardiology, college of medicine, disorder, gastroenterology, health, hepatology, neurology, rheumatologist, surgery</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "mTRgcoKVS_Cctkg4KR_mhA",
-    "url": "https://jobmote.com/job/55059/account-representative-virtual-salary-commission-full-time/",
-    "title": "Account Representative [Virtual, Salary+Commission, Full-time]",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``fulltim 4N remot",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote",
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Google",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 16000,
-      "maxValue": 16000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 16k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 10:22:31 AM",
-    "validThrough": "Aug 4, 2019 10:22:31 AM",
-    "crawled": "Aug 1, 2019 3:06:25 PM",
-    "content": "<div>Salary (not posted), <p><strong>Company</strong><br>-------------------------<br>For over 15 years, MortgageEducation.com has been a leading online provider of nationwide training for the mortgage industry. Additionally, we provide compliance and an Education Management System for companies. Our products are required by law for a mortgage loan originator to obtain or renew a license.</p><p>We are growing and obtaining success in the industry due to:</p><ul><li><em>New requirements</em>: Our courses cover all state-specific requirements and these requirements are increasing.</li><li><em>New product</em>: We have developed a new and unique product gaining significant traction in the marketplace.</li><li><em>Barriers to Entry</em>: We invested in creating and approving over 150 courses and developing a proprietary delivery system. It is extremely difficult for new competitors to enter.</li></ul><p>Our product is required for any mortgage loan originator to obtain a license and enter the industry as well as to renew their license each year. This means that every call is, to a certain extent, a 'warm' sale.</p><p>?</p><p><strong>Responsibilities</strong><br>-------------------------------------------</p><p>?- Establishing new long-term relationships with companies over the phone remotely in a full-time sales position.</p><p>-? Keeping calling activity updated and using the communications and processing tools we support.</p><p>There will be some referrals and inbound calls, but the?majority of your business will be based on recurring revenue from corporate relationships..</p><p>?</p><p><strong>Requirements</strong><br>-------------------------------------------</p><ul><li>Ability to work from home (prior experience is a plus)</li><li>Relationship sales and service technique. Our culture is based around nurturing leads and not haggling for one-time sales.</li><li>Outstanding phone and email communication skills.</li></ul><p>?</p><p><strong>Compensation</strong><br>-------------------------------------------<br>Representatives produced between $40,000 and $60,000 per year after Salary, Commission and Bonuses. Ramp up period is about 4 months.</p><ul><li>Salary: $16,000</li><li>Commission: 15%</li><li>Bonuses: based on achieving Sales Goals</li></ul><p>by Jobble</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "xxZ55eVmR7mZTL36gZ6-Kg",
-    "url": "https://jobmote.com/job/55041/oracle-cwb-functional-consultant/",
-    "title": "Oracle CWB Functional consultant",
-    "tags": [
-      "DBG:surround``can 2W remot",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote",
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Cyma Systems",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 10:22:31 AM",
-    "validThrough": "Aug 4, 2019 10:22:31 AM",
-    "crawled": "Aug 1, 2019 3:06:25 PM",
-    "content": "<div>Hi, Pease share profiles to tejucymasys.com Looking for Oracle CWB functional consultant. Long term project. Need the resource on-site for 1st two weeks at New Orleons and then can work remote with very little travel.</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "3bvRXMKUQwecLDRCkm439Q",
-    "url": "https://jobmote.com/job/55029/appointment-setter-work-from-home-opportunity/",
-    "title": "Appointment Setter Work from Home Opportunity",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG_TECH1:k/t/w:boost/c/8",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:windows/dotnet/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=16, c=8, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/dotnet",
-      "TITLE1/unknown",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "50% remote",
-      "US East time zone",
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "terraboost media",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 50,
-      "maxValue": 50,
-      "info": "",
-      "unit": "HOUR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 50 /Hour"
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 10:22:30 AM",
-    "validThrough": "Aug 4, 2019 10:22:30 AM",
-    "crawled": "Aug 1, 2019 3:06:25 PM",
-    "content": "<div><h3>Job Description</h3><div><p>Earn up to $20/hour base, or $50/hour effective compensation after <span>commissions/bonuses!</span></p><p><br>We seek to pay above average wages for clever, highly resourceful, brave and influential appointment setters with B2B or advertising sales experience. You will work from an easy to learn CRM which will provide prospects' information and are only responsible for making the calls and setting the appointments. Our outside sales representatives will close the deals and when they do you will earn a very generous bonus which is what could boost your hourly effective rate up to $50 per hour.</p><p><br>Our company, Terraboost Media, is growing rapidly because we deliver exceptional value and something fresh to local community advertisers to get the word out about their company or practice. We provide \\&quot;hand sanitizing wipe kiosks\\&quot; at the front doors of major national grocery store chains, drug store chains, malls and airports. These kiosks feature a giant photographic quality ad space available to local businesses on an exclusive basis. Kindly go to <span>www.sponsorwellness.com</span> to learn more about the product. Basically you will be setting appointments for a highly coveted health &amp; wellness sponsorship on an exclusive basis. Your prospects will be excited to hear from you!!!</p><p><br>This is a part-time opportunity, working a maximum of 29 hours per week. We are looking for appointment setters to work Monday through Thursday from 9:30 a.m. to 4:30 p.m., Eastern Standard Time.</p><p><br><br></p><p><strong>Requirements</strong></p><p> The ideal candidate:<br> Has a desire and hunger to earn money -a hunter mentality. <br> Is a self-starter, able to work independently.<br> Has 2+ years of appointment setting, lead generation or outbound calling experience. <br> Has a great personality with the ability to engage others quickly.<br> Exhibits dynamic verbal communication skills and the ability to \\&quot;sell the appointment\\&quot;.<br> Has basic computer skills (Windows, email, Google, able to easily navigate internet).<br> Has great prospecting/lead generation skills and a proven track record of success.<br> Has a Windows computer and access to internet.</p><p><br></p></div></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "LGKbg-v0RcS36Si4-AMelw",
-    "url": "https://jobmote.com/job/55023/telecommute-corporate-investigator/",
-    "title": "Telecommute corporate investigator",
-    "tags": [
-      "DBG:surround``3W(open, telecommut)",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/unknown",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote",
-      "undefined job title"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "VirtualVocations",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 1, 2019 10:22:30 AM",
-    "validThrough": "Aug 4, 2019 10:22:30 AM",
-    "crawled": "Aug 1, 2019 3:06:25 PM",
-    "content": "<div>A professional services company has a current position open for a Telecommute Corporate Investigator. Must be able to: Actively conduct investigations</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

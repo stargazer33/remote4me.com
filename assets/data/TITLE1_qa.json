@@ -1,6 +1,181 @@
 {
  "items": [
   {
+    "id": "VvkYX7kFRueEzcXQgae8wA",
+    "url": "https://stackoverflow.com/jobs/300873/open-source-engineer-meeshkan?a=1CU0WQtH7WCc&so_medium=Talent&so_source=TalentApi",
+    "title": "Open Source Engineer at Meeshkan  ",
+    "tags": [
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG_TECH1:k/t/w:c#/c/4",
+      "DBG_TECH1:k/t/w:c#/dotnet/10",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:k/t/w:f#/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:haskell/other/5",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:ocaml/other/5",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:rust/other/10",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=4, other=30, dotnet=10, c=12, mobile=10, go=3, nodejs=3, bigdata-ml=4, ruby=0, apple=5, java=7, gamedev=0, php=0, embedded=0, frontend=11}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/qa",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "Meeshkan",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "EUR",
+      "minValue": 40000,
+      "maxValue": 60000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "EUR 40k - 60k /Year | Equity"
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 8:06:30 AM",
+    "validThrough": "Oct 8, 2019 8:06:30 AM",
+    "crawled": "Oct 1, 2019 8:06:30 AM",
+    "content": "<h3><span>Open Source Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead</span>                                    </div>                                    <div>                                        <span>Industry: </span>                                        <span>Machine Learning, Open Source Software, Test Automation</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Company size: </span>                                        <span>1–10 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Meeshkan | No office location<br></div><h4>Technologies</h4><div></div><div>python</div><div>typescript</div><div>java</div><div>c#</div><div>rust</div>                <h4>Job description</h4>                <div><p><strong>We are Meeshkan</strong>, winners of the 2018 Slush 100 pitch competition and recently voted #1 on Wired's list of Finland's best startups (<a href='https://bit.ly/helsinki-2019' rel='nofollow'>https://bit.ly/helsinki-2019</a>). We got there because we have a killer open-source culture. We have over fifty open-source repos, hundreds of downloads a week, and we attend meetups all over the world to help developers.</p><p>We are looking for an experienced coder to curate, innovate, and lead development on our JS/TS, Python, Java, Swift, Go, C++, C# and Rust OS projects. Even more than writing code, the one essential skill set we are looking for is <strong>solid open-source governance skills</strong>. Ideally, you are a maintainer or contributor to several OSS projects (including potentially ones you've created) and you've learned along the way to empathize with developers from all walks of life, especially when the going gets tough.</p><p><strong>We ❤️ Open Source</strong></p><p>Meeshkan started as an open-source project - we were building a giant, distributed Machine Learning compiler. We quickly realized the business case for open-source: by making innovative and useful tools for developers, you gain their trust and win more business.</p><p>This way of thinking led us to unmock.io, the world's first and only Javascript API Fuzz testing library. Unmock is the beating heart of our company: all of our business comes from it, and we have met a passionate and diverse group of engineers along the way, from users to enthusiastic influencers to partnerships with companies like CircleCI to conversations with some of the largest tech companies in the world.</p><p>We are looking for a talented engineer to join our team and help curate and grow our world-class open source projects.</p><p><strong>Your Role in Meeshkan</strong></p><p>At Meeshkan, you would help grow, prune, and channel our open source projects towards the needs of the world's developers. This would mostly be through code contributions, repository design and articles. We are looking for a polyglot that feels comfortable writing idiomatic, beautiful code in many different languages. At our heart, we are a functional-programming company, and we are especially interested in candidates that are passionate about languages like Scala, Haskell, PureScript, OCaml, ReasonML, Coq, Clojure, Scheme, F#, and projects like fp-ts and fp-core.rs.</p><p>Open-source projects only work if they grow out of a collective desire to do something great. Your job starts with having your ear to that need by attending conferences, working with developers from other companies, and working with our other amazing open-source engineers to make a dent in the world. From there, we expect you to have the autonomy and drive to create compelling features, make bold and opinionated stylistic choices, onboard contributors, and defend your ideas and choices in writing. To give you a taste of some of our current activities, check out <a href='https://github.com/unmock/unmock-js/pulls' rel='nofollow'>https://github.com/unmock/unmock-js/pulls</a> and <a href='https://gitter.im/unmock/community' rel='nofollow'>https://gitter.im/unmock/community</a>.</p><p>We don't shy away from the business case for open source. We embrace it. This means that, unlike many open source projects, we look for ways to convert the most value-additive aspects of our open source code bases into services that companies pay for on a recurring basis. We expect all employees working with our open source projects to have bold ideas about which elements of our open source projects can be viable services and take risks to build prototypes of these services.</p><p><strong>Your Git Commits</strong></p><p>We are looking for candidates for this position that have a strong track record of git commits to open source projects, reporting issues to open source projects, writing documentation for open source projects and/or code review for open source projects. When you apply, please point to a place we can learn about these things.</p><p><strong>Company Culture</strong></p><p>Your day-to-day work would be fairly independent, but the entire team is always available for collaboration as a sounding board. We are low on formalities and high on substance, and in addition to our operational team, we have a broad network of advisors and investors that are always willing to help out in ideation and introductions. We have a generous office hours and vacation policy, but we are one of the most high-intensity and high-output companies in town due to the fast pace of our industry. Because of this, we are also hyper-sensitive to stress and wellbeing, and offer employees ample opportunities to recharge and feel good.</p><p><strong>Diversity</strong></p><p>We are committed to fostering a diverse workplace, and we make it a special point to welcome candidates from underrepresented groups in tech companies. We know that, if you are part of one of these groups, you may have suffered from systemic industry-wide biases that make it more difficult for you to shine than other folks. We don't like that, and we are committed to evaluating every candidate on their own merits given their unique experiences.</p><p><strong>Parting Shot</strong></p><p>We put open source at the heart of everything we do. We have over thirty years of combined experience contributing to and leading open source projects. If you share the same love and appetite for a challenge, come work with us!</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/300873?reset=False&amp;ra=1CU0WQtH7WCc&amp;oqs=a%3D1CU0WQtH7WCc%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Meeshkan</h4>            <div><p>We are Meeshkan, and we build fake stuff for developers. Fake APIs, fake databases, fake streams - if they can make it, we can fake it. We do not make fake money (yet), fake Louis Vuitton bags, or <a title=&quot;Fake Books&quot; href='https://archive.org/details/fakebooks' rel='nofollow'>Fake Books</a>, but we'll fake basically anything else that needs faking.</p><p>So who needs fake stuff, you ask?</p><ul><li><strong>Banks</strong> use our mock APIs to create uncannily realistic developer sandboxes.</li><li><strong>Retail stores</strong> ship daily builds of mobile APIs to agencies working on their apps, speeding up development.</li><li><strong>Microservice-oriented companies</strong> use our mocking technology in their CI pipelines, eliminating the need for staging environments and speeding up integration testing.</li><li><strong>IoT</strong> providers ship a virtual twin of their devices to would-be integrators using our patent-pending technologies.</li></ul><p>Chosen by Wired as one of <a href='https://www.wired.co.uk/article/best-startups-in-helsinki-2019#meeshkan' rel='nofollow'>Helsinki's hottest startups of 2019</a> and winners of the <a title=&quot;Slush 100&quot; href='https://news.slush.org/news/the-winner-of-slush-100-is-meeshkan/' rel='nofollow'>Slush 100</a> competition, we've worked with the likes of Netflix, Slack, Twilio, and PayPal on designing world-class fake versions of their world-class services.</p><p><strong>Working at Meeshkan</strong></p><p>People love to work at Meeshkan most because of its great company culture, not to mention the fantastic city of Helsinki in which we're based. Even if you're working remotely for Meeshkan, the TCP packets carrying your messages will <strong>love</strong> traveling to and from Helsinki. Additionally, here are some of the things we value.</p><p><strong>Open-source</strong></p><p>We believe that business comes from trust and relationships, not proprietary code. We have open-sourced over 90% of our code base, and most of our projects are open-source from day one. When you work at Meeshkan, most of your work will be spent on code that is or can become open-source. This can either be on the company's GitHub or, if you'd like to be a maintainer, on whatever social code sharing account you fancy, including of course your own GitHub account. Our most ambitious project <a href='https://www.unmock.io' rel='nofollow'>unmock.io</a>, an API-(un)mocking library, has hundreds of downloads a week and an active community of developers hailing from over the world.</p><p><strong>Polyglots</strong></p><p>While all of us have our specialties, we regularly change stuff up and make contributions to projects that are outside our comfort zone. We love working with people that enjoy this type of challenge, and we do lots of peer programming and code review to make sure that <em>everyone</em> feels comfortable doing new things.</p><p><strong>Meetups</strong></p><p>We love offline events, especially meetups. Members of our team organize meetups like <a href='https://www.meetup.com/Berlin-JS/' rel='nofollow'>BerlinJS</a>, <a href='https://queerjs.com/' rel='nofollow'>QueerJS</a> and <a href='https://www.meetup.com/Helsinki-Functional-Programming' rel='nofollow'>Helsinki Functional Programming</a>. Employees use company time to attend meetups and prep talks and workshops ranging from <a href='https://pycon.ee' rel='nofollow'>PyCon Estonia</a> to <a href='https://www.reactindia.io' rel='nofollow'>React India</a>.</p><p><strong>Experimentation and learning</strong></p><p>We regularly take time to hone our skills through classes and experiments, from <a href='https://theshortcut.org' rel='nofollow'>Azure Certifications</a> right in our building to authoring <a href='https://wall-lang.netlify.com' rel='nofollow'>new programming languages</a>.</p><p><strong>Your day-to-day at Meeshkan</strong></p><p>Just look at some of our <a href='https://github.com/unmock' rel='nofollow'>Git repos</a> or our <a href='https://gitter.im/unmock/community' rel='nofollow'>Gitter</a> to see! Most of our communication is done openly for the world to audit, comment on, and join if so inclined. We are big on retros, prototyping, and constant collaboration. We have flexible hours, are high on substance, love deleting code, and follow the ancient mirror-making wisdom &quot;it is faster to build a four-inch mirror followed by a six-inch mirror than to build a six-inch mirror.&quot;</p><p><strong>The team</strong></p><p>We're small. The company has four full time employees and, with part-timers, ten depending how you count. We are a lean, well-funded, highly motivated bunch that's build a fake version of the whole darn internet. And we would love for you to join us and build part of our Meeshkan.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Amazing developer experience </span>                            </li>                            <li>                                <span></span>                                <span>Flexible hours </span>                            </li>                            <li>                                <span></span>                                <span>Stock option plan </span>                            </li>                            <li>                                <span></span>                                <span>Health care </span>                            </li>                            <li>                                <span></span>                                <span>Remote friendly </span>                            </li>                            <li>                                <span></span>                                <span>Conferences and education </span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "CZkd8oxPRiSaB5hjU7TxUw",
+    "url": "https://jobmote.com/job/82169/automation-test-engineer-partial-remote/",
+    "title": "Automation Test Engineer - Partial Remote",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java-ee/java/13",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=15, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/qa",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Piper Companies",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 100000,
+      "maxValue": 120000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 100k - 120k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 30, 2019 10:07:43 PM",
+    "validThrough": "Oct 3, 2019 10:07:43 PM",
+    "crawled": "Oct 1, 2019 3:06:32 AM",
+    "content": "<div><br> JOB DESCRIPTION <br> <br><br>Piper Companies is currently seeking strong Automation Test Engineers who are excellent test designers and adaptable to feature/functional products changes in a dynamic environment. The candidate will proactively participate in defining/refining and updating product &amp; test solutions. Excellent written and verbal communication along with the ability to build a relationship of trust with the team is a must. <br><br><b> Responsibilities  </b><br><ul><li>Be fully engaged in the project team, seek to be a subject matter expert </li><li>Create test strategies manual/automated to effectively ensure the quality of the products </li><li>Collaborate with Developers, Business Analysts and other teams to ensure effective testing for features </li><li>Identify and/or coordinates dependencies between projects/products </li><li>Be proactive and execute tasks with minimal management </li></ul><br><br><b> Requirements  </b><br><ul><li>8+ years overall QA experience </li><li>Experience testing Media products - strongly preferred </li><li><b>Automation </b><br><ul><li>Significant Selenium experience </li><li>Experience implementing RESTful API frameworks such as Rest-Assured, Postman, SOAPUI, ... </li></ul></li><li>Strong verbal and written communication skill; ability to work well across teams </li><li>Good understanding of Cloud technologies (e.g., AWS) - uploading and managing large data sets a plus e.g., S3 buckets </li><li>Excellent skills 1) defining test strategy, test design 2) executing test &amp; troubleshooting </li><li>6 years testing in web environments (web services, Java, JavaScript, J2EE, XML) </li><li>Possesses a good understanding of application programming, database, system design, operating systems and networking </li><li>2 years testing in an Agile environment </li><li>4 years SQL experience (Oracle or SQL). Must have very good SQL skills. </li><li>Experience with test management systems such as; ALM/QC, Jira </li><li>Proven ability to work remotely </li><li>Must have B.S. in computer science or another related field. </li></ul><br><br><b> Compensation &amp; Benefits  </b><br><ul><li><b>Salary </b>: $100,000 to $120,000/year </li><li><b>Full Benefits </b>: United Healthcare Medical, Metlife Dental, VSP Vision, PTO, 401k w/ 3% Match, Remote Flexibility </li><li><b>Partial Remote Schedule </b>: Remote Tuesday, Wednesday &amp; Friday | Onsite Monday &amp; Thursday </li></ul><br><br>If Interested, please send resumes to Mike Hanlon at <br> <br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Vh8y15HkSzi0PEmxD3Voyg",
+    "url": "https://jobmote.com/job/82167/software-development-engineer-in-test-remote-flex/",
+    "title": "Software Development Engineer in Test - Remote Flex",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 6W OR(dai,daili,week,weekli,month,monthli) 5W OR(offic,headquart,onsit)",
+      "DBG_TECH1:k/t/w:java-ee/java/13",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=15, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/qa",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Piper Companies",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 100000,
+      "maxValue": 125000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 100k - 125k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 30, 2019 10:07:42 PM",
+    "validThrough": "Oct 3, 2019 10:07:42 PM",
+    "crawled": "Oct 1, 2019 3:06:32 AM",
+    "content": "<div><br> JOB DESCRIPTION<br><br>Piper Companies is looking for a Software Development Engineer in Test that has experience working at a Startup or working with new products built from the ground up. This mind set is required to be integral part of an agile team where requirements are rapidly evolving.<br><br>The SDET must be adaptable to feature/functional products changes, and also proactively participates in defining/refining and updating product &amp; test solutions. Excellent written and verbal communication along with the ability to build a relationship of trust with the team is a must.<br><br>This position allows 3 days of REMOTE - 2 days on-site in Sterling, VA. <br><br><b> Responsibilities  </b><br><ul><li>Be fully engaged in the project team, seek to be a subject matter expert </li><li>Create test strategies manual/automated to effectively ensure the quality of the products </li><li>Collaborate with Developers, Business Analysts and other teams to ensure effective testing for features </li><li>Identify and/or coordinates dependencies between projects/products </li><li>Be proactive and execute tasks with minimal management </li></ul><br><br><b> Requirements  </b><br><ul><li>8+ years overall QA experience </li><li>Experience testing Media products - strongly preferred </li><li><b>Automation </b><br><ul><li>Significant Selenium experience </li><li>Experience implementing RESTful API frameworks such as Rest-Assured, Postman, SOAPUI, ... </li></ul></li><li>Strong verbal and written communication skill; ability to work well across teams </li><li>Good understanding of Cloud technologies (e.g., AWS) - uploading and managing large data sets a plus e.g., S3 buckets </li><li>Excellent skills 1) defining test strategy, test design 2) executing test &amp; troubleshooting </li><li>6 years testing in web environments (web services, Java, JavaScript, J2EE, XML) </li><li>Possesses a good understanding of application programming, database, system design, operating systems and networking </li><li>2 years testing in an Agile environment </li><li>4 years SQL experience (Oracle or SQL). Must have very good SQL skills. </li><li>Experience with test management systems such as; ALM/QC, Jira </li><li>Proven ability to work remotely </li><li>Must have B.S. in computer science or another related field. </li></ul><br><br><b> Compensation &amp; Benefits  </b><br><ul><li><b>Salary </b>: $100,000 to $125,000/year </li><li><b>Full Benefits </b>: United Healthcare Medical, Metlife Dental, VSP Vision, PTO, 401k w/ 3% Match, Remote Flexibility </li><li><b>Partial Remote Schedule </b>: Remote Tuesday, Wednesday &amp; Friday | Onsite Monday &amp; Thursday </li></ul><br><br>If Interested, please send resumes to Mike Hanlon at<br><br><br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "TZALXpmXR_mVRO20dhyZng",
     "url": "https://remote.co/job/automation-quality-assurance-engineer/",
     "title": "Automation Quality Assurance Engineer",
