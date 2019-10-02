@@ -1,6 +1,857 @@
 {
  "items": [
   {
+    "id": "KCDrBsfJS564YZIETfVbBQ",
+    "url": "https://news.ycombinator.com/item?id=21137108",
+    "title": "SEEKING FREELANCER | UK, Remote | Mobile Developer We're searching for a mobile app developer ...",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=4, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2019 4:54:42 PM",
+    "validThrough": "Oct 9, 2019 4:54:42 PM",
+    "crawled": "Oct 2, 2019 6:24:11 PM",
+    "content": "SEEKING FREELANCER | UK, Remote | Mobile Developer<p>We're searching for a mobile app developer to be part of a cross-platform (iOS &amp; Android) greenfield project.</p><p>Contact for more info: hn-freelancer-oct19@oldreliable.tech</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "2iTbOykNS1W0efA9hUtGOw",
+    "url": "https://news.ycombinator.com/item?id=21133922",
+    "title": "Segovia | New York, NY or REMOTE | Full-time | https://www.thesegovia.com/ Segovia is payment ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=6, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2019 8:47:02 AM",
+    "validThrough": "Oct 9, 2019 8:47:02 AM",
+    "crawled": "Oct 2, 2019 9:07:24 AM",
+    "content": "Segovia | New York, NY or REMOTE | Full-time | <a href='https://www.thesegovia.com/' rel='nofollow'>https://www.thesegovia.com/</a><p>Segovia is payment gateway infrastructure primarily used to move money to Africa. Customers include charities that want to transfer cash directly to people in Africa as well as small businesses that maintain workforces across developed and developing world and general API users like remittance apps.</p><p>We use: Kotlin, Java, Axon Framework, PostgreSQL, React, Puppeteer, Docker, AWS, Terraform, Ansible</p><p>Open Roles:</p><p>- Software Engineer: <a href='https://thesegovia.recruiterbox.com/jobs/fk0hqg5/' rel='nofollow'>https://thesegovia.recruiterbox.com/jobs/fk0hqg5/</a></p><p>- Engineering Manager: <a href='https://thesegovia.recruiterbox.com/jobs/fk0jd4l/' rel='nofollow'>https://thesegovia.recruiterbox.com/jobs/fk0jd4l/</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "5pm-k_ORT1GhJllQ1KHUaw",
+    "url": "https://news.ycombinator.com/item?id=21133849",
+    "title": "Fotoquirk Ltd | Durham, UK (remote) | Android developer | REMOTE Fotoquirk Ltd creates ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/6",
+      "DBG_TECH1:k/t/w:android/mobile/12",
+      "DBG_TECH1:k/t/w:c++/c/16",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=16, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2019 8:29:38 AM",
+    "validThrough": "Oct 9, 2019 8:29:38 AM",
+    "crawled": "Oct 2, 2019 9:07:24 AM",
+    "content": "Fotoquirk Ltd | Durham, UK (remote) | Android developer | REMOTE<p>Fotoquirk Ltd creates innovative visualisation and augmented reality software for mobile devices and the web. We are a small, dynamic and international team aiming to strike the right balance between graphically advanced products and practical solutions which solve actual business problems</p><p>We are looking for an enthusiastic software developer to help build the Android version of our next generation visualisation software, initially on project basis but possibly extending to a permanent contract. The Android version will be a custom-built layer on top of our existing multiplatform C++ visualisation core.</p><p>This is a remote working job, but you should be prepared to interact on a daily basis with our team in Durham, and most importantly, be responsive. We offer very competitive rates, depending on qualifications.</p><p>- experience with Android development using the command-line toolset,- experience with the Android NDK,- experience with Java as well as C++,- experience building dynamical user interfaces in code,- an interest in 3D graphics.</p><p>More info <a href='https://www.fotoquirk.com/jobs.html' rel='nofollow'>https://www.fotoquirk.com/jobs.html</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "TraLaNieS8OjmHNRpgy_LA",
+    "url": "https://news.ycombinator.com/item?id=21132950",
+    "title": "Celo | San Francisco, Berlin, and Buenos Aires | Hiring Software Engineers, Mobile Engineers, ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=6, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=2, java=2, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2019 4:26:00 AM",
+    "validThrough": "Oct 9, 2019 4:26:00 AM",
+    "crawled": "Oct 2, 2019 5:07:16 AM",
+    "content": "Celo | San Francisco, Berlin, and Buenos Aires | Hiring Software Engineers, Mobile Engineers, and Cryptographers | All Levels | 80K - 200K + equity + coins | FULLTIME, ONSITE, REMOTE, VISA | <a href='https://celo.org' rel='nofollow'>https://celo.org</a><p>Celo is an open-source permissionless platform that makes a Venmo-like experience accessible to anyone with a mobile phone. Using a novel decentralized PKI, Celo lets you send cryptocurrency to phone numbers in a fully decentralized way. Additionally, Celo uses stable-value tokens pegged to fiat currencies, like the US Dollar, to minimize volatility. Anyone can participate in the network and earn Celo currency, even with just a budget Android smartphone (by sending verification text messages). To make sure that the platform is scalable and fast enough for day-to-day use, Celo uses a new Proof of Stake protocol with fast block times and 1 block finality. For Celo's first product, we are working with organizations such as the UN World Food Programme and GiveDirectly on a social payments and cash transfer app.</p><p>Investors: Andreessen Horowitz (a16z), Polychain, General Catalyst, Coinbase, Reid Hoffman and Jack Dorsey, among others.</p><p>Stack: Typescript, Solidity, Go, React Native, Python, Android, iOS, Rust, zk-SNARKs</p><p>Team backgrounds: Google, Facebook, Apple, Microsoft, Square, Zcash, QEDIT, MIT, Stanford</p><p>More about us here:</p><p>Blog - <a href='https://medium.com/celohq' rel='nofollow'>https://medium.com/celohq</a></p><p>Repos - <a href='https://github.com/celo-org' rel='nofollow'>https://github.com/celo-org</a></p><p>Mobile App (alpha release): <a href='https://celo.org/app' rel='nofollow'>https://celo.org/app</a></p><p>SDK: <a href='https://docs.celo.org/celo-sdk' rel='nofollow'>https://docs.celo.org/celo-sdk</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "_xAYqlKgQlGICroTXZ68Ug",
+    "url": "https://news.ycombinator.com/item?id=21132963",
+    "title": "Squad (YC W18) | Android / Backend Engineers | Full-Time | San Francisco | REMOTE | https:/ ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/3",
+      "DBG_TECH1:k/t/w:android/mobile/6",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2019 4:28:18 AM",
+    "validThrough": "Oct 9, 2019 4:28:18 AM",
+    "crawled": "Oct 2, 2019 5:07:16 AM",
+    "content": "Squad (YC W18) | Android / Backend Engineers | Full-Time | San Francisco | REMOTE | <a href='https://squadapp.io' rel='nofollow'>https://squadapp.io</a><p>Squad is a new way to hang out with your friends––sharing screens, watching YouTube &amp; TikTok while chatting live on video together. It’s the next best thing to hanging out IRL. Our novel approach makes screen time more connective and collaborative for Gen Z.</p><p>Our mission is to reduce loneliness by bringing people together to engage in meaningful and fun experiences. We've raised a $5M seed led by First Round and have a fast-growing userbase, mostly of teen girls.</p><p>We are a distributed team with a hub in San Francisco. You’ll be implementing fun and engaging features to delight our growing user base. You will be deeply involved in the design process, and own features from conception to roll out.</p><p>- Android: <a href='https://hire.withgoogle.com/public/jobs/squadappio/view/P_AAAAAAIAACCLc5CY7ZJjtl' rel='nofollow'>https://hire.withgoogle.com/public/jobs/squadappio/view/P_AA...</a></p><p>- Backend: <a href='https://hire.withgoogle.com/public/jobs/squadappio/view/P_AAAAAAIAACCAVrF0dzfIA2' rel='nofollow'>https://hire.withgoogle.com/public/jobs/squadappio/view/P_AA...</a></p><p>We're also looking for a couple of contractors for specific projects -- on the web and iOS.</p><p>I recently wrote about our cap table and shared all of our investors because I firmly believe early employees should know who they are working to make richer and more powerful in the world. Read it here: <a href='https://medium.com/allraise/your-companys-cap-table-matters-it-s-who-you-re-making-wealthy-and-powerful-in-the-world-c63cca36ccfa' rel='nofollow'>https://medium.com/allraise/your-companys-cap-table-matters-...</a></p><p>We’re a creative, diverse and fast-moving team that’s passionate about building the future of social communication. If you are driven by ownership and impact, we’d love to hear from you! Feel free to ping me directly with any questions at esther@squadapp.io</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "a-BaQQHESFCVov7LXkUUtw",
+    "url": "https://jobmote.com/job/82288/android-developer-remote/",
+    "title": "Android Developer - Remote",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android-studio/mobile/5",
+      "DBG_TECH1:k/t/w:android/java/6",
+      "DBG_TECH1:k/t/w:android/mobile/12",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:fabric/python/8",
+      "DBG_TECH1:k/t/w:firebase/mobile/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=0, c=0, mobile=30, go=3, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=6, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "CV Bay Ltd",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 10:07:38 PM",
+    "validThrough": "Oct 4, 2019 10:07:38 PM",
+    "crawled": "Oct 2, 2019 3:06:31 AM",
+    "content": "<div><p><strong>Android Developer - Remote Role - Attending Regular Meetings in Uxbridge - UB8</strong></p> <p>We are currently recruiting for an experienced Android Developer, to join our company as a remote worker based in the UK who is able to attend meetings in Uxbridge on a regular basis. We are a fast-growing company with a clear market leading position in the UK Care sector. This is a full-time opportunity, supporting flexible hours. You will be responsible for the creation of high-quality, industry leading Mobile Applications for our clients, constantly seeking to learn and improve, actively research, develop and recommend practices, platforms, features and best practice.</p> <p><strong>Benefits:</strong></p> <ul><li>29+ days annual leave</li><li>Flexible working</li><li>Pension</li><li>Perkbox employee rewards (childcare vouchers, dining, shopping and entertainment discounts)</li><li>Parking paid</li><li>Local gym membership</li></ul><p><strong>Skills &amp; experience required:</strong></p> <ul><li>Full understanding of the Software Delivery Lifecycle.</li><li>Strong understanding and experience of working with the Android SDK, Kotlin and Android Studio.</li><li>Strong understanding of secure coding practices.</li><li>Able to contribute to the design of REST APIs.</li><li>Mastery of object-oriented programming paradigms -SOLID, GRASP and Hollywood Principle</li><li>Versed in version control and Agile Lifecycle Management (ALM) tools - Ideally Git and Azure DevOps.</li><li>Experience of working with Fabric (Answers, Crashlytics, Twitter), Google Analytics, Firebase, Google SDK, Localisations and Push Notifications.</li><li>Experienced in test automation CI/CD.</li><li>Understanding of Human Interface Guidelines.</li><li>Experience of working with remote/offshore developers and testers.</li><li>Familiar with at least one Agile methodology - preferably Scrum.</li></ul><p><strong>Responsibilities:</strong></p> <ul><li>Building state of the art mobile apps for a rapidly growing user base.</li><li>Maintain and enhance mobile applications by addressing bugs and introducing new features</li><li>Demonstrate new features to colleagues prior to release.</li><li>Contribute throughout the software development life cycle.</li><li>Interacting with UI / UX designers to achieve an aspirational UX which is suitable for our clients.</li><li>Participating in pull requests and code reviews.</li><li>Regularly assessing and improving anything that affects you, your team or the company.</li><li>Proactively research development practices, products and mobile devices to recommend, research and develop valuable features</li></ul><p><strong>If this sounds like you please send us your CV through the link, and we will give you a call for a confidential chat. Alternatively please give us a call at and ask for Cris, and we will be more than happy to go through the role in more details, with a view to arrange an interview with you.</strong></p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "uhYbJZzwQI2_L1ZD8-4nAQ",
+    "url": "https://jobmote.com/job/82287/android-developer-remote/",
+    "title": "Android Developer - Remote",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android-studio/mobile/5",
+      "DBG_TECH1:k/t/w:android/java/6",
+      "DBG_TECH1:k/t/w:android/mobile/12",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:fabric/python/8",
+      "DBG_TECH1:k/t/w:firebase/mobile/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=0, c=0, mobile=30, go=3, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=6, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "CV Bay Ltd",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 10:07:37 PM",
+    "validThrough": "Oct 4, 2019 10:07:37 PM",
+    "crawled": "Oct 2, 2019 3:06:31 AM",
+    "content": "<div><p><strong>Android Developer - Remote Role - Attending Regular Meetings in Uxbridge - UB8</strong></p> <p>We are currently recruiting for an experienced Android Developer, to join our company as a remote worker based in the UK who is able to attend meetings in Uxbridge on a regular basis. We are a fast-growing company with a clear market leading position in the UK Care sector. This is a full-time opportunity, supporting flexible hours. You will be responsible for the creation of high-quality, industry leading Mobile Applications for our clients, constantly seeking to learn and improve, actively research, develop and recommend practices, platforms, features and best practice.</p> <p><strong>Benefits:</strong></p> <ul><li>29+ days annual leave</li><li>Flexible working</li><li>Pension</li><li>Perkbox employee rewards (childcare vouchers, dining, shopping and entertainment discounts)</li><li>Parking paid</li><li>Local gym membership</li></ul><p><strong>Skills &amp; experience required:</strong></p> <ul><li>Full understanding of the Software Delivery Lifecycle.</li><li>Strong understanding and experience of working with the Android SDK, Kotlin and Android Studio.</li><li>Strong understanding of secure coding practices.</li><li>Able to contribute to the design of REST APIs.</li><li>Mastery of object-oriented programming paradigms -SOLID, GRASP and Hollywood Principle</li><li>Versed in version control and Agile Lifecycle Management (ALM) tools - Ideally Git and Azure DevOps.</li><li>Experience of working with Fabric (Answers, Crashlytics, Twitter), Google Analytics, Firebase, Google SDK, Localisations and Push Notifications.</li><li>Experienced in test automation CI/CD.</li><li>Understanding of Human Interface Guidelines.</li><li>Experience of working with remote/offshore developers and testers.</li><li>Familiar with at least one Agile methodology - preferably Scrum.</li></ul><p><strong>Responsibilities:</strong></p> <ul><li>Building state of the art mobile apps for a rapidly growing user base.</li><li>Maintain and enhance mobile applications by addressing bugs and introducing new features</li><li>Demonstrate new features to colleagues prior to release.</li><li>Contribute throughout the software development life cycle.</li><li>Interacting with UI / UX designers to achieve an aspirational UX which is suitable for our clients.</li><li>Participating in pull requests and code reviews.</li><li>Regularly assessing and improving anything that affects you, your team or the company.</li><li>Proactively research development practices, products and mobile devices to recommend, research and develop valuable features</li></ul><p><strong>If this sounds like you please send us your CV through the link, and we will give you a call for a confidential chat. Alternatively please give us a call at and ask for Cris, and we will be more than happy to go through the role in more details, with a view to arrange an interview with you.</strong></p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "gjxyvqBfRmm9xwgTX5eVLA",
+    "url": "https://jobmote.com/job/82255/freelance-data-entry-operator-remote-corona/",
+    "title": "Freelance Data Entry Operator Remote - Corona",
+    "tags": [
+      "DBG:surround``OR(oper,collabor) 2W remot",
+      "DBG_TECH1:k/t/w:corona/gamedev/5",
+      "DBG_TECH1:k/t/w:corona/mobile/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=5, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/gamedev",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "gamedev",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "Splash M",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 10:07:36 PM",
+    "validThrough": "Oct 4, 2019 10:07:36 PM",
+    "crawled": "Oct 2, 2019 3:06:31 AM",
+    "content": "<div>Urgently required Data Entry Operator for E-book typing Project.<br><br> Requirements:<br><br> 1) Typing Speed required 20-25 WPM.<br> 2) Do you have a Personal Computer, Laptop.<br> 3) Do you have a free time of a at least 3-4 hours a day.<br><br> Actually this work is very simple and easy. All you have to do is, type what you see. That is, you will be provided image files which you just have to type in Notepad. There are slot available of 200 Pages which will be send to via email. After you complete the work, you will have to submit the work to the same E-mail id. You will get 30 days to complete typing 200 image files. One image file will contain approximately 50 to 60 lines. in addition you will have to maintain 70% Accuracy in your entire work. Company given to 100 Rs. Per Page. Your payment would range from 20,000 accordingly. A payment will be made through online Net Transfer (NEFT).<br><br> All you have to take care of is that type exactly what is given in the image files. You don't have to do any kind of formatting. with this, you will be also given a legal contract of 12 months according to which you will get 12 Projects i. e. 12 slots/12 months. The contract would be prepared legally on a stamp paper of Rs. 100/-. Moreover, to be able to work on this project you should have typing speed of 20-30 WPM and if you have 3 to 5 hours a day you can easily earn a decent amount.</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "wkpIaioJSeC8wLW0th2rSQ",
+    "url": "https://news.ycombinator.com/item?id=21130694",
+    "title": "Haiku (YC W18) | San Francisco, CA | REMOTE OK | jobs@haikuforteams.com Principal Engineer ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/2",
+      "DBG_TECH1:k/t/w:typescript/nodejs/2",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=17, go=8, nodejs=2, bigdata-ml=0, ruby=0, apple=7, java=1, gamedev=0, php=0, embedded=0, frontend=10}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 11:10:05 PM",
+    "validThrough": "Oct 8, 2019 11:10:05 PM",
+    "crawled": "Oct 1, 2019 11:31:24 PM",
+    "content": "Haiku (YC W18) | San Francisco, CA | REMOTE OK | jobs@haikuforteams.com<p>Principal Engineer</p><p>We're working to revolutionize the way that teams create software: by unifying design &amp; code. See what we make over at haikuforteams.com and diez.org</p><p>We seek a language-agnostic, experienced Principal Engineer (title is flexible.) You'll work directly with our technical CEO and small remote team to drive our company past the cusp of product-market fit into profitability and (if we choose to pursue one) our next financing round. We have growing revenue, cash in the bank, a small team, and big opportunity.</p><p>If you're a business-focused (or -curious!) engineer who wants to exchange knowledge while collaborating with some grizzled startup veterans and YC alum, we'd love to work with you.</p><p>Responsibilities</p><p>- Develop &amp; ship product and open-source tech, across front- and back-end technologies (Golang, Postgres, TypeScript, Vue, Swift, Kotlin)</p><p>- Solve tough architectural &amp; design challenges in a team setting</p><p>- Take full ownership of projects from conception to implementation to deployment</p><p>- Apply a pragmatic, user-focused lens while making foundational technical decisions</p><p>Requirements</p><p>- Expert in at least one compiled, statically typed language</p><p>- Experience with designing for and reasoning about type systems; TypeScript a big plus</p><p>- Experience with high-performance rendering concerns on web or mobile platforms</p><p>- Experience with AWS (or another cloud computing platform)</p><p>- Exposure to native mobile development (iOS, Android)</p><p>- Eager to deep-dive into new languages, frameworks, and systems</p><p>- Bonus: experience creating or maintaining compilers (static analysis, AST manipulation, IDE tooling)</p><p>Get in touch:  jobs@haikuforteams.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "lUc6ms1sQG-GrxhA7I6q6A",
+    "url": "https://news.ycombinator.com/item?id=21129099",
+    "title": "Envoy | San Francisco | Onsite full-time | REMOTE possible for exceptional candidates (see ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG:surround``remot 3W 2W( OR(qualifi, except), candid)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:objective-c/apple/3",
+      "DBG_TECH1:k/t/w:objective-c/c/2",
+      "DBG_TECH1:k/t/w:objective-c/mobile/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/6",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=2, mobile=21, go=0, nodejs=1, bigdata-ml=0, ruby=6, apple=8, java=4, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/50",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 8:44:07 PM",
+    "validThrough": "Oct 8, 2019 8:44:07 PM",
+    "crawled": "Oct 1, 2019 9:31:19 PM",
+    "content": "Envoy | San Francisco | Onsite full-time | REMOTE possible for exceptional candidates (see below for openings)<p>About the company: Envoy makes the office visitor product loved by customers and visitors alike. We're expanding into new product areas hoping to make office life more pleasant by automating unpleasant and laborious parts of the office experience. Do you ever get annoyed because conference room booking is a pain? That's the sort of thing Envoy is working to eliminate. We replace annoying and toilsome parts of the office experience with seamless, pleasant experiences.<a href='https://envoy.com/jobs' rel='nofollow'>https://envoy.com/jobs</a></p><p>-Backend Engineer: Python, Ruby, Elixir, Heroku AWS</p><p>-Frontend Engineer: Ember,js, experience with APIs</p><p>-iOS Engineer: Swift, Objective-C, BLE and NFC, location services</p><p>-Android Engineer: Have experience publishing on Google play, Java, Koltin, Android SDK</p><p>-DevOps Engineer: Security, Terraform, AWS, Heroku, Circle CI</p><p>-Tech Lead Manager: Technical development experience, mentorship, Scrum/Agile, IoT products, Ruby</p><p>-Engineering Manager: Technical development experience, mentorship, Scrum/Agile, IoT products, Ruby</p><p>We have some ambitious hiring goals in the coming months so we've doubled down on creating an expedited and pleasant interview experience.</p><p>email: hn-expedited@envoy.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "17d6qXN6Qvi6BunWKQ0lDA",
+    "url": "https://news.ycombinator.com/item?id=21128214",
+    "title": "Airtable | Software Engineer | San Francisco | REMOTE (US only) Airtable's mission is to expand ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:objective-c/apple/3",
+      "DBG_TECH1:k/t/w:objective-c/c/2",
+      "DBG_TECH1:k/t/w:objective-c/mobile/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=2, mobile=20, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=10, java=1, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 7:38:03 PM",
+    "validThrough": "Oct 8, 2019 7:38:03 PM",
+    "crawled": "Oct 1, 2019 8:31:27 PM",
+    "content": "Airtable | Software Engineer | San Francisco | REMOTE (US only)<p>Airtable's mission is to expand human productivity by letting everyone create tools to organize their world. Our current product includes a real-time collaborative database and a rich set of components for building tools using this database. Unlike single-purpose apps, we think of Airtable as a toolkit of building blocks that people can repurpose to create their own applications. Our roadmap is filled with enhancements and additions to this toolkit that will push the boundaries of Airtable's capabilities.</p><p>To see some of the ways people are already using Airtable, check out <a href='https://airtable.com/universe' rel='nofollow'>https://airtable.com/universe</a></p><p>We're hiring engineers for web (Javascript + Flow, Node, React), iOS (Objective-C, Swift), and Android.</p><p>We're a small team, with backgrounds from Google, Facebook, Microsoft, etc. We believe in the power of highly motivated and capable individuals to accomplish great things in small teams, with end-to-end ownership of projects and rapid iteration. Read more about our engineering culture and values here: <a href='https://www.keyvalues.com/airtable' rel='nofollow'>https://www.keyvalues.com/airtable</a></p><p>You can apply here: <a href='https://airtable.com/jobs' rel='nofollow'>https://airtable.com/jobs</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "o0WwDJhAQzG6rMb-GVwqpg",
+    "url": "https://news.ycombinator.com/item?id=21128632",
+    "title": "Seeq (https://seeq.com) | Full Stack Engineer, Backend Engineer, Support Engineer | 100% Remote ...",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 2W hour",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:kotlin/mobile/10",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:time-series/bigdata-ml/5",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=12, go=3, nodejs=1, bigdata-ml=15, ruby=0, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=17}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/frontend",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/America/West"
+    ],
+    "tagsNames1": [
+      "US Pacific time zone"
+    ],
+    "tagsNames2": [
+      "bigdata-ml",
+      "frontend",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 8:04:41 PM",
+    "validThrough": "Oct 8, 2019 8:04:41 PM",
+    "crawled": "Oct 1, 2019 8:31:27 PM",
+    "content": "Seeq (<a href='https://seeq.com' rel='nofollow'>https://seeq.com</a>) | Full Stack Engineer, Backend Engineer, Support Engineer | 100% Remote<p>Seeq makes data analytics software for a big market that’s often overlooked by tech companies: industrial process data. Think pharmaceutical manufacturers, wind farms, and energy companies with tons of equipment and sensors. Our software engineers tackle hard problems in streaming calculation, storage and distributed computing, leveraging the latest features in Java 11, Kotlin, and PostgreSQL.</p><p>Our company is 100% remote and proud of it. You can work anywhere in the US or Europe, but we require an overlap of 8am-noon Pacific working hours. We use a variety of collaboration tools, like Zoom and Slack, which makes us feel like we’re in the same building together. We have a stacked team of kind-hearted, talented engineers that love to collaborate, teach each other new tricks, and build products that far exceed our customers’ expectations.</p><p>Our technology stack is largely Java and Kotlin on the backend and TypeScript, AngularJS, and React on the frontend. The core of our product is a full-featured calculation engine that can perform complex math and execute machine learning algorithms on streaming time series data.</p><p>To apply, go to <a href='https://www.seeq.com/about/careers' rel='nofollow'>https://www.seeq.com/about/careers</a></p><p>I am not the hiring manager, but involved with many parts of the interviewing processing, and happy to answer any questions. Feel free to contact me at stephen.rosenthal@seeq.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "AUgag8j0R0a9qsjyrK8X-g",
+    "url": "https://news.ycombinator.com/item?id=21128508",
+    "title": "PROJECT RONIN - Hiring Software and Mobile Developers, DevOps too. Location: San Mateo, CA WHAT ...",
+    "tags": [
+      "DBG:classic``&quot;open to remot&quot;",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=0, mobile=17, go=0, nodejs=1, bigdata-ml=0, ruby=10, apple=7, java=1, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 7:56:37 PM",
+    "validThrough": "Oct 8, 2019 7:56:37 PM",
+    "crawled": "Oct 1, 2019 8:31:27 PM",
+    "content": "PROJECT RONIN - Hiring Software and Mobile Developers, DevOps too.<p>Location: San Mateo, CA</p><p>WHAT WE DO: We are developing an end-to-end cancer care platform that helps doctors and patients make better-informed decisions about treatment, by surfacing all the relevant information they need to assess their options and take confident, decisive action.</p><p>OPEN ROLES:</p><p>Senior Mobile (iOS or Android, recent exp with Swift or Kotlin would bump you to the top of the list but not a must have)</p><p>Sr. DevOps Lead (k8s experience would bump you to the top)</p><p>Sr. SWE (open to all tech stack experience if you are solid then we are language agnostic! We are open to remote.)</p><p>Our Tech Stack: Ruby/Rails, Javascript, React.js., Elixir, Python, Docker, k8s, Kafka, GraphQL, MySQL, OCI, Microsoft Azure</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "6ZyYQYLSSHmLlNmaHe5kCw",
+    "url": "https://news.ycombinator.com/item?id=21127394",
+    "title": "Groktor Ltd | iOS, Android and Node/TypeScript positions open | REMOTE (within a few hours of ...",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:typescript/frontend/2",
+      "DBG_TECH1:k/t/w:typescript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=4, java=2, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 6:34:10 PM",
+    "validThrough": "Oct 8, 2019 6:34:10 PM",
+    "crawled": "Oct 1, 2019 7:31:26 PM",
+    "content": "Groktor Ltd | iOS, Android and Node/TypeScript positions open | REMOTE (within a few hours of GMT preferred)<p>Multiple on-going projects, using the latest in native tech. Check <a href='https://groktor.com' rel='nofollow'>https://groktor.com</a> for more info and to get in touch.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "uLkJI9G6QreeptImx8sJzA",
+    "url": "https://news.ycombinator.com/item?id=21127998",
+    "title": "Signal | San Francisco or Remote (US only) | Full-Time, Remote-OK | https://signal.org Signal ...",
+    "tags": [
+      "DBG:surround``remot 3W onli",
+      "DBG:surround``remot W OR(contractor,assist,ok)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:electron/nodejs/8",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:objective-c/apple/3",
+      "DBG_TECH1:k/t/w:objective-c/c/2",
+      "DBG_TECH1:k/t/w:objective-c/mobile/8",
+      "DBG_TECH1:k/t/w:rust/other/10",
+      "DBG_TECH1:k/t/w:swift/apple/5",
+      "DBG_TECH1:k/t/w:swift/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=2, mobile=26, go=0, nodejs=9, bigdata-ml=0, ruby=0, apple=12, java=6, gamedev=0, php=0, embedded=0, frontend=4}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 7:22:54 PM",
+    "validThrough": "Oct 8, 2019 7:22:54 PM",
+    "crawled": "Oct 1, 2019 7:31:26 PM",
+    "content": "Signal | San Francisco or Remote (US only) | Full-Time, Remote-OK | <a href='https://signal.org' rel='nofollow'>https://signal.org</a><p>Signal is making private communication simple. As an Open Source project supported by grants and donations, Signal can put users first. There are no ads, no affiliate marketers, no creepy tracking. Just open technology for a fast, simple, and secure messaging experience. We design open protocols, develop Open Source software, and give it away for free.</p><p>To learn more about who we are, our engineering culture, and whether this is the right place for you, read our Key Values profile: <a href='https://www.keyvalues.com/signal' rel='nofollow'>https://www.keyvalues.com/signal</a></p><p>Here are our open roles:</p><p>- Server Developer: <a href='https://jobs.lever.co/signal/2a5fee8b-5875-46d4-a41d-773a28a6b553' rel='nofollow'>https://jobs.lever.co/signal/2a5fee8b-5875-46d4-a41d-773a28a...</a></p><p>- Desktop Developer: <a href='https://jobs.lever.co/signal/6cbff26c-290a-4e74-a56f-78e9783f3f90' rel='nofollow'>https://jobs.lever.co/signal/6cbff26c-290a-4e74-a56f-78e9783...</a></p><p>- Android Developer: <a href='https://jobs.lever.co/signal/cc2a16be-b9aa-496e-ba2c-cf8ba3672267' rel='nofollow'>https://jobs.lever.co/signal/cc2a16be-b9aa-496e-ba2c-cf8ba36...</a></p><p>- iOS Developer: <a href='https://jobs.lever.co/signal/5d866dff-b979-4a90-9a53-f581eee730d0' rel='nofollow'>https://jobs.lever.co/signal/5d866dff-b979-4a90-9a53-f581eee...</a></p><p>-Distributed Systems (Rust) Developer: <a href='https://jobs.lever.co/signal/7aa1ff1f-bd43-4359-82c7-8703d8b842d9' rel='nofollow'>https://jobs.lever.co/signal/7aa1ff1f-bd43-4359-82c7-8703d8b...</a></p><p>-Support Specialist (Contract to Perm): <a href='https://jobs.lever.co/signal/24b4f951-9c2e-451c-bd9d-18c57e14249f' rel='nofollow'>https://jobs.lever.co/signal/24b4f951-9c2e-451c-bd9d-18c57e1...</a></p><p>Tech Stack: iOS team: Swift &amp; Objective-C. Android team: Java. Desktop team: Electron, web stack (js, css, etc.). Service team: Java, AWS, devops. Distributed Systems: Rust</p><p>Please email us your resume to: Workwithus@signal.org</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "h1AYpgFRTUed1BgqWPs-WA",
     "url": "https://landing.jobs/at/landing-work/mobile-developer-ios-or-android-in-lisbon?utm_campaign=landing+rss&utm_content=Mobile+Developer+%28iOS+or+Android%29&utm_medium=referral&utm_source=rss",
     "title": "Mobile Developer (iOS or Android)",
@@ -10693,120 +11544,6 @@
     "validThrough": "Aug 5, 2019 10:07:26 PM",
     "crawled": "Aug 3, 2019 3:06:26 AM",
     "content": "<div>SURGE is looking for smart, self-motivated, experienced, senior test engineers who enjoy the freedom of telecommuting and flexible schedules, to work as long-term, consistent (40 hrs/week) independent contractors (1099) on a variety of software development projects. <p>Experience Required:</p> <p>-6+ Years of C# development</p> <p>-Extensive work within Xamarin Native and Firebase is REQUIRED</p> <p>-ASP.NET Web API</p> <p>-Android and IOS Notifications</p> <p>-MSSQL</p> <p> </p> <p> <strong>Must be located in the US or Canada to be considered for this role. Sorry, No Visas.</strong></p>   Life at Surge About Surge <p>Surge is an onshore provider of custom web, cloud, mobile, digital, and desktop software development and consulting services to clients in every industry, from hot startups to Fortune 500 companies.<br><br>Founded in 2007, and listed on the Inc. 5000 list of America s fastest growing companies for five straight years, Surge has successfully delivered hundreds of software products, apps, and solutions to its clients using a proven agile/scrum development process combined with an elite group of North American software professionals.<br><br>Simply put, Surge offers America s best software engineers, on demand, at rates 30-50% less than the competition.</p>Benefits<ul><li>Great Pay</li> <li>Choose Your Hours</li> <li>Work From Home</li> <li>Work With Happy People</li> <li>Zero Commute</li> <li>See Your Family More</li> <li>Travel While You Work</li> <li>Software Provided</li></ul> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "vwrhqGKnRa6LAtQfKW_eRA",
-    "url": "https://news.ycombinator.com/item?id=20592538",
-    "title": "Airtable | Software Engineer | San Francisco | REMOTE (US only) Airtable's mission is to expand ...",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG:surround``remot 3W onli",
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:objective-c/apple/3",
-      "DBG_TECH1:k/t/w:objective-c/c/2",
-      "DBG_TECH1:k/t/w:objective-c/mobile/8",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:swift/apple/5",
-      "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=2, mobile=20, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=10, java=1, gamedev=0, php=0, embedded=0, frontend=9}",
-      "REMOTE1/100",
-      "TECH1/mobile",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "mobile"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 2, 2019 2:47:15 PM",
-    "validThrough": "Aug 9, 2019 2:47:15 PM",
-    "crawled": "Aug 2, 2019 4:09:11 PM",
-    "content": "Airtable | Software Engineer | San Francisco | REMOTE (US only)<p>Airtable's mission is to expand human productivity by letting everyone create tools to organize their world. Our current product includes a real-time collaborative database and a rich set of components for building tools using this database. Unlike single-purpose apps, we think of Airtable as a toolkit of building blocks that people can repurpose to create their own applications. Our roadmap is filled with enhancements and additions to this toolkit that will push the boundaries of Airtable's capabilities.</p><p>To see some of the ways people are already using Airtable, check out <a href='https://airtable.com/universe' rel='nofollow'>https://airtable.com/universe</a></p><p>We're hiring engineers for web (Javascript + Flow, Node, React), iOS (Objective-C, Swift), and Android.</p><p>We're a small team, with backgrounds from Google, Facebook, Microsoft, etc. We believe in the power of highly motivated and capable individuals to accomplish great things in small teams, with end-to-end ownership of projects and rapid iteration. Read more about our engineering culture and values here: <a href='https://www.keyvalues.com/airtable' rel='nofollow'>https://www.keyvalues.com/airtable</a></p><p>You can apply here: <a href='https://airtable.com/jobs' rel='nofollow'>https://airtable.com/jobs</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Kes_Iy0ERbaevyrL8qnxBg",
-    "url": "https://news.ycombinator.com/item?id=20588864",
-    "title": "SEEKING FREELANCER Handsome (handsome.is) | Austin, TX | Android (Kotlin) & iOS (Swift) ...",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:android/java/5",
-      "DBG_TECH1:k/t/w:android/mobile/10",
-      "DBG_TECH1:k/t/w:app-store/mobile/8",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:ios/apple/8",
-      "DBG_TECH1:k/t/w:ios/mobile/8",
-      "DBG_TECH1:k/t/w:kotlin/mobile/15",
-      "DBG_TECH1:k/t/w:swift/apple/10",
-      "DBG_TECH1:k/t/w:swift/mobile/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=57, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=18, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/mobile",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "mobile"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 2, 2019 12:12:29 AM",
-    "validThrough": "Aug 9, 2019 12:12:29 AM",
-    "crawled": "Aug 2, 2019 1:09:12 AM",
-    "content": "SEEKING FREELANCER<p>Handsome (handsome.is) | Austin, TX | Android (Kotlin) &amp; iOS (Swift) Engineer | Contract | Remote (US)</p><p>Handsome is a Holistic Design &amp; Innovation agency in Austin. We focus on user research, top-tier design, and implementation across Web, Mobile, and XR.</p><p>We're expecting to be starting a contract in the third week of August that will require 1 iOS engineer and 1 Android engineer. Duration is a minimum of 90 days but there's a good chance it will be extended beyond that. Would expect 40 hrs/wk during the contract span.</p><p>Requirements:- Intermediate-expert experience and skills with Android/Kotlin or iOS/Swift.- Good communication. High level of comfort with both written and spoken English about business requirements and technical decisions.- Experience integrating with backend systems through REST APIs.- Collaborative; good team player. Comfortable with ticket systems, SCM, CI, etc.- Able to work 8 hours/day in the 8:00am-5:00pm CT window M-F.</p><p>Preferred:- Experience developing sophisticated UIs in Android/iOS.- Experience with Play/App Store submission, code signing, etc.- Experience integrating SSO systems.</p><p>Please Send Us:Your CV/Resume with Contact Info.A portfolio of relevant work.Notes on what projects in your portfolio demonstrate the needed skills for this project.</p><p>If you're interested, we'd love it if you'd apply here: <a href='https://airtable.com/shr3ZeCTmK5H6HgBq' rel='nofollow'>https://airtable.com/shr3ZeCTmK5H6HgBq</a></p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

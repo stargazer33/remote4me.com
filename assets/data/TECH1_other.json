@@ -1,6 +1,106 @@
 {
  "items": [
   {
+    "id": "wjnWMkokSNuwioF4FDvbGw",
+    "url": "https://news.ycombinator.com/item?id=21136343",
+    "title": "Pitch | Senior Backend + Frontend Engineers | Berlin, Germany | Onsite & Remote | Full-time ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2019 3:47:06 PM",
+    "validThrough": "Oct 9, 2019 3:47:06 PM",
+    "crawled": "Oct 2, 2019 4:07:29 PM",
+    "content": "Pitch | Senior Backend + Frontend Engineers | Berlin, Germany | Onsite &amp; Remote | Full-time<p>Pitch, a new company from the makers of Wunderlist, is looking for Senior Backend and Frontend Engineers to join our team onsite in Berlin or remote. We are building a cross-platform presentation tool and are looking for a product-oriented Clojure/Script developers to help realize our vision.</p><p>We've just launched the waiting list for an invite-only beta: <a href='https://pitch.com/news/announcing-our-limited-preview-beta-and-new-funding' rel='nofollow'>https://pitch.com/news/announcing-our-limited-preview-beta-a...</a></p><p>If you enjoy using functional approaches to solving real user problems in a highly collaborative team, we'd love to talk to you.</p><p>More info and other opportunities at <a href='https://pitch.com/about#hiring' rel='nofollow'>https://pitch.com/about#hiring</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "YUeBU-ZNRf-4V_KiJDIftw",
+    "url": "https://news.ycombinator.com/item?id=21129860",
+    "title": "Aircloak (https://aircloak.com) | REMOTE (UTC+2) +-2 | Full-time senior software engineer We ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:f#/other/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 9:56:50 PM",
+    "validThrough": "Oct 8, 2019 9:56:50 PM",
+    "crawled": "Oct 1, 2019 10:31:30 PM",
+    "content": "Aircloak (<a href='https://aircloak.com' rel='nofollow'>https://aircloak.com</a>) | REMOTE (UTC+2) +-2 | Full-time senior software engineer<p>We are looking for a particular kind of person. This job ad might not be for you. May you find a job you are happy in either way!</p><p>You like to work independently, you are pragmatic, and you have the confidence to take on hard problems lacking a detailed spec. You value simple solutions over over-engineered ones. Chances are things will change down the line and changing something simple, or better yet something that was never made, is much easier than changing a monstrosity. You should not need or want anyone breathing down your neck to be productive.</p><p>With the formalities out of the way, let me introduce myself: my name is Sebastian, and I am the CTO at Aircloak. Aircloak is a remote company that has built a privacy preserving data processing and analytics engine. Think of it as an SQL database proxy that generates actually anonymized results on the fly.</p><p>There are countless challenging things to do in this job. They range from parsing SQL, to doing extensive query rewriting and optimization, to ensuring that all results produced are safe and fully anonymous irrespective of the level of deviousness on the part of the analyst using the system.</p><p>The skills we are looking for in a candidate are:</p><p></p><pre><code>  - Intelligence and ability to deal with hard trade-offs  - Great communication skills  - The ability to work independently and take ownership of tasks  - A desire to learn and improve</code></pre>The majority of our system is written in Elixir, but we have parts written in Rust and JavaScript as well. You’ll even find some opportunities to write F# if you want that. Knowledge of functional programming is a plus and experience with web development is not going to hurt either.<p>We do not specifically look for someone with experience in our particular stack. It is our experience that people who are smart tend to pick up the required tools very quickly. Likewise it is less interesting to us what your background is. At the end of the day it’s your skills, brains, and experience that matter.</p><p>Our team is exceptional and quite geographically diverse. The company was built as a remote-first company from the beginning, and we really enjoy the benefits this gives us.</p><p>We look forward to getting to know you and welcoming you to our team!</p><p>If you are interested, please write us at jobs [at] aircloak.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "7YOkSAWIQwCIqDq2RrQY3A",
     "url": "https://news.ycombinator.com/item?id=21126948",
     "title": "ConsenSys R&D | Senior Software Engineer (Rust) | Full-time | Remote ConsenSys R&D is focused ...",
@@ -2222,151 +2322,6 @@
     "validThrough": "Aug 6, 2019 10:07:23 PM",
     "crawled": "Aug 4, 2019 3:06:25 AM",
     "content": "<div>Company Introduction<br><br>OneinaMil is a talent matchmaking firm, we specialize in culture driven recruiting. Our mission is to change the way traditional recruiting is done by putting human connection and culture back into the talent acquisition puzzle. This position is with one of our many fantastic clients. We only work with the best companies out there, so if you are looking to join an amazing company, this could be the opportunity for you!<br><br>Who You Are:<br><br>Our client is a technology startup focused on building a next generation scalable proof of stake blockchain platform. They are looking for a talented Software Engineer to crush goals with their team. This Software Engineer is responsible for architecting and developing features in the blockchain platform in close collaboration with other team members of the development team. Are you looking to join a team of brilliance? Are you up for this challenge? This is a startup that is in stealth mode. If you are not looking for a life-changing career, stop reading.<br><br><b>***This is a 100% remote opportunity***</b><br><br>What You'll Do:<ul><li>You will review business requirements and develop an implementation plan for a feature, including design documentation and technical specifications.</li><li>You will participate in product requirements and development sessions and contributes to design decisions to ensure seamless integration of new features with current system functionality.</li><li>You will develop features iteratively with frequent pull requests, including unit tests and documentation.</li><li>You will recommend ways to improve product functionality, usability, reliability, performance and scalability.</li><li>You will work independently using engineering practices to evaluate, enhance and maintain existing quality methods &amp; processes.</li><li>You will make excellent technical decisions and complete tasks &amp; assignments under only general direction. So, no, we cannot hold you hand, nicely.</li><li>You demonstrates self-initiative and self-motivation and recognizes problems that need further investigation seeking assistance only when needed.</li><li>You can independently determine and develop approach to solutions for a wide range of technically difficult problems, under only very general direction.</li></ul>Who You Are:<ul><li>You have experience working in a Linux environment. This is a huge requirement!</li><li>You have a Bachelor?s degree in Computer Engineering, Computer Science, or equivalent experience is required.</li><li>You have a minimum of three (3) years experience as a Software Engineer on large scale systems and/or distributed systems is required.</li><li>Having experience working with Rust in a production environment is a requirement .</li><li>You have experience working with WASM.</li><li>You have experience with functional programming.</li><li>You have experience with formal methods, computational mathematics, or process calculi is a huge plus.</li><li>You have experience with blockchain technologies.</li></ul></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "4sMrOpJ0SGiRnrn3i0jCLw",
-    "url": "https://news.ycombinator.com/item?id=20595812",
-    "title": "Interfolio | Software Engineer (Elixir) | Wash, DC OR Fully Remote (US) | Full Time | www ...",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:elixir/other/15",
-      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 2, 2019 9:23:46 PM",
-    "validThrough": "Aug 9, 2019 9:23:46 PM",
-    "crawled": "Aug 2, 2019 9:31:15 PM",
-    "content": "Interfolio | Software Engineer (Elixir) | Wash, DC OR Fully Remote (US) | Full Time | www.interfolio.com<p>Interfolio is a fast growing, higher ed SaaS company based in Washington, DC with 100% fully remote engineering team, great benefits, flexible environment -- solving interesting and complex challenges for higher ed involving software.</p><p>We're seeking a talented and energetic software engineer with a deep understanding of Elixir to join our tight-knit team. You must be focused on producing high quality and maintainable code. This role offers a high level of creativity, and an opportunity to design the future with a company that is challenging the status quo.</p><p>Apply through our site: <a href='https://jobs.lever.co/interfolio/d2ae0440-4c34-40bb-bc88-b57e521f3d34?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News%20Monthly%20Posting' rel='nofollow'>https://jobs.lever.co/interfolio/d2ae0440-4c34-40bb-bc88-b57...</a></p><p>or email recruiting@interfolio.com</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Kd9pBkeXTa2v0YAgxqQVAg",
-    "url": "https://news.ycombinator.com/item?id=20591136",
-    "title": "Immux | https://www.immux.com | Systems Software Engineer | Remote | Full time We are building ...",
-    "tags": [
-      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
-      "DBG_TECH1:k/t/w:rust/other/10",
-      "DBG_TECH1:k/t/w:typescript/frontend/1",
-      "DBG_TECH1:k/t/w:typescript/nodejs/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 2, 2019 9:06:16 AM",
-    "validThrough": "Aug 9, 2019 9:06:16 AM",
-    "crawled": "Aug 2, 2019 11:07:06 AM",
-    "content": "Immux | <a href='https://www.immux.com' rel='nofollow'>https://www.immux.com</a> | Systems Software Engineer | Remote | Full time<p>We are building a fast and easy-to-use immutable database engine and a computing service that provide first-class citizen support for functional programming, versioned and auditable data operations, and automatic maintenance and tuning.</p><p>We intend to make immutable storage systems the norm in a decade. Join us to design and implement computing infrastructure for the next generation.</p><p>Stack: Rust + TypeScript.</p><p>Seed round from a NASDAQ-listed finance company. Salary + options.</p><p>The whole team works remotely.</p><p>Contact: shu@immux.com (Andy Shu, Founder/CEO), preferably with resume and GitHub link.</p><p>(If you haven't written Rust but is interested and learns fast, feel free to get in touch!)</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "_fb2KnJaRI2uDdKIIoofYg",
-    "url": "https://news.ycombinator.com/item?id=20589873",
-    "title": "Aclaimant | Remote | Full Stack Developer | Full-time | https://aclaimant.com Aclaimant is ...",
-    "tags": [
-      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
-      "DBG_TECH1:k/t/w:clojure/other/15",
-      "DBG_TECH1:k/t/w:clojurescript/other/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 2, 2019 3:00:04 AM",
-    "validThrough": "Aug 9, 2019 3:00:04 AM",
-    "crawled": "Aug 2, 2019 5:08:12 AM",
-    "content": "Aclaimant | Remote | Full Stack Developer | Full-time | <a href='https://aclaimant.com' rel='nofollow'>https://aclaimant.com</a>Aclaimant is looking for a senior or mid-level Clojure developer to join our team. At Aclaimant we are redefining the way companies and employees work together to manage risk. Our SaaS platform is built using Clojure and ClojureScript. We work remotely from the comfort of our own homes. Pair programming is important to us; it helps us build culture and share knowledge. We expect candidates to be located within North America. Email jobs@aclaimant.com for more information or visit <a href='https://aclaimant.com/careers-developer' rel='nofollow'>https://aclaimant.com/careers-developer</a>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
