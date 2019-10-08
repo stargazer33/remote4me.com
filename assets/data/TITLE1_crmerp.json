@@ -1,6 +1,154 @@
 {
  "items": [
   {
+    "id": "sZWx5TwdTOCc24UC0RpBxQ",
+    "url": "https://jobmote.com/job/87340/salesforce-developer-docusign-conga-composer-remote-option-olympia/",
+    "title": "Salesforce Developer(DocuSign,Conga Composer)-Remote Option - Olympia",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:composer-php/php/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=8, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Computer Consultants International, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 7, 2019 10:08:01 PM",
+    "validThrough": "Oct 10, 2019 10:08:01 PM",
+    "crawled": "Oct 8, 2019 3:06:33 AM",
+    "content": "<div><b> Company Description</b><br><br><b> Computer </b> <b> Consultants </b> <b> International</b> , Inc. (CCI) is an IT Consulting Firm with more than 18 years experience providing effective, expert-level services in industries such as Construction, Technology, Finance, Healthcare, and Government. CCI focuses on building long-term relationships while completing projects from design to delivery. People are CCI's key component for success. Recruiting utmost-quality individuals for our clients, CCI fields a workforce of individuals who are selected not only because of their technical qualifications but also for their achievements as substantial, contributing human beings. In government work and in the commercial market, high standards of ethics and accountability are critical. Therefore our people are chosen for their integrity and ability to maintain relationships, as well as expertise in their field. To learn more about CCI, visit us online at .<br><b> Job Description</b><br><br>CCI has a Client who is seeking Contractors interested in developing a prototype for Phase 1 of an Agriculture Information Management System (AIMS) lands using the Salesforce platform. <br> If the prototype is successful, the Agency may elect, at its own discretion, to implement and even build on some of the configuration developed during Phase 1 to further implement AIMS functionalities (Phase 2, 3 and 4). <br> Client is responsible for managing over 1.1 million acres of Trust Lands and water resources available for lease for agriculture and grazing activities. The core of the programs business activities revolves around the management and administration of more than 1,600 active leases, a diverse water portfolio, and a commodity program. <br> Client agricultural lease process consists of many interrelated or loosely related sub‑processes contained within a complex environment. Much of the complexity is due to statutory requirements and factors outside of Client control. Parcels have numerous improvements, buildings, crops, water rights, grazing, and much more contained within them that must be tracked, reviewed, documented and/or measured. Leases themselves are complex legal documents that require multi stage approvals, careful construction, and communication with outside parties. While there is inherent complexity, the process in use today adds complications of its own, which have grown over time: Several independently designed and developed enterprise systems, which act as data silos.  Complex workflows orchestrated via spreadsheets and email as the primary tracking, status and notification tools.  Lack of process uniformity across regions.  Lack of overall visibility at every level. To implement a streamlined Agriculture Information Management System (AIMS), the Program needs to implement document management best practices, automate document generation through leveraging existing corporate databases, provide solutions for managing a water portfolio and a commodity program, and integrate the various business activities within a unified environment to address workflow challenges. <br> The Program envisions the software solution: To be built on the Salesforce platform - a cloud based solution.  To be highly configurable and require minimum custom development.  To connect and consume data from DNR's corporate databases (Oracle, SAP).  To leverage the Environmental Systems Research Institute (ESRI) technology to view and query spatial information.  To be compatible with mobile technology (Android, iOS) to support field based data collection associated with site inspections in a disconnected environment (data syncing features). <b> Scope of Work </b> <br> This project is divided into four separate and distinct phases, each with its own set of objectives and deliverables. As each phase concludes, detailed objectives and deliverables will be re-adjusted based on the previous phase's accomplishments. <br><b> Phase 1: Prototype Development </b> <br> Software prototyping is the activity of creating a version of a segment of the software being developed. It is expected that the Contractor will implement a working prototype as a proof-of concept to demonstrate how the proposed technology and solution can be used to develop AIMS. <br> The DNR and the Contractor will work together to select a subset of functionalities listed in Appendix 1 for Module 1 and 2 to implement into the prototype. <br><b> Phase 2: Module 1 and 2 Implementation </b> <br> This phase is considered the Core Modules of the system and is contingent on the outcome of the Prototype Development in Phase 1. They represent the largest win for DNR since their implementation brings modern best practice based content management and business process workflow capabilities to a largely manual and ad‑hoc process. They also form a foundation for future efficiency work within Agency. <br> Module 1. Content Management, Storage, and Contract Document Automation <br> To be built on content management best practices and leveraging modern tooling to provide an enhanced user experience. The module contains three parts: Content Management, Content Storage, and Contract Document Automation. Working documents associated with parcels and contracts will be housed in a central unified database accessed through a web based interface. Database will allow users to search and retrieve information relevant to active contracts and enter information to progress through the contract administration and management lifecycle. A document automation feature will allow users to create contract documents based on a user generated library of contract provisions (parts) with configured security around parts to allow or prevent modification. Contract documents will be automatically generated by a user based on associated lease type populating with Metadata entry and/or data existing in NaturE, selecting unique parts, populating data object fields, and automatically generating the contract document. Maintenance, editing, and construction of contract provisions, and data fields necessary for metadata entry will be easily configurable inhouse by the system administrator. <br> Module 2. Workflow Routing and Filing <br> Module 1 and 2 combined will replace many manual processes, allow for work to be conducted in the field within a mobile environment, provide connectivity across the Programs business processes, and ensure correct links and relationships between all documents and user interactions that make up a lease file will be managed together as a set. The combination of data and relationships that make up the data model is core to providing increased visibility and search functionality the Program desires. The solution will replace the need for staff to maintain spreadsheet based personal tracking mechanisms existing independent of the business enterprise requiring redundant data entry. The module will address tracking to show document location, at-a-glance dashboards of work queues, and task lists. The solution should provide modern workflow rich functionality, complex participant chains, audit trail, sending work &quot;backwards&quot; for corrections without rejecting outright, version control, implementation of deadlines, reminder system, actionable e-mail notifications, parallel assignments, random QA checks as well as electronic signatures. <br><b> Phase 3: Module 3 Implementation the Commodity Management </b> <br> The Commodity Program process is a combination of several different business activities such as procurement, logistics, accounts payable, and accounts receivable. The commodities management process is largely created in-house and does not provide visibility into the process for effective means of reporting on the transactions and data therein. Management challenges arise because the program blends areas such as creation of suppliers, creating invoices, and paying invoices which are traditionally managed by different levels of authority. Module 3 will address the core inventory and sales of commodities by moving away from a spreadsheet-based approach isolated from the business enterprise with a solution that will allow greater controls and visibility into the process. Much of the work in the commodities program is orthogonal to the work on agricultural leases. For those areas where close involvement with the lease process is necessary, this module will integrate with Module 2 to allow for commodity staff involvement as needed in the process. During design and implementation of the Module 2, the participation of the Commodity Specialist should be included as work performed in that module. <br><b> Phase 4: Module 4 Implementation of the Water Portfolio Management </b> <br> Water portfolio management considerations are similar to the commodity program process wise. While water portfolio activities are included in the lease management and administration process itself, there are many other actions associated with water that may happen at any point during the lifecycle of the lease as well as activities that happen independent of the leasing process. Current management process involves a hybrid use of spreadsheets, SharePoint, and physical files. The Program utilizes existing outside databases administered through the Washington State Department of Ecology. These databases are integral for the management of the water portfolio, The Water Program module consists of two parts, mobile data collection and database management for tracking/reporting. <br><b> Qualifications</b> A minimum of three (3) years of recent experience with advanced technical architecture for complex Salesforce development.   A minimum of three (3) years of recent experience and demonstrative knowledge, skills and abilities developing and implementing workflow..... click apply for full job details</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "LGSViiBKR_qTf3wtpVU03g",
+    "url": "https://jobmote.com/job/87329/salesforce-commerce-cloud-remote-senior-developer/",
+    "title": "Salesforce Commerce Cloud - Remote - Senior Developer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/26",
+      "DBG_TECH1:k/t/w:css/frontend/6",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=42}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Stott and May",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 120000,
+      "maxValue": 120000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 120k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 7, 2019 10:08:00 PM",
+    "validThrough": "Oct 10, 2019 10:08:00 PM",
+    "crawled": "Oct 8, 2019 3:06:33 AM",
+    "content": "<div>Senior Salesforce Commerce Cloud/Demandware digital developer required to help architect and implement small to large solutions within the full SFCC technology stack. You will be responsible for informing the business of feasibility, timelines and potential risks as well as being well-versed in back-end development such as API integrations or SFCC jobs, but able to handle complex, front-end experiences as well. <br> Being self-directing, highly motivated and creative you are a true problem solver! <br> In return you will have the opportunity to join an established, yet growing, e-commerce team that are pushing the boundaries of the SFCC platform, and having some fun whilst doing it. <br> Role Responsibilities: <br> Building solid HTML/CSS, cross-browser, cross-device compatible pages Developing and maintaining optimized Demandware templates and pipelines/controllers Drive initiatives to continually enhance and optimize the front and back-end e-commerce codebase for speed and flexibility Architecting high-level code structures / pattern usage Troubleshooting bugs within a complex, global code base <br> Qualifications: <br> 5+ years of experience as a web developer, 3+ years Demandware/SFCC required Mastery of XHTML, CSS, JavaScript; Cross-browser compatibility, W3C compatibility Significant experience creating new logic in at least one back-end coding language Architected and lead completion of several large projects (integrations, APIs, refactoring, etc.) Familiarity with code repository systems, Git preferred Experience with JavaScript Frameworks such as jQuery Understanding of and experience with mobile and web-based design constraints, editors, browser platforms and their differences A full role description is available on request. <br> This role can be entirely remote with 2 or 3 site visits (fully expensed) per year for important project milestones etc. <br> Salary up to $120K + bonus &amp; excellent benefits. <br> If this sounds like something that you would be interested in please return a resume now for a prompt response. Interviews available for immediate start. <br> I look forward to speaking with you in due course.</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "wv6oeE74TKiNE3ltkBsEzA",
+    "url": "https://jobmote.com/job/87328/2-sap-abap-developers-remote/",
+    "title": "2 SAP ABAP Developers (Remote)",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Planet 121 LLC",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 7, 2019 10:08:00 PM",
+    "validThrough": "Oct 10, 2019 10:08:00 PM",
+    "crawled": "Oct 8, 2019 3:06:33 AM",
+    "content": "<div>Planet 121's client, is looking for an SAP Business Process Analyst to join their team. This position is a contract to hire basis and will convert after a 3 month contract period. This position is mostly remote but occasional onsite travel will be required. <br> US citizens and those authorized to work in the US are encouraged to apply because we are unable to transfer or sponsor H1b candidates now. <br><br> Qualifications <br> At least 10 years of experience of SAP ABAP Development Must have experience with modules SD, PP, MM, WM and FICO Experience with SAPScript and Dynpro ABAP a must Must have excellent communication skills <br> Planet 121 Company Description <br> Planet 121 is an internationally recognized IT Consulting Services firm established since 2003 with a specialty in SAP, Cloud Solutions &amp; Big Data. We understand the marketplace and pride ourselves on serving IT candidates as individuals, not commodities. We recognize a candidate's personalized skills and can match them with both direct end clients and select consulting partners. <br><br> Additional Information <br> If you are interested, please respond to this ad with an updated resume and a summary of your skills. We look forward to hearing from you soon. All your information will be kept confidential according to EEO guidelines. <br> *SAP is the trademark of SAP AG in Germany and in several other countries</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "V0Y390jDQQi2Dn0M9HyFZA",
     "url": "https://jobmote.com/job/83682/salesforce-developer-remote-teleocmmute-anywhere-in-the-us/",
     "title": "Salesforce Developer - Remote/Teleocmmute, Anywhere in the US",
@@ -7499,54 +7647,6 @@
     "validThrough": "Aug 16, 2019 6:13:21 PM",
     "crawled": "Aug 9, 2019 6:24:52 PM",
     "content": "<h3>Salesforce Developer at <span>Xapo</span></h3><div><span><i></i> Remote</span>         | <span> Freelance </span> | <span> International </span></div><div>            <p>BO Product Management –<strong>&nbsp;Anywhere, Anywhere</strong></p><ul><li><strong>Location: Anywhere, Anywhere</strong></li><li><strong>Department:</strong> BO Product Management</li><li><strong>Employment Type: </strong>Consultant</li><li><strong>Minimum Experience: </strong>Experienced</li></ul><p><strong>POSITION OVERVIEW</strong></p><p>Xapo is a fast-growing, global fintech company with a mission to build a safe and global way to use money.&nbsp;<strong>We’re a fully distributed team, with 250+ Xapiens working from 50+ countries.</strong></p><p>We’re seeking a collaborative, proactive problem-solver to join us as Salesforce Developer at Xapo.&nbsp;<strong>This full-time position is planned to be remote, meaning you can work from anywhere!</strong></p><p>In this role, you will be responsible for owning and customizing our internal Salesforce platform.</p><p>The ideal candidate is comfortable taking on ownership in a highly technical environment, resourceful, self-motivated, and passionate about understanding and fulfilling their client’s business requirements.</p><p><strong>BALANCE FOR BETTER</strong></p><p>At Xapo, we embrace our differences and actively foster an inclusive environment where we all can thrive. We’re a flexible, family-friendly environment, and we recognize that everyone has commitments outside of work. We have a goal of reaching gender parity and strongly encourage women to apply to our open positions. Diversity is not a tagline at Xapo; it is our foundation.</p><p><strong>RESPONSIBILITIES</strong></p><ul><li>Develop, enhance, test, support, maintain and debug software applications that support business units or support functions.</li><li>Work with internal teams to identify requirements and maintain a development schedule.</li><li>Analyze/identify gaps in functional/business requirements, discuss required changes with product owners to align with Salesforce product stack and architecture.</li><li>Develop end to end Salesforce solutions using Apex Class, Triggers, Visualforce pages, Lightning components etc.</li><li>Write technical approach and design documentation as required.</li></ul><p><strong>BASIC QUALIFICATIONS</strong></p><ul><li>5+ years as a software developer.</li><li>Knowledge of product development lifecycle.</li><li>Knowledge of DevOps tools like GIT, Jenkins, JIRA etc.</li><li>Hands-on development experience using Salesforce configuration and customizations using Apex, triggers, etc.,</li><li>Experience defining/working with REST APIs</li><li><strong>Oral and written proficiency in English.</strong></li></ul><p><strong>PREFERRED SKILLS</strong></p><ul><li>Web development skills.</li><li>Python language.</li><li>Scrum experience.</li><li>Amazon Web Services.</li><li><strong>Remote work experience.</strong></li></ul><p><strong>OTHER REQUIREMENTS</strong></p><ul><li><strong>A dedicated workspace.</strong></li><li><strong>A reliable internet connection with the fastest speed possible in your area.</strong></li><li>Devices and other essential equipment that meet minimal technical specifications.</li><li>Alignment with Our Values.</li></ul><p><strong>WHY WORK FOR XAPO?</strong></p><ul><li>Shape the Future: Improve lives through cutting-edge technology,&nbsp;<strong>work remotely from anywhere in the world</strong></li><li>Own Your Success: Receive attractive remuneration,&nbsp;<strong>enjoy an autonomous work culture and flexible hours</strong>, apply your expertise to meaningful work every day</li><li>Expect Excellence: Collaborate, learn, and grow with a high-performance team</li></ul><p><strong>ABOUT XAPO</strong></p><p>At Xapo, we’re building a way for users all over the world to send, receive, spend, and store their money globally and safely. We’re firm believers that no matter who you are or where you’re from, you deserve easy access to digital financial services.</p><p>Launched in 2014 by Wences Casares (CEO) &amp; Federico Murrone (COO), Xapo has made an unparalleled investment in security infrastructure, assembled a renowned advisory board, and raised $40M from top venture capital firms in Silicon Valley &amp; the world.</p><p>Xapo is an Equal Opportunity Employer. We believe a team that represents a variety of backgrounds and perspectives is critical to our success as a global company. A diverse, inclusive workplace enables us to create products that best serve our customers all around the world. It is the foundation of Xapo.</p>        </div><div>        <a href='https://xapo.bamboohr.com/jobs/view.php?id=78' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "bE6CaLCpTnSpiDR6VKc0IA",
-    "url": "https://jobmote.com/job/57934/sap-ewm-consultant-1-day-workshop-remote-september/",
-    "title": "SAP EWM Consultant - 1 day workshop - Remote - September",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:embedded/c/2",
-      "DBG_TECH1:k/t/w:embedded/embedded/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=2, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=16, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/embedded",
-      "TITLE1/crmerp",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "embedded"
-    ],
-    "hiringOrganization": {
-      "name": "Red - The Global SAP Solutions Provider",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 7, 2019 10:07:29 PM",
-    "validThrough": "Aug 10, 2019 10:07:29 PM",
-    "crawled": "Aug 8, 2019 3:06:25 AM",
-    "content": "<div><p>For our customer in the Basel area we are looking for a SAP EWM Consultant.<br>Your main task is to review the concept for an S4 implementation. <br>Our client is already using SAP EWM and other warehouse management solutions and would like to prepare the best solution before the migration to S4/HANA.</p><p>Tasks:<br>* Holding a 1 day workshop<br>* Consulting the client regarding SAP EWM Embedded</p><p>Conditions:<br>* Good knowledge of SAP EWM Embedded<br>* Experience in SAP S/4 Hana</p><p>Project details:<br>* Start: September<br>* Duration: 1 day<br>* Location: Remote (Client is bases in Basel area)<br>* Language: English</p><p>Telephone interview slots with our client can be arranged at short notice with a decision immediately thereafter.<br>If you are interested in receiving further information about the role or can recommend a colleague or friend, please get in touch.</p></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
