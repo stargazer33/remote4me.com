@@ -1,6 +1,456 @@
 {
  "items": [
   {
+    "id": "ggzWN2xcRJ2f7sZgKxkGtA",
+    "url": "https://www.remoteage.com/remote-jobs/senior-software-engineer-672/",
+    "title": "Senior Software Engineer",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:eclipse/java/1",
+      "DBG_TECH1:k/t/w:hibernate/java/8",
+      "DBG_TECH1:k/t/w:java-developer/java/13",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jboss/java/8",
+      "DBG_TECH1:k/t/w:junit/java/16",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:matlab/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:maven/java/13",
+      "DBG_TECH1:k/t/w:mockito/java/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:servlets/java/16",
+      "DBG_TECH1:k/t/w:spring/java/16",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:k/t/w:testng/java/8",
+      "DBG_TECH1:k/t/w:tomcat/java/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=14, c=15, mobile=3, go=0, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=137, gamedev=0, php=0, embedded=0, frontend=22}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 9, 2019 6:24:10 PM",
+    "validThrough": "Oct 16, 2019 6:24:10 PM",
+    "crawled": "Oct 9, 2019 6:24:25 PM",
+    "content": "<h3>            Senior Software Engineer        </h3><div>United States, Washington</div><div>Company: Disney<p></p></div><div>                    <h4>Overview</h4>                    <p>Disney s Direct to Consumer and International (DTCI) team in Seattle develops Internet applications and services for all the domestic and international businesses/brands across The Walt Disney Company. Our business partners include ABC, Disney Consumer Products &amp; Interactive Media, Disney Studios, ESPN, Marvel, Walt Disney International, and Walt Disney Parks &amp; Resorts.</p><p>The Messaging Platform Team is seeking a skilled Sr. Software Engineer to join the digital platform engineering team. This engineer will play a critical role in building the next generation of messaging products enable marketing and communication tools across the Walt Disney Family of companies through multiple channels including PUSH, SMS, E-Mail, inbox, Web Sockets, and more. Imagine yourself working on a product that can PUSH to 500k mobile phones in less than a second or connect to 10M web browsers all at once.. Responsibilities include technical design, implementation of various projects and features and quality engineering. This team builds high throughput and scalable systems that create and deliver content and digital assets to client applications.</p><p>The ideal candidate will have expert understanding of web architectures and OO software design patterns along with demonstrated experience leading and delivering web services utilizing common Java technologies (containers, servlets, spring, etc.), NoSQL DBs (Mongo, Redis, etc.) and cloud services (AWS, lambda, API Gateway, etc.) while elevating the quality maturation standards of the Digital Platforms. This engineer will work with his peers from other DTCI teams collaboratively integrate systems into a powerful new platform.<br>At Disney, we re storytellers. We make the impossible, possible. We do this through utilizing and developing cutting-edge technology and pushing the envelope to bring stories to life through our movies, products, interactive games, parks and resorts, and media networks. Now is your chance to join our talented team that delivers unparalleled creative content to audiences around the world.</p><p><b>Responsibilities : </b><br>As a Sr. Software Engineer, you will be contributing to new DTCI platforms, sustaining existing products, optimizing AWS infrastructure and writing test automation in Java or scripting languages to exercise complex and performant services. You are responsible for ensuring that code, infrastructure and tests are structured to promote high availability, scalability and a high speed of delivery. This is an individual contributor role working within a team of talented team of developers and system engineers in a scrum style environment.</p><p>A key part of the job is your ability to collaborate and share information/results with other engineers, technical managers, product managers and other interested parties. We are story-tellers, your story is about the behavior of the system. Additional responsibilities are listed below:</p><ul><li>Understanding architectural vision and how it helps meet business objectives</li><li>Analyzing user stories and participating in sprint planning, scrums, demos and retrospectives</li><li>Participate in sprint plan review meetings to review functional and design specs and understand how those impact features in development</li><li>Participate in test plan reviews with peers, developers and product team members</li><li>Accountable for uptime and high-availability for all solutions</li><li>Accountable for performance and usability in all solutions</li><li>Coordinating with Architecture group on new designs and foundational / infrastructural application changes</li><li>Integrating web &amp; mobile application code with back-end services</li><li>Understanding the need for optimized / customized mobile service responses / payloads</li><li>Developing back-end services</li><li>Streamlining DB queries and optimizing inter-service components to optimize sub second transactions</li><li>Negotiating and adjusting requirements by collaborating with internal business partners</li><li>Learning new technologies when required</li><li>Performing peer code reviews for immediate and related teams</li><li>Understanding of continuous integration / continuous delivery concepts and the ability to troubleshoot related issues</li><li>Lead design and code reviews</li><li>Write efficient, reliable, and maintainable code whether implementing architectural improvements, user-facing features, or fixing bugs</li><li>Troubleshoot and resolve issues, problems, and errors encountered across our various platforms</li><li>Mentor Associate Software Engineers and Software Engineers</li><li>Find, replicate, and regress defects and write reproducible steps in our bug database system</li><li>Validate that deliverables meet functional specifications and requirements</li><li>Communicate release status to the product stakeholders</li><li>Lead various test sessions with key members of the delivery team to ensure functionality of product(s)</li><li>Work with other quality engineers to translate manual test cases in automated test scripts</li><li>Execute automated test scripts, when available</li></ul><p><b>Basic Qualifications : </b></p><ul><li>Demonstrated ability to work independently as well as part of a cross-functional and geographically distributed team</li><li>Ability to work in an Agile, continuous integration environment.</li><li>Strong communication and cross-group collaboration skills.</li><li>Practical testing experience working with NoSQL databases</li><li>Practical testing experience working with relational databases such as Microsoft SQL Server</li><li>Experience with enterprise software and an understanding of networking.</li><li>Experience with platforms which can be run on a virtualized infrastructure.</li><li>Familiarity with issue tracking and SDLC tools such as JIRA.</li><li>Familiarity with software coding tools such as Maven, Git, and Eclipse.</li><li>Testing experience in some combination of Java, JS, TestNg or JUnit, Linux, Apache/Tomcat, JBoss or similar JavaEE middleware, XML, JSON, and REST.</li><li>Strong knowledge of unit testing, behavioral testing and continuous integration</li><li>Expert Java development skills with a proven record of creating commercial quality software. </li><li>Expert level knowledge: Object Oriented Programming</li><li>Expert understanding of Computer Science Fundamentals.</li><li>Experience working in AWS cloud environments</li><li>Disciplined approach to software development. Includes defining and enforcing engineering best practices.</li><li>Expert problem solving and analysis skills.</li><li>Expert troubleshooting skills</li><li>Strong application performance / tuning skills</li><li>Experience with developing applications that interface with RESTful services</li><li>Experience with developing applications that run on multiple mobile devices with different form factors</li><li>Understanding of PII and application security</li><li>Experience with content management systems a plus</li><li>Experience with analytics tools a plus</li></ul><p><b>Preferred Qualifications: </b></p><ul><li>Industry certification</li></ul><p> Experience with any of the following technologies is a plus :</p><ul><li>Mobile SDK</li><li>Marketing Software</li><li>Frameworks and tools such as Spring, Hibernate, Solr, React, Angular and others</li><li>Open source servlet containers such as Tomcat, Undertow, Nginex</li><li>Lightweight containers like Docker</li><li>Cloud-based technologies (AWS, EC2, S3, SQS, Kenises, DynamoDB)</li><li>Familiar with Microservices architecture</li><li>NoSQL databases such as MongoDB and Cassandra</li><li>Automated testing frameworks like JUnit, Mockito, Cucumber and Gherkin</li></ul><p><b>Required Education : </b></p><ul><li>4-year degree in computer science or closely related discipline, or equivalent experience.</li></ul><p><b>Preferred Education : </b></p><ul><li>Relevant certifications in AWS cloud technologies</li></ul><p>Associated topics: .net, architect, backend, c/c++, c#, design pattern, expert, matlab, project architect, software engineer lead</p>                                                <div>                            <a href='https://www.jobg8.com/ATSApply.aspx?%2fG5G1FoI6i41NMcyueNhaQy' rel='nofollow'>Apply for job</a>                    </div>                                    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "NDt1gZPJTV2glxdq0jt6-A",
+    "url": "https://landing.jobs/at/volkswagen-digital-solutions/full-stack-developer-in-lisbon-2019-10-8?utm_campaign=landing+rss&utm_content=Full-stack+Developer&utm_medium=referral&utm_source=rss",
+    "title": "Full-stack Developer",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/13",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:hibernate/java/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:jpa/java/8",
+      "DBG_TECH1:k/t/w:junit/java/8",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:mockito/java/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:k/t/w:spring-boot/java/8",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=7, go=3, nodejs=14, bigdata-ml=0, ruby=0, apple=0, java=55, gamedev=0, php=0, embedded=0, frontend=51}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Volkswagen Digital Solutions",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 9, 2019 12:19:20 PM",
+    "validThrough": "Oct 16, 2019 12:19:20 PM",
+    "crawled": "Oct 9, 2019 1:08:03 PM",
+    "content": "<div><h3>Full-stack Developer</h3></div><div>Company: Volkswagen Digital Solutions</div><div>Location: </div><div>Requires Work Permit</div>Level: Senior<br>Language: English <div>Full-stack Developer<br>Skills:</div><li>Amazon Web Services </li><li>AngularJS </li><li>Java </li><li>React </li><h3>Intro</h3><div>The Volkswagen Group is forging ahead with digital transformation and Volkswagen Digital Solutions is part of this represented for its 3 tech units: AMS, MAN Digital Hub and SDC:LX.</div><div><br></div><div><strong>MAN Digital Hub | Lisbon</strong> &nbsp;</div><div>MAN Truck &amp; Bus, a business unit of Volkswagen Digital Solutions, is one of Europe’s leading commercial vehicles manufacturers, serving customers in over 120 countries. We’ve come a long way since we started more than 250 years ago and now we are upgrading our business to digital!<br><br>The MAN Digital Hub in Lisbon together with MAN Truck &amp; Bus SE develops and shapes the future of commercial vehicles by driving digitalization. Our journey is to create value to the customer, to create, to extend &amp; to disrupt our business models and to deliver quality.</div><div><br></div><div>Therefore we rely on talented and passionate Fullstack Software Engineers – people like you!&nbsp;</div><div>Join us on our journey and together with our international teams build our mobility vision for tomorrow.&nbsp;</div><div><br></div><div><strong>Your project within MAN Digital Hub.</strong></div><div>With its open, cloud-based platform, RIO covers the global supply chain – from the consigner via the forwarding agent and transport company, shipper, dispatcher and driver to the recipient.<br><br></div><div>MAN ServiceCare proactive maintenance management offers increased vehicle availability thanks to forward planning and smart bundling of maintenance appointments. The MAN service outlet takes care of vehicle analysis as well as the coordination and management of maintenance appointments. On the RIO platform you can now view the maintenance status and mileage of your vehicles.</div><div>&nbsp;</div><div><strong>What you will do…</strong>&nbsp;</div><ul><li>&nbsp;Help on all areas of software development. Technical evaluation of new requirements.&nbsp;</li><li>Integration with existing systems.&nbsp;</li><li>Transform the dreams of our UX/Design teams into reality.&nbsp;</li><li>Build new APIs from the ground up.&nbsp;</li><li>Deliver high quality software that is thoroughly tested and optimised.&nbsp;</li><li>Provide maintenance and optimize the existing code base.&nbsp;</li><li>Be a quick learner of new technologies.&nbsp;</li><li>Working in a distributed team.&nbsp;</li></ul><h4>Main requirements</h4><div><strong>You have the following qualifications…</strong></div><ul><li>At least 3 years of experience.</li><li>Bachelor's degree in computer engineering, computer science, or related knowledge area, or comparable job expertise.&nbsp;</li><li>Experience with frontend technologies such as React, Angular, Redux, Mocha, Jest, Karma or any unit/component testing tool.&nbsp;</li><li>Experience with CSS3, HTML5, responsive interfaces and solving browser compatibility problems.&nbsp;</li><li>Experience with server-side Java frameworks and implementation of projects with Spring Boot, JPA / Hibernate, JUnit, Mockito or related.&nbsp;</li><li><strong>Experience with AWS would be a great benefit </strong></li><li>Experience building RESTful APIs.&nbsp;</li><li>Experience on highly distributed environments, cloud native applications.&nbsp;</li><li>Mindset of an early adopter with a passion for new technologies.&nbsp;</li><li>You eat Git for breakfast.&nbsp;</li><li>Experience with continuous delivery and integration tools such as Jenkins, Gitlab, Travis CI or related.&nbsp;</li><li>Ability to creatively solve problems with a high awareness for quality and to think outside the box and overcome roadblocks.&nbsp;</li><li>Result-oriented and communicative team player.&nbsp;</li><li>Very good English skills, both written and spoken.&nbsp;</li></ul><h4>Nice to have</h4><ul><li>Experience with another programming languages such as Kotlin, Scala, Go, Node.js or Python.&nbsp;</li><li>Experience with Hypermedia APIs.&nbsp;</li><li>Experience with Event-driven architectures.&nbsp;</li><li>Experience with message brokers such as Kafka, ActiveMQ, SQS or similar.&nbsp;</li><li>You know how ship your own code properly.&nbsp;</li><li>Videogame skills.&nbsp;</li></ul><h4>Perks</h4><div><strong>What’s in it for you…</strong></div><ul><li>Be part of our amazing startup atmosphere and help&nbsp; of our local company culture, with the support of a solid international group&nbsp;</li><li>An Agile environment where your ideas are welcome&nbsp;</li><li>A very talented international team just as passionate and goal-oriented as you&nbsp;</li><li>Flexible working hours and the possibility to work from home if needed</li><li>The opportunity to evolve with continuous training and constant feedback&nbsp;</li><li>&nbsp;Access to Udemy&nbsp;</li><li>Health insurance for you and your family&nbsp;</li><li>Smartphone with voice/data plan&nbsp;</li><li>&nbsp;Hakuna Matata Sessions aka our weekly knowledge sharing session with snacks and beer to kick-off the weekend&nbsp;</li><li>Fresh fruit every day and coffee so you can be healthy and stay fueled for the day&nbsp;</li><li>The possibility to learn German, das ist super cool!&nbsp;</li></ul>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "MKo-H0jOSD21SgNt0Su49w",
+    "url": "https://weworkremotely.com/remote-jobs/seekwa-gmbh-backend-scala-developer",
+    "title": "Seekwa GmbH: Backend Scala Developer",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:akka/java/8",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:scala/java/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=5, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=2, java=39, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Seekwa GmbH",
+      "sameAs": "https://test.seekwa.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 9, 2019 12:31:50 PM",
+    "validThrough": "Oct 16, 2019 12:31:50 PM",
+    "crawled": "Oct 9, 2019 1:06:34 PM",
+    "content": "<h3> Backend Scala Developer </h3><div><div>Is programming not just a boring job that pays your bills, but rather your passion? Does it not only consist of commands and functions for you, but rather a form of technical art? Then you are exactly the right person for us!&nbsp;<br><br><br></div><div>We’re looking for a programming wiz to become a part of our tech startup and work remotely as a full-time Backend Scala Developer.&nbsp;<br><br><br><br></div><div>Our goal is to create a slick and engaging new web platform, and we want you to be a critical part of it. We want you to join us and bring your own ideas and style to the company. You’ll be working remotely with a small international team, and you’ll have a lot of personal responsibility.&nbsp;<br><br><br><br></div><div>Sound interesting?&nbsp;<br><br><br></div><div><br></div><div><strong>Join the team - What's in it for you?</strong>&nbsp;<br><br><br></div><div>·&nbsp; First things first: great colleagues ;-)&nbsp;</div><div>·&nbsp; Exercising a challenging key role, with the chance to influence the further growth and development of our company in a meaningful way&nbsp;</div><div>·&nbsp; Plenty of room for personal growth and continuous development - exchange of knowledge with renowned industry professionals and an award-winning agency&nbsp;</div><div>·&nbsp; A pleasantly open corporate culture with flat hierarchies; plenty of room to maneuver to successfully bring your creativity to bear&nbsp;</div><div>·&nbsp; A friendly start-up atmosphere with a highly motivated and diverse international team&nbsp;</div><div>·&nbsp; The opportunity to work from home with a SCRUM team distributed throughout the world&nbsp;<br><br><br><br></div><div><strong>Your Responsibilities:</strong>&nbsp;<br><br><br></div><div>· Development of Telepado Messaging Platform backend within a small group&nbsp;</div><div>· Implementing features&nbsp;</div><div>· Writing Tests&nbsp;</div><div>· Providing support for clients developers (Android, iOS, Desktop)&nbsp;</div><div>· Managing Telepado Messaging Platform instances (deployment, issue investigation, bug fixes)&nbsp;<br><br><br><br><br></div><div><strong>What you bring with you:</strong>&nbsp;<br><br><br></div><div>· Very good communicative skills in English language (written and spoken)&nbsp;</div><div>· A solid understanding of:&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Scala language elements of functional programming</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Immutability&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; JVM basics, memory model, threads, principles of work&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; data structures and basic algorithms&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; systems design &amp; networking (understanding basic principles)&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Linux&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Git&nbsp;</div><div>· At least 2 years of experience working with:&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Scala on backend: servers, web&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Akka library: actors, streams, http&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Git and source management flows, deployment&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Cassandra&nbsp;</div><div>· Bonus points for:&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Java&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Cats, cats-effect libraries&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Parser combinators&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; Messaging systems, protocols and design patterns&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; o &nbsp; AWS (S3)&nbsp;<br><br><br><br></div><div>If you’ve got the skills and attitude we’re looking for, and we’ve managed to pique your interest, then we look forward to receiving your application including cover letter, CV, salary expectation and photo by e-mail at info@seekwa.com!&nbsp;<br><br></div><div><br></div><div><strong>Type of position:</strong> Full-time, Permanent&nbsp;<br><br><br></div><div><strong>Language: </strong>English (written and spoken)&nbsp;<br><br><br></div><div><strong>Work experience: </strong>Programming: 2 years (required)&nbsp;<br><br></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Va6lY1u4SXadYYewWff1RA",
+    "url": "https://remoteok.io/jobs/75549",
+    "title": "Senior Platform Engineer",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:jvm/java/13",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:scala/java/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=19, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Ad Hoc Labs",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 9, 2019 5:13:17 AM",
+    "validThrough": "Oct 16, 2019 5:13:17 AM",
+    "crawled": "Oct 9, 2019 6:06:38 AM",
+    "content": "<span></span> <span><h4>Ad Hoc Labs</h4></span> <br> <h3>Senior Platform Engineer</h3> <span></span> <span>verified</span> <br> <span>US-only</span> <div>  <div>   Burner is empowering people to take control over their primary channel of communication – the phone number. As Sr. Platform Engineer, you will be a key member of our engineering team building the next generation of mobile privacy tools. You will work closely with the mobile and product teams to architect new features and build out fast, scalable backend services.\\n\\nOur team members are encouraged to embrace new technologies/frameworks and find the best tool for every problem. We are currently making use of Scala, functional programming, and TDD to develop new services.\\n\\n**RESPONSIBILITIES:**\\n\\n* Build fast, scalable features on the server side to support the Burner mobile app ­\\n* Work closely with the telephony providers and industry established groups to implement best practices\\n* Maintain and improve existing infrastructure, and be willing to jump in when things break\\n\\n**SKILLS + QUALIFICATIONS:**\\n\\n* At least 5 years of experience working with JVM languages ­\\n* At least 2 years of experience working with Scala, or other functional programming languages.\\n* Experience building microservices and distributed system ­\\n* Experience designing highly responsive REST APIs ­\\n* Experience working in a small team environment\\n\\n**NICE TO HAVES:**\\n\\n* Experience with Postgres and Redis ­\\n* Production experience with Go, Ruby or Java.\\n* Experience with a telephony provider such as Twilio / Bandwidth / Level3 etc\\n* Experience working on telephony or VOIP systems\\n* Experience with fraud detection in high volume messaging systems\\n* Experience with implementing analytics pipelines\\n\\n**WHAT WE OFFER YOU:**\\n\\n* Meaningful work on an innovative and growing set of products\\n* Collaborative, cross-functional work culture with an emphasis on autonomy and communication\\n* Creative, dog-friendly, snack-filled workspace in a converted industrial building in a walk- and bike-friendly neighborhood\\n* Health and Dental coverage for employees, dependents &amp; domestic partners\\n* Investment in career development, including training, conferences, and online learning resource\\n\\nAd Hoc Labs is committed to building a diverse, inclusive company and encourages applications from candidates of all backgrounds. We provide excellent medical and other benefits and will consider full-time, part-time, partial remote, or other flexible arrangements for the right candidate.\\n\\nAd Hoc Labs, Inc. is an equal employment opportunity employer and makes employment decisions on the basis of merit. We seek to employ the most qualified person in every job. Ad Hoc Labs, Inc. does not discriminate on the basis of sex, gender (including pregnancy, childbirth, breastfeeding or related medical conditions), gender identity, gender expression, age, color, race, religion, marital status, national origin, ancestry, sexual orientation, physical &amp; mental disability, medical condition, genetic information, military and veteran status, or any other basis protected by federal, state or local law. Applicants with disabilities may be entitled to reasonable accommodation under the terms of the Americans with Disabilities Act and certain state or local laws. \\n\\n#Location\\n- US-only   <br>  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "R6AsqwcaSmi_foHA6tpBRg",
+    "url": "https://jobmote.com/job/87628/java-developer-remote-work/",
+    "title": "Java Developer Remote work",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:angularjs/frontend/8",
+      "DBG_TECH1:k/t/w:ant/java/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:eclipse/java/1",
+      "DBG_TECH1:k/t/w:ejb/java/8",
+      "DBG_TECH1:k/t/w:gradle/java/13",
+      "DBG_TECH1:k/t/w:hibernate/java/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:java-developer/java/26",
+      "DBG_TECH1:k/t/w:java-ee/java/52",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jdbc/java/8",
+      "DBG_TECH1:k/t/w:jpa/java/8",
+      "DBG_TECH1:k/t/w:jquery/frontend/16",
+      "DBG_TECH1:k/t/w:jsp/java/8",
+      "DBG_TECH1:k/t/w:spring-mvc/java/8",
+      "DBG_TECH1:k/t/w:spring/java/16",
+      "DBG_TECH1:k/t/w:struts/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=174, gamedev=0, php=0, embedded=0, frontend=41}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Programmer Resources Intl Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 8, 2019 10:07:48 PM",
+    "validThrough": "Oct 11, 2019 10:07:48 PM",
+    "crawled": "Oct 9, 2019 3:06:32 AM",
+    "content": "<div>Java Developer Remote work Near to St Louis, MO or Kansas City, MO Full Time Interview will be through Zoom . For 1st week need to be onsite client will cover expenses. Only USC or GC Qualifications Required: Must be presently authorized to work in the U.S. without a requirement for work authorization sponsorship by our company for this position now or in the future Available to work in the St. Louis office Must have at least 3 years' experience in Java-based software development Proficient knowledge of Java &amp; J2EE (including JSP, EJB, JDBC, SQL, XML, HTML and associated technologies) and the use of those technologies in n-tier development environments Proficient knowledge is also expected in object-oriented application development principles, theories, and concepts using J2EE specific design patterns and usage Experience with J2EE Frameworks (Struts 1/2 and/or Spring MVC, Hibernate, Spring, and JPA are a plus) Comfortable working in the Eclipse IDE Experience with unit testing Experience with build scripts (Ant and Gradle are a plus). Experience with HTML, JavaScript (AngularJS 1 &amp; JQuery), and Cascading Style Sheets (CSS) (HTML5 &amp; CSS3 is a plus) Experience with the configuration and setup of J2EE application servers Knowledge of Unix operating systems Solid knowledge of Oracle database environment Experience with the use of version control systems for code management (Git is a plus) Experienced with UML diagramming Experience with front end designing including prototypes and templates Proficient knowledge of Microsoft Office desktop applications software Preferred: Bachelor's degree in Computer Science, Computer Information Systems, Management Information Systems, or related field preferred Accounting background is a plus but is not required. Experience with PeopleSoft financials is a plus but not required. Experience with the Mulesoft Mule ESB is a plus but not required. Experience with an Agile/Kanban/Scrum development process is a plus but not required. Understanding of SOA is preferred Experience with the Atlassian Toolset is a plus but not required. Working experience with front end tools such as JQUERY and Angular 7</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "JyjnwW2jQ46ex4ZzOIM69g",
+    "url": "https://jobmote.com/job/87620/java-developer-remote/",
+    "title": "Java Developer (Remote)",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:eclipse/java/1",
+      "DBG_TECH1:k/t/w:ejb/java/8",
+      "DBG_TECH1:k/t/w:hibernate/java/8",
+      "DBG_TECH1:k/t/w:java-developer/java/26",
+      "DBG_TECH1:k/t/w:java-ee/java/39",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:jdbc/java/8",
+      "DBG_TECH1:k/t/w:jpa/java/8",
+      "DBG_TECH1:k/t/w:jsp/java/8",
+      "DBG_TECH1:k/t/w:spring-mvc/java/8",
+      "DBG_TECH1:k/t/w:spring/java/16",
+      "DBG_TECH1:k/t/w:struts/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=140, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Programmer Resources Intl Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 8, 2019 10:07:47 PM",
+    "validThrough": "Oct 11, 2019 10:07:47 PM",
+    "crawled": "Oct 9, 2019 3:06:32 AM",
+    "content": "<div>Hi Hope you doing great. We have an urgent requirement for my client, please check the below position if you really interested reply me with your updated resume ASAP. Java Developer FullTime Remote Required: Must have at least 5 years' experience in Java-based software development Proficient knowledge of Java &amp; J2EE (including JSP, EJB, JDBC, SQL, XML, HTML and associated technologies) and the use of those technologies in n-tier development environments Proficient knowledge is also expected in object-oriented application development principles, theories, and concepts using J2EE specific design patterns and usage Experience with J2EE Frameworks (Struts 1/2 and/or Spring MVC, Hibernate, Spring, and JPA are a plus) Comfortable working in the Eclipse IDE</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "_bauRAYPRyGjJiVZv_WhaA",
+    "url": "https://jobmote.com/job/87616/remote-java-developer/",
+    "title": "Remote Java Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angularjs/frontend/16",
+      "DBG_TECH1:k/t/w:ant/java/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:eclipse/java/1",
+      "DBG_TECH1:k/t/w:ejb/java/8",
+      "DBG_TECH1:k/t/w:gradle/java/13",
+      "DBG_TECH1:k/t/w:hibernate/java/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:java-developer/java/26",
+      "DBG_TECH1:k/t/w:java-ee/java/52",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jdbc/java/8",
+      "DBG_TECH1:k/t/w:jpa/java/8",
+      "DBG_TECH1:k/t/w:jquery/frontend/16",
+      "DBG_TECH1:k/t/w:jsp/java/8",
+      "DBG_TECH1:k/t/w:spring-mvc/java/8",
+      "DBG_TECH1:k/t/w:spring/java/16",
+      "DBG_TECH1:k/t/w:struts/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=174, gamedev=0, php=0, embedded=0, frontend=41}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Programmer Resources Intl Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 8, 2019 10:07:47 PM",
+    "validThrough": "Oct 11, 2019 10:07:47 PM",
+    "crawled": "Oct 9, 2019 3:06:32 AM",
+    "content": "<div>Remote Java Developer<br>St Louis, MO Full Time <br><br> Direct Client- EHI( Enterprise Holding Inc) <br> Must be presently authorized to work in the U.S. without a requirement for work authorization sponsorship by our company for this position now or in the future Available to work in the St. Louis office Must have at least 3 years' experience in Java-based software development Proficient knowledge of Java &amp; J2EE (including JSP, EJB, JDBC, SQL, XML, HTML and associated technologies) and the use of those technologies in n-tier development environments Proficient knowledge is also expected in object-oriented application development principles, theories, and concepts using J2EE specific design patterns and usage Experience with J2EE Frameworks (Struts 1/2 and/or Spring MVC, Hibernate, Spring, and JPA are a plus) Comfortable working in the Eclipse IDE Experience with unit testing Experience with build scripts (Ant and Gradle are a plus). Experience with HTML, JavaScript (AngularJS 1 &amp; JQuery), and Cascading Style Sheets (CSS) (HTML5 &amp; CSS3 is a plus) Experience with the configuration and setup of J2EE application servers Knowledge of Unix operating systems Solid knowledge of Oracle database environment Experience with the use of version control systems for code management (Git is a plus) Experienced with UML diagramming Experience with front end designing including prototypes and templates Proficient knowledge of Microsoft Office desktop applications software Preferred: Bachelor's degree in Computer Science, Computer Information Systems, Management Information Systems, or related field preferred Accounting background is a plus but is not required. Experience with PeopleSoft financials is a plus but not required. Experience with the Mulesoft Mule ESB is a plus but not required. Experience with an Agile/Kanban/Scrum development process is a plus but not required. Understanding of SOA is preferred Experience with the Atlassian Toolset is a plus but not required. Working experience with front end tools such as JQUERY and AngularJS</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "UGKr8w9ETDqxAyrdlqds5Q",
     "url": "https://news.ycombinator.com/item?id=21188095",
     "title": "Sky Ledge (skyledge.com) | Melbourne, Australia | Mid- and Senior- Software Engineers | ONSITE  ...",
@@ -4307,6 +4757,61 @@
     }
   },
   {
+    "id": "czpAG4n3SE6hUkwCmzZQ6Q",
+    "url": "https://www.42jobs.io/android/jobs/8179-android-developer",
+    "title": "Android Developer",
+    "tags": [
+      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
+      "DBG_TECH1:k/t/w:android/java/7",
+      "DBG_TECH1:k/t/w:android/mobile/14",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:junit/java/8",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:mockito/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=21, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=23, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "Intergiro",
+      "sameAs": "https://www.intergiro.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 24, 2019 2:24:57 PM",
+    "validThrough": "Oct 1, 2019 2:24:57 PM",
+    "crawled": "Sep 24, 2019 3:07:48 PM",
+    "content": "<h3>Android Developer</h3><div><p></p><p><strong>Intergiro is a Swedish FinTech company with big plans</strong></p><p><span>Intergiro are running a business in the digital age based on the belief that almost every good invention, product or business came from having great people working together in a great culture.</span></p><p><span>At Intergiro culture is paramount. We not only want to create a successful business but also meaningful work and relationships for our people. Our culture is entrepreneurial, open, transparent and fun with a flat structure. We believe in idea meritocracy where we expect you to have strong views loosely held, speaking truth to power with full participation in detailed work</span></p><p><strong><strong>What we offer</strong></strong></p><ul><li><span>Competitive salary package</span></li><li><span>Flexible working conditions</span></li><li><span>No ‘management hierarchy’</span></li><li><span>Office in the center of Minsk at Niamiha 5</span></li><li><span>Top quality equipment</span></li><li><span>Opportunity to work with like-minded individuals in a modern and fast-paced environment</span></li></ul><p><strong><strong>Requirements</strong></strong></p><ul><li><span>Experience in native Android app development</span></li><li><span>Experience working with remote data via REST and JSON</span></li><li><span>Strong Kotlin programming language knowledge.</span></li><li><span>Strong RxJava 2 library knowledge.</span></li><li><span>Familiarity with Android Application development model.</span></li><li><span>Familiarity with Clean Architecture principles.</span></li><li><span>Familiarity with Android Unit test framework (JUnit + Mockito)</span></li><li><span>Experience with tools: Jira/Confluence, git, ESLint</span></li><li><span>Biometrics experience a plus</span></li><li><span>Other Mobile development (iOS) a plus</span></li><li><span>English level: Intermediate+</span></li></ul><p><strong><strong>Responsibilities</strong></strong></p><ul><li><span>Design and build advanced applications for the Android platform</span></li><li><span>Collaborate with cross-functional teams to define, design, and ship new features</span></li><li><span>Work with outside data sources and APIs</span></li><li><span>Unit-test code for robustness, including edge cases, usability, and general reliability</span></li><li><span>Work on bug fixing and improving application performance</span></li><li><span>Continuously discover, evaluate, and implement new technologies to maximize development efficiency</span></li><li><span>Perform development from conception to user interface and implementation</span></li><li><span>Be involved in a code review process</span></li><li><span>Be involved in performance improvement and bug fixing</span></li><li><span>Maintain the existing code</span></li><li><span>Implement new features</span></li><li><span>Perform optimizations</span></li><li><span>Setup a development environment</span></li><li><span>Collaborate with the UX Design team</span></li><li><span>Collaborate daily with the development team, Product Owner, higher Stakeholders (up to delivery directors) to discuss features they require</span></li></ul><p></p><span>Apply now</span></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "3HvYC0KPQcmLbmpT6YyVNw",
     "url": "https://jobmote.com/job/77968/senior-software-developer-salesforce-remote-considered/",
     "title": "Senior Software Developer-Salesforce-remote considered",
@@ -5123,6 +5628,54 @@
     "validThrough": "Sep 22, 2019 10:07:50 PM",
     "crawled": "Sep 20, 2019 3:06:33 AM",
     "content": "<div>Looking for a Java Software Engineer with 3-7+ years of experience. This FTE position is a telecommute opportunity where you can work remote from the comfort of your own home from anywhere in the US.<br><br>Role based competencies includes:<br><br>- Expert in developing Java based web applications<br>- Ability to learn new technologies and frameworks<br>- Ability to collaborate and work with teams<br>- Collaborate with teams to identify and understand key information and data assets<br>- Looking for a Java Developer that has strong knowledge of build tools, application servers such as Weblogic/Tomcat<br>- Should have working knowledge of database programming such as SQL.<br>- Should be able to work in Agile based projects<br><br>Technical Skills:<br>- Development using Java frameworks (Spring/Angular/Hibernate)<br>- Build Tools such as Maven, Gradle<br>- Continuous Integration and Deployment tools on cloud platform<br>- Experience with Continuous Integration/ Continuous Deployment and Source Control Management.<br>- IDE such as Eclipse<br>- Working Knowledge of microservices architecture and Web Services ? REST/SOAP/WSDL/JSON<br>- Knowledge of AWS resources and services<br><br>Qualifications:<br>3-7+ yrs of working experience with Java<br>Should be proficient in Software Development Lifecycle<br>Bachelor's degree required<ul><li>Develops guidelines for other software engineers that helps them build and implement code that is scalable, stable and secure.</li><li>Acts as a hands-on software engineer who can write quality code, assists with problem solving, root cause analysis, trouble shooting and coaching.</li><li>Understands big picture from a business standpoint within the context of the application.</li><li>Writes technical blogs and be active in Open Source Community.</li><li>Agile, DevOPS and Cloud:</li><li>Applies Design Thinking techniques on application design.</li><li>Leads agile software development efforts as a Technical Leader.</li><li>Coaches other software engineers on practices such as TDD, ATDD and pair programming.</li><li>Understands advanced concepts of Containers, Micro-Services,? Continuous Delivery and Continuous integration, and guide the team to setup a DevOps environment for the applications they build and support.</li><li>Designs and develops highly scalable applications in AWS cloud using tools like Cloud Formation Templates, EC2, SWF, ELB, Lambda, S3, RDS/Dynamo DB and others.</li><li>Reviews and takes actions based on application metrics, including but not limited to code quality, business metrics and performance metrics.</li><li>Creates load and performance testing strategy and perform advanced performance tuning.</li></ul> General Job Information <br><b>Title</b><br>Java Consulting Software Engineer (Remote) <b>Grade</b><br>28 <b>Job Family</b><br>Info Technology Group <b>Country</b><br>United States of America <b>FLSA Status</b><br>United States of America (Exempt) <b>Recruiting Start Date</b><br>8/28/2019 <b>Date Requisition Created</b><br>8/13/2019 <b>Work Experience</b><br>IT <b>Education</b><br>Bachelors: Computer and Information Science <b>License and Certifications - Required</b><br><b><b>License and Certifications - Preferred</b></b><br> Other Job Requirements <br><b>Responsibilities</b><ul><li>7+ years related experience including a minimum of 3+ years of designing, building and maintaining high quality, secure software in IT.</li><li>Critical thinker.</li><li>Demonstrated problem solving techniques.</li><li>Strong verbal and written communication skills.</li></ul> Magellan Health Services is proud to be an Equal Opportunity Employer and a Tobacco-free workplace. EOE/M/F/Vet/Disabled. Every employee must understand, comply and attest to the security responsibilities and security controls unique to their position.</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ZB3I8KrNTVqP-TW1oRbJjw",
+    "url": "https://jobmote.com/job/76332/looking-for-java-architect-with-ecommerce-experience-remote-job/",
+    "title": "Looking for Java Architect with ecommerce experience Remote job",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG_TECH1:k/t/w:java/java/8",
+      "DBG_TECH1:k/t/w:java/mobile/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "KPG 99 Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 19, 2019 10:07:49 PM",
+    "validThrough": "Sep 22, 2019 10:07:49 PM",
+    "crawled": "Sep 20, 2019 3:06:33 AM",
+    "content": "<div>Hi, Hope you're doing great. This is Shivangi with KPG99 Inc . . I have the following job opportunity of Java Architect with ecommerce experience Remote job . Please see the job description below and let me know if you would be interested in it. You can either reply to this mail or call me at Java Architect with ecommerce experience Remote job (100% Remote) 6 Months Phone and Skype Job Description: Java Architect who must work in an ecommerce environment. Their environment is Salesforce, but that is not a requirement. One week onsite then 100% Remote Thanks and Regards, Shivangi Singh | Team Lead | KPG99, INC Certified Minority Business Enterprise (MBE) Direct: | sskpgtech.com | - provided by Dice</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -18058,64 +18611,6 @@
     "validThrough": "Aug 12, 2019 10:07:32 PM",
     "crawled": "Aug 10, 2019 3:06:25 AM",
     "content": "<div><b>Tentative Schedule</b>: Monday - Friday 8:00 a.m. - 5:00 p.m.  A <b> Software Engineer </b> is a highly skilled software developer with expert knowledge in at least one department or system.? They work with a high degree of independence and develop information systems to support the business.? Engineers are primarily focused on the design or integration of various software systems, databases, and third-party packages.<br><b>Essential Job Functions</b><ul><li>Generally takes leadership role in guiding projects through the complete software development life cycle </li><li>Typical focus is on code design efforts </li><li>Solid understanding of secure coding techniques and best practices</li><li>Responsible (takes ownership) for multiple software applications</li><li>Manage tasks and resources while utilizing modern project management principles</li><li>Participate or lead the development of multiple projects at one time</li><li>Conducts code reviews and ensures coding best practices are being followed</li><li>Recommend software improvements and changes to systems, as needed </li><li>May approve software to be deployed to production systems </li><li>Perform software and data analysis to uncover issues and solve complicated problems that typically span multiple systems </li><li>Lead various meetings to gather software requirements and project details</li><li>Conduct software demo's to educate and train others in the use of software</li><li>Debug and correct complex software defects </li><li>Develop new or modify existing software using coding best practices? </li><li>Create or update advanced project documentation</li><li>Test software to validate accuracy of code and high quality software systems </li></ul><b>Skills and Qualifications</b><ul><li>4+ years of Java development experience </li><li>Advanced understanding of JavaFX</li><li>Advanced knowledge of Project Development Life Cycle (PDLC) and Software Development Life Cycle (SDLC)</li><li>Advanced understanding of the software and system(s) supported by their team, as well as the overall company business </li><li>Ability to lead and get results from others</li><li>Ability to articulate advanced technical concepts and teach others</li><li>Ability to effectively multitask </li><li>Expert software debugging and testing knowledge</li><li>Advanced understanding of complex computer systems (multiple programs, databases, communications etc) </li><li>Advanced knowledge of programming, database systems, and systems analysis and design</li><li>Ability to write advanced technical documentation</li><li>Advanced problem-solving skills</li><li>Good verbal and written communications skills</li><li>Must work well in a team environment, </li><li>Ability to learn independently</li><li>Willingness to work flexible schedule including nights/weekends</li><li>High School diploma or equivalent</li></ul></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ixHqHvJoS_qlIjjRA1osng",
-    "url": "https://stackoverflow.com/jobs/288151/senior-java-developer-remote-wallethub?a=1yDuh7PCEraE",
-    "title": "Senior Java Developer - Remote at Wallethub  ",
-    "tags": [
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 2W hour",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:ajax/frontend/3",
-      "DBG_TECH1:k/t/w:java-developer/java/39",
-      "DBG_TECH1:k/t/w:java/java/6",
-      "DBG_TECH1:k/t/w:java/mobile/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:spring-mvc/java/8",
-      "DBG_TECH1:k/t/w:spring/java/56",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=109, gamedev=0, php=5, embedded=0, frontend=4}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/dev",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Wallethub",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 25000,
-      "maxValue": 65000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserDefaultImpl",
-      "isEquity": false,
-      "formatted": "USD 25k - 65k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 9, 2019 8:30:25 PM",
-    "validThrough": "Aug 16, 2019 8:30:25 PM",
-    "crawled": "Aug 9, 2019 8:30:25 PM",
-    "content": "<h3><span>Senior Java Developer - Remote</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Personal Finance</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51–200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Wallethub | No office location<br></div><h4>Technologies</h4><div></div><div>java</div><div>spring</div><div>mysql</div>                <h4>Job description</h4>                <div><p>WalletHub is one of the leading personal finance destinations in the US and rapidly growing. We're looking for a highly skilled and motivated Senior Java Developer for a full-time, permanent position.</p><p><strong>Expected work schedule is 50 hours/week Monday to Friday. Please be aware this position requires an overlap with EST business hours (8am - 7pm ET, including 1 hour break).</strong></p><p><strong>Responsibilities</strong></p><ul><li>Designs and develops web applications using Java, Spring Framework, MySQL</li><li>Designs and develops unit test cases to make the code more robust</li><li>Participates in pairing and code reviews</li><li>Supports and troubleshoots problems with existing applications</li><li>Participates in the areas of architecture, design, implementation, and testing</li></ul><p><strong>Qualifications</strong></p><p>You are the ideal candidate for this job if you have:</p><ul><li>Over 3 years experience in Java, Spring and MySQL (or any relation database)</li><li>Experience developing web and stand-alone applications in Spring technologies such as: Spring MVC, Spring Security, Spring Batch</li><li>Proven ability to lead a small group of developers and the willingness to mentor junior developers</li><li>Excellent communication and analytical skills</li><li>Willingness to work hard</li><li>Proficient with spoken/written English</li></ul><p><strong>Nice to have but not required</strong></p><ul><li>Experience in PHP</li><li>Familiarity with front-end technologies – Object-Oriented Javascript, AJAX, XHTML, HTML, XML/DOM</li><li>Experience with unit testing framework, test driven development</li></ul><p><strong>Compensation</strong></p><ul><li>Very competitive salary based on prior experience and qualifications</li><li>Potential for stock options after the first year</li><li>Raise and advancement opportunities based on periodic evaluations</li><li>Health benefits (in case you will be working from our office in Washington DC)</li><li>Visa sponsorship (after 18 months with the company, based on performance in case you will be working from outside the US)</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/288151?reset=False&amp;ra=1yDuh7PCEraE&amp;oqs=a%3D1yDuh7PCEraE' rel='nofollow'>Apply now</a></div>            <h4>About Wallethub</h4>            <div><p>WalletHub helps all consumers reach top financial fitness by providing:<br><br>• Free credit scores and credit reports that are updated on a daily basis.<br><br>• Free 24/7 credit monitoring and personalized advice that will help you improve your credit and save money. <br><br>• More reviews on financial products, professionals and companies than any other website.<br><br>• An extensive education center coupled with the ability to ask financial experts your money-related questions for free .</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Stock options</span>                            </li>                            <li>                                <span></span>                                <span>Health benefits</span>                            </li>                            <li>                                <span></span>                                <span>Work visa sponsorship</span>                            </li>                            <li>                                <span></span>                                <span>Competitive salary</span>                            </li>                            <li>                                <span></span>                                <span>Work from home</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
