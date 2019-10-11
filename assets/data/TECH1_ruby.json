@@ -1,6 +1,109 @@
 {
  "items": [
   {
+    "id": "vsZyoPcmTh2zXP1yVgnp3Q",
+    "url": "http://workinstartups.com/job-board/job/85581/ruby-on-rails-tech-leadco-founder-at-pixie/",
+    "title": "Ruby on Rails tech-lead/co-founder",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:capybara/ruby/8",
+      "DBG_TECH1:k/t/w:devise/ruby/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:rspec/ruby/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=44, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Pixie",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 40000,
+      "maxValue": 45000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 40k - 45k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 11, 2019 12:22:47 PM",
+    "validThrough": "Oct 18, 2019 12:22:47 PM",
+    "crawled": "Oct 11, 2019 2:06:47 PM",
+    "content": "<h1>About us</h1><br /><p>We are a bootstrapped, distributed company that builds products that help people in small businesses to do better work. We&rsquo;re a small team of 2 - a designer and a business/product/many-hats person - and a few contractors.</p><br /><p>Our goal is to build a pleasant work environment and a sustainable business. We are not looking to raise external funding for at least the next couple of years.</p><br /><p>Our focus right now is on Pixie (<a href='https://www.usepixie.com/'>https://www.usepixie.com</a>), a Basecamp-style SaaS for accountancy firms. We see a path to expand to other professional services down the line, like legal, etc. but currently this is the market segment we can understand better. Pixie&rsquo;s just launched and off to a great start, feedback is positive and encouraging.</p><br /><p>We&rsquo;re looking to bring in someone to work together with us (not for us) and lead the software engineering side.</p><br /><p>This is a hands-on, software engineering, with salary up to &pound;40,000-&pound;45,000p.a. which we are looking to increase in the first year as the business grows. We are also offering an equity stake. As part of the founding team, you&rsquo;ll have shared control of our products and roadmaps, get a direct line to customers, and exposure to as many aspects of the business as you want. And as we grow, we hope to work together in building a small engineering team around you.</p><br /><p>&nbsp;</p><br /><h1>About you</h1><br /><p>We need you to have demonstrable experience with these technologies:</p><br /><ul><br /><li>Ruby on Rails 5, Omniauth + Devise, RSpec, Capybara, Apartment</li><br /><li>AWS infrastructure: EC2, IAM, RDS, S3, Elasticache, etc.</li><br /><li>PostgreSQL 10+, Redis</li><br /><li>Git, Gitlab (optional)</li><br /></ul><br /><p>&nbsp;</p><br /><p>It'd be brilliant if you already have some Vue.js experience, but if you've done things in React that's just as well.</p><br /><p>On the non-technical side, you feel comfortable with the idea of working on a distributed team, being self-driven and asking questions.</p><br /><p>Ideally you have some interest in owning a small software company, but our main ask is for agreement towards our values:&nbsp;<a href='https://medium.com/pomarhq/pomars-guiding-principles-ca00356174ce'>https://medium.com/pomarhq/pomars-guiding-principles-ca00356174ce</a>.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "nUmUALG6Q_qyn1PXfRiXlA",
+    "url": "https://weworkremotely.com/remote-jobs/memberful-enthusiastic-rails-engineer-2",
+    "title": "Memberful: Enthusiastic Rails Engineer",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/26",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=46, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Memberful",
+      "sameAs": "https://memberful.com"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 10, 2019 7:05:12 PM",
+    "validThrough": "Oct 17, 2019 7:05:12 PM",
+    "crawled": "Oct 10, 2019 7:30:33 PM",
+    "content": "<h3> Enthusiastic Rails Engineer </h3><div><div><a href='https://memberful.com/' rel='nofollow'>Memberful</a> is reliable membership software for independent publishers, educators, and creators. <a href='https://memberful.com/blog/joining-patreon/' rel='nofollow'>We recently joined Patreon</a>, and we're excited to continue expanding our team.</div><div><br><strong>What we're looking for</strong><br><br>It's fun and rewarding to work with people who are <strong>enthusiastic</strong> and <strong>get stuff done</strong>. At Memberful, we're a self managed team. We don't require heavy direction or daily check-ins. This means you'll come up with your own goals and execute them. You'll discover, plan, and see things through from start to finish. This job is for you if:<br><br></div><ul><li>You’re enthusiastic about life and work on a daily basis.</li><li>You embrace responsibility and new challenges.</li><li>You care deeply about form and function.</li><li>You look for opportunities to improve process.</li><li>You thrive on organization and planning.</li><li>You do what it takes to get things done on time.</li><li>You have experience working remotely and enjoy it.</li><li>You recognize it's about building a great product, and therefore embrace discussion and criticism of ideas.</li><li>You don't like working with complainers or blamers.</li><li>You don't claim to be an expert at everything, but you show a strong desire to learn new things and continually get better.</li><li>You don’t just report the problem, you present a plan for fixing it.</li></ul><div><br>You should be <strong>hungry and excited to take on real responsibility and work hard </strong>on useful software with real paying customers.<br><br><strong>What you’ll work on</strong><br><br>Our Ruby on Rails application runs on Heroku, and is used by well over hundred thousand people. Because we’re a small team, your work will be both demanding and multidisciplinary:<br><br></div><ul><li>Fixing routine bugs that come up from time to time.</li><li>Planning and shipping new features.</li><li>Ensuring the service is fast and reliable.</li><li>Responding to any overly technical customer support questions.</li><li>Periodically on-call (all engineers rotate based on time zone and availability) for emergencies.</li></ul><div><br>Some of the tools we use: Basecamp, Github, Heroku, Stripe, Librato, Circle CI, Postmark, Papertrail, Slack, Intercom. <br><br><strong>Skills, Salary, &amp; Benefits<br></strong><br>You should have demonstrated Ruby programming ability and experience with production Rails applications. We’re looking for someone with a strong track record of shipping solid work on a real product. Experience with applications hosted on Heroku is a bonus.&nbsp;<br><br></div><ul><li>Competitive salary based on experience.</li><li>Work remotely from anywhere in the world.</li><li>Flexible vacation. Take it when you need it.</li><li>Health insurance if you're in the United States.</li></ul><div><br><strong>How to apply</strong><br><br>To apply, send an email to <strong>jobs @ memberful.com</strong>. Please include [ENGINEER] in the subject line. We’d like to see some examples of software code you’ve written. We understand that can be difficult if you're currently working on a commercial project, but please send whatever you can. If we think you're a good fit, we'll reply with next steps.<br><br><em>We strongly favor candidates who put extra effort into their cover letter and application. Let us know why you want </em><strong><em>this job</em></strong><em>, not just any job.</em></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "5r69MR2PQl6mEWHAQSneIQ",
     "url": "https://jobmote.com/job/87800/ruby-on-rails-engineer-100-remote/",
     "title": "Ruby on Rails Engineer (100% Remote)",
