@@ -1,6 +1,259 @@
 {
  "items": [
   {
+    "id": "jSogm_0RT06QJLl34xS4aQ",
+    "url": "https://remoteok.io/jobs/75622",
+    "title": "Experienced Site Reliability Engineer",
+    "tags": [
+      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=5, c=2, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/America/West"
+    ],
+    "tagsNames1": [
+      "US Pacific time zone"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Theorem",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 12, 2019 6:03:30 AM",
+    "validThrough": "Oct 19, 2019 6:03:30 AM",
+    "crawled": "Oct 12, 2019 6:06:38 AM",
+    "content": "<span></span> <span><h4>Theorem</h4></span> <br> <h3>Experienced Site Reliability Engineer</h3> <div>  <div>   \\nTheorem is a software consultancy that believes in simplicity in software design. We deliver solutions for startups and enterprises. You can see our portfolio to learn more about the results we've delivered for our clients.\\n\\nWe are a remote first company with offices in Los Angeles and New York, and team members all around the world.\\nCandidates located within UTC + 1 to UTC - 8 will be given priority for team time zone alignment. Team members are expected to align a portion of their day with Pacific Timezone.\\n\\nJob Duties:\\n\\n\\n* Mentor and teach SRE best practices, internally and with our customers.\\n\\n* Build and maintain high-availability systems.\\n\\n* Identify improvement opportunities on existing systems, build plans and execute improvements.\\n\\n* Ensure our clients and their users have the best and fastest experience possible.\\n\\n* Participate in code and design reviews, teaching and learning from other engineers.\\n\\n* Plan, estimate and prioritize work in a collaborative and distributed team.\\n\\n* Potentially travel to spend time with clients.\\n\\n\\n\\n\\nJob Requirements:\\n\\n\\n* Familiar with Python, C# or Ruby, and at least one other programming language.\\n\\n* Experience with Infrastructure as Code and Configuration Management tools.\\n\\n* Experience with alerting and monitoring tools.\\n\\n* Experience working in a highly distributed company.\\n\\n* Be open minded and always learning.\\n\\n* Experience with the following tools are preferred, but not necessarily required:\\n\\n\\n\\n* Terraform\\n\\n* CloudFormation\\n\\n* Chef\\n\\n* Docker + Kubernetes\\n\\n* Prometheus + Grafana\\n\\n* Elasticsearch + Logstash + Kibana\\n\\n* Splunk\\n\\n* Jenkins\\n\\n\\n\\n\\n  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "95p_nF9pRPCvK_ZhKLRl8w",
+    "url": "https://jobmote.com/job/88091/systems-engineer-for-windows-server-migration-to-aws-100-remote-wor/",
+    "title": "Systems Engineer for Windows Server Migration to AWS - 100% Remote Wor",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:windows/dotnet/64",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=64, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Apetan Consulting",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 11, 2019 10:07:56 PM",
+    "validThrough": "Oct 14, 2019 10:07:56 PM",
+    "crawled": "Oct 12, 2019 3:06:35 AM",
+    "content": "<div><p> <strong>Role : </strong> <strong>Systems Engineer for Windows Server Migration to AWS</strong></p> <p> <strong>Location : 100% </strong> <strong>Remote</strong></p> <p> <strong>Duration : 6+ Months Contract</strong></p> <p> <strong>Interview Mode: Phone and Skype</strong></p> <ul><li>Develop, deploy and document Windows based services in AWS and GCP.</li> <li>These are foundational/framework components that applications and end-users will utilize in AWS/GCP.</li> <li>Create gold build AMIs. Apply changes to remediate vulnerabilities identified by scans (either within the Windows build or in Active Directory GPOs).</li> <li>Test the developed AMIs to ensure they are functional.</li> <li>Integrate into the AWS build process. Develop documented procedures on how to spin up instances using the AMI builds (procedures will be used by DevOps teams to spin-up their EC2 instances). </li> <li>Publish gold image AMIs into AWS accounts.</li></ul><p> <strong>Required Experience:</strong></p> <ul><li>Windows engineering experience with AWS and/or GCP.</li> <li>Experience developing framework components at AWS/GCP such as AMI builds, Systems Manager configuration and deployment, backup management, Active Directory Integration, Cloud Formation, etc.</li> <li>Understanding of AWS security groups/VPCs and how they operate. How to troubleshoot issues. Equivalent understanding of GCP concepts.</li> <li>Experience building Windows images/templates</li> <li>Experience supporting Windows Servers 2012,2016,2019</li> <li>Experience with Active Directory, Security Groups, DHCP, DNS, AD group policies</li> <li>Experience with server infrastructure and virtualization</li> <li>Experience in PowerShell Scripting</li> <li>Experience in designing/supporting fileservers/file sharing solutions</li> <li>Experience in remediating security vulnerabilities with Windows servers</li> <li>Experience with networking (from a server perspective</li></ul><p> </p> <p> </p> <p> </p> <p> </p> <p>Deepak Kumar | Sr Technical Recruiter| Apetan Consulting LLC</p> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "DsX6Q6IRTcy40yObdYY0tA",
+    "url": "https://jobmote.com/job/88082/lead-cloud-cyber-security-operations-engineer-virtual-remote-home-off/",
+    "title": "Lead Cloud Cyber Security Operations Engineer (virtual remote home off",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Humana",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 11, 2019 10:07:55 PM",
+    "validThrough": "Oct 14, 2019 10:07:55 PM",
+    "crawled": "Oct 12, 2019 3:06:35 AM",
+    "content": "<div><b><b><b>Description</b></b></b><br><br>In the fast-paced, ever-growing world of Healthcare, Humana relies on the latest technology and trends for sharing and storing information, communication and security. We need experts in technology to help us develop and maintain our networks, hardware, and software-to ensure our systems run smoothly and efficiently, keep us on the forefront of innovation in healthcare, and retain our competitive edge. At Humana, we want to help people everywhere, including our associates lead their best lives and achieve lifelong well-being. We look for talented individuals who share this passion for helping others and we develop by keeping employees current on the latest skillsets through classes, certifications, and conferences. .<br><br><b><b>Responsibilities</b></b><br><br>The Cyber Security Operations Center supports Humana's value proposition by providing strategic guidance and support for EIP, IT and business clients. As a Cloud Cyber Security Lead, you will help in designing and engineering cloud security solutions that will balance the need for speed and flexibility of cloud infrastructure and IaaS/PaaS/SaaS applications with the need to protect Humana against ongoing and potential security threats. This critical role requires the ability to synthesize radical ideas, the aptitude to define new security strategies and the tenacity to get the job done. To achieve results this will require the direct partnership and ability to influence multiple levels and areas of the organization. Candidate will assist on multiple EIP owned initiatives which will encompass providing direct influence to multiple project team members, vendor evaluations and implementation of new technology.<br><br><b><b>Key Responsibilities:</b></b><br><ul><li>Lead security operations, event monitoring, incident responses related activities, and act as strategic partner during new deployments of cloud services working closely with the capability maturity team, business/IT leadership and others.</li><li>Review new cloud services on a regular basis for impacts to SecOps and to develop changes needed for Humana security operational environment in partnership with Enterprise Architecture, Infrastructure and Security capability maturity team</li><li>Actively participate in the cross functional cloud security maturity team to lead capability maturity efforts as it applies to security operations</li><li>Develop solution approaches for automated threat detection, behavioral analytics and other automation for managing cloud security operations</li><li>Provide consulting and support during deployment of new cloud security tools and/or processes to monitor and alert Cloud IaaS/PaaS/SaaS, container and DevSecOps processes to ensure appropriate visibility around cloud compute resources.</li><li>Help create, maintain and enhance Cloud security incident response plan along with security playbook for all three major cloud providers (MS Azure, Amazon AWS and Google Cloud Platform)</li><li>Assess existing cloud implementations, identifying security issues and prioritizing fixes.</li><li>Provide daily, ongoing operational support of cloud security operations, to include the security impact of proposed modifications, additions, and technology implementation/refresh operations.</li><li>Understand cloud systems security vulnerabilities and associated threats, and assess the overall security risks to the system.</li><li>Provide mitigation recommendations to reduce identified security risks.</li><li>Work directly with internal IT staff and customer to establish and enforce IT security best practices, protection objectives, process improvements and effective IT security controls.</li><li>Thoroughly understand software installations, systems monitoring and troubleshooting, account management, and overall efforts to minimize cloud system downtime.</li><li>Serve as the Cyber Security Operations primary interface to governance, compliance, and risk management teams to ensure the system consistently meets the requirements for certification and accreditation.</li><li>Establish key business operations relationships, providing an avenue to assess and recommend operational changes and enhancements.</li><li>Provide strategic direction and ability to influence team members both within and outside of EIP to achieve desired results.</li></ul><br><br><b>Key Competencies </b><br><ul><li><b> Accountability :</b> Meets established expectations and takes responsibility for achieving results; encourages others to do the same. Employs focus, attention to detail, reliability, and appropriate prioritization to drive outcomes. Sees opportunities to contribute and takes the initiative to create solutions.</li><li> <b>Strategic Thinking:</b> Ability to clearly define objectives and develop a strategic action plan with objectives, resources and timelines identified.</li><li><b> Builds Trust : </b>Consistently models and inspires high levels of integrity in decisions, speech, and actions. Lives up to commitments, taking responsibility for the impact of one's actions. Exercises the courage to prioritize principles and values over personal or professional gain.</li><li> <b>Influence &amp; Collaborate</b> : Engages others by gathering multiple views and being open to diverse perspectives, focusing on a shared purpose that puts Humana's overall success first. Develops and strengthens networks and relationships, both inside and outside the organization, that support company performance. Proactively and transparently contributes information and energy toward creating value with others.</li><li><b> Customer Focus :</b> Connects meaningfully with customers to build emotional engagement and customer advocacy. Develops and applies deep customer knowledge and intimacy to develop and deliver products, services, and interactions that provide value beyond expectations. Simplifies complexity and integrates internal efforts to deliver an optimal customer experience.</li></ul><b>Qualifications</b> <br><b>Role Essentials</b><br>• Bachelor's Degree in Computer Science, Information Technology or equivalent experience<br>• Experience in Cyber Security Operations Cyber functions<br>• Experience performing security operations functions in cloud environments<br>• Experience in secured Public Cloud architectures and engineering solutions<br>• Automation (PowerShell and/or Python or a similar language, can be a beginner to intermediate level).<br>• Experience analyzing application and network based attacks (firewall logs, network security tools).<br>• Prior experience with Security &amp; Major Incident response.<br>• Proven ability to quickly earn the trust of project sponsors and key stakeholders<br>• Able to prioritize and execute tasks in a high-pressure environment<br>• Sound business and technical acumen<br>• Ability to communicate at all levels with clarity and precision both written and verbal<br>• Strong presentation &amp; visualization skills<br>• Ability to remove barriers to ensure success for initiatives<br><br><b>Role Desirables</b><br><br> Experience performing security operations functions in cloud environments (AWS, GCP, or Azure)<br>• Experience in secured Public Cloud architectures and engineering solutions (AWS, GCP, Azure)<br>• Preferred IT Industry certifications (Microsoft Certifications On-Prem or Cloud, Cisco, CISSP, CEH, Amazon AWS, etc.)<br>• Experience with PowerPoint, Excel<br>• Experience developing and executing strategic initiatives focused on operations stability<br><br><b>Reporting Relationships</b><br><br>You will report to the Associate Vice President of Cyber Security Operations Center.<br><br><b><b><b>Scheduled Weekly Hours</b></b></b><br><br>40 - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "zbpPLxqTSxOXjx-Q-Qf_Kw",
+    "url": "https://jobmote.com/job/88068/cloud-system-operation-engineer-remote-position/",
+    "title": "Cloud System Operation Engineer-Remote Position",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:arm/embedded/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:windows/dotnet/16",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=16, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "IRIS Software, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 11, 2019 10:07:54 PM",
+    "validThrough": "Oct 14, 2019 10:07:54 PM",
+    "crawled": "Oct 12, 2019 3:06:35 AM",
+    "content": "<div><p><strong>Updates from the hiring Manager:</strong></p><ul><li>For this role candidate should have cloud experience, AWS is the primary platform, having some experience with Azure cloud and Google cloud is good to have.</li><li>Candidate has to support cloud infrastructure(AWS, Azure)</li><li>Can handle technical documentation</li><li>Having understanding of networking, VMware , cloud infrastructure, familiar with cloud provider, scripting tools, CLI, IAM etc.</li></ul><p><strong>Job description:</strong></p><ul><li>Plan and define the execution of establishing multi cloud service support processes and practices. This includes review and analysis of current cloud operational support processes and mapping to a future state for cloud systems support operating model.</li><li>Responsible for defining and implementing cloud systems support process and procedures in a multi-cloud environment.</li><li>Understand and identify cloud support relative to each cloud vendor platform type to plan and define short term and long term resources required for an effective ramp up of cloud systems support model that can be operationalized with an initial small team and scale up based on demand.</li><li>Work effectively with multi stakeholder, upper management to manage acceptable outcomes in line with IT cloud SOP process and procedures; when required, define and document new SOP support procedures and work with various teams for</li><li>support alignment and adoption in both onshore and offshore support model..</li><li>Identify and develop operational support costing of cloud support definition and mapping of work flows deliverables as part of cloud services system support lifecycle mapping.</li></ul><p><strong>Skills: </strong></p><ul><li>Minimum of 5 year experience in IT operations/administration including private and public cloud based deployments.</li><li>Hands on experience with public cloud technologies Azure and/or AWS and/or GCP.</li><li>Experience with one or more scripting tools using PowerShell, Python, JSON/YAML.</li><li>Windows Clustering, worked with load balancing technologies and large scale web server farms.</li><li>Understanding of IaaS, PaaS, SaaS deployments</li><li>Good understanding of Virtualization technologies/Windows Server clustering/SQL Always On Availability Groups</li><li>Cloud based Backup/Disaster recovery</li><li>Cloud Security/Monitoring</li><li>Managed infrastructure as code with CloudFormation, ARM(Azure Resource Manager)</li><li>Have excellent working knowledge of Cloud networking concepts, including the management and troubleshooting of VPC s/VNets, IP Address Ranges, Route Tables, Subnets, Load Balancers, Auto-scaling Groups/VM ScaleSets , and Security Groups</li><li>Experience on Azure services incl. Availability set, Virtual network, Subnet</li><li>Experience on Azure services incl. Traffic Manager, Azure AD, Public IP, Relays</li><li>Experience on Azure PowerShell &amp; CLI /AWS CLI</li><li>Experience on Azure Stack deployment</li><li>Experience with AWS services: EC2, Opsworks, S3, SQS, SES, RDS, DynamoDB, CloudWatch, CloudFormation, CloudTrail, Lambda, EFS, Glacier, Kinesis, AWS Glue, Athena, Redshift</li><li>Use the Google Cloud Platform Console to create and manage multiple projects and use service accounts and permissions to share view-level access between projects</li></ul><p> </p><p> </p><p>Thanks and Regards,</p><p><strong>Sunil Kamboj<br>IRIS Software, Inc. </strong> <br></p> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "P85P2nmvSUmh_it0h3siKQ",
+    "url": "https://weworkremotely.com/remote-jobs/freedom-of-the-press-foundation-senior-devops-engineer",
+    "title": "Freedom of the Press Foundation: Senior DevOps Engineer",
+    "tags": [
+      "DBG:classic``&quot;open to remot&quot;",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:shell/other/1",
+      "DBG_TECH1:techWeightMap:{python=4, other=2, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/go",
+      "TECH1/python",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "go",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Freedom of the Press Foundation",
+      "sameAs": "https://freedom.press/"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 90000,
+      "maxValue": 110000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 90k - 110k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 12, 2019 1:14:59 AM",
+    "validThrough": "Oct 19, 2019 1:14:59 AM",
+    "crawled": "Oct 12, 2019 2:06:32 AM",
+    "content": "<h3> Senior DevOps Engineer </h3><div><div><br>Freedom of the Press Foundation (FPF), a nonprofit organization dedicated to protecting and defending public interest journalism, is looking for a full-time <strong>Senior DevOps Engineer</strong> to help us maintain and improve our technical infrastructure.<br><br></div><div>In this role, you will lead improvements to our Continuous Integration/Continuous Delivery infrastructure, monitoring and alerting, log ingestion and analysis, configuration management, and other systems and processes.<br><br></div><div>This position is open to remote work flexibly within PT to ET time zones, or work in our New York City offices.<br><br></div><div><strong>Skills and Experience<br></strong><br></div><div><strong>Required:</strong></div><ul><li>4+ years of experience in a DevOps/SRE/Operations role as part of a team</li><li>Experience building, using and deploying Docker container images as part of a Continuous Delivery or Continuous Deployment solution</li><li>Experience with monitoring, metrics and logging infrastructure (e.g. Icinga/Nagios, Logstash/Kibana, etc.)</li><li>Comfort with configuration management and orchestration tools (e.g. experience with Ansible, Molecule, Terraform is especially helpful)</li><li>Comfort with shell and at least one language used in a DevOps context (e.g. Python, Go, Bash, Ruby, etc.)</li><li>Experience leading complex technical changes from start to completion, including collaboration with other teams, and documentation through architecture diagrams and specifications</li></ul><div><strong>Great to have:</strong></div><ul><li>Experience contributing to free/libre and open source software (FLOSS) projects in any capacity</li><li>Knowledge of Kubernetes or other container orchestration solutions</li><li>Experience building packages (Debian, Fedora or other) for software distribution</li><li>Familiarity with security auditing/review,or implementing security controls based on standards and best practices</li></ul><div><strong>What you’ll be working on</strong><br><br></div><div>In this role, you will implement critical changes to our infrastructure and in service of Freedom of the Press Foundation’s mission and programs:</div><ul><li><strong>Continuous delivery for web projects</strong><br><br>FPF operates several websites: <a href='https://securedrop.org/' rel='nofollow'>SecureDrop.org</a>, the <a href='https://pressfreedomtracker.us/' rel='nofollow'>US Press Freedom Tracker</a>, <a href='https://securethe.news/' rel='nofollow'>Secure the News</a>, and our main <a href='https://freedom.press/' rel='nofollow'>freedom.press</a> website.<br><br>We are in the middle of transitioning the web deploy infra for these sites from an Ansible-&gt;VPS workflow to Continuous Delivery using Kubernetes/GKE. The goal is to empower our web development teams to quickly get changes out to production, potentially targeting Continuous Deployment at a later date.<br><br>By the time you join FPF, we’ll have at least one website transitioned to the new CD infrastructure. Our other sites will likely still be using the old workflow. After finishing the switchover of all sites, there are many improvements we’d like to make: per-PR creation of sandbox environments, integrity verification of container images, improved vulnerability scanning, and robust service monitoring and alerting.<br><br>As we undertake this work, we want to <a href='https://github.com/hjacobs/kubernetes-failure-stories' rel='nofollow'>apply the lessons</a> from others’ experiences with Kubernetes, and look for opportunities to collaborate with the larger open source infrastructure community.<br><br><br></li><li><strong>Infrastructure for SecureDrop</strong><br><br>SecureDrop is open source software used by more than 65 media orgs for secure &amp; anonymous communications between journalists and sources.<br><br>You will help maintain existing SecureDrop infrastructure, e.g., our Redmine support portal for news organizations, our self-hosted installation of Weblate for localization, build/release infrastructure, monitoring services, and so on. You will also partner with the SecureDrop team on the setup of new services, such as a clearnet demo of the SecureDrop Source Interface.<br><br>You will advise the SecureDrop team on infra questions related to the <a href='https://github.com/freedomofpress/securedrop-workstation' rel='nofollow'>SecureDrop Workstation</a> based on Qubes OS, e.g., the dev and release build infrastructure for Debian and RPM packages, as well as CI and testing improvements. You will have the opportunity to work directly on improvements to the SecureDrop deployment story that make SecureDrop easier to maintain for news organizations that operate it.<br><br>For inspiration, check out this PyCon 2019 talk by one of our team members:<br><a href='https://www.youtube.com/watch?v=wRHi8Ui5vWA' rel='nofollow'>Building reproducible Python applications for secured environments</a>.<br><br><br></li><li><strong>Day-to-day infra maintenance</strong><br><br>You will also work with the infra team through the tickets of the day: upgrading services and base operating systems, investigating logs, responding to internal requests for infra help, and so on. We use a Kanban style workflow (using GitHub project boards) to keep the daily ticket workload manageable.<br><br>Because of the nature of our work, we tend to place higher emphasis on security in all these day-to-day tasks than most orgs. You’ll find us using encryption, hardened kernels, enforced 2FA, and similar security measures in many parts of the infra.<br><br>There is no formal on-call rotation, and tech emergencies are thankfully rare. FPF staff are generally quite self-sufficient when it comes to day-to-day IT needs, and our Digital Security Training team provides in-house training for new staff, as well.</li></ul><div><strong>Working with us</strong></div><div><br>Freedom of the Press Foundation serves its mission through three key program areas. We create open source technology like <a href='https://securedrop.org/' rel='nofollow'>SecureDrop</a>, which more than 65 news organizations use to communicate securely with whistleblowers. We provide digital security training to journalists. We monitor and report on press freedom violations in the United States and around the world.</div><div><br>We achieve this with a staff of just <a href='https://freedom.press/about/staff/' rel='nofollow'>21 people</a>. In this role, you will be working alongside our Site Reliability Engineer, Keturah Dola-Borg, and reporting to our CTO, Conor Schaefer. You will also work on developer environment changes and production deploys with Principal Web Developer Harris Lapiroff, and on security issues with our Security Engineer, Mickael E..<br><br></div><div><strong>To apply, please send a short cover letter and your resume to &lt;</strong><a href='mailto:jobs+devops@freedom.press' rel='nofollow'><strong>jobs+devops@freedom.press</strong></a><strong>&gt; by October 25, 2019. Please include links to your prior technical work where appropriate. Freedom of the Press Foundation is an equal opportunity employer. Non-binary individuals, women, and minorities are strongly encouraged to apply.<br></strong><br></div><div>The budgeted base salary range for this position is $90,000 to $110,000, but final compensation will depend on the successful candidate’s qualifications and prevailing payscale in their location.<br><br></div><div>Benefits of the job include a competitive nonprofit salary, trans-inclusive health (United Healthcare Select Plus) and dental insurance, 20 days of personal time off, 13 paid holidays plus the week between Christmas and New Year’s Day, 401(k) program with employer match, and commuter benefits. We are happy to answer any questions about these benefits. We value work-life balance, and we try to foster a kind, inclusive and collaborative culture. We strive to be disability- and family-friendly, and can work with you on a core/flexible hours workday configuration if necessary, as well as any other accessibility accommodations you may require.</div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "14Q6PzZGQUulh3raFne9lA",
     "url": "https://jobmote.com/job/87969/cloud-system-administrator-remote-telecommute-washington/",
     "title": "Cloud System Administrator (remote/telecommute) - Washington",
@@ -4998,6 +5251,54 @@
     "validThrough": "Sep 28, 2019 10:08:20 PM",
     "crawled": "Sep 26, 2019 3:06:32 AM",
     "content": "<div>Title: Sr. Azure AD B2C Engineer (w/IAM) Location: REMOTE - 100% Duration: 3-6-month contract Interview: Telephonic and Skype. MUST HAVE: 8 years Azure Development experience 2 years Azure Active Directory (AD) development experience Experience creating custom APIs for Experience building out greenfield (new, uncharted) solutions from Azure Active Directory B2C Experience working as Developer/Engineer within IAM space Responsibilities: Develop baseline solution for website SSO capabilities within Azure AD Decipher proper steps for identity authorization &amp; execute Create code to pass user information to cloud (Azure Active Directory) Integrate various applications used to host identity information to provide SSO capabilities Basically: Figure out HOW to do this, then do it - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "QBrvvCv8Rg2G2MFp6WV8dg",
+    "url": "https://jobmote.com/job/79604/remote-cloud-admin-puppet/",
+    "title": "Remote Cloud Admin - Puppet",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG_TECH1:k/t/w:drupal/php/5",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Concourse Group",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Sep 25, 2019 10:08:20 PM",
+    "validThrough": "Sep 28, 2019 10:08:20 PM",
+    "crawled": "Sep 26, 2019 3:06:32 AM",
+    "content": "<div>Remote position 95%. Some travel for conferences, meetings. Prefer Midwest location-based. Career Opportunity for IT Professional with 3-5 years experience in DevOps and Cloud Management - specifically must have Puppet expertise. Combination of background required in tool chain: Puppet, CentOS 7, Virtual Host, GIT, github, gitlab, Apache, Drupal, WordPress, MariaDB, AWS, EC2, Cloudwatch, RDS, S3, Linux Six month contract - to - HIRE. In-house full time role. Convert to direct employee at six months. Work for a hi-tech, friendly, mid-size national automotive marketing firm and grow your career in a supportive environmen for many years. (Sorry only GC EAD or TN or USC please) (corp to corp ok). Excellent balanced work environment with great management, benefits, and perks. (Sorry only GC EAD or TN or USC please - 3rd party ok) Duties: Work with Puppet and CentOS 7. Must be expert in Virtual Host Server Builds Create custom Modules Using a variety of modern software products, to merge code and manage source code repositories in GIT. Code configuration management Creating, maintaining and updating integration and deployment scripts and processes as technology evolves. BS Degree or equivalent experience encouraged to apply. Self-educated with 2-3 years of applicable experience acceptable. Certifications always a plus - provided by Dice</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -20114,442 +20415,6 @@
     "validThrough": "Aug 20, 2019 1:28:04 AM",
     "crawled": "Aug 13, 2019 2:09:42 AM",
     "content": "<div><h3>Distributed Systems Engineer</h3></div><div>Company: Daltix</div><div>Location: Lisbon, PT</div><div>Remote location: Partially remote</div>Level: Senior<br>Language: English <div>Full-stack Developer<br>Skills:</div><li>Infrastructure </li><li>OOP </li><li>SQL </li><li>Web Crawling </li><li>Web Scraping </li><h3>Intro</h3><p>We are looking for talented profiles to help build and maintain the distributed data collection system that is at the heart of our business.<br></p><p>We are a data-driven company which collects and processes more than 500GB of raw data daily. We leverage big data technologies such as Serverless, Spark on AWS EMR to crunch these volumes of data and make it queryable.<br></p><p>In this role, you will ensure that our data collection engine, which consists of distributed web crawlers, is state of the art and ahead of our competition. You will ensure that we can scrape any webshop, no matter the ban-detection that has been put in place.&nbsp;Then, it will be important that proper monitoring tools are in place. We are currently scraping 60 sites and your goal is to at least triple that without losing completeness and quality.<br><br></p><p><strong>Your responsibilities will include:</strong></p><ul><li>Creating and implementing Distributed web crawling architectures</li><li>Implementing cost-effective data processing architectures</li><li>Creating advanced system monitoring solutions &amp; dashboards</li><li>Designing advanced ways of interpreting scraped HTMLs</li><li>Managing advanced proxies<br></li></ul><h4>Main requirements</h4><ul><li>At least 5 years of experience in object-oriented software engineering &amp; design in any object-oriented programming language</li><li>Experience with and understanding of large-scale web crawling</li><li>Experience with databases, SQL</li><li>Experience with infrastructure such as load-balancers, caches</li><li>Highly proficient in spoken and written English</li><li>You never stop learning</li></ul><h4>Nice to have</h4><ul><li>Have experience building on top of Amazon Web Services</li><li>Have programming experience with Python</li><li>Expert knowledge of web-scraping &amp; web-scraping architectures</li><li>Experience with GoLang &amp; JavaScript (Node.js) is a plus</li><li>Experience with big data technologies (such as Hadoop, Spark, Airflow, Cassandra, Elasticsearch) is a plus</li><li>Have a deep understanding of cloud possibilities and limitations in the areas of distributed systems, load balancing and networking, massive data storage, and security</li><li>Get energy from working in a highly complex and challenging startup environment with a high tech product</li><li>Knowledge of DevOps &amp; automation (Terraform, Ansible)</li><li>Data analysis using Pandas (Python)</li></ul><p><br></p><h4>Perks</h4><ul><li>Work with the latest tech stack</li><li>We're a quickly growing company =&gt; you're personal growth can be huge too.</li><li>Health Benefits – Comprehensive coverage for medical needs</li><li>Meal allowance – Monthly meal card along with a fully stocked kitchen with enough coffee and fruits, along with monthly team drinks and dinners</li><li>Work-Life Balance – We trust you to know your schedule and work when you feel most productive</li><li>Learning and Development – Attend meet-up, conferences, and events that interest you and benefit your personal and career growth.</li></ul><p><br></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "MYSZDWK8RGWuuwW8J2eQXg",
-    "url": "https://jobmote.com/job/60485/remote-infrastructure-engineer/",
-    "title": "Remote infrastructure engineer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "VirtualVocations",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 12, 2019 10:41:21 AM",
-    "validThrough": "Aug 15, 2019 10:41:21 AM",
-    "crawled": "Aug 12, 2019 3:06:24 PM",
-    "content": "<div>An information technology company has an open position for a Remote Infrastructure Engineer. Candidates will be responsible for the following: Utilizing<br> Associated topics: equipment, infrastructure, ip, network, satcom, satellite, server, system engineer, system specialist, system technician</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "LebuPNmBTmOKQ2jJ3_BlTA",
-    "url": "https://jobmote.com/job/60473/telecommute-cloud-infrastructure-principal-engineer/",
-    "title": "Telecommute cloud infrastructure principal engineer",
-    "tags": [
-      "DBG:surround``3W(open, telecommut)",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/dotnet",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "VirtualVocations",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 12, 2019 10:41:21 AM",
-    "validThrough": "Aug 15, 2019 10:41:21 AM",
-    "crawled": "Aug 12, 2019 3:06:24 PM",
-    "content": "<div>has a current position open for a Telecommute Cloud Infrastructure Principal Engineer. Must be able to: Architect and provisio Windows and Linux environments</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "xkysS3UtTb6KBlc-CH8sOA",
-    "url": "https://jobmote.com/job/59536/systems-support-engineer-remote/",
-    "title": "Systems Support Engineer (REMOTE)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:windows/dotnet/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=16, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Jack Henry",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 11, 2019 10:07:22 PM",
-    "validThrough": "Aug 14, 2019 10:07:22 PM",
-    "crawled": "Aug 12, 2019 3:06:24 AM",
-    "content": "<div><strong>Job Description</strong> <br><br> Are you a Systems Support Engineer with a passion for the Cloud base Solutions? The Gladiator Network Service team is looking for a System Support Engineer to join our hosted solutions group. Gladiator is known for providing all of its Jack Henry branded clients with top tier network, system and cloud technologies as well as an excellent customer experience. We are looking for individuals who are self-motivated and love to work closely with our clients and develop strong relationships with their team members. Travel is up to 5% attend additional training and or a conference. <br><br> You will work with a team of 13 Engineers that bring various levels of expertise. You will need to be able to provide technical mentorship to ensure team collaboration and the ability to enhance over all team technical aptitude. The technical environment you will support is Windows Server based: utilize VMware / Cloud Solutions / Network Storage and Backup Solutions. You will provide technical troubleshooting support to all external Jack Henry customers remotely; utilizing VPN and or Cloud based technologies. You must possess excellent verbal and written communication skills as you will provide solutions to our customers via email and or phone. <br><br> Jack Henry provides strong opportunity for career progression not only within Gladiator but across the organization as well. The following are examples of where you could progress to: Solutions Architect / Project Management/ IT Security / Systems Engineer or progress within Network Engineer. If you are interested in this position, please apply on or before August 13, 2019. <br><br> This position can be based to work out of the following Jack Henry office location: Springfield, MO (Blackman location). <br><br><strong>MINIMUM QUALIFICATIONS</strong> <ul><li>Must have a minimum of 5 years of experience with in a systems administrator or systems engineering role.</li><li>Must have experience working in a Microsoft Windows Server 2008R2 or higher environment.</li> </ul><strong>PREFERRED QUALIFICATIONS</strong> <ul><li>Bachelor's degree</li><li>Cloud based solutions.</li><li>Must have experience in configuration, implementation and support with any of the following that are listed: End User Computing Technologies that include Virtual Desktop Infrastructure (VDI), VMware Horizon View or Citrix XenDesktop or any other Remote Presentation technologies.</li><li>Backup products such as: AppAssure &amp; Rapid Recovery.</li><li>Microsoft Exchange &amp; or Office 365 environments.</li> <li>Applicable technical certification(s) preferred (MCSE, MCITP, VMWARE VCP).</li><li>Dell EqualLogic SAN experience.</li> <li>Dell Server experience.</li><li>iSCSI storage network experience.</li><li>Operations experience within a Manage Service Support Product model.</li> <li>Experience within JHA banking software &amp; support.</li> <li>Must have experience in configuration, implementation and support with ESX/ESXi host servers.</li> </ul><strong>ESSENTIAL FUNCTIONS </strong> <ul><li>Installs current network operating system on new or existing devices and/or installs communication equipment including routers, switches and firewalls.</li> <li>Installs software on networking devices.</li><li>Provides phone support to employees or customers relative to networking technology.</li> <li>Analyzes network topologies to determine potential issues and makes suggestions for recommended changes.</li><li>Assists with the preparation of network assessments and certifications.</li><li>Installs current network operating server software on new or existing server-class hardware and/or installs communication equipment including routers, terminal servers, switches and firewalls.</li> <li>Installs supporting applications and peripherals on servers including tape backup hardware and software, email software, anti-virus software, etc. and/or implement technologies.</li><li>Installs user workstation hardware, operating software and various application software and/or pre-configured equipment.</li><li>Configures user IDs and customer-specific settings on servers and transfers data from the old environment to the new environment.</li> <li>Corresponds with customer and other divisions within the company to insure all customer concerns and issues are resolved in a timely manner.</li><li>Prepares statements</li> </ul><strong>Equal Employment Opportunity</strong> <br><br><em>Applicants for U.S. based positions with Jack Henry &amp; Associates must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is not available for this position.</em> <br><br><em>Jack Henry &amp; Associates, Inc. is an Equal Employment Opportunity/Affirmative Action Employer and maintains a Drug-Free Workplace.</em> <br><br><em>Females, minorities, veterans, and individuals with disabilities are encouraged to apply.</em> <br><br><em>#G</em><br><br></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "VdOTszjSRDec3InMyEPDGA",
-    "url": "https://jobmote.com/job/59535/cisco-network-engineer-remote/",
-    "title": "Cisco Network Engineer (REMOTE)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Jack Henry",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 11, 2019 10:07:22 PM",
-    "validThrough": "Aug 14, 2019 10:07:22 PM",
-    "crawled": "Aug 12, 2019 3:06:24 AM",
-    "content": "<div><strong>Job Description</strong> <br><br> Are you a Network Engineer with a passion for switching, routing and cloud based solutions? The Gladiator Network Service team is looking for a Network Engineer to join our hosted solutions group. Gladiator is known for providing all of its Jack Henry branded clients with top tier network, system and cloud technologies as well as an excellent customer experience. We are looking for individuals who are self-motivated and love to work closely with our clients and develop strong relationships with their team members. Travel is up to 5% attend additional training and or a conference. <br><br> You will work with a team of 13 Engineers that bring various levels of expertise. You will need to be able to provide technical mentorship to ensure team collaboration and the ability to enhance over all team technical aptitude. The technical environment you will support is comprised but not limited to, Cisco routers, switches, SD WAN/Cradle-point, Meraki Wireless/VPN concentrators, and telephony support centered around break / fix / moves / adds / changes. You will provide technical troubleshooting support to all external Jack Henry customers remotely; utilizing VPN and or Cloud based technologies. You must possess excellent verbal and written communication skills as you will provide solutions to our customers via email and or phone. <br><br> Jack Henry provides strong opportunity for career progression not only within Gladiator but across the organization as well. The following are examples of where you could progress to: Solutions Architect / Project Management/ IT Security / Systems Engineer or progress within Network Engineer. If you are interested in this position, please apply on or before August 13, 2019. <br><br> This position can be based to work out of the following Jack Henry office location: Springfield, MO (Blackman location). <br><br><strong>MINIMUM QUALIFICATIONS</strong> <ul><li>Must have a minimum of 5 years of experience working with Cisco routers and switches as a Cisco Network Engineer.</li> </ul><strong>PREFERRED QUALIFICATIONS</strong> <ul><li>Bachelor's degree</li><li>Cloud based solutions.</li><li>Experience in configuration, implementation and support with any of the following that are listed are preferred: Cisco routers, switches, SD WAN/Cradle-point, Meraki Wireless/VPN concentrators, and telephony support centered around break / fix / moves / adds / changes.</li><li>Applicable technical certification(s): CCNA, CCENT, CCT, CCDA, CCNP, CCDP, CMNA.</li><li>Operations experience within a Manage Service Support Product model.</li> </ul><strong>ESSENTIAL FUNCTIONS </strong> <ul><li>Installs current network operating system on new or existing devices and/or installs communication equipment including routers, switches and firewalls.</li> <li>Installs software on networking devices.</li><li>Provides phone support to employees or customers relative to networking technology.</li> <li>Analyzes network topologies to determine potential issues and makes suggestions for recommended changes.</li><li>Assists with the preparation of network assessments and certifications.</li><li>Installs current network operating server software on new or existing server-class hardware and/or installs communication equipment including routers, terminal servers, switches and firewalls.</li> <li>Installs supporting applications and peripherals on servers including tape backup hardware and software, email software, anti-virus software, etc. and/or implement technologies.</li><li>Installs user workstation hardware, operating software and various application software and/or pre-configured equipment.</li><li>Configures user IDs and customer-specific settings on servers and transfers data from the old environment to the new environment.</li> <li>Corresponds with customer and other divisions within the company to insure all customer concerns and issues are resolved in a timely manner.</li><li>Prepares statements</li> </ul><strong>Equal Employment Opportunity</strong> <br><br><em>Applicants for U.S. based positions with Jack Henry &amp; Associates must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is not available for this position.</em> <br><br><em>Jack Henry &amp; Associates, Inc. is an Equal Employment Opportunity/Affirmative Action Employer and maintains a Drug-Free Workplace.</em> <br><br><em>Females, minorities, veterans, and individuals with disabilities are encouraged to apply.</em> <br><br><em>#G</em><br><br></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "6tsH_q8yRdy_1Lq-ryGK_Q",
-    "url": "https://jobmote.com/job/59519/sr-it-network-engineer-remote/",
-    "title": "Sr. IT Network Engineer (Remote)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Talentify",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 11, 2019 10:07:22 PM",
-    "validThrough": "Aug 14, 2019 10:07:22 PM",
-    "crawled": "Aug 12, 2019 3:06:24 AM",
-    "content": "<div>Responsible for providing designer-level leadership to ensure the overall stability, integrity, and efficiency of assigned system(s) infrastructure including engineering, implementation and integration, and technical service and support.?? Apply proven communication, analytical, and problem-solving skills to help identify, communicate, and resolve highly advanced complex issues in support of business processing requirements. Anticipates and mitigates potential attacks through network or other connections to ensure the security of the system.?? Analyze business requirements to develop technical network solutions and their architecture framework.??<br><b>Job Functions</b><ul><li> Perform advanced network design engineering level functions in support of a multi-site enterprise environment.</li><li> Manage medium to large scale complex projects understanding the interaction between server, voice, applications and network throughout an enterprise environment.</li><li> Design company network architecture and detailed technical documentation</li><li> Design, implement and audit complex configuration changes across a multi-vendor environment. (Cisco, Fortinet, Juniper, Avaya, Brocade, Aerohive)</li><li> Work professionally and inter-actively with internal and external customers globally.</li><li> Must be able act as a point of escalation for complex technical troubleshooting scenarios.</li><li> Provide oversight and support in design, configuration, management and implementation of computer/network architecture environments, including LAN, WAN, VoIP, SD, and VPN.</li><li> Making decisions that are critical in the areas of throughput analysis, problem solving, and infrastructure planning with potential to affect the successful execution of business transactions</li><li> Advanced professional skill sets across multiple disciplines including IPS, AV, Web Filtering, VPN, SD WAN, Wireless, 3G/4G, VoIP, Server, Storage, Scripting and Virtualization</li><li> Experience in vetting updates through rigorous change management processes</li><li> Must possess the ability to discern information from forensics to determine RCA for outages and network events</li><li> Expert reading and understanding packet captures</li><li> Pro-actively maintain 24x7x365 reliable network operations including upgrading hardware/ software for critical business capabilities.</li><li> Coordinate with vendors to provide appropriate hardware to meet business requirements.</li><li> Required to configure, lift, and install equipment and servers which vary in weight up to 50 lbs</li></ul><ul><li> Design, implement and audit complex configuration changes across a multi-vendor environment. (Cisco, Fortinet, Juniper, Avaya, Brocade, Aerohive)</li><li> Work professionally and inter-actively with internal and external customers globally.</li><li> Act as a point of escalation for complex technical troubleshooting scenarios.</li><li> Provide oversight and support in design, configuration, management and implementation of computer/network architecture environments, including LAN, WAN, VoIP, SD, and VPN.</li><li> Make decisions that are critical in the areas of throughput analysis, problem solving, and infrastructure planning with potential to affect the successful execution of business transactions.</li><li> Pro-actively maintain 24x7x365 reliable network operations including upgrading hardware/ software for critical business capabilities.</li><li> Coordinate with vendors to provide appropriate hardware to meet business requirements.</li></ul><b>Qualifications:</b><ul><li> Bachelor???s degree in Management Information Systems, Computer Science or equivalent field.</li><li> Industry certifications such as MCSE, CCNP/CCIE, VCP, CEH,</li><li> Four or more years in the administration of corporate campus networks, including extensive experience with LAN/WAN, VOIP, Applications support and administration/architecture within a secure IT environment.</li><li> Knowledge of advanced networking/routing protocols and concepts.</li><li> Knowledge of network administration principles.</li><li> Knowledge of project management practices.</li><li> Experience configuring routing protocols and technologies such as BGP, OSPF, EIGRP, VPN, IPSEC, ICMP, NAT/PAT, ATM, and MPLS.</li><li> Multi-task and work effectively in a team environment to solve complex networking problems.</li><li> Lead, orient and cross-train employees or users regarding work procedures, department best practices, and proper use of resources.</li></ul></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "U0vdtZ3iSfay33uMnV66gA",
-    "url": "https://jobmote.com/job/59515/devops-automation-engineer-aws-partner-100-remote-125k/",
-    "title": "DevOps Automation Engineer - AWS Partner- 100% REMOTE - $125K",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:c#/c/4",
-      "DBG_TECH1:k/t/w:c#/dotnet/10",
-      "DBG_TECH1:k/t/w:java/java/8",
-      "DBG_TECH1:k/t/w:java/mobile/4",
-      "DBG_TECH1:k/t/w:python/python/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/8",
-      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=10, c=4, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TECH1/python",
-      "TECH1/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet",
-      "python",
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "Jefferson Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 11, 2019 10:07:21 PM",
-    "validThrough": "Aug 14, 2019 10:07:21 PM",
-    "crawled": "Aug 12, 2019 3:06:24 AM",
-    "content": "<div><b>DevOps Automation Engineer - AWS Partner- 100% REMOTE - $110K</b><br> Our client, a Premier AWS Partner is seeking a 100% Remote DevOps Automation Engineer to join their growing DevOps team. We're looking for candidates from a good programming background (specifically either Python, Ruby, Java or C#) and experience working within an AWS DevOps environment. You will be responsible for implementing automation solutions that help speed increase the speed of my clients customer's ability to deliver features to production<br><b>Tasks to be Performed:</b><ul><li>Integrate, Automate and Migrate on premise applications to AWS.</li><li>At least 1-2 years of programming experience in either of Python, Java, Ruby or C#</li><li>Familiarity with complete suite of AWS Services, with particular in those that are heavily used when providing DevOps Automation solutions, including tools like CloudFormation, EC2, Route53, S3, etc.</li><li>2-5+ years of technical experience in either development, operations, or full-stack implementations</li><li>Frequent and comfortable use of configuration management automation tools such as Chef. Puppet or Ansible creating continuous delivery systems</li></ul><b>Desired Skills:</b><ul><li>Strong experience working with AWS environment</li><li>Advanced skill set in programming in Python, Java or Ruby</li><li>Expertise in containerization with Docker or Kubernetes</li><li>Experience building pipeline with CI/CD tools Jenkins</li><li>AWS Professional Certification</li></ul> Interviews have already begun so if you are interested in applying or know someone who is please contact Vishank Mehta immediately at [Click Here to Email Your Resum?] with an updated resume, or call .<br> Jefferson Frank is the global leader for Amazon Web Services recruitment, advertising more AWS and DevOps jobs than any other agency. We deal with both AWS Partners &amp; End Users throughout North America. By specializing solely in placing candidates in the AWS and DevOps market I have built relationships with most of the key employers in North America and have an unrivalled understanding of where the best opportunities and AWS / DevOps jobs are. <br> I understand the need for discretion and would welcome the opportunity to speak to any Amazon Web Services candidates that are considering a new career or job either now or in the future. Confidentiality is of course guaranteed. For information on the AWS market and some of the opportunities and AWS jobs that are available I can be contacted on . Please see for more fantastic Amazon Web Services opportunities!<br><br>Jefferson Frank. is acting as an Employment Agency in relation to this vacancy. <br> AWS/DevOps/AWS DevOps/Amazon Web Services/ Engineer/Austin/Java / Python / Ruby / Jenkins/Docker/Leadership/Automation/<br></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "cI_q1r7qTPmuG_eT7Gg6kA",
-    "url": "https://jobmote.com/job/59502/servicenow-admin-developer-remote-50-travel/",
-    "title": "ServiceNow Admin/Developer - Remote - 50% travel",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=10}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "Nelson Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 11, 2019 10:07:21 PM",
-    "validThrough": "Aug 14, 2019 10:07:21 PM",
-    "crawled": "Aug 12, 2019 3:06:24 AM",
-    "content": "<div><b>ServiceNow Developer - Nashville, TN - Washington, DC - Sacramento, CA - Lower Manahattan, NYC</b><br> Our clients are in search of experienced ServiceNow developers to fill some great roles within their teams. You will have the opportunity to be a part of a strong team with a bright future in the ServiceNow partner landscape. Each of these locations has their own exciting opportunities and will bring different benefits to your lifestyle. Do you live in one of these cities? Are they your dream cities? Let me know and get your name in the ring for these great opportunities.<br><b>Responsibilities</b><ul><li>Enhancement and customization of ITSM modules including Incident, Change, Knowledge and others</li><li>Provide input on best practice to optimize the ServiceNow platform</li><li>Develop skills to implement ITOM and ITBM modules in the future</li><li>Work alongside a dynamic team that believes in ServiceNow to help mold the future of the company</li><li>Utilize skills and experiences gained in previous roles to optimize the platform</li></ul><b>Requirements</b><ul><li>Multiple years ServiceNow development experience</li><li>Extensive JavaScript and HTML scripting experience</li><li>Strong ITSM background in implementation, customization, and enhancements of the core modules</li><li>A willingness and excitement to grow in a role</li><li>Desire to learn through new experiences on a daily basis</li><li>Great attitude and enthusiasm to work in a team that will bring value to coworkers and the company as a whole</li></ul> Are you interested in new development techniques that will challenge you on a daily basis? This could be the perfect position for you. Nelson Frank has received a large amount of interest in this position and it will be competitive. If you see yourself in this position give yourself the opportunity to join this client.<br><br>ServiceNow, Service Now, Service-Now, JavaScript, HTML, AngularJS, Front End, Back End, Dev, Developer, Engineer, Admin, ITIL</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "iBamLqP8TXyVNPmRc0KYMA",
-    "url": "https://jobmote.com/job/59500/devops-engineer-remote-100k/",
-    "title": "DevOps Engineer - Remote - $100k+",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Nigel Frank International US",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 11, 2019 10:07:21 PM",
-    "validThrough": "Aug 14, 2019 10:07:21 PM",
-    "crawled": "Aug 12, 2019 3:06:24 AM",
-    "content": "<div>Nigel Frank International is working in partnership with a leading organization in the healthcare industry that is looking to hire a DevOps Engineer to work 100% remotely. They are seeking candidates with at least 3 years of experience working with Azure, strong scripting skills using Powershell, and experience working with Agile Methodologies.<br> As the DevOps Engineer, you will be working on projects that will both design and build infrastructure solutions that will have a direct impact on the growth of the company itself. You will also be expected to stay abreast on emerging industry trends, and available Azure cloud services and DevOps skills.<br> The role will be focused around Azure. If you're interested in robotics, passionate about DevOps, and have a strong PaaS background related to Azure, this role could be a great fit for you!<br><br>Required Skills/Experience:<ul><li> Degree in Information Technology or a related field. </li><li> At least 3 years of experience working with Azure. </li><li> Strong scripting skills using Powershell. </li><li> Experience working with Agile Methodologies. </li><li> Solid knowledge of GitFlow and CI/CD. </li><li> Experience both designing and implementing Azure services such as Containerization, PaaS and IaaS. </li><li> Knowledge of MVC is a plus. </li></ul>This permanent role is 100% remote with an added element of travel. The client is flexible on salary, and is offering a utilization-based bonus along with competitive benefits and PTO.<br> If this opportunity aligns with your skill set, please send a copy of your most up-to-date resume to Jordan at: [Click Here to Email Your Resum?] . This opportunity is brand new to the job market, and is expected to be filled as soon as possible. Act fast and register your interest so you don't miss out on this exciting opportunity.<br><br><b><em>*Please Note: This client is only considering candidates who are US Citizens or Green Card holders. Visa sponsorship is not provided for this role. </em></b><br></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "HpDbwFYMTyKd83T5M17NDA",
-    "url": "https://jobmote.com/job/59499/remote-devops-engineer/",
-    "title": "Remote DevOps Engineer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:ruby/ruby/4",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=13, c=2, mobile=2, go=0, nodejs=0, bigdata-ml=0, ruby=4, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Jefferson Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 11, 2019 10:07:21 PM",
-    "validThrough": "Aug 14, 2019 10:07:21 PM",
-    "crawled": "Aug 12, 2019 3:06:24 AM",
-    "content": "<div><em><b>Job Description</b></em><br> Premier Partner of AWS consulting with collaborative AWS DevOps Aumotation Eninggers includes designing applications and working with companies to digitally transform to a AWS DevOps environment. <br> You will employ industry leading Continuous Delivery patterns and collaboratively work with other members to execute them to achieve successful continuous delivery solutions.<br><br><b><em>Role &amp; Responsibilities</em></b><br> ? Collaboratively work with Advanced DevOps Automation Engineers and Senior DevOps Automation Engineers<br> ? You are required to travel to client locations and deliver DevOps consulting services when needed<br><br><em><b>Skills &amp; Qualifications</b></em><br> ? Technical experience in either development, operations, or full-stack implementations<br> ? Demonstrated programming capability in a high-level programming language such as Ruby, Python, Java, C# or other language<br> ? Providing continuous delivery solutions, preferably employing AWS<br> ? Demonstrated Linux or Windows command-line capability<br> ? Familiar with core suite of AWS Services related to DevOps, with particular depth in those that are heavily used when providing DevOps Automation solutions, including the Management and Deployment services such as AWS CloudFormation, OpsWorks and IAM<br> ? Experience establishing and employing Continuous Integration practices and tools such as Jenkins or other CI tools<br> ? Frequent and comfortable use of configuration management automation tools such as Chef (or other such tools) in creating continuous delivery systems<br><em><b>Benefits</b></em><ul><li>Medical, Dental, 401K + more</li><li>Honor System of Unlimited PTO</li><li>Support for more AWS certifications</li></ul>AWS,Amazon Web Services, Java, Python, Ruby, CloudFromation, ec2, s3</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
