@@ -1,6 +1,58 @@
 {
  "items": [
   {
+    "id": "LrM5cEggTe21zsbiWVLRMg",
+    "url": "https://jobspresso.co/job/lead-product-designer-3-3-3-2-2-2-2/",
+    "title": "Full Stack Developer, Data and Analytics",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "Mattermost",
+      "sameAs": "https://www.mattermost.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 12, 2019 11:31:10 PM",
+    "validThrough": "Oct 19, 2019 11:31:10 PM",
+    "crawled": "Oct 13, 2019 12:07:35 AM",
+    "content": "<h3> Full Stack Developer, Data and Analytics</h3><div>Developer<br></div><div>Anywhere<br></div><div>Company: Mattermost<br></div><div>Full Time<br></div><h4>Overview</h4><p>Mattermost, one of&nbsp;, provides an open source enterprise-grade messaging platform to the world’s leading organizations that allows teams to collaborate securely and privately anywhere. With over 10,000 server downloads / month our customers include Uber, Samsung, Affirm, The US Department of Defense and more. Our private cloud solutions offer secure, configurable, highly-scalable messaging across web, phone and PC with archiving, search, and deep integrations with hundreds of SaaS and on-premises technologies. Headquartered in Palo Alto, California, our company serves customers around the world with a distributed organization spanning the globe.</p><a href='https://medium.com/@it33/mattermost-joins-gitlab-in-yc-top-100-as-new-open-source-remote-company-cdcb0706e7eb' rel='nofollow'>Y Combinator’s top 100 companies</a><p>We&nbsp;&nbsp;high impact work, ownership, self-awareness and being focused on customer success. If these values match who you are, we hope you’ll learn more about&nbsp;&nbsp;and come talk to us!</p><a href='https://docs.mattermost.com/process/handbook.html#values' rel='nofollow'>value</a><a href='https://docs.mattermost.com/process/working-at-mattermost.html' rel='nofollow'>working at Mattermost</a><p>About the Role</p><p>Working in open source means your work is publicly visible. Your code will receive both credit and constructive critique from the community. With the right mindset and support these can lead to you a highly positive working environment and making the best engineering decisions of your career. Core committers include highly skilled volunteer developers from the community, staff employed by enterprises deploying and investing in Mattermost, as well as staff employed by Mattermost, Inc.</p><p>Read about our end-to-end recruiting process for core committers at:&nbsp;</p><a href='https://docs.mattermost.com/process/developer.html' rel='nofollow'>https://docs.mattermost.com/process/developer.html</a><p>We are looking for a full stack engineer with experience in data analytics and warehousing to help Mattermost continue to make effective decisions based on real-world data. This is a hybrid role spanning software development (both in-product and data collection infrastructure), data warehouse management, and business intelligence and analytics.</p><p></p><strong>Responsibilities</strong><ul></ul><li>Own and develop in-product telemetry and diagnostic functionality across the Mattermost codebases</li><li>Architect and implement robust systems for integrating high volume real-time data from multiple sources</li><li>Manage the data warehouse and write performant queries to support complex business intelligence requirements</li><li>Support marketing, sales and R&amp;D in identifying data requirements</li><li>Adopt devops philosophies for managing analytics infrastructure</li><li>Create and maintain architecture and systems documentation</li><p></p><strong>Requirements:</strong><ul></ul><li>Bachelor’s degree in Computer Science or related fields, or significant professional software development experience</li><li>Strong experience with or an ability to quickly become an expert in Go and Javascript</li><li>Demonstrable hands-on experience in&nbsp; in a data analytics or data warehousing role</li><li>Specific or comparable experience using Amazon Redshift, Segment and Chartio</li><li>Comfortable with both row-based databases and columnar stores, and how to define performant indexes and write efficient queries for both</li><li>Clear and confident communication skills, especially in writing</li><p></p><strong>Pluses</strong><ul></ul><li>Comfortable with GitHub, Jira, Jenkins, CircleCI</li><li>Experience with Salesforce and&nbsp; Zendesk as data sources and consuming data from SaaS application APIs.</li><li>Works effectively while remote, with the ability to travel 2-3 times per year for week-long off-site meetings with team members</li><li>Experience working in open source communities and analytics tooling</li><p>We’re looking for someone who wants to help us build the future of Mattermost and improve the way the world communicates. The right person in this role has the opportunity to have a huge impact on Mattermost the product, and its many users worldwide, but also on our open source community that has been key to Mattermost’s success. If this sounds like you – please apply!</p><div> <a href='https://jobs.lever.co/mattermost/78758f73-295d-40e2-9b74-fce5adb9fc61' rel='nofollow'>Apply for job</a></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "bFHhtkx4TPK2HjxU9_08lw",
     "url": "https://jobmote.com/job/88061/golang-developer-100-remote/",
     "title": "GOLANG DEVELOPER : 100% Remote",
@@ -4824,69 +4876,6 @@
     "validThrough": "Aug 21, 2019 10:17:25 PM",
     "crawled": "Aug 14, 2019 10:30:23 PM",
     "content": "<h3> Software Engineer - Tooling </h3><div><div>Platform.sh is looking for a cloud software engineer with a focus on building internal tooling.</div><div><br></div><div>We want people who are passionate, open, multicultural, friendly, humble and smart to join us and help this fast-growing, award-winning company to revolutionize the tech industry.</div><div><br></div><div>This is a remote position and occasional travel to cool places around the world like Paris, Barcelona, and the Carribean (just to name a few), may be required.</div><div><br></div><div>The heart of the mission is to make working for Platform.sh the most enjoyable experience possible by creating tools for our support, ops, and finance teams. We have lots of data pipelines, small machines, bots and apps. All neatly tied together. Humming. Robust. If you are a hacker at heart who enjoys many lean and clean projects, this could be an exciting opportunity for you.</div><div><br></div><div><strong>Mission</strong></div><div><br></div><div>With the other members of the internal tooling team you will propose, design and implement tools that bring joy to your future co-workers, remove manual labor, and create visibility.</div><div><br></div><ul><li>You will help maintain and improve existing tools.</li><li>You will participate in code-reviews of your peers, and seek out others to review your code and your designs.</li><li>You will help stakeholders express their needs and integrate them in our existing tools and pipelines.</li><li>You will spend time working on bug fixes and implementing feature requests with an extreme focus on usability.</li><li>Regularly commit and push your well-tested, documented and linted code to our internal Gitlab instance and watch with marvel as all tests pass green.</li><li>Write documentation explaining how to use and maintain the tooling.</li><li>Help deprecate tools that should no longer be there and update the documentation.</li><li>Participate in daily scrum calls over Google Meet.</li><li>Attend bi-weekly one-on-one meetings with your direct manager.</li><li>Hang around Slack and collaborate with some really cool, nice and competent people.</li></ul><div>&nbsp;<br></div><div></div><div><strong>Skills</strong></div><div><br></div><div>You are an excellent polyglot dev who likes testing, understands how an OS works, knows networking, how git works, grasps the constraints of a distributed system, and consumes API’s like a boss.</div><div><br></div><div>We expect most tools you write to be in Python and Golang. You are mindful of technical debt. You prefer lean solutions and (when it makes sense) use something that already exists. You would not fear implementing a green-field project when necessary. You would, without hesitating delete the same project when it is no longer useful.</div><div><br></div><div>This is a fully remote position where you will be directly reporting to our Director of Internal Tooling and have close interaction with our Infrastructure, Finance, Sales, and Customer Support teams. &nbsp;Prior experience with fully remote work is not required, but a command of written communication is the key to your success in this role.</div><div><br></div><div>Technologies: golang, python, php, aws, gcp, azure, debian, containers&nbsp;</div><div><br></div><div>Minimum Qualifications:</div><div><br></div><ul><li>Be proficient in Python and/or Golang.</li><li>Proficient with Git.</li><li>Good understanding of best-practices around API design (REST, GraphQL)</li><li>Experience with data pipelines</li><li>Proficiency with Amazon Web Service including (but not limited to) EC2, S3, Lambda, and cost reporting</li><li>Proficiency with Google Cloud Platform including BigQuery &amp; PubSub</li><li>Have a passion for writing really great documentation</li><li>Have a passion for usability</li></ul><div><br></div><div>Preferred Qualifications:</div><div><br></div><ul><li>Open Source collaboration experience</li><li>Experience with PHP</li><li>Experience with Microsoft Azure</li><li>Great knowledge of products like Metabase, Kibana and Grafana</li><li>Good networking background (routing/protocols)</li><li>Good grasp of practical security and cryptography</li><li>Good knowledge of how the Web works (Hacking Nginx with Lua a plus)</li><li>Good understanding of how database systems and search engines work</li><li>Mad Debian Skills. Sporting a Debian plaid cloth during the interview is not frowned upon</li></ul><div><br></div><div>Sound like a good fit? We’d love to talk to you! &nbsp;</div><div><br></div><div><strong>*This is a remote job! Work from anywhere!</strong><br></div><div></div><div>&nbsp;<br></div><div></div></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "It_9bms7TBuu4POR01DXeA",
-    "url": "https://remote.co/job/golang-developer/",
-    "title": "GoLang Developer",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:c#/c/4",
-      "DBG_TECH1:k/t/w:c#/dotnet/10",
-      "DBG_TECH1:k/t/w:c++/c/8",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
-      "DBG_TECH1:k/t/w:game-developer/gamedev/13",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:golang/go/48",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:unity3d/gamedev/16",
-      "DBG_TECH1:k/t/w:unity3d/mobile/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=18, c=17, mobile=10, go=51, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=29, php=5, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "SpringboardVR",
-      "sameAs": "https://springboardvr.com/"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 40,
-      "maxValue": 40,
-      "info": "",
-      "unit": "HOUR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 40 /Hour"
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 13, 2019 6:23:10 PM",
-    "validThrough": "Aug 20, 2019 6:23:10 PM",
-    "crawled": "Aug 13, 2019 6:23:43 PM",
-    "content": "<h3>GoLang Developer at <span>SpringboardVR</span></h3><div><span><i></i> Remote</span>         | <span> Freelance </span> | <span> International </span></div><div>            <p><strong>REMOTE</strong>&nbsp;· Toronto, Ontario, Canada · Development</p><p>SpringboardVR has a mission to make the best VR content available to everyone everywhere. Currently distributing the world’s best VR content to location-based entertainment venues, educational institutions, and enterprise organizations in over 45 countries, we are the global leader in VR distribution in the “out-of-home” VR space.</p><p>We are looking to expand our development team! Our development team is currently 9 people located across 5 countries working in PHP, Go, C#, and Javascript. Because we are a small team everyone has a chance to take ownership over different projects and products with control over all the technical decisions on how things get built. We love trying new things!</p><p>We are looking for a web and desktop developer to join our team who has experience with GoLang and preferably with experience building Web Applications and cross-platform desktop software (CLI).</p><p>This position will be very self-directed and we are definitely looking for someone who is a self-starter and is able to take any task and own it from start to finish. You will be working on and owning a variety of projects with us: Our in-house Content Distribution System, our Game Developer SDK for Unity and Unreal, as well as a CLI tool for Game Developers to push their titles to our platform.</p><p>This is a full-time contract position for 40 hours a week.</p><p>This is a fully remote position and we are a fully remote company! Our current development team is located across North America and Europe.</p><p>We are open to someone in any timezone, with a preference to North America and Europe.</p><ul><li>Extensive GoLang experience</li><li>Mid to Senior Experience</li><li>Appreciation for clean, reusable, and well-tested code</li><li>Can handle constructive criticism</li><li>GoLang Web Development Experience</li><li>GoLang Cross-Platform Desktop Development Experience (CLI Tools)</li></ul><p><strong>Nice to Haves:</strong></p><ul><li>Experience working with a fully remote team</li><li>SDK Development for Unity and Unreal</li><li>C#/.Net Experience</li><li>C/C++ Experience</li><li>GraphQL</li><li>Docker</li><li>Kubernetes</li><li>Automated Testing</li><li>Websockets</li><li>Understands Microservices</li><li>Database Design</li></ul><p><strong>This is a full-time contractor position with the possibility of becoming a salaried employee in the future for U.S. citizens.</strong></p><ul><li>Salary between $30 and $50 per hour</li><li>Working 40 hours a week with no overtime, we value work/life balance!</li><li>Paid every 2 weeks</li><li>Initially a 3 month trial period contract followed by a 1-year contract</li><li>Fully remote team</li></ul>        </div><div>        <a href='https://springboardvr.workable.com/j/6D07A29C21' rel='nofollow'>Apply for job</a>    </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
