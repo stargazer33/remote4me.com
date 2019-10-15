@@ -57,6 +57,64 @@
     }
   },
   {
+    "id": "RTqWfTA6RaC4KSLr12VmVQ",
+    "url": "https://vuejobs.com/jobs/879-senior-software-engineer-apply-your-frontend-skills-to-biotech-and-factory-automation",
+    "title": "Senior Software Engineer — apply your frontend skills to biotech and factory automation!",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:python/python/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/16",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=24, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=25}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Jonas Neubert",
+      "sameAs": "https://www.zymergen.com"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 14, 2019 3:50:34 AM",
+    "validThrough": "Oct 21, 2019 3:50:34 AM",
+    "crawled": "Oct 14, 2019 4:10:08 AM",
+    "content": "<h4>Senior Software Engineer — apply your frontend skills to biotech and factory automation!</h4><div>Company: Jonas Neubert<br></div> Location: Emeryville, CA, USA<br>Job type: Full-time<br>Skills: <li>Python</li><li>robotics</li><li>Vue.js</li><li>Vuex</li><li>D3.js</li><div>                    <h3>Job description</h3>                    <p><strong>Zymergen is hiring a</strong> <a href='https://medium.com/@ZymergenTechBlog/software-engineering-at-zymergen-228fa03fd0ff' rel='nofollow'><em><strong>Senior Software Engineer</strong></em></a> <strong>on our Automation team to help write the software that translates experiments designed by our scientists into actions performed by robots and automated laboratory equipment. For this role we are looking for a &quot;full stack&quot; generalist who has the experience and interest to be our team's frontend expert.</strong></p><p>Zymergen’s Automation team is building the technology for a reconfigurable, highly automated <a href='https://www.youtube.com/watch?v=hbXOIuTvEJ8' rel='nofollow'><em>industrial microbe factory</em></a>. Combined with the work done by our colleagues who are geneticists, data scientists, research associates, and many other disciplines, our work leads to new chemicals with properties <a href='https://youtu.be/1X9Npq2eQxo?t=275' rel='nofollow'><em>unlike anything that can be derived from petroleum</em></a>.</p><h4><strong>ABOUT THE JOB</strong></h4><p>You will contribute to the code that controls the many different <a href='https://medium.com/@ZymergenTechBlog/the-case-for-modular-lab-automation-c34f214e1276' rel='nofollow'><em>types of machinery that make up our microbe factory</em></a>, adding support for new equipment types, improving the user interfaces for scientists, scaling the scheduling software to support larger transport systems, improving observability tools to monitor the factory, and generally working towards support for more complex automated workflows.</p><p>We call this role “Software Engineer” and not “Automation Engineer” on purpose: Our tech stack combines a modern web tech stack with a few cherry-picked components you’d find in a traditional process control system. Our codebase currently contains REST APIs served by Django apps, Vue.js for user interfaces (and simple Django forms with sprinkles of jQuery for others), Python’s asyncio in worker processes, and a collection of device drivers (also written in Python). Our infrastructure includes Kubernetes, Puppet-managed EC2 nodes, Kafka, MySQL, as well as a few Windows machines and PLCs.</p><p>The project you will start on has been in flight for two years. Some days you will be working on a brand new service to add a major new feature. On other days you will be fixing bugs or troubleshooting misbehaving robots in production (you might be wearing a lab coat). We use two-week sprints to structure our work, with every team member being responsible for keeping track of one or two ongoing efforts. Who works on what is driven just as much by our current skills as by what we want to learn.</p><p>One specific area our team is trying to get better at is frontend development and we hope that you can play a role in that. Be prepared to spend 50% or more of your time designing and implementing user interfaces. All our users are internal to Zymergen: They include scientists who need to tell the robots what to work on, support engineers who troubleshoot misbehaving robots, and managers who rely on <a href='https://medium.com/@ZymergenTechBlog/visualizing-automation-usage-at-zymergen-970440a58568' rel='nofollow'><em>utilization data from our dashboards</em></a>.</p><h4><strong>ABOUT YOU</strong></h4><p>You have several years of experience working in technical software development role (SWE, SRE, web dev, etc). We do not expect you to have prior experience in the biotech industry or in working with robots. To make sure we can get you up to speed quickly on those things, you’ll need to bring a solid fundamental knowledge and recent hands-on experience with software development, working in a team, and the two foundational languages in our tech stack: Javascript and Python.</p><p>You might have a CS degree, or not. (If you do, you would be the first team member who has one.) We want to hear the stories about how you used your skills in thoughtful and interesting ways, whether you learned them in a school or elsewhere.</p><p>We are looking for a software engineer who cares about the product we are building at least as much as the code they are writing. Nobody gets micromanaged in our team, even junior engineers own complete problems and participate in architecture decisions and project management. Because you join the team as an experienced engineer, we expect you to be comfortable dealing with ambiguity and ready to mentor others to become excellent at it too.</p><p>In addition to writing code every day, you will review the work of others both at the design and implementation stage, design significant new features and infrastructure from scratch, and help maintain and prioritize our backlog and road map. When we deploy our work to a prototype system, you will be hands on with testing and troubleshooting, even in situations when it’s not clear if the problem is software or hardware or biology.</p><p>You will be the sixth member of a team of people who are excited to both introduce you to our tech and to learn from you! When you arrive, we will have an onboarding plan that gets you ready for working on critical path features and the gnarliest bugs within two or three months. We will save you a spot in the schedule for our biweekly chalk talk lineup, too!</p><p>A note on logistics: This is <em>not</em> a remote job. At least some of your work will involve (expensive!) machines which are located in our laboratories in Emeryville, CA. Emeryville is one of the biotech hubs in the Bay Area’s “tech industry” and easy to commute to: Zymergites bicycle or ride public transit from Berkeley and Oakland, take the train or company shuttle from the South Bay, and BART or drive from SF. We don’t have fixed working hours: Most of us meet in the office on most weekdays. Most meetings happen between 11am and 4pm, if you work from home you can always videocall in.</p><p>Legal authorization to work in the U.S. is required. Zymergen may agree to sponsor an individual for an employment visa now or in the future if there is a shortage of individuals with particular skills for this job. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.</p>                </div><a href='https://boards.greenhouse.io/embed/job_app?for=zymergen&amp;token=1754529' rel='nofollow'>Apply now!</a>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "J38CV7NASxayKMDVSKZu1w",
     "url": "https://www.remotepython.com/jobs/cbc5105b52e549a2947122291a83ef4a/",
     "title": "Senior Python Developer at CVEDIA",
