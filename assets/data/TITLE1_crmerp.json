@@ -1,6 +1,265 @@
 {
  "items": [
   {
+    "id": "V001qCLATLGKv-oJbqMadQ",
+    "url": "https://jobmote.com/job/90634/salesforce-developer-docusign-conga-composer-remote-option-olympia/",
+    "title": "Salesforce Developer(DocuSign,Conga Composer)-Remote Option - Olympia",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:composer-php/php/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=8, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Computer Consultants International, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 15, 2019 10:07:48 PM",
+    "validThrough": "Oct 18, 2019 10:07:48 PM",
+    "crawled": "Oct 16, 2019 3:06:31 AM",
+    "content": "<div><b> Company Description</b><br><br><b> Computer </b> <b> Consultants </b> <b> International</b> , Inc. (CCI) is an IT Consulting Firm with more than 18 years experience providing effective, expert-level services in industries such as Construction, Technology, Finance, Healthcare, and Government. CCI focuses on building long-term relationships while completing projects from design to delivery. People are CCI's key component for success. Recruiting utmost-quality individuals for our clients, CCI fields a workforce of individuals who are selected not only because of their technical qualifications but also for their achievements as substantial, contributing human beings. In government work and in the commercial market, high standards of ethics and accountability are critical. Therefore our people are chosen for their integrity and ability to maintain relationships, as well as expertise in their field. To learn more about CCI, visit us online at .<br><b> Job Description</b><br><br>CCI has a Client who is seeking Contractors interested in developing a prototype for Phase 1 of an Agriculture Information Management System (AIMS) lands using the Salesforce platform. <br> If the prototype is successful, the Agency may elect, at its own discretion, to implement and even build on some of the configuration developed during Phase 1 to further implement AIMS functionalities (Phase 2, 3 and 4). <br> Client is responsible for managing over 1.1 million acres of Trust Lands and water resources available for lease for agriculture and grazing activities. The core of the programs business activities revolves around the management and administration of more than 1,600 active leases, a diverse water portfolio, and a commodity program. <br> Client agricultural lease process consists of many interrelated or loosely related sub‑processes contained within a complex environment. Much of the complexity is due to statutory requirements and factors outside of Client control. Parcels have numerous improvements, buildings, crops, water rights, grazing, and much more contained within them that must be tracked, reviewed, documented and/or measured. Leases themselves are complex legal documents that require multi stage approvals, careful construction, and communication with outside parties. While there is inherent complexity, the process in use today adds complications of its own, which have grown over time: Several independently designed and developed enterprise systems, which act as data silos.  Complex workflows orchestrated via spreadsheets and email as the primary tracking, status and notification tools.  Lack of process uniformity across regions.  Lack of overall visibility at every level. To implement a streamlined Agriculture Information Management System (AIMS), the Program needs to implement document management best practices, automate document generation through leveraging existing corporate databases, provide solutions for managing a water portfolio and a commodity program, and integrate the various business activities within a unified environment to address workflow challenges. <br> The Program envisions the software solution: To be built on the Salesforce platform - a cloud based solution.  To be highly configurable and require minimum custom development.  To connect and consume data from DNR's corporate databases (Oracle, SAP).  To leverage the Environmental Systems Research Institute (ESRI) technology to view and query spatial information.  To be compatible with mobile technology (Android, iOS) to support field based data collection associated with site inspections in a disconnected environment (data syncing features). <b> Scope of Work </b> <br> This project is divided into four separate and distinct phases, each with its own set of objectives and deliverables. As each phase concludes, detailed objectives and deliverables will be re-adjusted based on the previous phase's accomplishments. <br><b> Phase 1: Prototype Development </b> <br> Software prototyping is the activity of creating a version of a segment of the software being developed. It is expected that the Contractor will implement a working prototype as a proof-of concept to demonstrate how the proposed technology and solution can be used to develop AIMS. <br> The DNR and the Contractor will work together to select a subset of functionalities listed in Appendix 1 for Module 1 and 2 to implement into the prototype. <br><b> Phase 2: Module 1 and 2 Implementation </b> <br> This phase is considered the Core Modules of the system and is contingent on the outcome of the Prototype Development in Phase 1. They represent the largest win for DNR since their implementation brings modern best practice based content management and business process workflow capabilities to a largely manual and ad‑hoc process. They also form a foundation for future efficiency work within Agency. <br> Module 1. Content Management, Storage, and Contract Document Automation <br> To be built on content management best practices and leveraging modern tooling to provide an enhanced user experience. The module contains three parts: Content Management, Content Storage, and Contract Document Automation. Working documents associated with parcels and contracts will be housed in a central unified database accessed through a web based interface. Database will allow users to search and retrieve information relevant to active contracts and enter information to progress through the contract administration and management lifecycle. A document automation feature will allow users to create contract documents based on a user generated library of contract provisions (parts) with configured security around parts to allow or prevent modification. Contract documents will be automatically generated by a user based on associated lease type populating with Metadata entry and/or data existing in NaturE, selecting unique parts, populating data object fields, and automatically generating the contract document. Maintenance, editing, and construction of contract provisions, and data fields necessary for metadata entry will be easily configurable inhouse by the system administrator. <br> Module 2. Workflow Routing and Filing <br> Module 1 and 2 combined will replace many manual processes, allow for work to be conducted in the field within a mobile environment, provide connectivity across the Programs business processes, and ensure correct links and relationships between all documents and user interactions that make up a lease file will be managed together as a set. The combination of data and relationships that make up the data model is core to providing increased visibility and search functionality the Program desires. The solution will replace the need for staff to maintain spreadsheet based personal tracking mechanisms existing independent of the business enterprise requiring redundant data entry. The module will address tracking to show document location, at-a-glance dashboards of work queues, and task lists. The solution should provide modern workflow rich functionality, complex participant chains, audit trail, sending work &quot;backwards&quot; for corrections without rejecting outright, version control, implementation of deadlines, reminder system, actionable e-mail notifications, parallel assignments, random QA checks as well as electronic signatures. <br><b> Phase 3: Module 3 Implementation the Commodity Management </b> <br> The Commodity Program process is a combination of several different business activities such as procurement, logistics, accounts payable, and accounts receivable. The commodities management process is largely created in-house and does not provide visibility into the process for effective means of reporting on the transactions and data therein. Management challenges arise because the program blends areas such as creation of suppliers, creating invoices, and paying invoices which are traditionally managed by different levels of authority. Module 3 will address the core inventory and sales of commodities by moving away from a spreadsheet-based approach isolated from the business enterprise with a solution that will allow greater controls and visibility into the process. Much of the work in the commodities program is orthogonal to the work on agricultural leases. For those areas where close involvement with the lease process is necessary, this module will integrate with Module 2 to allow for commodity staff involvement as needed in the process. During design and implementation of the Module 2, the participation of the Commodity Specialist should be included as work performed in that module. <br><b> Phase 4: Module 4 Implementation of the Water Portfolio Management </b> <br> Water portfolio management considerations are similar to the commodity program process wise. While water portfolio activities are included in the lease management and administration process itself, there are many other actions associated with water that may happen at any point during the lifecycle of the lease as well as activities that happen independent of the leasing process. Current management process involves a hybrid use of spreadsheets, SharePoint, and physical files. The Program utilizes existing outside databases administered through the Washington State Department of Ecology. These databases are integral for the management of the water portfolio, The Water Program module consists of two parts, mobile data collection and database management for tracking/reporting. <br><b> Qualifications</b> A minimum of three (3) years of recent experience with advanced technical architecture for complex Salesforce development.   A minimum of three (3) years of recent experience and demonstrative knowledge, skills and abilities developing and implementing workflow..... click apply for full job details</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "R2-oYijiQy6VGz2C6KS1nw",
+    "url": "https://jobmote.com/job/90632/senior-salesforce-developer-remote/",
+    "title": "Senior Salesforce Developer - REMOTE",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:backbone.js/frontend/8",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=13, c=10, mobile=1, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=29}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Plus Consulting",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 15, 2019 10:07:48 PM",
+    "validThrough": "Oct 18, 2019 10:07:48 PM",
+    "crawled": "Oct 16, 2019 3:06:31 AM",
+    "content": "<div><p></p><p><b><b>Senior Salesforce Developer - REMOTE </b></b></p><p><b>Join Our Team!</b></p><p>We are Plus+, for 20 years, our company has believed in the transformative power of information to help people and businesses thrive. We empower our clients by focusing on their business objectives in order to deliver appropriate holistic technology solutions, bridging the gap between business and technology.</p><p><b>Our Culture is dynamic!</b></p><p>We are committed to being a â€œPeople Firstâ€ organization and we strongly believe that the success of our team also empowers our organization to excel as a whole. Plus+ is consistently recognized as a â€œBest Workplaceâ€ by Pittsburgh Post-Gazette, has been featured as one of â€œPittsburgh's Coolest Officesâ€ by Biz Journal and was also a finalist for â€œCulture Leader of the Yearâ€ by the Pittsburgh Technology Council. Our fun and collaborative culture encourages our people to do their best work every day and we strive to recognize individuals on their strengths by providing opportunities for growth, including certifications and continuing education. We take pride in enabling our people to make decisions daily that contribute to their career, wellness &amp; confidence.</p><p><b>What's Your Role:</b></p><p>Plus is seeking a Senior Consultant/Developer, that will contribute to identifying, communicating, and solving highly visible business practices, processes, and technology issues for our clients. The Senior Consultant/Developer will participate in delivering business solutions in a team oriented, collaborative environment. The focus of the senior consultant is to participate in design, solution architecture, technical architecture, and development and implementation efforts of business solutions.</p><p><b>How You'll Contribute:</b></p><p><b>Provides consulting services</b></p>Guides clients and team members to resolve requirements of varying complexityDetermines implementation options using best practices approachArchitects technical solutions to the appropriate needs of the client, based on Salesforce platform and client IT environment, both internally and cloud basedAnalyzes client data requirements and interprets into migration and/or integration transformation specificationsDevelops, unit tests and modifies Apex code using structured methodologyDevelops and deploys solutions that meet client requirements in a scalable and repeatable mannerProvides clear and concise estimates to sales and delivery teams<p><b>Communicates clearly and consistently</b></p>Provides ongoing communication to team members, management and clientsCommunicates with clients to provide updates on inquiries across projects and support initiativesParticipates in team meetings and updates internal systems in a timely manner<p><b>Meets professional standards</b></p>Develops quality deliverables and provides guidance to others on deliverablesAdheres to project deadlines and commitmentsExceeds customer expectations of professionalismStrives to remain technically proficient in technology innovations<p><b>Acts as a client advocate</b></p>Understands business value in solutionsBalances client requirements against competing efforts and project risk factors<p><b>What's Needed for Success: (Skills/Experience/Education)</b></p><p><b>Required Skills: </b></p>Experience with custom development using the Force.com platform including Apex, Visualforce, SOQL and SOSLExperience with Java, C#, C++, .NET or other related languages, and experience with developing enterprise applicationsExperience with relevant scripting, mark-up &amp; styling languages (JavaScript, HTML, XML, CSS, etc.)Proficiency in Salesforce.com declarative configurationSkilled at analyzing, troubleshooting and solving problemsExperience with development methodologies and conceptsUnderstanding of enterprise solution architecture as it pertains to scalability, systems integration, etc.Extensive experience with relevant IDEs, deployment methodologies, and system testingDemonstrated ability to learn quickly in a rapid-paced environmentExcellent bidirectional verbal and written communication skillsExperience using common business applications (Microsoft Office Suite)Strong desire to learn new industries and technologiesAbility to adapt to new challengesAbility to prioritize tasks, work on multiple assignments, and manage ambiguityAbility to work both independently and as a part of a team with professionals at all levels<p><b>Preferred Skills:</b></p>Salesforce.com certification (Platform Developer)Experience working with modern MV* JavaScript frameworks (Angular, Backbone, Ember)Understanding of web design and related web services (particularly REST and SOAP)Required Experience:3+ years working as a business consultant or technical liaison in an internal or external capacity2+ years leading CRM system implementation efforts using an SDLC methodology<p><b>Education:</b></p>Bachelors of Science or Bachelors of Arts degree (Computer Science, Engineering or MIS preferred)Relevant product &amp; technology certifications<p><b>Learn more about our Careers:</b></p><p></p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "OCicgH-qQ8aHHmBCAgnNsw",
+    "url": "https://jobmote.com/job/90623/sap-ui5-developer-germany-40-remote/",
+    "title": "SAP UI5 Developer - Germany - 40% Remote",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/crmerp",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Red - The Global SAP Solutions Provider",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 15, 2019 10:07:47 PM",
+    "validThrough": "Oct 18, 2019 10:07:47 PM",
+    "crawled": "Oct 16, 2019 3:06:31 AM",
+    "content": "<div><p><strong>SAP UI5 Full Stack Developer - Germany - 40% Remote</strong></p><p>For one of RED's international customer, we are looking for SAP UI5 developers to work on a ongoing implementation based in the Niedersachsen area in Germany</p><p>Their main task is the support via SAP UI5 in the context of a complex project.</p><p><strong>Tasks:</strong></p><ul><li>Custom App Development (details on request)</li></ul><p><strong>Skills Reqiured:</strong></p><ul><li>5+ years experience SAP UI5</li><li>Ideally has Back End and Front End experience in SAP Ui5</li><li>Desirable: OData, CDS Views</li><li>Strong communication skills in German and English </li></ul><p><strong>Project details:</strong></p><ul><li>Start: October/November 2019</li><li>Duration: 6 -12 months (+ extension option)</li><li>Workload: Full time/40% Remote work </li><li>Location: Niederachsen Area - Germany</li><li>Language: German/English </li></ul><p>Telephone interviews with our customer can be arranged at short notice, with quick decision afterwards.</p><p><strong>If you are interested in this project please apply with your up to date CV or email (see below) </strong></p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "7b4Ow_t8RyaRWigl9b6t9w",
+    "url": "https://jobmote.com/job/90604/salesforce-commerce-cloud-remote-senior-developer/",
+    "title": "Salesforce Commerce Cloud - Remote - Senior Developer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/26",
+      "DBG_TECH1:k/t/w:css/frontend/6",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=42}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "Stott and May",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 120000,
+      "maxValue": 120000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 120k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 15, 2019 10:07:45 PM",
+    "validThrough": "Oct 18, 2019 10:07:45 PM",
+    "crawled": "Oct 16, 2019 3:06:31 AM",
+    "content": "<div>Senior Salesforce Commerce Cloud/Demandware digital developer required to help architect and implement small to large solutions within the full SFCC technology stack. You will be responsible for informing the business of feasibility, timelines and potential risks as well as being well-versed in back-end development such as API integrations or SFCC jobs, but able to handle complex, front-end experiences as well. Being self-directing, highly motivated and creative you are a true problem solver! In return you will have the opportunity to join an established, yet growing, e-commerce team that are pushing the boundaries of the SFCC platform, and having some fun whilst doing it. Role Responsibilities: Building solid HTML/CSS, cross-browser, cross-device compatible pages Developing and maintaining optimized Demandware templates and pipelines/controllers Drive initiatives to continually enhance and optimize the front and back-end e-commerce codebase for speed and flexibility Architecting high-level code structures / pattern usage Troubleshooting bugs within a complex, global code base Qualifications : 5+ years of experience as a web developer, 3+ years Demandware/SFCC required Mastery of XHTML, CSS, JavaScript; Cross-browser compatibility, W3C compatibility Significant experience creating new logic in at least one back-end coding language Architected and lead completion of several large projects (integrations, APIs, refactoring, etc.) Familiarity with code repository systems, Git preferred Experience with JavaScript Frameworks such as jQuery Understanding of and experience with mobile and web-based design constraints, editors, browser platforms and their differences A full role description is available on request. This role can be entirely remote with 2 or 3 site visits (fully expensed) per year for important project milestones etc. Salary up to $120K + bonus &amp; excellent benefits. If this sounds like something that you would be interested in please return a resume now for a prompt response. Interviews available for immediate start. I look forward to speaking with you in due course.</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Ygtv-zxZSQmxMvtjLbGTig",
+    "url": "https://jobmote.com/job/90617/sap-b1-hana-consultant-6-month-contract-partial-remote/",
+    "title": "SAP B1/ HANA Consultant 6 Month Contract Partial remote",
+    "tags": [
+      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
+      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Michael Page Technology",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 15, 2019 10:07:46 PM",
+    "validThrough": "Oct 18, 2019 10:07:46 PM",
+    "crawled": "Oct 16, 2019 3:06:31 AM",
+    "content": "<div><p>SAP B1 consutlant is sought for a bespoke organisation on a 6 month contract basis for an immediate role. The client can offer some remote element to this role in order to attract the best type of talent.</p> <p><strong>Client Details</strong></p> <p>The client is a software house that is implmenting SAP B1 and migrating from a sage system.</p> <p><strong>Description</strong></p> <ul><li>To migrate our data from Sage 200 SQL to SAP B1 HANA.</li></ul><ul><li>To configure reports and automations.</li><li>To assist in delivering training to our team.</li></ul><p><strong>Profile</strong></p> <p>Requirements: </p> <ul><li>Strong Business One experience, ideally SAP B1 Certified.</li><li>Appreciation of business process gained in an operational environment.</li><li>Experienced in writing up and understanding Blueprint, Scope of Work and Change Request documents.</li><li>SAP HANA experience.</li><li>Advanced SQL &amp; Crystal Reports knowledge.</li><li>Data migration and advanced DTW experience. </li><li>Boyum B1UP and Print &amp; Delivery customisation experience. </li><li>Produmex WMS experience. </li></ul><p><strong>Job Offer</strong></p> <p>The client can offer an immediate start if required and some flexibility, remote working etc</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "8PDP2iDWRS6ZTHG7tK8P6w",
     "url": "https://jobmote.com/job/90468/remote-salesforce-developer/",
     "title": "Remote Salesforce Developer",
@@ -7858,155 +8117,6 @@
     "validThrough": "Aug 19, 2019 10:07:29 PM",
     "crawled": "Aug 17, 2019 3:06:25 AM",
     "content": "<div><b>Dynamics AX/D365 Functional Consultant - Finance - Remote</b><br> A distinguished client of Nigel Frank's is currently looking for an experienced consultant to add to their in house team. Must have expertise in financial modules, excellent client facing skills and willingness to travel. This is a great opportunity to enhance your career with Dynamics AX as well as distinguish your skills in the finance realm. This role will include responsibilities such as running implementation projects and perform consulting responsibilities by regularly meeting with the client and project team to ensure a successful project.<br><br><b>Minimum Requirements:</b><ul><li> At least 4 years of AX </li><li> At least 1 D365 FLC implementation </li><li> Willingness to travel within the US (50%-75%) </li><li> Undergraduate degree (preferably with Information Systems, Accounting, Finance or relevant field) </li><li> Strong business acumen </li><li> Management Report Writer, Atlas, or Power BI experience </li><li> CPA is highly desired </li></ul> The benefits for this position include competitive salary of up to $130k (negotiable upon experience), competitive health-care, benefits package, chance to work 100% remote as well the chance to work with a large recognized Microsoft Partner.<br><br>To fast track your resume please call Alison Denham at or email: [Click Here to Email Your Resum?] with your updated resume.<br><br>Nigel Frank International is the leading Microsoft recruitment firm in the US, posting more Microsoft AX jobs than any other agency. We deal with both Microsoft partners and End Users throughout the US and Europe and we have never had more live requirements for Microsoft Dynamics Professionals. By specializing solely in placing candidates in the Microsoft Dynamics market I have built relationships with most of the key employers in the US and have an unrivaled understanding of where the best opportunities and jobs are.<br></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "i8Mi_R4lSKSXZOtcbz04SA",
-    "url": "https://jobmote.com/job/62257/senior-salesforce-developer-remote-up-to-150k/",
-    "title": "Senior Salesforce Developer - REMOTE - Up to $150K",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG_TECH1:k/t/w:c++/c/8",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=8, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/c",
-      "TITLE1/crmerp",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "c"
-    ],
-    "hiringOrganization": {
-      "name": "Mason Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 150000,
-      "maxValue": 150000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 150k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 15, 2019 10:07:37 PM",
-    "validThrough": "Aug 18, 2019 10:07:37 PM",
-    "crawled": "Aug 16, 2019 3:06:25 AM",
-    "content": "<div>Senior Salesforce Developer- Salesforce.com - REMOTE - Up to $150 Annual<br><br>Salary: Up to $150K Annually<br> Location: USA, Remote<br> Technology: Salesforce.com Jobs<br> Job Type: Permanent<br> Date Posted: July 22 nd , 2019<br><br>Salesforce.com Partner seeking a unique Senior Developer who is fluent enough in SFDC programing and SFDC best practice to enhance their team as a Senior SalesforceDeveloper. The right candidate will be able to create and manipulate custom code at will and will be an expert with Apex and Lightning. Experience with Community Cloud would be a huge plus. The ability to meet fiscal and interval deadlines and meet with key business stakeholders are required.<br> This role calls for a true SFDC technical expert and a deep passion for Salesforce.com. Interpersonal will be key to success in this role, in addition to providing premier custom SFDC solutions.<br><br>Requirements/ Responsibilities:<ul><li>5+ years previous development (Apex/Lightning) experience with Salesforce.com</li><li>Experience working with a Salesforce Partner would be a huge plus</li><li>Expert knowledge of SFDC best practice</li><li>Proficiency in HTML, XML, JavaScript, ASP, SQL, Java or C++, SOAP-based web services, JSON</li><li>4+ years SFDC 3rd party application exposure</li><li>Strong understanding of development design patterns</li><li>Demonstrative success with at least one large Salesforce.com integration project</li><li>Experience building complex, scalable, and high-performance software systems that have been successfully delivered to customers</li><li>Strong attention to detail, problem-solving skills, and verbal/written communication</li><li>Experience working as part of an agile development team</li><li>Certified Force.com Developer (Platform Developer I) or equivalent experience</li><li>Certified Force.com Advanced Developer (Platform Developer II) or equivalent experience</li></ul>CONTACT:<br> Brett at Phone: 212 - 594 - 1495 Email: [Click Here to Email Your Resum?] <br> Website: <br><br>Mason Frank International is the global leader for Salesforce.com recruitment and advertising. We have finalized more Salesforce.com jobs than any other agency. We deal with both Salesforce.com Partners &amp; End Users throughout North America. Specializing solely in placing candidates in the Salesforce.com market, I have built relationships with many of the key employers in North America. My knowledge and understanding of where the best opportunities and Salesforce.com jobs are is unrivaled in the industry.<br><br>Salesforce/CRM/Salesforce Senior Developer/Salesforce.com /ADM201/DEV401/DEV501/Remote/Virginia<br><br>Senior Salesforce Developer- Salesforce.com - REMOTE - Up to $150 Annual</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "C1hSFPsARsiqaV_sGp1msQ",
-    "url": "https://jobmote.com/job/62256/salesforce-developer-100-remote-100k/",
-    "title": "Salesforce Developer- 100% Remote- $100k+",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
-      "DBG:surround``remot 3W 2W( OR(qualifi, except), candid)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/crmerp",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Mason Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 15, 2019 10:07:37 PM",
-    "validThrough": "Aug 18, 2019 10:07:37 PM",
-    "crawled": "Aug 16, 2019 3:06:25 AM",
-    "content": "<div><b>Salesforce Developer- 100% Remote- $100k</b><br> A reputable Non-Profit client of ours is looking for a full time Salesforce Developer to join their expanding technical team. This position will be fully remote, so qualified candidates should have previous knowledge/already be comfortable at creating custom Apex/Visualforce code. You'll have the opportunity to work within a new Salesforce instance and help grow the platform to assist with the company's daily functions.<br><b>Salesforce Developer- 100% Remote- $100k</b><br><br>Role &amp; Responsibilities<ul><li> Support and develop custom code on new Salesforce instance utilizing Sales, Community, and Marketing Clouds</li><li> Design, develop, and test new applications within unit</li><li> Collaborate with other members in IT department to plan, design, develop, and implement web and data driven platforms</li></ul>Skills &amp; Qualifications<ul><li> Good foundational understanding of Apex/ability to create custom Apex code</li><li> Hands on experience creating custom Visualforce Pages</li><li> Self-starter who can come in and hit the ground running without extensive training needed</li><li>Good communication skills</li></ul> Benefits<ul><li>Ability to work 100% remotely</li><li>Zero travel neccassary</li><li>Competitive compensation/benefit package</li></ul> Job Type: Permanent, Full-Time<br> This Company is growing at a rapid pace so if you are interested in hearing more details surrounding this opening please send an updated version of your resume to <b>Anthony</b> at <b> [Click Here to Email Your Resum?] ASAP</b>!<br></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "5BJGML87T2CTWD2wOHYykA",
-    "url": "https://jobmote.com/job/62253/salesforce-developer-100-remote/",
-    "title": "Salesforce Developer - 100% Remote",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:extjs/frontend/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/crmerp",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "Mason Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 15, 2019 10:07:37 PM",
-    "validThrough": "Aug 18, 2019 10:07:37 PM",
-    "crawled": "Aug 16, 2019 3:06:25 AM",
-    "content": "<div>Salesforce Developer - Manhattan, New York - 100% Remote<br> Individual's responsibilities will include designing customizations to the Salesforce platform using APEX and Visualforce. Additionally, the developer is expected to integrate data across multiple systems and implement and deploy third party applications. Developer is also responsible for any necessary design changes and testing. Experience with Salesforce DX is a must.<br><br>Responsibilities:<br> -Design customizations to Salesforce platform and Salesforce DX<br> -Migrate data from existing in house CRM system to Salesforce<br> -Integrate data across three different Salesforce clouds<br> -Implement third party applications<br> -Ensure timely delivery of technical solutions<br> -Delegate tasks when necessary<br> -Design custom user interfaces and functionalities<br> -Make all necessary changes or modifications to Salesforce platform<br> -Responsible for deploying and testing newly implemented platforms<br><br>Qualifications:<br> -Experience with Salesforce CRM platform and Salesforce DX<br> -Experience with Marketing Cloud, Einstein, and Service Cloud platforms<br> -Significant lightning experience<br> -Certified Salesforce Developer preferred<br> -Excellent written and oral communication skills<br> -Significant experience with APEX and Visualforce<br> -Experience building APEX triggers, Visualforce pages, and workflows within Salesforce<br> -Experience in all stages of a full life cycle implementation<br> -Ability to work independently and meet strict deadlinesIf this is something you would be interested in, please feel free to reach out to me at [Click Here to Email Your Resum?] or at (ext. 3349). The client is looking to hire as soon as possible, and I am willing to discuss the opportunity in more detail!<br> Mason Frank International is the global leader for Salesforce.com recruitment, advertising more Salesforce.com jobs than any other agency. We deal with both Salesforce.com Partners &amp; End Users throughout North America. By specializing solely in placing candidates in the Salesforce.com market, I have built relationships with most of the key employers in North America and have an unrivalled understanding of where the best opportunities and Salesforce.com jobs are.<br> I understand the need for discretion and would welcome the opportunity to speak to any SFDC candidates that are considering a new career or job either now or in the future. Confidentiality is of course guaranteed. For information on the Salesforce.com market and some of the opportunities and Salesforce.com jobs that are available I can be contacted on (ext. 3349) or [Click Here to Email Your Resum?]<br></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
