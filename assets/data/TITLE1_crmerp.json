@@ -1,6 +1,304 @@
 {
  "items": [
   {
+    "id": "_uZy360iSFCi0Jwtsc7Rlw",
+    "url": "https://jobmote.com/job/92245/salesforce-developer-docusign-conga-composer-remote-option-olympia/",
+    "title": "Salesforce Developer(DocuSign,Conga Composer)-Remote Option - Olympia",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:composer-php/php/8",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=8, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Computer Consultants International, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 18, 2019 10:08:02 PM",
+    "validThrough": "Oct 21, 2019 10:08:02 PM",
+    "crawled": "Oct 19, 2019 3:06:33 AM",
+    "content": "<div><b> Company Description</b><br><br><b> Computer </b> <b> Consultants </b> <b> International</b> , Inc. (CCI) is an IT Consulting Firm with more than 18 years experience providing effective, expert-level services in industries such as Construction, Technology, Finance, Healthcare, and Government. CCI focuses on building long-term relationships while completing projects from design to delivery. People are CCI's key component for success. Recruiting utmost-quality individuals for our clients, CCI fields a workforce of individuals who are selected not only because of their technical qualifications but also for their achievements as substantial, contributing human beings. In government work and in the commercial market, high standards of ethics and accountability are critical. Therefore our people are chosen for their integrity and ability to maintain relationships, as well as expertise in their field. To learn more about CCI, visit us online at .<br><b> Job Description</b><br><br>CCI has a Client who is seeking Contractors interested in developing a prototype for Phase 1 of an Agriculture Information Management System (AIMS) lands using the Salesforce platform. <br> If the prototype is successful, the Agency may elect, at its own discretion, to implement and even build on some of the configuration developed during Phase 1 to further implement AIMS functionalities (Phase 2, 3 and 4). <br> Client is responsible for managing over 1.1 million acres of Trust Lands and water resources available for lease for agriculture and grazing activities. The core of the programs business activities revolves around the management and administration of more than 1,600 active leases, a diverse water portfolio, and a commodity program. <br> Client agricultural lease process consists of many interrelated or loosely related sub‑processes contained within a complex environment. Much of the complexity is due to statutory requirements and factors outside of Client control. Parcels have numerous improvements, buildings, crops, water rights, grazing, and much more contained within them that must be tracked, reviewed, documented and/or measured. Leases themselves are complex legal documents that require multi stage approvals, careful construction, and communication with outside parties. While there is inherent complexity, the process in use today adds complications of its own, which have grown over time: Several independently designed and developed enterprise systems, which act as data silos.  Complex workflows orchestrated via spreadsheets and email as the primary tracking, status and notification tools.  Lack of process uniformity across regions.  Lack of overall visibility at every level. To implement a streamlined Agriculture Information Management System (AIMS), the Program needs to implement document management best practices, automate document generation through leveraging existing corporate databases, provide solutions for managing a water portfolio and a commodity program, and integrate the various business activities within a unified environment to address workflow challenges. <br> The Program envisions the software solution: To be built on the Salesforce platform - a cloud based solution.  To be highly configurable and require minimum custom development.  To connect and consume data from DNR's corporate databases (Oracle, SAP).  To leverage the Environmental Systems Research Institute (ESRI) technology to view and query spatial information.  To be compatible with mobile technology (Android, iOS) to support field based data collection associated with site inspections in a disconnected environment (data syncing features). <b> Scope of Work </b> <br> This project is divided into four separate and distinct phases, each with its own set of objectives and deliverables. As each phase concludes, detailed objectives and deliverables will be re-adjusted based on the previous phase's accomplishments. <br><b> Phase 1: Prototype Development </b> <br> Software prototyping is the activity of creating a version of a segment of the software being developed. It is expected that the Contractor will implement a working prototype as a proof-of concept to demonstrate how the proposed technology and solution can be used to develop AIMS. <br> The DNR and the Contractor will work together to select a subset of functionalities listed in Appendix 1 for Module 1 and 2 to implement into the prototype. <br><b> Phase 2: Module 1 and 2 Implementation </b> <br> This phase is considered the Core Modules of the system and is contingent on the outcome of the Prototype Development in Phase 1. They represent the largest win for DNR since their implementation brings modern best practice based content management and business process workflow capabilities to a largely manual and ad‑hoc process. They also form a foundation for future efficiency work within Agency. <br> Module 1. Content Management, Storage, and Contract Document Automation <br> To be built on content management best practices and leveraging modern tooling to provide an enhanced user experience. The module contains three parts: Content Management, Content Storage, and Contract Document Automation. Working documents associated with parcels and contracts will be housed in a central unified database accessed through a web based interface. Database will allow users to search and retrieve information relevant to active contracts and enter information to progress through the contract administration and management lifecycle. A document automation feature will allow users to create contract documents based on a user generated library of contract provisions (parts) with configured security around parts to allow or prevent modification. Contract documents will be automatically generated by a user based on associated lease type populating with Metadata entry and/or data existing in NaturE, selecting unique parts, populating data object fields, and automatically generating the contract document. Maintenance, editing, and construction of contract provisions, and data fields necessary for metadata entry will be easily configurable inhouse by the system administrator. <br> Module 2. Workflow Routing and Filing <br> Module 1 and 2 combined will replace many manual processes, allow for work to be conducted in the field within a mobile environment, provide connectivity across the Programs business processes, and ensure correct links and relationships between all documents and user interactions that make up a lease file will be managed together as a set. The combination of data and relationships that make up the data model is core to providing increased visibility and search functionality the Program desires. The solution will replace the need for staff to maintain spreadsheet based personal tracking mechanisms existing independent of the business enterprise requiring redundant data entry. The module will address tracking to show document location, at-a-glance dashboards of work queues, and task lists. The solution should provide modern workflow rich functionality, complex participant chains, audit trail, sending work &quot;backwards&quot; for corrections without rejecting outright, version control, implementation of deadlines, reminder system, actionable e-mail notifications, parallel assignments, random QA checks as well as electronic signatures. <br><b> Phase 3: Module 3 Implementation the Commodity Management </b> <br> The Commodity Program process is a combination of several different business activities such as procurement, logistics, accounts payable, and accounts receivable. The commodities management process is largely created in-house and does not provide visibility into the process for effective means of reporting on the transactions and data therein. Management challenges arise because the program blends areas such as creation of suppliers, creating invoices, and paying invoices which are traditionally managed by different levels of authority. Module 3 will address the core inventory and sales of commodities by moving away from a spreadsheet-based approach isolated from the business enterprise with a solution that will allow greater controls and visibility into the process. Much of the work in the commodities program is orthogonal to the work on agricultural leases. For those areas where close involvement with the lease process is necessary, this module will integrate with Module 2 to allow for commodity staff involvement as needed in the process. During design and implementation of the Module 2, the participation of the Commodity Specialist should be included as work performed in that module. <br><b> Phase 4: Module 4 Implementation of the Water Portfolio Management </b> <br> Water portfolio management considerations are similar to the commodity program process wise. While water portfolio activities are included in the lease management and administration process itself, there are many other actions associated with water that may happen at any point during the lifecycle of the lease as well as activities that happen independent of the leasing process. Current management process involves a hybrid use of spreadsheets, SharePoint, and physical files. The Program utilizes existing outside databases administered through the Washington State Department of Ecology. These databases are integral for the management of the water portfolio, The Water Program module consists of two parts, mobile data collection and database management for tracking/reporting. <br><b> Qualifications</b> A minimum of three (3) years of recent experience with advanced technical architecture for complex Salesforce development.   A minimum of three (3) years of recent experience and demonstrative knowledge, skills and abilities developing and implementing workflow..... click apply for full job details</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "3dv0a8SsTNiVMpjrkOU1TQ",
+    "url": "https://jobmote.com/job/92242/salesforce-developer-remote/",
+    "title": "Salesforce Developer Remote",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/crmerp",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "M&S Consulting",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 18, 2019 10:08:02 PM",
+    "validThrough": "Oct 21, 2019 10:08:02 PM",
+    "crawled": "Oct 19, 2019 3:06:33 AM",
+    "content": "<div><p>M&amp;S (which stands for Management and Solutions) was conceived in 2002 with the vision of creating highly effective teams of elite consultants to deliver strategic process and technology solutions to enterprise organizations across the US. Our commitment to delivery in complex environments and long-term customer success has merged process and technology into innovative solutions, established deep pockets of expertise, and enabled innovative transformation for evolving businesses.</p><p>We have intentionally cultivated steady growth focused on being approachable and helpful to our dearly valued clients and closely cared-for employees. M&amp;S people simply â€œcare hardâ€, and this reflects in our work products, our interactions, and our culture.</p><p><b>Role Overview:</b></p><p>The Salesforce Developer is a pivotal role in our Salesforce practice in order to work with our clients to achieve their strategic goals. This role will require you to apply your experience to deliver acute development excellence by way of advisory services, consulting and hands-on execution, across Salesforce's suite of products both current and future.</p><p>The Salesforce Developer will work directly with clients throughout the development lifecycle - design, program, test, deploy, enhance and support/maintenance of Salesforce.com solutions needed by our clients. The ideal candidate for this role would be comfortable working within the Salesforce framework and able to troubleshoot and problem solve quickly with a strong sense of urgency, attentive to detail and committed to testing, and able to communicate well with business partners. Additionally, this role would actively participate and contribute in solution estimating and planning in collaboration with other M&amp;S Consulting roles. The role has a strong focus on people interaction, and your own personal and professional growth. </p><p><b>Required Skills</b>:</p>This particular project has a restriction to US Citizens only.5 Years of experience with Visualforce and implementing these into internal salesforce and communities5 Years of experience with Apex CodeExperience with CommunitiesExperience with Lightning Framework and event based web frameworksExperience with Javascript and JQueryExperience integrating apex with external web services using SOAP and REST based communicationExperience with modifying apex code in a salesforce organization with a large Apex code base. Specifically, following existing code base design patterns to best fit a solution.Experience with Agile/Scrum based development approaches.Responsible for ensuring our CRM delivery services satisfy, and advance our client's needs and objectives while adhering to the highest standards and best practices.<p><b>Preferred Skills:</b></p>Expertise with Salesforce.com and a strong background with implementation, development, and administration.The client wishes to enhance an existing application that is not in production and place it into production and optimize the usage of the Salesforce platform to drive maximum value from our Salesforce investment.Strong Salesforce development skills. Salesforce solution development experience to include configuring Salesforce, working with Salesforce API's and developing customizations (i.e. using Apex). Experience working with the various Salesforce environments (e.g. promoting code from the sandbox to production). Good understanding of the various Salesforce licenses, communities and best practices for Salesforce development.Broad based experience in designing, prototyping, and building custom data centric web-based applications in MS, DB2 and Oracle based client/server environments.Work with business users on helping to develop requirements and functionality that is desired by the business, so excellent communication skills are a must.<p><b>Travel is not typically required, but client dependent (up to 100% flexibility) </b></p><p><b>Position is for anywhere in the United States</b></p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "9C1cqPRtT66eOs9O_7xTAg",
+    "url": "https://jobmote.com/job/92238/sap-bw-consultant-luxemburg-and-remote/",
+    "title": "SAP BW consultant - Luxemburg and remote",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Next Ventures Ltd",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 18, 2019 10:08:02 PM",
+    "validThrough": "Oct 21, 2019 10:08:02 PM",
+    "crawled": "Oct 19, 2019 3:06:33 AM",
+    "content": "<div><p>Next Ventures is currently looking for an Italian speaking SAP BW consultant for a role based in Luxemburg.</p> <p>Technical/Functional requirements:</p> <ul><li>Seniority 3-8 years of experience</li> <li>Opportunity for a long contract duration.</li> <li>Italian language would be a bonus</li> </ul><p>Start date: Immediate</p> <p>Languages: English (Italian is a bonus)</p> <p>Location: Luxemburg (remote working up to 40% is possible)</p> <p>Duration: 3-6 months</p> <p>Rate: Euros Negotiable per day</p> <p>If you are available please send your CV to (see below) or call me direct on (see below). We will call you back TODAY to discuss further with a view to securing an interview as soon as possible.</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "LwXD_DJOQ8KaJrVS6gpqYg",
+    "url": "https://jobmote.com/job/92223/remote-salesforce-developer/",
+    "title": "Remote Salesforce Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:java-developer/java/13",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=13, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Motion Recruitment Partners",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 18, 2019 10:08:02 PM",
+    "validThrough": "Oct 21, 2019 10:08:02 PM",
+    "crawled": "Oct 19, 2019 3:06:33 AM",
+    "content": "<div>Our client - a global leader in travel and expense management software - is seeking a Salesforce Developer to join their team in their Bellevue, WA location or as a REMOTE employee. **The role is a contract until 12/31 with the strong opportunity for conversion or extension** ** Applicants must be currently authorized to work in the US on a full-time basis ** As a Salesforce Developer you will be a professional liaison to both IT and cross-functional business groups, helping design and deliver solutions within the Salesforce.com platform . Responsibilities: Envision and drive application architectural design for short term and long-term integration projects Develop solution architectures and roadmaps in conjunction with business process partners and strategy teams. Lead development of c onceptual and application architectural solution blueprint to meet business requirements ensuring compliance with established architectural principles, standards, and processes. Requirements: Salesforce experience including Apex, Visualforce, and Lightning Java programming experience Knowledge of SAP Technologies Experienced in coding APEX Triggers , Classes and Test methods. Experienced with Salesforce.com Web Services APIs using SOAP and REST. Salesforce.com development experience, including programming with APEX, Triggers, Javascript, HTML, XML, and related technologies.</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "zeq9YMIQQtC9xf5Z8wqFVQ",
+    "url": "https://jobmote.com/job/92207/70-remote-senior-salesforce-developer-with-our-direct-client-need-9/",
+    "title": "70% Remote Senior Salesforce Developer with Our Direct client - Need 9",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:ant/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/crmerp",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Oloop Technology Solutions",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 18, 2019 10:08:00 PM",
+    "validThrough": "Oct 21, 2019 10:08:00 PM",
+    "crawled": "Oct 19, 2019 3:06:33 AM",
+    "content": "<div><ul><li>Apex &amp; Lightning Development</li> <li>Experience with git and github</li> <li>Metadata deployment (via ant or changeset)</li> <li>Data loader </li> <li>Platform Dev I Certification On/before 2016 (required) &amp; Platform Dev II Certification (Preferred)</li> </ul>  <b>320 hours to begin with 30% onsite.</b> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "IHEVp1PxSjGjlkQBBHnlUw",
+    "url": "https://jobmote.com/job/92251/sap-hcm-py-tm-consultant-german-speaking-80-remote-working-flexi/",
+    "title": "SAP HCM PY/TM Consultant - German Speaking - 80% Remote Working. Flexi",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "REMOTE1/50",
+      "TECH1/unknown",
+      "TITLE1/crmerp",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "Eursap Ltd",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "EUR",
+      "minValue": 70000,
+      "maxValue": 90000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "EUR 70k - 90k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 18, 2019 10:08:03 PM",
+    "validThrough": "Oct 21, 2019 10:08:03 PM",
+    "crawled": "Oct 19, 2019 3:06:33 AM",
+    "content": "<div><p><strong>SAP HCM PY/TM Consultant - German Speaking - 80% Remote Working. Flexible Start Date. Permanent Job. Salary: €70k - €90k per annum + Benefits. END-CLIENT!</strong></p> <p>Our End-client has a fantastic SAP job opportunity for a fluent German speaking SAP HCM consultant to join their team who work on shaping the digital future of their customers with end-to-end services. This is a unique opportunity in which the client takes a very modern appraoch to employment and is very open to their employees working remotely from home. Up to 80% (4 days per week) is permitted for remote working and you would need to travel to one of their offices at least 1 day per week. Their offices are located in Berlin, Dusseldorf, Dresden, Magdeburg (Germany).</p> <p><strong>Main tasks:</strong></p> <ul><li>Advising external clients on the implementation and operation of SAP ERP HCM solutions</li> <li>Actual analysis of customer requirements and their conceptual implementation under SAP ERP HCM</li> <li>Project work (partly project management) with focus on SAP Payroll &amp; Time Management (positive and negative) -incl. conception</li> <li>Application Management for SAP HCM Customers of the department, among others: <ul><li>Maintaining and Enhancing the Payroll Driver in SAP HCM (Schemes &amp; Cycles)</li> <li>Implementation and maintenance of the tariff and legal requirements within the framework of the old age assets law (AVmG)</li> <li>Implementation and maintenance of operational time and value credits (long-term accounts) including interface design</li> <li>Establishment of partial retirement arrangements, AVmG, establishment of absences taking into account social security and tax matters, average calculation and evaluation</li> <li>Wage Type Maintenance</li> </ul></li> <li>Conducting trainings in SAP HCM for the sub-modules PA, PT, PY, PD and customer presentations</li> <li>Cooperation in the further development of the HCM portfolio</li> </ul><p><strong>Core tasks of the department are:</strong></p> <ul><li>Provision of both standardized cloud services and individual application services based on the company's standard platforms for SAP and non-SAP applications (Web)</li> <li>Professional handling of SAP SI projects under qualitative and economic aspects</li> <li>Provision of services taking into account the requirements of the public administration (including safety requirements) and the health care system (including SGB requirements, patient data)</li> <li>Continuous development of the delivered Application Services closely aligned to the market needs and taking into account the current technological developments</li> </ul><p><strong>Must Have Skills &amp; Experience:</strong></p> <ul><li>External consulting experience in HCM</li> <li>Must have knowledge of HCM: PA, PT, PY and PD</li> <li>Knowledge of schemas &amp; cycles in SAP HCM</li> <li>At least 3 years experience as SAP HCM Senior Consultant focusing on Payroll &amp; Time Management</li> <li>Very good knowledge of social security and tax laws related to payroll</li> <li>Good knowledge of public service tariffs and their implementation under SAP HCM</li> </ul><p><strong>Nice to have (but not essesntial)</strong></p> <ul><li>Any experiences in SAP S/4HANA</li> </ul><p><strong>Languages:</strong></p> <ul><li>Must be fluent in German (minimum C1 level)</li> <li>Must be fluent in English</li> </ul><p><strong>Salary:</strong></p> <ul><li>€70,000 - €90,000 gross fixed basic per annum</li> </ul><p><strong>Benefits:</strong></p> <ul><li>Home office/mobile working possible - up to 4 days per week</li> <li>Employer-funded pension</li> <li>Accident insurance for work and leisure</li> <li>numerous offers for health care</li> <li>personal selling</li> <li>Flexible working hours</li> <li>Further education</li> </ul><p>Keywords: SAP HCM, SAP HR, SAP HCM-PA, SAP HCM-PY, SAP HCM-PT, SAP HCM-PD, SAP Human Capital Management</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "oNxJ5KVXQAi5SnxtVhghVQ",
     "url": "https://jobmote.com/job/91972/salesforce-developer-remote-teleocmmute-anywhere-in-the-us/",
     "title": "Salesforce Developer - Remote/Teleocmmute, Anywhere in the US",
