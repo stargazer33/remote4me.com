@@ -1,7 +1,358 @@
 {
  "items": [
   {
-    "id": "25uxhAQEQi6dEn2iH958SA",
+    "id": "yc76j2RxSciUVIxCb6sd2Q",
+    "url": "https://functionaljobs.com/jobs/9189-clojure-engineer-at-griffin",
+    "title": "Clojure Engineer at Griffin (Full-time)",
+    "tags": [
+      "DBG:classic``&quot;open to remot&quot;",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:clojure/other/20",
+      "DBG_TECH1:k/t/w:com/dotnet/8",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=8, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/50",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "Griffin",
+      "sameAs": "https://griffin.sh"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 21, 2019 11:24:27 AM",
+    "validThrough": "Oct 28, 2019 11:24:27 AM",
+    "crawled": "Oct 21, 2019 10:34:01 PM",
+    "content": "<h3>Clojure Engineer</h3><div>Company: Griffin</div><div>Type: full-time</div><div>Location: London, UK<br><br></div><div>                <div>            <p><strong>Help us create a regulated, API-first bank</strong></p><p>Most of the banking world is exclusive, opaque, and not particularly technology-friendly.</p><p>We're trying to change that - we want to lower barriers to entry for fintechs by providing easy access, clear documentation, and transparent pricing.</p><p>We recently closed a £3M seed round and are hiring our first engineers. By joining now you'll have the opportunity to have outsized impact and to also get a large chunk of available equity.</p><p>As a backend engineer you'll be responsible for building out our core banking systems, which are responsible for handling compliance as well as managing accounts and transactions. As a wholesale bank, we're building for scale from day one - our infrastructure has to scale to tens of thousands of requests per second, with all systems fully correct and available. We'll also need fully-functional integrations with a half-dozen different payment rails such as Faster Payments, Direct Debit, CHAPS, and various card networks.</p><p>Our technology stack is Clojure, Kafka, Postgres, and Kubernetes.</p><p><strong>Qualifications</strong></p><p>Some prior Clojure experience is required. Prior devops or security experience is a major plus. Experience with the other parts of our stack is preferred, but not required. Similarly, relevant domain experience in payments or core banking systems is a plus, but not mandatory.</p><p><strong>Local and global</strong></p><p>Our offices are just off Moorgate in central London, but our engineering workforce is distributed. We're currently prioritizing local hires, but are open to remote for exceptional UK/EU/US/Canadian candidates - especially those with a 5 hour or less TZ diffference.</p>        </div>        <h4>To Apply</h4>        <p>Send your resume to <span><span>apply-9189</span> [at] <span>functionaljobs [dot] com</span></span></p>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "G5AQ_aOlRKWbuckRawb8MQ",
+    "url": "https://news.ycombinator.com/item?id=21126948",
+    "title": "ConsenSys R&D | Senior Software Engineer (Rust) | Full-time | Remote ConsenSys R&D is focused ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:rust/other/15",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 6:02:53 PM",
+    "validThrough": "Oct 8, 2019 6:02:53 PM",
+    "crawled": "Oct 21, 2019 10:33:45 PM",
+    "content": "ConsenSys R&amp;D | Senior Software Engineer (Rust) | Full-time | RemoteConsenSys R&amp;D is focused on developing open source technology for the next generation of Ethereum.<p>We are looking for senior level engineers and researchers with backgrounds in systems engineering, distributed networks (p2p), parallel computing, WebAssembly, and cryptography. Our team is competitively compensated based on experience.</p><p>Some of the things we are working on:</p><p>* Building a proof-of-concept client in Rust for Ethereum 2.0 which supports WebAssembly execution for multiple shards.</p><p>* Benchmarking the performance of various aspects of WebAssembly runtimes, cryptographic functions, and p2p networking.</p><p>* Developing efficient proof tooling for authenticated data structures (merkle proofs).</p><p>* Exploring BFT consensus schemes for cross shard transactions.</p><p>* Researching and developing global transaction broadcasters.</p><p>Apply here: <a href='https://consensys.net/open-roles/?discipline=61666' rel='nofollow'>https://consensys.net/open-roles/?discipline=61666</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "F2rpIC9BSji4Wv_rOUI29g",
+    "url": "https://news.ycombinator.com/item?id=21136343",
+    "title": "Pitch | Senior Backend + Frontend Engineers | Berlin, Germany | Onsite & Remote | Full-time ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:clojure/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2019 3:47:06 PM",
+    "validThrough": "Oct 9, 2019 3:47:06 PM",
+    "crawled": "Oct 21, 2019 10:33:45 PM",
+    "content": "Pitch | Senior Backend + Frontend Engineers | Berlin, Germany | Onsite &amp; Remote | Full-time<p>Pitch, a new company from the makers of Wunderlist, is looking for Senior Backend and Frontend Engineers to join our team onsite in Berlin or remote. We are building a cross-platform presentation tool and are looking for a product-oriented Clojure/Script developers to help realize our vision.</p><p>We've just launched the waiting list for an invite-only beta: <a href='https://pitch.com/news/announcing-our-limited-preview-beta-and-new-funding' rel='nofollow'>https://pitch.com/news/announcing-our-limited-preview-beta-a...</a></p><p>If you enjoy using functional approaches to solving real user problems in a highly collaborative team, we'd love to talk to you.</p><p>More info and other opportunities at <a href='https://pitch.com/about#hiring' rel='nofollow'>https://pitch.com/about#hiring</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "so-cjZpcRyeXLGvB-y3DZw",
+    "url": "https://news.ycombinator.com/item?id=21129860",
+    "title": "Aircloak (https://aircloak.com) | REMOTE (UTC+2) +-2 | Full-time senior software engineer We ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot W OR(career,first)",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:f#/other/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 9:56:50 PM",
+    "validThrough": "Oct 8, 2019 9:56:50 PM",
+    "crawled": "Oct 21, 2019 10:33:45 PM",
+    "content": "Aircloak (<a href='https://aircloak.com' rel='nofollow'>https://aircloak.com</a>) | REMOTE (UTC+2) +-2 | Full-time senior software engineer<p>We are looking for a particular kind of person. This job ad might not be for you. May you find a job you are happy in either way!</p><p>You like to work independently, you are pragmatic, and you have the confidence to take on hard problems lacking a detailed spec. You value simple solutions over over-engineered ones. Chances are things will change down the line and changing something simple, or better yet something that was never made, is much easier than changing a monstrosity. You should not need or want anyone breathing down your neck to be productive.</p><p>With the formalities out of the way, let me introduce myself: my name is Sebastian, and I am the CTO at Aircloak. Aircloak is a remote company that has built a privacy preserving data processing and analytics engine. Think of it as an SQL database proxy that generates actually anonymized results on the fly.</p><p>There are countless challenging things to do in this job. They range from parsing SQL, to doing extensive query rewriting and optimization, to ensuring that all results produced are safe and fully anonymous irrespective of the level of deviousness on the part of the analyst using the system.</p><p>The skills we are looking for in a candidate are:</p><p></p><pre><code>  - Intelligence and ability to deal with hard trade-offs  - Great communication skills  - The ability to work independently and take ownership of tasks  - A desire to learn and improve</code></pre>The majority of our system is written in Elixir, but we have parts written in Rust and JavaScript as well. You’ll even find some opportunities to write F# if you want that. Knowledge of functional programming is a plus and experience with web development is not going to hurt either.<p>We do not specifically look for someone with experience in our particular stack. It is our experience that people who are smart tend to pick up the required tools very quickly. Likewise it is less interesting to us what your background is. At the end of the day it’s your skills, brains, and experience that matter.</p><p>Our team is exceptional and quite geographically diverse. The company was built as a remote-first company from the beginning, and we really enjoy the benefits this gives us.</p><p>We look forward to getting to know you and welcoming you to our team!</p><p>If you are interested, please write us at jobs [at] aircloak.com</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "NGYxGGocSBO300N0NLh4Og",
+    "url": "https://news.ycombinator.com/item?id=21158207",
+    "title": "IOHK | Scala Developer | Remote | Full-time | https://iohk.io We are a fully remote company ...",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(work,oper) 2N 2N( OR(independ,fulli), remot)",
+      "DBG_TECH1:k/t/w:haskell/other/5",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:k/t/w:scala/java/12",
+      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=12, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java",
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 4, 2019 4:43:31 PM",
+    "validThrough": "Oct 11, 2019 4:43:31 PM",
+    "crawled": "Oct 21, 2019 10:33:45 PM",
+    "content": "IOHK | Scala Developer | Remote | Full-time | <a href='https://iohk.io' rel='nofollow'>https://iohk.io</a><p>We are a fully remote company working mainly on blockchain and cryptocurrencies, we have lots of researchers and have a formal methods team, our main programming languages are Haskell, Scala, and Rust, this position is Scala specific.</p><p>Feel free to apply directly, or contact me (email on my profile) if you have any question.</p><p>Job Description: <a href='https://iohk.io/en/careers/fk0377n/software-engineer-scala/' rel='nofollow'>https://iohk.io/en/careers/fk0377n/software-engineer-scala/</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "n-vGDaHTS92E1RVf4__tgA",
+    "url": "https://news.ycombinator.com/item?id=21126332",
+    "title": "Aclaimant | Remote | Full Stack Developer | Full-time | https://aclaimant.com Aclaimant is ...",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:clojure/other/15",
+      "DBG_TECH1:k/t/w:clojurescript/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 1, 2019 5:21:40 PM",
+    "validThrough": "Oct 8, 2019 5:21:40 PM",
+    "crawled": "Oct 21, 2019 10:33:45 PM",
+    "content": "Aclaimant | Remote | Full Stack Developer | Full-time | <a href='https://aclaimant.com' rel='nofollow'>https://aclaimant.com</a><p>Aclaimant is looking for a senior or mid-level Clojure developer to join our team. At Aclaimant we are redefining the way companies and employees work together to manage risk. Our SaaS platform is built using Clojure and ClojureScript. We work remotely from the comfort of our own homes. Pair programming is important to us; it helps us build culture and share knowledge. We expect candidates to be located within North America.</p><p>Email jobs@aclaimant.com for more information or visit <a href='https://aclaimant.com/careers-developer' rel='nofollow'>https://aclaimant.com/careers-developer</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "rfxXosFLRNCl_iJbs--adA",
+    "url": "https://news.ycombinator.com/item?id=21155617",
+    "title": "LifeCheq | Clojure/Clojurescript Developers (Junior + Senior positions) | Cape Town, South ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:clojure/other/20",
+      "DBG_TECH1:k/t/w:clojurescript/other/15",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:firebase/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=35, dotnet=0, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 4, 2019 9:40:03 AM",
+    "validThrough": "Oct 11, 2019 9:40:03 AM",
+    "crawled": "Oct 21, 2019 10:33:45 PM",
+    "content": "LifeCheq | Clojure/Clojurescript Developers (Junior + Senior positions) | Cape Town, South Africa | Onsite &amp; Remote | Full-timeAt LifeCheq we're building a holistic and affordable financial advice and management service, currently for the South African market - see <a href='http://lifecheq.co.za' rel='nofollow'>http://lifecheq.co.za</a>.<p>Work on:* modelling the complexities of a person's life and the financial products and services that they interact with* automating and suggesting advice for how customers can achieve their goals (buying a house, traveling, saving for education)* streamlining and automating the things that stop customers from taking action such as deciding how to fill in insurance underwriting forms* building interfaces to gather a person's life information as well as presenting advice and progress updates to customers in an accessible way</p><p>We use:* Clojure, Clojurescript (re-frame mostly), Postgres, Firebase, Heroku, CircleCI, Github</p><p>Looking to expand our dev team with Senior and Junior members.Junior (Onsite, be willing to learn Clojure) <a href='https://jobs.braveclojure.com/jobs/17592186047106/junior-to-intermediate-clojure-clojurescript-developer-lifecheq' rel='nofollow'>https://jobs.braveclojure.com/jobs/17592186047106/junior-to-...</a>Senior (Remote UTC+2, prefer South African) <a href='https://jobs.braveclojure.com/jobs/17592186047103/senior-clojure-clojurescript-developer-lifecheq' rel='nofollow'>https://jobs.braveclojure.com/jobs/17592186047103/senior-clo...</a></p><p>Send through your CV or get hold of me if you have any questions dave@lifecheq.co.za</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "N-CJMH18R8igpTm7X-X2pQ",
     "url": "https://remoteok.io/jobs/75716",
     "title": "Software Engineer",
     "tags": [
@@ -42,7 +393,7 @@
     "employmentType": "UNSET",
     "published": "Oct 17, 2019 2:02:15 PM",
     "validThrough": "Oct 24, 2019 2:02:15 PM",
-    "crawled": "Oct 17, 2019 2:06:38 PM",
+    "crawled": "Oct 21, 2019 10:30:37 PM",
     "content": "<span></span> <span><h4>Imperfect Foods</h4></span> <br> <h3>Software Engineer</h3> <br> <span>US-only</span> <div>  <div>   About Imperfect\\n\\nImperfect Foods was founded in 2015 with a mission to reduce food waste and build a better food system for everyone. We offer imperfect (yet delicious) produce, affordable pantry items, and quality meat and dairy. We deliver them conveniently to our customers’ doorsteps and pride ourselves on offering up to a 30% discount compared to grocery store prices. Our customers can get the healthy, seasonal produce they want alongside the grocery staples they rely on, without having to compromise their budget or values. We’re proving that doing the right thing for the planet doesn’t have to cost more, and that shopping for quality ingredients can support the people and resources that it takes to grow our favorite foods.\\n\\nWe're headquartered in San Francisco with operations all over the country. Check our website to see if there is an Imperfect near you!\\n\\nWe're looking for folks who are positive, motivated, and ready to change the world. If that sounds like you, drop us a line!\\n\\nHere at Imperfect, we are all about groceries on a mission. Since 2015, our services have saved over 40M lbs of food, 1.2B gallons of water, and 110M lbs CO2, while donating 3M lbs of food along the way. Our software engineering team builds the eCommerce platform and internal tooling that makes this all possible. The team partners closely with product management to develop features, solutions, and systems that enhance and transform the user experience. Engineers don’t just build widgets -- we participate in the full lifecycle of a feature, from conception to release. We’re a remote-first team, with members located throughout the US. This role will report to the Head of Engineering and can be remotely located within US time zones.\\n\\nWe have exciting growth ahead of us as we evolve from only produce to a full-service grocery, as well as expand our footprint to serve an even greater portion of the country. We are swimming in interesting problems around customer-facing features, scale, and logistics. To help, we’re looking for talented backend software engineers with expertise in F#. Folks with various levels of professional software experience, from 2+ years to decades, are encouraged to apply.\\n\\nIf preventing food waste, owning the full product engineering lifecycle, and working daily with a bunch of pleasant people excites you, come join us!\\n\\n\\n\\n\\nResponsibilities\\n\\n\\n\\n\\n* Collaborate with other engineers and designers to provide strong customer-focused experiences\\n\\n* Prototype quickly to test out new ideas and experiments\\n\\n* Practice disciplined software engineering (e.g. automated testing, code reviews, and writing maintainable code)\\n\\n* Actively contribute to team and company standards\\n\\n* Ensure the reliability of systems essential to Imperfect customers and internal users\\n\\n* Keep up-to-date with the latest technology developments in your area(s) of expertise\\n\\n* For more senior applicants, mentor junior team members\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nSkills and Qualifications\\n\\n\\n\\n\\n* Strong F# development skills\\n\\n* 2+ years of professionally building production-grade, large-scale web software\\n\\n* Understanding of database schema design, caching and scalability.&nbsp;\\n\\n* Expertise with relational databases, such as PostgreSQL\\n\\n* Experience working with AWS infrastructure and services\\n\\n* Experience with distributed, service-oriented systems communicating with RESTful API interfaces.&nbsp;\\n\\n* Bonus: experience with event sourcing, CQRS and asynchronous communication using queues\\n\\n* Bonus: interest and skill in working with server-side NodeJS\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nAbout you\\n\\n\\n\\n\\n* A sincere commitment to crafting maintainable, dependable code\\n\\n* A pragmatic, customer-centric approach to problem-solving\\n\\n* Passionate about our mission to eliminate food waste and create a better food system for all\\n\\n* Bonus: experience with or interest in leadership\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nDetails of Position\\n\\n\\n\\n\\n* Full-time exempt position reporting to the Head of Engineering\\n\\n* Candidate can be remotely located within US time zones\\n\\n* Salary and employee stock options commensurate with experience\\n\\n* Competitive benefits package including health care, paid vacation, 401K, paid parental leave, and recurring credit towards your Imperfect account!\\n\\n\\n\\n\\n \\n\\n#Location\\n- US-only   <br>  </div> </div>",
     "place1": {
       "locality": "UNSET",
@@ -56,7 +407,7 @@
     }
   },
   {
-    "id": "t-vVXu6ySTCm4xeSWMrIJg",
+    "id": "NXBWar_PRW2aaOiLEqZEJA",
     "url": "https://stackoverflow.com/jobs/305251/software-engineer-backend-f-sharp-imperfect-foods?a=1En2SQ6jhdN6&so_medium=Talent&so_source=TalentApi",
     "title": "Software Engineer - Backend F# at Imperfect Foods  ",
     "tags": [
@@ -97,9 +448,9 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Oct 17, 2019 8:06:32 AM",
-    "validThrough": "Oct 24, 2019 8:06:32 AM",
-    "crawled": "Oct 17, 2019 8:06:32 AM",
+    "published": "Oct 21, 2019 10:30:31 PM",
+    "validThrough": "Oct 28, 2019 10:30:31 PM",
+    "crawled": "Oct 21, 2019 10:30:31 PM",
     "content": "<h3><span>Software Engineer - Backend F#</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Food &amp; Beverage</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>1k–5k people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Imperfect Foods | No office location<br></div><h4>Technologies</h4><div></div><div>node.js</div><div>web-services</div><div>postgresql</div><div>our website</div>                <h4>Job description</h4>                <div>About ImperfectImperfect Foods was founded in 2015 with a mission to reduce food waste and build a better food system for everyone. We offer imperfect (yet delicious) produce, affordable pantry items, and quality meat and dairy. We deliver them conveniently to our customers’ doorsteps and pride ourselves on offering up to a 30% discount compared to grocery store prices. Our customers can get the healthy, seasonal produce they want alongside the grocery staples they rely on, without having to compromise their budget or values. We’re proving that doing the right thing for the planet doesn’t have to cost more, and that shopping for quality ingredients can support the people and resources that it takes to grow our favorite foods.We're headquartered in San Francisco with operations all over the country. Check <a href='http://www.imperfect.com/' rel='nofollow'>our website</a> to see if there is an Imperfect near you!We're looking for folks who are positive, motivated, and ready to change the world. If that sounds like you, drop us a line!Here at Imperfect, we are all about groceries on a mission. Since 2015, our services have saved over 40M lbs of food, 1.2B gallons of water, and 110M lbs CO2, while donating 3M lbs of food along the way. Our software engineering team builds the eCommerce platform and internal tooling that makes this all possible. The team partners closely with product management to develop features, solutions, and systems that enhance and transform the user experience. Engineers don’t just build widgets -- we participate in the full lifecycle of a feature, from conception to release. We’re a remote-first team, with members located throughout the US. This role will report to the Head of Engineering and can be remotely located within US time zones.We have exciting growth ahead of us as we evolve from only produce to a full-service grocery, as well as expand our footprint to serve an even greater portion of the country. We are swimming in interesting problems around customer-facing features, scale, and logistics. To help, we’re looking for talented backend software engineers with expertise in F#. Folks with various levels of professional software experience, from 2+ years to decades, are encouraged to apply.If preventing food waste, owning the full product engineering lifecycle, and working daily with a bunch of pleasant people excites you, come join us!<p><strong>Responsibilities</strong></p><ul><ul><li>Collaborate with other engineers and designers to provide strong customer-focused experiences</li><li>Prototype quickly to test out new ideas and experiments</li><li>Practice disciplined software engineering (e.g. automated testing, code reviews, and writing maintainable code)</li><li>Actively contribute to team and company standards</li><li>Ensure the reliability of systems essential to Imperfect customers and internal users</li><li>Keep up-to-date with the latest technology developments in your area(s) of expertise</li><li>For more senior applicants, mentor junior team members</li></ul></ul><p><strong>Skills and Qualifications</strong></p><ul><ul><li>Strong F# development skills</li><li>2+ years of professionally building production-grade, large-scale web software</li><li>Understanding of database schema design, caching and scalability.&nbsp;</li><li>Expertise with relational databases, such as PostgreSQL</li><li>Experience working with AWS infrastructure and services</li><li>Experience with distributed, service-oriented systems communicating with RESTful API interfaces.&nbsp;</li><li>Bonus: experience with event sourcing, CQRS and asynchronous communication using queues</li><li>Bonus: interest and skill in working with server-side NodeJS</li></ul></ul><p><strong>About you</strong></p><ul><ul><li>A sincere commitment to crafting maintainable, dependable code</li><li>A pragmatic, customer-centric approach to problem-solving</li><li>Passionate about our mission to eliminate food waste and create a better food system for all</li><li>Bonus: experience with or interest in leadership</li></ul></ul><p><strong>Details of Position</strong></p><ul><ul><li>Full-time exempt position reporting to the Head of Engineering</li><li>Candidate can be remotely located within US time zones</li><li>Salary and employee stock options commensurate with experience</li><li>Competitive benefits package including health care, paid vacation, 401K, paid parental leave, and recurring credit towards your Imperfect account!</li></ul></ul>                </div>            <div>        <a href='https://jobs.lever.co/imperfectfoods/2f14d9a1-e295-40a1-a1ab-7fcdd4691f0e' rel='nofollow'>                        Apply now        </a></div>                    <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Free produce, Bevi, and kombucha!</span>                            </li>                            <li>                                <span></span>                                <span>MacBook Air Laptops</span>                            </li>                            <li>                                <span></span>                                <span>Health Care (Kaiser or Blue Shield)</span>                            </li>                            <li>                                <span></span>                                <span>Vacation Days</span>                            </li>                            <li>                                <span></span>                                <span>Ping Pong tables</span>                            </li>                            <li>                                <span></span>                                <span>Equal Opportunity Employer</span>                            </li>                            <li>                                <span></span>                                <span>Commuter Benefits</span>                            </li>                            <li>                                <span></span>                                <span>Sit/Stand Desks</span>                            </li>                            <li>                                <span></span>                                <span>Stock Options &amp; 401k</span>                            </li>                            <li>                                <span></span>                                <span>Bonus</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
@@ -113,7 +464,7 @@
     }
   },
   {
-    "id": "_WDbiryaS-ytVkNPIYb6oA",
+    "id": "Oo9HL0fzRdCDb79qR6bplg",
     "url": "https://stackoverflow.com/jobs/272882/senior-software-engineer-elixir-client-bluelabs-software?a=1tw07fuxjbws&so_medium=Talent&so_source=TalentApi",
     "title": "Senior Software Engineer (Elixir) - Client Services Team at BlueLabs Software  ",
     "tags": [
@@ -149,9 +500,9 @@
       "formatted": "EUR 55k - 104k /Year"
     },
     "employmentType": "UNSET",
-    "published": "Oct 14, 2019 12:06:33 PM",
-    "validThrough": "Oct 21, 2019 12:06:33 PM",
-    "crawled": "Oct 14, 2019 12:06:34 PM",
+    "published": "Oct 21, 2019 10:30:31 PM",
+    "validThrough": "Oct 28, 2019 10:30:31 PM",
+    "crawled": "Oct 21, 2019 10:30:31 PM",
     "content": "<h3><span>Senior Software Engineer (Elixir) - Client Services Team</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer, Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Enterprise Web Solutions, Gaming, Software Development / Engineering</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: BlueLabs Software | No office location<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Central European Time - Prague +/- 2 hours</span>                                </div>                                                                                                            </div>                    </div>                <h4>Technologies</h4><div></div><div>elixir</div><div>functional-programming</div><div>concurrency</div><div>distributed-computing</div>                <h4>Job description</h4>                <div><p>A few months ago we started out with the vision of building a next generation sports betting platform focused on performance, reliability, modularity and automation. We believe that our experience paired with today’s technologies, great talent and the agility of a startup environment will enable us to deliver a best-in-class product that meets the demands of the market of tomorrow.</p><p>Our Client Services Team is now on the lookout for a Senior Software Engineer who wants to join our distributed team and help us execute our vision.</p><p><strong>The Team</strong></p><p>The Client Domain is all about innovation. Here we shape our products to satisfy the needs of our heterogeneous customer base. To achieve this you will collaborate closely with the Frontend Engineers of the Client Team to design and implement bespoke APIs and services that will be used by our different products and brands.&nbsp;</p><p>The Client Services Team is tasked with the development of all backend services required by our client applications, i.e. primarily the &nbsp;API Gateway of our platform but also client-related services such as authentication, internationalisation or content management and other backend services that allow us to provide a unique experience to a specific segment of our users. Being our platform’s gateway to the outside world, scalability and responsiveness is of utmost importance in the Client Domain. It is worth noting that the traffic pattern of our platform will not only be dictated by the sporting calendar but also by the sometimes unpredictable behaviour of our users.&nbsp;</p><p>By joining our team you will be working primarily in Elixir but you will also influence the full lifecycle of our software, starting with architectural and design decisions, all the way to the implementation, testing and monitoring of the resulting services.</p><p><strong>Remote Work</strong></p><p>We are hiring for talent, not for a specific location. You will find that members of our team are distributed all over Europe. Being a distributed team enables us to hire only the best, without being restricted to the talent pool available at a specific geographic location. However, to facilitate team communication and collaboration we currently require you to be located in a European time zone (between UTC-1 and UTC+3). You must also be able to travel to other European locations a few times a year for on-site meetings and workshops.</p><p><strong>Compensation</strong></p><p>The base compensation range for this role is €65k-90k annually, depending on your background and experience. It can be subject to an adjustment of up to 15% in either direction if the cost-of-living in your region is far above or below the European average. As an independent contractor you will be responsible for paying any taxes or applicable fees in your country of residence (unless you are based in Malta, in which case you will be employed).&nbsp;In addition to that, we offer a number of&nbsp;<a href='https://careers.bluelabs.eu/#section-127563' rel='nofollow'>perks</a>&nbsp;to each of our team members as we truly believe in a healthy work-life balance and continuous learning.</p><p><strong>Requirements</strong></p><ul><li><p>5+ years of professional software development experience, with at least 2 years of professional experience using Elixir</p></li><li><p>Deep understanding of functional and concurrent programming, as well as distributed systems</p></li><li><p>Deep understanding of microservice architecture, message-based communication and stream processing</p></li><li><p>Good knowledge of test automation, cloud and containerization technologies, code instrumentation and CI/CD pipelines</p></li><li><p>Experience taking full ownership of your services including managing them in a production environment</p></li><li><p>Interest in keeping yourself up to date and learning new languages, frameworks and technologies as required</p></li><li><p>Product-oriented mindset and eagerness to take part in shaping the products we build</p></li><li><p>Ability to work autonomously in a fully distributed team</p></li><li><p>Good communication skills in verbal and written English</p></li></ul>                </div>            <div>        <a href='https://careers.bluelabs.eu/o/senior-software-engineer-elixir/c/new?source=Stack%20Overflow&amp;utm_source=stack_overflow&amp;utm_medium=job&amp;utm_campaign=client_elixir_senior' rel='nofollow'>                        Apply now        </a></div>                    <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Distributed Team, enabling us to hire Europe's best talents</span>                            </li>                            <li>                                <span></span>                                <span>Work only with the latest technologies</span>                            </li>                            <li>                                <span></span>                                <span>Use the best tools and resources money can buy</span>                            </li>                            <li>                                <span></span>                                <span>Regular onsite meetings across Europe</span>                            </li>                            <li>                                <span></span>                                <span>Competitive Compensation</span>                            </li>                            <li>                                <span></span>                                <span>Personal Development Allowance of €1,000 annually</span>                            </li>                            <li>                                <span></span>                                <span>Co-Working Space &amp; Home Office Allowances</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours and time-off policy</span>                            </li>                            <li>                                <span></span>                                <span>Monthly wellbeing allowance for Gym Membership, Massages etc.</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
@@ -165,416 +516,7 @@
     }
   },
   {
-    "id": "6UlRdnJKS8ylTg4bxsdKvA",
-    "url": "https://news.ycombinator.com/item?id=21158207",
-    "title": "IOHK | Scala Developer | Remote | Full-time | https://iohk.io We are a fully remote company ...",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(work,oper) 2N 2N( OR(independ,fulli), remot)",
-      "DBG_TECH1:k/t/w:haskell/other/5",
-      "DBG_TECH1:k/t/w:rust/other/5",
-      "DBG_TECH1:k/t/w:scala/java/12",
-      "DBG_TECH1:techWeightMap:{python=0, other=10, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=12, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java",
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 4, 2019 4:43:31 PM",
-    "validThrough": "Oct 11, 2019 4:43:31 PM",
-    "crawled": "Oct 4, 2019 5:07:26 PM",
-    "content": "IOHK | Scala Developer | Remote | Full-time | <a href='https://iohk.io' rel='nofollow'>https://iohk.io</a><p>We are a fully remote company working mainly on blockchain and cryptocurrencies, we have lots of researchers and have a formal methods team, our main programming languages are Haskell, Scala, and Rust, this position is Scala specific.</p><p>Feel free to apply directly, or contact me (email on my profile) if you have any question.</p><p>Job Description: <a href='https://iohk.io/en/careers/fk0377n/software-engineer-scala/' rel='nofollow'>https://iohk.io/en/careers/fk0377n/software-engineer-scala/</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "5NYNnh5-QQe8HVKCTLFmxQ",
-    "url": "https://news.ycombinator.com/item?id=21155617",
-    "title": "LifeCheq | Clojure/Clojurescript Developers (Junior + Senior positions) | Cape Town, South ...",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:clojure/other/20",
-      "DBG_TECH1:k/t/w:clojurescript/other/15",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:firebase/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=35, dotnet=0, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 4, 2019 9:40:03 AM",
-    "validThrough": "Oct 11, 2019 9:40:03 AM",
-    "crawled": "Oct 4, 2019 10:07:37 AM",
-    "content": "LifeCheq | Clojure/Clojurescript Developers (Junior + Senior positions) | Cape Town, South Africa | Onsite &amp; Remote | Full-timeAt LifeCheq we're building a holistic and affordable financial advice and management service, currently for the South African market - see <a href='http://lifecheq.co.za' rel='nofollow'>http://lifecheq.co.za</a>.<p>Work on:* modelling the complexities of a person's life and the financial products and services that they interact with* automating and suggesting advice for how customers can achieve their goals (buying a house, traveling, saving for education)* streamlining and automating the things that stop customers from taking action such as deciding how to fill in insurance underwriting forms* building interfaces to gather a person's life information as well as presenting advice and progress updates to customers in an accessible way</p><p>We use:* Clojure, Clojurescript (re-frame mostly), Postgres, Firebase, Heroku, CircleCI, Github</p><p>Looking to expand our dev team with Senior and Junior members.Junior (Onsite, be willing to learn Clojure) <a href='https://jobs.braveclojure.com/jobs/17592186047106/junior-to-intermediate-clojure-clojurescript-developer-lifecheq' rel='nofollow'>https://jobs.braveclojure.com/jobs/17592186047106/junior-to-...</a>Senior (Remote UTC+2, prefer South African) <a href='https://jobs.braveclojure.com/jobs/17592186047103/senior-clojure-clojurescript-developer-lifecheq' rel='nofollow'>https://jobs.braveclojure.com/jobs/17592186047103/senior-clo...</a></p><p>Send through your CV or get hold of me if you have any questions dave@lifecheq.co.za</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "wjnWMkokSNuwioF4FDvbGw",
-    "url": "https://news.ycombinator.com/item?id=21136343",
-    "title": "Pitch | Senior Backend + Frontend Engineers | Berlin, Germany | Onsite & Remote | Full-time ...",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:clojure/other/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 2, 2019 3:47:06 PM",
-    "validThrough": "Oct 9, 2019 3:47:06 PM",
-    "crawled": "Oct 2, 2019 4:07:29 PM",
-    "content": "Pitch | Senior Backend + Frontend Engineers | Berlin, Germany | Onsite &amp; Remote | Full-time<p>Pitch, a new company from the makers of Wunderlist, is looking for Senior Backend and Frontend Engineers to join our team onsite in Berlin or remote. We are building a cross-platform presentation tool and are looking for a product-oriented Clojure/Script developers to help realize our vision.</p><p>We've just launched the waiting list for an invite-only beta: <a href='https://pitch.com/news/announcing-our-limited-preview-beta-and-new-funding' rel='nofollow'>https://pitch.com/news/announcing-our-limited-preview-beta-a...</a></p><p>If you enjoy using functional approaches to solving real user problems in a highly collaborative team, we'd love to talk to you.</p><p>More info and other opportunities at <a href='https://pitch.com/about#hiring' rel='nofollow'>https://pitch.com/about#hiring</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "YUeBU-ZNRf-4V_KiJDIftw",
-    "url": "https://news.ycombinator.com/item?id=21129860",
-    "title": "Aircloak (https://aircloak.com) | REMOTE (UTC+2) +-2 | Full-time senior software engineer We ...",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG:surround``remot W OR(career,first)",
-      "DBG_TECH1:k/t/w:elixir/other/5",
-      "DBG_TECH1:k/t/w:f#/other/5",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:k/t/w:rust/other/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 1, 2019 9:56:50 PM",
-    "validThrough": "Oct 8, 2019 9:56:50 PM",
-    "crawled": "Oct 1, 2019 10:31:30 PM",
-    "content": "Aircloak (<a href='https://aircloak.com' rel='nofollow'>https://aircloak.com</a>) | REMOTE (UTC+2) +-2 | Full-time senior software engineer<p>We are looking for a particular kind of person. This job ad might not be for you. May you find a job you are happy in either way!</p><p>You like to work independently, you are pragmatic, and you have the confidence to take on hard problems lacking a detailed spec. You value simple solutions over over-engineered ones. Chances are things will change down the line and changing something simple, or better yet something that was never made, is much easier than changing a monstrosity. You should not need or want anyone breathing down your neck to be productive.</p><p>With the formalities out of the way, let me introduce myself: my name is Sebastian, and I am the CTO at Aircloak. Aircloak is a remote company that has built a privacy preserving data processing and analytics engine. Think of it as an SQL database proxy that generates actually anonymized results on the fly.</p><p>There are countless challenging things to do in this job. They range from parsing SQL, to doing extensive query rewriting and optimization, to ensuring that all results produced are safe and fully anonymous irrespective of the level of deviousness on the part of the analyst using the system.</p><p>The skills we are looking for in a candidate are:</p><p></p><pre><code>  - Intelligence and ability to deal with hard trade-offs  - Great communication skills  - The ability to work independently and take ownership of tasks  - A desire to learn and improve</code></pre>The majority of our system is written in Elixir, but we have parts written in Rust and JavaScript as well. You’ll even find some opportunities to write F# if you want that. Knowledge of functional programming is a plus and experience with web development is not going to hurt either.<p>We do not specifically look for someone with experience in our particular stack. It is our experience that people who are smart tend to pick up the required tools very quickly. Likewise it is less interesting to us what your background is. At the end of the day it’s your skills, brains, and experience that matter.</p><p>Our team is exceptional and quite geographically diverse. The company was built as a remote-first company from the beginning, and we really enjoy the benefits this gives us.</p><p>We look forward to getting to know you and welcoming you to our team!</p><p>If you are interested, please write us at jobs [at] aircloak.com</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "7YOkSAWIQwCIqDq2RrQY3A",
-    "url": "https://news.ycombinator.com/item?id=21126948",
-    "title": "ConsenSys R&D | Senior Software Engineer (Rust) | Full-time | Remote ConsenSys R&D is focused ...",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:rust/other/15",
-      "DBG_TECH1:techWeightMap:{python=0, other=15, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 1, 2019 6:02:53 PM",
-    "validThrough": "Oct 8, 2019 6:02:53 PM",
-    "crawled": "Oct 1, 2019 6:24:08 PM",
-    "content": "ConsenSys R&amp;D | Senior Software Engineer (Rust) | Full-time | RemoteConsenSys R&amp;D is focused on developing open source technology for the next generation of Ethereum.<p>We are looking for senior level engineers and researchers with backgrounds in systems engineering, distributed networks (p2p), parallel computing, WebAssembly, and cryptography. Our team is competitively compensated based on experience.</p><p>Some of the things we are working on:</p><p>* Building a proof-of-concept client in Rust for Ethereum 2.0 which supports WebAssembly execution for multiple shards.</p><p>* Benchmarking the performance of various aspects of WebAssembly runtimes, cryptographic functions, and p2p networking.</p><p>* Developing efficient proof tooling for authenticated data structures (merkle proofs).</p><p>* Exploring BFT consensus schemes for cross shard transactions.</p><p>* Researching and developing global transaction broadcasters.</p><p>Apply here: <a href='https://consensys.net/open-roles/?discipline=61666' rel='nofollow'>https://consensys.net/open-roles/?discipline=61666</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "e18B17UiQK2ulwdTQFxFNg",
-    "url": "https://news.ycombinator.com/item?id=21126332",
-    "title": "Aclaimant | Remote | Full Stack Developer | Full-time | https://aclaimant.com Aclaimant is ...",
-    "tags": [
-      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
-      "DBG_TECH1:k/t/w:clojure/other/15",
-      "DBG_TECH1:k/t/w:clojurescript/other/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=20, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 1, 2019 5:21:40 PM",
-    "validThrough": "Oct 8, 2019 5:21:40 PM",
-    "crawled": "Oct 1, 2019 6:24:08 PM",
-    "content": "Aclaimant | Remote | Full Stack Developer | Full-time | <a href='https://aclaimant.com' rel='nofollow'>https://aclaimant.com</a><p>Aclaimant is looking for a senior or mid-level Clojure developer to join our team. At Aclaimant we are redefining the way companies and employees work together to manage risk. Our SaaS platform is built using Clojure and ClojureScript. We work remotely from the comfort of our own homes. Pair programming is important to us; it helps us build culture and share knowledge. We expect candidates to be located within North America.</p><p>Email jobs@aclaimant.com for more information or visit <a href='https://aclaimant.com/careers-developer' rel='nofollow'>https://aclaimant.com/careers-developer</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "o04glIQ-R5iOerQTxN75Cw",
-    "url": "https://stackoverflow.com/jobs/300986/senior-software-engineer-aircloak-gmbh?a=1CWmCGMwmesM&so_medium=Talent&so_source=TalentApi",
-    "title": "Senior Software Engineer at Aircloak GmbH (Berlin, Germany) ",
-    "tags": [
-      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
-      "DBG:surround``remot 16W timezon",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:elixir/other/10",
-      "DBG_TECH1:k/t/w:f#/other/10",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:k/t/w:rust/other/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=30, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "Aircloak GmbH",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 1, 2019 4:06:34 PM",
-    "validThrough": "Oct 8, 2019 4:06:34 PM",
-    "crawled": "Oct 1, 2019 4:06:35 PM",
-    "content": "<h3><span>Senior Software Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                    </div>                <div>Company: Aircloak GmbH | Berlin, Germany<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Berlin +/- 2 hours</span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>Berlin, Germany.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h4>Technologies</h4><div>sql</div><div>elixir</div><div>f#</div><div>rust</div><div>javascript</div>                <h4>Job description</h4>                <div><p>We are looking for a particular kind of person. This job ad might not be for you. May you find a job you are happy in either way!</p><p>You like to work independently, you are pragmatic, and you have the confidence to take on hard problems lacking a detailed spec. You value simple solutions over over-engineered ones. Chances are things will change down the line and changing something simple, or better yet something that was never made, is much easier than changing a monstrosity. You should not need or want anyone breathing down your neck to be productive.</p><p>With the formalities out of the way, let me introduce myself: my name is Sebastian, and I am the CTO at Aircloak. Aircloak is a remote company that has built a privacy preserving data processing and analytics engine. Think of it as an SQL database proxy that generates actually anonymized results on the fly.</p><p>There are countless challenging things to do in this job. They range from parsing SQL, to doing extensive query rewriting and optimization, to ensuring that all results produced are safe and fully anonymous irrespective of the level of deviousness on the part of the analyst using the system.</p><p>The skills we are looking for in a candidate are:</p><ul><li>Intelligence and ability to deal with hard trade-offs</li><li>Great communication skills</li><li>The ability to work independently and take ownership of tasks</li><li>A desire to learn and improve</li></ul><p>The majority of our system is written in Elixir, but we have parts written in Rust and JavaScript as well. You’ll even find some opportunities to write F# if you want that. Knowledge of functional programming is a plus and experience with web development is not going to hurt either.&nbsp;</p><p>We do not specifically look for someone with experience in our particular stack. It is our experience that people who are smart tend to pick up the required tools very quickly. Likewise it is less interesting to us what your background is. At the end of the day it’s your skills, brains, and experience that matter.</p><p>Our team is exceptional and quite geographically diverse. The company was built as a remote-first company from the beginning, and we really enjoy the benefits this gives us.&nbsp;</p><p>We look forward to getting to know you and welcoming you to our team!</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/300986?reset=False&amp;ra=1CWmCGMwmesM&amp;oqs=a%3D1CWmCGMwmesM%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Aircloak GmbH</h4>            <div><p>Our anonymization engine is data and use case agnostic&nbsp;and used today across banks, telcos and in healthcare. Our most notable customer is one of the world’s largest telcos.</p><p>The challenges in building a system like ours are countless. At the core of it lies our ability to provide a rich query interface, while ensuring that no query can ever leak sensitive information about individuals. Our technology stems out of years of research at the Max Planck Institute for Software Systems; We have academic backgrounds from the University of Cambridge, Bell Labs and Cornell University. But it takes a killer team to make a strong technology like ours a commercial success – and that’s where you come into play.</p><p>We offer competitive salaries, equity, sensible working hours and an exciting and friendly work environment.</p><p>We believe you get more and better work done&nbsp;when you have a healthy work life balance, and actively encourage that.</p><p>-----------------------</p><p>Please note: we are receiving a very high number of applications. If you want to apply, please:</p><ul><li>write a couple of lines about why it is you are applying for a job at Aircloak</li><li>Include the line &quot;I read until the bottom&quot;, so we know you actually read the job ad.</li></ul><p>Sorry for this pedantic bullshit, but it will make it significantly easier for us to filter for those who actually are looking for a job at Aircloak, and not just blanket bombing this site!</p>            </div>        ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "lpJlBMx_TDaXDHyYR4-Lbw",
-    "url": "https://stackoverflow.com/jobs/300986/senior-software-engineer-sebastian-aircloakcom?a=1CWmCGMwmesM&so_medium=Talent&so_source=TalentApi",
-    "title": "Senior Software Engineer at sebastian@aircloak.com (Berlin, Germany) ",
-    "tags": [
-      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
-      "DBG:surround``remot 16W timezon",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:elixir/other/10",
-      "DBG_TECH1:k/t/w:f#/other/10",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:k/t/w:rust/other/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=30, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
-      "REMOTE1/100",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "sebastian@aircloak.com",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 1, 2019 12:06:34 PM",
-    "validThrough": "Oct 8, 2019 12:06:34 PM",
-    "crawled": "Oct 1, 2019 12:06:35 PM",
-    "content": "<h3><span>Senior Software Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                    </div>                <div>Company: sebastian@aircloak.com | Berlin, Germany<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Berlin +/- 2 hours</span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>Berlin, Germany.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h4>Technologies</h4><div>sql</div><div>elixir</div><div>f#</div><div>rust</div><div>javascript</div>                <h4>Job description</h4>                <div><p><span>We are looking for a particular kind of person. This job ad might not be for you. May you find a job you are happy in either way!</span></p><p><span>You like to work independently, you are pragmatic, and you have the confidence to take on hard problems lacking a detailed spec. You value simple solutions over over-engineered ones. Chances are things will change down the line and changing something simple, or better yet something that was never made, is much easier than changing a monstrosity. You should not need or want anyone breathing down your neck to be productive.</span></p><p><span>With the formalities out of the way, let me introduce myself: my name is Sebastian, and I am the CTO at Aircloak. Aircloak is a remote company that has built a privacy preserving data processing and analytics engine. Think of it as an SQL database proxy that generates actually anonymized results on the fly.</span></p><p><span>There are countless challenging things to do in this job. They range from parsing SQL, to doing extensive query rewriting and optimization, to ensuring that all results produced are safe and fully anonymous irrespective of the level of deviousness on the part of the analyst using the system.</span></p><p><span>The skills we are looking for in a candidate are:</span></p><ul><li>Intelligence and ability to deal with hard trade-offs</li><li>Great communication skills</li><li>The ability to work independently and take ownership of tasks</li><li>A desire to learn and improve</li></ul><p><span>The majority of our system is written in Elixir, but we have parts written in Rust and JavaScript as well. You’ll even find some opportunities to write F# if you want that. Knowledge of functional programming is a plus and experience with web development is not going to hurt either.&nbsp;</span></p><p><span>We do not specifically look for someone with experience in our particular stack. It is our experience that people who are smart tend to pick up the required tools very quickly. Likewise it is less interesting to us what your background is. At the end of the day it’s your skills, brains, and experience that matter.</span></p><p><span>Our team is exceptional and quite geographically diverse. The company was built as a remote-first company from the beginning, and we really enjoy the benefits this gives us.&nbsp;</span></p><p><span>We look forward to getting to know you and welcoming you to our team!</span></p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/300986?reset=False&amp;ra=1CWmCGMwmesM&amp;oqs=a%3D1CWmCGMwmesM%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About sebastian@aircloak.com</h4>            <div><p>Our anonymization engine is data and use case agnostic&nbsp;and used today across banks, telcos and in healthcare. Our most notable customer is one of the world’s largest telcos.</p><p>The challenges in building a system like ours are countless. At the core of it lies our ability to provide a rich query interface, while ensuring that no query can ever leak sensitive information about individuals. Our technology stems out of years of research at the Max Planck Institute for Software Systems; We have academic backgrounds from the University of Cambridge, Bell Labs and Cornell University. But it takes a killer team to make a strong technology like ours a commercial success – and that’s where you come into play.</p><p>We offer competitive salaries, equity, sensible working hours and an exciting and friendly work environment.</p><p>We believe you get more and better work done&nbsp;when you have a healthy work life balance, and actively encourage that.</p><p>-----------------------</p><p>Please note: we are receiving a very high number of applications. If you want to apply, please:</p><ul><li>write a couple of lines about why it is you are applying for a job at Aircloak</li><li>Include the line &quot;I read until the bottom&quot;, so we know you actually read the job ad.</li></ul><p>Sorry for this pedantic bullshit, but it will make it significantly easier for us to filter for those who actually are looking for a job at Aircloak, and not just blanket bombing this site!</p>            </div>        ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "zn6KZcyOSQeBF1nASTy52Q",
+    "id": "BGFzs7BgQ4OjyMU9R5DHuw",
     "url": "https://stackoverflow.com/jobs/296070/senior-rust-webgl-developer-luna?a=1Bi97wOj97Ms&so_medium=Talent&so_source=TalentApi",
     "title": "Senior Rust WebGL Developer at Luna (Kraków, Poland) ",
     "tags": [
@@ -617,9 +559,9 @@
       "formatted": "USD 40k - 120k /Year | Equity"
     },
     "employmentType": "UNSET",
-    "published": "Sep 30, 2019 5:06:31 PM",
-    "validThrough": "Oct 7, 2019 5:06:31 PM",
-    "crawled": "Sep 30, 2019 5:06:31 PM",
+    "published": "Oct 21, 2019 10:30:31 PM",
+    "validThrough": "Oct 28, 2019 10:30:31 PM",
+    "crawled": "Oct 21, 2019 10:30:31 PM",
     "content": "<h3><span>Senior Rust WebGL Developer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Graphics/Game Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud Computing, Data Science, Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Luna | Kraków, Poland<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Kraków, Poland.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                            <div>                                    <span>Visa Sponsorship:</span>                                    <span>Yes</span>                                </div>                                                            <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h4>Technologies</h4><div></div><div>rust</div><div>webassembly</div><div>graphics</div><div>rendering</div><div>webgl</div>                <h4>Job description</h4>                <div><p><strong>Senior Graphics Developer</strong></p><p><a href='https://luna-lang.org' rel='nofollow'>Luna</a> is looking for a senior graphics developer to take charge of the design, development, and evolution of a new WebGL-based GUI for Luna, a project said by Singularity University to have the potential to change the lives of one-billion people. If you bring strong technical skills and a passion for performance, this could be the role for you.</p><p>As a senior graphics developer you'll be a key part of bringing the vision for Luna 2.0 into reality, with your work being integral to the realisation of the next iteration of Luna. You'll be able to collaborate with world-class team of skilled engineers, community managers, and business developers (from Bloomberg, PayPal, and GitHub to name a few), and make your indelible mark on the future of Luna.</p><p><strong>What You'll Do</strong></p><p>As a senior graphics developer, you'll be responsible for designing and building a high-performance renderer based on web technologies for use in the Luna IDE: Luna Studio. This will involve:</p><ul><li>Working closely with stakeholders and customers to design the new GUI for Luna Studio.</li><li>Developing a design for the new renderer that will be used to implement this GUI.</li><li>Implementing the new renderer in a high-performance manner on top of WebGL and Rust (via Web Assembly).</li><li>Building a next-generation UI framework using this renderer for use in Luna Studio.</li><li>Using this UI framework to build the new GUI for Luna Studio itself.</li><li>Debug performance issues to ensure that the renderer is capable of achieving high performance even on low-powered hardware.</li><li>Creating visualisations for data science libraries using the renderer and D3.js.</li></ul><p><strong>The Skills We're Looking For</strong></p><p>We have a few particular skills that we're looking for in this role:</p><ul><li>A strong focus on both user experience and aesthetics.</li><li>3+ years experience with WebGL (or OpenGL).</li><li>A deep understanding of graphics abstractions including: VAOs, FBOs, PBOs, buffer types, and asynchronous computation modes.</li><li>A deep understanding of GPU techniques including: efficient buffer management, efficient GLSL construction, high-performance vector and font rendering, post-processing, 3D scene description (with nested objects), lights, cameras, and animation.</li><li>2+ years experience with Rust, including experience writing <code>unsafe</code> code for FFI and performance, and using the macro system for metaprogramming. You should be able to write <em>idiomatic</em> rust code.</li><li>Practical experience building high-performance graphical interfaces for end-user-facing applications.</li></ul><p>As part of the hiring process for this job posting we're <em>very</em> interested in your previous work in these areas. Please link us to your Rust projects, blog posts and shadertoy shaders if you have them! It's important for us to understand your experience at the start of the hiring process.</p><p>It would be a big bonus if you had:</p><ul><li>Experience with Rust's WASM toolchain, with wasm-bindgen, and experience with WASM itself.</li><li>Experience with visual programming systems such as Houdini, Max/MSP, Lab VIEW, or Touch Designer.</li><li>Knowledge of the runtime and memory models used by various JavaScript virtual machines.</li><li>Knowledge of D3.js, and experience using it to visualise data.</li></ul><p>Avoid <a href='https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/' rel='nofollow'>the confidence gap</a>. You don't have to match <em>all</em> of the skills above to apply!</p><p><strong>Who You'll Work With</strong></p><p>You'll be joining a distributed, multi-disciplinary team that includes people with skills spanning from compiler development to data-science. Though you'll have your area to work on, our internal culture is one of collaboration and communication, and input is always welcomed.</p><p>We firmly believe that only by working <em>together</em>, rather than putting our team members in their own boxes, can we create the best version of Luna that can be.</p><p><strong>The Details</strong></p><p>As part of the Luna team you'd be able to work from anywhere, whether that be at home, or on the go! We have team members distributed across the world, from San Francisco, to London, to Kraków. We welcome remote work and flexible schedules, or you can work from the Kraków office (or our planned SF office) if you'd like. We can provide competitive compensation and holiday, as well as the possibility of equity as time goes on.</p><p><strong>How To Apply?</strong></p><p>Send us an email at <code><a href='mailto:jobs@luna-lang.org' rel='nofollow'>jobs@luna-lang.org</a></code>, and tell us a little bit about yourself and why you think you'd be a good fit for the role! You can also tell us about:</p><ul><li>Some of your past work or projects.</li><li>Why you'd like to work on Luna, and where you imagine Luna being in 5 years.</li><li>The most important features of a team that you'd like to work in.</li><li>Whether you take pride in your ability to communicate clearly and efficiently with your team.</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/296070?reset=False&amp;ra=1Bi97wOj97Ms&amp;oqs=a%3D1Bi97wOj97Ms%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Luna</h4>            <div><p><strong>About Luna</strong><br>Luna is an award-winning general-purpose programming language and data-science platform, selected by NASA and Singularity University as a technology with the potential to impact the lives of one-billion people worldwide. It spans the entire stack, from high-level visualisation and communication, to the<br>nitty-gritty of running backend services in a single language. With inbuilt capabilities for visualisation and a dual-syntax architecture, the possibilities are limitless.<br><br>At Luna, we have a world-class team, with developers, community managers, and business developers from all walks of life and backgrounds, and work in close collaboration with industry advisers such as Robert Gentleman, the creator of the R programming language and computational biologist at 23andMe, and Edward Kmett, a skilled language designer and machine intelligence researcher at MIRI.<br><br>We welcome anybody to our team, as long as you have the desire and drive to see Luna succeed.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Team built around the Humility, Respect, and Trust ideology.</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours, possible part / full time remote work.</span>                            </li>                            <li>                                <span></span>                                <span>Work in a small team of world-class engineers and make impact on Luna.</span>                            </li>                            <li>                                <span></span>                                <span>Competitive compensation + possibility of equity as time goes on.</span>                            </li>                            <li>                                <span></span>                                <span>Equality, diversity &amp; inclusion.</span>                            </li>                            <li>                                <span></span>                                <span>We've got standing desks in our office (no one uses them though :P).</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
@@ -633,25 +575,33 @@
     }
   },
   {
-    "id": "BrhmLTG1Sq6EQqsucHBDaw",
-    "url": "https://jobmote.com/job/79582/remote-role-oracle-consultant-with-strong-development-perl-shell/",
-    "title": "Remote role - Oracle consultant with strong development (perl / Shell)",
+    "id": "Mps0aEMvR6SqyAOi4AsrUQ",
+    "url": "https://stackoverflow.com/jobs/300986/senior-software-engineer-aircloak-gmbh?a=1CWmCGMwmesM&so_medium=Talent&so_source=TalentApi",
+    "title": "Senior Software Engineer at Aircloak GmbH (Berlin, Germany) ",
     "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:perl/other/10",
-      "DBG_TECH1:k/t/w:shell/other/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=13, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``remot 16W timezon",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:elixir/other/10",
+      "DBG_TECH1:k/t/w:f#/other/10",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=25, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
       "REMOTE1/100",
       "TECH1/other",
       "TITLE1/dev",
-      "TZ/unknown"
+      "TZ/Europe"
     ],
-    "tagsNames1": [],
+    "tagsNames1": [
+      "European time zones"
+    ],
     "tagsNames2": [
       "other"
     ],
     "hiringOrganization": {
-      "name": "Sunera Technologies",
+      "name": "Aircloak GmbH",
       "sameAs": "UNSET"
     },
     "salary": {
@@ -665,10 +615,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Sep 25, 2019 10:08:18 PM",
-    "validThrough": "Sep 28, 2019 10:08:18 PM",
-    "crawled": "Sep 26, 2019 3:06:32 AM",
-    "content": "<div>Job Title: Oracle Consultant with development Location: Chicago / Remote role Duration: Full time role Desired Profile This role is for Suneratech Internal. For this position we need someone who is from development background and strong Apps DBA knowledge. Has experience in Unix Shell Scripting or Perl Scripting Please reach out to me on or apply for this position for more details and we can discuss in detail about this role. Thank you for your time. Thanks Sunera Technologies, Inc. - provided by Dice</div>",
+    "published": "Oct 21, 2019 10:30:31 PM",
+    "validThrough": "Oct 28, 2019 10:30:31 PM",
+    "crawled": "Oct 21, 2019 10:30:31 PM",
+    "content": "<h3><span>Senior Software Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                    </div>                <div>Company: Aircloak GmbH | Berlin, Germany<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Berlin +/- 2 hours</span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>Berlin, Germany.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h4>Technologies</h4><div>sql</div><div>elixir</div><div>f#</div><div>javascript</div>                <h4>Job description</h4>                <div><p>We are looking for a particular kind of person. This job ad might not be for you. May you find a job you are happy in either way!</p><p>You like to work independently, you are pragmatic, and you have the confidence to take on hard problems lacking a detailed spec. You value simple solutions over over-engineered ones. Chances are things will change down the line and changing something simple, or better yet something that was never made, is much easier than changing a monstrosity. You should not need or want anyone breathing down your neck to be productive.</p><p>With the formalities out of the way, let me introduce myself: my name is Sebastian, and I am the CTO at Aircloak. Aircloak is a remote company that has built a privacy preserving data processing and analytics engine. Think of it as an SQL database proxy that generates actually anonymized results on the fly.</p><p>There are countless challenging things to do in this job. They range from parsing SQL, to doing extensive query rewriting and optimization, to ensuring that all results produced are safe and fully anonymous irrespective of the level of deviousness on the part of the analyst using the system.</p><p>The skills we are looking for in a candidate are:</p><ul><li>Intelligence and ability to deal with hard trade-offs</li><li>Great communication skills</li><li>The ability to work independently and take ownership of tasks</li><li>A desire to learn and improve</li></ul><p>The majority of our system is written in Elixir, but there is a frontend in HTML+JavaScript, and a tiny part written in Rust as well. You’ll might even find some opportunities to write in F# from time to time. Knowledge of functional programming is a plus and experience with web development is not going to hurt either.&nbsp;</p><p>We do not specifically look for someone with experience in our particular stack. It is our experience that people who are smart tend to pick up the required tools very quickly. Likewise it is less interesting to us what your background is. At the end of the day it’s your skills, brains, and experience that matter.</p><p>Our team is exceptional and quite geographically diverse. The company was built as a remote-first company from the beginning, and we really enjoy the benefits this gives us.&nbsp;</p><p>We look forward to getting to know you and welcoming you to our team!</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/300986?reset=False&amp;ra=1CWmCGMwmesM&amp;oqs=a%3D1CWmCGMwmesM%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Aircloak GmbH</h4>            <div><p>Our anonymization engine is data and use case agnostic&nbsp;and used today across banks, telcos and in healthcare. Our most notable customer is one of the world’s largest telcos.</p><p>The challenges in building a system like ours are countless. At the core of it lies our ability to provide a rich query interface, while ensuring that no query can ever leak sensitive information about individuals. Our technology stems out of years of research at the Max Planck Institute for Software Systems; We have academic backgrounds from the University of Cambridge, Bell Labs and Cornell University. But it takes a killer team to make a strong technology like ours a commercial success – and that’s where you come into play.</p><p>We offer competitive salaries, equity, sensible working hours and an exciting and friendly work environment.</p><p>We believe you get more and better work done&nbsp;when you have a healthy work life balance, and actively encourage that.</p><p>-----------------------</p><p>Please note: we are receiving a very high number of applications. If you want to apply, please:</p><ul><li>write a couple of lines about why it is you are applying for a job at Aircloak</li><li>Include the line &quot;I read until the bottom&quot;, so we know you actually read the job ad.</li></ul><p>Sorry for this pedantic bullshit, but it will make it significantly easier for us to filter for those who actually are looking for a job at Aircloak, and not just blanket bombing this site!</p>            </div>        ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -681,56 +631,42 @@
     }
   },
   {
-    "id": "Hk5rzzcPRI69BccStMV3kw",
-    "url": "https://weworkremotely.com/remote-jobs/peerfit-backend-developer-elixir",
-    "title": "Peerfit: Backend Developer (Elixir)",
+    "id": "QchYf1PjS0ifemr2ebHB2A",
+    "url": "https://weworkremotely.com/remote-jobs/teamweek-backend-elixir-developer-remote-2",
+    "title": "Teamweek: Backend Elixir Developer (Remote)",
     "tags": [
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:bash/other/1",
-      "DBG_TECH1:k/t/w:django/python/8",
-      "DBG_TECH1:k/t/w:elixir/other/15",
-      "DBG_TECH1:k/t/w:flask/python/8",
-      "DBG_TECH1:k/t/w:kotlin/mobile/5",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:swift/apple/5",
-      "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=16, other=16, dotnet=0, c=0, mobile=13, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=5, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
-      "REMOTE1/50",
-      "TECH1/mobile",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:elixir/other/30",
+      "DBG_TECH1:techWeightMap:{python=0, other=30, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
       "TECH1/other",
-      "TECH1/python",
       "TITLE1/dev",
       "TZ/unknown"
     ],
-    "tagsNames1": [
-      "50% remote"
-    ],
+    "tagsNames1": [],
     "tagsNames2": [
-      "mobile",
-      "other",
-      "python"
+      "other"
     ],
     "hiringOrganization": {
-      "name": "Peerfit",
-      "sameAs": "https://www.peerfit.com"
+      "name": "Teamweek",
+      "sameAs": "https://teamweek.com/"
     },
     "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
+      "currency": "EUR",
+      "minValue": 50000,
+      "maxValue": 50000,
       "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
       "isEquity": false,
-      "formatted": ""
+      "formatted": "EUR 50k /Year"
     },
     "employmentType": "UNSET",
-    "published": "Sep 26, 2019 12:18:07 AM",
-    "validThrough": "Oct 3, 2019 12:18:07 AM",
-    "crawled": "Sep 26, 2019 1:06:31 AM",
-    "content": "<h3> Backend Developer (Elixir) </h3><div><div><strong><em>Not open to outside recruiting firms. Applicants please apply here. Please do not send resumes directly to any hiring manager. </em></strong><br><br><strong>Peerfit</strong></div><div>Interested in working for a team of people completely redefining how fitness and health care work together? At Peerfit, we’re flipping wellness reimbursements on their head by connecting insurers’ and employers’ wellness dollars to popular fitness studios offering CrossFit, yoga, barre, boot camp, cycling, and more. If working with a team of innovative and driven people who are modernizing how people engage with wellness excites you, look no further than Peerfit.</div><div><br></div><div><strong>POSITION SUMMARY:</strong></div><div>As a backend software engineer you'll support the business as it undergoes extensive scaling this year. This will include:</div><ul><li>Integrating with 3rd party APIs to support our Fitness Network expansion</li><li>Expanding and improving our microservices architecture</li><li>Developing cloud-native applications and services with modern languages, frameworks, databases, and other cloud-based solutions</li><li>Applying Domain Driven Design to the modeling of the application and adapt it to current business strategy and processes</li></ul><div><br>You will be joining a collaborative team of polyglot developers who are working to bring the current system to its next tier of maturity. The ideal candidate should be prepared to continue to scale the platform's robustness through clean code and test coverage, enhance the adaptability and fault tolerance of the system, and help to coordinate key architecture and technology decisions.<br><br>We're seeking someone who is solution-oriented, pragmatic, empathetic, and consensus-driven in their approach to rapidly building iterative software that solve real problems in our product and technical domains.<br><br></div><div><strong>RESPONSIBILITIES:</strong></div><div>You will be responsible for managing, extending and scaling our integration services and help influence our technical architecture with systems that can support the business' continued growth. You will represent the backend in the delivery of new platform features through full-stack project teams. In addition, you will provide support to your backend peers through pair programming, code reviews, and team-wide continuous improvement.<br><br>You will also collaborate with the other functional areas that make up the Product team including Data, Frontend Web (React), Native mobile (Swift, Kotlin), and Infrastructure (Google Cloud Platform). Additionally, you will work with members of the business to understand objectives from first principles, capture requirements through user stories and journeys, and deliver solutions through a stakeholder-driven acceptance process.<br><br></div><div><strong>EXPERIENCE/QUALIFICATIONS:</strong></div><ul><li>A minimum of 1 year of Elixir in a production environment</li><li>A minimum of 3 years of professional experience with modern web application stacks, preferably Ruby on Rails, Django or Flask, or similar</li><li>Well versed in test driven development and confident in applying the right amount and types of coverage to support a healthy balance between robustness and speed</li><li>Capable of managing a restful API that supports both internal and external clients and can provide backwards compatibility where necessary</li><li>Comfortable driving consensus in contract negotiation with API consumers and experienced with delivering an annotation strategy to support documentation/discoverability</li><li>Experienced in writing approachable, well-encapsulated code whose intentions are clear to other contributors and well-suited for extension and change</li><li>Confident navigating situations where minimum viable solutions must be produced to meet fast-paced timelines where the business value is high; capable of setting the right expectations in such cases and proposing longer term strategy on appropriately maturing or deprecating such assets.</li></ul><div><br></div><div><strong>NICE TO HAVES:</strong></div><ul><li>Strong command of open source tooling including bash, vim, tmux</li><li>Contribution to open source projects</li><li>Experience with Relational Databases (e.g. PostgreSQL, MySQL)</li><li>Experience with Docker, Kubernetes, and/or Cloud infrastructure technologies</li><li>Knowledge of authentication and authorization solutions (e.g. oAuth, JWT, SAML)</li><li>Knowledge of Domain Driven Design patterns, SOLID principles, and the 12-factor app methodology</li></ul><div><br></div><div><strong>EDUCATIONAL GUIDELINES:</strong></div><div>Bachelor’s degree in an information/comp-sci program or the equivalent combination of education, training, or work experience.</div><div><br></div><div><strong>WHO WE NEED: </strong><em>(Intangibles)&nbsp;</em></div><ul><li>Passionate about health and fitness</li><li>Growth-focused, both personally and professionally&nbsp;</li><li>Stays motivated and knows how to be persistent</li><li>Is self-directed, but knows when to ask for help</li><li>Can work remotely and make decisions autonomously at a high level</li><li>Flexibility to handle changing responsibilities</li></ul><div><br></div><div><strong>WHAT YOU GET:</strong></div><ul><li>The opportunity to help expand the impact of Peerfit across the United States…and, someday, the world!</li><li>The chance to work in a relaxed, yet goal-driven start-up culture with a passion for fitness</li><li>Peerfit credits to attend fitness classes.</li><li>Chance to work remotely with flexible scheduling</li><li>Health Insurance &amp; other benefits</li></ul><div><br></div><div><em>Peerfit is an Equal Opportunity Employer.&nbsp;</em></div></div>",
+    "published": "Oct 21, 2019 2:05:12 PM",
+    "validThrough": "Oct 28, 2019 2:05:12 PM",
+    "crawled": "Oct 21, 2019 10:30:29 PM",
+    "content": "<h3> Backend Elixir Developer (Remote) </h3><div><div><br></div><div>❓ Are you an ambitious backend developer who likes taking on new challenges? Are you eager to learn Elixir (or already have Elixir experience)? Do you want the perks of working for a private company but the flexibility of working from home?</div><div><br></div><div>If so, read on...</div><div><br></div><div>We are looking for a backend developer who will help us:</div><ul><li>Build and maintain our backend applications and our growing infrastructure;</li><li>Optimize performance and stability of our applications and databases;</li><li>Experiment with new ways to improve our product and experience as a team;</li></ul><div><br>The ideal candidate should be experienced with Git, PostgreSQL, Linux and Elixir. If you’re a developer with no Elixir experience, but are eager to learn it, we’d love to have you!&nbsp;</div><div><br></div><div>The starting annual salary is 50.000 EUR.<br><br></div><div>As long as you can overlap for a few hours between 0700 - 1400h UTC, you can work from anywhere in the world with a good internet connection. Benefits include generous paid time off, an allowance for home office set-up, stipends for Internet and co-working space rental, travel for conferences, trainings and team meet-ups, and more.</div><div><br></div><div> Take our test to see if you’re a good fit. We plant a tree for every qualified candidate!</div><div><br><br><br><br><br></div></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
