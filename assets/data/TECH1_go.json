@@ -1,6 +1,56 @@
 {
  "items": [
   {
+    "id": "AN3o6U0sSbufs7gqkkotOA",
+    "url": "https://remote.co/job/go-developer-2/",
+    "title": "Go Developer",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:go-developer/go/26",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=40, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "SEMrush",
+      "sameAs": "http://www.semrush.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 23, 2019 4:14:11 PM",
+    "validThrough": "Oct 30, 2019 4:14:11 PM",
+    "crawled": "Oct 23, 2019 5:07:26 PM",
+    "content": "<h3>Go Developer at <span>SEMrush</span></h3><div><span><i></i> Remote</span>         | <span> International </span></div><div>            <p><strong>Remote</strong></p><p><strong>SEMrush</strong> is a unique service for professionals in the field of Internet marketing, a multidisciplinary marketing platform consisting of many tools that helps marketers around the world to assess the position of their product on the Web, track the activity of competitors, the effectiveness of online advertising and much more.</p><p>More than 30 development teams are now working on all this! The main development center is located in St. Petersburg, and there are also offices in the USA, Czech Republic and Cyprus. Yes Yes. We grow by leaps and bounds and do not even think about stopping. Perhaps when you come to us – there will be even more teams.</p><p><strong>What will we do:</strong></p><p>The main objective of the project is to make the development process in the company easier and better by combining products into a single ecosystem – the platform. This will allow teams to concentrate on business tasks while the platform solves issues of logging, tracing, limiting, interservice communication, etc.<br>The project is new and the team is going from scratch. We are creating the first fully distributed team in the company. In our product, we are not ready to sacrifice either result or quality. Our rules are not set in stone; the team creates them and follows them. We are looking for specialists who do not stand still and will grow with the team. Every quarter we will meet in Prague or St. Petersburg to plan further development of the project and communicate live.</p><p><strong>We expect you to:</strong></p><ul><li>Independent</li><li>Ready to work by the rules, but without fanaticism</li><li>Responsible</li><li>Know how to switch between global and detailed product vision</li><li>You know how to defend your point of view and accept others</li></ul><p><strong>Technical skills that you definitely need:</strong></p><ul><li>Excellent knowledge of Golang</li><li>Docker Experience</li><li>Experience with K8s</li><li>Distributed Systems Development Experience</li><li>Good knowledge of relational databases, SQL</li><li>Git Skills</li><li>Experience with * nix console</li></ul><p><strong>It will be a plus:</strong></p><ul><li>Experience with GRPC</li><li>Experience with CI / CD</li><li>Ability to maintain your code (monitoring, logs).</li></ul><p><strong>We offer:</strong></p><ul><li><strong>Remote work from anywhere in the world</strong></li><li>The beginning of the working day will suit both the lark and the owl, as our day starts from 11:00 to 15:00 CEST</li><li>We are ready to tell, show and share with you the Agile approach in work (there are coaches and HRs who are happy to teach everything)</li><li>For your leveling and development of your team, we are always happy to discuss trainings / online courses / conferences / books!</li></ul>        </div><div>        <a href='https://www.semrush.com/company/careers/jobs/374958' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "WIr6X8K0SvWHpoDBC9uqOg",
     "url": "https://landing.jobs/at/worldcoders/senior-back-end-developer-in-lisbon-2019-10-18?utm_campaign=landing+rss&utm_content=Senior+Back-end+Developer&utm_medium=referral&utm_source=rss",
     "title": "Senior Back-end Developer",
@@ -3662,56 +3712,6 @@
     "validThrough": "Aug 26, 2019 10:07:38 PM",
     "crawled": "Aug 24, 2019 3:06:24 AM",
     "content": "<div>OpenCounter is a technology company that builds permitting and licensing software for state and local governments. We believe that 21st-century governments should provide user-friendly and accessible interfaces to core government services in order to foster economic development and safer, more connected communities. Our software furthers this goal by guiding applicants through the complex regulatory requirements associated with home improvements, new businesses, special events, and more.<br>Our software calculates where a project is allowed, which permits will be required, how much the permits will cost, and which licensed professionals need to be on the project team. When the applicant is ready to move forward, they can apply and pay for permits online. Staff then review the applications and issue official permits online. This cuts down on trips to City Hall for applicants, as well as repetitive questions for city staff.<br>OpenCounter was acquired in February 2019 by GTY Technology Inc. (NASDAQ:GTYH), which is building the pre-eminent SaaS platform for state and local governments. We're already working with 50 of the largest cities in the country and plan to scale to 500 cities in the next several years. We're looking for an energetic, friendly, and self-motivated Q.A. Lead to maintain our high quality standards as we grow.<br>Primary ResponsibilitiesTriage incoming bug reports and manage the organization of existing bugs.Assess severity of new and existing bugs and maintain a prioritized queue accordingly.Track where automated testing coverage is less than adequate and prioritize a list of feature domains in need of additional automated test coverage.Manage the manual testing of areas with low automated test coverage.Administer the weekly deploy process, including Q.A. of new functionality, running manual &quot;smoke tests&quot;, and providing a &quot;go / no go&quot; determination.Represent the needs of Q.A. throughout the software development life cycle, from ideation to design to engineering to delivery.<br>Qualifications3-5+ years of experience with agile software development quality assurance (Our platform is web-based; the strongest candidates will have experience specifically with quality assurance of web platforms.)Strong organizational skills (We move fast, which means the ability to process information quickly and stay organized is critical. Inventorying and cataloging bugs is a fundamental step in getting them fixed.)Demonstrated prioritization skills (We believe that there will always be more to do than we have the resources to accomplish (nothing is ever perfect), which focuses our attention on prioritization. Not all bugs are created equal.)Clear communication skills (This role will be cross-functionally integrated with Engineering, Product, Design, and Account Management in order to have Q.A.'s concerns represented throughout the software development life cycle. Clear and effective communication is key.)Ownership / Responsibility (We will support you when things go wrong, but we're looking for a candidate who proactively does what's required to get projects across the finish line on time.)<br>About OpenCounterOpenCounter is a distributed (&quot;remote&quot;) team headquartered in downtown San Francisco. The company was incubated at Code for America in 2012 and was a winner of the Knight News Challenge for Open Government in 2013. Since then, we've scaled to some of the largest cities in the country (San Diego, Atlanta, Detroit, Orlando, and others), and we process hundreds of thousands of permit applications each year. Our goal is to build modern tools that help cities streamline service delivery, improve citizen engagement, and promote economic development. We offer generous benefits, as well as employee stock compensation. We're looking for extraordinary people to join our small, tight-knit team.<br>Equal Opportunity EmployerOpen Counter Enterprises Inc. is an equal opportunity employer and values diversity on its team. As such, we will not discriminate against any employee or applicant on the basis of age, color, disability, gender, national origin, race, religion, sexual orientation, veteran status, or any other classification protected by federal, state, or local law.<br>How to ApplyPlease reply to this posting and include a brief description of why you would be a good fit.</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "NAAf15G7RVuE1SYTl6RIRw",
-    "url": "http://workinstartups.com/job-board/job/83721/golang-framework-and-microservices-developer-londonremote-at-tabeo/",
-    "title": "Golang Framework and Microservices Developer - London/Remote",
-    "tags": [
-      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
-      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
-      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:golang/go/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=19, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/go",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "go"
-    ],
-    "hiringOrganization": {
-      "name": "Tabeo",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 23, 2019 1:38:04 PM",
-    "validThrough": "Aug 30, 2019 1:38:04 PM",
-    "crawled": "Aug 23, 2019 3:06:36 PM",
-    "content": "<p>About Tabeo</p><br /><p>Our mission is to make healthcare more accessible and affordable. Tabeo builds payments and business tools for medical professionals. We&rsquo;re helping independent dental practices and large hospital groups create new, digital patient experiences.</p><br /><p>In the last 12 months, we&rsquo;ve grown the number of our partners delivering care from 30 to 600 in the UK. Our team plans to expand its network to 2,000 in the next 12 months. By December, our revenue will be 50x higher than for the same period last year.&nbsp;</p><br /><p><br />What will you do</p><br /><p>You will work on important parts of our back-end. This will include our TabeoSprint CQRS/ES architecture framework as well as several microservices that utilise it. Your input will be valuable to enhancing and improving the framework and existing microservices as well as designing and developing new microservices.</p><br /><p>You will wear many hats, have lots of challenges, and if you're the type that loves grokking and learning on a dime, then you'll love the scope of what you can contribute to on a daily basis.</p><br /><p><br />You&rsquo;ll work closely with</p><br /><p>Hisham, Marcin and Peter. In your first few weeks, you will be expected to work in the office in London with Hisham who will introduce you to the existing codebase.</p><br /><p><br />How we work</p><br /><p>Our dev team works remotely most of the time with regular meetings in our office in central London every few weeks. We&rsquo;re using agile methodology through SCRUM based on 2 week sprints. Our team is completely international so at work we speak only English.</p><br /><p><br />How you&rsquo;ll fit in</p><br /><p>You have good experience creating RESTful APIs in one of the popular programming languages.<br />You have experience working with Go(lang) or willing to learn it.<br />You know design patterns.<br />You know how to use Docker.<br />You know how to use Git.<br />You have a good understanding of SQL.<br />You&rsquo;re a quick learner.<br />You speak and write English.<br />You&lsquo;re a team player with a good sense of humor.</p><br /><p><br />Our stack that you&rsquo;ll be working with</p><br /><p>Golang (CQRS/ES based APIs)<br />Docker, Kubernetes, Google Cloud Platform<br />Apache Kafka, PostgreSQL<br />... and many others</p><br /><p><br />What we offer</p><br /><p>Competitive salary (based on location and experience)<br />Work with awesome people<br />Competitive vacation policy<br />Flexible working, at home, away or in office<br />Private health insurance<br />Life insurance and disability benefits<br />Regular team events<br />Free coffee, drinks, fruits, muesli and snacks<br />&pound;2,000 budget per year for your personal development<br />Start date: next 3 months</p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
