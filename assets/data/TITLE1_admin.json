@@ -1,6 +1,215 @@
 {
  "items": [
   {
+    "id": "WTuIpX28RD6QH9EoqHbjVQ",
+    "url": "https://remoteok.io/jobs/75928",
+    "title": "DevOps Lead",
+    "tags": [
+      "DBG:surround``2N( OR(employe,develop,engin,team,workmat), spread, OR(out,across) )",
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:embed/embedded/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=4, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=2, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "YouGov ",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 29, 2019 4:30:11 PM",
+    "validThrough": "Nov 5, 2019 4:30:11 PM",
+    "crawled": "Oct 29, 2019 5:06:31 PM",
+    "content": "<span></span> <span><h4>YouGov</h4>&nbsp;</span> <br> <h3>Devops Lead</h3> <div>  <div>   \\nCrunch.i, part of the YouGov PLC is a market-defining company in the analytics SaaS marketplace. We’re a company on the rise. We’ve built a revolutionary platform that transforms our customers’ ability to drive insight from market research and survey data. We offer a complete survey data analysis platform that allows market researchers, analysts, and marketers to collaborate in a secure, cloud-based environment, using a simple, intuitive drag-and-drop interface to prepare, analyze, visualize and deliver survey data and analysis. Quite simply, Crunch provides the quickest and easiest way for anyone, from CMO to PhD, with zero training, to analyze survey data. Users create tables, charts, graphs and maps. They filter, and slice-and-dice survey data directly in their browser.\\n\\nOur start-up culture is casual, respectful of each other’s varied backgrounds and lives, and high-energy because of our shared dedication to our product and our mission. We are loyal to each other and our company. We value work/life balance, efficiency, simplicity, and fantastic customer service! Crunch has no offices and fully embraces a 100% remote culture. We have 40 employees spread across 5 continents. Remote work at Crunch is flexible and largely independent, yet highly cooperative.\\n\\nWe are hiring a DevOps Lead&nbsp;to help expand our platform and operations excellence. We are inviting you to join our small, fully remote team of developers and operators helping make our platform faster, more secure, and more reliable. You will be self-motivated and disciplined in order to work with our fully distributed team.\\n\\nWe are looking for someone who is a quick study, who is eager to learn and grow with us, and who has experience in DevOps and Agile cultures. At Crunch, we believe in learning together: we recognize that we don’t have all the answers, and we try to ask each other the right questions. As Crunch employees are completely distributed, it’s crucial that you can work well independently, and keep yourself motivated and focused.\\n\\nOur Stack:\\n\\nWe currently run our in-house production Python code against Redis, MongoDB, and ElasticSearch services. We proxy API requests through NGINX, load balance with ELBs, and deploy our React web application to AWS CloudFront CDN. Our current CI/CD process is built around GitHub, Jenkins, BlueOcean including unit, integration, and end to end tests and automated system deployments. We deploy to auto-scaling Groups using Ansible and Cloud-Init.\\n\\nIn the future, all or part of our platform may be deployed via DroneCI, Kubernetes, nginx ingress, Helm, and Spinnaker.\\n\\nWhat you'll do:\\n\\nAs a Leader:\\n\\n\\n* Manage and lead a team of Cloud Operations Engineers who are tasked with ensuring our uptime guarantees to our customer base.\\n\\n* Scale the worldwide Cloud Operations Engineering team with the strategic implementation of new processes and tools.\\n\\n* Hire and ramp exceptional Cloud Operations Engineers.\\n\\n* Assist in scoping, designing and deploying systems that reduce Mean Time to Resolve for customer incidents.\\n\\n* Inform executive leadership and escalation management personnel of major outages\\n\\n* Compile and report KPIs across the full company.\\n\\n* Work with Sales Engineers to complete pre-sales questionnaires, and to gather customer use metrics.\\n\\n* Prioritize projects competing for human and computational resources to achieve organizational goals.\\n\\n\\n\\n\\nAs an Engineer:\\n\\n\\n* Monitor and detect emerging customer-facing incidents on the Crunch platform; assist in their proactive resolution, and work to prevent them from occurring.\\n\\n* Coordinate and participate in a weekly on-call rotation, where you will handle short term customer incidents (from direct surveillance or through alerts via our Technical Services Engineers).\\n\\n* Diagnose live incidents, differentiate between platform issues versus usage issues across the entire stack; hardware, software, application and network within physical datacenter and cloud-based environments, and take the first steps towards resolution.\\n\\n* Automate routine monitoring and troubleshooting tasks.\\n\\n* Cooperate with our product management and engineering organizations by identifying areas for improvement in the management of applications powering the Crunch infrastructure.\\n\\n* Provide consistent, high-quality feedback and recommendations to our product managers and development teams regarding product defects or recurring performance issues.\\n\\n* Be the owner of our platform. This includes everything from our cloud provider implementation to how we build, deploy and instrument our systems.\\n\\n* Drive improvements and advancements to the platform in areas such as container orchestration, service mesh, request/retry strategies.\\n\\n* Build frameworks and tools to empower safe, developer-led changes, automate the manual steps and provide insight into our complex system.\\n\\n* Work directly with software engineering and infrastructure leadership to enhance the performance, scalability and observability of resources of multiple applications and ensure that production hand off requirements are met and escalate issues.\\n\\n* Embed into SRE projects to stay close to the operational workflows and issues.\\n\\n* Evangelize the adoption of best practices in relation to performance and reliability across the organization.\\n\\n* Provide a solid operational foundation for building and maintaining successful SRE teams and processes.\\n\\n* Maintain project and operational workload statistics.\\n\\n* Promote a healthy and functional work environment.\\n\\n* Work with Security experts to do periodic penetration testing, and drive resolution for any issues discovered.\\n\\n* Liaise with IT and Security Team Leads to successfully complete cross-team projects, filling in for these Leads when necessary.\\n\\n* Administer a large portfolio of SaaS tools used throughout the company.\\n\\n\\n\\n\\nQualifications:\\n\\n\\n* Team Lead experience of an on-call DevOps, SRE, or Cloud Operations team (at least 2 years).\\n\\n* Experience recruiting, mentoring, and promoting high performing team members.\\n\\n* Experience being an on-call DevOps, SRE, or Cloud Operations engineer (at least 2 years).\\n\\n* Proven track record of designing, building, sizing, optimizing, and maintaining cloud infrastructure.\\n\\n* Proven experience developing software, CI/CD pipelines, automation, and managing production infrastructure in AWS.\\n\\n* Proven track record of designing, implementing, and maintaining full CI/CD pipelines in a cloud environment (Jenkins experience preferred).\\n\\n* Experience with containers and container orchestration tools (Docker, Kubernetes, Helm, traefik, Nginx ingress and Spinnaker experience preferred).\\n\\n* Expertise with Linux system administration (5 yrs) and networking technologies including IPv6.\\n\\n* Knowledgeable about a wide range of web and internet technologies.\\n\\n* Knowledge of NoSQL database operations and concepts.\\n\\n* Experience in monitoring, system performance data collection and analysis, and reporting.\\n\\n* Capability to write small programs/scripts to solve both short-term systems problems and to automate repetitive workflows (Python and Bash preferred).\\n\\n* Exceptional English communication and troubleshooting skills.\\n\\n* A keen interest in learning new things.\\n\\n\\n  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "XwkMC5MYRGi6WC0k_7IFdQ",
+    "url": "https://remote.co/job/devops-engineer-32/",
+    "title": "DevOps Engineer",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:time-series/bigdata-ml/5",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=6, dotnet=13, c=2, mobile=1, go=8, nodejs=0, bigdata-ml=5, ruby=10, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "DNSFilter",
+      "sameAs": "https://www.dnsfilter.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 29, 2019 3:36:11 PM",
+    "validThrough": "Nov 5, 2019 3:36:11 PM",
+    "crawled": "Oct 29, 2019 4:07:23 PM",
+    "content": "<h3>DevOps Engineer at <span>DNSFilter</span></h3><div><span><i></i> Remote</span>         | <span> International </span></div><div>            <p><strong>Location: Remote Worldwide</strong></p><p><strong>Category:</strong>&nbsp;Software Development<br><strong>Job Type:</strong>&nbsp;Full-Time<br><strong>Job Desc:</strong></p><p><strong>Want to be one of DNSFilter’s DevOps Engineers?</strong></p><p>Are you a looking for a to take a ride on?</p><p>Excited to tackle new challenges even though you’re also a bit afraid of change?</p><p>Want to work with great people at one of the fastest-growing startups in the industry?</p><p>If this is you, you might be interested in the opportunity to join DNSFilter!</p><p>DNSFilter (a TechStars 2018 company) is a fast-growing SaaS startup with over 1700+ customers and is cash-flow positive. We are a proven product in a proven market.</p><h5><strong>Why work at DNSFilter?</strong></h5><ul><li>Growth prospects – grow within the organization!</li><li>Strong DevOps and Engineering teams to support you</li><li>Work from home, a co-working space, or our DC/Denver offices</li><li>Experienced founders who have built successful teams and successful companies</li><li>Company gatherings each year (last year we all met on a beach in Colombia for 1 week)</li><li>Paid vacations and holidays</li><li>Full medical and dental benefits for US employees</li></ul><h5><strong>“Your mission, if you choose to accept it”:</strong></h5><ol><li>Manage over 100 servers around the globe – primarily running Ubuntu and CoreOS</li><li>Further automate components of our infrastructure through docker, ansible, and in AWS</li><li>Participate in on-call rotation (currently only 1-2 pages a month)</li></ol><p>This might sound “corporate”. But at DNSFilter, it is not.</p><p>We deeply believe this mission-critical. We know people are our most valuable asset. They are the soul of the company and what will make us successful. They are what makes it so exciting to start each day at DNSFilter.</p><p>You can see our full stack on StackShare.</p><p><strong>Typical responsibilities will include:</strong></p><ul><li>Work closely with our CTO who has developed and maintained all DevOps to this point.</li><li>Perform OS/kernel upgrades on a regular cadence of Ubuntu 16.04/18.04 and CoreOS virtual and dedicated instances.</li><li>Maintain Production, Development, Staging, QA environments, including some Windows instances for debugging.</li><li>Document DevOps processes and state – in infrastructure as code, with commits to github where possible.</li><li>Assist QA and developers with automated tests and local development environment setup and maintenance through docker containers.</li><li>Increase the resiliency of services by developing master/slave and load balanced solutions.</li><li>Further enhance monitoring of servers and services, the performance of services.</li></ul><p>This might seem like a lot of expectations for the role (or not!). But do not fear, you’ll be given time. You’ll be given the necessary support and resources to succeed. We’ve been working with the best people in the field. You’ll have access to them, and the scope of your responsibilities will advance at the pace that’s best for you. This leads us to an important question…</p><p><strong>Is this an opportunity for you?</strong></p><p><strong>We believe this opportunity is a great fit for you if:</strong></p><ul><li>You care about people and doing the right thing – your work product is a reflection of yourself.</li><li>You have a generous and always-positive personality. It makes people ask you “What did you eat for breakfast?!”.</li><li>You learning and you learn fast. You want to keep building your career and your skillset.</li><li>You see new challenges as an opportunity to build new skills and have fun.</li><li>You are driven and have this freaky mix of good judgment, creativity, and a detail-oriented mindset. This officially makes you a creature of legends.</li></ul><p><strong>What we’re looking for:</strong></p><ul><li>3+ Years of DevOps or Linux server administration experience</li><li>1+ Years of Experience with Docker Containers</li><li>3+ Years of Experience with Linux</li><li>1+ Years of Experience with Ansible</li></ul><p><strong>You’ll set yourself apart if you have:</strong></p><ul><li>Experience in Ubuntu and CoreOS</li><li>Familiarity with any of our project languages, in order of importance: Node/React, Ruby on Rails, golang, Python, PHP, c#, Java, Elixir</li><li>Experience with GCP or AWS</li><li>Experience setting up and maintaining VMs in Linux</li><li>Ability to do some light ‘glue’ coding in Bash</li><li>A demonstrated level of comfort with command-line tools like grep, sed, awk</li><li>Experience and knowledge with DNS. Not scared of tools like dig, nslookup. Can explain how DNS works.</li><li>Networking experience – Firewalls, traceroute, mtr, as well as: We own our own IP Space, ASN, do BGP announcing of our anycast network, need to tweak BGP Community strings</li><li>Experience with SQL – specifically PostgreSQL and TimescaleDB or other time-series databases in general.</li><li>Demonstrated comfort with Virtual and Dedicated hosting outside AWS (which is where most of our infrastructure lives)</li></ul>        </div><div>        <a href='https://dnsfilter.breezy.hr/p/9cf550668503?source=remote.co' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "y7qO7qkXRJWB8UkdZVtbkw",
+    "url": "https://weworkremotely.com/remote-jobs/ipresence-devops-engineer-3",
+    "title": "iPresence: DevOps Engineer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "iPresence",
+      "sameAs": "http://www.ipresence.ca/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 29, 2019 10:06:17 AM",
+    "validThrough": "Nov 5, 2019 10:06:17 AM",
+    "crawled": "Oct 29, 2019 10:06:25 AM",
+    "content": "<h3> DevOps Engineer </h3><div><div>Here at iPresence our growth is dependent on hiring amazing people! Wherever in the world they work, everyone is rewarded for their contribution. Are you ready to develop your career in an exciting hyper growth company?<br><br>iPresence was founded in Vancouver, BC to provide clients with a reliable partner to their online marketing and web development needs. We provide a wide variety of web services and predominantly specialise in high traffic websites. Just one of our websites receives 120 million views each month, making it one of Alexa’s Top 90 destinations in Canada.<br><br>Our vast in-house experience and expertise enables us to provide our clients with access to valuable resources to tap into their target audiences. We oversee millions of impressions per month through our network of websites building on our customized long term approach to customer success.<br><br>We also actively develop highly successful and profitable ventures of our own. We work on a variety of tech-based products which have evolved with market trends; adult-niche has always been at the heart of internet-usage and part of our rapid growth.<br><br><br><br></div><div><br></div><div><strong>The Role:</strong></div><ul><li>Maintain our existing infrastructure</li><li>Work on architecture of our internal and external services</li><li>Have a strong commitment to automate everything</li><li>Have the desire and ability to solve open-ended problems in a highly-functional, elegant, and scalable manner, and to think strategically about how we evolve our products</li><li>Collaborate with other team members to find ideal solutions</li><li>Deliver scoped features on schedule</li></ul><div><br><br><strong>Requirements</strong></div><ul><li>Strong Linux administration skills</li><li>Expertise in configuration management systems (Ansible is preferred)</li><li>Experience with Docker (writing Dockerfiles, managing private registries, managing and troubleshooting containers)</li><li>Experience building CI/CD pipelines</li><li>Experience maintaining web projects (nginx, PHP, MySQL etc)</li><li>Experience administering Gitlab, advanced Git skills</li><li>Basic performance engineering skills</li><li>Excellent communication and interpersonal skills</li><li>Knowledge in best practices for the whole software development cycle (TDD/CI/CD) and agile methodologies.</li><li>Experience working as part of a remote team</li><li>Experience maintaining task tracking software like Jira</li><li>Link(s) to relevant projects, code, Github, LinkedIn, Medium, Stackoverflow, etc</li></ul><div><br><br><strong>Benefits</strong></div><ul><li>100% remote work - from anywhere in the world</li><li>Competitive salary&nbsp;</li></ul></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "hNmojxuGRWaMB53UxUqMWQ",
+    "url": "https://jobmote.com/job/96562/devops-engineer-remote-position-3240/",
+    "title": "DevOps Engineer-Remote position (3240)",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:nexus/java/3",
+      "DBG_TECH1:k/t/w:sonarqube/java/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=11, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "Flexion Inc",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 28, 2019 9:07:55 PM",
+    "validThrough": "Oct 31, 2019 9:07:55 PM",
+    "crawled": "Oct 29, 2019 2:06:32 AM",
+    "content": "<div><br><br><p> Flexion is seeking DevOps Engineers to join our Flexion team to support a large Insurance company. The work for this position can be done remotely. </p><br><p><strong><strong> </strong></strong></p><br><p> Work in this role will include migrating current sites/applications to the cloud, helping to modernize the current DevOps stack to improve time to market of key information. </p><br><p> In this role you must possess excellent problem-solving skills and deep technical knowledge with a strong aptitude for appreciating the focus, scope, and impact of your work in a much wider and forward-looking software landscape. You should also be able to demonstrate a history of technical leadership, excellent communication, and a positive attitude. </p><br><p> </p><br><p> </p><br><p><strong>Required Skills:</strong></p><br><ul><li><br></li><li> AWS, experience in some of the following is needed: RDS, EC2, Dynamo, S3, Redshift, VPC, Scaling Groups, Load Balancers, Route53, KMS, CloudFormation, ECS <br></li><li> Expertise in DevOps tooling &amp; automation tools <br></li><li> Strong Development background <br></li><li> Experience building and operating CI / CD tools &amp; pipelines <br></li><li> Expertise in cloud infrastructure security &amp; IAM privilege management <br></li><li> Experience with security, monitoring and analysis tools such as Splunk, SonarQube, Nexus, NewRelic, Nessus <br></li><li> Fluency with agile methods <br></li><li> Minimum 6 years of IT experience, with at least three years in a DevOps capacity <br></li></ul><br><p><strong> </strong></p><br><p><strong>Preferred Skills:</strong></p><br><ul><li><br></li><li> Strong communication skills, both vertically and laterally <br></li><li> Experience working in a Federal Government setting <br></li><li> Strong organizational skills <br></li><li> Ability to balance multiple projects at once <br></li><li> Ability to prioritize in a fast-paced environment <br></li></ul><br><p> </p><br><p><strong> Expectations:</strong></p><br><ul><li><br></li><li> Speak openly and honestly about problems and proposed solutions <br></li><li> Apply an attitude of servant leadership in a technical leadership role <br></li><li> Welcome and handle changing requirements and priorities with little or no warning <br></li><li> Collaborate in small groups online about 50% of the time <br></li><li> Encourage simple and minimal solutions that keep options open <br></li><li> Expect and vocally advocate for quality first <br></li><li> Learn new practices and techniques as the situation demands <br></li><li> Ensure the teams develop demonstrable software every week or two <br></li><li> Do what needs to be done to deliver the product or project <br></li><li> Relentlessly improve yourself, your team, and your processes <br></li></ul><br><p> </p><br><p>Equal Employment Opportunity/Affirmative Action Employer</p><br><br> <br> - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "RGK-rYXJRDKBG5BX_GYIog",
     "url": "https://stackoverflow.com/jobs/308001/devops-manager-kube-rancher-remote-clevertech?a=1Fie4lkB0ChW&so_medium=Talent&so_source=TalentApi",
     "title": "DevOps Manager, Kube/Rancher [REMOTE] at Clevertech  ",
@@ -1729,56 +1938,6 @@
     "validThrough": "Oct 8, 2019 6:01:36 PM",
     "crawled": "Oct 21, 2019 10:33:45 PM",
     "content": "Apptio | Infrastructure Engineer II | Full-time | Bellevue WA or Remote | US Citizen | $130k DOE<p>Apptio is the business management system of record for hybrid IT. We transform the way IT runs its business and makes decisions. With our cloud-based applications, IT leaders manage, plan, and optimize their technology investments across on-premises and cloud.</p><p>You will be a member of our globally distributed public sector operations team splitting your time between unplanned incident or internal support work and planned projects from our the current sprint. Typical work involves troubleshooting application instances, resizing containers, improving automation for deployments, patching, security compliance, and much more. We work with technologies like Puppet, AWS, and terraform. Our environment consists of cloud deployments.</p><p>Contact me: gwalters [at] [thecompany].com if interested or apply via the link[1].</p><p>[1] - <a href='https://www.apptio.com/company/careers/job-openings?gh_jid=1854041' rel='nofollow'>https://www.apptio.com/company/careers/job-openings?gh_jid=1...</a></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "IOJ_AgiTSlGujlnDacotwQ",
-    "url": "https://news.ycombinator.com/item?id=21138132",
-    "title": "Company: Whil Concepts Inc. Location: San Francisco, CA Remote: ONSITE, need to be in SF Office ...",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:scala/java/6",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=6, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/java",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml",
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 2, 2019 6:18:53 PM",
-    "validThrough": "Oct 9, 2019 6:18:53 PM",
-    "crawled": "Oct 21, 2019 10:33:45 PM",
-    "content": "<p></p><pre><code>  Company: Whil Concepts Inc.  Location: San Francisco, CA   Remote: ONSITE, need to be in SF Office  Willing to relocate: Depending on candidate  Technologies: Scala and Looker are mandatory  Résumé/CV: Please send resume to diana@whil.com</code></pre>Thanks and good luck!",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -5039,51 +5198,6 @@
     "validThrough": "Sep 24, 2019 4:29:33 PM",
     "crawled": "Sep 17, 2019 5:07:51 PM",
     "content": "<div><h3>DevOps Engineer</h3></div><div>Company: WorldCoders</div><div>Location: Lisbon, PT</div><div>Remote location: Partially remote</div><div>Requires Work Permit</div>Level: Intermediate<br>Language: English <div>DevOps / Sysadmin<br>Skills:</div><li>Amazon Web Services (AWS) </li><li>Bash </li><li>Linux </li><li>Python </li><h3>Intro</h3><div>You will be working for the preferred partner for corporations throughout Europe when it comes to implementing and providing maintenance for its customers’ new digital technologies. More than 40,000 service calls per day clearly make our client one of Europe’s leading organization in this market and prove, that if things need fixing, they’ll provide a solution. From telecommunications and IT to security &amp; safety installations, smart building technologies and POS devices – its more than 8,000 service engineer will find solutions for new technologies. The company offers full service human and technical support to help its customers with new technologies, relying on its network of engineers around Europe for on-site interventions (installation and maintenance) and provides logistics and call center support with its back-office teams.&nbsp;</div><div>&nbsp;</div><div><strong>Our Team:</strong>&nbsp;</div><div>&nbsp;</div><ul><li>Be a part of a dynamic team of experts practicing <strong>Scrum</strong> and utilizes transparent communication using <strong>Slack</strong> and <strong>Jira</strong>.</li><li>We build and manage the development, testing and production environment on <strong>AWS Cloud</strong>.</li><li>We develop internal build or deployment tools for automation processes.</li><li>Get the chance to work with PHP, Python developers and QA during the development and testing processes.</li><li>Recommend DevOps and AWS best practices for security, performance and cost optimizations.</li></ul><h4>Main requirements</h4><div><strong>Qualifications:</strong>&nbsp;<br><br></div><div>&nbsp;<br><br></div><ul><li>Professional experience or at least 3 years’ experience with the following AWS services: EC2, RDS, Elasticache, EFS, Route 53, ELB or ALB, ECS, Redshift.</li><li>Strong scripting experience with proficiency in Python and BASH.</li><li>Experience in Linux administration.</li><li>Experience working with DevOps Tools and CI and CD (GitLabCI, CloudFormation, Docker/Compose, Selenium)</li><li>Experience using consolidated logging and monitoring tools such as Cloudwatch or New Relic.</li><li>Familiar with standard IT security practices such as encryption and certificates,</li><li>Skills in MySQL, PostgreSQL and Git.</li></ul><h4>Nice to have</h4><ul><li>Good to have:&nbsp;<ul><li>AWS Certified Solutions Architect Associate or SysOps Administrator Associate.&nbsp;</li></ul></li></ul><div><br></div><div><br></div><h4>Perks</h4><ul><li>A great workplace in the heart of booming Lisbon</li><li>Work on new features and functionality for great brands</li><li>Work on the quality of the code and a propriety framework</li><li>Great possibilities to learn and grow</li><li>Joining and help building our community of code fanatics</li><li>An excellent salary that matches your skills and experience</li><li>A really inspiring second home we call office with great colleagues and stuff</li></ul><div><br></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "HAJscbcmSH6bEp3ByDTYeQ",
-    "url": "https://jobmote.com/job/75111/application-support-specialist-remote-office/",
-    "title": "Application Support Specialist - REMOTE OFFICE",
-    "tags": [
-      "DBG:surround``remot 3W onli",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "vMOX",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 16, 2019 10:07:52 PM",
-    "validThrough": "Sep 19, 2019 10:07:52 PM",
-    "crawled": "Sep 17, 2019 3:06:26 AM",
-    "content": "<div>vMOX is a rapidly growing organization specializing in corporate mobility optimization and wireless device support. vMOX has been helping businesses around the world better manage their corporate-liable mobility assets for over 10 years. We are looking for an experienced Application Support Specialist who is customer-oriented and can provide the first line of support for our internal enterprise applications. Reporting directly to the IT Manager, the ideal candidate will have strong experience in troubleshooting, escalating and resolving tickets related to application issues. If you have a passion for helping users and are looking to be a key player in a fast-growing, innovative company, this role is for you. We'd love to find someone who can:Support our internally developed enterprise applicationsWork with end-users to identify issues Filter, triage and route support calls to appropriate channelsIdentify, research &amp; resolve or escalate issues as needed to proper cross-functional teamAssist as required to cross-functional teams after an escalationDocument resolutions for building and maintaining of our knowledge base Track and monitor tickets to ensure timely resolutionProvide first level application/technical training to users It would be awesome if you have:At least 2 years of experience supporting enterprise application and user requestsExperience in telecommunications and mobile lifecycle managementExperience with JIRAExperience with ConnectWise Manage We'd love to find someone who has:An associate degree or BA/BS in Computer Science or similarKnowledge of commonly used tech support concepts, practices, and proceduresStrong knowledge of cellular products and servicesStrong background in problem solving and troubleshooting Strong communications skills that are support and customer service orientedStrong organization and documentation skills LocationLancaster, PAEast Windsor, NJRoslyn Heights, NYor REMOTE Office (US only) We ProvideSalary &amp; benefits to commensurate with experience and achievement Training opportunities and a highly collaborative environmentith experience and achievement</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -8816,54 +8930,6 @@
     }
   },
   {
-    "id": "-U2fomYwTliGA69V1y7zyQ",
-    "url": "https://jobmote.com/job/71199/sr-it-disaster-recovery-professional-virtual-remote-home-office-eligible/",
-    "title": "Sr. IT Disaster Recovery Professional (Virtual remote home office eligible)",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Humana",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 9, 2019 10:29:39 AM",
-    "validThrough": "Sep 12, 2019 10:29:39 AM",
-    "crawled": "Sep 9, 2019 3:06:27 PM",
-    "content": "<div>Description<br>The Senior IT Disaster Recovery Professional will primarily support, coordinate and transform ITDR in accordance across ingested Business Impact Analysis (BIA) and the corresponding criticality matrix that drives more restrictive recovery objectives across all applications. Leveraging BIA data, review/analyze and assign recovery tiers--the candidate will collaboratively work with infrastructure, application and business partners to drive to cost estimation, validation and approval. Then follow through with turnover to team members to coordinate build and validation efforts required. The Senior IT Disaster Recovery Professional work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.<br>Responsibilities<br>The Senior IT Disaster Recovery Professional will work routinely with leaders and stakeholders across technology and business operations, operational risk and business continuity teams to improve program capabilities &amp; quality across business impact, risk/threat data, and other related recovery opportunities to enhance program understanding, visibility, and routine engagement.<br>The Senior IT DR Professional performs project planning, resource coordination, reporting of deliverables for status tracking, and influences departments strategy. Makes decisions on moderately complex to complex issues regarding approach for project components. Work is to be performed with minimal direction.<br>Exercises considerable latitude in determining objectives and approaches to assignments.<br>Successful candidate should have a solid background in areas of response planning, impact/risk assessments, DR related communications, governance, recovery plans, testing/validation and project management.<br>Required Qualifications<br>+ Bachelor's degree or 5+ years of disaster recovery and/or business continuity planning experience;<br>+ Extensive experience business impact analysis, recovery strategic planning, communications and reporting to ensure capabilities and expectations are adequately managed, data analysis and metric development; and<br>+ Strong communications/presentation and collaboration skills.<br>Preferred Qualifications<br>+ Industry accreditation through DRI, BCI or other internationally recognized organization<br>+ Working knowledge of ISO-22301, industry accreditation (DRI or BCI)<br>+ Archer experience or other recovery tool a plus<br>Additional Information<br>Positions is preferred to be located in Louisville, remote working options available for highly qualified candidates.<br>Scheduled Weekly Hours<br>40<br>About Us<br>Mission: At Humana, our cultural foundation is aligned to helping members achieve their best health by delivering personalized, simplified, whole-person healthcare experiences. Recognizing healthcare needs continue to evolve for each person, for each family and for each community, Humana continuously creates innovative solutions and resources that help people live their healthiest lives on their terms when and where they need it. Our employees are at the heart of making this happen and thats why we are dedicated to building an organization of dynamic talent whose experience and passion center on putting the customer first.<br>Equal Opportunity Employer<br>It is our policy to recruit, hire, train, and promote people without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity or expression, disability, or veteran status, except where age, sex, or physical status is a bona fide occupational qualification. View the EEO is the Law poster.<br>If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact ...@humana.com for assistance.<br>Humana Safety and Security<br>Humana will never ask, nor require a candidate provide money for work equipment and network access during the application process. If you become aware of any instances where you as a candidate are asked to provide information and do not believe it is a legitimate request from Humana or affiliate, please contact ...@humana.com to validate the request.<br> Associated topics: chief program officer, cpo, manage, manager, management, monitor, product manager, project manager, relationship manager, task</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "Iq6k4w6uRda7FxdZ-tcgvA",
     "url": "https://jobmote.com/job/70335/lead-ux-developer-office-365-can-work-100-remote/",
     "title": "Lead UX Developer - Office 365 - Can work 100% Remote",
@@ -9127,51 +9193,6 @@
     }
   },
   {
-    "id": "VjCAuwsfRFio_eResoyo1w",
-    "url": "https://jobmote.com/job/70219/enterprise-transformation-lead-virtual-remote-home-office-eligible/",
-    "title": "Enterprise Transformation Lead - (virtual remote home office eligible)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Humana",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 5, 2019 10:07:43 PM",
-    "validThrough": "Sep 8, 2019 10:07:43 PM",
-    "crawled": "Sep 6, 2019 3:06:24 AM",
-    "content": "<div><br><p><b> <b> <b>Description </b> </b> </b><br></p><p>The Enterprise Transformation Lead will drive enterprise wide process automation across Development, Infrastructure and Security IT areas.<br></p><p><br></p><p><b> <b>Responsibilities </b> </b><br></p><p><br><br>The Enterprise Transformation Lead will drive enterprise wide process automation across Development, Infrastructure and Security IT areas. Diagrams and evaluates existing processes. Provides consultation on the use of re-engineering techniques to improve process performance and product quality. Surveys and analyzes best practices for techniques and processes. Advises executives to develop functional strategies on matters of significance. Exercises independent judgment and decision making on complex. Uses independent judgment requiring analysis of variable factors and determining the best course of action.<br><br></p><ul><li> Collaborate with stakeholders and leaders </li><li>Drive culture of automation first &amp; DevOps </li><li>Process mindset like Lean Process Design/Six sigma </li><li>Ability to influence at all levels </li><li>Introduce new and impactful technologies and/or processes to minimize friction for production release and support </li><li>Drive implementation of automated end to end certificate management processes for Cloud and on prem. </li></ul><br><p> <br><br><b>Required Qualifications </b><br></p><ul><li>Bachelor's degree and 8+ years of technical experience, or equivalent </li><li>Experience creating and implementing automated enterprise wide end to end process </li><li>Experience working remote with diverse teams </li><li>Excellent communication skills and a demonstrated ability to influence at all levels </li></ul><br><br><b>Preferred Qualifications </b><br><ul><li>Experience with Venafi and Hashicorp Vault </li><li>Experience with Kubernetes, oAuth, cloud service accounts, JWT etc. </li></ul><br><p><br></p><p><b> <b> <b>Scheduled Weekly Hours </b> </b> </b><br></p><p>40<br> - provided by Dice</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
     "id": "LWfskEFARiyH7u8GHjtvwg",
     "url": "https://jobmote.com/job/70206/linux-systems-administrator-remote-linux-aws-virtualization/",
     "title": "Linux Systems Administrator (Remote/Linux/AWS/Virtualization)",
@@ -9207,54 +9228,6 @@
     "validThrough": "Sep 8, 2019 10:07:42 PM",
     "crawled": "Sep 6, 2019 3:06:24 AM",
     "content": "<div>Minimum Required Skills:<br>VMWare, XenServer, Amazon EC2 Public Cloud, Apache Cloud, Stack Private Cloud, Windows Servers, Linux Servers, Server Operating Systems, Automation<br><br>If you are a Systems Administrator looking for a solid position where you will work from a home, please read on! This position supports our internal systems and our SaaS Service. We offer a number of different opportunities to improve your skills and experience! We also deploy models and technologies that many engineers are very excited to be working with!! <br><br>We are using VMWare, XenServer, Amazon EC2 Public Cloud, Apache Cloud, Stack Private Cloud, Windows and Linux Servers. As your skills evolve and develop over time there will be advancing technologies to learn and become productive on.<br><br>This role will be done remotely, but we do need you to be local to Southern California.<br><br>In this role, you will manage, patch and upgrade systems infrastructure, and work within a Security and Compliance controlled environment. We are looking for a Systems Administrator who is comfortable in working with Data Center Hardware and Software Systems.<br><br>Top Reasons to Work with Us<br><br>1. Opportunity to work for an international company, looking to expand their US presence<br>2. Job growth, customer facing, highly technical and innovative position<br>3. INCREDIBLE benefits and perks<br><br>What You Will Be Doing<br><br>- Installing and configuring new Server Operating Systems and Applications, according to best practice and company guidelines<br>- Monitoring and repairing Server Operating Systems and Applications<br>- Performing Patch upgrades on Server Operating Systems and Applications<br>- Maintaining Service Availability Targets<br>- Maintaining Service Confidentiality and Integrity<br>- Working with Engineers diagnosing and resolving issues in our production environment<br>- Learning technologies to improve yourself and the capabilities of the Team<br>- Looking for ways to improve the service availability and recovery times<br>- Working on an On-Call Rota for out of Hours Cover<br>- Working on designated tasks outside normal working hours as required by the role<br>- Visiting Data Centers for installation, configuration and maintenance of computer hardware<br><br>What You Need for this Position<br><br>- BS/MS in technical field with 3-6 years of work experience<br>- Perform Linux and Windows installations and configurations on these environments without help<br>- You must be comfortable using a Virtualized Environment such as XenServer or VMWare<br>- Have basic network knowledge of TCPIP, DNS, DHCP and VLANS, what they mean and their practical uses<br>- You must have a good working knowledge of configuring and using Monitoring Systems We use Zabbix and CloudWatch<br>- Understand the basic principles of ITIL, including Change Management, Problem Management and Incident Management<br>- Tackle technical problem that we are facing in our Application and Infrastructure stack and restore service accordingly<br>- Must have experience installing and maintaining server hardware, including racking, disk swapping and component replacement<br>- Experience operating in a compliance and security monitored environment, we operate PCI DSS, SOC2, HIPAA and ISO 27001<br><br>What's In It for You<br><br>- Vacation/PTO<br>- Medical<br>- Dental<br>- Vision<br>- Bonus<br>- 401k<br>- Many more perks!So, if you are a Systems Administrator with all of the experience we are seeking, please apply today!!<br><br>Applicants must be authorized to work in the U.S.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "DD8ohWzcQ5KHJV8Sli7Scw",
-    "url": "https://jobmote.com/job/70212/sr-it-disaster-recovery-professional-virtual-remote-home-office-elig/",
-    "title": "Sr. IT Disaster Recovery Professional (Virtual remote home office elig",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Humana",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 5, 2019 10:07:43 PM",
-    "validThrough": "Sep 8, 2019 10:07:43 PM",
-    "crawled": "Sep 6, 2019 3:06:24 AM",
-    "content": "<div><br><p><b> <b> <b>Description </b> </b> </b><br></p><p>The Senior IT Disaster Recovery Professional will primarily support, coordinate and transform ITDR in accordance across ingested Business Impact Analysis (BIA) and the corresponding criticality matrix that drives more restrictive recovery objectives across all applications. Leveraging BIA data, review/analyze and assign recovery tiers--the candidate will collaboratively work with infrastructure, application and business partners to drive to cost estimation, validation and approval. Then follow through with turnover to team members to coordinate build and validation efforts required. <br><br>The Senior IT Disaster Recovery Professional work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.<br></p><p><br></p><p><b> <b>Responsibilities </b> </b><br></p><p><br><br>The Senior IT Disaster Recovery Professional will work routinely with leaders and stakeholders across technology and business operations, operational risk and business continuity teams to improve program capabilities &amp; quality across business impact, risk/threat data, and other related recovery opportunities to enhance program understanding, visibility, and routine engagement.<br><br>The Senior IT DR Professional performs project planning, resource coordination, reporting of deliverables for status tracking, and influences department-s strategy. Makes decisions on moderately complex to complex issues regarding approach for project components. Work is to be performed with minimal direction.<br><br>Exercises considerable latitude in determining objectives and approaches to assignments.<br><br>Successful candidate should have a solid background in areas of response planning, impact/risk assessments, DR related communications, governance, recovery plans, testing/validation and project management.<br></p><p> <br><br><b>Required Qualifications </b><br></p><ul><li>Bachelor's degree or 5+ years of disaster recovery and/or business continuity planning experience; </li><li>Extensive experience business impact analysis, recovery strategic planning, communications and reporting to ensure capabilities and expectations are adequately managed, data analysis and metric development; and </li><li>Strong communications/presentation and collaboration skills. </li></ul><br><br><b>Preferred Qualifications </b><br><ul><li>Industry accreditation through DRI, BCI or other internationally recognized organization </li><li>Working knowledge of ISO-22301, industry accreditation (DRI or BCI) </li><li>Archer experience or other recovery tool a plus </li></ul><br><br><b>Additional Information </b><br><br> Positions is preferred to be located in Louisville, remote working options available for highly qualified candidates. <br><p><br></p><p><b> <b> <b>Scheduled Weekly Hours </b> </b> </b><br></p><p>40<br> - provided by Dice</p></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -11072,349 +11045,6 @@
     "validThrough": "Sep 1, 2019 10:07:33 PM",
     "crawled": "Aug 30, 2019 3:06:23 AM",
     "content": "<div>Minimum Required Skills:<br>Devops, CI/CD, AWS, Ansible, Terraform, EC2, RDS, Puppet, Chef, Kubernetes<br><br>We are an established Cyber Security startup and are moving in a stage of stable and consistent growth. We have a wonderful work culture and environment, and modern mentality when it comes to hiring the best talent regardless of where you are located in the country. You can work from our offices, or you can work from home completely remotely!<br><br>If you are a DevOps Engineer with an Engineering background and are interested in a remote working opportunity, please read on! <br><br>*You'll find a series of questions in the application that we'll need you to complete, so please answer those thoroughly in your application.*<br><br>What You Will Be Doing<br><br>You'll be championing DevOps best practices among your coworkers, focusing on immutable containers, Infrastructure as Code, stateless applications, and software observability<br><br>You'll be setting up and managing project development and test environments, as well as software configuration management processes for the entire software development life cycle.<br><br>You'll be responsible for ensuring high availability, optimal latency and scalability, and overall performance of our product platforms<br><br>You'll automate production operations and monitoring platform issues.<br><br>You'll be working with AWS and a blend of managed services including RDS, ElastiCache, SQS, and managing hundreds of EC2 instances with Ansible and Terraform.<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and knowledge of:<br><br>- Devops<br>- CI/CD<br>- AWS<br>- Ansible<br>- Terraform<br>- EC2<br>- RDS<br>- Puppet<br>- Chef<br>- Kubernetes and container orchestration<br><br>We'd like to find a great candidate with an Engineering background. Ideally you've got a coding background before moving into DevOps and have experience writing code in at least 2 languages.So, if you are a DevOps Engineer with coding experience and would like to join a great remote team, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "zmGChfrCQ9e1ZOGd5J8AwQ",
-    "url": "https://jobs.github.com/positions/e46ab67d-c6d2-43cd-9e92-0e0f5c5c1307",
-    "title": "Internal Systems Engineer",
-    "tags": [
-      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=10, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/ruby",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 29, 2019 10:52:24 PM",
-    "validThrough": "Sep 5, 2019 10:52:24 PM",
-    "crawled": "Aug 29, 2019 11:30:28 PM",
-    "content": "*Who is Litmus:* Major global brands across every industry and vertical trust Litmus to make email better, including 9 of the top 10 ecommerce brands, 7 of the top 10 technology companies, and 23 of the top 25 US ad agencies.Backed by $49M from Spectrum Equity, the Litmus email creation, testing, and analytics platform empowers marketers, designers, and agencies to confidently deliver customer experiences that ensure brand alignment and quality, as well as maximize performance and deliverability.*What would I do at Litmus?*As our team grows we’re looking to hire an engineer with a focus on our back office systems, to ensure that they integrate seamlessly and bring the right information to the right people across the organization.*What is Litmus looking for in a candidate?*You have:Strong understanding of Ruby (the language) and Rails (the framework)A strong analytical mind and a determination to get to the bottom of problemsWorked with stakeholders across different teams to understand their needsNice to have:Experience with enterprise software and integrating with other business systems (such as CRM, ESP, billing, accounting and business intelligence)Knowledge of credit card billing systems and financial systemsYou should:- Enjoy taking things apart to see how they work- Take pride in a well built and well specified system- Be able to put yourself in the shoes of the end usersYou would: - Take a lead in fixing business problems with our systems - Gather requirements, develop internal applications, integrate with external systems, test / QA, and deploy.*Why should I choose Litmus?* - We offer everything you'd expect from a financially successful and profitable startup, and we've been       going strong for ten years.- Great salary and stock options, comprehensive health care benefits, and a generous retirement plan match. - 28 days of paid vacation—that’s on top of team retreats and public holidays. - Remote-friendly culture. No matter where you are, you'll feel connected to the team. Over half of our employees work remotely.  Your work experience is just as exciting, entertaining, and engaging wherever you choose to work from. - Family friendly. Flexible schedules along with generous maternity and paternity policies. - Fantastic professional training to keep your skills sharp. - The best tools and technology money can buy. Top of the line hardware, software, and whatever else you need to be awesome.It’s the company you keep. The people at Litmus are truly amazing, each in their own way. With outstanding profitable growth and the trust of more than 250,000 marketers you know you’re part of a winning team.",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "WPnw1MnLRCyeNmY3z-ZG2A",
-    "url": "https://remoteok.io/jobs/74785",
-    "title": "Senior Sysadmin",
-    "tags": [
-      "DBG:surround``OR(home,remot,telecommut) 3W OR(role,work) 4W OR(offic,headquart,onsit)",
-      "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/dotnet",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "#open",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 29, 2019 5:54:47 AM",
-    "validThrough": "Sep 5, 2019 5:54:47 AM",
-    "crawled": "Aug 29, 2019 6:06:28 AM",
-    "content": "<span></span> <span><h4>#open</h4></span> <br> <h3>Senior Sysadmin</h3> <div>  <div>   \\nWe're looking for a system administrator to join the team maintaining and developing our infrastructure, services, and API. Our service run in Docker containers managed via Kubernetes/GCP. Some of our databases currently are using Mongo though we're transitioning to PostgreSQL.\\n\\n\\nThis is a contract to perm position -- we're looking for someone who can do ~15 hours a week. We would prefer an applicant that can split their time between working remote and working in our offices in West Hartford, CT.\\n\\nAn ideal candidate has experience deploying and maintaining:\\n\\n\\n* Kubernetes clusters deploying services to them using Helm and web APIs using Docker\\n\\n* Secure infrastructure and networking for applications that deal with sensitive user information\\n\\n* Network infrastructure including DNS, load balancers, VPCs, SSL certs, etc\\n\\n* Logging, health &amp; performance monitoring, alerting, auto-scaling, and so on.\\n\\n* Continuous integration/deployment pipelines\\n\\n\\n\\n\\nNice-to-haves:\\n\\n\\n* Google Cloud Platform experience\\n\\n* Experience with creating infrastructure specifically for mobile applications\\n\\n* MongoDB and/or PostgreSQL experience\\n\\n\\n  </div> </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "43k8-7BVS4KYBW9zqvyObg",
-    "url": "https://jobmote.com/job/66463/remote-lead-devops-engineer/",
-    "title": "REMOTE Lead DevOps Engineer",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:bash/other/2",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:php/php/5",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=2, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=5, embedded=0, frontend=8}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 28, 2019 10:07:36 PM",
-    "validThrough": "Aug 31, 2019 10:07:36 PM",
-    "crawled": "Aug 29, 2019 3:06:24 AM",
-    "content": "<div>Minimum Required Skills:<br>Devops, AWS, SRE, SysAdmin, Docker, RDS, ElastiCache, Linux, Bash, Agile<br><br>If you are a Lead DevOps Engineer with 5+ years experience in a SysAdmin, DevOps, SRE or equivalent role? If so, please read on!<br><br>We have the least attrition of any company in the greater Los Angeles area and we offer an unparalleled culture on top of competitive pay, benefits and cutting edge technology. This role has the opportunity to be FULLY REMOTE. <br><br>This role will report to the Director of Platform Engineering, and will lead a growing team of high-performing engineers.<br><br>Top Reasons to Work with Us<br><br>Based in Glendale, we are digital data collection company that is setting a higher standard for data quality. Our company is rapidly-growing and we just moved into a beautiful new office. We provide the highest quality and most accurate consumer data to industry leaders in marketing, analytics, and brand. <br><br>We have the world's largest insight panels and our members actively participate in millions of surveys with advanced cross-reference &amp; multi-faceted behavioral data points. The information we provide allows clients to understand behavioral trends, create immersive experiences, and be the best.<br><br>What You Will Be Doing<br><br>-Report to the Director of Platform Engineering, lead a growing team of high-performing engineers <br>-Help define and enforce DevOps standards, procedures, and guidelines to improve the overall development process<br>-Provide technical leadership and guidance to both your team members and your peers<br>-Cultivate a modern DevOps culture throughout teams and establish performance metrics and processes<br>-Deploy and support high-performance, highly-available infrastructure on AWS<br>-Engage in service capacity planning and demand forecasting, software performance analysis and system tuning<br>-Conduct periodic on-call duties<br>-Own the day-to-day health, uptime, monitoring, and reliability of our cloud infrastructure<br>-Work closely with engineering and project management to develop tools and solutions<br>-Identify tactical issues and react to emerging areas of concern<br>-Identify unnecessary complexity and remove it<br><br>What You Need for this Position<br><br>Must-Have Skills: <br>- 5+ years experience in an SRE/SysAdmin, DevOps, or equivalent role<br>- 3+ years of production AWS experience, including but not limited to EC2, RDS, ElastiCache, S3, Auto Scale, ELB<br>- 2+ years of experience in technical leadership role managing DevOps in Agile environments (Scrum)<br>- Capability to program in at least one language (other than Bash), ideally Python, PHP or Java<br>- Solid knowledge of the Linux architecture<br><br>Nice to Have Skills: <br>- Experience with container stacks and orchestration (Docker, Kubernetes, Mesos, ECS, etc)<br>- Experience with Configuration Management tools such as Puppet, Chef, Salt, or Ansible<br>- Experience with Infrastructure as a Code framework such as Terraform<br>- Experience with Microservices<br>- Experience with application monitoring tools (DataDog, New Relic, SumoLogic, etc)<br>- Strong knowledge of core protocols and tech such as TCP/IP, HTTP, DNS, load balancers, distributed file systems, key-value and relational databases<br>- Experience with CI/CD tools and production code deployments<br><br>What's In It for You<br><br>- Competitive Salary<br>- Health, Dental &amp; Vision Insurance<br>- Flexible hours<br>- Overall engaging and fun atmosphereSo, if you are a Lead DevOps Engineer, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "YLjrLFRKS1ya4yY_VykVTQ",
-    "url": "https://jobmote.com/job/66442/senior-technology-leadership-professional-automation-anywhere-remote/",
-    "title": "Senior Technology Leadership Professional Automation Anywhere (remote",
-    "tags": [
-      "DBG:surround``2N(anywher, remot)",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:winapi/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Humana",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 28, 2019 10:07:34 PM",
-    "validThrough": "Aug 31, 2019 10:07:34 PM",
-    "crawled": "Aug 29, 2019 3:06:24 AM",
-    "content": "<div><br><p><b> <b> <b>Description </b> </b> </b><br></p><p>The Senior Technology Leadership Professional for Automation Anywhere is responsible for all aspects of software or hardware product delivery and performance. The Senior Technology Leadership Professional work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.<br></p><p><br></p><p><b> <b>Responsibilities </b> </b><br></p><p><br><br>The Senior Technology Leadership Professional oversees the technical implementation of the Automation Anywhere (AA) platform at Humana. He or she installs, upgrades, and maintains AA infrastructure, including Control Room, Bot Insights, and IQ Bot on a cloud platform and oversees the certification and deployment of AA client versions. The AA architect works closely with the corporate identity and access management team to implement security processes and protocols for AA. She or he provides top-level support for AA technical problems encountered by all stakeholders. The AA architect works closely with the AA vendor to identify and maintain a list of desired AA enhancements and drive implementation of those enhancements. The AA architect defines processes and procedures for AA development, both for citizen developer (business) teams and IT teams, and creates documentation. He or she integrates AA with other RPA and cognitive tools and other IT resources.<br><br><b> <b>Responsibilities: </b> </b><br></p><ul><li>Infrastructure<br><ul><li>Install, upgrade, and maintain Automation Anywhere infrastructure on Amazon Web Services. </li><li>Coordinate certification and deployment of the AA client. </li><li>Draft AA hardware plans and budgets. </li><li>Collaborate with other IT teams to obtain cloud resources, server backups, DNS entries, certificates, disaster recovery, etc. </li><li>Oversee implementation of Automation Anywhere on Citrix XenApp. </li><li>Develop AA integrations with corporate DevOps tools including code scanning and test automation tools. </li><li>Perform change management and provide system notifications for infrastructure changes. </li></ul></li><li>Security<br><ul><li>Work with the corporate identity and access management (IAM) team to develop processes and procedures for Automation Anywhere security provisioning. </li><li>Develop integrations with corporate IAM tools. </li><li>Provision and manage system accounts, groups, shared mailboxes, and distribution lists needed for AA operations. </li></ul></li><li>Support<br><ul><li>Provide third-level support for Automation Anywhere problems and issues. </li><li>Liaise support tickets with Automation Anywhere support. </li><li>Serve as a top-level resource for other RPA application architects, AA trainers, AA security team, AA IT developers, AA citizen developers, AA code reviewers, AA production systems management team, and other stakeholders. </li><li>Implement AA monitoring tools. </li></ul></li><li>Vendor Relations<br><ul><li>Maintain desired Automation Anywhere enhancements list and drive enhancements with the vendor. </li><li>Liaise with firms providing Automation Anywhere consultation to Humana. </li><li>Support business process outsourcing organizations who use the internal AA platform. </li></ul></li><li>Process and Procedure<br><ul><li>Define procedures for bot, credential, locker, role, user, and license administration. </li><li>Define the activities, artifacts, and approvals needed for the AA software development lifecycle (SDLC) for both citizen developer (CD) teams and the IT RPA team. </li><li>Define AA development standards. </li><li>Write documentation for CD teams and IT RPA team. </li></ul></li><li>IT Integration<br><ul><li>Integrate AA with other RPA and cognitive tools. </li><li>Integrate AA with other IT resources through database queries, ETL jobs, service calls, and other integration tools. </li></ul></li></ul><br><p> <br><br><b>Required Qualifications </b><br></p><ul><li>Bachelor's degree </li><li>5+ years of technical experience </li><li>Experience with the technologies in use in the application(s) or infrastructure </li><li>Excellent communication skills with the ability to collaborate and communicate effectively across varying levels of personnel </li><li>Experience with unit testing and mocking </li><li>Strong proficiency in verbal and written communication. </li><li>Strong organizational and multi-tasking skills. </li><li>Strong analytical and problem-solving skills. </li></ul><br><br><b>Preferred Qualifications </b><br><ul><li>Conceptual understanding of UI-interaction technologies such as WinAPI, MSAA, Java Access Bridge, DOM, EHLLAPI, etc. </li><li>Proven results in working with vendors to enhance commercial applications. </li><li>MBA or other Advanced Degree </li><li>Demonstrated ability running large scale projects </li><li>Experience with technology solutions assessments and/or strategy planning oversight </li><li>AA platform-level certification such as -Control Room Administrator- or -IT Infra Administrator.- </li><li>Experience with Cloud Platforms (AWS, Azure, or GCP) </li><li>Experience with Puppet. </li><li>Experience with DynaTrace OneAgent. </li><li>Experience with Active Directory. </li><li>Experience with version control tools - Git, SVN </li><li>Experience with both relational and NoSQL databases including data modelling, data description language (DDL), and stored procedure development. </li><li>Experience with developing APIs and service calls, using both SOAP and REST. </li><li>Understanding of iterative development methodologies and terminology such as DevOps, Squads, and Agile. </li></ul><br><br><b>Additional Information </b><br><p><br></p><p><b> <b> <b>Scheduled Weekly Hours </b> </b> </b><br></p><p>40<br> - provided by Dice</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "SZIg_3yrQzueUEU4pHShZQ",
-    "url": "https://jobmote.com/job/66431/remote-network-engineer/",
-    "title": "Remote Network Engineer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "The Proven Method",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 28, 2019 10:07:33 PM",
-    "validThrough": "Aug 31, 2019 10:07:33 PM",
-    "crawled": "Aug 29, 2019 3:06:24 AM",
-    "content": "<div><p>Mandatory Requirements:<br><strong> Valid CCNA certification</strong> <br> Must be strong with Cisco Routers, Switches, configuration, testing, troubleshooting<br> Provide remote support to the rack and stack technicians installing cisco routers and switches<br> All engineers require internet connection, a laptop and a phone<br> Must be ultra reliable, able to manage their schedules and provide excellent network related support<br><br></p> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Zv3fDPGlRGeoHQbrBQDryw",
-    "url": "https://jobmote.com/job/66437/network-engineer-remote/",
-    "title": "Network Engineer - REMOTE",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "REMOTE1/50",
-      "TECH1/unknown",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Dunhill Professional Search",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 28, 2019 10:07:33 PM",
-    "validThrough": "Aug 31, 2019 10:07:33 PM",
-    "crawled": "Aug 29, 2019 3:06:24 AM",
-    "content": "<div><br><br><p> Navy - SPAWAR </p><br><p><strong> Current/Active Secret Security Clearance is required! </strong></p><br><p> </p><br><p>The Network Engineer will work as part of a team to upgrade IT infrastructure/Network at military facilities worldwide. The DoD is deploying, transitioning, and integrating their medical fixed facilities into the DHA's Enterprise Med-COI architecture and network services.</p><br><p><strong>Essential Duties and Responsibilities</strong></p><br><ul><li><br></li><li>Determines network and system requirements to align with Med-COI requirements.<br></li><li>Migrating existing Information Technology (IT) infrastructure at DoD medical treatment facilities to new network enclaves, Active Directory domains, and Cyber Security Service Providers.<br></li><li>Plans, designs and develops local area networks (LANs) and wide area networks (WANs) with at command enclave infrastructure to include DT&amp;E.<br></li><li>Installs computer networks such as local area networks (LANs), wide area networks (WANs), the Internet, intranets, and other data communications systems.<br></li><li>Installs, configures, manages and maintains network infrastructure devices as well as all related hardware and software. Installs server hardware and software infrastructure.<br></li><li>Designs, deploys, and troubleshoots mid-scale network deployments.<br></li><li>Develops designs and plans for installation and maintenance of telecommunications systems from project inception to conclusion.<br></li><li>Supports network and computing infrastructure. <br></li><li>Plans and oversees appropriate, routine tests to ensure the proper working condition and security of developed and purchased network systems. <br></li><li>Builds, supports and maintains the protection of data and systems through the use of security solutions, backups, redundancy and disaster recovery solutions. <br></li><li>Investigates and analyzes resource utilization and prepares reports and metrics, making appropriate changes to optimize the network infrastructure and provide the highest possible level of performance and security.<br></li><li>Conducts appropriate tests to ensure the proper working condition and security of developed and purchased network systems. <br></li><li>Monitors network performance and performs intermediary network restoration/recovery actions. <br></li><li>Apply scripting methodologies to automate tasks.<br></li><li>Provides and updates training materials and documentation.<br></li></ul><br><p><strong>Minimum Qualifications</strong></p><br><ul><li><br></li><li><strong>Education: </strong>BS degree in BS degree in Engineering, Physics, Network Security, Information Systems, Information Technology or Computer Science.<br></li><li><br></li><li><strong>Active Secret security clearance is required</strong><br></li><li><strong> Security+ and one of MCSE, CCNA, or CCNP certification required </strong><br></li><li>CISSP certification make take the place of the other certification requirements<br></li><li><br></li><li>Three (3) years of experience in Engineering, Systems Analysis, Medical Systems, Information Assurance, Web Development, or Engineering Management to include: Systems Analysis, Systems Architecture, Systems/Equipment Support, Test and Evaluation, and Logistics support of C4ISR requirements.<br></li><li>One (1) year of technical experience in support of information assurance/network protection or virtualization projects.<br></li><li>Advanced experience in analysis and design of voice networks, LAN and WAN data networks, wireless networks, and/or network management systems to support voice and data services.<br></li><li>Maintains an up-to-date technical and practical knowledge and understanding of system testing and analysis.<br></li><li>Knowledge of networking hardware, software, standards, best practices, and industry trends.<br></li><li>Excellent technical knowledge of network, security and storage infrastructure including: local area networks, wide area networks, wireless networking, VPN, firewalls, routers, switches, load balancers, WAN optimizers, endpoint security and encryption, proxy servers, digital certificates, data center management and cabling standards.<br></li><li>Excellent oral and written communications to exchange information, explain procedures, techniques, and answer questions in a clear logical manner.<br></li><li>Outstanding diagnostic, problem-solving and analytical skills.<br></li><li>Ability to provide professional documentation (diagrams, specifications, technical requirements, and proposal content).<br></li><li>Experience architecting, designing, implementing, and maintaining complex network infrastructures.<br></li></ul><br><p>Note: Experience may be concurrent. Advanced degrees substitute for experience as follows: Ph.D. - five (5) years of experience; MS - three (3) years of experience. </p><br><p>10-Years' experience may be substituted for education requirement.</p><br><p><strong>Preferred Qualifications</strong></p><br><ul><li><br></li><li>Experience with Palo Alto 3000, 4000, and 5000 series Firewalls<br></li><li>Experience with Cisco ASA Firewall/VPN, Juniper ISG/SSG VPN is highly desired<br></li><li>Experience with Splunk<br></li><li>Must be able to obtain Public Trust clearance<br></li></ul><br><p><strong>Work Location and Travel</strong></p><br><ul><li><br></li><li>Candidates from other locations (Remote work) will be considered if they meet, education, experience, and certification requirements.<br></li><li>50-80% Travel domestic and worldwide.<br></li></ul><br><p> </p><br><p><strong> U.S. Citizenship Required: Yes </strong></p><br><p> </p><br><p><strong>#CJPost</strong></p> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "p7BWaLXVQTyybGENTfrO8w",
-    "url": "https://weworkremotely.com/remote-jobs/kofile-devops-engineer-azure",
-    "title": "Kofile: DevOps engineer (Azure)",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "DBG:surround``remot 3W onli",
-      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=33, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/admin",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Kofile",
-      "sameAs": "https://www.kofile.com"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Aug 29, 2019 12:34:50 AM",
-    "validThrough": "Sep 5, 2019 12:34:50 AM",
-    "crawled": "Aug 29, 2019 1:06:22 AM",
-    "content": "<h3> DevOps engineer (Azure) </h3><div><div>We're looking for an experienced devops engineer to help manage our cloud service for local governments. The application<br>is a primarily Microsoft-based stack - ASP.NET, Microsoft SQL Server, Windows, with a sprinkling of Linux.<br><br>This is a remote position. US only.<br><br>We're looking for people with:<br>* Experience with automated deployment in the Azure environment<br>* Knowledge of Azure load balancing, vnets, VM management, Azure storage, etc.<br>* Knowledge of application deployment for Microsoft .NET applications<br>* Knowledge of application and infrastructure security<br><br>Bonus points for:<br>* Experience with performance analysis of .NET and SQL Server-based applications<br>* Experience with Ansible<br>&nbsp;&nbsp;<br>Some projects you'll tackle if you join:<br>* Improve our deployment automation<br>* Migrate our infrastructure to Azure GovCloud<br>* Improve our application monitoring and alerting<br>* Refine our disaster recovery processes<br>* Help optimize our cloud spend<br>* Help identify performance issues and bottlenecks in the production environment and work with<br>&nbsp; engineers to make improvements.<br><br><br><br><br><br><br><br></div></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
