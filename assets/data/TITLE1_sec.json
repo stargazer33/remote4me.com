@@ -1,6 +1,327 @@
 {
  "items": [
   {
+    "id": "v3R7mGSITOKJMOOke3dXzg",
+    "url": "https://news.ycombinator.com/item?id=21442525",
+    "title": "Cmd | Vancouver, BC | Onsite and Remote | Full Time | https://www.cmd.com We're a cybersecurity ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:com/dotnet/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=5, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/sec",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 4, 2019 4:31:46 PM",
+    "validThrough": "Nov 11, 2019 4:31:46 PM",
+    "crawled": "Nov 8, 2019 8:31:23 PM",
+    "content": "Cmd | Vancouver, BC | Onsite and Remote | Full Time | <a href='https://www.cmd.com' rel='nofollow'>https://www.cmd.com</a><p>We're a cybersecurity startup on a mission to transform the way businesses secure their cloud-first Linux environments. Our mission is to help companies reliably log, understand, predict, and control user behaviour in their Linux environment.</p><p>We’re just over 35 people &amp; have another year of growth ahead. Questions? Email them to careers[AT]cmd[DOT]com.</p><p><i>What matters to us?</i></p><p>- You're naturally curious, interested in expanding your knowledge</p><p>- You're willing to step in and help a teammate</p><p>- You thrive in ambiguous situations</p><p>- You take the lead, gathering the information you need in order to get your job done</p><p><i>Open Roles:</i></p><p>- <i>GO</i> Backend Developer: <a href='http://bit.ly/cmdgobackenddev' rel='nofollow'>http://bit.ly/cmdgobackenddev</a></p><p>- <i>C Linux</i> Software Developer:  <a href='https://bit.ly/cmdclinuxdev' rel='nofollow'>https://bit.ly/cmdclinuxdev</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "EiTaCYooQm2s3qTEGpfLBg",
+    "url": "http://workinstartups.com/job-board/job/86607/game-engine-developer-engines-team-at-hadean/",
+    "title": "Game Engine Developer- Engines Team",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:distributed-computing/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:game-engine/gamedev/64",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=13, mobile=0, go=0, nodejs=1, bigdata-ml=10, ruby=0, apple=0, java=0, gamedev=64, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/gamedev",
+      "TITLE1/sec",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "gamedev"
+    ],
+    "hiringOrganization": {
+      "name": "Hadean",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 40000,
+      "maxValue": 140000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 40k - 140k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 7, 2019 11:09:42 AM",
+    "validThrough": "Nov 14, 2019 11:09:42 AM",
+    "crawled": "Nov 8, 2019 8:30:36 PM",
+    "content": "<h2 class=&quot;title&quot;>Game Engine Developer- Engines Team</h2><br /><h3 class=&quot;alted&quot;>Job description</h3><br /><div class=&quot;description&quot;><br /><p><strong>At Hadean we are</strong>&nbsp;changing the nature of computing. Our mission is to enable and empower the world to effortlessly harness the limitless computing power of the cloud to realise the greatest opportunities of today and tomorrow, to make the world a better place. So far in 2019 we&rsquo;ve raised $10m to accelerate our growth.</p><br /><p><strong>We believe</strong>&nbsp;that anything is possible when you think big enough, so we give our team the platform to turn great ideas into great products. We are a deep tech company pushing the boundaries every day. Our Engineering team are rewriting the rulebook on OS design to create HadeanOS. It is distributed-first, robust to scaling, efficient, compact and fast. On this foundation we are building Aether Engine, a simulation framework capable of tackling the vast complexity of tomorrow&rsquo;s gaming, life science and physical simulation challenges.</p><br /><p><strong>As our new Game Engine Developer you will be key to our growth by:</strong></p><br /><ul><br /><li>Working in the Engines team to own our distributed/cloud game engine and ensure that it has the power and feature set to push the boundaries of what&rsquo;s possible in online gaming.</li><br /><li>Working in a team of game engine, spatial simulation and distributed computing experts to deliver both foundational work and incremental improvements to Hadean&rsquo;s technology. As an autonomous, self-organising team you&rsquo;ll own your goals and feel the thrill of successful delivery.</li><br /><li>Bringing your experience of game engine development to the table as we plan, design and deliver new game engine features and improve existing ones.</li><br /></ul><br /></div><br /><div class=&quot;description&quot;><br /><p><strong>What we&rsquo;re looking for:</strong></p><br /><ul><br /><li>Knowledge of at least one of the following game engine subsystems: collision and physics, AI, path finding, spatial partitioning, resource management.</li><br /><li>Experience optimising engine code for memory, cache, network and CPU efficiency and performance.</li><br /><li>Strong C/C++ knowledge.</li><br /><li>You are highly proactive and able to organise your time towards successful delivery.</li><br /><li>You can decompose complex problems and manage the inherent risks in pushing technical boundaries.</li><br /><li>You can take high level requirements and distil them into an elegant software design.</li><br /><li>You can write clear, understandable and maintainable code.</li><br /></ul><br /><p><strong>Nice but not necessary:</strong></p><br /><ul><br /><li>Experience with Rust.</li><br /><li>Experience working with distributed systems or parallel computing.</li><br /></ul><br /><p><strong>How we work</strong>&nbsp;is as important as what we work on. Our values include respect, growth, innovation, boldness, fearlessness, resilience, benevolence, authenticity, trustworthiness, being curious, teamwork and fun.</p><br /><p><strong>Diversity makes us stronger</strong>&nbsp;and more able to make the impossible possible. We are therefore committed to Equal Employment Opportunities throughout our recruiting and hiring process, and welcome applications from anyone and everyone.</p><br /><p><strong>We make Hadean an awesome place to work</strong>&nbsp;with options for new employees, regular team drinks, dinners and events, training budget, choice of perkbox or classpass discount, off peak start time, pension scheme and eye exams, and a whole load of fruit and coffee in our fantastic office.</p><br /><p><em>Salary:</em>&nbsp;&pound;40,000 to &pound;140,000</p><br /><p><em>Location:&nbsp;</em>London</p><br /><p><em>Opening Date for Applicants: 21st October 2019</em></p><br /><p><em>Closing Date of advert: 30th December 2019</em></p><br /><p><em>Working hours per week: 40 hours a week</em></p><br /></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "-BgJPvzNT9qQzMEpi6PZdQ",
+    "url": "https://news.ycombinator.com/item?id=21425371",
+    "title": "Kraken Digital Asset Exchange | Crypto Enthusiastic Devs | Full Time | Remote | https://jobs ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=0, c=8, mobile=0, go=6, nodejs=26, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=10, embedded=0, frontend=26}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/sec",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 2, 2019 2:49:41 AM",
+    "validThrough": "Nov 9, 2019 2:49:41 AM",
+    "crawled": "Nov 2, 2019 3:07:18 AM",
+    "content": "Kraken Digital Asset Exchange | Crypto Enthusiastic Devs | Full Time | Remote | <a href='https://jobs.lever.co/kraken' rel='nofollow'>https://jobs.lever.co/kraken</a> | www.kraken.com<p>Kraken was founded in 2011, being a pioneer exchange in the crypto market. Kraken is in rapid expansion of its development teams. At Kraken we have a remote global team, allowing our employees to have more freedom in choosing how to organize their routine and balance work and personal life. Kraken offers remote positions with Silicon Valley-level compensation for developers.</p><p>We’re looking for crypto passionate professionals with the following skillsets: Backend (Rust/Go/Node.js), Frontend (React/Flux/Redux/Sass/Less/PHP), DevOps (PHP/Python/C++/Go, Infiniband), Mobile Dev (React Native), and many more.</p><p>November Highlight | Software Engineer, Crypto/Payments | Remote | Node.js - Containerization - Parity/Bitcoin Daemons |</p><p>Please apply directly to our Lever careers page at <a href='https://jobs.lever.co/kraken' rel='nofollow'>https://jobs.lever.co/kraken</a>. Once you have completed your application to which role/roles you feel you fit best, please email me a confirmation at ryanz@kraken.com and I will make sure your profile is reviewed by our hiring team.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "tJSmRkiqTruasag9UJ7bVQ",
+    "url": "https://jobmote.com/job/98383/penetration-tester-remote-uk/",
+    "title": "Penetration Tester- Remote UK",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/sec",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "concept resourcing",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 30000,
+      "maxValue": 50000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 30k - 50k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 1, 2019 9:07:59 PM",
+    "validThrough": "Nov 4, 2019 9:07:59 PM",
+    "crawled": "Nov 2, 2019 2:06:26 AM",
+    "content": "<div><p><br><strong>Penetration Tester- UK Remote- £30,000- £50,000</strong><br>I am currently working with an industry leading Cyber Security professional services provider who due to continued success are looking to recruit for a Penetration tester. This is an opportunity to join a company at the pinnacle of Cyber Security, with an impressive portfolio of clients and interesting and varied project work. This role is 100% remote working, but candidates must be residing in the UK and hold valid right to work.<br><strong>Why join?</strong></p> <ul><li>Industry leader, working with an impressive client list of household names</li><li>Further training and Development- earn sought after accreditations</li><li>Cutting and bleeding edge technologies</li></ul><p><br><strong>The Role</strong></p> <ul><li>Join a talented Security team offering continuous support to their clients throughout proactive and reactive testing and monitoring</li><li>Monitor and test risks and vulnerabilities</li><li>Manual testing and Automated testing</li><li>Identify exploits on client networks and infrastructure</li><li>Writing detailed analysis and reports on security findings</li><li>Take part in whitepapers, research and development</li></ul><p><br><strong>The successful candidate</strong></p> <ul><li>Will come from a Penetration Testing background (Web, application, Infrastructure, hardware testing)</li><li>Understanding of Network fundamentals- TCP/IP, HTTP, DNS etc</li><li>Experience with Web Application Technologies- REST API's, SOAP API's, XML etc</li><li>Vulnerability management OWASP</li><li>Strong understanding of traditional infrastructure technologies; Virtualisation, Cloud (AWS, Azure)</li><li>Knowledge of scripting languages; Python, Ruby, PowerShell, Bash (writing and running scripts)</li><li>Will have industry relevant certifications, such as; <ul><li>OSCP</li><li>CRT</li><li>GWAPT</li><li>CeH</li></ul></li></ul><p><br>The successful candidate will be looking to earn £30,000- £50,000 + benefits and development.<br>This is an incredible opportunity to join an industry leading company, offering outstanding progression and training. For immediate consideration, please send your most current CV to joel.hughes at Conceptresourcing.com<br>-Infosec- Pen Testing- Coding- Threat Hunting- Security- Cyber Security- DevSecOps- Penetration Testing- Hacking- Control- Ethical hacking-</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "hyUL9xybTo-9gU3ZJ1BSkw",
+    "url": "https://jobmote.com/job/98362/remote-servicenow-developer-cyber-security-specialist/",
+    "title": "(REMOTE!) ServiceNow Developer - Cyber Security Specialist",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:ajax/frontend/3",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=6}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/sec",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 1, 2019 9:07:58 PM",
+    "validThrough": "Nov 4, 2019 9:07:58 PM",
+    "crawled": "Nov 2, 2019 2:06:26 AM",
+    "content": "<div>Minimum Required Skills: Cyber Security, ServiceNow, Enterprise Implementation, LDAP, Encryption, IT Infrastructure, LDAPS, Lightweight Directory Application Protocol Secure If you are a ServiceNow Developer and a Cyber Security Specialist, please read on! Top Reasons to Work with Us This is a 100% REMOTE opportunity to join a fast-growing and well-funded startup with revenue and customers and a growing line of Enterprise products serving a wide market. We have an amazing company culture and a remote-first workforce. Most individual contributors up to executives work remotely, though we do have multiple offices with an option to be on-site if you'd like. What You Will Be Doing The Cyber Security Specialist will be involved in various engagements implementing our portfolio of ServiceNow applications, leveraging a strong background in Cyber Security and ServiceNow utilizing our company's global services delivery model. As a Cyber Security Specialist, you will be engaged in the development of plans, roadmaps and blueprints to enable client transition from legacy environments to ServiceNow-based organization with a modern platform, enhanced functionality and cloud infrastructure to support the long-term cost and efficiency objectives for our clients. You'll deliver Cyber Security assessments, vulnerability response, remediation management, and security life-cycle processes for clients Operational Technology (OT/IoT) systems You'll be working within Advanced Encryption Standards (AES) You'll work with cloud-based or on-prem enterprise SSO systems like OTKA or others You'll need to be or become familiar with TLS (Transport Layer Security) and SSL (Secure Sockets Layer) What You Need for this Position More Than 5 Years of experience and knowledge of: - Cyber Security - ServiceNow - Enterprise Implementation - LDAP - Encryption - IT Infrastructure - LDAPS - Lightweight Directory Application Protocol Secure You'll need solid understanding of SDLC methodologies such as Waterfall, Agile and Scrum You'll need expert-level knowledge in ServiceNow scripting and web technologies including XML, HTML, JAVA Script, AJAX, CSS, and HTTP/S You'll need a solid understanding of SOAP and REST web services and web service call authentication methods You'll need to become familiar with HTTPS and Certificate Authorities configurationSo, if you are a Cyber Security Specialist and are experienced with ServiceNow Implementation, please apply today! Applicants must be authorized to work in the U.S. Security Clearance will be needed - therefore, Those authorized to work in the United States without sponsorship are encouraged to apply.s can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume! Looking forward to receiving your resume and going over the position in more detail with you. - Not a fit for this position? Click the link at the bottom of this email to search all of our open positions. Looking forward to receiving your resume! CyberCoders CyberCoders, Inc is proud to be an Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved. - provided by Dice<br><br>Cyber Security, ServiceNow, Enterprise Implementation, LDAP, Encryption, IT Infrastructure, LDAPS, Lightweight Directory Application Protocol Secure - Cyber Security, ServiceNow, Enterprise Implementation, LDAP, Encryption, IT Infrastructure, LDAPS, Lightweight Directory Application Protocol Secure</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "fomCK47gTjS-cC8e9XJJ1A",
+    "url": "https://jobmote.com/job/98360/remote-cyber-security-specialist-servicenow-implementation/",
+    "title": "(REMOTE!) Cyber Security Specialist - ServiceNow Implementation",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG_TECH1:k/t/w:ajax/frontend/3",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=6}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/sec",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 1, 2019 9:07:58 PM",
+    "validThrough": "Nov 4, 2019 9:07:58 PM",
+    "crawled": "Nov 2, 2019 2:06:26 AM",
+    "content": "<div>Minimum Required Skills: Cyber Security, ServiceNow, Enterprise Implementation, LDAP, Encryption, IT Infrastructure, LDAPS, Lightweight Directory Application Protocol Secure If you are a Cyber Security Specialist and are experienced with ServiceNow Implementation, please read on! Top Reasons to Work with Us This is a 100% REMOTE opportunity to join a fast-growing and well-funded startup with revenue and customers and a growing line of Enterprise products serving a wide market. We have an amazing company culture and a remote-first workforce. Most individual contributors up to executives work remotely, though we do have multiple offices with an option to be on-site if you'd like. What You Will Be Doing The Cyber Security Specialist will be involved in various engagements implementing our portfolio of ServiceNow applications, leveraging a strong background in Cyber Security and ServiceNow utilizing our company's global services delivery model. As a Cyber Security Specialist, you will be engaged in the development of plans, roadmaps and blueprints to enable client transition from legacy environments to ServiceNow-based organization with a modern platform, enhanced functionality and cloud infrastructure to support the long-term cost and efficiency objectives for our clients. You'll deliver Cyber Security assessments, vulnerability response, remediation management, and security life-cycle processes for clients Operational Technology (OT/IoT) systems You'll be working within Advanced Encryption Standards (AES) You'll work with cloud-based or on-prem enterprise SSO systems like OTKA or others You'll need to be or become familiar with TLS (Transport Layer Security) and SSL (Secure Sockets Layer) What You Need for this Position More Than 5 Years of experience and knowledge of: - Cyber Security - ServiceNow - Enterprise Implementation - LDAP - Encryption - IT Infrastructure - LDAPS - Lightweight Directory Application Protocol Secure You'll need solid understanding of SDLC methodologies such as Waterfall, Agile and Scrum You'll need expert-level knowledge in ServiceNow scripting and web technologies including XML, HTML, JAVA Script, AJAX, CSS, and HTTP/S You'll need a solid understanding of SOAP and REST web services and web service call authentication methods You'll need to become familiar with HTTPS and Certificate Authorities configurationSo, if you are a Cyber Security Specialist and are experienced with ServiceNow Implementation, please apply today! Applicants must be authorized to work in the U.S. Security Clearance will be needed - therefore, Those authorized to work in the United States without sponsorship are encouraged to apply.s can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume! Looking forward to receiving your resume and going over the position in more detail with you. - Not a fit for this position? Click the link at the bottom of this email to search all of our open positions. Looking forward to receiving your resume! CyberCoders CyberCoders, Inc is proud to be an Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved. - provided by Dice<br><br>Cyber Security, ServiceNow, Enterprise Implementation, LDAP, Encryption, IT Infrastructure, LDAPS, Lightweight Directory Application Protocol Secure - Cyber Security, ServiceNow, Enterprise Implementation, LDAP, Encryption, IT Infrastructure, LDAPS, Lightweight Directory Application Protocol Secure</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "vcecJuqsQ6qnUDI-da8Jvg",
     "url": "https://news.ycombinator.com/item?id=21420863",
     "title": "Kraken | Crypto/Fiat Payments | Backend Developer | Full-time | Remote Only (anywhere) | https: ...",
@@ -1028,52 +1349,6 @@
     "validThrough": "Sep 23, 2019 10:07:51 PM",
     "crawled": "Sep 21, 2019 3:06:30 AM",
     "content": "<div><p>Penetration Tester - Remote</p> <p><br>Location: Remote | Division: Offensive | Position type: Full Time | Reports to: Security Lead</p> <p><br>This is your opportunity to take on some of the most sophisticated security systems to showcase<br>your skills and ability. The company in question have just become part of a large service provider<br>who is dominating the European market. They are expanding rapidly and now have over 20 offices<br>from Europe to Brazil. The red team that you will be joining have been established for over 18 years,<br>over these years they have accumulated a client bank including both; public and private clients,<br>allowing you to test your skills across multiple sectors, each posing their own challenges for you to<br>exploit.</p> <p><br>Main duties:</p> <p> On-board clients into the service including configuration and review to increase<br>effectiveness.<br> Monitoring of the customers' external perimeter for changes, and proactive discovery of<br>new targets to include within the customer's scope.<br> Manual identification and exploitation of vulnerabilities.<br> Manual verification and exploitation of scanner findings.<br> Detailed analysis of issues identified and exposure for the customer including proof of<br>concept, reproduction steps, and recommended remediation.<br> Communication of findings to the customer in a detailed, accurate and manageable<br>manner both orally and through written vulnerability/scope notifications and periodic<br>summaries.</p> <p><br>What the opportunity offers:</p> <p><br> Range of testing deployments over multiple sectors to increase your personal portfolio.<br> Continued personal development plan and opportunity to keep technical qualifications in<br>date.<br> Opportunity to become part of the writing and publishing process of whitepapers and<br>advisories of the team's findings.<br>What you will have:<br> CRT- CREST Registered Penetration Tester<br> OSCP - Certified<br> GWAPT<br> Bachelors degree related to cyber security or computer science<br> Practical experience in a variety of forms; live bug bounty, cloud security vulnerability<br>exploitation, web app and infrastructure vulnerability exploitation and mobile app<br>exploitation.</p> <p>Huntress Search Ltd does not discriminate on the grounds of 'protected characteristics' as defined under the Equality Act and other relevant UK legislation.</p> <p>Huntress Search Ltd acts as a Recruitment Agency in relation to all Permanent roles and as a Recruitment Business in relation to all Temporary roles.</p> <p>PLEASE NOTE: We can only consider applications from candidates who have the right to work in the UK.</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "TS0nREFYT4CZRZ8Cnqj19Q",
-    "url": "https://remote.co/job/web-researcher-2/",
-    "title": "Web Researcher",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Time Doctor",
-      "sameAs": "https://www.timedoctor.com/"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 20, 2019 6:48:00 PM",
-    "validThrough": "Sep 27, 2019 6:48:00 PM",
-    "crawled": "Sep 20, 2019 7:31:33 PM",
-    "content": "<h3>Web Researcher at <span>Time Doctor</span></h3><div><span><i></i> Remote</span>         | <span> Entry-level </span> | <span> International </span></div><div>            <p><strong>Location: Worldwide</strong></p><p><strong>Category:</strong></p><p><strong>Job Type:</strong>&nbsp;Full-Time</p><p><strong>Job Description:</strong></p><p>The basis of any successful marketing campaign depends on the quality of the contacts provided. That is why we need a web researcher who can uncover accurate contact details for potential leads to provide to our marketing specialists. You may be assigned other types of research as well.</p><p><strong>This is a fulltime position in the marketing team. The hours are from 9 am to 6 pm (GMT+8), Monday through Friday. Flexible hours are possible, but you will need to be online to attend weekly meetings at 12 pm (GMT+8) every Monday. You will report directly to the Research team leader.</strong></p><p><strong>YOU WILL BE RESPONSIBLE FOR:</strong></p><ul><li>Researching updated contact information for leads.</li><li>Doing other types of research for the team, as needed.</li><li>Filtering links and identifying those that are appropriate for being contacted by the marketing specialists.</li></ul><p><strong>TO BE THE BEST MATCH FOR THIS JOB, YOU NEED TO:</strong></p><ul><li>Have experience using different researching tools (such as Hunter or ContactOut).</li><li>Be well versed in doing research, especially for contact details.</li><li>Have good analytical skills.</li><li><strong>This job is for web researcher/ online researcher / researcher / va / virtual assistant / remote work / work from home / telecommute/ flexible time</strong></li></ul><p><strong>ABOUT THE COMPANY AND OUR PRODUCT:</strong></p><p>Our vision is to be the most trusted time tracking and productivity application for remote teams. We want to help companies know if their remote teams are working productively.</p><p>We develop and market Time Doctor, a timetracking and productivity tool. Our software is used by individuals and teams to track time spent on tasks and to monitor computer activity. Time Doctor can take screenshots while a person is working, monitor keyboard and mouse activity, and track website and application usage.</p><p>We have a team of over 70 people working 100% remotely in 30 different countries.</p><p>Learn more about us here:</p><p>https://www.timedoctor.com/aboutus.html</p><p>https://www.linkedin.com/company/timedoctor</p>        </div><div>        <a href='https://time-doctor.breezy.hr/p/14036d604185?source=remote.co' rel='nofollow'>Apply for job</a>    </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -2359,555 +2634,6 @@
     "validThrough": "Sep 11, 2019 10:07:27 PM",
     "crawled": "Sep 9, 2019 3:06:25 AM",
     "content": "<div>Compri Consulting's client is seeking a Senior Software Security Architect for a 6 month contract to hire OR direct hire position located in Westminster, CO. The candidate can work remotely with some travel to the Westminster office.Duties Architects, designs, and implements cyber security measures related to computer networks and software testing and validation procedures, programming and documentation (AWS Cloud Security, Application Security, Machine Learning, AI Sandboxing) Performs application and data security reviews to confirm that new applications and changes to applications are compliant with the company's policies and standards, as well as to ensure that the right security controls are applied to applications to keep data secure Provides technical expertise to the Cyber Security Operations Center (CSOC) during the full lifecycle of product evaluation, recommendation, testing, installation, rollout, and support Develops API integrations and recommends configuration changes to improve the performance, usability, and value of cloud security tools Applies secure development/coding to include; but not limited to, cloud technology, internet servers, application whitelisting, virtualized containers, web-enabled database applications, network security, security engineering, data integrity, intrusion detection, forensic and legal information security, virtual private networks, public key/infrastructure/digital signatures, encryption, network security architecture, and policy Champions security by injecting security concerns into the existing development workflow; builds security thinking into every stage of software development Coordinates with teams across the enterprise on the migration of existing enterprise services to the cloud; identifies security technical requirements, and potential problems and issues Required Skills Bachelor's degree in Information Security, Computer Science, or other related field, and 15 years experience as a security architect or developer in a large corporation OR Master's degree in Information Security, Computer Science, or other related field, and 12 years experience Deep understanding of coding and scripting languages such as (e.g., Python, Java) and can easily adapt to other languages quickly and efficiently Expert level in defining and implementing an SDLC Expert level in working closely with development teams Experience with Static and Dynamic Code Analysis tools Experience in building security checks into the CI/CD pipeline Knowledge of OWASP, SDLC, and security vulnerabilities Experience with Oracle or SQL Server Experience with Java, REST, SOAP, and JSON Understanding of Agile software development principles along with experience participating in agile projects (SAFE Agile preferred) Ability to take initiative and use skills to contribute to development of company objectives, policy, and principles, as well as to achieve goals in creative and effective ways Ability and willingness to share on-call responsibilities, work non-standard hours, aid Cyber Security investigations, and travel (up to 15%) when required United States Citizenship and ability to obtain and hold a US Government Security Clearance Desired Skills Experience in leading an Application Security Program Experience in a DevSecOps environment Knowledge of and experience with manipulating protocols and libraries to compromise the security of a set of systems or code Previous work as a developer for a large code base and collaboration with engineers and developers Hands on experience in both using and securing Linux-based systems and containers You've worked on open source projects before and are familiar with different styles of source control workflow and continuous integration and management (GitHub, Terraform, Ansible, RunDeck, etc).</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "01itZXlFTk6zjNfmNfNm0g",
-    "url": "https://jobmote.com/job/70313/sr-cloud-security-engineer-remote-potential/",
-    "title": "Sr. Cloud Security Engineer - REMOTE POTENTIAL",
-    "tags": [
-      "DBG:surround``home W base",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Tri-S Recruiters, Inc.",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 7, 2019 10:07:25 PM",
-    "validThrough": "Sep 10, 2019 10:07:25 PM",
-    "crawled": "Sep 8, 2019 3:06:24 AM",
-    "content": "<div><p><strong> Fortune 100 company needs a Sr Cloud Security Engineer. This role may be home-based! </strong></p> <p><strong>SUMMARY</strong></p> <p><strong>As a Senior Cloud Security Engineer, you'll design and build Cloud Security solutions that will balance the need for speed and flexibility of Cloud infrastructure and IaaS/PaaS/SaaS applications with the need to protect against ongoing and potential security threats. You will implement the Information Security design for Cloud usage throughout the enterprise, enforce compliance with Security policies and controls; and function as a technical security SME on various projects. This critical role requires the ability to synthesize radical ideas, the aptitude to define new security strategies and the tenacity to get the job done Globally.</strong></p> <p></p> <p><strong> Key Responsibilities </strong></p> <p>Serve as a thought leader, solution visionary and technology expert.</p> <p>You will drive Cloud Security Engineering for our Enterprise IT and Business IT teams in both IaaS/PaaS and SaaS implementations.</p> <p>You will be an active member of Design &amp; Build IT projects, steering cloud configurations and services towards industry-leading security with your domain expertise.</p> <p>You will actively assess existing cloud implementations, identifying security issues and prioritizing fixes.</p> <p>You will engineer and implement new Cloud Security tools to feed our DevOps/SecOps processes to ensure the solvency of cloud compute resources.</p> <p><strong>REQUIREMENTS</strong></p> <p>Bachelor's degree or equivalent in Computer Science, Information Systems Management, Information Technology or other related discipline preferred.</p> <p>8+ years IT experience with preferred background as a Security Engineer supporting software architecture development environments.</p> <p>Experience with Git, Jenkins, Chef, and Puppet.</p> <p>Experience with common Scripting languages (Python, Ruby).</p> <p>Strong experience with cloud security strategy, cloud provider ecosystems (Amazon AWS/Microsoft Azure) &amp; migrating Enterprise from traditional data center Infrastructure, Application and Data designs to hybrid or fully-cloud enabled practices.</p> <p>Familiar with DevOps and Agile methodology.</p> <p>Experience with Linux/UNIX Windows Servers, MS SQL, Oracle MySQL, MongoDB.</p> <p>Experience understanding protocols, such as, SSL/TLS, CIFS, HTTP/S, DHCP, SMTP, LDAP/S, NFS, SNMP and DNS.</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "3qNLmd5oR2yUAUBMEcFexg",
-    "url": "https://jobmote.com/job/70312/sr-cloud-security-engineer-remote-potential/",
-    "title": "Sr. Cloud Security Engineer - REMOTE POTENTIAL",
-    "tags": [
-      "DBG:surround``home W base",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby/ruby/2",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Tri-S Recruiters, Inc.",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 7, 2019 10:07:25 PM",
-    "validThrough": "Sep 10, 2019 10:07:25 PM",
-    "crawled": "Sep 8, 2019 3:06:24 AM",
-    "content": "<div><p><strong> Fortune 100 company needs a Sr Cloud Security Engineer. This role may be home-based! </strong></p> <p><strong>SUMMARY</strong></p> <p><strong>As a Senior Cloud Security Engineer, you'll design and build Cloud Security solutions that will balance the need for speed and flexibility of Cloud infrastructure and IaaS/PaaS/SaaS applications with the need to protect against ongoing and potential security threats. You will implement the Information Security design for Cloud usage throughout the enterprise, enforce compliance with Security policies and controls; and function as a technical security SME on various projects. This critical role requires the ability to synthesize radical ideas, the aptitude to define new security strategies and the tenacity to get the job done Globally.</strong></p> <p></p> <p><strong> Key Responsibilities </strong></p> <p>Serve as a thought leader, solution visionary and technology expert.</p> <p>You will drive Cloud Security Engineering for our Enterprise IT and Business IT teams in both IaaS/PaaS and SaaS implementations.</p> <p>You will be an active member of Design &amp; Build IT projects, steering cloud configurations and services towards industry-leading security with your domain expertise.</p> <p>You will actively assess existing cloud implementations, identifying security issues and prioritizing fixes.</p> <p>You will engineer and implement new Cloud Security tools to feed our DevOps/SecOps processes to ensure the solvency of cloud compute resources.</p> <p><strong>REQUIREMENTS</strong></p> <p>Bachelor's degree or equivalent in Computer Science, Information Systems Management, Information Technology or other related discipline preferred.</p> <p>8+ years IT experience with preferred background as a Security Engineer supporting software architecture development environments.</p> <p>Experience with Git, Jenkins, Chef, and Puppet.</p> <p>Experience with common Scripting languages (Python, Ruby).</p> <p>Strong experience with cloud security strategy, cloud provider ecosystems (Amazon AWS/Microsoft Azure) &amp; migrating Enterprise from traditional data center Infrastructure, Application and Data designs to hybrid or fully-cloud enabled practices.</p> <p>Familiar with DevOps and Agile methodology.</p> <p>Experience with Linux/UNIX Windows Servers, MS SQL, Oracle MySQL, MongoDB.</p> <p>Experience understanding protocols, such as, SSL/TLS, CIFS, HTTP/S, DHCP, SMTP, LDAP/S, NFS, SNMP and DNS.</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "8_cP-rVITzyUUlOZE00cMA",
-    "url": "https://jobmote.com/job/70225/lead-platform-operations-security-engineer-remote/",
-    "title": "Lead Platform Operations Security Engineer - REMOTE",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Request Technology - Robyn Honquest",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 140000,
-      "maxValue": 160000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 140k - 160k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 5, 2019 10:07:44 PM",
-    "validThrough": "Sep 8, 2019 10:07:44 PM",
-    "crawled": "Sep 6, 2019 3:06:24 AM",
-    "content": "<div><p>$20k Bonus and relocation assistance</p> <p>Salary: $140k to $160k</p> <p>Location: Remote or Rancho Cordova, CA</p> <p>This is a lead position to manage the infrastructure that supports all the security operations: UNIX, Linux, Windows, VMWare Servers, networking, Firewalls, change management, hosts AWS Cloud applications. You will lead, build and run infrastructure hands on.</p> <p>This position is responsible for the planning, deployment and operations of enterprise information security solutions (such as authentication and authorization, public key infrastructure, data loss prevention, network and endpount security) to address the current and emerging security needs of the business.</p> <p>This role requires in depth knowledge of infrastructure and cloud technologies. The person in this role will contribute to the development and execution of a cyber security operations framework to ensure control availability, capacity and performance while maintaining the optimal level of security.</p> <p>The candidate should have a breadth of technical experience in one or more of the following areas: Networks, Operating Systems, Databases, Web Applications, or Cloud implementations. This is a great opportunity for a seasoned technology professional to branch into the cyber security field.</p> <p>RESPONSIBILITIES</p> <ol><li>Design, build, and operate cyber security controls for the enterprise.</li> <li>Act as the subject matter expert for one of more of the following areas - network security, endpoint security, database security, security testing and assurance, or communication security.</li> <li>Apply ITIL or other technology management best practices to an enterprise cyber security platform.</li> <li>Create and update a view of IT assets, related attack surfaces, and threat actors to illustrate the flow of data and associated security threats.</li> <li>Engages with security specialists, enterprise architects and other functional area architects to ensure adequate enterprise security solutions are in place to sufficiently mitigate identified risks, and to meet business objectives and regulatory requirements.</li> <li>Serve as a cybersecurity subject matter expert, assessing the business impact of cybersecurity risks to the enterprise and identifying options and recommendations for mitigating those risks.</li> <li>Serve as an expert in platform, application, storage, network, virtualization, cloud and mobile security best practices.</li> <li>Exercise thought leadership in the creation and maintenance of security architectures.</li> <li>Lead all resource planning, engagement management, and service development/improvement initiatives for this area.</li> <li>Communicate and interact effectively and professionally with co-workers, management, internal and external customers and partners.</li> <li>Communicate cybersecurity risks and solutions to various technical and non-technical audiences and levels of management.</li> <li>Maintain communication with management regarding development within areas of assigned responsibilities and perform special projects as required or requested.</li> <li>Develop strong working relationships with and offer continuous assistance and thought leadership to other leaders in the information technology organization.</li> <li>Establish and maintain relationships with suppliers and business partners in the information security industry. As needed, draft and negotiate professional services contracts, statements of work, and technology acquisition &amp; support agreements.</li> <li>Continuously track and report the status of all development efforts through boardroom-quality visual communication deliverables.</li> <li>Educate, coach, and mentor all members of the team on technical, interpersonal, team dynamics, company policy &amp; procedure, enterprise business model and other topics.</li> <li>Maintain complete confidentiality of company business.</li> <li>Comply with HIPAA, Diversity Principles, Corporate Integrity, Compliance Program policies and other applicable corporate and departmental policies</li> </ol><p>QUALIFICATIONS:</p> <ol><li>Bachelor's or Master's Degree</li> <li>A widely-recognized cyber security technical certification such as GIAC or CISSP is a plus. Certifications in IT areas is strongly recommended.</li> <li>Minimum 8 years of combined hands-on IT and security architecture development and implementation work experience with a broad exposure to infrastructure/network and multi-platform environments. Requires expert knowledge of security principles, issues, techniques and implications across all existing computer platforms.</li> <li>Minimum 2 years of experience in information security solution engineering or security service delivery.</li> <li>Minimum 2 years of leadership experience with planning and managing security implementations and/or leading a team of technical resources. This role will require the management of several (2 to 4) concurrent large-scale enterprise wide information technology capability development projects.</li> <li>Minimum of two years of systems or application monitoring and logging experience. Experience with SPLUNK is highly recommended.</li> </ol></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "C7x1xUavTvSjq06EYNigaA",
-    "url": "https://jobmote.com/job/70224/lead-platform-operations-security-engineer-remote/",
-    "title": "Lead Platform Operations Security Engineer - REMOTE",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Request Technology - Robyn Honquest",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 140000,
-      "maxValue": 160000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 140k - 160k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 5, 2019 10:07:44 PM",
-    "validThrough": "Sep 8, 2019 10:07:44 PM",
-    "crawled": "Sep 6, 2019 3:06:24 AM",
-    "content": "<div><p>$20k Bonus and relocation assistance</p> <p>Salary: $140k to $160k</p> <p>Location: Remote or Rancho Cordova, CA</p> <p>This is a lead position to manage the infrastructure that supports all the security operations: UNIX, Linux, Windows, VMWare Servers, networking, Firewalls, change management, hosts AWS Cloud applications. You will lead, build and run infrastructure hands on.</p> <p>This position is responsible for the planning, deployment and operations of enterprise information security solutions (such as authentication and authorization, public key infrastructure, data loss prevention, network and endpount security) to address the current and emerging security needs of the business.</p> <p>This role requires in depth knowledge of infrastructure and cloud technologies. The person in this role will contribute to the development and execution of a cyber security operations framework to ensure control availability, capacity and performance while maintaining the optimal level of security.</p> <p>The candidate should have a breadth of technical experience in one or more of the following areas: Networks, Operating Systems, Databases, Web Applications, or Cloud implementations. This is a great opportunity for a seasoned technology professional to branch into the cyber security field.</p> <p>RESPONSIBILITIES</p> <ol><li>Design, build, and operate cyber security controls for the enterprise.</li> <li>Act as the subject matter expert for one of more of the following areas - network security, endpoint security, database security, security testing and assurance, or communication security.</li> <li>Apply ITIL or other technology management best practices to an enterprise cyber security platform.</li> <li>Create and update a view of IT assets, related attack surfaces, and threat actors to illustrate the flow of data and associated security threats.</li> <li>Engages with security specialists, enterprise architects and other functional area architects to ensure adequate enterprise security solutions are in place to sufficiently mitigate identified risks, and to meet business objectives and regulatory requirements.</li> <li>Serve as a cybersecurity subject matter expert, assessing the business impact of cybersecurity risks to the enterprise and identifying options and recommendations for mitigating those risks.</li> <li>Serve as an expert in platform, application, storage, network, virtualization, cloud and mobile security best practices.</li> <li>Exercise thought leadership in the creation and maintenance of security architectures.</li> <li>Lead all resource planning, engagement management, and service development/improvement initiatives for this area.</li> <li>Communicate and interact effectively and professionally with co-workers, management, internal and external customers and partners.</li> <li>Communicate cybersecurity risks and solutions to various technical and non-technical audiences and levels of management.</li> <li>Maintain communication with management regarding development within areas of assigned responsibilities and perform special projects as required or requested.</li> <li>Develop strong working relationships with and offer continuous assistance and thought leadership to other leaders in the information technology organization.</li> <li>Establish and maintain relationships with suppliers and business partners in the information security industry. As needed, draft and negotiate professional services contracts, statements of work, and technology acquisition &amp; support agreements.</li> <li>Continuously track and report the status of all development efforts through boardroom-quality visual communication deliverables.</li> <li>Educate, coach, and mentor all members of the team on technical, interpersonal, team dynamics, company policy &amp; procedure, enterprise business model and other topics.</li> <li>Maintain complete confidentiality of company business.</li> <li>Comply with HIPAA, Diversity Principles, Corporate Integrity, Compliance Program policies and other applicable corporate and departmental policies</li> </ol><p>QUALIFICATIONS:</p> <ol><li>Bachelor's or Master's Degree</li> <li>A widely-recognized cyber security technical certification such as GIAC or CISSP is a plus. Certifications in IT areas is strongly recommended.</li> <li>Minimum 8 years of combined hands-on IT and security architecture development and implementation work experience with a broad exposure to infrastructure/network and multi-platform environments. Requires expert knowledge of security principles, issues, techniques and implications across all existing computer platforms.</li> <li>Minimum 2 years of experience in information security solution engineering or security service delivery.</li> <li>Minimum 2 years of leadership experience with planning and managing security implementations and/or leading a team of technical resources. This role will require the management of several (2 to 4) concurrent large-scale enterprise wide information technology capability development projects.</li> <li>Minimum of two years of systems or application monitoring and logging experience. Experience with SPLUNK is highly recommended.</li> </ol></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "6BZEYCBmQK-ljIGfCERKPg",
-    "url": "https://jobmote.com/job/68942/sailpoint-iam-security-architect-remote/",
-    "title": "SailPoint IAM Security Architect-Remote",
-    "tags": [
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
-      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TECH1/frontend",
-      "TITLE1/sec",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "dotnet",
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "WSI Nationwide",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 3, 2019 10:07:44 PM",
-    "validThrough": "Sep 6, 2019 10:07:44 PM",
-    "crawled": "Sep 4, 2019 3:06:24 AM",
-    "content": "<div><p>SailPoint IAM Security Architect-Remote<br><br>Company Bio - Cybersecurity Consulting company that focuses on enterprise IAM Solutions, competes with Big 4 however is much leaner and offers much less travel and much greater ability to impact a fast growing company. <br><br>Position Description<br>In this is permanent position you will be working for a leading Cyber Security Solution provider servicing large enterprise organizations. This is a remote based position that will include limited travel up to 35%. Candidates can be based anywhere in the United States.<br>This is an Identity and Access Management Architect position in which you will be the primary customer interface and technical authority with regard to IAM products and solutions. You will be instrumental in the successful design and delivery of SailPoint iiQ implementations and upgrades<br>This position offers a generous base salary and full time health benefits along with significant career progression opportunity.<br><br>Duties and Responsibilities<br>-Provides technical design and consulting services on (IAM) Identity and Access Management (IAM) products<br>-Provides customer specific though leadership and solution construction including installations of Identity and Access Management (IAM) products for User life cycle management, Identity and Access Governance, Automated Provisioning, (SSO) Single Sign-On, Federation, and Privileged Account Management<br>-Enhances existing systems by analysing business objectives, preparing an action plan and identifying areas for modification and improvement<br>-Creates customer level documentation specific to deployment of IAM products<br>-Creates knowledge articles for corporate website related to IAM<br>-Provide regular feedback to the Professional Services Director to guide systems integration methodology and packages service development<br><br>Technical Experience and Qualifications<br>-Lead customer-focused discussions and interact with our customers as the primary technical authority for an engagement<br>-Ability to present project solutions to clients, manage client expectations, and implement and deliver solutions<br>-Become a subject matter expert with IAM products and concepts<br>-Web Application security<br>-Software Security<br>-HTTP and related technologies<br>-Database/Directory integration<br>-x509 Certificates<br>-Windows, Unix, Linux<br>-Experience with IAM products: CA/SiteMinder, Radiant Logic, Sailpoint, Centrify, ForgeRock, Ping Identity, IBM, Okta, Oracle, RSA, simeio<br>-Federated Identity and Single Sign-On<br>-Access Management and API Gateways<br>-SAML, WS-Federation, OAuth, OpenID Connect, and/or SCIM standards<br>-RADIUS and/or KERBEROS<br>-APIs (SOAP, XML, REST, JSON)<br>-Social APIs including Facebook, Twitter, LinkedIn, etc.<br>-User Directory (Active Directory OpenLDAP, OpenDJ, etc.)<br>-Java and/or .NET development<br>-Amazon's AWS services (ie VPCs, SES, RC2, R3, Route 53, Cloud Formation, etc.)</p> <p>Please e-mail a resume with contact information, address and phones to Jay J.at (see below), with the subject line of this message in the subject line of the message you send, (no URL resume links or ZIP files and please do not return a copy of this announcement with your response) or call.<br><br>When resumes are received, the candidate is contacted if there is a match, the situation is thoroughly described and the candidate tells us how they would like us to proceed. No information leaves our office without prior approval. <br><br>This creates long term relationships, which we encourage.<br><br>WSI is a specialty recruiting organization with over twenty years experience and fees paid by our selected client companies, freeing our hands to find top level candidates for better projects all over the USA.</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "dSHchjd2Td68A-WdSHe6Zg",
-    "url": "https://jobmote.com/job/68941/cisco-security-architect-lead-50-remote-pnw/",
-    "title": "Cisco Security Architect Lead-50% Remote - PNW",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
-      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
-      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "WSI Nationwide",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 3, 2019 10:07:44 PM",
-    "validThrough": "Sep 6, 2019 10:07:44 PM",
-    "crawled": "Sep 4, 2019 3:06:24 AM",
-    "content": "<div><p>Cisco Security Architect/Small Practice Lead<br><br>- This is a Remote position however it will require some travel throughout the Pacific North West Region. Candidates can be based anywhere within the 4 state region (Washington, Oregon, Montana, Idaho) and work remotely the majority of the time.</p> <p>20-30% time in office and a similar amount travelling in the PNW to be in front of customers and the rest will be remote. Living far from an office then office time could be less.</p> <p>-As the (Remote) Cisco Security Architect/Small Practice Lead you will lead a small Practice in Strategy, PreSales, and be heavily involved in the design and deployment of advanced Cisco Network Security solutions to meet customer needs. This is a broadly scoped position suited for a true hybrid technologist focusing on Cisco Network Security.</p> <p>- You will work collaboratively with Operations to ensure seamless transition of needs based solution design throughout the project delivery life cycle. You will be instrumental in ensuring technical solution capability meets customer and industry standards. You will directly influence the direction and growth of the security practice.</p> <p>Key Responsibilities<br><br>Work with Leadership team to set practice strategy<br>Architect and implement Cisco Network Security solutions to meet customer requirements within industry and technology best practices<br>Act as the technical authority for assessment and approval of specifications for solution construction or change<br>Assist partners with project plan, direction, and evaluation with the inclusion of costs, requirements, and timeline<br>Liaise with customer and internal staff throughout project delivery to ensure customer satisfaction is achieved<br>Share knowledge of product benefits and capability in ongoing training sessions with technical and non-technical staff<br>Assist Director with regional corporate growth activities and take on increase position responsibility when appropriate<br>Develop technical roadmap for the overall solution including high level design, SoW, BoM<br>Assist sales in customer meetings to answer technical questions<br>Respond to technical components of RFI/RFP/RFQ<br>Engage with customer to develop trusted technology advisor relationships with key decision makers<br>Work with customers to discover and gather technical and business requirements<br>Prepare and deliver presentations to educate customers of solution and service benefits relevant to their business/technology needs and goals<br>Assist sales in technical components of tender and bidding process<br>Participate in technology and professional training and development to continue to enhance your skills and capability</p> <p>Technology Focus &amp; Requirements<br><br>Security solutions using one or more of the following technologies:<br>Network Security<br>End Point &amp; Mobile Security<br>Virtualization Security<br>Identity &amp; Access management<br>Security Management and Operations<br>Encryption &amp; VPN<br>Application Security (including web/cloud and database)<br>Anti-Malware Solutions<br>Web &amp; Email Gateways<br><br>Desirable Knowledge and Skills<br><br>FirePower, ISE<br>Cisco Firewalls/VPNs<br>Cisco IDS/IPS solutions<br>Cisco Malware Prevention<br>Complex Cisco routing and switching solutions<br>Cisco Enterprise Wireless solutions<br>Load balancing/Acceleration solutions Cisco and F5<br>Cisco Network Access Control and Authentication systems<br>Data Security Solutions - RSA<br>Cisco Prime Security and Network Monitoring and Management Tools<br>Cisco and VMware Software Defined Networking</p> <p>Certifications<br><br>Desirable Security Certifications ie: CCIE, GCIH, CISSP, CISM, ISSMP</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "V6v63vR4RJGMBfBmajdFpg",
-    "url": "https://jobmote.com/job/68940/cisco-security-architect-lead-50-remote/",
-    "title": "Cisco Security Architect-Lead-50% Remote",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
-      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
-      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "WSI Nationwide",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 3, 2019 10:07:44 PM",
-    "validThrough": "Sep 6, 2019 10:07:44 PM",
-    "crawled": "Sep 4, 2019 3:06:24 AM",
-    "content": "<div><p>Cisco Security Architect/Small Practice Lead</p> <p>- This is a Remote position however it will require some travel throughout the Pacific North West Region. Candidates can be based anywhere within the 4 state region (Washington, Oregon, Montana, Idaho) and work remotely the majority of the time.</p> <p>- 20-30% time in office and a similar amount travelling in the PNW to be in front of customers and the rest will be remote. Living far from an office then office time could be less.</p> <p>- As the (Remote) Cisco Security Architect/Small Practice Lead you will lead a small Practice in Strategy, PreSales, and be heavily involved in the design and deployment of advanced Cisco Network Security solutions to meet customer needs. This is a broadly scoped position suited for a true hybrid technologist focusing on Cisco Network Security.</p> <p>- You will work collaboratively with Operations to ensure seamless transition of needs based solution design throughout the project delivery life cycle. You will be instrumental in ensuring technical solution capability meets customer and industry standards. You will directly influence the direction and growth of the security practice.</p> <p>Key Responsibilities-</p> <p>Work with Leadership team to set practice strategy<br>Architect and implement Cisco Network Security solutions to meet customer requirements within industry and technology best practices<br>Act as the technical authority for assessment and approval of specifications for solution construction or change<br>Assist partners with project plan, direction, and evaluation with the inclusion of costs, requirements, and timeline<br>Liaise with customer and internal staff throughout project delivery to ensure customer satisfaction is achieved<br>Share knowledge of product benefits and capability in ongoing training sessions with technical and non-technical staff<br>Assist Director with regional corporate growth activities and take on increase position responsibility when appropriate<br>Develop technical roadmap for the overall solution including high level design, SoW, BoM<br>Assist sales in customer meetings to answer technical questions<br>Respond to technical components of RFI/RFP/RFQ<br>Engage with customer to develop trusted technology advisor relationships with key decision makers<br>Work with customers to discover and gather technical and business requirements<br>Prepare and deliver presentations to educate customers of solution and service benefits relevant to their business/technology needs and goals<br>Assist sales in technical components of tender and bidding process<br>Participate in technology and professional training and development to continue to enhance your skills and capability</p> <p>Technology Focus &amp; Requirements</p> <p>Security solutions using one or more of the following technologies:</p> <p>Network Security<br>End Point &amp; Mobile Security<br>Virtualization Security<br>Identity &amp; Access management<br>Security Management and Operations<br>Encryption &amp; VPN<br>Application Security (including web/cloud and database)<br>Anti-Malware Solutions<br>Web &amp; Email Gateways<br><br>Desirable Knowledge and Skills</p> <p>FirePower, ISE<br>Cisco Firewalls/VPNs<br>Cisco IDS/IPS solutions<br>Cisco Malware Prevention<br>Complex Cisco routing and switching solutions<br>Cisco Enterprise Wireless solutions<br>Load balancing/Acceleration solutions Cisco and F5<br>Cisco Network Access Control and Authentication systems<br>Data Security Solutions - RSA<br>Cisco Prime Security and Network Monitoring and Management Tools<br>Cisco and VMware Software Defined Networking</p> <p>Certifications</p> <p>Desirable Security Certifications ie: CCIE, GCIH, CISSP, CISM, ISSMP</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "mO_CvPGHSc-CcaM8tszotw",
-    "url": "https://jobmote.com/job/68939/sailpoint-iam-security-architect-remote/",
-    "title": "SailPoint IAM Security Architect-Remote",
-    "tags": [
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
-      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TECH1/frontend",
-      "TITLE1/sec",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "dotnet",
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "WSI Nationwide",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 3, 2019 10:07:44 PM",
-    "validThrough": "Sep 6, 2019 10:07:44 PM",
-    "crawled": "Sep 4, 2019 3:06:24 AM",
-    "content": "<div><p>SailPoint IAM Security Architect-Remote<br><br>Company Bio - Cybersecurity Consulting company that focuses on enterprise IAM Solutions, competes with Big 4 however is much leaner and offers much less travel and much greater ability to impact a fast growing company. <br><br>Position Description<br>In this is permanent position you will be working for a leading Cyber Security Solution provider servicing large enterprise organizations. This is a remote based position that will include limited travel up to 35%. Candidates can be based anywhere in the United States.<br>This is an Identity and Access Management Architect position in which you will be the primary customer interface and technical authority with regard to IAM products and solutions. You will be instrumental in the successful design and delivery of SailPoint iiQ implementations and upgrades<br>This position offers a generous base salary and full time health benefits along with significant career progression opportunity.<br><br>Duties and Responsibilities<br>-Provides technical design and consulting services on (IAM) Identity and Access Management (IAM) products<br>-Provides customer specific though leadership and solution construction including installations of Identity and Access Management (IAM) products for User life cycle management, Identity and Access Governance, Automated Provisioning, (SSO) Single Sign-On, Federation, and Privileged Account Management<br>-Enhances existing systems by analysing business objectives, preparing an action plan and identifying areas for modification and improvement<br>-Creates customer level documentation specific to deployment of IAM products<br>-Creates knowledge articles for corporate website related to IAM<br>-Provide regular feedback to the Professional Services Director to guide systems integration methodology and packages service development<br><br>Technical Experience and Qualifications<br>-Lead customer-focused discussions and interact with our customers as the primary technical authority for an engagement<br>-Ability to present project solutions to clients, manage client expectations, and implement and deliver solutions<br>-Become a subject matter expert with IAM products and concepts<br>-Web Application security<br>-Software Security<br>-HTTP and related technologies<br>-Database/Directory integration<br>-x509 Certificates<br>-Windows, Unix, Linux<br>-Experience with IAM products: CA/SiteMinder, Radiant Logic, Sailpoint, Centrify, ForgeRock, Ping Identity, IBM, Okta, Oracle, RSA, simeio<br>-Federated Identity and Single Sign-On<br>-Access Management and API Gateways<br>-SAML, WS-Federation, OAuth, OpenID Connect, and/or SCIM standards<br>-RADIUS and/or KERBEROS<br>-APIs (SOAP, XML, REST, JSON)<br>-Social APIs including Facebook, Twitter, LinkedIn, etc.<br>-User Directory (Active Directory OpenLDAP, OpenDJ, etc.)<br>-Java and/or .NET development<br>-Amazon's AWS services (ie VPCs, SES, RC2, R3, Route 53, Cloud Formation, etc.)</p> <p>Please e-mail a resume with contact information, address and phones to Jay J.at (see below), with the subject line of this message in the subject line of the message you send, (no URL resume links or ZIP files and please do not return a copy of this announcement with your response) or call.<br><br>When resumes are received, the candidate is contacted if there is a match, the situation is thoroughly described and the candidate tells us how they would like us to proceed. No information leaves our office without prior approval. <br><br>This creates long term relationships, which we encourage.<br><br>WSI is a specialty recruiting organization with over twenty years experience and fees paid by our selected client companies, freeing our hands to find top level candidates for better projects all over the USA.</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "cTXjZmXMRICzzsjo3cpxlw",
-    "url": "https://jobmote.com/job/68938/cisco-security-architect-lead-50-remote-pnw/",
-    "title": "Cisco Security Architect Lead-50% Remote - PNW",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
-      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
-      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "WSI Nationwide",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 3, 2019 10:07:44 PM",
-    "validThrough": "Sep 6, 2019 10:07:44 PM",
-    "crawled": "Sep 4, 2019 3:06:24 AM",
-    "content": "<div><p>Cisco Security Architect/Small Practice Lead<br><br>- This is a Remote position however it will require some travel throughout the Pacific North West Region. Candidates can be based anywhere within the 4 state region (Washington, Oregon, Montana, Idaho) and work remotely the majority of the time.</p> <p>20-30% time in office and a similar amount travelling in the PNW to be in front of customers and the rest will be remote. Living far from an office then office time could be less.</p> <p>-As the (Remote) Cisco Security Architect/Small Practice Lead you will lead a small Practice in Strategy, PreSales, and be heavily involved in the design and deployment of advanced Cisco Network Security solutions to meet customer needs. This is a broadly scoped position suited for a true hybrid technologist focusing on Cisco Network Security.</p> <p>- You will work collaboratively with Operations to ensure seamless transition of needs based solution design throughout the project delivery life cycle. You will be instrumental in ensuring technical solution capability meets customer and industry standards. You will directly influence the direction and growth of the security practice.</p> <p>Key Responsibilities<br><br>Work with Leadership team to set practice strategy<br>Architect and implement Cisco Network Security solutions to meet customer requirements within industry and technology best practices<br>Act as the technical authority for assessment and approval of specifications for solution construction or change<br>Assist partners with project plan, direction, and evaluation with the inclusion of costs, requirements, and timeline<br>Liaise with customer and internal staff throughout project delivery to ensure customer satisfaction is achieved<br>Share knowledge of product benefits and capability in ongoing training sessions with technical and non-technical staff<br>Assist Director with regional corporate growth activities and take on increase position responsibility when appropriate<br>Develop technical roadmap for the overall solution including high level design, SoW, BoM<br>Assist sales in customer meetings to answer technical questions<br>Respond to technical components of RFI/RFP/RFQ<br>Engage with customer to develop trusted technology advisor relationships with key decision makers<br>Work with customers to discover and gather technical and business requirements<br>Prepare and deliver presentations to educate customers of solution and service benefits relevant to their business/technology needs and goals<br>Assist sales in technical components of tender and bidding process<br>Participate in technology and professional training and development to continue to enhance your skills and capability</p> <p>Technology Focus &amp; Requirements<br><br>Security solutions using one or more of the following technologies:<br>Network Security<br>End Point &amp; Mobile Security<br>Virtualization Security<br>Identity &amp; Access management<br>Security Management and Operations<br>Encryption &amp; VPN<br>Application Security (including web/cloud and database)<br>Anti-Malware Solutions<br>Web &amp; Email Gateways<br><br>Desirable Knowledge and Skills<br><br>FirePower, ISE<br>Cisco Firewalls/VPNs<br>Cisco IDS/IPS solutions<br>Cisco Malware Prevention<br>Complex Cisco routing and switching solutions<br>Cisco Enterprise Wireless solutions<br>Load balancing/Acceleration solutions Cisco and F5<br>Cisco Network Access Control and Authentication systems<br>Data Security Solutions - RSA<br>Cisco Prime Security and Network Monitoring and Management Tools<br>Cisco and VMware Software Defined Networking</p> <p>Certifications<br><br>Desirable Security Certifications ie: CCIE, GCIH, CISSP, CISM, ISSMP</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "eotzY460Sem7EQah3KK3mw",
-    "url": "https://jobmote.com/job/68937/cisco-security-architect-lead-50-remote/",
-    "title": "Cisco Security Architect-Lead-50% Remote",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
-      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
-      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=7}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "WSI Nationwide",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 3, 2019 10:07:44 PM",
-    "validThrough": "Sep 6, 2019 10:07:44 PM",
-    "crawled": "Sep 4, 2019 3:06:24 AM",
-    "content": "<div><p>Cisco Security Architect/Small Practice Lead</p> <p>- This is a Remote position however it will require some travel throughout the Pacific North West Region. Candidates can be based anywhere within the 4 state region (Washington, Oregon, Montana, Idaho) and work remotely the majority of the time.</p> <p>- 20-30% time in office and a similar amount travelling in the PNW to be in front of customers and the rest will be remote. Living far from an office then office time could be less.</p> <p>- As the (Remote) Cisco Security Architect/Small Practice Lead you will lead a small Practice in Strategy, PreSales, and be heavily involved in the design and deployment of advanced Cisco Network Security solutions to meet customer needs. This is a broadly scoped position suited for a true hybrid technologist focusing on Cisco Network Security.</p> <p>- You will work collaboratively with Operations to ensure seamless transition of needs based solution design throughout the project delivery life cycle. You will be instrumental in ensuring technical solution capability meets customer and industry standards. You will directly influence the direction and growth of the security practice.</p> <p>Key Responsibilities-</p> <p>Work with Leadership team to set practice strategy<br>Architect and implement Cisco Network Security solutions to meet customer requirements within industry and technology best practices<br>Act as the technical authority for assessment and approval of specifications for solution construction or change<br>Assist partners with project plan, direction, and evaluation with the inclusion of costs, requirements, and timeline<br>Liaise with customer and internal staff throughout project delivery to ensure customer satisfaction is achieved<br>Share knowledge of product benefits and capability in ongoing training sessions with technical and non-technical staff<br>Assist Director with regional corporate growth activities and take on increase position responsibility when appropriate<br>Develop technical roadmap for the overall solution including high level design, SoW, BoM<br>Assist sales in customer meetings to answer technical questions<br>Respond to technical components of RFI/RFP/RFQ<br>Engage with customer to develop trusted technology advisor relationships with key decision makers<br>Work with customers to discover and gather technical and business requirements<br>Prepare and deliver presentations to educate customers of solution and service benefits relevant to their business/technology needs and goals<br>Assist sales in technical components of tender and bidding process<br>Participate in technology and professional training and development to continue to enhance your skills and capability</p> <p>Technology Focus &amp; Requirements</p> <p>Security solutions using one or more of the following technologies:</p> <p>Network Security<br>End Point &amp; Mobile Security<br>Virtualization Security<br>Identity &amp; Access management<br>Security Management and Operations<br>Encryption &amp; VPN<br>Application Security (including web/cloud and database)<br>Anti-Malware Solutions<br>Web &amp; Email Gateways<br><br>Desirable Knowledge and Skills</p> <p>FirePower, ISE<br>Cisco Firewalls/VPNs<br>Cisco IDS/IPS solutions<br>Cisco Malware Prevention<br>Complex Cisco routing and switching solutions<br>Cisco Enterprise Wireless solutions<br>Load balancing/Acceleration solutions Cisco and F5<br>Cisco Network Access Control and Authentication systems<br>Data Security Solutions - RSA<br>Cisco Prime Security and Network Monitoring and Management Tools<br>Cisco and VMware Software Defined Networking</p> <p>Certifications</p> <p>Desirable Security Certifications ie: CCIE, GCIH, CISSP, CISM, ISSMP</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "g7y_4lVuSnWA7w1wvl9sJA",
-    "url": "https://jobmote.com/job/67778/sr-cisco-security-consulting-engineer-remote-w-local-travel/",
-    "title": "Sr. Cisco Security Consulting Engineer (Remote w/ local travel)",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
-      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 2, 2019 10:07:30 PM",
-    "validThrough": "Sep 5, 2019 10:07:30 PM",
-    "crawled": "Sep 3, 2019 3:06:24 AM",
-    "content": "<div>Minimum Required Skills:<br>Cisco R/S, Cisco ISE, Cisco Security, Post Sales, SoureFire, CCNP, CCIE<br><br>Solutions Provider specialized in deploying Security, Voice over IP, Cloud Solutions and other Advanced Data Networking solutions and services to customers across the country has an immediate need for senior Cisco Security Engineer / Architect (CCIE / CCNP level ideally) with strong expertise in Technical Engineering around Cisco Network / Security engineering solutions.<br><br>****REMOTE role when not in front of clients / customers. You can be based anywhere in the region for this role.<br><br>***Relo assistance is offered for highly qualified candidates.<br><br>If you are interested in being on a highly reputable team of engineers and possess solid Cisco ISE expertise, please read on!<br><br>Top Reasons to Work with Us<br><br>* Award winning firm with an excellent track records of growth<br>* Amazing corporate culture where you'll have numerous advancement opportunities<br>* Work from home when not in front of clients<br><br>What You Will Be Doing<br><br>***Examples of responsibilities for the role: <br>- Solutions Design for Security Solutions with enterprise clients in the area<br>- Cisco ISE deployments on mid to enterprise projects<br>- Assisting Sales &amp; Pre Sales in closing enterprise deals based around Borderless Network Solutions (Security, Wireless, Infrastructure, etc.)<br>- Enterprise Engineering / Implementation for Cisco Network / Security Solutions<br>- Act as Subject Matter Expert in the design, pricing and procurement for CISCO Advance Technologies Security Products (ASA/IPS/CSA/MARS) <br>- Act as a mentor to other engineers<br><br>What You Need for this Position<br><br>- Lab CCIE is highly desired (R/S or Security would be preferable) <br>- Strong Cisco Routing &amp; Switch experience<br>- **Some experience deploying ISE is required<br>- FirePower; FTD (Firepower Threat Defense) experience<br>- Excellent Layer 2 &amp; 3 Networking Skills<br>- Experience designing campus environments; <br>- Experience with CISCO ASA firewalls<br>- Sourcefire experience preferred<br>- Previous PRE / POST Sales Engineering experience is a plus along with prior employment at a Cisco Gold Partner (or Cisco Systems)<br><br>What's In It for You<br><br>- Excellent opportunity to help grow into a lead SME role within an award-winning Cisco Gold Partner.<br>- VERY competitive compensation including base salary, bonuses, full benefits, vacation and paid training.<br>- Culture of advanced learning including sponsored training and certifications<br>- You'll be working remotely from your home office when not at client sites.CCIE / CCNP level Solutions Engineers with strong Cisco ISE Security skills / experience are encouraged to apply ASAP; interviews will be conducted immediately for excellent candidates. You can also send your resume to me directly at: <br><br>Applicants must be authorized to work in the U.S.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

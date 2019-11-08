@@ -1,6 +1,620 @@
 {
  "items": [
   {
+    "id": "E6vP5G5YSvSLr5WC2hBVVg",
+    "url": "https://news.ycombinator.com/item?id=21439703",
+    "title": "Highstreet Mobile | Backend Engineer | Utrecht (near Amsterdam), The Netherlands | Onsite ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:magento/php/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:sinatra/ruby/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=3, nodejs=0, bigdata-ml=0, ruby=10, apple=2, java=1, gamedev=0, php=8, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 4, 2019 8:58:03 AM",
+    "validThrough": "Nov 11, 2019 8:58:03 AM",
+    "crawled": "Nov 8, 2019 8:31:23 PM",
+    "content": "Highstreet Mobile | Backend Engineer | Utrecht (near Amsterdam), The Netherlands | Onsite/Remote (EU)  | Full Time | <a href='https://jobs.highstreetmobile.com/backend-engineer/en' rel='nofollow'>https://jobs.highstreetmobile.com/backend-engineer/en</a><p>Highstreet Mobile's mission is to connect people to the brands they love. We are a team of makers and we've built a SaaS product for fashion brands. We enable brands to give an amazing shopping experience to their customers. Our customers get a native mobile shopping app for Android and iOS and that app constantly gets better.</p><p>You would be designing and developing API's in our middleware. The middleware is the beating heart of our product. It connects to different e-commerce providers like Magento, Commerce Cloud, Adyen and many more. You will focus on scale and performance, will deploy to production every week and will work closely with our mobile engineers.</p><p>Stack: Ruby / Sinatra / Minitest / Redis / OpenAPI Spec / PostgreSQL / Go / Docker / K8s / GCP / Gitlab CI</p><p>Check out other open roles at: <a href='https://jobs.highstreetmobile.com' rel='nofollow'>https://jobs.highstreetmobile.com</a></p><p>Apply via the homerun links or contact me at pablo@highstreetmobile.com if you have any questions.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "_nzfaNj0Tr6trA_ui3Y05g",
+    "url": "https://remoteok.io/jobs/76144",
+    "title": "Full Stack Developer",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/13",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=15, embedded=0, frontend=16}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "The Good Food Institute ",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 50000,
+      "maxValue": 60000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 50k - 60k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 8, 2019 12:00:22 PM",
+    "validThrough": "Nov 15, 2019 12:00:22 PM",
+    "crawled": "Nov 8, 2019 8:30:33 PM",
+    "content": "<span></span> <span><h4>The Good Food Institute</h4>&nbsp;</span> <br> <h3>Full Stack Developer</h3> <div>  <div>   ####&nbsp;**Full Stack Developer**\\n\\nEmpower our digital development and inspire good food research\\n\\nThe Good Food Institute (GFI) is at the forefront of the movement to use food technology and markets to solve some of the world’s biggest problems, from climate change and global hunger to antibiotic resistance and the exploitation of billions of animals annually.\\n\\n**How You Will Make a Difference**&nbsp; \\n\\nIn this role, you will be responsible for the development of GFI’s web properties.&nbsp; The&nbsp;**Full Stack Developer**&nbsp;will be responsible for:\\n\\n- Supporting development needs for a variety of projects to maintain, enhance, and expand GFI’s web properties.&nbsp;\\n- Determining user needs by analyzing technical requirements.\\n- Developing front end website architecture and back end website applications, server-side code, and databases.\\n- Designing and developing APIs.\\n- Participating in the full software development lifecycle with requirements, solution design, development, QA, and implementation.\\n- Integrating data from back-end services and databases.\\n- Collaborating with graphic designers and external web developers to ensure the coordination of features, functionality, and content of GFI’s web properties.\\n- Troubleshooting potential problems with GFI’s web properties.&nbsp;\\n- Maintaining an understanding of the latest web applications and programming practices.\\n- Maintaining an understanding of security principles and how they apply to website-related applications.\\n- Performing other duties as assigned.\\n\\n**Who We're Looking For**&nbsp; \\n\\nThe&nbsp;**Full Stack Developer**&nbsp;must have:\\n\\n- An associate’s degree or higher; a specific degree in computer science, web development, or a related field is preferred.&nbsp;\\n- At least 2-4 years of web development or web programming experience and relational database design experience using Oracle or MySQL.\\n- Thorough knowledge of WordPress themes and plugins.&nbsp;\\n- A strong understanding of UI, cross-browser compatibility, general web functions, and standards.\\n- Expertise and hands-on experience with web applications and front-end programming languages such as HTML, CSS, and JavaScript.\\n- Experience with back-end languages such as PHP, Python, Ruby, or Java; PHP is preferred.&nbsp;\\n- Familiarity with APIs.\\n- A strong understanding of web applications, security, session management, and best development practices.\\n- Exceptional attention to detail and organization.\\n- The ability to work well independently and under pressure, manage multiple projects simultaneously, and meet deadlines.\\n- Comfort working remotely and in a rapidly growing and evolving organization.\\n- Strong support for GFI’s philosophy and mission; demonstrated interest in public health, environmentalism, animal protection, or hunger relief.\\n\\nThe ideal candidate would also have:\\n\\n- Familiarity with JQuery.\\n- Experience with Salesforce and Pardot integrations.\\n- Familiarity with Airtable and its APIs.\\n\\nWe want the best people and we don’t want biases holding us back. We strongly encourage people of every color, orientation, age, gender, origin, and ability to apply. Because we value a diverse workplace, we prioritize an inclusive climate absent of discrimination and harassment during the application process and after you join the team. \\n \\n**The Fine Print**\\n\\n-&nbsp;**Terms of employment:**&nbsp;Full-time, exempt\\n-&nbsp;**Reports to:**&nbsp;Charles Christiansen, IT &amp; Data Manager\\n-&nbsp;**Location:**&nbsp;Remote; United States\\n-&nbsp;**Benefits:**&nbsp;Working from home, full medical coverage, optional dental and vision packages, a 401(k) plan with employer match, flexible holiday and vacation plans, opportunity for advancement, respectful managers, and supportive colleagues.\\n-&nbsp;**This is a U.S.-based position:**&nbsp;In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.&nbsp;\\n-&nbsp;**Salary:**&nbsp;$50,000 - $60,000\\n\\n####&nbsp;**Application Deadline: December 2, 2019**  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "6ZX8iU6PRe2yi91KacmtLg",
+    "url": "https://remoteok.io/jobs/76083",
+    "title": "WordPress Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:php/php/5",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:wordpress/php/65",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=70, embedded=0, frontend=25}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Elegant Themes ",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 6, 2019 1:10:47 AM",
+    "validThrough": "Nov 13, 2019 1:10:47 AM",
+    "crawled": "Nov 8, 2019 8:30:33 PM",
+    "content": "<span></span> <span><h4>Elegant Themes</h4>&nbsp;</span> <br> <h3>Wordpress Developer</h3> <div>  <div>   \\nAbout Our Company\\n\\n\\nElegantThemes.com&nbsp;is a leader in WordPress Theme &amp; Plugin Development. We have been building the top premium WordPress themes and plugins&nbsp;for the past 10&nbsp;years&nbsp;and we maintain&nbsp;the largest customer bases in the ecosystem. 500,000 users, freelance developers and web design agencies depend on our beautiful designs&nbsp;and we work hard everyday to make sure we are creating the best WordPress products on the web. Divi, our flagship theme and page builder plugin is pushing the boundaries and has inspired an absolutely amazing community to form around it. A focus on community is a core part of our culture&nbsp;and it makes our work environment&nbsp;is a truly rewarding one.\\n\\n\\n\\n\\nJob Description\\n\\n\\nAs a WordPress Developer at Elegant Themes, you will be working with a small and agile team&nbsp;made up of talented devs from all around the world. We work with git, chat on Slack and our team structure is flat and open.&nbsp;Self-motivated individuals&nbsp;tend to thrive best here, and we are looking for someone&nbsp;filled with inspiration and who isn't afraid to take initiative.\\n\\n\\nThis position is for someone with a deep understanding of WordPress. You have built your own themes and plugins before&nbsp;and possibly even contributed to WordPress Core. You enjoy finding elegant solutions to complex problems&nbsp;and are familiar with the WordPress motto - &quot;code is poetry.&quot; You are up-to-date with the latest and greatest trends and technologies because you are engaged in the open source community and you enjoy building software that pushes the web forward. While WordPress is a PHP-based application, our flagship product uses a front-end interface built with React.js and Flux. A&nbsp;good amount of your time will be spent developing with Javascript.\\n\\n\\n\\nThis is a full time position available to both on-site and remote employees. Employment includes full benefits, paid vacation, a competitive salary and unlimited espresso brewed from our Rocket Cellini Premium Plus v2!\\n\\n&nbsp;\\n\\n\\nResponsibilities\\n\\n\\n\\n* Be creative and contribute based on your own merit.\\n\\n* Be a positive, humble and contributing member to our small team.&nbsp;\\n\\n* Take the initiate to better yourself as a developer and to apply that knowledge to better our products and help our team succeed.&nbsp;\\n\\n\\n\\n\\n\\n\\n\\nRequired Experience\\n\\n\\n\\n* Complete understanding of the WordPress core software and its functions at the code level.\\n\\n* Experience building WordPress themes/plugins.\\n\\n* Mastery of WordPress coding and security&nbsp;best practices.\\n\\n\\n\\n\\n\\n\\n\\nRequired Skills\\n\\n\\n\\n* PHP\\n\\n* CSS\\n\\n* HTML\\n\\n* MYSQL\\n\\n* JAVASCRIPT\\n\\n* GIT\\n\\n\\n\\n\\n\\n\\n\\nBonus Qualifications\\n\\n\\n\\n* REACT\\n\\n* FLUX\\n\\n* JQUERY\\n\\n* SASS\\n\\n* A history of open source software contribution\\n\\n\\n\\n\\n\\nLearn More\\n\\n\\n\\nLearn more about life at Elegant Themes, including our full list of perks and benefits:&nbsp;http://www.elegantthemes.com/careers/  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "k5oHAGRDRGWM8BJ0ptHpTg",
+    "url": "https://jobs.github.com/positions/f8914aec-ad87-45d3-835a-a2c0326b437c",
+    "title": "Full Stack Developer (Remote)",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:cross-browser/frontend/13",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=15, embedded=0, frontend=16}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 50000,
+      "maxValue": 60000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 50k - 60k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 8, 2019 5:59:19 AM",
+    "validThrough": "Nov 15, 2019 5:59:19 AM",
+    "crawled": "Nov 8, 2019 8:30:32 PM",
+    "content": "#### **Full Stack Developer**Empower our digital development and inspire good food researchThe Good Food Institute (GFI) is at the forefront of the movement to use food technology and markets to solve some of the world’s biggest problems, from climate change and global hunger to antibiotic resistance and the exploitation of billions of animals annually.**How You Will Make a Difference**  In this role, you will be responsible for the development of GFI’s web properties.  The **Full Stack Developer** will be responsible for:- Supporting development needs for a variety of projects to maintain, enhance, and expand GFI’s web properties. - Determining user needs by analyzing technical requirements.- Developing front end website architecture and back end website applications, server-side code, and databases.- Designing and developing APIs.- Participating in the full software development lifecycle with requirements, solution design, development, QA, and implementation.- Integrating data from back-end services and databases.- Collaborating with graphic designers and external web developers to ensure the coordination of features, functionality, and content of GFI’s web properties.- Troubleshooting potential problems with GFI’s web properties. - Maintaining an understanding of the latest web applications and programming practices.- Maintaining an understanding of security principles and how they apply to website-related applications.- Performing other duties as assigned.**Who We're Looking For**  The **Full Stack Developer** must have:- An associate’s degree or higher; a specific degree in computer science, web development, or a related field is preferred. - At least 2-4 years of web development or web programming experience and relational database design experience using Oracle or MySQL.- Thorough knowledge of WordPress themes and plugins. - A strong understanding of UI, cross-browser compatibility, general web functions, and standards.- Expertise and hands-on experience with web applications and front-end programming languages such as HTML, CSS, and JavaScript.- Experience with back-end languages such as PHP, Python, Ruby, or Java; PHP is preferred. - Familiarity with APIs.- A strong understanding of web applications, security, session management, and best development practices.- Exceptional attention to detail and organization.- The ability to work well independently and under pressure, manage multiple projects simultaneously, and meet deadlines.- Comfort working remotely and in a rapidly growing and evolving organization.- Strong support for GFI’s philosophy and mission; demonstrated interest in public health, environmentalism, animal protection, or hunger relief.The ideal candidate would also have:- Familiarity with JQuery.- Experience with Salesforce and Pardot integrations.- Familiarity with Airtable and its APIs.We want the best people and we don’t want biases holding us back. We strongly encourage people of every color, orientation, age, gender, origin, and ability to apply. Because we value a diverse workplace, we prioritize an inclusive climate absent of discrimination and harassment during the application process and after you join the team.    **The Fine Print**- **Terms of employment:** Full-time, exempt- **Reports to:** Charles Christiansen, IT &amp; Data Manager- **Location:** Remote; United States- **Benefits:** Working from home, full medical coverage, optional dental and vision packages, a 401(k) plan with employer match, flexible holiday and vacation plans, opportunity for advancement, respectful managers, and supportive colleagues.- **This is a U.S.-based position:** In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. - **Salary:** $50,000 - $60,000#### **Application Deadline: December 2, 2019**",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "HDneBMSyR9m-cEVUC_lzHw",
+    "url": "https://stackoverflow.com/jobs/313210/software-engineer-community-tech-wikimedia-foundation-inc?a=1H2xim4wIJI4&so_medium=Talent&so_source=TalentApi",
+    "title": "Software Engineer (Community Tech) at Wikimedia Foundation, Inc.  ",
+    "tags": [
+      "DBG:surround``2N( OR(across,digit),     2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:php/php/15",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=5, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=4, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=3}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Wikimedia Foundation, Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 8, 2019 8:30:28 PM",
+    "validThrough": "Nov 15, 2019 8:30:28 PM",
+    "crawled": "Nov 8, 2019 8:30:29 PM",
+    "content": "<h3><span>Software Engineer (Community Tech)</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Education Technology, eLearning, Non-Profit</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>201–500 people</span>                                    </div>                            </div>                    </div>                <div>Company: Wikimedia Foundation, Inc. | No office location<br></div><h4>Technologies</h4><div></div><div>php</div><div>javascript</div><div>ruby</div><div>python</div>                <h4>Job description</h4>                <div><p><strong>Summary</strong></p><p>The Community Tech Team at Wikimedia Foundation is looking for a Software Engineer to work with us to build features and tools requested by the Wikimedia community.</p><p>Each year, the Community Tech team runs a global survey in which our volunteer community proposes and votes on “wishes” for technical projects. These vary from small enhancements to&nbsp; MediaWiki, the software that powers Wikipedia, to entirely new tools or applications. Community Tech commits to addressing the top ten vote-getting proposals in each calendar year.&nbsp;&nbsp;We are seeking a software engineer to join Community Tech to help us address these wishes and provide solutions to the community.</p><p>This is an ideal opportunity for a member of the community to leverage their skills and experience and help the Foundation support the community better. While we are able and willing to coach and train engineers new to MediaWiki or the free knowledge movement, this role requires existing knowledge and experience developing modern web applications.</p><p>We use open source tools as much as possible, and always open source our own work (https://git.wikimedia.org). PHP and Javascript make up most of our code, but we value using the right tool for the job. Developers at the Foundation have autonomy and responsibility, and can have a large and immediate impact on the future of the site and the movement. Our world is vast and can be complicated, so we value communication, enthusiasm, and eagerness to learn as much as certificates or degrees.</p><p><strong>You are responsible for:</strong></p><ul><li>Architect, develop, test, and deploy new features, improvements and upgrades to various systems and tools used by the Wikimedia community</li><li>Partner with Foundation staff and volunteers on software design, development, testing and evaluation of potential technical solutions</li><li>Help identify and implement best practices in engineering processes across the team</li><li>Ensure positive and constructive discussions with the community and the Foundation</li><li>Work and communicate effectively within a small team distributed across multiple time zones</li></ul><p><strong>Skills and Experience:</strong></p><ul><li>Education and/or experience with Object-Oriented development using a scripting language (such as PHP, Python, Ruby, or JavaScript)</li><li>Interest in front-end web application development skills</li><li>Experience with collaborative open source communities</li><li>Openness to working with a diverse and geographically distributed team</li><li>Strong written communication skills as our collaboration largely happens online</li><li>Bachelor’s degree in CS or related field or the equivalent in work related experience</li></ul><p><strong>Qualities that are important to us:</strong></p><ul><li>Adaptable - This team works on many different features and codebases. Be able to adapt your skills to the task and learn quickly is important.</li><li>User-focused - Our primary goal is to provide our users with tools and features that cannot get without our help.</li><li>Open-minded - The team is comprised of people from several different countries and cultures. Be open to new ways of communicating and working.</li></ul><p><strong>Additionally, we’d love it if you have:</strong></p><p><em>In addition to the basic skills needed for being successful, these skills could set you apart from the pack!</em></p><ul><li>Experience with MediaWiki development or or as a contributor to Wikimedia projects</li><li>Experience with Test-Driven Development and agile methodologies</li><li>Any other free/open source software development experience is highly welcome</li><li>Understanding of the free culture movement</li><li>Experience with online community moderation or anti-harassment tools</li></ul><p><strong>U.S. Benefits &amp; Perks*</strong></p><ul><li>Fully paid medical, dental and vision coverage for employees and their eligible families (yes, fully paid premiums!)</li><li>The Wellness Program provides reimbursement for mind, body and soul activities such as fitness memberships, baby sitting, continuing education and much more</li><li>The 401(k) retirement plan offers matched contributions at 4% of annual salary</li><li>Flexible and generous time off - vacation, sick and volunteer days, plus 19 paid holidays - including the last week of the year.</li><li>Family friendly! 100% paid new parent leave for seven weeks plus an additional five weeks for pregnancy, flexible options to phase back in after leave, fully equipped lactation room.</li><li>For those emergency moments - long and short term disability, life insurance (2x salary) and an employee assistance program</li><li>Pre-tax savings plans for health care, child care, elder care, public transportation and parking expenses</li><li>Telecommuting and flexible work schedules available</li><li>Appropriate fuel for thinking and coding (aka, a pantry full of treats) and monthly massages to help staff relax</li><li>Great colleagues - diverse staff and contractors speaking dozens of languages from around the world, fantastic intellectual discourse, mission-driven and intensely passionate people</li></ul><p><strong><em>*Eligible international workers' benefits are specific to their location and dependent on their employer of record</em></strong></p><p><strong>More information</strong></p><p><strong><a href='https://wikimediafoundation.org/' rel='nofollow'>WMF</a></strong><br><strong><a href='https://wikimediafoundation.org/news/' rel='nofollow'>Blog<br></a><a href='https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017' rel='nofollow'>Wikimedia 2030<br></a><a href='https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019' rel='nofollow'>Wikimedia Medium Term Plan<br></a><a href='https://wikimediafoundation.org/news/2019/10/01/wikimedia-foundation-diversity-and-inclusion-information-about-our-workers-2019-by-the-numbers/' rel='nofollow'>Diversity and inclusion information for Wikimedia workers, by the numbers</a><a href='https://meta.wikimedia.org/wiki/Wikimania_2019' rel='nofollow'><br>Wikimania 2019<br></a><a href='https://annual.wikimedia.org/2017/' rel='nofollow'>Annual Report - 2017</a>&nbsp;</strong><br><strong><a href='https://www.youtube.com/watch?v=OQzZI0l3IOw' rel='nofollow'>This is Wikimedia Foundation</a>&nbsp;<br></strong><strong><a href='https://www.youtube.com/watch?v=xQ4ba28-oGs' rel='nofollow'>Facts Matter<br></a></strong><strong><a href='https://wikimediafoundation.org/wiki/Our_projects' rel='nofollow'>Our Projects<br></a><a href='https://meta.wikimedia.org/wiki/Fundraising/2018-19_Report' rel='nofollow'>Fundraising Report</a></strong></p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/313210?reset=False&amp;ra=1H2xim4wIJI4&amp;oqs=a%3D1H2xim4wIJI4%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div>            <h4>About Wikimedia Foundation, Inc.</h4>            <div><p><strong>The Wikimedia Foundation is...</strong></p><p>...the nonprofit organization that supports Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared&nbsp;knowledge,&nbsp;and that everyone should be able to access that knowledge, free of interference. We host the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive&nbsp;<a href='https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&amp;uselang=en&amp;utm_medium=wmfWikiLink&amp;utm_source=B_FAQ&amp;utm_campaign=C_FAQ' rel='nofollow'>financial support</a>&nbsp;from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p><p><em>The Wikimedia Foundation is an equal opportunity employer, and we encourage people with a diverse range of backgrounds to apply.</em></p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Fully paid premiums for medical, dental &amp; vision insurance premiums</span>                            </li>                            <li>                                <span></span>                                <span>401(k) with 4% matching contribution</span>                            </li>                            <li>                                <span></span>                                <span>7-12 weeks parental leave with 100% pay + lactation room</span>                            </li>                            <li>                                <span></span>                                <span>Wellness Program ($1800 annual) to promote wellness &amp; personal growth</span>                            </li>                            <li>                                <span></span>                                <span>Pre-tax savings plans for Transportation &amp; Parking</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work schedules and remote working options</span>                            </li>                            <li>                                <span></span>                                <span>Pet Friendly office</span>                            </li>                            <li>                                <span></span>                                <span>Commitment to diversity &amp; inclusion throughout the employee lifecycle</span>                            </li>                            <li>                                <span></span>                                <span>12 days vacation, 19 days holiday, 2 days volunteer work and more!</span>                            </li>                            <li>                                <span></span>                                <span>Lean more at https://wikimediafoundation.org/wiki/Work_with_us</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Xz0Y_bKOQ727Y6RD5Gu63A",
+    "url": "https://stackoverflow.com/jobs/313050/back-end-laravel-developer-soshace?a=1GZd1U6oVqtq&so_medium=Talent&so_source=TalentApi",
+    "title": "Back-end Laravel developer at Soshace  ",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:laravel/php/32",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=42, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Soshace",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 35000,
+      "maxValue": 100000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 35k - 100k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 8, 2019 8:30:28 PM",
+    "validThrough": "Nov 15, 2019 8:30:28 PM",
+    "crawled": "Nov 8, 2019 8:30:29 PM",
+    "content": "<h3><span>Back-end Laravel developer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Development, Technology Staffing, Web Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51–200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Soshace | No office location<br></div><h4>Technologies</h4><div></div><div>laravel</div><div>php</div><div>backend</div>                <h4>Job description</h4>                <div><p>Soshace is an agency that joins IT professionals and companies all over the world on long-term remote projects since 2015.&nbsp;</p><p>You’ll get:</p><ul><li><strong>Freedom </strong>to choose projects and your geography</li><li><strong>Safety </strong>with regular payments and reliable clients</li><li><strong>Self-development</strong> on modern projects in tech stack you have experience with.</li></ul><p><strong>What our developers think about the work at Soshace:</strong></p><p>&quot;Company that makes remote dev work easy&quot;.</p><p>“The great opportunity to work in an international team and get a cool experience. Well, the opportunity to receive a high salary”.</p><p>“Payment is always on time, so you don't have to worry about it. Great projects variety, you can find really interesting projects to be part of”.</p><p><strong>We’ll be a great team together if you have:</strong></p><ul><li>3+ years of professional software development experience with&nbsp;PHP</li><li>1+ year of professional experience with Laravel</li><li>A strong portfolio of projects in which you have taken part</li><li>Spoken and written English skills on Upper-Intermediate level and higher.</li></ul><p><strong>Here are our basic requirements for you to check if you belong:</strong></p><ul><li>We use time-tracker to get information on your working hours</li><li>Projects last on average 6-9 months and more with a full-time workload</li><li>When the first project ends we’ll find you a second one and after that the third and so on</li><li>The hourly rate we offer depends on your qualification level:</li><ul><li>Middle $20-$30 an hour</li><li>Senior $30-$50 an hour.</li></ul></ul><p>Due to our clients’ demands, we limited our geographical scope and the regions we work with to Russia and CIS, counties in the Americas, Europe, Oceania.</p><p><strong>Soshace recruitment team would be happy to tell you more about our opportunity when you send us your CV!&nbsp;</strong></p>                </div>            <div>        <a href='https://share.hsforms.com/1muKzQ1WnRZa7O3loe9QO4g2f0wo' rel='nofollow'>                        Apply now        </a></div>            <h4>About Soshace</h4>            <div><p><strong>Soshace&nbsp;</strong>is a community of professionals. Since 2015 we’ve made different projects with clients all over the world.<br>Our clients are companies from the USA, The UK, Australia, Canada and Europe.</p><p>We are looking for a broad range of freelancers that&nbsp;are professionals in web development!</p><p>We have a large pool of job offers (from our clients) including job offers with relocation opportunities.<br>We also offer remote work with hourly pay on exciting projects lasting 3 months and more.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>100% Remote work</span>                            </li>                            <li>                                <span></span>                                <span>Flexible schedule</span>                            </li>                            <li>                                <span></span>                                <span>International projects</span>                            </li>                            <li>                                <span></span>                                <span>Team work</span>                            </li>                            <li>                                <span></span>                                <span>Modern technology stack</span>                            </li>                            <li>                                <span></span>                                <span>Different projects</span>                            </li>                            <li>                                <span></span>                                <span>Long-term partnership</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "bRRAgNIiTE6YkRLqnDNHcg",
+    "url": "https://jobmote.com/job/99935/senior-software-developer-remote-available/",
+    "title": "Senior Software Developer (Remote Available)",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:ajax/frontend/3",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:lamp/php/26",
+      "DBG_TECH1:k/t/w:php/php/15",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:k/t/w:zend-framework/php/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=54, embedded=0, frontend=32}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "InMotion Hosting",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 7, 2019 8:07:53 PM",
+    "validThrough": "Nov 10, 2019 8:07:53 PM",
+    "crawled": "Nov 8, 2019 8:30:29 PM",
+    "content": "<div>Our Development Team is looking for a Senior Software Developer to join them in shaping our company by creating, enhancing, and maintaining PHP based internal and external products. As part of the team, you will work within the LAMP stack in an Agile based environment to help ensure our products provide a great user experience and significant value to the customer. This role can be filled remotely or from one of our offices. What You'll Do: Develop structured application/interface code, new program documentation, operations documentation and user guides in a casual, flexible environment Communicate with end users and internal customers to develop, debug, and test application software for accuracy, integrity, interoperability and completeness Produce reliable, testable software applications using a disciplined development approach Utilize your advanced PHP and MySQL skills to create back end tooling Collaborate with stakeholders and leadership to prioritize and implement features Develop new functionality and applications on cross functional Agile project teams Review and test team member's code to ensure the software meets our high quality standards and operates efficiently Build your skill set in a collaborative, team-focused environment Ideal Candidates Have: 5-8 years progressive development experience, primarily focused on web applications, back end automation Bachelor's Degree in Computer Science and/or equivalent experience Extensive background in LAMP development Ability to move back and forth between Front End and API Back End work Experience with UI/UX fundamentals Advanced experience with PHP and MySQL Advanced understanding of object oriented principles Talent for building user interfaces using JS, jQuery, HTML, CSS and AJAX Background in refactoring/verifying systems through automated testing and test-driven development in large scale systems Experience with software deployment, Continuous Integration (CI), and Continuous Delivery (CD) concepts, applications, and tools highly preferred Basic knowledge of the Linux/Unix command-line Experience with MVC frameworks required, Zend Framework preferred Advanced JavaScript experience and mid-level or better experience with one or more of the common frameworks like React or Angular is a plus Experience in the WordPress ecosystem building or modifying plugins preferred A passion for creating a high quality user experience Experience with development of automated customer processes and systems What You'll Get: Profit sharing twice a year Medical, dental, vision, disability, life insurance, and 401K plans Casual work environment and relaxed dress code Free weekly lunch and snacks Tuition and certification reimbursement Opportunities for advancement after 90 days To be a part of an incredible team in a collaborative environment Location Denver, CO Virginia Beach, VA Remote See what it's like working at InMotion and all the great perks that come with it. You can also check out our products here .</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "4w5J2kq5Qg6aHSjNQ1f7Jg",
+    "url": "https://jobmote.com/job/99917/software-engineer-fullstack-node-php-remote/",
+    "title": "Software Engineer - Fullstack - Node, PHP, Remote",
+    "tags": [
+      "DBG:surround``5N( opportun,             2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:php/php/10",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=14, bigdata-ml=0, ruby=10, apple=0, java=0, gamedev=0, php=18, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Kforce Technology Staffing",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 7, 2019 8:07:53 PM",
+    "validThrough": "Nov 10, 2019 8:07:53 PM",
+    "crawled": "Nov 8, 2019 8:30:29 PM",
+    "content": "<div>RESPONSIBILITIES: Kforce has a client, a healthcare startup (a fastest growing firm) in New York, NY is seeking a Software Engineer - Fullstack. This is a remote position. Across all of our products, we leverage clinical best practices to ensure individuals are getting the care they need. Summary: As a key member of firm's engineering team, you will be responsible for designing, building, and owning the interfaces and services that power our products. You will work with our talented team of remote engineers, designers and product managers to build the systems that manage our member's care journey. We are a team committed to agile value delivery and solid engineering principles, as well as continuously improving our craft. If you love shipping software that delivers a deep and meaningful impact on people's mental and behavioral health, join us Essential Duties: Write clean, modular and efficient code across all layers of the stack Own features from implementation to release Identify software quality issues and refactor code when appropriate Implement high-quality test-driven code that passes automated tests Understand pre-existing functionality and debug defects Provide clear and actionable feedback in code reviews Help define and manage overall quality objectives for release increments Develop behavior-driven feature files, acceptance test scenarios and step definitions Implement high-quality test-driven source code that passes automated tests Achieve and maintain team defined quality thresholds that mitigate solution risks REQUIREMENTS: 2 years of hands-on experience with full-stack web development. 2 years of hands-on experience with modern front-end frameworks. Strong experience with relational databases and SQL. Strong experience with NoSQL databases (document, column, graph, map-reduce). Experience and appreciation for test driven development. Experience with MVC, event-driven and/or lambda architecture patterns. Strong experience with internal/third party RESTful APIs. Competencies: Strong knowledge of OOP principles and at least one programming language; We use Javascript (React/Redux/Node.js), PHP (Laravel), Ruby (Rails) Experience transforming complex business logic into clean reusable backend services Experience with mobile-first responsive web development Graphical sense of design with an ability to take sketches and turn them into working UI Highly organized individual with great time management skills Ability to proactively communicate and collaborate across a growing distributed team Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status. - provided by Dice</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "O0DIS1yDR_qMiTxGfb-dbA",
+    "url": "https://jobmote.com/job/98374/full-stack-php-react-developer-100-remote-up-to-100k/",
+    "title": "Full Stack PHP/React Developer - 100% REMOTE up to 100K!",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:css/frontend/12",
+      "DBG_TECH1:k/t/w:drupal/php/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/4",
+      "DBG_TECH1:k/t/w:javascript/nodejs/4",
+      "DBG_TECH1:k/t/w:lamp/php/65",
+      "DBG_TECH1:k/t/w:laravel/php/32",
+      "DBG_TECH1:k/t/w:php/php/50",
+      "DBG_TECH1:k/t/w:reactjs/frontend/56",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=4, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=152, embedded=0, frontend=72}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 1, 2019 9:07:59 PM",
+    "validThrough": "Nov 4, 2019 9:07:59 PM",
+    "crawled": "Nov 2, 2019 2:06:26 AM",
+    "content": "<div>Minimum Required Skills: LAMP, PHP, API Integration, MySQL, Linux, Laravel, JavaScript, HTML/CSS, REACT, Redux If you are a PHP Engineer who loves writing complex PHP code and has experience with React and Redux, please read on! We're aiming to revolutionize the way businesses run and operate their businesses. With 50% market share, our globally leading ERP software platform allows our clients to save valuable time and save valuable money. Our software is tailored towards a specific industry and designed to cooperate with legal entities to ensure all businesses are meeting legal requirements. We're looking for a talented PHP developer to work hand in hand with our product team to work towards accomplishing our client's needs and requirements. You'll be working on one of the fastest growing and most robust ERP platforms within the industry. Top Reasons to Work with Us 1. Friendly laid back environment 2. Work 100% Remote if you choose! 3. Great opportunity to join an industry leader with in a rapidly growing industry. What You Will Be Doing - Develop Full Stack Web applications with PHP and React/Redux - Help with Code Reviews - Working in a collaborative environment What You Need for this Position At Least 3 Years of experience and knowledge of: - LAMP - PHP - React - Redux - MySQL Nice to Have: - API Integration Experience - Linux - Laravel - JavaScript - Drupal - HTML/CSS - XML What's In It for You - Vacation/PTO - Medical - Dental - Vision - Bonus - EquitySo, if you are a PHP Engineer with experience writing LAMP based applications , please apply today! Applicants must be authorized to work in the U.S.Please apply directly to by clicking 'Click Here to Apply' with your Word resume! Looking forward to receiving your resume and going over the position in more detail with you. - Not a fit for this position? Click the link at the bottom of this email to search all of our open positions. Looking forward to receiving your resume! CyberCoders CyberCoders, Inc is proud to be an Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved. - provided by Dice<br><br>LAMP, PHP, API Integration, MySQL, Linux, Laravel, JavaScript, HTML/CSS, REACT, Redux - LAMP, PHP, API Integration, MySQL, Linux, Laravel, JavaScript, HTML/CSS, REACT, Redux</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "a4PcS6gQRKqn9kE61zGWrw",
+    "url": "https://jobmote.com/job/98372/web-developer-remote/",
+    "title": "Web Developer - REMOTE",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:jquery/frontend/32",
+      "DBG_TECH1:k/t/w:php/php/20",
+      "DBG_TECH1:k/t/w:sass/frontend/20",
+      "DBG_TECH1:k/t/w:wordpress/php/25",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=45, embedded=0, frontend=52}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "CyberCoders",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 1, 2019 9:07:59 PM",
+    "validThrough": "Nov 4, 2019 9:07:59 PM",
+    "crawled": "Nov 2, 2019 2:06:26 AM",
+    "content": "<div>Minimum Required Skills: Wordpress, JQuery, PHP, GIT, SASS If you are a Web Developer - REMOTE with experience, please read on! What You Will Be Doing - Day-to-day responsibilities include the development of web-based applications, web pages and landing pages; integrating your code with other technologies (Web Services, client back-end systems, content management systems, etc.); optimizing performance of front-end applications; and working with designers and other developers- Assist with requirements gathering and functional specification creation with internal teams and external clients- Mentor and share knowledge with other technical and non-technical staff- Communicate directly with account managers and project managers for project planning, strategy and execution What You Need for this Position - At least 1-2 years+ of WordPress &amp; PHP development experience- MySQL experience- Experience creating custom WordPress theme and/or plugins- Solid jQuery development knowledge- Experience with Source Control such SVN, GIT, VSS- Proficient in Sass or similar framework- Ability to work in a fast paced environment- Ability to work on multiple projects throughout the day- Experience implementing analytics code and setting up analytic event tracking using various platforms (Google Analytics, Google Tag Manager, Marketo, etc&amp;)So, if you are a Web Developer - REMOTE with experience, please apply today! Applicants must be authorized to work in the U.S.Please apply directly to by clicking 'Click Here to Apply' with your Word resume! Looking forward to receiving your resume and going over the position in more detail with you. - Not a fit for this position? Click the link at the bottom of this email to search all of our open positions. Looking forward to receiving your resume! CyberCoders CyberCoders, Inc is proud to be an Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved. - provided by Dice<br><br>Wordpress, JQuery, PHP, GIT, SASS - Wordpress, JQuery, PHP, GIT, SASS</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "LuVZDRMkQ1GBcFy8W9T1jA",
+    "url": "https://jobmote.com/job/98376/php-developer-remote-working/",
+    "title": "PHP Developer (Remote Working)",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:laravel/php/8",
+      "DBG_TECH1:k/t/w:php/php/20",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:symfony/php/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=36, embedded=0, frontend=29}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/php",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "Anonymous",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 1, 2019 9:07:59 PM",
+    "validThrough": "Nov 4, 2019 9:07:59 PM",
+    "crawled": "Nov 2, 2019 2:06:26 AM",
+    "content": "<div>PHP Developer (Part Remote)<br><br>£30,000 - £40,000<br><br>You will work alongside account management and production teams to manage a range of impressive projects which will include websites, mobile apps and brand marketing campaigns.<br><br>They are constantly adding new technologies to their stack so they are always using cutting edge tech. They have a wide variety of projects and a lot of support to improve you technically.<br><br>Predominantly, this role will focus around PHP Development, but you will be able to learn and develop your skills using JavaScript technologies such as React, Node and Vue. You will also have the opportunity to gain exposure to DevOps tools (Training provided)<br><br>Skills<br><br>- PHP<br><br>- Laravel or Symfony<br><br>- HTML, CSS, JavaScript<br><br>- REST Style applications<br><br>Desirable Skills<br><br>- AWS<br><br>- Vue.js<br><br>- React.js<br><br>Benefits<br><br>- Remote working options.<br><br>- Generous holiday package.<br><br>- Training budget.<br><br>- International travel: Client meetings, seminars and training (If desired)</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "YUZDL_MLSviTswxTOTGWRA",
     "url": "https://news.ycombinator.com/item?id=21420979",
     "title": "mtc. | Ecom/CMS/Bespoke PHP | Backend Developer | Full-time | Remote Only (anywhere) | https:/ ...",
@@ -151,53 +765,6 @@
     "validThrough": "Nov 3, 2019 9:08:18 PM",
     "crawled": "Nov 1, 2019 2:06:26 AM",
     "content": "<div><p>Digital Gurus are urgently looking for an experienced fullstack WordPress developer, to work remotely for a company based in Huddersfield. If you are a self-sufficient worker and want to work with a relaxed and friendly team from the comfort of your own home then this could be a that opportunity you've been looking for.</p> <p>This agency have multiple offices with a long list of successful clients who you'll be producing sites for, they offer a really great variety of web apps, digital products and eCommerce sites. They place trust in their staff to work from home, smashing productivity levels and cutting down on that 9-5 commuting hassle!</p> <p>Our ideal candidate will be able to take control of projects and help define technical specifications across a range of exciting projects where we are pushing WordPress to its limits. We regularly work with complex integration's across commerce (WooCommerce) APIs, CRMs etc, doing clever things with WordPress beyond just building simple brochure sites. Every build is completely bespoke, you will NOT be churning out cheap WordPress builds. </p> <p><strong>For 1 day every 2 weeks you'll be working in the office, so for this role you'll need to be based in Yorkshire or the North West, for the other days you'll get the option to work from home.</strong></p> <p>Skills needed:</p> <ul><li>PHP</li><li>WordPress</li><li>MySQL</li><li>HTML5</li><li>CSS3</li><li>JavaScript</li><li>Bespoke functionality/themes/plugins/extensions</li></ul><p>We are looking for a passionate developer who loves to stay at the forefront of technology, someone who is motivated, driven and eager to push ahead in their development career, continuously experimenting with new technologies and keeping up with best standards.</p> <p>If this role sounds of interest and you have the above skills, please get in touch with Sam Allen at Digital Gurus and email across your CV.</p> <p>**Please note, this is a permanent role and applicants must be eligible to work in the UK**</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "rIQbtR26Q4WVORfvxnOygQ",
-    "url": "https://remote.co/job/ecommerce-manager/",
-    "title": "eCommerce Manager",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:cakephp/php/24",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=24, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "How to Cake It",
-      "sameAs": "https://howtocakeit.com/"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 70000,
-      "maxValue": 75000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 70k - 75k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 31, 2019 11:08:01 PM",
-    "validThrough": "Nov 7, 2019 11:08:01 PM",
-    "crawled": "Oct 31, 2019 11:31:17 PM",
-    "content": "<h3>eCommerce Manager at <span>How to Cake It</span></h3><div><span><i></i> Remote</span>        </div><div>            <p>——————————</p><p>Do you want to help people who are passionate about baking/sweets, who love learning, desire a creative outlet and often feel a bit different than everyone else? Are you passionate about all things eCommerce? Come be the cherry on top of our growing team as we strive to create a positive impact on our community of 8 million + cake lovers.</p><p><strong>Location</strong>: Remote – Toronto, and EST preferred<br><strong>Comp range</strong>: $70K-$75K</p><h5><strong>Our Mission:</strong></h5><p>We help create IN-clusive content, experiences, and products that surprise and delight, improve skills and keep customers laughing along the way. We will know we are successful when our community consistently lets us know we add value to their lives, and when How To Cake It is a premier, global brand where baking meets entertainment.</p><h5><strong>Why this role exists:&nbsp;</strong></h5><p>The eCommerce Manager is responsible for the day-to-day management and optimization of all things eCommerce including but not limited to the maintenance and optimization of: the website, membership services, customer experience, eCommerce operations, fulfillment and logistics, product development and catalogues, product packaging, participation in online marketplaces (like Amazon) and select marketing and business development projects (trade shows, wholesale/ retailer partnerships).</p><h5><strong>What’s in it for me?</strong></h5><p>We are a content and product brand with an audience of over 8M people and growing. The potential for eCommerce growth is incredible given that we have barely scratched the surface and been focused on testing, iterating, and getting our feet wet. If you are excited about not only making a major impact within a company but a positive impact on the lives of our community this job is for you.</p><p>—</p><h5><strong>Required Experience:&nbsp;</strong></h5><ul><li>Previous project management and execution experience</li><li>Must have a minimum of 3 years experience in managing an eCommerce site and have touched everything from product development to delivery</li></ul><h5><strong>Objective Outcomes:&nbsp;</strong></h5><ul><li>Manage and consistently optimize all things eCommerce!</li><li>Ensure that all department activities lead towards the accomplishment of our overall client-centric mission and department KPIs</li><li>Become an SME in eCommerce – and in our members and clients –&nbsp; in order to create the most value for our community and grow the eCommerce department</li><li>Oversee and constantly enhance the entire customer journey and experience – from landing page to check out, delivery, retention and resell</li><li>Own and maintain our website so that it remains one of the fastest, most responsive, easiest to navigate and most importantly, frictionless/conversion generating eCommerce sites around!</li><li>Assist in the creation and delivery of products, packaging, and experiences that provide value for our members’ clients and encourage high adoption</li><li>Remain in constant contact and communication with the Director of Operations &amp; Marketing, Head of Content and third parties (fulfillment team) to stay current on customer needs and delivery experience</li><li>Test and optimize department initiatives and industry best practices and track/analyze data to report and provide insight for further optimization</li></ul><h5><strong>Core Competencies + Skills:</strong></h5><ul><li>Eat, sleep and breathe eCommerce – Be passionate and hungry to learn everything about this industry</li><li>Product and customer-centric – i.e. obsessed with the quality of our product offering, and with improving the lives of our customers</li><li>Resourceful – Adept at using data and customer feedback to help pivot quickly and implement strategic cost-effective solutions to technical and operational challenges</li><li>Highly computer and tech-literate – can easily jump between building spreadsheets (AT), to managing the back-end of Shopify, to punching up graphic designs if need be</li><li>Relationship building, liaising and communication skills – have experience working with graphic designers, developers, 3PLs/ fulfillment companies, communicating with customers,&nbsp; etc. (Understands tech/web/operations design speak)</li><li>Excited to deliver a fun, valuable, quality customer experience from the website experience, through purchase, delivery and resell</li><li>Enjoy creating content, products, and experiences that move people, and that brings levity and joy to their lives</li><li>Highly creative problem solver – looks for solutions and opportunities to add value</li><li>Managing and working with a variety of people on projects</li><li>Enjoys day-to-day maintenance and optimization of a website and other customer journey touchpoints</li><li>Proficient with Shopify, AT, Process Street, Google Analytics and GSuite</li></ul><h5><strong>Personal Attributes:&nbsp;</strong></h5><ul><li>Empathetic</li><li>Self-motivated</li><li>Confident</li><li>Passionate</li><li>Flexible</li><li>Ability to remain calm under pressure</li></ul><p><strong>Location</strong>: Remote – Toronto, and EST preferred</p>        </div><div>        <a href='https://recruit-66c441c05fde.breezy.hr/p/1b513727ab56-how-to-cake-it-ecommerce-manager?source=remote.co' rel='nofollow'>Apply for job</a>    </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -2763,70 +3330,6 @@
     "validThrough": "Oct 14, 2019 7:08:15 PM",
     "crawled": "Oct 21, 2019 10:33:45 PM",
     "content": "SecurityTrails.com| Marketing Full Stack Developer| remote, full-time| <a href='https://sthr.bamboohr.com/jobs/view.php?id=3' rel='nofollow'>https://sthr.bamboohr.com/jobs/view.php?id=3</a> | hello@securitytrails.com<p>We are looking for a marketing full stack developer to rapidly evolve our corporate website. You’ll be part of the marketing department that’s responsible from conception to deployment.</p><p>As a marketing full stack developer, you should be comfortable around both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design, marketing and utility.</p><p>If you’re also familiar with Agile methodologies, we’d like to meet you.</p><p>We are looking for:- Proven experience as a full stack developer or similar   role (2-3 years of experience)- Experience developing web applications- Familiarity with common stacks - Knowledge of multiple front-end languages and libraries   (e.g. HTML/ CSS, JavaScript)- Knowledge of multiple back-end languages (e.g. PHP) and   ideally Grav- Knowledge of versioning with Git- Familiarity with databases (e.g. MySQL, MongoDB), web   servers (e.g. Apache) and UI/UX design- Excellent communication and teamwork skills- Great attention to detail- Organizational skills- An analytical mind</p><p>Get an insight of our working remote culture here!</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "mE-_Tgb_SYSKexeJ2EY5HA",
-    "url": "https://news.ycombinator.com/item?id=21130692",
-    "title": "SEEKING FREELANCER | Boulder, CO | Remote | US Time Zone At Uplift, we’re on a mission to ...",
-    "tags": [
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG:surround``seek 2W freelancerescap 4W remot",
-      "DBG_TECH1:k/t/w:animation/gamedev/8",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:laravel/php/8",
-      "DBG_TECH1:k/t/w:layout/frontend/5",
-      "DBG_TECH1:k/t/w:node.js/nodejs/26",
-      "DBG_TECH1:k/t/w:php-7/php/8",
-      "DBG_TECH1:k/t/w:php/php/10",
-      "DBG_TECH1:k/t/w:reactjs/frontend/24",
-      "DBG_TECH1:k/t/w:typescript/frontend/3",
-      "DBG_TECH1:k/t/w:typescript/nodejs/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=29, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=26, embedded=0, frontend=35}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/nodejs",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "nodejs",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 15,
-      "maxValue": 15,
-      "info": "",
-      "unit": "WEEK",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 15 /Week"
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 1, 2019 11:09:58 PM",
-    "validThrough": "Oct 8, 2019 11:09:58 PM",
-    "crawled": "Oct 21, 2019 10:33:45 PM",
-    "content": "SEEKING FREELANCER | Boulder, CO | Remote | US Time Zone<p>At Uplift, we’re on a mission to perfect our working lives all while learning, building, and enjoying our free time. We're looking for a well-rounded software engineer with mid-level to senior experience in at least 2 of these, preferably:</p><p>* TypeScript and Node.js</p><p>* GraphQL and Apollo</p><p>* TypeScript and / React or React Native /</p><p>* PHP 7 and Laravel</p><p>Bonus:</p><p>* Great CSS skills (layouts, animations, UX)</p><p>* Native mobile experience</p><p>* Understanding of databases, SQL</p><p>* Familiarity with Thrift, RAML or alike</p><p>* Experience in fintech or healthtech (compliance, PII)</p><p>Continuous learning, both within the industry &amp; from each other is core to Uplift's values. We welcome people of different backgrounds, experiences, abilities and perspectives. If you're self-sufficient, passionate &amp; a good communicator, apply now!</p><p>Begin part-time and go from there.</p><p>#### To apply, please include:</p><p>* Location and preferred working hours (US-based preferred)</p><p>* Your experience with React, RN, Node.js, GraphQL, Apollo, PHP or Typescript</p><p>* Current &amp; next 3 months of availability, range is OK. At least 15 hours a week.</p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -6820,803 +7323,6 @@
     "validThrough": "Sep 15, 2019 12:48:24 AM",
     "crawled": "Sep 9, 2019 3:06:26 AM",
     "content": "<div><p></p><div><p><b>The Role</b></p><p>A tenacious, passionate and talented <b>Full Stack Developer (PHP, AWS, HTML, CSS, JavaScript) </b>is required to join a well established, expanding and innovative Software House in the idyllic setting of Pembrokeshire. As the <b>Full Stack Developer (PHP, AWS, HTML, CSS, JavaScript) </b>you will join a multi skilled Web Applications Team and be involved in maintaining, extending and improving website framework, designed for re-use across multiple stores and sales channels. As well as this, you will be building brand new web applications from the ground up. This role has the potential to be within a leadership capacity, dependent on your experience and you will be provided with lots of opportunity to grow.</p><p>As the <b>Full Stack Developer (PHP, AWS, HTML, CSS, JavaScript) y</b>ou'll collaborate with colleagues, clients and other vendors to work out the best solutions to the ever-changing needs of a growing client base whilst working to keep them at the cutting edge of technology. Within your role as <b>Full Stack Developer (PHP, AWS, HTML, CSS, JavaScript)</b>.</p><p></p><p>Are you an Object Orientated Developer that posses transferable, good developer skills?</p><p>Are you the person that will be continually 'playing with' things, to ensure that you are using the best one for the task at hand? You will have the opportunity to expand your knowledge and experience in new and exciting technologies that you are interested in through lots of R&amp;D time - specifically in the following technologies: NodeJS, React or Vue.</p><p><b><br></b></p><p><b>Role Essentials</b></p><p><b><br></b></p><ul><li>Experience using OOP.</li><li>Experience working with PHP Frameworks, eg. Laravel, Symfony, Zend</li><li>You have a deep understanding of object oriented programming and design patterns</li><li>You know HTML inside out and have worked with some HTML APIs</li><li>Experience working with Cloud Tchnologies including AWS</li><li>You're comfortable with CSS and have experience with pre-processors eg. SASS</li><li>Commercial experience working on large scale projects where you have shown good decision making</li></ul><p><b></b></p><p><b>Role Desirables</b></p><ul><li>eCommerce and Payment Gateways</li><li>NodeJS experience</li><li>Javascript Frameworks, eg. AngularJS, React</li><li>Automated testing</li><li>Caching systems, eg. Memcached, Redis</li><li>Degree in Computer Science - recent graduates welcome</li></ul><p><b>The Company</b></p><p>An award-winning, successful and friendly place to work, where you are given a good degree of autonomy to design and develop solutions. Teams collaborate and share ideas freely, and hierarchy and bureaucracy is kept to a minimum. In addition to the technical stuff, you'll collaborate with your peers, clients, and other vendors to work out solutions, find the quick wins, and diagnose problems.</p><p>As well as a generous salary offering you will receive benefits such as flexible working hours, remote working options, unlimited tea and coffee, onsite canteen, free lunch every Friday, state of the art hardware and the opportunity to take part in regular hackathons, plus much more!</p><p><b><br></b></p><p><b>Full Stack Developer (PHP, AWS, HTML, CSS, JavaScript) - PEMBROKE - + Additional benefits package including flexible working hours, Remote working, progression scheme, Healthcare, Annual Hackathons</b></p><p>Oscar Technology is acting as an Employment Agency in relation to this vacancy.</p></div><p></p></div><div><div><div><span></span></div><span>Pembrokeshire</span></div><div><div><span></span></div><span>Permanent</span></div><div><div><span></span></div><span>£25,000 - £45,000 a year</span></div></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "1tWgdRRCTRCmcxIfgoVT9Q",
-    "url": "https://jobmote.com/job/70333/php-laravel-web-developer-remote/",
-    "title": "PHP/Laravel Web Developer - REMOTE",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:html5/frontend/5",
-      "DBG_TECH1:k/t/w:laravel/php/48",
-      "DBG_TECH1:k/t/w:php/php/45",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=93, embedded=0, frontend=8}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Digital Appointments",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 7, 2019 10:07:26 PM",
-    "validThrough": "Sep 10, 2019 10:07:26 PM",
-    "crawled": "Sep 8, 2019 3:06:24 AM",
-    "content": "<div><p><strong>Are you a UK based PHP/Laravel Developer that either wants to work remotely from home or be based with a team in London - your choice!! An amazing and rare opportunity</strong></p> <p>An exciting opportunity exists for a talented PHP/Laravel Web Developer within a busy PHP based software platform based in the heart of London. A fantastic opportunity to work within a very employee focussed organisation using your PHP, MySQL, HTML5 and Laravel experience. <strong>As long as you are in the UK, This position can be based remotely if you prefer as long as you are happy to visit the office in London from time to time.</strong></p> <p>Your role will involve further developing the impressive PHP based software platform from start to finish. You will have full input into the direction of projects, working closely with key people within the business - ultimately becoming a core part of the team.</p> <p>To be considered, the successful PHP Developer will have:</p> <p>Proven experience of developing PHP based applications with Laravel<br>Experience of Responsive Web Design. <br>2-3 years + programming skills and experience of PHP, HTML, CSS and Laravel.</p> <p>You will also have: <br>Strong attention to detail and creative problem-solving skills.<br>Excellent interpersonal and communication skills.<br>The ability to work autonomously and to use initiative.<br>First-class organisational skills with the ability to prioritise, multitask and manage time effectively.</p> <p>For immediate consideration, please apply with your CV or call for more details.</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "O9vjXyCkQJm21MKrKmAvpQ",
-    "url": "https://jobmote.com/job/70307/php-developer-remote/",
-    "title": "PHP Developer Remote",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:angular/frontend/16",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:html5/frontend/5",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:laravel/php/8",
-      "DBG_TECH1:k/t/w:php/php/45",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=53, embedded=0, frontend=39}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Nigel Frank International",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "GBP",
-      "minValue": 100000,
-      "maxValue": 100000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "GBP 100k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 7, 2019 10:07:24 PM",
-    "validThrough": "Sep 10, 2019 10:07:24 PM",
-    "crawled": "Sep 8, 2019 3:06:24 AM",
-    "content": "<div><p>Job Type: PHP Developer</p> <p>Location: Remote (company offices in London, Malta, Gibraltar and Cape Town)</p> <p>Contact name: Liam Burrell</p> <p>Telephone: +</p> <p>Salary: Up to £100,000 per annum</p> <p>This company is regarded as one of the top online casino technology and services companies in SA, with offices in Cape Town, London, Malta and Gibraltar. </p> <p>We are looking for PHP Developer's focused on the server side to help improve core platform services and ultimately build a next generation system.</p> <p>Responsibilities:</p> <ul><li>Maintaining our custom website framework and making adhoc requests to specific sites</li><li>Adding new features to the website framework and to the CMS</li><li>Improving performance of the websites</li><li>Working closely with frontend team to assist with changes that require PHP functionality</li><li>Working on the development of various small internal applications as required</li><li>Implement unit testing on new and existing code</li><li>Diagnosing and fixing production issues</li><li>Taking part in code reviews</li><li>Not being phased by the strange variety of things that need doing in a small growing company</li><li>Being proactive and not just waiting to be told the next thing to do</li><li>Finding better ways that we can get things done</li><li>Working remotely</li></ul><p>Requirements:</p> <ul><li>3+ years commercial experience of PHP</li><li>Good understanding of front-end technologies, such as JavaScript, HTML5, and CSS3</li><li>2+ years writing raw SQL beyond just simple select statements and using PHP with MySQL</li><li>Knowledge of object oriented PHP programming</li><li>Understanding of MVC design patterns</li><li>Proficient understanding of code versioning tools, such as Git</li><li>Familiarity with Unit and Integration testing</li><li>Good interpersonal skills and a great team attitude</li><li>Proactive and highly motivated with the ability to quickly learn and adapt.</li></ul><p>Ideal candidate would have:</p> <ul><li>Strong knowledge of the Laravel PHP web framework</li><li>Strong knowledge of common PHP or web server exploits, and their solutions</li><li>Experience with Jira or Wrike or similar project management tool</li><li>Experience using a modern JavaScript framework (we are just starting to use Angular but experience in React, Vue or similar is good too)</li><li>Experience migrating legacy codebases to cleaner architectures and modern frameworks</li><li>Some experience of the online casino industry</li></ul><p>To apply, please send your CV to or call +</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "TxLoqTXsQR-wZEC26K19PQ",
-    "url": "https://jobmote.com/job/70283/front-end-web-developer-telecommute/",
-    "title": "Front End Web Developer (Telecommute)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:animation/gamedev/8",
-      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
-      "DBG_TECH1:k/t/w:html5/frontend/5",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:php/php/10",
-      "DBG_TECH1:k/t/w:wordpress/php/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=8, php=20, embedded=0, frontend=27}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "SmartBug Media",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 6, 2019 10:07:31 PM",
-    "validThrough": "Sep 9, 2019 10:07:31 PM",
-    "crawled": "Sep 7, 2019 3:06:25 AM",
-    "content": "<div>PLEASE READ: You must have hands-on experience with HubSpot to be considered for this position.The Front-End Developer (FED) is a web development position responsible for both large website redesign projects as well as smaller initiatives both internal and for client contracts. This role has client-facing responsibilities including but not limited to: technical consulting of web development capabilities, web development in various platforms and frameworks, cross-platform web development testing, email development, client training.In addition to creating stunning websites and experiences that deliver measurable impacts for our clients, our development team is valued for their contributions, ideas and process improvements. We're looking for responsible developers that have experience working remotely and delivering high quality work. We also want you to be a long-standing member of our team that will look back years from now and be thrilled that you have made the right decision. You'll be challenged everyday and will gain valuable experience working with different CMS platforms and marketing automation and analytics tools such as HubSpot.The Day-to-DayResponsible for the success of SmartBug's website projects for our clients as well as internal web development initiatives.Responsible for collaborating and working with designers, UX specialists, project managers, QA specialists, and marketing consultants to ensure the delivery of high-end web products to our clients.Projects will mostly be built on the HubSpot COS, but other CMS or content management and marketing automation platforms such as WordPress, Shopify, Marketo, Pardot or others may be used to build websites.Involvement in website redesign project phases including requirements gathering, wireframes, creating copy decks, design, development, internal testing, user testing, launch, and post-launch support.Each phase has built in processes that require iterative improvements to help with the over all goals of rocking the customer experience as well as keeping projects profitable.Utilize strong attention-to-detail to create quality code based on internal web development standards.Give realistic estimates of work and deliver on those timelines.Learn Inbound Marketing principles in order to help facilitate our client's marketing goals and KPIs.Engage in self-learning activities to improve technical skills.Proactively identifies,, troubleshoots, and addresses issues as they arise.Responsible for the improvement and maintenance of web development processes by proactively gathering input from internal and external stakeholders and providing feedback and suggestions to management.Improve HubSpot knowledge by attending trainings and certification programs.Maintain the drive to be passionate about delivering a customer experience that exceeds expectations.Other responsibilities as assignedHave fun and make some great friends!Experience And Education RequirementsAuthorization to work in the U.S. without employer sponsorship is requiredB.S. in Computer Science or related field strongly preferred1-3 years of Front-End Development experience including HTML5, CSS3, JavaScript, jQuery, HubSpot's backend language HubL, mobile responsiveness, web development best practices, email templating, and the desire for self-learning to take on additional tools and frameworks as needed.Basic working knowledge of backend programming logic in order to work with languages such as PHP on WordPress sites or other CMS.Minimum of 2 years of experience working with PHP and WordPressWorking knowledge of version control systems such as Git and SQL database basic is required to deliver quality products to our clients.Strong understanding of HubSpot both from a general user standpoint, as well as from a development perspective whether using the Visual Builder or coded templates.Minimum of 1 year of experience developing in HubSpot required, experience across multiple CMS systems preferredMarketing automation platforms (like Pardot, Marketo, etc.) preferredAbility to create application assets (images, etc.) from PSDs using Adobe Photoshop or Sketch while maintaining the full integrity of the original designUnderstanding of an experience implementing SEO a plusExperience with animation/motion graphics a plusExperience building APIs a plusStrong written and verbal communication and the ability to communicate challenges to project management and business leadersExperience using project management and bug tracking toolsProficiency in Google DocsExperience working remotely in similar roles strongly preferredInterview ProcessPhone ScreenVideo interview with Director of Web DevelopmentCoding testReference checkingFinal video interview with SmartBug's CEOOur Extensive Employee Benefits Program IncludesGenerous compensation package with performance incentivesHealth insurance with company contributionPaid maternity and paternity leavePaid vacationPaid time off401(k) with employer matchingFlexible spend planCompany-funded short-term disability and life insuranceLong-term disabilityAnnual leadership conference, SmartBugapaloozaTraining budgetThe flexibility of working remotelyAbout SmartBug Media™SmartBug Media™ is a globally recognized Intelligent Inbound™ marketing agency that assists businesses in growing revenue through content marketing, sales enablement, web development, marketing automation, and PR. For over 10 years, SmartBug™ has helped businesses increase qualified leads, close customers, and enhance the reach and loyalty of their brands. We're one of a handful of HubSpot Diamond partners in the world, the highest-rated agency in the history of the HubSpot ecosystem, and named HubSpot's Global Partner of the Year in 2018. With 5 Comparably awards won in 2018 and being certified as a &quot;Great Place to Work&quot; a second year in a row, it's clear that it's not just our clients that like us.dQYnGTLZPL</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "9fPQrl5_SgCmBSukH2ei7Q",
-    "url": "https://jobmote.com/job/70282/php-laravel-web-developer-remote/",
-    "title": "PHP/Laravel Web Developer - REMOTE",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:html5/frontend/5",
-      "DBG_TECH1:k/t/w:laravel/php/48",
-      "DBG_TECH1:k/t/w:php/php/45",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=93, embedded=0, frontend=8}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Anonymous",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 6, 2019 10:07:31 PM",
-    "validThrough": "Sep 9, 2019 10:07:31 PM",
-    "crawled": "Sep 7, 2019 3:06:25 AM",
-    "content": "<div>Are you a UK based PHP/Laravel Developer that either wants to work remotely from home or be based with a team in London - your choice!! An amazing and rare opportunity<br><br>An exciting opportunity exists for a talented PHP/Laravel Web Developer within a busy PHP based software platform based in the heart of London. A fantastic opportunity to work within a very employee focussed organisation using your PHP, MySQL, HTML5 and Laravel experience. As long as you are in the UK, This position can be based remotely if you prefer as long as you are happy to visit the office in London from time to time.<br><br>Your role will involve further developing the impressive PHP based software platform from start to finish. You will have full input into the direction of projects, working closely with key people within the business - ultimately becoming a core part of the team.<br><br>To be considered, the successful PHP Developer will have:<br><br>Proven experience of developing PHP based applications with Laravel<br>Experience of Responsive Web Design. <br>2-3 years + programming skills and experience of PHP, HTML, CSS and Laravel.<br><br>You will also have: <br>Strong attention to detail and creative problem-solving skills.<br>Excellent interpersonal and communication skills.<br>The ability to work autonomously and to use initiative.<br>First-class organisational skills with the ability to prioritise, multitask and manage time effectively.<br><br>For immediate consideration, please apply with your CV or call for more details</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "2Hg86WHiQkCzQkw_--KlZQ",
-    "url": "https://jobmote.com/job/70271/php-developer-remote/",
-    "title": "PHP Developer - Remote",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:php/php/15",
-      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
-      "DBG_TECH1:k/t/w:webpack/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=13}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Goldstone Partners, Inc.",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 6, 2019 10:07:30 PM",
-    "validThrough": "Sep 9, 2019 10:07:30 PM",
-    "crawled": "Sep 7, 2019 3:06:25 AM",
-    "content": "<div>Job DescriptionAs the newest member of our development team you will be designing, maintaining, and improving our platform. Your PHP experience will help us enhance the backend of our platform but since we are a small team you'll be pitching in throughout the stack. To keep our team running like a well-oiled machine, you have mastered collaboration with your active and consistent communication. Our engineering team is remote but we get together in Boulder a few times each year. If you appreciate quality and want to work with true professionals who are building something useful, let's talk!How You'll Spend Your DaysDesigning, developing, and maintaining the current web application utilizing React.js &amp; Bootstrap v3Building and Deploying through Webpack/GitlabCollaborating with development team to implement new featuresExecuting a standardized pipeline for delivering features to the business in an orderly fashionMaking sure that your team members can follow in your footsteps by documenting your workStretching yourself intellectually - challenging conventional thinking with your positive and curious mindWorking in a growth-stage start-up, pitching in wherever you can QualificationsWhat You'll Bring With You4 years of professional experience building software at the enterprise level and at least 3 years of front-end development experience using ReactJSEnough PHP experience to be comfortable with debugging existing work and handling minor feature tasks without assistanceWorking knowledge of SQL - enough to read and understand queriesExperience building web apps that work directly with RESTful API'sAbility to perform tasks across the entire tech stackAn understanding of security principles and how they apply to eCommerce applicationsStrong communication skills with the ability to articulate ideas and issues in a remote environmentOrganized professional capable of managing your time, tasks, and activities without daily guidanceA belief in transparency as a best practice. We all learn from every experience whether they are successes or mistakesAdditional InformationAs part of the team you'll enjoyCompensation commensurate with experience401K match programA passionate team of humans, and pets, to spend your days withGoldstone Partners is helping this successful startup through its hyper-growth stage, and we are looking for Superheroes. Principals only, please. Applications welcomed from US Citizens and Green Card holders only.</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "3VqVB3_tRlWl9PeZMa8gDA",
-    "url": "https://jobmote.com/job/70250/php-developer-remote/",
-    "title": "PHP Developer - Remote",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:php/php/15",
-      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
-      "DBG_TECH1:k/t/w:webpack/frontend/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=15, embedded=0, frontend=13}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Goldstone Partners, Inc.",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 6, 2019 10:07:29 PM",
-    "validThrough": "Sep 9, 2019 10:07:29 PM",
-    "crawled": "Sep 7, 2019 3:06:25 AM",
-    "content": "<div>Job DescriptionAs the newest member of our development team you will be designing, maintaining, and improving our platform. Your PHP experience will help us enhance the backend of our platform but since we are a small team you'll be pitching in throughout the stack. To keep our team running like a well-oiled machine, you have mastered collaboration with your active and consistent communication. Our engineering team is remote but we get together in Boulder a few times each year. If you appreciate quality and want to work with true professionals who are building something useful, let's talk!How You'll Spend Your DaysDesigning, developing, and maintaining the current web application utilizing React.js &amp; Bootstrap v3Building and Deploying through Webpack/GitlabCollaborating with development team to implement new featuresExecuting a standardized pipeline for delivering features to the business in an orderly fashionMaking sure that your team members can follow in your footsteps by documenting your workStretching yourself intellectually - challenging conventional thinking with your positive and curious mindWorking in a growth-stage start-up, pitching in wherever you can QualificationsWhat You'll Bring With You4 years of professional experience building software at the enterprise level and at least 3 years of front-end development experience using ReactJSEnough PHP experience to be comfortable with debugging existing work and handling minor feature tasks without assistanceWorking knowledge of SQL - enough to read and understand queriesExperience building web apps that work directly with RESTful API'sAbility to perform tasks across the entire tech stackAn understanding of security principles and how they apply to eCommerce applicationsStrong communication skills with the ability to articulate ideas and issues in a remote environmentOrganized professional capable of managing your time, tasks, and activities without daily guidanceA belief in transparency as a best practice. We all learn from every experience whether they are successes or mistakesAdditional InformationAs part of the team you'll enjoyCompensation commensurate with experience401K match programA passionate team of humans, and pets, to spend your days withGoldstone Partners is helping this successful startup through its hyper-growth stage, and we are looking for Superheroes. Principals only, please. Applications welcomed from US Citizens and Green Card holders only.</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "PAj5qQ8BRuaiYdzs9cq0tQ",
-    "url": "https://jobmote.com/job/70234/remote-magento-developer/",
-    "title": "REMOTE Magento Developer",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
-      "DBG_TECH1:k/t/w:magento/php/40",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=40, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Itecco Limited",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "GBP",
-      "minValue": 35000,
-      "maxValue": 40000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "GBP 35k - 40k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 5, 2019 10:07:44 PM",
-    "validThrough": "Sep 8, 2019 10:07:44 PM",
-    "crawled": "Sep 6, 2019 3:06:24 AM",
-    "content": "<div><p><strong>REMOTE Magento Developer</strong></p> <p><strong>Role: </strong>REMOTE Magento Developer<strong><br><strong>Location: </strong></strong>REMOTE<br><strong>Salary: </strong>£35,000 - £40,000 DOE</p> <p>My client based in Banbury (Oxfordshire) is looking for a Magento Developer to work for them remotely.</p> <p>As long as you are based in the UK or Europe you can work FULLY REMOTELY!!!!!</p> <p>My client is a fast-growing open source eCommerce solutions company for B2B or B2C businesses. Over the years, they developed innovative services and workflows that beat classical eCommerce delivery models resulting in lower budgets and much faster time to market. </p> <p><strong>Experience needed:</strong><br>- at least 4 years' experience with Magento</p> <p>If this role sounds interesting to you, please<strong> APPLY &amp; </strong>get in touch with<strong> Bella on or email bella . . co . uk</strong></p> <p><em>Established in Didsbury, ITECCO has grown to become one of the UK's most successful and fastest growing IT recruitment companies in the UK.</em></p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "4kdLkuOGReSYiHvcyheClQ",
-    "url": "https://weworkremotely.com/remote-jobs/loop-link-lead-php-engineer",
-    "title": "Loop Link: Lead PHP Engineer",
-    "tags": [
-      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
-      "DBG_TECH1:k/t/w:ajax/frontend/3",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:php/php/20",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=20, embedded=0, frontend=24}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Loop Link",
-      "sameAs": "http://www.looplink.golf"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 100000,
-      "maxValue": 100000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "USD 100k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 5, 2019 3:10:11 AM",
-    "validThrough": "Sep 12, 2019 3:10:11 AM",
-    "crawled": "Sep 5, 2019 4:06:22 AM",
-    "content": "<h3> Lead PHP Engineer </h3><div><div><strong>Who We Are Looking For:</strong></div><div><br>&nbsp;We are a well capitalized company, on a positive growth trajectory, and are looking for positive, self-starters to join and help build our team.&nbsp; If you are passionate about full-stack software development centered around PHP, have a knack for self-testing your code, and thrive on working projects from start to ship, we'd like to connect to further discuss this opportunity.</div><div><strong><br>Requirements<br></strong><br></div><div>·&nbsp; &nbsp; &nbsp; 5+ Years of proven software development experience in PHP.</div><div>·&nbsp; &nbsp; &nbsp; Full stack - back end through front end experience. Angular JS and Vue experience a nice plus.</div><div>·&nbsp; &nbsp; &nbsp; Strong knowledge of MySQL and Redis.</div><div>·&nbsp; &nbsp; &nbsp; Demonstrable knowledge of web technologies including HTML, CSS, Javascript, AJAX, etc.</div><div>·&nbsp; &nbsp; &nbsp; Experience building RESTful web services.</div><div>·&nbsp; &nbsp; &nbsp; Ability (and desire!) to write unit and integration tests.</div><div>·&nbsp; &nbsp; &nbsp; Good knowledge of version control tools, and experience virtually and personally collaborating with a team.</div><div>·&nbsp; &nbsp; &nbsp; Bachelor's degree in computer science, or equivalent experience.</div><div>·&nbsp; &nbsp; &nbsp; Strong written and verbal communication skills, and excellent listening skills.</div><div><strong><br>Responsibilities<br></strong><br></div><div>·&nbsp; &nbsp; &nbsp; Build and ship clean, performant, scalable, secure, quality software that exceeds customer expectations…. &nbsp; own your code, cradle to grave.</div><div>·&nbsp; &nbsp; &nbsp; Take a leadership role using your previous leadership experience or the talent and knowledge that's been waiting for the right opportunity.</div><div>·&nbsp; &nbsp; &nbsp; Work with Product, Quality, DevOps and Ops to ensure that we deliver the best possible customer experience.</div><div>·&nbsp; &nbsp; &nbsp; Be available as necessary to troubleshoot urgent issues.</div><div>·&nbsp; &nbsp; &nbsp; Collaborate closely with UX/design and ops…we’re all one team!</div><div>·&nbsp; &nbsp; &nbsp; Adhere to Product and workflow processes, engaging with the team to make continual improvements.</div><div>·&nbsp; &nbsp; &nbsp; Be a technical thought-leader among your peers to constantly improve how we work.</div><div>·&nbsp; &nbsp; &nbsp; Be approachable and transparent, wear a lot of hats, and always be aware of the big picture of making Loop Link great.</div><div><strong><br>Time Requirement: &nbsp;</strong></div><div><br>40-50 hours per week with &quot;flex hours&quot; to accommodate different peoples' work preference (essentially work at whatever time of day you want).</div><div><strong><br>Compensation:</strong></div><div><br>Full time salary: $100,000/year and up based on experience</div><div><strong><br>Company Culture:</strong></div><div><br>Work life balance is VERY important at Loop Link.&nbsp; We receive daily thank yous from our clients for improving their quality of life.&nbsp; We like to pass that philosophy onto our team members.&nbsp; The flexibility of hours worked in the day and geographic autonomy are only two of the cornerstones that create a balanced environment for our team.</div><div><br><strong>If what you've read interests you, please send your resume to info@looplink.golf or reply via We Work Remotely.&nbsp; We look forward to hearing from you!</strong><br><br></div></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "bLyxuBcJRvmoPa48v9DrQQ",
-    "url": "https://jobmote.com/job/69100/php-developers-basingstoke-remote-working-up-to-55k/",
-    "title": "PHP Developers!! - Basingstoke - Remote Working - up to £55k",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:laravel/php/8",
-      "DBG_TECH1:k/t/w:php/php/15",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=23, embedded=0, frontend=12}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Spectrum IT Recruitment (South)",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 4, 2019 10:07:48 PM",
-    "validThrough": "Sep 7, 2019 10:07:48 PM",
-    "crawled": "Sep 5, 2019 3:06:25 AM",
-    "content": "<div><p><strong>Senior Developers / Engineers</strong></p> <p><strong>Remote Working</strong></p> <p>We are seeking a skilled and enthusiastic Senior Web Developers to work with a market leading and fast-growing fintech technology services company in Basingstoke, Hampshire.</p> <p>Our client has the requirement for a mid or senior level developers. You will join an ambitious company and talented team developing a range of dynamic functionality to a large, bespoke and multifunctional CRM system as well as numerous internal business applications. </p> <p>There is fantastic scope within this role and the opportunity to push toward towards technical leadership given the ambitious growth forecast of the business. </p> <p><strong>The Ideal Candidate:</strong></p> <p>The ideal person will be technically minded with exceptional interpersonal skills and natural attention to detail. An excellent communicator, this person will have the ability to question non-technical colleagues about technical issues in order to quickly diagnose the problem and communicate the solution in a timely fashion. </p> <p><strong>Technical Skills:</strong></p> <ul><li>Deep and expert knowledge of PHP, OOP, PHP5+</li><li>MVC - Ideally Laravel or a similar modern &amp; structured MVC framework. </li><li>JavaScript/jQuery</li><li>MySQL</li><li>CSS/XHTML</li></ul><p>The company offers a competitive salary, exposure to new technology, career progression and a great working environment with a talented team. </p> <p>To apply, please send your CV to or call for immediate consideration.</p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "sb1xPZgPRZWD29gi8QX7ug",
-    "url": "https://jobmote.com/job/69065/php-developers-basingstoke-remote-working-up-to-55k/",
-    "title": "PHP Developers!! - Basingstoke - Remote Working - up to £55k",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:laravel/php/8",
-      "DBG_TECH1:k/t/w:php/php/15",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=23, embedded=0, frontend=12}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Anonymous",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 4, 2019 10:07:46 PM",
-    "validThrough": "Sep 7, 2019 10:07:46 PM",
-    "crawled": "Sep 5, 2019 3:06:25 AM",
-    "content": "<div>Senior Developers / Engineers<br><br>Remote Working<br><br>We are seeking a skilled and enthusiastic Senior Web Developers to work with a market leading and fast-growing fintech technology services company in Basingstoke, Hampshire.<br><br>Our client has the requirement for a mid or senior level developers. You will join an ambitious company and talented team developing a range of dynamic functionality to a large, bespoke and multifunctional CRM system as well as numerous internal business applications. <br><br>There is fantastic scope within this role and the opportunity to push toward towards technical leadership given the ambitious growth forecast of the business. <br><br>The Ideal Candidate:<br><br>The ideal person will be technically minded with exceptional interpersonal skills and natural attention to detail. An excellent communicator, this person will have the ability to question non-technical colleagues about technical issues in order to quickly diagnose the problem and communicate the solution in a timely fashion. <br><br>Technical Skills:<br><br>Deep and expert knowledge of PHP, OOP, PHP5+<br>MVC - Ideally Laravel or a similar modern &amp; structured MVC framework. <br>JavaScript/jQuery<br>MySQL<br>CSS/XHTMLThe company offers a competitive salary, exposure to new technology, career progression and a great working environment with a talented team. <br><br>To apply, please send your CV to or call (phone number removed) for immediate consideration</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ktZSRALSTJScV8D3SwtKIg",
-    "url": "http://workinstartups.com/job-board/job/84083/full-stack-developer-php-at-emailoctopus/",
-    "title": "Full-Stack Developer (PHP)",
-    "tags": [
-      "DBG:surround``2N( OR(employe,develop,engin,team,workmat), spread, OR(out,across) )",
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:laravel/php/8",
-      "DBG_TECH1:k/t/w:php/php/10",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:symfony/php/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=26, embedded=0, frontend=8}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "EmailOctopus",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 4, 2019 12:00:08 PM",
-    "validThrough": "Sep 11, 2019 12:00:08 PM",
-    "crawled": "Sep 4, 2019 1:06:33 PM",
-    "content": "<p>We&rsquo;re looking for talented developers who want to be part of a young company in an exciting time of growth, and to help make EmailOctopus the preferred email platform for millions of users worldwide.</p><br /><p><strong>About EmailOctopus</strong></p><br /><p>Set up by two brothers in London in 2014, we&rsquo;re a bootstrapped (and profitable!) startup with big ambitions to disrupt the email marketing industry. To date, our customers have sent over 7.4 billion emails and saved in excess of $150,000. Over the next few years, we&rsquo;re looking to improve our platform, expand our feature set and significantly grow our customer base.</p><br /><p>We&rsquo;re a friendly, personal team and we pride ourselves on delivering outstanding service to our users just as much as we do in building an amazing product. We&rsquo;re a fully remote business, with the team spread across London, Manchester and Vancouver.</p><br /><p><strong>The role</strong></p><br /><p>As a developer at EmailOctopus, you&rsquo;ll be helping maintain our existing platform as well as supporting our biggest project yet: bringing segmentation to the platform. Your skills will help us ensure that our platform is robust, tested and set up to succeed at scale, so we can keep reliably delivering billions of emails on behalf of our users.</p><br /><p><strong>Your skills and experience</strong></p><br /><p>We&rsquo;re looking for developers who are quick to adapt to new technologies. You will have some or all of the skills below, but an appetite to learn is most valuable.</p><br /><ul><br /><li>Strong experience in&nbsp;PHP&nbsp;and its web frameworks, such as Symfony/Laravel</li><br /><li>Familiar with&nbsp;AWS&nbsp;and sysadmin</li><br /><li>Experience in Redis/MySQL/BigQuery</li><br /><li>Experience with Python</li><br /><li>Comfortable with version control</li><br /><li>Interested in developing highly scalable and robust web applications</li><br /><li>Passionate about writing clean and maintainable code</li><br /><li>Workable frontend/UX skills</li><br /></ul><br /><p><strong>Benefits</strong></p><br /><ul><br /><li>Work from anywhere, with a budget for your ownoffice space</li><br /><li>The opportunity to be part of a small, growing team who will support you in your future career</li><br /><li>Flexible working hours</li><br /><li>&pound;500 yearly learning budget</li><br /><li>Free gym/yoga</li><br /></ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "1z9oTsT8QgeevFJIdNq5Fw",
-    "url": "https://www.remoteage.com/remote-jobs/php-developer-remote-4/",
-    "title": "PHP Developer (Remote)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:laravel/php/8",
-      "DBG_TECH1:k/t/w:magento/php/8",
-      "DBG_TECH1:k/t/w:opencart/php/8",
-      "DBG_TECH1:k/t/w:php/php/40",
-      "DBG_TECH1:k/t/w:woocommerce/php/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=72, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Lynx Recruitment Ltd",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "GBP",
-      "minValue": 280,
-      "maxValue": 280,
-      "info": "",
-      "unit": "DAY",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "GBP 280 /Day"
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 4, 2019 7:07:03 AM",
-    "validThrough": "Sep 11, 2019 7:07:03 AM",
-    "crawled": "Sep 4, 2019 7:07:15 AM",
-    "content": "<h3>            PHP Developer (Remote)        </h3><div>United Kingdom, Kent</div><div>Company: Lynx Recruitment Ltd<p></p></div><div>                    <h4>Overview</h4>                    <p><strong>PHP Developer | Remote / Bromley | £280 a dy</strong></p><p>PHP Developer required for a client of mine based in Bromley. </p><p>Essential Skills:</p><ul><li>PHP</li><li>Laravel</li><li>API Integration</li><li>AWS</li></ul><p>Any eCommerce experience is beneficial (Magento, OpenCart, WooCommerce)</p><p>Salary required for PHP Developer is up to £280 a day</p><p>This is a primarily remote PHP Developer position, however you will be required to go into the office at least once a month. </p><p>Applicants must be eligible to work within the UK<br>Applicants must live in the UK. </p><p><strong>PHP Developer | Remote / Bromley | £280</strong></p><p></p>                                                <div>                            <a href='https://www.jobg8.com/Traffic.aspx?enZ5kLkW6ndapgu34c70jAt' rel='nofollow'>Apply for job</a>                    </div>                                    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "pT-Y1oMWR8-hc3DpYgzfKA",
-    "url": "https://jobmote.com/job/68929/php-developer-remote/",
-    "title": "PHP Developer (Remote)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:laravel/php/8",
-      "DBG_TECH1:k/t/w:magento/php/8",
-      "DBG_TECH1:k/t/w:opencart/php/8",
-      "DBG_TECH1:k/t/w:php/php/35",
-      "DBG_TECH1:k/t/w:woocommerce/php/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=67, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Lynx Recruitment Ltd",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "GBP",
-      "minValue": 280,
-      "maxValue": 280,
-      "info": "",
-      "unit": "DAY",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "GBP 280 /Day"
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 3, 2019 10:07:43 PM",
-    "validThrough": "Sep 6, 2019 10:07:43 PM",
-    "crawled": "Sep 4, 2019 3:06:24 AM",
-    "content": "<div><p><strong>PHP Developer | Remote / Bromley | £280 a dy</strong></p> <p>PHP Developer required for a client of mine based in Bromley. </p> <p>Essential Skills:</p> <ul><li>PHP</li><li>Laravel</li><li>API Integration</li><li>AWS</li></ul><p>Any eCommerce experience is beneficial (Magento, OpenCart, WooCommerce)</p> <p>Salary required for PHP Developer is up to £280 a day</p> <p>This is a primarily remote PHP Developer position, however you will be required to go into the office at least once a month. </p> <p>Applicants must be eligible to work within the UK<br>Applicants must live in the UK. </p> <p><strong>PHP Developer | Remote / Bromley | £280</strong></p></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "cqOOV3RTQq-PzfMOu586CA",
-    "url": "https://jobmote.com/job/67772/symfony-developer-100-remote-up-to-125k/",
-    "title": "Symfony Developer (100% REMOTE up to 125K)",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:lamp/php/52",
-      "DBG_TECH1:k/t/w:php/php/15",
-      "DBG_TECH1:k/t/w:symfony/php/48",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=115, embedded=0, frontend=18}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 2, 2019 10:07:30 PM",
-    "validThrough": "Sep 5, 2019 10:07:30 PM",
-    "crawled": "Sep 3, 2019 3:06:24 AM",
-    "content": "<div>Minimum Required Skills:<br>PHP, JavaScript, Angular, AngularJS, Symfony, LAMP, MySQL, SAS, SOC, AWS<br><br>If you are a Symfony Developer who's working in a LAMP Stack environment and are strong with MySQL, please read on!<br><br>THIS POSITION IS 100% REMOTE! CANDIDATE CAN LIVE ANYWHERE IN USA<br>THIS POSITION IS 100% REMOTE! CANDIDATE CAN LIVE ANYWHERE IN USA<br>THIS POSITION IS 100% REMOTE! CANDIDATE CAN LIVE ANYWHERE IN USA<br><br>We're a nationally based Fintech Company looking for a very talented PHP Developer who knows the Symfony framework inside and out. This candidate will be spearheading new development projects by leading the design and development efforts. We're currently a LAMP stack environment but ultimately moving in the way of Microservices. <br><br>We're looking for a cool person who works well alone but also works well with a team. Ideally this person will already have experience working in a remote capacity.<br><br>What You Will Be Doing<br><br>- Participate in the architecture and design of new and existing products<br>- Work with stakeholders to define constraints and develop requirements<br>- Provide conceptual design, prototype, and test cycles appropriate to a chosen technical solution. Identify technical risks and develop mitigation strategies<br>- Responsible for estimating work, schedule releases and leading a small team of developers to completion<br>- Lead in the solution development, design and write code, write and execute test cases, and support the applications that we are delivering to our clients<br>- Technical management (development lead) and program management<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and knowledge of:<br><br>- PHP<br>- Javascript<br>- Symfony<br>- LAMP<br>- MySQL<br><br>Nice To Have<br>- SAS<br>- SOC<br>- AWSSo, if you are a Symfony Developer who has at least 5 years of experience and wants to work remote, please apply today!<br><br>Applicants must be authorized to work in the U.S.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "CjCFzUGxSHi_HA3itoxGLQ",
-    "url": "https://www.42jobs.io/laravel/jobs/8006-lead-web-architect-for-software-development-agency-client-facing-position",
-    "title": "Lead Web Architect for Software Development Agency (Client facing position)",
-    "tags": [
-      "DBG:surround``2N(remot, posit)",
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/4",
-      "DBG_TECH1:k/t/w:javascript/nodejs/4",
-      "DBG_TECH1:k/t/w:laravel/php/16",
-      "DBG_TECH1:k/t/w:php/php/10",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:k/t/w:webpack/frontend/5",
-      "DBG_TECH1:k/t/w:wordpress/php/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=4, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=36, embedded=0, frontend=20}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "Mayven",
-      "sameAs": "https://mayvendev.com"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 2, 2019 4:40:51 PM",
-    "validThrough": "Sep 9, 2019 4:40:51 PM",
-    "crawled": "Sep 2, 2019 5:07:23 PM",
-    "content": "<h3>Lead Web Architect for Software Development Agency (Client facing position)</h3><div><div><strong>== We will be hiring this role within the next 7 business days ==<br></strong><br></div><div>Thanks so much for checking out our job post.<br><br></div><div>We are looking to hire a lead architect to take the reigns across our full stack of projects.&nbsp; You will report directly to the founding partners of the agency, and be responsible for engaging and working across our team of 40+ developers and designers around the world as well engaging directly with our clients at small and large companies across the US.<br><br></div><div>This is a fully remote position with no set office hours.&nbsp; The perfect candidate is a 100% self starter and self motivator who knows how to identify what needs to be done and, most importantly, gets the job done.<br><br></div><div><strong>This is a highly technical role</strong>.&nbsp; If you are not familiar with running commands from terminal, or wouldn't know where to start if someone asked you how to set up a staging server for a WordPress site, this role isn't perfect for you.<br><br></div><div>The perfect candidate has a deep knowledge across the entire web stack (HTML --&gt; CSS --&gt; Javascript --&gt; NGINX --&gt; PHP) and, although already has good experience with a wide array of technologies, also knows how to quickly and efficiently pick up new things as well.&nbsp;<br><br></div><div><strong>Technologies you will use frequently:<br></strong><br></div><div><br></div><ol><li>WordPress</li><li>PHP</li><li>Laravel</li><li>Vue.js</li><li>Vanilla JavaScript (ES6)</li><li>Webpack (Laravel Mix)</li></ol><div><br></div><div><strong>How To Apply<br></strong><br></div><div>Please only apply via this application form: https://buildstack.typeform.com/to/N6qZSZ<br><br></div><div>All applicants will receive a reply within 48 hours.<br><br></div><span>Apply now</span></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
