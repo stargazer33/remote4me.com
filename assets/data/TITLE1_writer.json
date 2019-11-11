@@ -1,26 +1,111 @@
 {
  "items": [
   {
-    "id": "5WuOG8iQSPCQ4lLyHoBX7A",
-    "url": "https://jobmote.com/job/100061/digital-a11y-expert-us-based-remote-freelance/",
-    "title": "Digital A11y Expert (US-based, remote, freelance)",
+    "id": "kR7s6lFCRSaUJar4Y1LlOQ",
+    "url": "https://remote.co/job/blogger-3/",
+    "title": "Blogger",
     "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``5N( cultur, 2N(remot, OR(work,worker)) )",
-      "DBG_TECH1:k/t/w:android/java/2",
-      "DBG_TECH1:k/t/w:android/mobile/4",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:ios/apple/6",
-      "DBG_TECH1:k/t/w:ios/mobile/6",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:macos/apple/4",
-      "DBG_TECH1:k/t/w:windows/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=10, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=10, java=2, gamedev=0, php=0, embedded=0, frontend=4}",
+      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/writer",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "COED Media Group",
+      "sameAs": "http://coedmedia.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 11, 2019 4:19:01 AM",
+    "validThrough": "Nov 18, 2019 4:19:01 AM",
+    "crawled": "Nov 11, 2019 5:07:14 AM",
+    "content": "<h3>Blogger at <span>COED Media Group</span></h3><div><span><i></i> Remote</span>         | <span> Entry-level </span> | <span> Freelance </span></div><div>            <h4><strong>Freelance Bloggers</strong></h4><ul><li>CATEGORIES: Writer (COED)</li><li>SALARY: We offer competitive per post rates commensurate with experience</li><li>LOCATION: Work from home</li></ul><h5><strong>JOB INFORMATION</strong></h5><p>We are currently broadening our editorial scope to place a renewed focus on trending web content, entertainment news/opinions, lifestyle pieces, tech/gadget/geek coverage and humor. The ideal blogger will bring an authoritative understanding of one or more of these topics, yet still be able to write with the humor and levity readers expect from a male lifestyle website.</p><p><strong>Duties include:</strong></p><ul><li>Pitch and write between 1 – 10 posts per week</li><li>Must be on the cutting edge of his or her specific field and willing to provide quick turnaround on topics that are trending</li><li>Must be able to find content and write in a style that appeals to men ages 18 – 35</li><li>Willing to foster discussion about these topics through comments and social media</li></ul><p>All positions will work closely with the editor-in-chief on a daily basis pitching ideas and occasionally receiving assignments. All positions are freelance, work from home positions.</p>        </div><div>        <a href='http://coedmedia.com/careers/freelance-bloggers' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "fzuGd95eSsGDrkpJ9hi7Ng",
+    "url": "https://remote.co/job/senior-animator-and-producer/",
+    "title": "Senior Animator and Producer",
+    "tags": [
+      "DBG:surround``3N(virtual, OR(organ,organis))",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:animation/gamedev/16",
+      "DBG_TECH1:k/t/w:classification/bigdata-ml/1",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=1, ruby=0, apple=0, java=0, gamedev=16, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/gamedev",
+      "TITLE1/writer",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "gamedev"
+    ],
+    "hiringOrganization": {
+      "name": "MoveOn.org",
+      "sameAs": "https://front.moveon.org/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 11, 2019 3:28:55 AM",
+    "validThrough": "Nov 18, 2019 3:28:55 AM",
+    "crawled": "Nov 11, 2019 4:07:24 AM",
+    "content": "<h3>Senior Animator and Producer at <span>MoveOn.org</span></h3><div><span><i></i> Remote</span>        </div><div>            <p>at MoveOn.org</p><p><strong>Anywhere in the continental U.S.</strong></p><p>FULL-TIME&nbsp;• COMPETITIVE PAY • EXCELLENT BENEFITS • WORK FROM ANYWHERE IN THE CONTINENTAL U.S.</p><p>We are looking for a Senior Animator and Producer to join MoveOn’s Creative Lab, which makes videos, graphics, GIFs, and other creative assets to advance progressive advocacy campaigns, policies, and candidates. The Senior Animator and Producer will drive content creation from start to finish—from ideation to production to distribution. This position will produce and edit videos and other visual content on both rapid response and multi-week timelines.</p><p>MoveOn is a community of millions of members working together to create progressive change in America. We organize to challenge entrenched power and push back against right-wing policies, while pursuing economic, racial, and social justice and a vision of a country in which everyone can thrive.</p><p>MoveOn has a particularly important role to play in the Trump era. We are working to defeat Donald Trump and the GOP in 2020 by building a powerful, multiracial, and economic populist movement that will give voters something to vote<em>&nbsp;for</em>, not just against—and we’re also working to defend communities that are on the front lines of Trump and GOP attacks, including immigrants, people of color, the LGBTQ community, and women. In service of that mission, in 2019, 2020, and beyond, MoveOn will drive impactful, movement-connected, multichannel, nimble campaigns aimed at impact.</p><p><strong>RESPONSIBILITIES</strong></p><ul><li>Drive content creation from start to finish-from ideation to production to distribution.</li><li>Ideation:<ul><li>Pitch ideas for production at morning editorial meetings</li><li>Stay up to date on news related to our political and policy work on a daily basis to inform pitches, scriptwriting, and overall editorial strategy</li><li>Keep an eye on visual trends and incorporate them into our work while keeping it within our brand’s look and feel</li><li>Follow changes and trends in social media, video, and motion design landscape to shape our content production and distribution strategy for maximum impact</li></ul></li><li>Production:<ul><li>Create at least one video responding quickly to current events each week and one longer-form video per month</li><li>Draft scripts</li><li>Gather and edit assets such as news footage, archival/stock footage, photos, headlines, graphics, music, and voiceover; direct videographers conducting interviews where needed</li><li>Design, create, and lead production of animation/motion graphics content, assets, and layouts for explainer videos and other products including branding templates</li><li>Work with colleagues to identify a “Call to Action” that viewers can take to pair with your product as needed</li><li>Collaborate with colleagues across the MoveOn team, incorporating their input on content and strategy</li></ul></li><li>Distribution:<ul><li>Export and upload video to platforms such as Facebook, Twitter, Instagram, and YouTube</li><li>Draft compelling “share text” copy to appropriately frame your content for social media distribution</li><li>Create and lead a promotion plan for the content you create, including identifying other groups/individuals to contact about amplifying</li><li>Use analytics tools to test and optimize your videos/other products</li><li>Archive completed videos and fill out tracking databases</li></ul></li><li>Innovate and experiment in collaboration with our analytics and social media teams to create content that’s shareable, impactful, and persuasive</li><li>Help develop and execute team processes, such as production workflows, content management, reporting out metrics, ad buying, etc.</li><li>Engage in rapid-response communication in a remote office environment using email, Slack, video conferencing, and phone</li><li>Employ effective time management to manage multi-issue campaigning and ensure a healthy work-life balance</li></ul><p><strong>REQUIRED QUALITIES AND SKILLS</strong></p><ul><li>5+ years of experience in crafting motion graphics/video/visual assets for progressive advocacy and/or electoral campaigning</li><li>5+ years’ experience in scripting, editing, and distributing digital video, especially for social media</li><li>Your portfolio demonstrates the ability to think through the design process from a strategic and creative point of view, excellent storytelling ability, and a high level of craft. You have a track record of using video editing, animation, titles, and audio to grab viewers’ attention and craft emotionally resonant narratives.</li><li>Excellent graphic design skills, including the effective use of color, composition, and typography</li><li>Advanced knowledge of Adobe After Effects, Premiere, Photoshop, and Illustrator</li><li>Knowledge of codecs, resolutions, and file formats—can pull video from multiple sources and convert it to usable formats</li><li>Demonstrated ability to deliver accurate and artistic video under tight deadlines</li><li>Ability to incorporate feedback as part of our collaborative production process</li><li>Deep understanding of and commitment to consistently developing and improving organizational equity; experience implementing equitable practices and culture, with a demonstrated track record of success in this area</li><li>Inclusive, consultative decision-making with demonstrated commitment to listening to team members and changing course when needed based on feedback</li><li>A relational colleague with high emotional intelligence and experience being emotionally supportive to staff during stressful or difficult periods; acts with high integrity, professionalism, low ego, and camaraderie</li></ul><p><strong>Reports to:</strong>&nbsp;Creative Lab Director</p><p><strong>Location:</strong>&nbsp;MoveOn is a virtual organization, and the Senior Animator and Producer can live anywhere in the United States.</p><p><strong>Classification, Salary, and Benefits</strong>: Full-time. Competitive salary including benefits such as 100%-employer-paid premiums for medical, dental, and vision insurance for all staff and their children; employer-paid premiums for life insurance for all staff; four weeks accrued paid vacation time per year; 12 weeks of paid maternity or paternity leave; 10 days accrued paid sick time; and reimbursement of home office expenses.</p>        </div><div>        <a href='https://front.moveon.org/careers/?gh_jid=1950342' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "WWsFb-SoTwa6EjrkYeb_HA",
+    "url": "https://jobmote.com/job/100922/telecommute-news-and-engagement-editor-amarillo/",
+    "title": "Telecommute News and Engagement Editor - Amarillo",
+    "tags": [
+      "DBG:surround``3W(open, telecommut)",
       "REMOTE1/50",
-      "TECH1/apple",
-      "TECH1/dotnet",
-      "TECH1/mobile",
+      "TECH1/unknown",
       "TITLE1/writer",
       "TZ/unknown"
     ],
@@ -28,12 +113,10 @@
       "50% remote"
     ],
     "tagsNames2": [
-      "apple",
-      "dotnet",
-      "mobile"
+      "unknown"
     ],
     "hiringOrganization": {
-      "name": "Applause",
+      "name": "Confidential",
       "sameAs": "UNSET"
     },
     "salary": {
@@ -47,10 +130,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Nov 9, 2019 8:07:48 PM",
-    "validThrough": "Nov 12, 2019 8:07:48 PM",
-    "crawled": "Nov 10, 2019 2:06:29 AM",
-    "content": "<div><p><strong>Summary</strong></p><p>Are you passionate about ensuring websites and applications are readily accessible to end-users utilizing assistive technologies? Are you deeply knowledgeable about the guidelines defined by 2.1, Section 508 and other accessibility standards? If you're a strong communicator with a capacity to lead or train others on accessibility including Developers, QA Engineers and existing Community Accessibility Auditors this might be the perfect role for you!</p><p><br></p><p>For immediate consideration, please complete the this survey:</p><p><strong></strong></p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Apply accessibility knowledge to a wide range of the client digital properties including but not limited to responsive websites, mobile applications, hybrids and digital documents.</li><li>Bring a depth of development and technical knowledge that complements and strengthens an already dynamic, seasoned group of accessibility professionals</li><li>Mentor, coach and oversee the work of the existing accessibility auditors team</li><li>Meet client engineering staff to understand requirements, deliverables and timelines</li><li>Attend relevant stand-ups and status meetings</li><li>Take responsibility for audits including scoping, planning, budgeting, staffing, execution to final reporting and delivery to the client.</li><li>Prepare design reviews and VPATs</li><li>Support sales to promote accessibility in sales meetings</li><li>Provide training for clients on various technical levels</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree in Computer Science, Engineering or other technical field</li><li>3+ years experience in Software Development, QA Engineering and/or performing Accessibility Audits</li><li>Extensive experience using all common screen readers (JAWS, NVDA, mac/iOS VoiceOver, TalkBack) and other assistive technology</li><li>Extensive knowledge of accessibility standards: WCAG 2.0/2.1, ADA Section 508</li><li>Extensive knowledge of WAI-ARIA and accepted accessibility patterns and best practices</li><li>Good knowledge of HTML, CSS, and JavaScript</li><li>Ability to take on an end-user perspective</li><li>Ability to analyze code and employ problem-solving skills to recommend the best solution</li><li>Ability to train, coach colleagues and clients on various accessibility topics</li><li>Ability to communicate to a wide range of project stakeholders (e. g. Executives, Managers, Designers, Developers, etc)</li><li>Knowledge of mobile accessibility best practices on Android and iOS</li><li>Availability of relevant platforms/devices, i.e. Windows, Mac, Android and iOS</li><li>Knowledge of Jira, Slack and other cooperation tools</li><li>Ability to work in remote/cross-language/cross-cultural teams</li></ul></div>",
+    "published": "Nov 10, 2019 3:21:52 PM",
+    "validThrough": "Nov 13, 2019 3:21:52 PM",
+    "crawled": "Nov 10, 2019 8:30:36 PM",
+    "content": "<div>A digital media company has a current position open for a Telecommute News and Engagement Editor.Candidates will be responsible for the following: Leading the curation of the most interesting daily business newsOverseeing weekday email editorial operationsUsing insights gleaned from studying our audience to take a leading roleApplicants must meet the following qualifications:Team happy hours and outingsExperience writing, editing, and growing the readership of email newslettersA creative, reader-first approach to storytellingA willingness to take risk and experiment to meet audience needsDemonstrated experience increasing reader engagementA proven ability to identify smart, entertaining story angles</div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -3029,101 +3112,6 @@
     "validThrough": "Sep 19, 2019 3:21:59 PM",
     "crawled": "Sep 12, 2019 4:09:20 PM",
     "content": "<h3>Content Editor- Contextual Content at <span>Ancestry.com</span></h3><div><span><i></i> Remote</span>         | <span> Freelance </span></div><div>            <p>Location Remote Category Operations</p><p><strong>About Ancestry:</strong></p><p>When you join Ancestry, you join our family tree. Backed by history, science, and technology, we’re creating a new world of connection, innovation, and understanding. Whether it’s reuniting long-lost relatives through DNA or unearthing new family stories from historical records, Ancestry empowers life-changing experiences. With over 20 billion digitized historical records, 100 million family trees, and 15+ million DNA kits sold, Ancestry is bringing the power of personal discovery to people around the world.</p><p>Ancestry seeks a Content Editor who is passionate about storytelling to join our Contextual Content team as a&nbsp;<u>contractor</u>. The Contextual Content team works to bring pioneering technology, historical records, and curated contextual content together to empower others in the telling of their story.</p><p>As Content Editor you will work closely with multiple writers in a collaborative process to edit, revise and proofread their work, developing each assignment until it is ready for publication. As part of the editorial process you will also be responsible for completing both plagiarism and fact checks for all submitted assignments. A critical element of success for this position is ensuring that the tone and style of the final product is aligned with Ancestry’s standards. This position is also responsible for managing deadlines and ensuring that the team successfully deliveries assignments on time.</p><p>This position reports to the Program Manager and will work closely with them and the Contextual Content team to ensure the quality of the final product. The ideal candidate will be a capable and effective editor with a demonstrated ability to produce high quality work under tight deadlines.</p><p><strong>This is a&nbsp;<u>contractor position</u>&nbsp;with the option to work either remotely or from the Lehi, UT location.</strong></p><p>What You’ll Do:</p><ul><li>Copyedit and proofread all assignments for the Contextual Content team and submit the finalized versions for publication.</li><li>Closely collaborate with the Contextual Content writers to revise and develop each writing assignment to completion.</li><li>Ensure each assignment follows: the style guidelines, is consistent in quality and tone, complies with department goals and values, and demonstrates audience awareness.</li><li>Complete thorough fact checks on names, dates, etc.</li><li>Conduct plagiarism checks on all submitted assignments.</li><li>Collaborate to provide ongoing training, feedback, and support to the writers; including onboarding new writers to the team.</li><li>Work closely with the Contextual Content team and Program Manager to execute the editorial calendar.</li><li>Provide status updates and reports to the Program Manager as requested.</li><li>Collaborate challenging situations to deliver positive results.</li><li>Anticipate potential problems in order to mitigate risks to timelines and stakeholder expectations.</li></ul><p>Who You Are:</p><ul><li><strong>Degree in communications, journalism, English, history or related field preferred.</strong></li><li>Minimum 2+ years professional editing/writing experience.</li><li>Experience leading/managing a group of contributors preferred.</li><li>Excellent writing and proofreading/editing skills.</li><li>Excellent written and verbal communication skills.</li><li>Demonstrated ability to interpret and implement guidelines and standards.</li><li>Demonstrated ability to adhere to a style guide and tone.</li><li>Strong internet and research skills.</li><li>Ability to manage and prioritize several tasks simultaneously.</li><li>Demonstrated self-starter with the desire and energy to achieve goals under tight deadlines.</li><li>Attention to detail and accuracy.</li><li>Ability to work independently as well as in a team setting.</li><li>Background in history or family history helpful.</li></ul><p><strong>Additional Information:</strong></p><p>Ancestry is an Equal Opportunity Employer that makes employment decisions without regard to race, color, religious creed, national origin, ancestry, sex, pregnancy, sexual orientation, gender, gender identity, gender expression, age, mental or physical disability, medical condition, military or veteran status, citizenship, marital status, genetic information, or any other characteristic protected by applicable law. In addition, Ancestry will provide reasonable accommodations for qualified individuals with disabilities.</p><p>All job offers are contingent on a background check screen that complies with applicable law. For San Francisco office candidates, pursuant to the San Francisco Fair Chance Ordinance, Ancestry will consider for employment qualified applicants with arrest and conviction records.</p><p>Ancestry is not accepting unsolicited assistance from search firms for this employment opportunity. All resumes submitted by search firms to any employee at Ancestry via-email, the Internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of Ancestry. No fee will be paid in the event the candidate is hired by Ancestry as a result of the referral or through other means</p>        </div><div>        <a href='https://careers.ancestry.com/us/en/job/ANCEUS68A2397EE0354BCC89801D5FE5D1EC79/Content-Editor-Contextual-Content-Contractor' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "BSC_gaarQF6rvUcTunr83w",
-    "url": "http://workinstartups.com/job-board/job/84320/freelance-producer-at-zappar/",
-    "title": "Freelance Producer",
-    "tags": [
-      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
-      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
-      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/nodejs",
-      "TITLE1/writer",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "frontend",
-      "nodejs"
-    ],
-    "hiringOrganization": {
-      "name": "Zappar",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 11, 2019 5:04:42 PM",
-    "validThrough": "Sep 18, 2019 5:04:42 PM",
-    "crawled": "Sep 11, 2019 6:23:06 PM",
-    "content": "<p>About Zappar:</p><br /><p>We are Zappar, an award winning AR platform and creative studio rolled into one. It's our mission to democratize AR &amp; MR. Our team have created groundbreaking experiences for the world's biggest brands - showcasing how AR technology can transform packaging, illuminate events and elevate marketing campaigns with innovative, engaging content. Our ZapWorks toolkit puts the power of AR in the hands of designers and developers, enabling them to push the boundaries of interactive creativity, both with and without code. We are also the proud creators of ZapBox, the first affordable, mixed reality kit that allows developers and businesses to reimagine how they design, build and create 3D experiences.</p><br /><p>What you&rsquo;ll be doing: We&rsquo;re looking for a driven, highly organised, can-do, cool-headed person with experience in digital, games or app production to help bring the Zappar creative magic to life as a senior producer, reporting directly to the Lead Producer. The candidate needs a good understanding of mobile technology and digital working practices and demonstrable knowledge and experience of contemporary production methodologies and software packages. They need to need to be able to proactively plan and manage an array of projects to given deadlines and budgets with multiple stakeholders and clients, while balancing the needs of the team and the wider priorities of the company. Ultimately this person will help drive the creative process behind a broad range of Zappar Powered experiences and campaigns by speaking up and championing great ideas and the quality of the finished product. Be prepared to push the boundaries in a rapidly evolving digital-driven environment.</p><br /><p>A few things about you: Extensive client-facing production or project management experience, working with big brands, across multiple projects with varied assets The softer skills of account management and working in partnership with clients to get the best results Proven track record of delivering projects on time, within budget and to the client&rsquo;s ultimate satisfaction You can deliver results and have a can-do attitude when it comes to hitting milestones and meeting deadlines Strong leadership, communication and interpersonal skills, and can thrive working in a creative and dynamic environment Able to cherry-pick from a variety of project management methodologies to negotiate a varied schedule Ability to work with and inspire creative resources, whether internal or external Highly organised and love to craft efficiencies to further streamline processes Ability to work with a variety of stakeholders, internal and external A good understanding of standard software packages within the creative production process, including Photoshop, Illustrator, and the 3D asset creation pipeline A keen interest in digital products generally (specifically smartphone) The ability to self-start and lead by example Excellent communication and interpersonal skills A passion for detail and pride in delivering a high-quality end product</p><br /><p>Other than the exciting work, any other pluses to working at Zappar? Our Zappar family are based in a lovely (dog-friendly!) office in beautiful leafy Chiswick complete with shower facilities, bike storage and surrounded by some amazing shops, coffee shops and pubs. We operate flexible start and finish times to make life a bit easier for anyone who wants to spend time with their children, join an exercise class or just have a lie in! Every Friday, we have drinks and we also host a monthly Friday breakfast and a quarterly team lunch where we all get together for updates on the company performance. Our socials have included tours of the Sipsmith&rsquo;s distillery and a team scavenger hunt across London. We truly are at the cutting edge of AR and have just been recognized as one of Fast Company&rsquo;s &lsquo;World&rsquo;s Most Innovative Companies&rsquo;.</p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "hZUBiGoYTOaJVoAA51lbDA",
-    "url": "https://remote.co/job/writer-56/",
-    "title": "Writer",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "REMOTE1/100",
-      "TECH1/unknown",
-      "TITLE1/writer",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "unknown"
-    ],
-    "hiringOrganization": {
-      "name": "Vox Media",
-      "sameAs": "https://www.voxmedia.com/"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 11, 2019 4:19:14 PM",
-    "validThrough": "Sep 18, 2019 4:19:14 PM",
-    "crawled": "Sep 11, 2019 5:07:17 PM",
-    "content": "<h3>Writer at <span>Vox Media</span></h3><div><span><i></i> Remote</span>         | <span> Freelance </span></div><div>            <p><strong>Location: Remote</strong></p><p>Vox Media contributors thrive on innovation and change while ambitiously seeking to master their subject areas, hone their craft, and improve their communities. We help smart, talented, creative professionals make a meaningful impact in media, technology and the world around them. The Vox Media house of brands includes industry-leading media forces like SB Nation, Eater, The Verge, Vox, Curbed, Recode, Racked and Polygon, and reaches an audience of hundreds of millions, generating over a billion content views each month.</p><p>Vox Media’s SB Nation is the fastest-growing online sports media brand and the largest network of more than 300 individual fan-centric sports communities, including SBNation.com, our national flagship property. Our network is powered by the most respected web-native sports journalists. One part of our network needs new voices, and that’s where you come in.</p><p><strong>Purple Row</strong>, the SB Nation blog covering the Colorado Rockies, is hiring a writer. The writer will be responsible for one to two Rockpile posts per week on an agreed upon schedule. Previous experience writing about baseball is not required.</p><p>Rockpiles are daily posts that are scheduled to publish at 6 a.m. MT every day and include a handful of relevant Rockies, Rockies minor league, and baseball links, mostly from the day preceding the Rockpiles’ publication. Rockpiles are conversation starters in the guise of a collection of links. They anchor the daily conversation at Purple Row, and they are vital to the community.</p><p>While Rockpile writing is the primary responsibility, new staffers can take advantage of Purple Row’s platform, editing capacity, and community of thinkers in common to write any other Rockies-related blog posts.</p><p><strong>Our best candidates will:</strong></p><ul><li>Be knowledgeable about the Rockies and will follow the Rockies closely.</li><li>Follow Rockies media closely.</li><li>Be able to concisely summarize text.</li><li>Be able to comment on text in an engaging manner.</li><li>Be able to communicate with the Purple Row team via Slack.</li><li>Be a self-starter who can work with minimal direction.</li><li>Possess solid communication skills.</li><li><strong>Be comfortable working in a virtual environment.</strong></li></ul><p><strong>This is a remote contractor position that pays a monthly stipend</strong>. Some daytime availability is preferred. To apply, submit a resume detailing any previous writing experience, a cover letter explaining why you want to write about the Rockies, and a writing sample. You must submit all three items to be considered for this opportunity.</p><p><strong>Vox Media is committed to building an inclusive environment for people of all backgrounds. If your experience and qualifications do not exactly align with what we’re looking for, but you believe you can thrive in this role, we encourage you to apply. </strong>Vox Media is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law.</p>        </div><div>        <a href='http://boards.greenhouse.io/voxmedia/jobs/1863597?gh_jid=1863597' rel='nofollow'>Apply for job</a>    </div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
