@@ -1,6 +1,920 @@
 {
  "items": [
   {
+    "id": "GQoYLTaxSZ25unDo-sVPNQ",
+    "url": "https://weworkremotely.com/remote-jobs/density-inc-data-engineer",
+    "title": "Density Inc.: Data Engineer",
+    "tags": [
+      "DBG:surround``5N( cultur, 2N(remot, OR(work,worker)) )",
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=20, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Density Inc.",
+      "sameAs": "https://www.density.io/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 14, 2019 5:47:47 PM",
+    "validThrough": "Nov 21, 2019 5:47:47 PM",
+    "crawled": "Nov 14, 2019 6:23:16 PM",
+    "content": "<h3> Data Engineer </h3><div><div><strong>To our future Data Engineer</strong></div><div><br></div><div>At <a href='http://density.io/' rel='nofollow'>Density</a>, we build one of the most advanced people sensing systems in the world. The product and infrastructure is nuanced and one-of-a-kind. Building this product for scale has been an exercise in patience, creativity, remarkable engineering, laser physics, global logistics, and grit. The team is thoughtful, driven, and world-class.</div><div><br></div><div><br></div><div><strong>Why this is an important role</strong></div><div><br></div><div>Last week our deployed <a href='https://www.density.io/people-counter-sensor/' rel='nofollow'>DPUs</a> detected a million humans walking through doors. A number that increases every week.</div><div><br></div><div>As engineers, we think it's pretty cool to be capturing events at this volume. Especially when it's done anonymously, accurately, and in real-time. Our customers, however, are interested in what happens <em>after</em> these events enter our system.</div><div><br></div><div>Density is deployed globally, servicing a variety of use cases, by some of the largest companies in the world. Here are just a few examples. A leading cloud storage company is using Density to strengthen their physical security by detecting unauthorized access. A marquee hotel brand is using Density to measure lounge occupancy and dynamically deliver world-class service. An international telecom is using Density to better design and optimize their real estate portfolio.</div><div><br></div><div>These use cases may seem disparate, but a common thread holds them together. They all share the need for real-time and ongoing data analysis. And that's where you come in.</div><div><br></div><div>Our systems must efficiently and reliably:</div><div><br></div><div>- Update current counts and analytics whenever a relevant event occurs, for every impacted space,</div><div>- Publish the information to low-latency receivers via webhooks and websockets,</div><div>- Alert and notify as appropriate through SMS, email, and push notifications, and</div><div>- Aggregate events into analytics used for dashboards, forecasts, and fleet management.</div><div><br></div><div>Turning millions of events into actionable insight is a nuanced dance. Are you up for the job?</div><div><br></div><div>This role reports to our Director of Engineering.</div><div><strong><br>What you'll work on</strong></div><ul><li>Scale event ingestion pipelines requiring high availability and real-time data processing/delivery.</li><li>Store, optimize, and deliver analytical data via a RESTful API.</li><li>Backend development on internal and customer facing projects, utilizing Python, Django, and NodeJS.</li><li>Refine APIs and data delivery mechanisms for applications such as web dashboards, alerting &amp; health systems, mobile applications, and third party integrations</li><li>Work closely with DevOps to monitor inefficiencies and improve infrastructure</li><li>React to customer needs and feedback through tight-looped, iterative development</li><li>Contribute to open source initiatives</li><li>Document and teach best practices across our stack</li></ul><div><strong>What we're looking for</strong></div><ul><li>5+ years industry experience building and scaling web applications and APIs</li><li>Deep experience with stream processing systems (i.e. Kafka)</li><li>Experience writing ETL pipelines on a cloud infrastructure (AWS)</li><li>Deep experience with Python, Django / DRF, and Postgres</li><li>Experience building data-centric applications, including analytics pipelines, report generation systems, and alerting &amp; health systems</li><li>An understanding and appreciation for application performance monitoring and profiling tools</li><li>A desire to define, document, and teach web engineering standards</li><li>Strong writing skills, especially with crafting clear and concise documentation</li><li>A motivation for constant learning</li></ul><div><strong>Icing on the cake</strong></div><ul><li>Experience with statistical analysis and trend data modeling</li><li>A deep appreciation for design</li><li>A strange obsession with counting people (or what you can do with the resultant data)</li></ul><div>While we have offices in Syracuse (NY), San Francisco, and NYC, we embrace and have built a culture around remote work.</div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "PtssmMV-QDeWr5gRk8qiew",
+    "url": "https://jobmote.com/job/101269/remote-python-developer/",
+    "title": "Remote Python Developer",
+    "tags": [
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/39",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=51, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Rise Technical Recruitment Limited",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 8:07:50 PM",
+    "validThrough": "Nov 16, 2019 8:07:50 PM",
+    "crawled": "Nov 14, 2019 2:06:31 AM",
+    "content": "<div><p>Remote Python Developer<br>£45,000 - £50,000 <br>Remote working, from home</p> <p>Are you looking to be part of a small team of experts creating brand new in-house software to revolutionise the internal systems of a global company? Great opportunity for a Python Developer to work from home.</p> <p>This is an excellent time to join at the start of a huge project, working in a collaborative team in a company that looks after their people and provides exceptional training opportunities.</p> <p>The company provide the latest IT solutions to a global customer base from small to multi-national companies! They are constantly innovating with their in-house platforms to maximise their efficiency and drive the business.</p> <p>This would suit someone looking to get into an innovative and fast moving company in a milestone project at the very start! You will utilise your Python skills in a CI/CD deployment environment on Linux in cloud based platform.</p> <p>The Role: <br>- Develop cutting edge software systems in Python <br>- Improve internal software to become more efficient and streamlined<br>- Take training to develop your skills and take more responsibility<br>- Input ideas to shape company software going forward</p> <p>The Person:<br>- Experience in developing software in Python<br>- Ideally experienced in CI/CD environment<br>- Wanting to produce in house systems software<br>- Getting into financial transaction software, learning networking and network protocols</p> <p>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "qGGMjZzhR9GiBOK37KFDng",
+    "url": "https://jobmote.com/job/101263/remote-python-developer/",
+    "title": "Remote Python Developer",
+    "tags": [
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/39",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=51, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Rise Technical Recruitment Limited",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 8:07:50 PM",
+    "validThrough": "Nov 16, 2019 8:07:50 PM",
+    "crawled": "Nov 14, 2019 2:06:31 AM",
+    "content": "<div><p>Remote Python Developer<br>£45,000 - £50,000 <br>Remote working, from home</p> <p>Are you looking to be part of a small team of experts creating brand new in-house software to revolutionise the internal systems of a global company? Great opportunity for a Python Developer to work from home.</p> <p>This is an excellent time to join at the start of a huge project, working in a collaborative team in a company that looks after their people and provides exceptional training opportunities.</p> <p>The company provide the latest IT solutions to a global customer base from small to multi-national companies! They are constantly innovating with their in-house platforms to maximise their efficiency and drive the business.</p> <p>This would suit someone looking to get into an innovative and fast moving company in a milestone project at the very start! You will utilise your Python skills in a CI/CD deployment environment on Linux in cloud based platform.</p> <p>The Role: <br>- Develop cutting edge software systems in Python <br>- Improve internal software to become more efficient and streamlined<br>- Take training to develop your skills and take more responsibility<br>- Input ideas to shape company software going forward</p> <p>The Person:<br>- Experience in developing software in Python<br>- Ideally experienced in CI/CD environment<br>- Wanting to produce in house systems software<br>- Getting into financial transaction software, learning networking and network protocols</p> <p>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "5PmA2YOTSpummO4Gn577mg",
+    "url": "https://jobmote.com/job/101256/remote-senior-python-developer/",
+    "title": "Remote Senior Python Developer",
+    "tags": [
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/65",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=77, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Rise Technical Recruitment Limited",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 8:07:48 PM",
+    "validThrough": "Nov 16, 2019 8:07:48 PM",
+    "crawled": "Nov 14, 2019 2:06:31 AM",
+    "content": "<div><p>Python Developer (Web)<br>£50,000 - £60,000 + 33 days holiday + medical + dental + pension<br>Remote working from home</p> <p>Are you a Python Developer looking to work from home as part of a team developing cutting edge software for a global company investing in the latest and greatest technology?</p> <p>This is an excellent time to join as a senior developer and be involved in the big technical decisions in a revolutionary piece of software. This will be a web based software with cloud technology and will be utilised by customers worldwide. </p> <p>The company have an excellent reputation for providing continuous technical progression and development, they have created a positive and collaborative environment to work in. As they continue to innovate and bring new technology to their customers there are opportunities to get involved in exciting new projects. </p> <p>This would suit an experienced Python Developer looking for a home based role as a senior developer in a small team. If you are looking to innovate and have lots of creative input into big software projects this is the job for you. </p> <p>The Role:<br>- Develop software features and functions in Python<br>- Industry first, complex web based software for customers<br>- Working with Linux container and cloud technology<br>- CI / CD environment<br>- Work as a senior developer within a small project team</p> <p>The Person: <br>- Experienced Python Developer<br>- Knowledge of Linux<br>- Looking for a challenging and innovative software role</p> <p>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "hxdBYZcfTlOOiG3gXEWnXA",
+    "url": "https://jobmote.com/job/101251/remote-senior-python-developer/",
+    "title": "Remote Senior Python Developer",
+    "tags": [
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/65",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=77, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Rise Technical Recruitment Limited",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 8:07:48 PM",
+    "validThrough": "Nov 16, 2019 8:07:48 PM",
+    "crawled": "Nov 14, 2019 2:06:31 AM",
+    "content": "<div><p>Python Developer (Web)<br>£50,000 - £60,000 + 33 days holiday + medical + dental + pension<br>Remote working from home</p> <p>Are you a Python Developer looking to work from home as part of a team developing cutting edge software for a global company investing in the latest and greatest technology?</p> <p>This is an excellent time to join as a senior developer and be involved in the big technical decisions in a revolutionary piece of software. This will be a web based software with cloud technology and will be utilised by customers worldwide.</p> <p>The company have an excellent reputation for providing continuous technical progression and development, they have created a positive and collaborative environment to work in. As they continue to innovate and bring new technology to their customers there are opportunities to get involved in exciting new projects.</p> <p>This would suit an experienced Python Developer looking for a home based role as a senior developer in a small team. If you are looking to innovate and have lots of creative input into big software projects this is the job for you.</p> <p>The Role:<br>- Develop software features and functions in Python<br>- Industry first, complex web based software for customers<br>- Working with Linux container and cloud technology<br>- CI / CD environment<br>- Work as a senior developer within a small project team</p> <p>The Person: <br>- Experienced Python Developer<br>- Knowledge of Linux<br>- Looking for a challenging and innovative software role</p> <p>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "OwugNlTJSriN6VXE9viw2Q",
+    "url": "https://jobmote.com/job/101250/remote-senior-python-developer/",
+    "title": "Remote Senior Python Developer",
+    "tags": [
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/65",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=77, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Rise Technical Recruitment Limited",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 8:07:48 PM",
+    "validThrough": "Nov 16, 2019 8:07:48 PM",
+    "crawled": "Nov 14, 2019 2:06:31 AM",
+    "content": "<div><p>Python Developer (Web)<br>£50,000 - £60,000 + 33 days holiday + medical + dental + pension<br>Remote working from home</p> <p>Are you a Python Developer looking to work from home as part of a team developing cutting edge software for a global company investing in the latest and greatest technology?</p> <p>This is an excellent time to join as a senior developer and be involved in the big technical decisions in a revolutionary piece of software. This will be a web based software with cloud technology and will be utilised by customers worldwide.</p> <p>The company have an excellent reputation for providing continuous technical progression and development, they have created a positive and collaborative environment to work in. As they continue to innovate and bring new technology to their customers there are opportunities to get involved in exciting new projects.</p> <p>This would suit an experienced Python Developer looking for a home based role as a senior developer in a small team. If you are looking to innovate and have lots of creative input into big software projects this is the job for you.</p> <p>The Role:<br>- Develop software features and functions in Python<br>- Industry first, complex web based software for customers<br>- Working with Linux container and cloud technology<br>- CI / CD environment<br>- Work as a senior developer within a small project team</p> <p>The Person: <br>- Experienced Python Developer<br>- Knowledge of Linux<br>- Looking for a challenging and innovative software role</p> <p>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "n8EHKRhiSDy60rPQsbr6Ug",
+    "url": "https://jobmote.com/job/101245/remote-python-developer/",
+    "title": "Remote Python Developer",
+    "tags": [
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/39",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=51, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Rise Technical Recruitment Limited",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 8:07:48 PM",
+    "validThrough": "Nov 16, 2019 8:07:48 PM",
+    "crawled": "Nov 14, 2019 2:06:31 AM",
+    "content": "<div><p>Remote Python Developer<br>£45,000 - £50,000 <br>Remote working, from home</p> <p>Are you looking to be part of a small team of experts creating brand new in-house software to revolutionise the internal systems of a global company? Great opportunity for a Python Developer to work from home.</p> <p>This is an excellent time to join at the start of a huge project, working in a collaborative team in a company that looks after their people and provides exceptional training opportunities.</p> <p>The company provide the latest IT solutions to a global customer base from small to multi-national companies! They are constantly innovating with their in-house platforms to maximise their efficiency and drive the business.</p> <p>This would suit someone looking to get into an innovative and fast moving company in a milestone project at the very start! You will utilise your Python skills in a CI/CD deployment environment on Linux in cloud based platform.</p> <p>The Role: <br>- Develop cutting edge software systems in Python <br>- Improve internal software to become more efficient and streamlined<br>- Take training to develop your skills and take more responsibility<br>- Input ideas to shape company software going forward</p> <p>The Person:<br>- Experience in developing software in Python<br>- Ideally experienced in CI/CD environment<br>- Wanting to produce in house systems software<br>- Getting into financial transaction software, learning networking and network protocols</p> <p>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ctlTCoStTaO3UZqcjHZ_Gw",
+    "url": "https://remoteok.io/jobs/76215",
+    "title": "Data Engineer",
+    "tags": [
+      "DBG:surround``5N( cultur, 2N(remot, OR(work,worker)) )",
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=20, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Density",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 11:25:41 PM",
+    "validThrough": "Nov 20, 2019 11:25:41 PM",
+    "crawled": "Nov 13, 2019 11:30:38 PM",
+    "content": "<span></span> <span><h4>Density</h4></span> <br> <h3>Data Engineer</h3> <div>  <div>   \\nTo our future Data Engineer\\n\\nAt&nbsp;Density, we build one of the most advanced people sensing systems in the world. The product and infrastructure is nuanced and one-of-a-kind. Building this product for scale has been an exercise in patience, creativity, remarkable engineering, laser physics, global logistics, and grit. The team is thoughtful, driven, and world-class.\\n\\nWhy this is an important role\\n\\nLast week our deployed&nbsp;DPUs&nbsp;detected a million humans walking through doors. A number that increases every week.\\n\\nAs engineers, we think it's pretty cool to be capturing events at this volume. Especially when it's done anonymously, accurately, and in real-time. Our customers, however, are interested in what happens&nbsp;after&nbsp;these events enter our system.\\n\\nDensity is deployed globally, servicing a variety of use cases, by some of the largest companies in the world. Here are just a few examples. A leading cloud storage company is using Density to strengthen their physical security by detecting unauthorized access. A marquee hotel brand is using Density to measure lounge occupancy and dynamically deliver world-class service. An international telecom is using Density to better design and optimize their real estate portfolio.\\n\\nThese use cases may seem disparate, but a common thread holds them together. They all share the need for real-time and ongoing data analysis. And that's where you come in.\\n\\nOur systems must efficiently and reliably:\\n\\n- Update current counts and analytics whenever a relevant event occurs, for every impacted space, \\n- Publish the information to low-latency receivers via webhooks and websockets, \\n- Alert and notify as appropriate through SMS, email, and push notifications, and \\n- Aggregate events into analytics used for dashboards, forecasts, and fleet management.\\n\\nTurning millions of events into actionable insight is a nuanced dance. Are you up for the job?\\n\\nWhat you'll work on\\n\\n\\n* Scale event ingestion pipelines requiring high availability and real-time data processing/delivery.\\n\\n* Store, optimize, and deliver analytical data via a RESTful API.\\n\\n* Backend development on internal and customer facing projects, utilizing Python, Django, and NodeJS.\\n\\n* Refine APIs and data delivery mechanisms for applications such as web dashboards, alerting &amp; health systems, mobile applications, and third party integrations\\n\\n* Work closely with DevOps to monitor inefficiencies and improve infrastructure\\n\\n* React to customer needs and feedback through tight-looped, iterative development\\n\\n* Contribute to open source initiatives\\n\\n* Document and teach best practices across our stack\\n\\n\\n\\n\\nWhat we're looking for\\n\\n\\n* 5+ years industry experience building and scaling web applications and APIs\\n\\n* Deep experience with stream processing systems (i.e. Kafka)\\n\\n* Experience writing ETL pipelines on a cloud infrastructure (AWS)\\n\\n* Deep experience with Python, Django / DRF, and Postgres\\n\\n* Experience building data-centric applications, including analytics pipelines, report generation systems, and alerting &amp; health systems\\n\\n* An understanding and appreciation for application performance monitoring and profiling tools\\n\\n* A desire to define, document, and teach web engineering standards\\n\\n* Strong writing skills, especially with crafting clear and concise documentation\\n\\n* A motivation for constant learning\\n\\n\\n\\n\\nIcing on the cake\\n\\n\\n* Experience with statistical analysis and trend data modeling\\n\\n* A deep appreciation for design\\n\\n* A strange obsession with counting people (or what you can do with the resultant data)\\n\\n\\n\\n\\nWhile we have offices in Syracuse (NY), San Francisco, and NYC, we embrace and have built a culture around remote work.  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "t6hYhueKT5qmZ8fDi_g0_w",
+    "url": "https://stackoverflow.com/jobs/316105/data-engineer-density?a=1I0JpooRDSHC&so_medium=Talent&so_source=TalentApi",
+    "title": "Data Engineer at Density  ",
+    "tags": [
+      "DBG:surround``5N( cultur, 2N(remot, OR(work,worker)) )",
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:django/python/24",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=30, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=16}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Density",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 10:30:32 PM",
+    "validThrough": "Nov 20, 2019 10:30:32 PM",
+    "crawled": "Nov 13, 2019 10:30:33 PM",
+    "content": "<h3><span>Data Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Industry: </span>                                        <span>Data &amp; Analytics, Hardware Engineering, Software Development / Engineering</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Density | No office location<br></div><h4>Technologies</h4><div></div><div>python</div><div>django</div><div>reactjs</div>                <h4>Job description</h4>                <div><p><strong>To our future Data Engineer</strong></p><p>At&nbsp;<a href='http://density.io/' rel='nofollow'>Density</a>, we build one of the most advanced people sensing systems in the world. The product and infrastructure is nuanced and one-of-a-kind. Building this product for scale has been an exercise in patience, creativity, remarkable engineering, laser physics, global logistics, and grit. The team is thoughtful, driven, and world-class.</p><p><strong>Why this is an important role</strong></p><p>Last week our deployed&nbsp;<a href='https://www.density.io/people-counter-sensor/' rel='nofollow'>DPUs</a>&nbsp;detected a million humans walking through doors. A number that increases every week.</p><p>As engineers, we think it's pretty cool to be capturing events at this volume. Especially when it's done anonymously, accurately, and in real-time. Our customers, however, are interested in what happens&nbsp;<em>after</em>&nbsp;these events enter our system.</p><p>Density is deployed globally, servicing a variety of use cases, by some of the largest companies in the world. Here are just a few examples. A leading cloud storage company is using Density to strengthen their physical security by detecting unauthorized access. A marquee hotel brand is using Density to measure lounge occupancy and dynamically deliver world-class service. An international telecom is using Density to better design and optimize their real estate portfolio.</p><p>These use cases may seem disparate, but a common thread holds them together. They all share the need for real-time and ongoing data analysis. And that's where you come in.</p><p>Our systems must efficiently and reliably:</p><p>- Update current counts and analytics whenever a relevant event occurs, for every impacted space, <br>- Publish the information to low-latency receivers via webhooks and websockets, <br>- Alert and notify as appropriate through SMS, email, and push notifications, and <br>- Aggregate events into analytics used for dashboards, forecasts, and fleet management.</p><p>Turning millions of events into actionable insight is a nuanced dance. Are you up for the job?</p><p><strong>What you'll work on</strong></p><ul><li>Scale event ingestion pipelines requiring high availability and real-time data processing/delivery.</li><li>Store, optimize, and deliver analytical data via a RESTful API.</li><li>Backend development on internal and customer facing projects, utilizing Python, Django, and NodeJS.</li><li>Refine APIs and data delivery mechanisms for applications such as web dashboards, alerting &amp; health systems, mobile applications, and third party integrations</li><li>Work closely with DevOps to monitor inefficiencies and improve infrastructure</li><li>React to customer needs and feedback through tight-looped, iterative development</li><li>Contribute to open source initiatives</li><li>Document and teach best practices across our stack</li></ul><p><strong>What we're looking for</strong></p><ul><li>5+ years industry experience building and scaling web applications and APIs</li><li>Deep experience with stream processing systems (i.e. Kafka)</li><li>Experience writing ETL pipelines on a cloud infrastructure (AWS)</li><li>Deep experience with Python, Django / DRF, and Postgres</li><li>Experience building data-centric applications, including analytics pipelines, report generation systems, and alerting &amp; health systems</li><li>An understanding and appreciation for application performance monitoring and profiling tools</li><li>A desire to define, document, and teach web engineering standards</li><li>Strong writing skills, especially with crafting clear and concise documentation</li><li>A motivation for constant learning</li></ul><p><strong>Icing on the cake</strong></p><ul><li>Experience with statistical analysis and trend data modeling</li><li>A deep appreciation for design</li><li>A strange obsession with counting people (or what you can do with the resultant data)</li></ul><p>While we have offices in Syracuse (NY), San Francisco, and NYC, we embrace and have built a culture around remote work.</p>                </div>            <div>        <a href='https://jobs.lever.co/density/5ef99a03-2c9a-4fc2-9752-5c4e3c973762/apply?lever-source=stackoverflow' rel='nofollow'>                        Apply now        </a></div>            <h4>About Density</h4>            <div><p>At Density, we build a small sensor that measures how busy a location is in realtime. Customers mount the unit above a doorway, connect it to power and WiFi, and use our API to access how many people have visited.</p><p>When we announced what we were doing last summer, we hoped tech companies and developers would reach out. They did. But so too did hundreds of others from all around the world and in completely different markets. Some with expansive, two-thousand-location networks, others asking for a few hundred, and many with just one set of doors they deeply cared about: SMBs, Fortune 500s, startups, airlines, ad agencies, schools, hospitals, transit systems, and many many more.</p><p>We’ve since come to believe that the challenge of “human load balancing” is fundamental, fascinating, and global.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>15 days PTO + 10 Company Holidays</span>                            </li>                            <li>                                <span></span>                                <span>Health, Vision, and Dental insurance</span>                            </li>                            <li>                                <span></span>                                <span>401k and/or stock options</span>                            </li>                            <li>                                <span></span>                                <span>Paid parental leave</span>                            </li>                            <li>                                <span></span>                                <span>The proper gear</span>                            </li>                            <li>                                <span></span>                                <span>An awesome team</span>                            </li>                            <li>                                <span></span>                                <span>Commuter Benefit Program</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "OeHx8XJbQqGwU7OCPWYwSw",
+    "url": "https://jobmote.com/job/101235/technical-curriculum-developer-remote-mountain-view/",
+    "title": "Technical Curriculum Developer - Remote - Mountain View",
+    "tags": [
+      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:k/t/w:spring/java/8",
+      "DBG_TECH1:techWeightMap:{python=10, other=5, dotnet=5, c=7, mobile=1, go=3, nodejs=14, bigdata-ml=0, ruby=0, apple=0, java=10, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/nodejs",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java",
+      "nodejs",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "VIOLA",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 12, 2019 8:07:50 PM",
+    "validThrough": "Nov 15, 2019 8:07:50 PM",
+    "crawled": "Nov 13, 2019 2:06:32 AM",
+    "content": "<div>We're looking for an engineer interested in helping us build the best database education program on the planet.<br>Our ideal candidate is asoftware developer who also loves to teach.<br>You've built some non-trivial database-backed applications.<br>But you also have a passion for explaining technical concepts in just the right way.At Redis Labs, we believe that education is a creative engineering function.<br>So in this role, you'll get to leverage both sides of your brain.<br>You'll design courses to help people get the most out of Redis.<br>You'll further engineer and improve our education platform.<br>You'll also become a veritable Redis expert.This is a unique role because it combines teaching and software engineering.<br>When applying, please let us know in a few words why you'd be a good fit.<br>Polymath developer? Technology geek?<br>Hacker who loves to speak and write? If any of these descriptions fits, then we'd love to hear from you!ResponsibilitiesBuild course content: scripts, sample code, labs, quizzes, and homeworkDevelop sample applications using a variety of programming languagesLearn about new product features and teaching methods, collaborating with the Redis Labs engineering team to create accurate, engaging, in-depth educational materialExtend our Open edX platform to support new course requirements and to enhance student learningPresent the courses you develop on cameraMaintain existing Redis University coursesRequirementsB.S.<br>in Computer Science, or equivalent experience in a software or technology-related field.<br>Aptitude and attitude are more important than credentials.Demonstrated experience in at least two of the following areas: teaching, technical curriculum development, public speaking, technical writing.Solid understanding of the Python programming language.<br>Knowledge of at least one other programming language is a big plus (e.g., C, C#, Go, Java, Javascript, Rust)Experience using a SQL or NoSQL database in production.<br>Knowledge of Redis is a plus, but not required.Experience with of one or more development frameworks (e.g., Spring, Django, Tornado, Gin, Node.js, etc.<br>)Calm, friendly, and deliberate presentational skills - you'll be an on-screen presenter!Excellent engineering skills to manage complex production schedules and their dependenciesTravel to our Mountain View, CA office, up to 25% of your timeAuthorization to work in the U.S. is a precondition of employment for this position.<br>Redis Labs will not sponsor applicants for work visas in connection with this position.We have been named one of the &quot;Best Places to Work in the Bay Area&quot; and ranked the fastest growing Enterprise Software company in Silicon Valley.<br>We offer a competitive compensation package; an employee stock program; medical, dental and vision coverage; unlimited PTO, 401K and more.<br>For more info visit: As an equal opportunity employer, Redis Labs Inc. is committed to a diverse workforce.<br>Employment decisions regarding recruitment and selection will be made without discrimination based on race, color, religion, national origin, gender, age, sexual orientation, physical or mental disability, genetic information or characteristic, gender identity and expression, veteran status, or other non-job related characteristics or other prohibited grounds specified in applicable federal, state and local laws.<br>It is also our policy to comply with all applicable federal, state and local laws respecting consideration of unemployment status in making hiring decisions.<br>For more information about equal employment opportunity protections, please view the 'EEO is the Law' poster.To ensure reasonable accommodation are provided to individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans' Readjustment Act of 1974, and Title I of the Americans with Disabilities Act of 1990, applicants who require accommodation in the job application process may contact or for assistance.PandoLogic. Category: , Keywords: Instructional Coordinator</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "GkomlyUITeiwSNUcTj5vtw",
+    "url": "https://jobmote.com/job/101229/remote-python-developer/",
+    "title": "Remote Python Developer",
+    "tags": [
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/39",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=51, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Anonymous",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 12, 2019 8:07:49 PM",
+    "validThrough": "Nov 15, 2019 8:07:49 PM",
+    "crawled": "Nov 13, 2019 2:06:32 AM",
+    "content": "<div>Remote Python Developer<br>£45,000 - £50,000 <br>Remote working, from home<br><br>Are you looking to be part of a small team of experts creating brand new in-house software to revolutionise the internal systems of a global company? Great opportunity for a Python Developer to work from home.<br><br>This is an excellent time to join at the start of a huge project, working in a collaborative team in a company that looks after their people and provides exceptional training opportunities.<br><br>The company provide the latest IT solutions to a global customer base from small to multi-national companies! They are constantly innovating with their in-house platforms to maximise their efficiency and drive the business.<br><br>This would suit someone looking to get into an innovative and fast moving company in a milestone project at the very start! You will utilise your Python skills in a CI/CD deployment environment on Linux in cloud based platform.<br><br>The Role: <br>- Develop cutting edge software systems in Python <br>- Improve internal software to become more efficient and streamlined<br>- Take training to develop your skills and take more responsibility<br>- Input ideas to shape company software going forward<br><br>The Person:<br>- Experience in developing software in Python<br>- Ideally experienced in CI/CD environment<br>- Wanting to produce in house systems software<br>- Getting into financial transaction software, learning networking and network protocols<br><br>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "XJXcw_CzRpKYslXlci9v3g",
+    "url": "https://jobmote.com/job/101228/remote-python-developer/",
+    "title": "Remote Python Developer",
+    "tags": [
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/39",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=51, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Anonymous",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 12, 2019 8:07:49 PM",
+    "validThrough": "Nov 15, 2019 8:07:49 PM",
+    "crawled": "Nov 13, 2019 2:06:32 AM",
+    "content": "<div>Remote Python Developer<br>£45,000 - £50,000 <br>Remote working, from home<br><br>Are you looking to be part of a small team of experts creating brand new in-house software to revolutionise the internal systems of a global company? Great opportunity for a Python Developer to work from home.<br><br>This is an excellent time to join at the start of a huge project, working in a collaborative team in a company that looks after their people and provides exceptional training opportunities.<br><br>The company provide the latest IT solutions to a global customer base from small to multi-national companies! They are constantly innovating with their in-house platforms to maximise their efficiency and drive the business.<br><br>This would suit someone looking to get into an innovative and fast moving company in a milestone project at the very start! You will utilise your Python skills in a CI/CD deployment environment on Linux in cloud based platform.<br><br>The Role: <br>- Develop cutting edge software systems in Python <br>- Improve internal software to become more efficient and streamlined<br>- Take training to develop your skills and take more responsibility<br>- Input ideas to shape company software going forward<br><br>The Person:<br>- Experience in developing software in Python<br>- Ideally experienced in CI/CD environment<br>- Wanting to produce in house systems software<br>- Getting into financial transaction software, learning networking and network protocols<br><br>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "j4KnYiWhQv-k2jjebJuPAg",
+    "url": "https://jobmote.com/job/101227/remote-senior-python-developer/",
+    "title": "Remote Senior Python Developer",
+    "tags": [
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/65",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=77, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Anonymous",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 12, 2019 8:07:49 PM",
+    "validThrough": "Nov 15, 2019 8:07:49 PM",
+    "crawled": "Nov 13, 2019 2:06:32 AM",
+    "content": "<div>Python Developer (Web)<br>£50,000 - £60,000 + 33 days holiday + medical + dental + pension<br>Remote working from home<br><br>Are you a Python Developer looking to work from home as part of a team developing cutting edge software for a global company investing in the latest and greatest technology?<br><br>This is an excellent time to join as a senior developer and be involved in the big technical decisions in a revolutionary piece of software. This will be a web based software with cloud technology and will be utilised by customers worldwide. <br><br>The company have an excellent reputation for providing continuous technical progression and development, they have created a positive and collaborative environment to work in. As they continue to innovate and bring new technology to their customers there are opportunities to get involved in exciting new projects. <br><br>This would suit an experienced Python Developer looking for a home based role as a senior developer in a small team. If you are looking to innovate and have lots of creative input into big software projects this is the job for you. <br><br>The Role:<br>- Develop software features and functions in Python<br>- Industry first, complex web based software for customers<br>- Working with Linux container and cloud technology<br>- CI / CD environment<br>- Work as a senior developer within a small project team<br><br>The Person: <br>- Experienced Python Developer<br>- Knowledge of Linux<br>- Looking for a challenging and innovative software role<br><br>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "6ZK3eWJ2Q76tzlaorTwZzw",
+    "url": "https://jobmote.com/job/101226/remote-senior-python-developer/",
+    "title": "Remote Senior Python Developer",
+    "tags": [
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/65",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=77, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Anonymous",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 12, 2019 8:07:49 PM",
+    "validThrough": "Nov 15, 2019 8:07:49 PM",
+    "crawled": "Nov 13, 2019 2:06:32 AM",
+    "content": "<div>Python Developer (Web)<br>£50,000 - £60,000 + 33 days holiday + medical + dental + pension<br>Remote working from home<br><br>Are you a Python Developer looking to work from home as part of a team developing cutting edge software for a global company investing in the latest and greatest technology?<br><br>This is an excellent time to join as a senior developer and be involved in the big technical decisions in a revolutionary piece of software. This will be a web based software with cloud technology and will be utilised by customers worldwide.<br><br>The company have an excellent reputation for providing continuous technical progression and development, they have created a positive and collaborative environment to work in. As they continue to innovate and bring new technology to their customers there are opportunities to get involved in exciting new projects.<br><br>This would suit an experienced Python Developer looking for a home based role as a senior developer in a small team. If you are looking to innovate and have lots of creative input into big software projects this is the job for you.<br><br>The Role:<br>- Develop software features and functions in Python<br>- Industry first, complex web based software for customers<br>- Working with Linux container and cloud technology<br>- CI / CD environment<br>- Work as a senior developer within a small project team<br><br>The Person: <br>- Experienced Python Developer<br>- Knowledge of Linux<br>- Looking for a challenging and innovative software role<br><br>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "MP70otneRPC5SCrspLzuuw",
+    "url": "https://jobmote.com/job/101225/remote-senior-python-developer/",
+    "title": "Remote Senior Python Developer",
+    "tags": [
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python-developer/python/65",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:techWeightMap:{python=77, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Anonymous",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 12, 2019 8:07:49 PM",
+    "validThrough": "Nov 15, 2019 8:07:49 PM",
+    "crawled": "Nov 13, 2019 2:06:32 AM",
+    "content": "<div>Python Developer (Web)<br>£50,000 - £60,000 + 33 days holiday + medical + dental + pension<br>Remote working from home<br><br>Are you a Python Developer looking to work from home as part of a team developing cutting edge software for a global company investing in the latest and greatest technology?<br><br>This is an excellent time to join as a senior developer and be involved in the big technical decisions in a revolutionary piece of software. This will be a web based software with cloud technology and will be utilised by customers worldwide.<br><br>The company have an excellent reputation for providing continuous technical progression and development, they have created a positive and collaborative environment to work in. As they continue to innovate and bring new technology to their customers there are opportunities to get involved in exciting new projects.<br><br>This would suit an experienced Python Developer looking for a home based role as a senior developer in a small team. If you are looking to innovate and have lots of creative input into big software projects this is the job for you.<br><br>The Role:<br>- Develop software features and functions in Python<br>- Industry first, complex web based software for customers<br>- Working with Linux container and cloud technology<br>- CI / CD environment<br>- Work as a senior developer within a small project team<br><br>The Person: <br>- Experienced Python Developer<br>- Knowledge of Linux<br>- Looking for a challenging and innovative software role<br><br>Apply now to submit your CV or call Tom Reynolds at Rise Technical Recruitment</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "4patJHGESUCaLEbCuKKmTQ",
+    "url": "https://jobmote.com/job/101191/python-developer-fully-remote/",
+    "title": "Python Developer (Fully Remote)",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:python-developer/python/39",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:techWeightMap:{python=45, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Arden Resourcing Limited",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 12, 2019 8:07:46 PM",
+    "validThrough": "Nov 15, 2019 8:07:46 PM",
+    "crawled": "Nov 13, 2019 2:06:32 AM",
+    "content": "<div><p>Fully Remote</p> <p>Python Developer</p> <p>£40,000 - £50,000 PA</p> <p><em>Remote Working UK</em></p> <p>Offering full autonomy of working from home but with the support of an engaged and inclusive team....</p> <p>Industry leading media and entertainment company providing software defined infrastructure to power up award winning TV, Film, CGI, Sports Broadcasts, commercials and music videos.</p> <p>As a Python Software Engineer you will be in charge of building reliable, maintainable, scalable back end service. Fast moving business, interesting industry.</p> <ul><li>Work with bespoke integrated systems</li><li>Develop and integrate programs and 3rd party applications</li><li>Develop software and methodologies, shipping regularly</li><li>Evaluate system architectures, develop validation plans and improve application performance</li></ul><p>You</p> <ul><li>Will have proven experience working remotely</li><li>4/6 years of experience; proficient in developing software in Python and Linux. Confident with several alternative high level languages.</li><li>Proficient in object-oriented programming concepts, large-scale software architecture, networking and distributed systems, UNIX/Linux environments</li><li>Working knowledge of TCP, HTTP and UDP protocols, REST and JSON</li><li>Passion for building production-grade dynamically scalable services and have participated in fast paced teams.</li></ul><p>Genuinely a great opportunity to work with autonomy, with exciting products.</p> <p>Screening for this already underway...</p> <p>Interested?</p> <p>Click apply to find out more...</p></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ynEcEZnEStiU6HfkwqPEdg",
+    "url": "https://jobmote.com/job/101165/remote-full-stack-python-django-software-developer/",
+    "title": "REMOTE Full-Stack Python/ Django Software Developer",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:django/python/64",
+      "DBG_TECH1:k/t/w:pandas/python/10",
+      "DBG_TECH1:k/t/w:python/python/8",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=82, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Kimetrica, LLC",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 90000,
+      "maxValue": 110000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 90k - 110k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 11, 2019 8:07:41 PM",
+    "validThrough": "Nov 14, 2019 8:07:41 PM",
+    "crawled": "Nov 12, 2019 2:06:30 AM",
+    "content": "<div>Kimetrica's mission is increasing the effectiveness of social spending. Towards this goal, we partner with many organizations in the social sector and provide them with tools and services related to research and evaluation, surveys, modeling and simulation as well as custom tailored software. Our team is distributed over offices in the US and Africa, part of our team is working 100% remotely. Kimetrica is seeking a REMOTE Full-Stack Python/ Django Software Developer to design and develop software models and applications, and undertake managerial tasks that facilitate software development. These applications will support statistical data capture, analysis, mapping, and visualizations. OUR TECH STACK: Our tech stack is mostly Python-based, because Python provides unparalleled productivity and a strong ecosystem, especially in scientific computing and data sciences. Most of our software solutions are implemented as web applications, with a strong preference for Django/Django Rest framework. Important packages we use are Pandas, Celery, black, flake8 among many others. We use AWS for deployments, leveraging Docker images and ECS, as well as Gitlab for our source code and Gitlab CI for CI/CD. Our RDBMS of choice is PostgreSQL. On the front-end, our framework of choice is React. We try to adhere to Agile Software Development Principles and SCRUM and currently use Easy Redmine as our issue tracker, but we will be transitioning to Jira. WHAT WE ARE LOOKING FOR: You are a Software Developer (Over 5 years of work experience) with extensive experience in Django and Django Rest framework, implementing REST APIs with a strong emphasis on testing and documentation. You are passionate about writing high-quality code (we use black to auto-format our code and flake8 for linting). You have experience with Docker to help with deployments (DevOps) and ideally Gitlab CI and AWS (ECS a strong plus). You are familiar with Unix-like development systems, you are able to work with RDBMS and you have knowledge using the command line. You are willing to take initiative, you are responsible and able to self-organize and you have good communication skills, to be able to work in a distributed team. As a Software Developer, you take part in code reviews, following a Merge Request based workflow, you resolve conflicts and support fellow developers with meaningful feedback and constructive criticism. A big part of your work consists of developing well-written back-end code. You work on new features and products that include designing the architecture as well as resolving software defects. You write unit tests to prove that code works as intended and protect against regressions. You are eager to learn new technologies and able to tackle problems independently. You communicate your findings and share your knowledge with your colleagues. Part of your time is devoted to coaching junior developers and answering their questions. Experience with statistical data capture, analysis, mapping and visualizations is not required, but would greatly enhance your qualifications for the position. REQUIRED SKILLS: Python, Django, Django Rest framework, Unit tests, Git, Merge Requests, Docker, Bash (at least basic knowledge) NICE TO HAVE: AWS (ECS), Pandas, React, [Easy] Redmine, Superset, CKAN, Celery, Sentry, PostGIS, Redis,Sphinx, MyPy, KoBo, Mayan EDMS, Visualization JOB TYPE: Remote JOB CATEGORY: Permanent / Full Time SALARY RANGE: $90,000.00 to $110,000.00 Yearly</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "VmFJslkHQFyVOSC2Oi6iTQ",
+    "url": "https://jobmote.com/job/101136/python-developer-fully-remote/",
+    "title": "Python Developer (Fully Remote)",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:python-developer/python/39",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:techWeightMap:{python=45, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Anonymous",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 11, 2019 8:07:40 PM",
+    "validThrough": "Nov 14, 2019 8:07:40 PM",
+    "crawled": "Nov 12, 2019 2:06:30 AM",
+    "content": "<div>Fully Remote<br><br>Python Developer<br><br>£40,000 - £50,000 PA<br><br>Remote Working UK<br><br>Offering full autonomy of working from home but with the support of an engaged and inclusive team....<br><br>Industry leading media and entertainment company providing software defined infrastructure to power up award winning TV, Film, CGI, Sports Broadcasts, commercials and music videos.<br><br>As a Python Software Engineer you will be in charge of building reliable, maintainable, scalable back end service. Fast moving business, interesting industry.<br><br> * Work with bespoke integrated systems<br><br> * Develop and integrate programs and 3rd party applications<br><br> * Develop software and methodologies, shipping regularly<br><br> * Evaluate system architectures, develop validation plans and improve application performance<br><br>You<br><br> * Will have proven experience working remotely<br><br> * 4/6 years of experience; proficient in developing software in Python and Linux. Confident with several alternative high level languages.<br><br> * Proficient in object-oriented programming concepts, large-scale software architecture, networking and distributed systems, UNIX/Linux environments<br><br> * Working knowledge of TCP, HTTP and UDP protocols, REST and JSON<br><br> * Passion for building production-grade dynamically scalable services and have participated in fast paced teams.<br><br>Genuinely a great opportunity to work with autonomy, with exciting products.<br><br>Screening for this already underway...<br><br>Interested?<br><br>Click apply to find out more</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "8WKYHwX3Qqm1FseI_LrW4Q",
     "url": "https://www.remoteage.com/remote-jobs/senior-software-engineer-142/",
     "title": "Senior Software Engineer",
@@ -5802,582 +6716,6 @@
     "validThrough": "Sep 17, 2019 10:07:53 PM",
     "crawled": "Sep 15, 2019 3:06:26 AM",
     "content": "<div><p>Greetings from Reliable Software !!!</p> <p>I have a new job I could use your help on. The description is pasted below.</p> <p> <strong>In short, it s a Senior Engineer role focused on ScienceLogic, Python is the language they use</strong>. <strong>Remote Position - </strong>This is a 6-12month assignment. </p> <p>The Senior Monitoring Engineer provides support for the ScienceLogic Platform leveraged by CDW Managed Services. This involves developing enterprise level applications, maintaining operational excellence, and integration with ITSM tools. .This role is a member of the team responsible for the availability, improvements to, and expansion of ScienceLogic.</p> <p> </p> <p> <strong>Key Areas of Responsibility</strong></p> <ul><li>Work with technology owners and stakeholders to formalize requirements and business needs.</li> <li>Collaborate with Platform Owner to determine optimal solution architecture, efficiency, maintainability, and scalability.</li> <li>Translate requirements into application solutions.</li> <li>Develop and execute test plans to ensure service continuity as new solutions are implemented.</li> <li>Develop and maintain applications to CDW standards and quality.</li></ul><p> </p> <p> <strong>Responsibilities</strong></p> <ul><li>Complete projects/tasks on a timely basis, according to commitments made to stakeholders and management, under the direction of Senior Engineers</li> <li>Participate in Scrum activities with the rest of the application development team, including sprint planning, daily stand-ups and sprint reviews.</li> <li>Ensure stakeholders are responded to in a timely and professional manner. Foster open lines of communication with all parties.</li> <li>Perform operational activities required to maintain system availability and meet the needs of customers and co-workers.</li></ul><p> </p> <p> <strong>Qualifications</strong></p> <p>Minimum Qualifications</p> <ul><li> <strong> 4+ years experience with ScienceLogic</strong></li> <li>Bachelor degree in Computer Science, or equivalent knowledge/experience.</li> <li>Knowledge and skill level in identified competencies meet minimum requirements for role.</li></ul><p> </p> <p> <strong>Other Required Qualifications</strong></p> <ul><li> <strong>Excellent verbal and written communication skills</strong>, with the ability to effectively interact with all co-workers and stakeholders.</li> <li>Demonstrated understanding of an agile software development process</li> <li>Demonstrated creative problem solving skills.</li> <li>Ability to work effectively with and support the needs of project team members and stakeholders</li> <li>Demonstrate solid interpersonal skills and be resourceful in order to participate in the development process</li></ul><p> </p> <p> <strong>Preferred Qualifications</strong></p> <ul><li>Significant experience with <strong>ScienceLogic monitoring and architecture</strong></li> <li>Significant experience <strong>developing Dynamic Applications with Python</strong></li> <li>Significant experience with the Unix command line</li> <li>Significant experience with <strong>MySQL relational database</strong></li></ul><p> </p> <p> </p> <p> </p> <p> <strong>Shravan Chidurala</strong></p> <p>Resource Manager</p> <p>(W) </p> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "qnohofK6R-WfJyfRsyOhKA",
-    "url": "https://jobmote.com/job/72717/senior-python-engineer-remote/",
-    "title": "Senior Python Engineer - Remote",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:ember.js/frontend/8",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:k/t/w:python-developer/python/26",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=30, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=24}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/America/West"
-    ],
-    "tagsNames1": [
-      "US Pacific time zone"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Collabera",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 13, 2019 10:07:38 PM",
-    "validThrough": "Sep 16, 2019 10:07:38 PM",
-    "crawled": "Sep 14, 2019 3:06:24 AM",
-    "content": "<div><p>This role is 100% remote in the US. We are an e-commerce software company that is executing a paradigm shift in the way that companies market their products. We are impacting small business owners in a powerful way. We have an immediate opening for a Senior Python Engineer. If you would like to have an immediate impact on an influential team, read on! <br><br>What you'll be doing: <br>• Work on a fast paced team and turn ideas into functional code. <br>• Play an important role in the development of best practices in software design, implementation and code standards. <br>• Perform all duties of application design - high performance design/coding, scalability, testing procedures, etc. <br>• Mentoring junior developers <br>• You'll take ownership of your code -drive impact and push the level of development <br>• No hierarchy and you'll have direct access to our CEO <br><br>Must have skills: <br>• BSCS from a US School <br>• 5+ years of software development experience, object oriented design skills and knowledge of website design and usability. <br>• 2+ years of experience developing in Python <br>• Experience with one of the following ReactJS, NodeJS, EmberJS or AngularJS <br>• Understanding of MVC patterns, RESTful synchronous service-oriented and message bus architectures, relational schemas, agile scrum, and modern source code control <br><br>What's in it for you: <br>• Competitive salary and equity package + 401K <br>•100% remote with travel to San Francisco a few times a year <br>•Outstanding health benefits and unlimited vacation time <br>•If you opt to work onsite in our San Francisco office we have a Game <br>room, beer on tap, standing desks and free lunches and more! <br><br>If you'd like to be considered for this exciting senior role, send your resume to ! </p><br>Python,oop - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "o_h8DH3uTFCxOhFsypOllA",
-    "url": "https://stackoverflow.com/jobs/200134/django-python-software-engineer-in-stockholm-or-load-impact?a=157mqexjRTlC&so_medium=Talent&so_source=TalentApi",
-    "title": "Django/Python Software Engineer - in Stockholm or Remote at Load Impact (Stockholm, Sweden) ",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:django/python/40",
-      "DBG_TECH1:k/t/w:flask/python/24",
-      "DBG_TECH1:k/t/w:python-developer/python/26",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:k/t/w:time-series/bigdata-ml/5",
-      "DBG_TECH1:techWeightMap:{python=96, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=13, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Load Impact",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 13, 2019 3:06:24 PM",
-    "validThrough": "Sep 20, 2019 3:06:24 PM",
-    "crawled": "Sep 13, 2019 3:06:24 PM",
-    "content": "<h3><span>Django/Python Software Engineer - in Stockholm or Remote</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer, Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>B2B, Cloud Services, Test Automation</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Load Impact | Stockholm, Sweden<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                            <div>                                    <span>Preferred Timezone:</span>                                    <span>(GMT+01:00) Stockholm +/- 2 hours</span>                                </div>                                                            <div>                                    <span>Office Location:</span>                                    <span>Stockholm, Sweden.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                                                </div>                    </div>                <h4>Technologies</h4><div></div><div>python</div><div>django</div><div>flask</div><div>celery</div><div>rabbitmq</div>                <h4>Job description</h4>                <div><p>Load Impact Engineers build next-generation, performance testing tools for other developers and DevOps engineers. Our open-source load testing platform, <a href='https://k6.io/' rel='nofollow'>k6</a> is at the forefront of innovation in performance testing space. It is one&nbsp;of the trending projects on <a href='https://github.com/loadimpact/k6' rel='nofollow'>GitHub</a>, with over 4k stars.</p><p>We embrace open-source, and publish most of our “secret sauce” on GitHub, for developers to review, edit and improve!</p><p>As a Software Engineer, you will work in a small team and have the ability to switch your role to DevOps, frontend or backend to keep things interesting. Load Impact is growing, and we encourage our engineers to&nbsp;grow with the company and learn new technologies as the company expands.&nbsp;This is not a job where you do the same thing every day.</p><p>This position is for our&nbsp;premium offering, a SaaS product available&nbsp;on <a href='https://loadimpact.com/' rel='nofollow'>loadimpact.com</a>. We need your python expertise to expand the functionality and scale the service to match customer's expectations.&nbsp;</p><p>Due to our small teams and fast development pace, you will&nbsp;have a substantial and immediate impact on how the end product is architected, developed, and how the engineering team operates. Most importantly, you will work with competent colleagues and will be able to expand your knowledge and skills in different directions.</p><p>Skills and requirements</p><p><strong>Expected:</strong></p><ul><li>You are best in class software engineer, or on your way there</li><li>Understand the ins-and-outs of HTTP protocol and REST</li><li>Fluent in python</li><li>Experienced in server-side programming (Django, Flask or similar)</li><li>Passion for quality code</li><li>Experience with microservice architecture run in the cloud</li></ul><p><strong>It’s an advantage if you know:</strong></p><ul><li>Django and/or Flask</li><li>Timescaledb or other time series technologies</li><li>AWS / Cloud APIs</li><li>Docker and CI/CD workflow - ours is based on Github and CircleCI</li></ul><p>This position is for the office in Stockholm, Götgatan 14. We expect you to be in the office on Mondays and Wednesdays. You can work remotely for the rest of the week :-)&nbsp;</p><p>We also accept fully remote applications.!</p><p><strong>About Load Impact</strong></p><p>Load Impact is the world’s most widely used online load testing service, with over 100,000 users from 190+ countries and over a million executed load tests - Google “web load test&quot;!</p><p>We are a small company but very experienced in developing applications for performance testing and monitoring. We started out as a software development consulting company way back in 2000, developing performance test and measurement software for customers such as Nasdaq and the European space agency. We wrote both hardcore, low-level networking software and high-level web user interfaces and became quite good at both of those things. We pride ourselves on understanding the lower levels of a networked application while at the same time realizing how incredibly important UX is. In 2009 we took the step and launched loadimpact.com, becoming a product company rather than a consulting company, and we have never looked back.</p><p>Recruiting is ongoing. We will respond to your application immediately. If you don’t have a CV ready, don’t create one, send us a link to your Github/LinkedIn with a few sentences about yourself.</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/200134?reset=False&amp;ra=157mqexjRTlC&amp;oqs=a%3D157mqexjRTlC%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Load Impact</h4>            <div><p>Load Impact is on a mission to democratize load testing by providing a developer-centric experience fit for the modern engineering teams of the world. An experience that integrates well into the workflow of developers and the DevOps automation flows that they craft. An experience that will help these modern businesses to proactively and continuously make sure that their mission critical systems stay performant, that their revenues are not negatively affected. An experience that requires state of the art technology, a great care for design and support, that combined delivers a praised customer experience.</p><p>We are today the most widely used load testing service in the world, with more than 200,000 users from 190+ countries and over two million executed load tests. We pride ourselves on having some of the most progressive companies in the world as customers.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Central location</span>                            </li>                            <li>                                <span></span>                                <span>Choose your setup</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work hours</span>                            </li>                            <li>                                <span></span>                                <span>Dishwasher</span>                            </li>                            <li>                                <span></span>                                <span>Chairs with wheels</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "zm5ZfN-4SF-DXoY8LZx7fQ",
-    "url": "https://remoteok.io/jobs/75073",
-    "title": "Senior Python Developer",
-    "tags": [
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:matplotlib/python/5",
-      "DBG_TECH1:k/t/w:numpy/python/5",
-      "DBG_TECH1:k/t/w:opencv/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:py.test/python/8",
-      "DBG_TECH1:k/t/w:python-developer/python/52",
-      "DBG_TECH1:k/t/w:python/python/8",
-      "DBG_TECH1:k/t/w:scipy/python/5",
-      "DBG_TECH1:k/t/w:torch/bigdata-ml/8",
-      "DBG_TECH1:techWeightMap:{python=83, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=40, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "CVEDIA",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 13, 2019 4:22:30 AM",
-    "validThrough": "Sep 20, 2019 4:22:30 AM",
-    "crawled": "Sep 13, 2019 5:06:28 AM",
-    "content": "<span></span> <span><h4>CVEDIA</h4></span> <br> <h3>Senior Python Developer</h3> <div>  <div>   \\nCVEDIA is a funded AI company that develops deep learning solutions for some of the largest organizations on the planet. We develop dataset solutions for computer vision systems (imagery-based AI). Senior Python Developer to help design, build, and maintain a toolchain for synthetic dataset generation.\\n\\nIn this role, you will have the opportunity of working in a team of exceptionally talented and driven individuals who are all making a massive impact on our business. There is no micromanaging or babysitting at CVEDIA, everyone here drives their own ideas all the way from start to finish, everyone is given an equal opportunity to flourish and see the fruits of their labour.\\n\\n\\n\\n\\n\\nResponsibilities\\n\\n\\n* Take on the challenge to improve the performance of real world autonomous systems and be a crucial part in shaping our clients’ success.\\n\\n* Help design and implement the requirements of scalable and reliable systems that will be responsible for dealing with massive amounts of data in a clustered environment\\n\\n* Implement software enhancements and suggest improvements\\n\\n* Manage testing and bug fixes\\n\\n* Implement / improve statistics and scientific analysis stack\\n\\n* Prepare technical documentation\\n\\n* Collaborate with and support the development team\\n\\n* Coach junior team members\\n\\n* Communicate key concepts to non-technical team members\\n\\n\\n\\n\\nRequirements\\n\\n\\n* Solid experience as Python Developer\\n\\n* Experience with OpenCV, Matplotlib, Numpy, SciPy, and pytest\\n\\n* Understanding of computer science fundamentals, including data structures, algorithms, computability and complexity and computer architecture\\n\\n* Understanding of the functional programming paradigms\\n\\n* Basic understanding of databases, SQL, concurrency, and parallelism\\n\\n* Knowledge of Pytorch / torch stack is a plus\\n\\n* Knowledge of Docker and Docker swarm is a plus\\n\\n* Confident verbal and written English\\n\\n* Able to balance pragmatism with planning and long-term thinking\\n\\n* Proactive and self-sufficient\\n\\n* Attention to detail\\n\\n* Leadership skills\\n\\n* Experience working remotely is a plus\\n\\n* BSc in Computer Science, Engineering or relevant field\\n\\n\\n\\n\\nWhat We Offer\\n\\n\\n\\n* Fully distributed team, located in 19 countries\\n\\n* 4 weeks paid holiday per year\\n\\n* Yearly team meetup - this year we went to Portugal!\\n\\n* Scrum development process\\n\\n* Anti-discriminatory company culture - we won’t discount you for things like needing to pick your kids up from school, your age, your ethnicity, or your gender\\n\\n* An excited, communicative, and helpful team - we keep our work environment positive, but we also place importance on honesty\\n\\n\\n\\n\\nOur Values\\n\\n\\n1. Passion - We need both energy and passion to develop cutting edge AI. To succeed at CVEDIA, you’ll need to have a strong investment in both your career and the role of AI in the future of the planet.\\n\\n2. Commitment - CVEDIA has the opposite of a &quot;quick-n-dirty&quot; mentality. Every aspect of our technology has been meticulously built, and is always the product of very hard work.\\n\\n3. Autonomy - Carrying confidence in the work we do individually is required to work at the pace that we do as a team. Academic research, tutorials, and even creating our own solutions with the tools we have are all on the board during a regular day's work.\\n\\n4. Joy - It's one of our greatest strengths to bring excitement into our workplace. We carry this energy into meetings, project planning, and our dedication to our work, and focus on work that feels meaningful.\\n\\n5. Communication - Honest discussions are imperative to the flow of work and ideas. Team members need to be able to effectively communicate complex ideas to those who don’t work in their field. It's a regular occurrence to spontaneously discuss plans and ideas with any team member on the fly, including our CEO or CTO. Each team member is respected equally and acts as a valuable contributor.\\n\\nHow to Apply\\n\\n\\n\\n* Please state in the subject the job position you are applying for\\n\\n* Please mention your city and country of residence in your application\\n\\n* English applications only - a professional speaking and writing command of English is required for this role\\n\\n* Due to time zone difficulties, we’re currently only accepting applicants in European timezones\\n\\n\\n\\n\\n\\nFor more information about us and to see our work, please check out&nbsp;cvedia.com  </div> </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "N8OcYBdjQz2_W0192iVzRA",
-    "url": "https://jobmote.com/job/72627/fullstack-developer-remote/",
-    "title": "Fullstack Developer (Remote)",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(work,oper) 2N 2N( OR(independ,fulli), remot)",
-      "DBG_TECH1:k/t/w:flask/python/16",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:sqlalchemy/python/8",
-      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=28, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=17}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Postscript",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 10:07:37 PM",
-    "validThrough": "Sep 15, 2019 10:07:37 PM",
-    "crawled": "Sep 13, 2019 3:06:25 AM",
-    "content": "<div>Postscript is building a best-in-class marketing platform specifically for ecommerce. Backed by Y Combinator (YC W19), Postscript is growing fast and looking for remarkable people to help scale the company. This role is responsible for developing and managing our back and frontend systems. Our backend stack is a Python (Flask) API with a PostgreSQL database hosted on AWS, and our frontend is built with React JS and Bootstrap UI. We are looking for someone with strong fullstack skills combined with an intense passion for early-stage companies. You will help the team to build out our architecture and processes as we scale, and help with hiring to grow the engineering team quickly. You will have a large influence on both the product and the company. Primary DutiesArchitect, build and maintain the REST API and frontend codebase for our web applicationWork closely with the design team to deliver a beautiful, world-class productTake ownership and get creative with your solutionsManage AWS services as neededMaintain and optimize our databasesImprove our internal development processes to minimize errors and improve team efficiency About You (experience)3+ years software development experience1+ years experience with ReactExperience with Python ( Flask &amp; SQLAlchemy a plus) Experience managing AWS services Experience managing relational databases (PostgreSQL) About You (culture)You're a hacker; done is better than perfect, and all development efforts should be tied to significant business valueYou love early stage companies and being responsible for owning and improving a new, fast-growing code baseYou're excited for the chance to establish best practices in our development processes and act as a role model for the dev team as it grows You're excited to work a fully-remote teamYou're nice-no room for jerks on this team</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "trHgLdVYRXSnh5c71WjJxQ",
-    "url": "https://jobmote.com/job/72607/software-engineer-python-remote/",
-    "title": "Software Engineer-Python-Remote",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:apache-storm/java/8",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:techWeightMap:{python=6, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java",
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Inspire Recruitment Inc.",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 10:07:36 PM",
-    "validThrough": "Sep 15, 2019 10:07:36 PM",
-    "crawled": "Sep 13, 2019 3:06:25 AM",
-    "content": "<div><p>This is a 100% Remote role. </p><p>Our client's app is reaching millions and is at the top of the iOS and Play Store. Their purpose is to help people feel close and they strive to create an environment where their people are inspired to do their best work. They work in a distributed, remote small team and strive for a positive, enjoyable environment where everyone enjoys coming (remotely) work. They are a female-led company that highly values diversity. This is a 100% remote position with occasional travel to spend time with your teammates and to plan for the business. </p><p>We're looking for a thoughtful and creative Back End Engineer, using Python, to add to their team. You are someone who feels pride from writing solid code. You enjoy collaborating with different teams in the company to solving technical problems. You delight in making a difference for millions of people in the world and you care about having a joyful work environment.</p><p>Technical Skills:</p><ul><li>2+ years of Python experience. Will consider all levels of experience. </li><li>RESTful API</li><li>Back End Engineering experience. </li></ul><p>You will:</p><ul><li>Collaborate with all the teams ( DevOps, Mobile, Product ) in the company to ensure technical challenges are rectified.</li><li>Be able to interpret requests from the business and present solutions.</li><li>Write robust code in Python and build RESTful APIs</li></ul><p>You may be a fit if you:</p><ul><li>Communicate with empathy</li><li>Would excel in a small, lean startup environment.</li><li>Understand the business and how your technical contributions contribute to the bigger picture.</li><li>Remain calm and even-keeled, especially in a storm</li><li>Have effective interpersonal, communication, and collaboration skills to work successfully in a 100% remote team environment</li><li>Enjoy reverse engineering from inputs and outputs of black-box systems</li><li>Pride yourself on a strong foundation in computer science, data structures, algorithms and software design</li><li>Are humble and intellectually curious</li></ul><p>This is a permanent position with a great company and benefits. We can not sponsor or engage C2C for this role.</p> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "MB7y3NFAQeiXenMTyRQS7Q",
-    "url": "https://remote.co/job/senior-python-developer-4/",
-    "title": "Senior Python Developer",
-    "tags": [
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
-      "DBG_TECH1:k/t/w:matplotlib/python/5",
-      "DBG_TECH1:k/t/w:numpy/python/5",
-      "DBG_TECH1:k/t/w:opencv/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:py.test/python/8",
-      "DBG_TECH1:k/t/w:python-developer/python/39",
-      "DBG_TECH1:k/t/w:python/python/6",
-      "DBG_TECH1:k/t/w:scipy/python/5",
-      "DBG_TECH1:k/t/w:torch/bigdata-ml/8",
-      "DBG_TECH1:techWeightMap:{python=68, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=20, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "CVEDIA",
-      "sameAs": "https://cvedia.breezy.hr/p/2b20834a1e4e-senior-python-developer-remote-work---eu-time-zone?source=remote.co"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 10:44:03 PM",
-    "validThrough": "Sep 19, 2019 10:44:03 PM",
-    "crawled": "Sep 12, 2019 11:31:12 PM",
-    "content": "<h3>Senior Python Developer at <span>CVEDIA</span></h3><div><span><i></i> Remote</span>         | <span> International </span></div><div>            <p>In this role, you will have the opportunity of working in a team of exceptionally talented and driven individuals who are all making a massive impact on our business. There is no micromanaging or babysitting at CVEDIA, everyone here drives their own ideas all the way from start to finish, everyone is given an equal opportunity to flourish and see the fruits of their labour.</p><h5><strong>Responsibilities</strong></h5><ul><li>Take on the challenge to improve the performance of real world autonomous systems and be a crucial part in shaping our clients’ success.</li><li>Help design and implement the requirements of scalable and reliable systems that will be responsible for dealing with massive amounts of data in a clustered environment</li><li>Implement software enhancements and suggest improvements</li><li>Manage testing and bug fixes</li><li>Implement / improve statistics and scientific analysis stack</li><li>Prepare technical documentation</li><li>Collaborate with and support the development team</li><li>Coach junior team members</li><li>Communicate key concepts to non-technical team members</li></ul><h5><strong>Requirements</strong></h5><ul><li>Solid experience as Python Developer</li><li>Experience with OpenCV, Matplotlib, Numpy, SciPy, and pytest</li><li>Understanding of computer science fundamentals, including data structures, algorithms, computability and complexity and computer architecture</li><li>Understanding of the functional programming paradigms</li><li>Basic understanding of databases, SQL, concurrency, and parallelism</li><li>Knowledge of Pytorch / torch stack is a plus</li><li>Knowledge of Docker and Docker swarm is a plus</li><li>Confident verbal and written English</li><li>Able to balance pragmatism with planning and long-term thinking</li><li>Proactive and self-sufficient</li><li>Attention to detail</li><li>Leadership skills</li><li>Experience working remotely is a plus</li><li>BSc in Computer Science, Engineering or relevant field</li></ul><h5><strong>What We Offer</strong></h5><ul><li>Fully distributed team, located in 19 countries</li><li>4 weeks paid holiday per year</li><li>Yearly team meetup – this year we went to Portugal!</li><li>Scrum development process</li><li>Anti-discriminatory company culture – we won’t discount you for things like needing to pick your kids up from school, your age, your ethnicity, or your gender</li><li>An excited, communicative, and helpful team – we keep our work environment positive, but we also place importance on honesty</li></ul><h5><strong>Our Values</strong></h5><p>1. Passion – We need both energy and passion to develop cutting edge AI. To succeed at CVEDIA, you’ll need to have a strong investment in both your career and the role of AI in the future of the planet.</p><p>2. Commitment – CVEDIA has the opposite of a “quick-n-dirty” mentality. Every aspect of our technology has been meticulously built, and is always the product of very hard work.</p><p>3. Autonomy – Carrying confidence in the work we do individually is required to work at the pace that we do as a team. Academic research, tutorials, and even creating our own solutions with the tools we have are all on the board during a regular day’s work.</p><p>4. Joy – It’s one of our greatest strengths to bring excitement into our workplace. We carry this energy into meetings, project planning, and our dedication to our work, and focus on work that feels meaningful.</p><p>5. Communication – Honest discussions are imperative to the flow of work and ideas. Team members need to be able to effectively communicate complex ideas to those who don’t work in their field. It’s a regular occurrence to spontaneously discuss plans and ideas with any team member on the fly, including our CEO or CTO. Each team member is respected equally and acts as a valuable contributor.</p><h5><strong>How to Apply</strong></h5><ul><li>Please state in the subject the job position you are applying for</li><li>Please mention your city and country of residence in your application</li><li>English applications only – a professional speaking and writing command of English is required for this role</li><li>Due to time zone difficulties, we’re currently only accepting applicants in European timezones</li></ul><p>For more information about us and to see our work, please check out&nbsp;<a href='https://www.cvedia.com/' rel='nofollow'>cvedia.com</a></p><p>Location: &nbsp;<strong>EU Time Zone</strong></p>        </div><div>        <a href='https://cvedia.breezy.hr/p/2b20834a1e4e-senior-python-developer-remote-work---eu-time-zone?source=remote.co' rel='nofollow'>Apply for job</a>    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ag7bJsAxQS-WOWfn-OCfSw",
-    "url": "https://stackoverflow.com/jobs/296099/senior-python-developer-cvedia?a=1BiKvr1UZ4Gc&so_medium=Talent&so_source=TalentApi",
-    "title": "Senior Python Developer at CVEDIA  ",
-    "tags": [
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:matplotlib/python/5",
-      "DBG_TECH1:k/t/w:numpy/python/5",
-      "DBG_TECH1:k/t/w:opencv/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:py.test/python/8",
-      "DBG_TECH1:k/t/w:python-developer/python/52",
-      "DBG_TECH1:k/t/w:python/python/10",
-      "DBG_TECH1:k/t/w:scipy/python/10",
-      "DBG_TECH1:k/t/w:torch/bigdata-ml/8",
-      "DBG_TECH1:techWeightMap:{python=90, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=40, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "CVEDIA",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 10:30:25 PM",
-    "validThrough": "Sep 19, 2019 10:30:25 PM",
-    "crawled": "Sep 12, 2019 10:30:25 PM",
-    "content": "<h3><span>Senior Python Developer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                            </div>                    </div>                <div>Company: CVEDIA | No office location<br></div><h4>Technologies</h4><div>python</div><div>docker</div><div>sql</div><div>pytorch</div><div>scipy</div>                <h4>Job description</h4>                <div><p>CVEDIA is a funded AI company that develops deep learning solutions for some of the largest organizations on the planet. We develop dataset solutions for computer vision systems (imagery-based AI). Senior Python Developer to help design, build, and maintain a toolchain for synthetic dataset generation.</p><p>In this role, you will have the opportunity of working in a team of exceptionally talented and driven individuals who are all making a massive impact on our business. There is no micromanaging or babysitting at CVEDIA, everyone here drives their own ideas all the way from start to finish, everyone is given an equal opportunity to flourish and see the fruits of their labour.</p><p><br><br></p><p><strong>Responsibilities</strong></p><ul><li>Take on the challenge to improve the performance of real world autonomous systems and be a crucial part in shaping our clients’ success.</li><li>Help design and implement the requirements of scalable and reliable systems that will be responsible for dealing with massive amounts of data in a clustered environment</li><li>Implement software enhancements and suggest improvements</li><li>Manage testing and bug fixes</li><li>Implement / improve statistics and scientific analysis stack</li><li>Prepare technical documentation</li><li>Collaborate with and support the development team</li><li>Coach junior team members</li><li>Communicate key concepts to non-technical team members</li></ul><p><strong>Requirements</strong></p><ul><li>Solid experience as Python Developer</li><li>Experience with OpenCV, Matplotlib, Numpy, SciPy, and pytest</li><li>Understanding of computer science fundamentals, including data structures, algorithms, computability and complexity and computer architecture</li><li>Understanding of the functional programming paradigms</li><li>Basic understanding of databases, SQL, concurrency, and parallelism</li><li>Knowledge of Pytorch / torch stack is a plus</li><li>Knowledge of Docker and Docker swarm is a plus</li><li>Confident verbal and written English</li><li>Able to balance pragmatism with planning and long-term thinking</li><li>Proactive and self-sufficient</li><li>Attention to detail</li><li>Leadership skills</li><li>Experience working remotely is a plus</li><li>BSc in Computer Science, Engineering or relevant field</li></ul><p><strong>What We Offer</strong></p><ul><li>Fully distributed team, located in 19 countries</li><li>4 weeks paid holiday per year</li><li>Yearly team meetup - this year we went to Portugal!</li><li>Scrum development process</li><li>Anti-discriminatory company culture - we won’t discount you for things like needing to pick your kids up from school, your age, your ethnicity, or your gender</li><li>An excited, communicative, and helpful team - we keep our work environment positive, but we also place importance on honesty</li></ul><p><strong>Our Values</strong></p><p>1. Passion - We need both energy and passion to develop cutting edge AI. To succeed at CVEDIA, you’ll need to have a strong investment in both your career and the role of AI in the future of the planet.</p><p>2. Commitment - CVEDIA has the opposite of a &quot;quick-n-dirty&quot; mentality. Every aspect of our technology has been meticulously built, and is always the product of very hard work.</p><p>3. Autonomy - Carrying confidence in the work we do individually is required to work at the pace that we do as a team. Academic research, tutorials, and even creating our own solutions with the tools we have are all on the board during a regular day's work.</p><p>4. Joy - It's one of our greatest strengths to bring excitement into our workplace. We carry this energy into meetings, project planning, and our dedication to our work, and focus on work that feels meaningful.</p><p>5. Communication - Honest discussions are imperative to the flow of work and ideas. Team members need to be able to effectively communicate complex ideas to those who don’t work in their field. It's a regular occurrence to spontaneously discuss plans and ideas with any team member on the fly, including our CEO or CTO. Each team member is respected equally and acts as a valuable contributor.</p><p><strong>How to Apply</strong></p><ul><li>Please state in the subject the job position you are applying for</li><li>Please mention your city and country of residence in your application</li><li>English applications only - a professional speaking and writing command of English is required for this role</li><li>Due to time zone difficulties, we’re currently only accepting applicants in European timezones</li></ul><p>For more information about us and to see our work, please check out&nbsp;<a href='https://www.cvedia.com/' rel='nofollow'>cvedia.com</a></p>                </div>            <div>        <a href='https://cvedia.breezy.hr/p/2b20834a1e4e-senior-python-developer-remote-work---eu-time-zone?source=stackoverflow' rel='nofollow'>                        Apply now        </a></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "lUMeidZ5St-ZoM7YUQJ3Vg",
-    "url": "https://weworkremotely.com/remote-jobs/cvedia-senior-python-developer",
-    "title": "CVEDIA: Senior Python Developer",
-    "tags": [
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:matplotlib/python/5",
-      "DBG_TECH1:k/t/w:numpy/python/5",
-      "DBG_TECH1:k/t/w:opencv/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:py.test/python/8",
-      "DBG_TECH1:k/t/w:python-developer/python/52",
-      "DBG_TECH1:k/t/w:python/python/8",
-      "DBG_TECH1:k/t/w:scipy/python/5",
-      "DBG_TECH1:k/t/w:torch/bigdata-ml/8",
-      "DBG_TECH1:techWeightMap:{python=83, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=40, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "CVEDIA",
-      "sameAs": "https://cvedia.breezy.hr/p/2b20834a1e4e-senior-python-developer-remote-work---eu-time-zone?source=weworkremotely"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 9:28:24 PM",
-    "validThrough": "Sep 19, 2019 9:28:24 PM",
-    "crawled": "Sep 12, 2019 9:30:22 PM",
-    "content": "<h3> Senior Python Developer </h3><div><div>CVEDIA is a funded AI company that develops deep learning solutions for some of the largest organizations on the planet. We develop dataset solutions for computer vision systems (imagery-based AI). Senior Python Developer to help design, build, and maintain a toolchain for synthetic dataset generation.<br><br></div><div>In this role, you will have the opportunity of working in a team of exceptionally talented and driven individuals who are all making a massive impact on our business. There is no micromanaging or babysitting at CVEDIA, everyone here drives their own ideas all the way from start to finish, everyone is given an equal opportunity to flourish and see the fruits of their labour.<br><br></div><div><br><br></div><div><br>Responsibilities<br><br></div><ul><li>Take on the challenge to improve the performance of real world autonomous systems and be a crucial part in shaping our clients’ success.</li><li>Help design and implement the requirements of scalable and reliable systems that will be responsible for dealing with massive amounts of data in a clustered environment</li><li>Implement software enhancements and suggest improvements</li><li>Manage testing and bug fixes</li><li>Implement / improve statistics and scientific analysis stack</li><li>Prepare technical documentation</li><li>Collaborate with and support the development team</li><li>Coach junior team members</li><li>Communicate key concepts to non-technical team members</li></ul><div><br>Requirements<br><br></div><ul><li>Solid experience as Python Developer</li><li>Experience with OpenCV, Matplotlib, Numpy, SciPy, and pytest</li><li>Understanding of computer science fundamentals, including data structures, algorithms, computability and complexity and computer architecture</li><li>Understanding of the functional programming paradigms</li><li>Basic understanding of databases, SQL, concurrency, and parallelism</li><li>Knowledge of Pytorch / torch stack is a plus</li><li>Knowledge of Docker and Docker swarm is a plus</li><li>Confident verbal and written English</li><li>Able to balance pragmatism with planning and long-term thinking</li><li>Proactive and self-sufficient</li><li>Attention to detail</li><li>Leadership skills</li><li>Experience working remotely is a plus</li><li>BSc in Computer Science, Engineering or relevant field</li></ul><div><br>What We Offer<br><br></div><div><br></div><ul><li>Fully distributed team, located in 19 countries</li><li>4 weeks paid holiday per year</li><li>Yearly team meetup - this year we went to Portugal!</li><li>Scrum development process</li><li>Anti-discriminatory company culture - we won’t discount you for things like needing to pick your kids up from school, your age, your ethnicity, or your gender</li><li>An excited, communicative, and helpful team - we keep our work environment positive, but we also place importance on honesty</li></ul><div><br>Our Values<br><br></div><div><br></div><div>1. Passion - We need both energy and passion to develop cutting edge AI. To succeed at CVEDIA, you’ll need to have a strong investment in both your career and the role of AI in the future of the planet.<br><br></div><div>2. Commitment - CVEDIA has the opposite of a &quot;quick-n-dirty&quot; mentality. Every aspect of our technology has been meticulously built, and is always the product of very hard work.<br><br></div><div>3. Autonomy - Carrying confidence in the work we do individually is required to work at the pace that we do as a team. Academic research, tutorials, and even creating our own solutions with the tools we have are all on the board during a regular day's work.<br><br></div><div>4. Joy - It's one of our greatest strengths to bring excitement into our workplace. We carry this energy into meetings, project planning, and our dedication to our work, and focus on work that feels meaningful.<br><br></div><div>5. Communication - Honest discussions are imperative to the flow of work and ideas. Team members need to be able to effectively communicate complex ideas to those who don’t work in their field. It's a regular occurrence to spontaneously discuss plans and ideas with any team member on the fly, including our CEO or CTO. Each team member is respected equally and acts as a valuable contributor.<br><br></div><div><br>How to Apply<br><br></div><div><br></div><ul><li>Please state in the subject the job position you are applying for</li><li>Please mention your city and country of residence in your application</li><li>English applications only - a professional speaking and writing command of English is required for this role</li><li>Due to time zone difficulties, we’re currently only accepting applicants in European timezones</li></ul><div><br></div><div>For more information about us and to see our work, please check out <a href='https://www.cvedia.com/' rel='nofollow'>cvedia.com<br></a><br></div></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "B3AvLtk7TxylnojKWNgbtg",
-    "url": "https://landing.jobs/at/intelygenz/senior-python-developer-in-madrid?utm_campaign=landing+rss&utm_content=Senior+Python+Developer&utm_medium=referral&utm_source=rss",
-    "title": "Senior Python Developer",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:cocoa/apple/8",
-      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
-      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java/java/4",
-      "DBG_TECH1:k/t/w:java/mobile/2",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:k/t/w:python-developer/python/52",
-      "DBG_TECH1:k/t/w:python/python/12",
-      "DBG_TECH1:techWeightMap:{python=64, other=0, dotnet=0, c=0, mobile=2, go=3, nodejs=16, bigdata-ml=0, ruby=0, apple=8, java=4, gamedev=0, php=0, embedded=0, frontend=11}",
-      "REMOTE1/50",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "Intelygenz",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "EUR",
-      "minValue": 38000,
-      "maxValue": 44000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "EUR 38k - 44k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 10:13:44 AM",
-    "validThrough": "Sep 19, 2019 10:13:44 AM",
-    "crawled": "Sep 12, 2019 11:07:50 AM",
-    "content": "<div><h3>Senior Python Developer</h3></div><div>Company: Intelygenz</div><div>Location: Madrid, ES</div>Salary: 38.000 - 44.000 €<br><div>Requires Work Permit</div>Level: Senior<br>Language: Spanish Language: English <div>Back-end Developer<br>Skills:</div><li>Agile Methodologies </li><li>Docker </li><li>ETL </li><li>Java </li><li>JavaScript </li><li>Python </li><h3>Intro</h3><p>Intelygenz is a software development company, which founding partners are vocational developers. Our mission is to help customers and partners by translating the latest technology trends into business opportunities. We have helped more than 100 companies to develop and start their products, and we work and partner with industry leaders.</p><p>We know our success is in our people and in the high-quality of our code that we develop from Madrid and San Francisco.</p><p>Who would not love finishing a daily and going straight to a Nerf® battle? Or have a meeting in Mordor? Or to participate in a paella contest, canyoning or going to an event in Polonia?</p><p>At Intelygenz you will find a place to grow and learn in an international environment, surrounded by all the coffee (tea or cocoa) that you want! We even design our own t-shirt, one for every anniversary.</p><p>Our tech team is growing and we are looking for software engineers! Right now we’re looking for a Senior Python Developer to bring their expertise to some great projects, learn in a friendly, collaborative environment, and innovate with us.</p><p>We are totally committed with microservices architecture embracing Clean Code, ATDD, HonestCode, and Cloud Computing, all of this in an agile environment and a DevOps culture.</p><p>As a Senior Python Developer at Intelygenz you will:</p><ul><li>Be part of an agile team of amazing developers. and even better people!</li><li>Participate in dailies, retrospectives, etc.</li><li>Deliver quality code because this is a must for us</li><li>Continuous integration, test, and delivery since it's part of our DNA</li></ul><p><span><span></span></span></p><h4>Main requirements</h4><ul><li>At least 4 years of experience working with object-oriented programming languages such as Python</li><li>Good development practices are a must for you</li><li>Interest in scalable, distributed architectures</li><li>Enjoy working in an agile and collaborative group</li><li>Knowledge of ETL</li><li>Experience leading&nbsp;teams of 3-4 people</li></ul><p></p><h4>Nice to have</h4><ul><li>Knowledge of Docker and/or Kubernetes</li><li>Familiar with TDD/ATDD</li><li>Able to communicate in English</li><li>Experience with JavaScript, AngularJS, Node.js, Java, Go</li><li>Desire to learn and constant curiosity</li><li>Ability to adapt to different environments and projects</li></ul><p></p><h4>Perks</h4><p></p><ul><li>A great environment and amazing workmates</li><li>The possibility to grow as a professional within our company</li><li>Ongoing training - stay up to date with the latest technologies and methodologies</li><li>Tech programs: 1 hour per week to learn with your co-workers)</li><li>Courses and certifications granted (AWS, Google Cloud…) and open bar of Udemy</li><li>Innovative environment - we have a start-up soul: passionate about new technologies, always seeking to improve, and getting adapted to changes and needs constantly</li><li>Office in Callao area, one of the coolest in Madrid</li><li>Gympass and football, basketball, paddle and runners team</li><li>Possible to work from home up to 3 days/week</li><li>Flexible working hours so you can balance your professional and personal life</li><li>Budget for tech events in and outside Madrid (tickets+transport+accommodation, even outside Europe)</li><li>Beers in the office on Thursday evenings</li><li>Flexible retribution (restaurant tickets, transport and kindergarten)</li><li>Health Insurance (50% granted)</li><li>Possibility to temporarily travel to San Francisco. We cover additional travel expenses such as travel and accommodation<br></li><li>Parties and team building events such as surf, canyoning, cinema together once a year and even a paella competition!</li></ul><p><span><span></span></span></p><p></p>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "X4QRyRjZSYeXQIEML1CGFA",
-    "url": "https://stackoverflow.com/jobs/203899/python-developer-remote-x-team?a=16nE6trXVxjq&so_medium=Talent&so_source=TalentApi",
-    "title": "Python Developer (Remote) at X-Team  ",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:django/python/16",
-      "DBG_TECH1:k/t/w:flask/python/16",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:python-developer/python/26",
-      "DBG_TECH1:k/t/w:python/python/8",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=66, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=25}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "X-Team",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 11:06:31 AM",
-    "validThrough": "Sep 19, 2019 11:06:31 AM",
-    "crawled": "Sep 12, 2019 11:06:31 AM",
-    "content": "<h3><span>Python Developer (Remote)</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Junior, Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51–200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: X-Team | No office location<br></div><h4>Technologies</h4><div></div><div>python</div><div>django</div><div>flask</div>                <h4>Job description</h4>                <div><p><strong>About You:</strong></p><ul><li>Experience working with Python and frameworks like Django/Flask</li><li>Experience working with front end JS frameworks (e.g. React, Angular, Vue)</li><li>Experience deploying services on AWS</li><li>Experience with API based architectures (SOA, micro-services)</li><li>Experience writing high-quality unit tests</li><li>Experience with Postresql and proficient at SQL data modelling</li></ul><p><strong>Nice to have:</strong></p><ul><li>Experience with Docker/Kubernetes</li><li>Experience with data visualisation and interpretation</li><li>Experience working remotely</li><li>Familiar/involved with open source projects</li></ul><p><strong>Personal:</strong></p><ul><li>Independent, self-motivated</li><li>Fluent in English, written and spoken</li><li>Proven track record of always learning and growing</li><li>Proactive attitude</li><li>Possess a spirit of generosity</li></ul><p><strong>Perks:</strong></p><ul><li>Get the chance to work with big brands like Riot Games, Fox, Kaplan, Coinbase..&nbsp;</li><li>Live and work in one of our roaming hacker houses (X-Outposts) around the world.</li><li>Work from anywhere as part of a community of digital nomads.</li><li>Join our vibrant community, filled with opportunities to learn new skills together in study groups, join clubs (photography, gaming, etc.) and get free camera equipment/games/conferences/courses/massages/etc., charitable fundraisers, fitness &amp; yoga programs (+gym membership), etc. This is the community to be in if you're a remote developer.</li><li>We’ll provide up to $2,500 in funding for your learning and growth through our Unleash program, which provides opportunities to unleash your potential through initiatives that help you grow as a developer and explore your passions more each day.</li></ul>                </div>            <div>        <a href='https://x-team.com/remote-python-developer-jobs/?utm_source=stackoverflow&amp;utm_medium=board' rel='nofollow'>                        Apply now        </a></div>            <h4>About X-Team</h4>            <div><p><a href='https://x-team.com/join/?utm_source=stackoverflow&amp;utm_medium=board' rel='nofollow'>X-Team</a>&nbsp;is an international company founded in Melbourne, Australia, that helps companies scale their development teams by providing them with motivated teams of developers from around the world.</p><p><strong>We are 100% remote and believe in building a world where developers can have access to an environment of growth and incredible opportunities regardless of where they live.</strong></p><p>We are also a community of people dedicated to&nbsp;<a href='https://x-team.com/unleash/?utm_source=stackoverflow&amp;utm_medium=board' rel='nofollow'>unleashing our potential</a>. We’ve fostered a unique, active lifestyle and culture around this idea that continues to attract thousands of developers to apply every day.</p><p>We proactively support our developers,&nbsp;<a href='https://x-team.com/unleash/?utm_source=stackoverflow&amp;utm_medium=board' rel='nofollow'>fund their learning and growth</a>, connect them in&nbsp;<a href='https://x-team.com/x-outpost/?utm_source=stackoverflow&amp;utm_medium=board' rel='nofollow'>roaming hacker houses</a>around the world, and give them a remote environment that motivates and inspires them on a daily basis. While other companies merely place and drop their talent, we provide unified teams of developers centered around the same beliefs, values, and lifestyle.&nbsp;</p><p>We're uniquely situated to help shape how companies grow their businesses in the digital age and aid them in being able to do so properly with the right people. We work with big, innovative brands like Riot Games, Fox Broadcasting, Kaplan Inc., Coinbase, Google, Twitter, Beachbody and more…</p><p><strong>Who is X-Team meant for?</strong></p><p>A potential X-Teamer is a developer with experience working on large-scale, remote teams and projects. They are self-motivated, proactive, and have a strong team spirit. If you're tired of the traditional freelancing platforms, you'll be happy to hear that we’re so much more. X-Team is a community of like-minded individuals, carefully chosen to ensure that they can become part of the community of the most motivated people in the world who come together to unleash their potential. What we've created is truly special and not merely a faceless platform. X-Team is where developers go to feel truly at home together while becoming more motivated than they've ever been.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Get the chance to work with big brands</span>                            </li>                            <li>                                <span></span>                                <span>Live and work in one of our roaming hacker houses around the world</span>                            </li>                            <li>                                <span></span>                                <span>Work from anywhere as part of a community of digital nomads</span>                            </li>                            <li>                                <span></span>                                <span>Join our vibrant community</span>                            </li>                            <li>                                <span></span>                                <span>We provide up to $2,500 in funding for your growth &amp; wellbeing</span>                            </li>                            <li>                                <span></span>                                <span>Gym reimbursement</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",

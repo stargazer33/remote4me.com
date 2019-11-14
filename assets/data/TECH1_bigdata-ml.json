@@ -1,6 +1,475 @@
 {
  "items": [
   {
+    "id": "GQoYLTaxSZ25unDo-sVPNQ",
+    "url": "https://weworkremotely.com/remote-jobs/density-inc-data-engineer",
+    "title": "Density Inc.: Data Engineer",
+    "tags": [
+      "DBG:surround``5N( cultur, 2N(remot, OR(work,worker)) )",
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=20, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Density Inc.",
+      "sameAs": "https://www.density.io/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 14, 2019 5:47:47 PM",
+    "validThrough": "Nov 21, 2019 5:47:47 PM",
+    "crawled": "Nov 14, 2019 6:23:16 PM",
+    "content": "<h3> Data Engineer </h3><div><div><strong>To our future Data Engineer</strong></div><div><br></div><div>At <a href='http://density.io/' rel='nofollow'>Density</a>, we build one of the most advanced people sensing systems in the world. The product and infrastructure is nuanced and one-of-a-kind. Building this product for scale has been an exercise in patience, creativity, remarkable engineering, laser physics, global logistics, and grit. The team is thoughtful, driven, and world-class.</div><div><br></div><div><br></div><div><strong>Why this is an important role</strong></div><div><br></div><div>Last week our deployed <a href='https://www.density.io/people-counter-sensor/' rel='nofollow'>DPUs</a> detected a million humans walking through doors. A number that increases every week.</div><div><br></div><div>As engineers, we think it's pretty cool to be capturing events at this volume. Especially when it's done anonymously, accurately, and in real-time. Our customers, however, are interested in what happens <em>after</em> these events enter our system.</div><div><br></div><div>Density is deployed globally, servicing a variety of use cases, by some of the largest companies in the world. Here are just a few examples. A leading cloud storage company is using Density to strengthen their physical security by detecting unauthorized access. A marquee hotel brand is using Density to measure lounge occupancy and dynamically deliver world-class service. An international telecom is using Density to better design and optimize their real estate portfolio.</div><div><br></div><div>These use cases may seem disparate, but a common thread holds them together. They all share the need for real-time and ongoing data analysis. And that's where you come in.</div><div><br></div><div>Our systems must efficiently and reliably:</div><div><br></div><div>- Update current counts and analytics whenever a relevant event occurs, for every impacted space,</div><div>- Publish the information to low-latency receivers via webhooks and websockets,</div><div>- Alert and notify as appropriate through SMS, email, and push notifications, and</div><div>- Aggregate events into analytics used for dashboards, forecasts, and fleet management.</div><div><br></div><div>Turning millions of events into actionable insight is a nuanced dance. Are you up for the job?</div><div><br></div><div>This role reports to our Director of Engineering.</div><div><strong><br>What you'll work on</strong></div><ul><li>Scale event ingestion pipelines requiring high availability and real-time data processing/delivery.</li><li>Store, optimize, and deliver analytical data via a RESTful API.</li><li>Backend development on internal and customer facing projects, utilizing Python, Django, and NodeJS.</li><li>Refine APIs and data delivery mechanisms for applications such as web dashboards, alerting &amp; health systems, mobile applications, and third party integrations</li><li>Work closely with DevOps to monitor inefficiencies and improve infrastructure</li><li>React to customer needs and feedback through tight-looped, iterative development</li><li>Contribute to open source initiatives</li><li>Document and teach best practices across our stack</li></ul><div><strong>What we're looking for</strong></div><ul><li>5+ years industry experience building and scaling web applications and APIs</li><li>Deep experience with stream processing systems (i.e. Kafka)</li><li>Experience writing ETL pipelines on a cloud infrastructure (AWS)</li><li>Deep experience with Python, Django / DRF, and Postgres</li><li>Experience building data-centric applications, including analytics pipelines, report generation systems, and alerting &amp; health systems</li><li>An understanding and appreciation for application performance monitoring and profiling tools</li><li>A desire to define, document, and teach web engineering standards</li><li>Strong writing skills, especially with crafting clear and concise documentation</li><li>A motivation for constant learning</li></ul><div><strong>Icing on the cake</strong></div><ul><li>Experience with statistical analysis and trend data modeling</li><li>A deep appreciation for design</li><li>A strange obsession with counting people (or what you can do with the resultant data)</li></ul><div>While we have offices in Syracuse (NY), San Francisco, and NYC, we embrace and have built a culture around remote work.</div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ctlTCoStTaO3UZqcjHZ_Gw",
+    "url": "https://remoteok.io/jobs/76215",
+    "title": "Data Engineer",
+    "tags": [
+      "DBG:surround``5N( cultur, 2N(remot, OR(work,worker)) )",
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=20, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Density",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 11:25:41 PM",
+    "validThrough": "Nov 20, 2019 11:25:41 PM",
+    "crawled": "Nov 13, 2019 11:30:38 PM",
+    "content": "<span></span> <span><h4>Density</h4></span> <br> <h3>Data Engineer</h3> <div>  <div>   \\nTo our future Data Engineer\\n\\nAt&nbsp;Density, we build one of the most advanced people sensing systems in the world. The product and infrastructure is nuanced and one-of-a-kind. Building this product for scale has been an exercise in patience, creativity, remarkable engineering, laser physics, global logistics, and grit. The team is thoughtful, driven, and world-class.\\n\\nWhy this is an important role\\n\\nLast week our deployed&nbsp;DPUs&nbsp;detected a million humans walking through doors. A number that increases every week.\\n\\nAs engineers, we think it's pretty cool to be capturing events at this volume. Especially when it's done anonymously, accurately, and in real-time. Our customers, however, are interested in what happens&nbsp;after&nbsp;these events enter our system.\\n\\nDensity is deployed globally, servicing a variety of use cases, by some of the largest companies in the world. Here are just a few examples. A leading cloud storage company is using Density to strengthen their physical security by detecting unauthorized access. A marquee hotel brand is using Density to measure lounge occupancy and dynamically deliver world-class service. An international telecom is using Density to better design and optimize their real estate portfolio.\\n\\nThese use cases may seem disparate, but a common thread holds them together. They all share the need for real-time and ongoing data analysis. And that's where you come in.\\n\\nOur systems must efficiently and reliably:\\n\\n- Update current counts and analytics whenever a relevant event occurs, for every impacted space, \\n- Publish the information to low-latency receivers via webhooks and websockets, \\n- Alert and notify as appropriate through SMS, email, and push notifications, and \\n- Aggregate events into analytics used for dashboards, forecasts, and fleet management.\\n\\nTurning millions of events into actionable insight is a nuanced dance. Are you up for the job?\\n\\nWhat you'll work on\\n\\n\\n* Scale event ingestion pipelines requiring high availability and real-time data processing/delivery.\\n\\n* Store, optimize, and deliver analytical data via a RESTful API.\\n\\n* Backend development on internal and customer facing projects, utilizing Python, Django, and NodeJS.\\n\\n* Refine APIs and data delivery mechanisms for applications such as web dashboards, alerting &amp; health systems, mobile applications, and third party integrations\\n\\n* Work closely with DevOps to monitor inefficiencies and improve infrastructure\\n\\n* React to customer needs and feedback through tight-looped, iterative development\\n\\n* Contribute to open source initiatives\\n\\n* Document and teach best practices across our stack\\n\\n\\n\\n\\nWhat we're looking for\\n\\n\\n* 5+ years industry experience building and scaling web applications and APIs\\n\\n* Deep experience with stream processing systems (i.e. Kafka)\\n\\n* Experience writing ETL pipelines on a cloud infrastructure (AWS)\\n\\n* Deep experience with Python, Django / DRF, and Postgres\\n\\n* Experience building data-centric applications, including analytics pipelines, report generation systems, and alerting &amp; health systems\\n\\n* An understanding and appreciation for application performance monitoring and profiling tools\\n\\n* A desire to define, document, and teach web engineering standards\\n\\n* Strong writing skills, especially with crafting clear and concise documentation\\n\\n* A motivation for constant learning\\n\\n\\n\\n\\nIcing on the cake\\n\\n\\n* Experience with statistical analysis and trend data modeling\\n\\n* A deep appreciation for design\\n\\n* A strange obsession with counting people (or what you can do with the resultant data)\\n\\n\\n\\n\\nWhile we have offices in Syracuse (NY), San Francisco, and NYC, we embrace and have built a culture around remote work.  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "t6hYhueKT5qmZ8fDi_g0_w",
+    "url": "https://stackoverflow.com/jobs/316105/data-engineer-density?a=1I0JpooRDSHC&so_medium=Talent&so_source=TalentApi",
+    "title": "Data Engineer at Density  ",
+    "tags": [
+      "DBG:surround``5N( cultur, 2N(remot, OR(work,worker)) )",
+      "DBG_TECH1:k/t/w:cakephp/php/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
+      "DBG_TECH1:k/t/w:django/python/24",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=30, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=8, embedded=0, frontend=16}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Density",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 10:30:32 PM",
+    "validThrough": "Nov 20, 2019 10:30:32 PM",
+    "crawled": "Nov 13, 2019 10:30:33 PM",
+    "content": "<h3><span>Data Engineer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Industry: </span>                                        <span>Data &amp; Analytics, Hardware Engineering, Software Development / Engineering</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Density | No office location<br></div><h4>Technologies</h4><div></div><div>python</div><div>django</div><div>reactjs</div>                <h4>Job description</h4>                <div><p><strong>To our future Data Engineer</strong></p><p>At&nbsp;<a href='http://density.io/' rel='nofollow'>Density</a>, we build one of the most advanced people sensing systems in the world. The product and infrastructure is nuanced and one-of-a-kind. Building this product for scale has been an exercise in patience, creativity, remarkable engineering, laser physics, global logistics, and grit. The team is thoughtful, driven, and world-class.</p><p><strong>Why this is an important role</strong></p><p>Last week our deployed&nbsp;<a href='https://www.density.io/people-counter-sensor/' rel='nofollow'>DPUs</a>&nbsp;detected a million humans walking through doors. A number that increases every week.</p><p>As engineers, we think it's pretty cool to be capturing events at this volume. Especially when it's done anonymously, accurately, and in real-time. Our customers, however, are interested in what happens&nbsp;<em>after</em>&nbsp;these events enter our system.</p><p>Density is deployed globally, servicing a variety of use cases, by some of the largest companies in the world. Here are just a few examples. A leading cloud storage company is using Density to strengthen their physical security by detecting unauthorized access. A marquee hotel brand is using Density to measure lounge occupancy and dynamically deliver world-class service. An international telecom is using Density to better design and optimize their real estate portfolio.</p><p>These use cases may seem disparate, but a common thread holds them together. They all share the need for real-time and ongoing data analysis. And that's where you come in.</p><p>Our systems must efficiently and reliably:</p><p>- Update current counts and analytics whenever a relevant event occurs, for every impacted space, <br>- Publish the information to low-latency receivers via webhooks and websockets, <br>- Alert and notify as appropriate through SMS, email, and push notifications, and <br>- Aggregate events into analytics used for dashboards, forecasts, and fleet management.</p><p>Turning millions of events into actionable insight is a nuanced dance. Are you up for the job?</p><p><strong>What you'll work on</strong></p><ul><li>Scale event ingestion pipelines requiring high availability and real-time data processing/delivery.</li><li>Store, optimize, and deliver analytical data via a RESTful API.</li><li>Backend development on internal and customer facing projects, utilizing Python, Django, and NodeJS.</li><li>Refine APIs and data delivery mechanisms for applications such as web dashboards, alerting &amp; health systems, mobile applications, and third party integrations</li><li>Work closely with DevOps to monitor inefficiencies and improve infrastructure</li><li>React to customer needs and feedback through tight-looped, iterative development</li><li>Contribute to open source initiatives</li><li>Document and teach best practices across our stack</li></ul><p><strong>What we're looking for</strong></p><ul><li>5+ years industry experience building and scaling web applications and APIs</li><li>Deep experience with stream processing systems (i.e. Kafka)</li><li>Experience writing ETL pipelines on a cloud infrastructure (AWS)</li><li>Deep experience with Python, Django / DRF, and Postgres</li><li>Experience building data-centric applications, including analytics pipelines, report generation systems, and alerting &amp; health systems</li><li>An understanding and appreciation for application performance monitoring and profiling tools</li><li>A desire to define, document, and teach web engineering standards</li><li>Strong writing skills, especially with crafting clear and concise documentation</li><li>A motivation for constant learning</li></ul><p><strong>Icing on the cake</strong></p><ul><li>Experience with statistical analysis and trend data modeling</li><li>A deep appreciation for design</li><li>A strange obsession with counting people (or what you can do with the resultant data)</li></ul><p>While we have offices in Syracuse (NY), San Francisco, and NYC, we embrace and have built a culture around remote work.</p>                </div>            <div>        <a href='https://jobs.lever.co/density/5ef99a03-2c9a-4fc2-9752-5c4e3c973762/apply?lever-source=stackoverflow' rel='nofollow'>                        Apply now        </a></div>            <h4>About Density</h4>            <div><p>At Density, we build a small sensor that measures how busy a location is in realtime. Customers mount the unit above a doorway, connect it to power and WiFi, and use our API to access how many people have visited.</p><p>When we announced what we were doing last summer, we hoped tech companies and developers would reach out. They did. But so too did hundreds of others from all around the world and in completely different markets. Some with expansive, two-thousand-location networks, others asking for a few hundred, and many with just one set of doors they deeply cared about: SMBs, Fortune 500s, startups, airlines, ad agencies, schools, hospitals, transit systems, and many many more.</p><p>We’ve since come to believe that the challenge of “human load balancing” is fundamental, fascinating, and global.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>15 days PTO + 10 Company Holidays</span>                            </li>                            <li>                                <span></span>                                <span>Health, Vision, and Dental insurance</span>                            </li>                            <li>                                <span></span>                                <span>401k and/or stock options</span>                            </li>                            <li>                                <span></span>                                <span>Paid parental leave</span>                            </li>                            <li>                                <span></span>                                <span>The proper gear</span>                            </li>                            <li>                                <span></span>                                <span>An awesome team</span>                            </li>                            <li>                                <span></span>                                <span>Commuter Benefit Program</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "z-0vf0K9RRSSNpPMbO7Gdw",
+    "url": "https://remoteok.io/jobs/76199",
+    "title": "Lead Back-End Engineer",
+    "tags": [
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``headquart 3N remot",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=12, ruby=0, apple=0, java=3, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "X-Mode Social",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 13, 2019 5:43:45 AM",
+    "validThrough": "Nov 20, 2019 5:43:45 AM",
+    "crawled": "Nov 13, 2019 6:06:35 AM",
+    "content": "<span></span> <span><h4>X-Mode Social</h4></span> <br> <h3>Lead Back-end Engineer</h3> <span></span> <span>verified</span> <br> <span>US-only</span> <div>  <div>   X-Mode provides real-time location data and technologies that power location intelligence for advertising and business decisions in financial services, healthcare, high-tech, real-estate, retail, and the public sector. X-Mode's flagship product is a fast-growing big data location platform, which maps daily the precise routes of 10% of the U.S. Population and maps monthly 1 in 3 adult U.S. smartphone users. X-Mode strives to produce and monetize the world’s largest location platform and ultimately create a global “living map” of 1 billion people with the highest quality location data in order to fuel the best location intelligence business solutions.\\n\\nX-Mode Social, Inc. is looking for a full-time Back-End Engineer to join our back-end team. For this position, you can work in either our Reston, VA headquarters or remotely. Our technical staff is scattered across the U.S, so you'll need to be comfortable working remotely. We often use video conferencing tools (like Slack, Google Meet) to coordinate, as well as Jira for tasking, and Bitbucket for source control. We work in short sprints, and we'll count on you to provide estimates for tasks to be completed and delivered. We're looking to hire someone to start right away! Think you've got what it takes? Apply below!\\n\\n# Responsibilities\\n * Use big data technologies, processing frameworks, and platforms to solve complex problems related to location\\n* Build, improve, and maintain data pipelines that ingest billions of data points on a daily basis\\n* Efficiently query data and provide data sets to help Sales and Client Success teams' with any data evaluation requests\\n* Ensure high data quality through analysis, testing, and usage of machine learning algorithms \\n\\n# Requirements\\n* BS in Computer Science preferred or relevant industry experience\\n* 1+ years of Spark and Scala experience\\n* Self-directed and self-motivated individuals comfortable working on a remote team \\n* Strong curiosity about new technologies and a desire to always use the best tools for the job\\n* Experience working with very large databases and batch processing datasets with hundreds of millions of records\\n* Experience with Hadoop ecosystem, e.g. Spark, Hive, or Presto/Athena\\n* Real-time streaming with Kinesis, Kafka or similar libraries\\n* Experience with SQL based data architectures\\n* 2+ years Linux experience\\n* 2 years working with cloud services, ideally in AWS\\n* Self-motivated learner who is willing to self-teach and can maintain a team-centered outlook\\n* BONUS: Experience with Python, Machine Learning, and Apache Elasticsearch or Apache Solr\\n* BONUS: GIS/Geospatial tools/analysis and any past experience with geolocation data \\n\\n#Location\\n- US-only   <br>  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "2jOqUnhASzajymuveG8i1A",
+    "url": "https://remote.co/job/mergers-acquisitions-associate/",
+    "title": "Mergers & Acquisitions Associate",
+    "tags": [
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``OR(work,countri,locat,contract,base,you W can) 2W anywher",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/America/East"
+    ],
+    "tagsNames1": [
+      "US East time zone"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Next Bridge Advisors",
+      "sameAs": "http://www.nextbridgeadvisors.com/"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 15,
+      "maxValue": 20,
+      "info": "",
+      "unit": "HOUR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "USD 15 - 20 /Hour"
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 12, 2019 6:30:16 PM",
+    "validThrough": "Nov 19, 2019 6:30:16 PM",
+    "crawled": "Nov 12, 2019 7:31:35 PM",
+    "content": "<h3>Mergers &amp; Acquisitions Associate at <span>Next Bridge Advisors</span></h3><div><span><i></i> Remote</span>         | <span> Freelance </span> | <span> International </span> | <span> Part-time </span></div><div>            <h5><strong>Compensation</strong></h5><p>$15-$20 per hour, depending on experience,&nbsp;plus up to 20% monthly performance-based bonus</p><h5><strong>Location</strong></h5><p>We prefer applicants NOT located in the United States or other developed economies.</p><h5><strong>Our Pitch to You</strong></h5><p>Do you want to learn about a variety of industries and talk with&nbsp;executives every day?&nbsp; As a Mergers &amp; Acquisitions Associate, you will talk with business leaders about growing their firms by acquiring businesses that have a strategic fit with theirs.&nbsp; You will also eventually guide business owners through part of the process of selling their business.&nbsp; If you don’t have experience doing all of that, we will teach you what you need to know.&nbsp; You will learn a LOT and gain great experience for your resume or CV.</p><h5><strong>The Work </strong></h5><p>You will:</p><ul><li>Call M&amp;A intermediaries to see if they would be willing to refer buyers to businesses we have for sale.</li><li>Call large companies that are prospective buyers to see whether they might have an interest in buying a business we are selling.</li><li>Call business owners who expressed interest in selling their business and take them through an initial valuation and interview process while on the phone.</li><li>Conduct research on potential acquirers of a business.</li></ul><h5><strong>Necessary Qualifications</strong></h5><ul><li>General understanding of business</li><li>Basic knowledge of accounting</li><li>3 years of experience working for a business with more than 5 employees</li><li>Exceptional oral and written English communication skills</li><li>Experience with Excel</li><li>Comfort with calling people with whom you have no prior communication (not for sales)</li><li>Ability to think on your feet</li><li>An accent that is very easy to understand to someone in the United States</li></ul><h5><strong>Preferred Qualifications</strong></h5><ul><li>Experience with cold calling (note that you will NOT be cold calling for the purpose of generating sales)</li><li>Sales experience (note that you will not be doing any sales work)</li></ul><h5><strong>Job Parameters</strong></h5><ul><li>This is long-term work.</li><li>You will be paid hourly.</li><li>Work will be project-based and projects will last several days or weeks.</li><li>20-40 hours of work per week will be available.</li><li>You need to be available Monday through Friday from 8am to 4pm New York time.</li><li>You need to be available to make a phone call immediately after receiving an email during those hours.</li><li>You will only be paid for the time when you work, not for time when you are available to work.</li><li>You will be given a monthly performance bonus based your performance for the month.</li></ul><h5><strong>About Next Bridge Advisors</strong></h5><p>Founded in 2008 and based in New York, Next Bridge Advisors advises small-to-midsize firms on business sale and licensing transactions.&nbsp; More recently, the firm has begun connecting M&amp;A advisors selling businesses with other M&amp;A advisors who might be connected to buyers for those businesses.&nbsp; The firm was founded by Ashish Bhatt, who previously worked in the Corporate Development Group at E-Trade Financial, earned an MBA at the Kellogg School of Management, and gained undergraduate admission to the University of Pennsylvania.&nbsp; Learn more at https://www.nextbridgeadvisors.com.</p><p>Location: <strong>Anywhere in the world</strong></p>        </div><div>        <a href='https://next-bridge-advisors-inc.breezy.hr/p/63e28a0665b9-mergers-acquisitions-associate/apply' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "rwdw9wVNREeERs2PRDVCeA",
+    "url": "https://jobmote.com/job/101166/data-scientist-remote-ok/",
+    "title": "Data Scientist (Remote OK)",
+    "tags": [
+      "DBG:surround``remot W OR(contractor,assist,ok)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=32, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Ubiquity6 Inc.",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 11, 2019 8:07:41 PM",
+    "validThrough": "Nov 14, 2019 8:07:41 PM",
+    "crawled": "Nov 12, 2019 2:06:30 AM",
+    "content": "<div>We are looking for a Data Scientist to help leverage our growing user base and quickly increasing dataset to prioritize product and content development, identify optimization opportunities, and automate data flows and analyses for key decision makers. This role will be responsible for creating dashboards, designing experiments, presenting your findings through data visualizations, as well as contributing to the design of recommendation systems. In this role, you will also work to increase the reliability and trustworthiness of our data by identifying data quality issues and the sources and magnitudes of such problems. Job Responsibilities: Develop actionable reporting, analysis, and core metric dashboards to help business and technical teams discover insights and increase understanding of our products and services Build &amp; maintain data visualizations that empower decision making Scope and manage ad hoc analytics projects driven by the needs of the business such as growth projections, quality analysis Reconcile data between various systems, find opportunities to innovate, and drive improvements Experience Required: A minimum of one year of Data Science experience in a technology or research industry Excellent at uncovering problems, figuring out why they are happening, and seeing them through to resolution Able to systematically break a complex problem down into a set of testable hypotheses, then test them Ability to write complex SQL/data queries and visualize them for engineering and business teams Experience in high-level programming languages and tools for analysis (Python, R, Tableau, etc.) Excellent communicator, both written and verbal Balance the need to move quickly with diligence and attention to detail Experience collaborating with data engineering and infrastructure teams to influence systems / database choices and design Experience Desired: BA/BS/BE in a quantitative field (Statistics, Computer Science, Ops Research etc.) Masters or PhD in Statistics/Mathematics Experience building recommendation systems Experience in a product-focused role at a social media and/or mobile technology company AR/VR experience Experience working at a fast-paced startup</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "C_8A_KcoS-O510o070UaCw",
+    "url": "https://jobmote.com/job/101154/software-engineer-data-infrastructure-remote-option-available/",
+    "title": "Software Engineer, Data Infrastructure (Remote Option Available)",
+    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Waybetter Marketing",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 11, 2019 8:07:41 PM",
+    "validThrough": "Nov 14, 2019 8:07:41 PM",
+    "crawled": "Nov 12, 2019 2:06:30 AM",
+    "content": "<div>Waybetter is a higher education enrollment marketing consultancy. We help colleges and universities recruit more best-fit students by architecting sound enrollment strategies and then implementing and executing hyper-personalized, data-informed marketing campaigns. Our current client roster is representative of the diversity across the higher education landscape and includes some of the best and most highly regarded institutions in the country. As part of the Waybetter Platforms team, you'll be reimagining and rebuilding a cloud-based EdTech platform that provides full visibility into the student's higher education journey. You'll design and build a graph that matches students to great colleges and universities. You'll be Waybetter's first dedicated data engineer and will be hands-on designing and deploying systems for data capture, storage, and transformation that will turn the college enrollment process from bewildering to obvious. Our critical path is to transport data across multiple APIs in parallel to and from massive data clusters. You build analytics tools with the end goal of providing actionable information You are familiar with the challenges associated with large-scale data collection, storage and transformation in production, and your designs and implementations reflect that understanding You are an advanced user of the AWS platform (e.g. CloudFormation+SAM, CloudFront, CloudWatch, Lambda, SQS, SNS, DynamoDB, EMR, Lex), but take advantage of offerings from Azure and Google as well You have worked with fast data platforms such as Airflow, Kafka, Elasticsearch, Spark, and Hive You appreciate that engineering is all about tradeoffs and realize there is a time and place for streaming, batch, and offline You can't stop identifying internal process improvements and automations while optimizing data delivery and re-designing infrastructure for greater scalability. You have 5+ years of relevant experience and your degree in Computer Science is a plus You understand that great engineering teams are built upon relationships, just as much as they are built on awesome code Most importantly: You're awesome. The above describes your mindset, but maybe not all your skills Requirement: Authorized to work in the United States on a full-time basis. We are unable to sponsor employment visas. Why You Want To Work At Waybetter We're a small, agile company poised for significant growth (we've grown by 30% in the last two years alone). We are revenue positive and funneling it back into technology. Our salary and benefits are competitive. We work really hard but also believe in a healthy work-life balance. Helping colleges and universities market to prospective students is a truly rewarding experience. Our clients are genuinely grateful for what we do . The Waybetter Platforms is a remote first team. Even if you work from our Columbia headquarters, you'll interact through the asynchronous channels that drive a geographical diverse team. Benefits Competitive salary + bonus Health insurance 401(k) with a guaranteed 3% profit sharing 15 days PTO plus company holidays Paid parental leave Work from anywhere within the contiguous United States Professional development stipend Free snacks Learn more about Waybetter: </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "EBooOH77Qf6wBvIFCyUOcA",
+    "url": "https://jobmote.com/job/101146/senior-lead-statistical-programmer-analyst-remote/",
+    "title": "Senior/Lead Statistical Programmer Analyst (Remote)",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:matlab/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=13, mobile=1, go=0, nodejs=0, bigdata-ml=12, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/c",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "FMD K&L",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 11, 2019 8:07:41 PM",
+    "validThrough": "Nov 14, 2019 8:07:41 PM",
+    "crawled": "Nov 12, 2019 2:06:30 AM",
+    "content": "<div>Job Title: Senior/Lead Statistical Programmer Analyst (Remote) Employment Type: Full Time Location: Fort Washington, PA Reporting to: Director, Statistical Programming About FMD K&amp;L FMD K&amp;L is a global contract research organization supporting data management, biostatistics, statistical programming, clinical operations, regulatory affairs, safety, pharmacovigilance, toxicology, medical affairs, medical writing, quality, risk, and compliance services to the pharmaceutical, biotechnology, and medical device industries worldwide. We continuously strive to raise the standard of excellence through accuracy and efficiency to achieve the highest quality output for our Customers. K&amp;L was established in the US in 1995, and has grown to more than 1,400 employees worldwide, with key offices and delivery centers in the US, UK, China, India, Armenia, Japan and throughout the Asia-Pacific region. Please visit our website klserv.com for our company information. If you are interested in our position please send your resume to . Responsibilities This is an advanced-level Senior Statistical Programmer Analyst position. Key responsibilities and skills may include, but are not limited to: Annotate Case Report Form (acrf.pdf) following FDA/CDISC or sponsor guidelines. Develop SDTM specifications and generate SDTM datasets using SAS. Develop ADaM,specifications and generate ADaM datasets using SAS based on Statistical Analysis Plan. Develop Tables, Listings, Graphs, Patient Profile in support of the Clinical Study Report, Posters, Manuscripts. Develop ADaM data, Tables, Listings, Figures for Integrated Summary of Safety (ISS) and Integrated Summary of Efficacy (ISE). Create electronic submission package to FDA, e.g., define.xml or define.pdf following FDA guidelines with minimum supervision. Analyze information and develop innovative solutions to programming and data analysis challenges. Actively communicate with statisticians for statistical input and analysis interpretation. Follow and reinforce regulatory agency requirements during daily job. Serve as a programming team lead and contribute to department initiative. Provide guidance, mentoring, training for team members and help solve issues from cross-functional teams. Review draft and final production deliverables for project to ensure quality and consistency. Qualifications Bachelor's/Master's degree in Statistics, Mathematics, Computer Science, Electrical Engineering, Biotechnology or related scientific disciplines with at least 3 years of clinical programming experience. Proven knowledge and training in high level computing languages such as. SAS, C/C++, Java, R, Python, MATLAB and SQL. Database programming experience is a plus. Proficient in decoding programming logic and assembling programming code based on logic provided and be able to explain to team members. Proficient in applying concepts in Artificial Intelligence and Machine Learning in the real world. In-depth knowledge of Good Clinical Practices, Clinical research, Clinical trial process and related regulatory requirements and terminology. Good understanding of clinical drug development process. Strong communication skills and coordination skills. ability to communicate with global teams with supervision. In-depth knowledge of Good Clinical Practices, Clinical research, Clinical trial process and related regulatory requirements and terminology. Good understanding of clinical drug development process. Detail-oriented and ability to learn and adapt to changes. Proficient in Microsoft Office Suite, e.g., Word, Excel, PowerPoint, etc. FMD K&amp;L is an Equal Opportunity Employer / Committed to Diversity</div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "FV6j97HySOm4TabQSHuzHg",
+    "url": "https://news.ycombinator.com/item?id=21507216",
+    "title": "HeadSpin | Asia Pacific | REMOTE | Full-time | https://www.headspin.io/ HeadSpin is ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 11, 2019 7:17:46 PM",
+    "validThrough": "Nov 18, 2019 7:17:46 PM",
+    "crawled": "Nov 11, 2019 7:31:28 PM",
+    "content": "HeadSpin | Asia Pacific | REMOTE  | Full-time | <a href='https://www.headspin.io/' rel='nofollow'>https://www.headspin.io/</a><p>HeadSpin is revolutionizing the way developers test, monitor and optimize their applications. We are building a first-of-its-kind, mobile device cloud platform that allows apps to instantaneously run on real devices across global mobile carrier networks. Our goal is to provide powerful, actionable data which pinpoints any problem in the app and enables developers to fix these issues before launch.</p><p>Sales Engineer | As a Sales Engineer at HeadSpin, you will be responsible for providing world class pre-sales technical support to the sales team. Working directly with customers you will be the subject matter expert on application performance management and HeadSpin.</p><p>I am hiring specifically for someone that speaks fluent Mandarin Chinese [会说普通话]</p><p>Please apply via this link [In Additional Information add &quot;Ask HS: Who is hiring?&quot;]<a href='https://jobs.lever.co/headspin/35a94223-34b1-4414-981d-2491bfa53851/apply' rel='nofollow'>https://jobs.lever.co/headspin/35a94223-34b1-4414-981d-2491b...</a></p><p>We are also hiring other roles [Software Engineers, Data Scientist, Sales]<a href='https://jobs.lever.co/headspin' rel='nofollow'>https://jobs.lever.co/headspin</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "sxNgKLZ3S1iU5jfxOU8zHA",
     "url": "http://workinstartups.com/job-board/job/86753/love-data-science-what-about-the-data-science-of-love-at-clikd-dating-app/",
     "title": "Love Data Science? What about the Data Science of Love?",
@@ -3605,6 +4074,59 @@
     }
   },
   {
+    "id": "hT7o97JpRQSr3gwd0heMUw",
+    "url": "https://www.42jobs.io/rails/jobs/8412-senior-software-engineer",
+    "title": "Senior Software Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=24, ruby=10, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Solstice Studios",
+      "sameAs": "http://www.solstice-studios.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 28, 2019 9:59:39 AM",
+    "validThrough": "Nov 4, 2019 9:59:39 AM",
+    "crawled": "Oct 28, 2019 10:07:42 AM",
+    "content": "<h3>Senior Software Engineer</h3><div><p></p><p>This job represents an excellent opportunity to create greenfield toolsets in a rapidly iterative and forward thinking environment. You would touch all parts of the business and work directly with key stakeholders, including marketing, post, data science, production, international and more. Reporting directly to the CTO.&nbsp;</p><p>What you’ll do&nbsp;</p><ul><li>Design, architect and build a range of web based software tools to run a progressive and forward thinking Hollywood Movie Studio</li><li>Expose those tools via well-designed APIs that support rapid development of front-end features</li><li>Work closely with our data science team to help drive a data-first approach across the business.</li><li>Build front end tools using React.js, with a focus on usability and design</li><li>Design and write code that is well-tested and continuously improved</li><li>Guide peer review and share your knowledge with the team</li><li>Keep up to date with the latest software development technologies and methodologies</li><li>Practise DevOps - you’re responsible for getting your code to production and supporting it.</li><li>Use the latest cloud services available to run your code.</li><li>Participate in recruitment process: CV reviews, interviews, reviewing technical ability and cultural fit</li><li>Run an agile team – participate in stand-ups, sprint planning &amp; retrospectives</li></ul><p>Qualifications&nbsp;</p><ul><li>3+ Years of leading a software team and designing product architecture</li><li>Ruby&nbsp;and Rails experience, with strong knowledge of OOP and functional programming principles&nbsp;</li><li>Javascript (ES6)</li><li>Experience with building out CI/CD pipelines to AWS/GCP using various technologies such as Docker/Terraform/Cloudformation etc.</li><li>An interest in additional languages, paradigms and skills</li><li>Strong communication skills. With cross-functional teams that span a wide range of technical proficiency, as well as remote team members, your ability to explain complex ideas and teach others is vital to the success of this role.</li><li>Proactive and organised. Startup life means constant change and you need to be hungry to tackle whatever challenge lies ahead.</li></ul><p>&nbsp;Nice to have</p><ul><li>Python</li></ul><p></p><span>Apply now</span></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "-_cA8_tWSaW-t_KprKtSSA",
     "url": "https://jobmote.com/job/96430/software-engineer-data-infrastructure-remote-option-available/",
     "title": "Software Engineer, Data Infrastructure (Remote Option Available)",
@@ -4130,6 +4652,56 @@
     }
   },
   {
+    "id": "atC9-smMTWObJkrTH3fMgQ",
+    "url": "http://workinstartups.com/job-board/job/86070/associate-inclusion-and-mentoring-trainer-at-creative-mentor-network/",
+    "title": "Associate Inclusion and Mentoring Trainer",
+    "tags": [
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Creative Mentor Network",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 24, 2019 11:13:49 AM",
+    "validThrough": "Oct 31, 2019 11:13:49 AM",
+    "crawled": "Oct 24, 2019 1:06:41 PM",
+    "content": "<p>We&rsquo;re looking for experienced, engaging and highly-effective inclusion and mentoring trainers to co-design and deliver our innovative and impactful coaching and inclusion programmes in organisations across the creative industries.</p><br /><p><strong>About Creative Mentor Network</strong></p><br /><p><a href='http://creativementornetwork.org/'>Creative Mentor Network</a> is a charity with a mission to make the creative world of work more diverse and inclusive through mentoring. We work with colleges across London to connect talented 16-25 year olds from diverse backgrounds with those working in the creative industries.&nbsp;</p><br /><p>We work with some great partners across the creative industries - Havas, Soho House, Sony Music and Sky - matching up their employees with young people and supporting their journey into the industry.</p><br /><p>Our model is designed so that everyone wins: supportive careers guidance for students; training and development for mentors; access to diverse talent for creative businesses.</p><br /><p>We&rsquo;re small, but growing fast. <strong>We work closely together and always for the benefit of the young people we support. This is a great opportunity to work with a growing charity at an exciting time.</strong></p><br /><p>&nbsp;</p><br /><p><strong>About the role</strong></p><br /><p>Our Associate Trainers are responsible for engagingly, impactfully and professionally delivering discursive and theory based organisational training.</p><br /><p>This delivery could be a one-off 2 hour workshop, half a day, or could be part of a course of training spanning 16 weeks.</p><br /><p>Our training workshops are designed, drawing from unique and bespoke Creative Mentor Network content. However, it&rsquo;s important to us to constantly evolve and improve our offer. As an Associate Trainer, you will also be involved in Creative Mentor Network development days where we bring together our expertise to innovate and develop our training.</p><br /><p>Organisational facilitators are also responsible for certain preparatory and logistical tasks relating to the successful running of a workshop or programme. This will include preparing and transporting resources required and developing the training content to ensure it is relevant and meets the needs of each client.</p><br /><p><strong>Salary</strong>: Rates of pay differ depending on: level of experience, the structure and length of the programme, and the client. Therefore, facilitators can expect to be paid between &pound;200 &ndash; &pound;400 per day.</p><br /><p><strong>Location</strong>: Variable, in London</p><br /><p><strong>Contract</strong>: Freelance</p><br /><p><strong>Start date</strong>: December 2019 / January 2020<br /><strong>Deadline to apply: </strong>Friday 1st November</p><br /><p><strong>Training Dates</strong>: You must be available to attend a training session on either Thursday 31st October 5-7pm, Tuesday 5th November 2.30-4.30pm, Tuesday 26th November 2.30-4.30pm</p><br /><p><strong>Interviews</strong>: We will organise interviews on a rolling basis, part of the interview process will be delivering a workshop.</p><br /><p><strong>Experience we are looking for</strong></p><br /><ul><br /><li>Experience of successfully delivering engaging organisational training</li><br /><li>Experience in any of the following areas: coaching, leadership development, education, equality, inclusion and diversity</li><br /></ul><br /><p><strong>Skills and knowledge</strong></p><br /><ul><br /><li>Strong reliability and professionalism</li><br /><li>The ability to create safe and courageous learning spaces</li><br /><li>Familiarity with the concepts of social and cultural capital, and the debates surrounding diversity, inclusion and social mobility.</li><br /><li>Understanding of models of coaching, and leadership styles</li><br /><li>The ability to support the thinking of adults in an engaging way</li><br /><li>Flexibility in facilitation and courage to face problems when they arise in a workshop</li><br /><li>Open to feedback and developing your capacities and skills</li><br /><li>Creativity in the face of challenges and unexpected logistical issues</li><br /><li>Strong communication skills</li><br /><li>Organised and prepared, with good time-awareness and can-do, positive attitude to making our mentor training have the most impact possible</li><br /></ul><br /><p><strong>To apply</strong></p><br /><p>Email a CV and a short cover statement of no more than 200 words to Isabel.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "HAuG_PH8SxqHcn0j6DW-IQ",
     "url": "http://workinstartups.com/job-board/job/86068/programme-manager-at-creative-mentor-network/",
     "title": "Programme Manager",
@@ -4267,6 +4839,58 @@
     "validThrough": "Oct 26, 2019 10:08:14 PM",
     "crawled": "Oct 24, 2019 3:06:30 AM",
     "content": "<div><p><strong>Client: Banking/Financial Services</strong> </p><p><strong>Location: Charlotte, NC (Remote Work-Flex Available ) </strong> </p><p><strong>Duration: 6 month contract, extendable to 24 months, and eligible for conversion to FTE</strong> </p><p><strong>Position Title: Business Data Analyst (SAS / SQL)</strong><strong><br></strong> </p><p> </p><p><strong>Summary:</strong> </p><p>Our client is seeking consulting analyst to build a team, who will assist in standing up a program to remediate and fix data gaps, while supporting corrective actions to comply with regulatory requirments. These individuals will need business acumen and communication skills, in addition to, technical chops, to work alongside LOB's and understand requirements. A background in BI, Databases, and/or reporting is desired. <br></p><p><br></p><p><strong>Essential to the role: </strong> </p>SAS/SQL coding experience A self-starter who does <strong>NOT</strong> need to be babysat <strong> </strong> <p><br></p><p><strong>Job Description:</strong> </p><ul><li>Responsible for consulting with clients to identify and define business requirements and translate business needs into complex analysis designs and recommendations. </li><li>Identifies and recommends internal and external data sources, compiles/mines data from multiple, cross business sources </li><li>Recommends and participates in the development of complex analysis designs using statistical and/or financial analysis, predictive modeling, process documentation, comparative analysis, etc. </li><li>Interprets results and recommends solutions to increase revenue, reduce expense, maximize operational efficiency/quality, etc. </li><li>Ensures adherence to data management regulations and policies. </li></ul><p><br></p><p><strong>Desired Qualifications:</strong> </p><ul><li>4+ years of SAS experience </li><li>4+ years SQL experience </li><li>Relational Database experience (Oracle preferred) </li><li>4+ years reporting and analytical experience </li><li>Strong analytical and documentation skills with high attention to detail and accuracy </li><li>Excellent verbal, written, and interpersonal communication skills</li></ul></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "qy4L1LZpRyW7--V973V4pQ",
+    "url": "http://workinstartups.com/job-board/job/86058/biomed-startup-co-founder-at-lit-lab/",
+    "title": "Biomed Startup Co-founder",
+    "tags": [
+      "DBG:surround``OR(home,remot,telecommut) 3W OR(meet, face, person)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Lit Lab",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 23, 2019 9:05:44 PM",
+    "validThrough": "Oct 30, 2019 9:05:44 PM",
+    "crawled": "Oct 23, 2019 10:30:39 PM",
+    "content": "<p><strong>Product</strong></p><br /><p>Finding funding for scientific research and completing the necessary applications is time-consuming. Hiring in this industry is difficult, largely due to the high degree of specialisation for projects. Founded and shaped by scientists, Lit Lab gives researchers the resources that they need to further their career, helping to fund research and find talent.</p><br /><p>&nbsp;</p><br /><p><span class=&quot;Apple-converted-space&quot;><strong>Team</strong>&nbsp;</span></p><br /><p>I&rsquo;m a doctor and as the founder of Lit Lab I&rsquo;m looking for a technical co-founder. Competence with Java and Python is essential. The candidate should also be an exceptional problem-solver and have a strong bias towards action - i.e. gets shit done! An equal equity split is available for the right candidate who is prepared to share the capital investment. Otherwise equity will be adjusted to reflect risk. Development will be done remotely with regular meetings online and in person.<span class=&quot;Apple-converted-space&quot;>&nbsp;</span></p><br /><p>&nbsp;</p><br /><p><strong>Market</strong></p><br /><p>Currently Lit Lab has demoed a prototype to a lab with a research focus on cancer genetics. This validated the idea, indicating that we&rsquo;re trying to solve a compelling problem. The initial market for the web app is researchers in the biomedical sciences. However, our user interviews have identified a need across other disciplines including the physical sciences. If you fancy a crazy ride leading a startup that will help researchers change lives then I look forward to reading your CV.</p><br /><p>&nbsp;</p><br /><p>Dr Raj Parmar, MBBS BSc</p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -4528,6 +5152,53 @@
     "validThrough": "Oct 29, 2019 7:44:34 PM",
     "crawled": "Oct 22, 2019 8:30:37 PM",
     "content": "<span></span> <span><h4>komoot</h4></span> <br> <h3>Senior Data Analyst</h3> <span></span> <span>verified</span> <br> <span>UTC-1 to UTC+3</span> <div>  <div>   **Millions of people experience real-life adventures with our apps. We help people all over the world discover the best hiking and biking routes, empowering our users to explore more of the great outdoors. And we’re good at it: Google and Apple have listed us as one of their Apps of the Year numerous times—and we are consistently ranked amongst the highest-grossing apps in both Google Play and the App Store. \\n\\nWe’re looking for an experienced and curious data analyst to help drive product decisions and help us develop the company strategy. We believe that data-informed decision making is key to our success and your skills, curiosity, and experience will play a crucial role in building the future of outdoor experiences.**\\n\\nWhy you will love it\\n* You’ll be a key player in making product development, marketing, and business decisions\\n* You’ll work closely with komoot’s co-founder and influence the future direction of komoot\\n* You’ll influence and be responsible for the future development of analytics at komoot, technically an organizationally\\n* You’ll work in a fast-paced startup with strongly motivated and talented co-workers\\n* You’ll enjoy the freedom to organize yourself the way you want \\n* We let you work from wherever you want, be it a beach, the mountains, your house or anywhere else that lies in any time zone situated between UTC-1 and UTC+3\\n* You’ll travel together with our team to amazing outdoor places several times a year to exchange ideas, learnings and go for hikes and rides\\n\\n\\n\\n# Responsibilities\\n What you will do\\n* Turn data into actionable insights\\n* Develop analysis to drive product and business decisions and company strategy\\n* Design and implement metrics, dashboards, and continuous reports\\n* Communicate and discuss findings to different audiences (Co-founders, marketing, product, sales, etc.)\\n* Design and lead bigger analytics project to answer komoot’s key questions\\n* Organize and prioritize tasks of our data analytics roadmap\\n* Be an evangelist of data-informed decision-making\\n \\n\\n# Requirements\\nYou will be successful in this position if you\\n* Have a burning desire to transform data into actionable insights\\n* Have 3+ years of experience in evaluating marketing campaigns, cohort analysis, A/B testing and retention\\n* Fluent in SQL and Python’s data analytics libraries (pandas, numpy, matplotlib)\\n* Have strong communication and team skills\\n* Familiarity with statistical concepts\\n* Have a good overview of technical solutions in the data analytics field\\n* Have a hands-on attitude and are highly self-driven\\n \\n\\n#Location\\n- UTC-1 to UTC+3   <br>  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "PyMCSAVTTV-ps_4Zdqh2KA",
+    "url": "http://workinstartups.com/job-board/job/85997/junior-research-psychologist-at-arctic-shores/",
+    "title": "Junior Research Psychologist",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Arctic Shores",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 22, 2019 3:33:50 PM",
+    "validThrough": "Oct 29, 2019 3:33:50 PM",
+    "crawled": "Oct 22, 2019 5:06:41 PM",
+    "content": "<p><strong>Junior Research Psychologist - London </strong></p><br /><p>&nbsp;</p><br /><p><strong>Who are we? </strong></p><br /><p>We're an innovative and fast-growing psychometric tech business; our solutions combine neuroscience, artificial intelligence and game technology that aim to disrupt the candidate selection process. We process large amounts of data from the behavioural assessments we develop and then put it all through our analytics engines to derive insights into personality traits and behaviours. As a company, we believe technology will underpin everything we do in the future and our goal.</p><br /><p><strong>&nbsp;</strong></p><br /><p><strong>What we are looking for:</strong></p><br /><p>We're looking for a Junior Research Psychologist to join our London team based in our brand-new WeWork offices.</p><br /><p>&nbsp;</p><br /><p>As our Junior Research Psychologist, you will be working closely with our Senior Product Psychologist and will provide support to the wider Science team which includes our cognitive science, psychometrics, and product team.</p><br /><p><strong>&nbsp;</strong></p><br /><p><strong>What your days will look like:</strong></p><br /><ul><br /><li>Conducting statistical analysis to support to the Senior Product Psychologist and Statistician.</li><br /><li>Managing candidate feedback and norm group data.</li><br /><li>Creating and updating norm groups.</li><br /><li>Collaborating with members of the Science team to ensure projects are delivered and presented in a professional and timely manner.</li><br /><li>Delivering reports on candidate feedback.</li><br /><li>Providing feedback and ideas to improve processes relating to the entire candidate experience and norm groups.</li><br /><li>Contributing to the growth of Arctic Shores&rsquo; platform in the marketplace by producing good quality research reports.</li><br /><li>Creating content for reports.</li><br /></ul><br /><p>&nbsp;</p><br /><p><strong>The must haves:</strong></p><br /><ul><br /><li>BSc or equivalent in Psychology</li><br /><li>Strong Statistical analysis skills using SPSS</li><br /><li>Experience of working in an office-based environment</li><br /><li>Understanding of research processes</li><br /><li>MSc in Organisational/Occupational Psychology or similar field</li><br /></ul><br /><p><strong>&nbsp;</strong></p><br /><p><strong>The nice to haves:</strong></p><br /><ul><br /><li>Strong attention to detail</li><br /><li>Excellent organisational skills</li><br /><li>Supportive attitude</li><br /><li>Passion for learning</li><br /><li>Strong team working skills</li><br /><li>High intuition/independent working</li><br /></ul><br /><p>&nbsp;</p><br /><p><strong>Here's what we offer:</strong></p><br /><ul><br /><li>A community-driven and relaxed work culture, which you'll fit right into. Part of this includes a regular games night and social events.</li><br /><li>A chance to work with a standout and disruptive product, that's shaping the HR market and candidate experience.</li><br /><li>A&nbsp;voice in your team where you can be&nbsp;heard and have a direct influence on how we create our products.</li><br /><li>Working hours that are flexible to life outside of work.</li><br /><li>A central location that's&nbsp;easy to commute to.&nbsp;</li><br /><li>Flexibility to work from home on a weekly basis.</li><br /><li>2 mental wellbeing days.</li><br /><li>25 days annual leave + holidays.</li><br /><li>A dynamic working office in WeWork, where you can shut out the world with your headphones on or revel in the cosy&nbsp;co-working spaces.</li><br /><li>Free breakfast on Mondays, onsite barista and bar, and weekly events and talks where you can learn&nbsp;from other local businesses.</li><br /></ul><br /><p>&nbsp;</p><br /><p><strong>Equal Opportunities</strong></p><br /><p>At Arctic Shores, giving people a fair chance is what we do, that's why we take equal opportunities seriously.&nbsp;We welcome people of any background, gender identification, race, religion, national origin, sexual orientation, ability-level, age, size, marital status, style or music taste!</p><br /><p>&nbsp;</p><br /><p>If we sound like the kind of place you&rsquo;d like to work, apply below or&nbsp;get in touch with Liam, he's our Research Manager&nbsp;at liam.close@arcticshores.com.</p><br /><p>&nbsp;</p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -6081,6 +6752,54 @@
     "validThrough": "Oct 18, 2019 3:09:20 PM",
     "crawled": "Oct 21, 2019 10:31:50 PM",
     "content": "<p><strong>Growing your business is hard. We make it&nbsp;<em>easy</em></strong></p><br /><p>CreditDigital is a well funded start up, building the future of revenue finance. We help businesses get access to growth capital fast and repay via a revenue share model without having to put their home on the line or loose equity. A true partnership.</p><br /><p>We integrate with a suite of live data points, so we can create an unfiltered view of a businesses performance- as and when it happens.</p><br /><p><strong>What's the opportunity?</strong></p><br /><p>We are on a mission to fuel business growth and we need the help of an experienced and hands on Data Scientist to get there. You will be joining as the first data scientist to work alongside our Chief Risk Officer and you will have great influence on how we shape product (including lending decisions) through the use of data. If you&rsquo;re excited about the craft and process of building an exciting product from the ground up and working with great people, you&rsquo;ll fit right in.</p><br /><p><strong>What will I be doing</strong></p><br /><ul><br /><li>Analysing novel sets of data never used before to underwrite the financial suitability of a business.</li><br /><li>Develop metrics to better understand our customers performance.</li><br /></ul><br /><ul><br /><li>Communicate complicated and diverse data into easy-to-digest dashboards (such as sales e-commerce conversion, ad metrics, ad spend and forecasting).</li><br /></ul><br /><ul><br /><li>Working closely with the Chief Risk Officer and CTO.</li><br /><li>You will be joining an early stage company so through your analytical skills you will help shape the direction of our technology</li><br /></ul><br /><p><strong>What skills do I need?</strong></p><br /><ul><br /><li>Ideally experience with digital marketing (ad metrics and google analytics etc).</li><br /><li>Strong academic record (MEng, MSci, EngD or PhD).&nbsp;</li><br /><li>Advanced quantitative skills in machine learning/statistics/mathematics or similar fields</li><br /><li>Ability to apply complex technologies in novel high-value use-cases</li><br /><li>An excellent written and verbal communicator with a high level of business acumen&nbsp;</li><br /><li>Highly capable, self-motivated, collaborative and personable&nbsp;</li><br /><li>High integrity and drive&nbsp;</li><br /><li>Naturally curious and effective problem solver</li><br /><li>Ability to effectively work independently in a fast-moving environment</li><br /><li>Strong coding skills. Preferably in Python</li><br /></ul><br /><p><strong>Where will I be working</strong></p><br /><p>We are based in Old Street next to Finsbury Square at a lovely&nbsp;<a href='https://www.wework.com/en-GB/buildings/70-wilson-st--london'>WeWork office</a>.</p><br /><p><strong>What would I be paid?</strong></p><br /><p>Our pay is within the top 10% of the industry, for the matched role and experience, based on London rates.</p><br /><p>Our benefits are all aimed at supporting a life well lived away from work:</p><br /><ul><br /><li>25 days off per annum plus bank holidays.</li><br /><li>35 hours / week. Normal working hours are between 9am &ndash; 5pm.</li><br /><li>Work from home whenever. If you prefer to come to the office everyday that&rsquo;s great, if you prefer to work from home 4 times a week that&rsquo;s fantastic. Whatever works for you. As a team we will make sure you are not missing out by pushing remote first practices.</li><br /><li>Flexibility to adjust your daily hours. Visiting friends and family in another country, going to the bank or the gym, you only need to have an overlap between our core hours (12am &ndash; 4pm) for 6 hours. As an example, you can start at 8am and finish at 4pm or 12am and finish at 8pm.</li><br /></ul><br /><p>&nbsp;</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "X7BAr5vGScybbTeOyqYNUw",
+    "url": "http://workinstartups.com/job-board/job/85103/research-support-and-consultancy-at-prolific/",
+    "title": "Research Support and Consultancy",
+    "tags": [
+      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "Prolific",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 28000,
+      "maxValue": 35000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 28k - 35k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Oct 2, 2019 10:37:16 AM",
+    "validThrough": "Oct 9, 2019 10:37:16 AM",
+    "crawled": "Oct 21, 2019 10:31:50 PM",
+    "content": "<h2>The role:</h2><br /><p>At the core of Prolific is our fast-growing platform, which connects thousands of researchers with tens of thousands of participants. This allows researchers to screen for samples of verified participants, manage the process of running studies with them online, and paying them.&nbsp;Prolific is a Y Combinator (YC) S19 batch company, and to&nbsp;support the rapid growth of our platform we're looking for keen people&nbsp;to join our support team!</p><br /><h2>Together with our Support Team you will work towards these key goals:</h2><br /><ul><br /><li>Make sure everything runs smoothly for customers, all necessary admin is taken care of, and if issues occur, you&rsquo;ll help resolve them</li><br /><li>Help researchers plan and set up their studies (for example, surveys, experiments) on Prolific&rsquo;s platform</li><br /><li>Promote the platform to potential users, and reflect the concerns of customers in how we best improve the product</li><br /></ul><br /><h2>This will likely involve some or all of the following:</h2><br /><ul><br /><li>Manage day-to-day support of researcher and participant customers via our online tools (with a focus on written communication)</li><br /><li>Acquire an understanding of the academic research space and what&rsquo;s important to researchers in running online studies</li><br /><li>Provide advice on best approaches to designing and running research studies on prolific</li><br /><li>Occasionally manage participant support and mediate in issues between participants and researchers</li><br /><li>Pro-actively make improvements to processes and resources for supporting researchers</li><br /><li>Draft written specifications of improvements to features or policies for the platform</li><br /><li>Be mindful of the company&rsquo;s targets and goals</li><br /></ul><br /><p>You will have an opportunity to learn about the startup ecosystem, about the lean startup approach, and about user acquisition techniques and growth strategies. More broadly, you will get the chance to learn about business and product development, data science, and diverse research areas in the social and natural sciences.</p><br /><p>This is your chance to get involved in a fast-moving startup where you&rsquo;ll have huge influence over the trajectory of the product. Since it&rsquo;s a startup, you&rsquo;ll have the opportunity to suggest how you can best add value, and make any recommendations about improving the processes and product. We're a fast-growing company and we want to help you grow with us.</p><br /><h2>Details</h2><br /><ul><br /><li>Salary: &pound;28,000-35,000</li><br /><li>Pension (employer contribution 3% of base salary)</li><br /><li>Flexible working: Work equipment of your choice, you can work flexibly from home or from our coworking space, flexible hours</li><br /><li>25 days holiday per year, plus bank holidays</li><br /><li>Budget for educational and training</li><br /><li>Personal growth opportunities (e.g., learn about the startup ecosystem, mentoring from executive team, learn about psychological science and research methods)</li><br /><li>Open, transparent, and inclusive culture</li><br /><li>Self-made cider and home-baked cookies</li><br /><li>Generous maternity, paternity, and shared parental leave</li><br /></ul><br /><p>You&rsquo;ll be joining an enthusiastic team of fifteen distributed across the UK. If you&rsquo;re interested in this role, please send your CV and Cover letter.</p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -8241,471 +8960,6 @@
     "validThrough": "Sep 22, 2019 4:03:07 PM",
     "crawled": "Sep 15, 2019 4:07:20 PM",
     "content": "<h3>            Big Data Engineer – Telecommute        </h3><div>United States, Illinois</div><div>Company: UnitedHealth Group<p></p></div><div>                    <h4>Overview</h4>                    <p>Challenge brings out the best in us. It also attracts the best. That’s why you’ll find some of the most amazingly talented people in health care here. Bring your skills and talents to a role where you’ll have the opportunity to make an impact on a huge scale. This is the place to do your life’s best work.(sm)You’ll enjoy the flexibility to telecommute* from anywhere within the U.S. as you take on some tough challenges. Primary Responsibilities:Design, code, test, document, and maintain high-quality and scalable analytic solutionsIdentify gaps and opportunities for improvement of existing solutionsDefine and develop APIs for integration with various data sources in the enterpriseAnalyze customer requirements with respect to current solutionMake accurate development effort estimates to assist management in project and resource planningParticipate in code reviews and assistance for junior analysts Collaborate with management, quality assurance, architecture, and other development teamsWrite technical documentation and participate in production supportKeep skills up to date through ongoing self-directed trainingThe ideal candidate will be a self-starter who can learn things quickly who is enthusiastic, active, and eager to learn.</p><p><b>Required Qualifications:</b>Bachelor’s degree in a technical field, or equivalent experience5+ years of hands-on Software Development experience3+ years of development experience with (Java or Scala), and Web Services2+ years of experience in big data technologies like Spark, Cassandra, Hadoop, etc2+ years of experience in messaging (Kafka preferred), NoSQL databases (Cassandra/Hbase preferred), Docker, Kubernetes 2+ years of previous relational database experience Understanding of service oriented architecture (SOA) conceptsExperience with Agile/SCRUM methodology/best practices Experience and successful track-record of learning new tools and technologies and leveraging these on integration and implementation projects Preferred Qualifications:Experience in infrastructure services on at least one major cloud platform (Azure preferred)Advanced degree in a technical field Healthcare industry experience Formal training and/or certification in any of the above-mentioned tools and technologies Careers with Optum. Here’s the idea. We built an entire organization around one giant objective; make health care work better for everyone. So when it comes to how we use the world’s large accumulation of health-related information, or guide health and lifestyle choices or manage pharmacy benefits for millions, our first goal is to leap beyond the status quo and uncover new ways to serve. Optum, part of the UnitedHealth Group family of businesses, brings together some of the greatest minds and most advanced ideas on where health care has to go in order to reach its fullest potential. For you, that means working on high performance teams against sophisticated challenges that matter. Optum, incredible ideas in one incredible company and a singular opportunity to do your life’s best work.(sm)*All Telecommuters will be required to adhere to UnitedHealth Group’s Telecommuter Policy.Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.Job Keywords: Big Data Analyst, telecommute, telecommuter, telecommuting, work from home, travel, remote</p><p><b>Job Title: </b> Big Data Engineer – Telecommute <br><b>Shift: </b> Day Job <br><b>Travel: </b> No <br><b>Business: </b> OI Business Operations <br><b>Family: </b> Analytics <br><b>Telecommuter Position: </b> Yes <br><b>Job Level: </b> Individual Contributor <br><b>Overtime Status: </b> Exempt <br><b>Posted Date: </b> 9/13/2019 <br><b>City: </b> Schaumburg <br><b>State: </b> IL <br><b>Country: </b> United States <br><b>Department: </b> Optum Enterprise Analytics<br> – provided by Dice</p>                                                <div>                            <a href='https://www.jobg8.com/Traffic.aspx?UzBlbx50%2fHeRIrhxRYDdrwk' rel='nofollow'>Apply for job</a>                    </div>                                    </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Es5BMtzoQfKjJiqVseF03Q",
-    "url": "https://jobmote.com/job/73744/remote-data-engineer/",
-    "title": "Remote Data Engineer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/48",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:scala/java/3",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=48, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "VirtualVocations",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 14, 2019 1:15:35 PM",
-    "validThrough": "Sep 17, 2019 1:15:35 PM",
-    "crawled": "Sep 14, 2019 6:23:02 PM",
-    "content": "<div>A web design company is filling a position for a Remote Data Engineer.<br><br>Must be able to: <br> Design and implement sophisticated data pipelines<br> Build a computing platform to support data driven analytics<br> Design and implement real-time analytics streams<br>Qualifications Include:<br><br> 2-5 years' experience as a data engineer designing and supporting data pipelines<br> Experience with big data infrastructure to support data science on Linux based systems<br> Knowledge of the ETL process and patterns of real time data pipelines<br> Experience with Apache Spark and Kafka<br> Working knowledge of Python, Java, or Scala<br> Ability to allocate work with cloud based AWS resources<br> Associated topics: data architect, data engineer, data integration, data management, database, database administrator, etl, erp, mongo database administrator, teradata</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "EYLXIQdHRhyxWwyToF77cA",
-    "url": "https://jobmote.com/job/72714/sr-data-engineer-remote-position/",
-    "title": "Sr. Data Engineer (Remote Position)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:apache-storm/java/8",
-      "DBG_TECH1:k/t/w:com/dotnet/8",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=24, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Primesoft, Inc",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 13, 2019 10:07:38 PM",
-    "validThrough": "Sep 16, 2019 10:07:38 PM",
-    "crawled": "Sep 14, 2019 3:06:24 AM",
-    "content": "<div><p> <strong>Role</strong>: Sr. Data Engineer</p> <p> <strong>Location</strong>: Stamford, CT</p> <p> <strong>Exp:</strong> 9+ Yrs</p> <p> <strong>MOI</strong>: Skype</p> <p> <strong>Position:</strong> Remote</p> <p> <strong>Technologies:</strong> Spark, Kafka, AWS, Python</p> <p> <strong>Description:</strong></p> <ul><li> <strong>9+ years</strong> of hands-on <strong>Data Engineering</strong> with a focus on low latency Streaming and analysis.</li> <li> <strong>4+ years</strong> of experience building low-latency production systems applying big data and cloud technologies (e.g. HDFS, Storm, Spark, Kafka, Amazon AWS, REST, etc.).</li> <li> <strong>2+ years of Spark and Kafka</strong> expertise are required.</li> <li>Excellent ability to understand complex requirements and to translate those requirements into working designs and high-quality software. Ability to blend a fast-moving startup perspective with the requirements of a highly regulated organization.</li> <li> <strong>3+ years</strong> in teams applying modern<strong> agile</strong> software development practices with a focus on test-driven development and test automation</li> <li>Proven track record of building complex, novel systems in startups or other organizations and industries such as IoT</li> <li>Experience in NoSQL stores (e.g. DynamoDB, MongoDB, HBase, Cassandra, etc) and RDBMS.</li></ul><p> </p> <p>Regards,</p> <p>Prakash</p> <p>732-79-5440</p> <p>prakash.v(at)primesoftinc(dot)com</p> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "khQxT4zKTy2Zwxx3kvZxHA",
-    "url": "https://jobmote.com/job/72705/data-engineer-fully-remote/",
-    "title": "Data Engineer - Fully Remote",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Jefferson Frank",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 13, 2019 10:07:38 PM",
-    "validThrough": "Sep 16, 2019 10:07:38 PM",
-    "crawled": "Sep 14, 2019 3:06:24 AM",
-    "content": "<div><br><br><p>This is a fully remote position with a premier Washington D.C. client. They are looking for a Data Engineer to work with various teams and integrate data via ETL Pipelines from various different languages. Working closely company executives you will also build out policies, compliance and governance requirements, contributing to the enterprise. This is is a perfect opportunity for someone with mid-level experience and needs that vertical move within their career. </p><br><p>Role &amp; Responsibilities</p><br><ul><li><br></li><li> ETL <br></li><li> SQL Quieres <br></li><li> Working with company executives. <br></li></ul><br><p><br>Skills &amp; Qualifications</p><br><ul><li><br></li><li> Python <br></li><li> AWS<br></li><li> ElasticSearch <br></li></ul><br><p>Benefits</p><br><ul><li><br></li><li> FULLY REMOTE <br></li><li> 100% Paid Healthcare <br></li><li> PTO Days <br></li></ul> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "H1tDYkR0S86eBEdUPsRZpg",
-    "url": "https://jobmote.com/job/72597/senior-data-engineeratstamford-ct-full-100-remote/",
-    "title": "Senior Data EngineeratStamford, CT (Full 100 % Remote)",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG_TECH1:k/t/w:apache-storm/java/16",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=36, ruby=0, apple=0, java=16, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Intone Networks Inc.",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 10:07:36 PM",
-    "validThrough": "Sep 15, 2019 10:07:36 PM",
-    "crawled": "Sep 13, 2019 3:06:25 AM",
-    "content": "<div><p> <strong>Title: Senior Data Engineer</strong>  </p> <p> <strong>Location: Stamford, CT (Full Remote)</strong>  </p> <p> <strong>Duration: 12+ Months</strong>  </p> <p> <strong>Interview Process: Phone and Skype Interviews</strong>  </p> <p> <strong>Experience Level: 8+ years</strong>  </p> <p>  </p> <p> <strong> Technologies:</strong> Spark, Kafka, AWS, Python </p> <p>  </p> <p> <strong> Top Skills Details:</strong> </p> <ol><li>8+ years of hands-on Data Engineering with a focus on low latency Streaming and analysis.</li> <li>4+ years of experience building low-latency production systems applying big data and cloud technologies (e.g. HDFS, Storm, Spark, Kafka, Amazon AWS, REST, etc.).</li> <li>2+ years of Spark and Kafka expertise are required.</li> <li>Excellent ability to understand complex requirements and to translate those requirements into working designs and high-quality software. Ability to blend a fast-moving startup perspective with the requirements of a highly regulated organization.</li></ol><p>  </p> <p> <strong> Description:</strong> </p> <ul><li>Responsible for implementing software components for highly available, low latency streaming.</li> <li>Work closely with architects and technical product managers to translate overall system architecture and product requirements.</li> <li>Building Data Pipelines in order to leverage consumer data more effectively.</li> <li>Analyze available data sets to create opportunity for business stakeholders.</li> <li>Participate in software design reviews, code reviews, and provide input and feedback to other members of the development team.</li> <li>Write unit, functional, regression tests for your code, and you contribute to the test automation, continuous integration and deployment processes together with everyone else in the development team</li></ul><p>  </p> <p> <strong> Technical Description:</strong> </p> <ul><li>7+ years of hands-on Data Engineering work; with 10+ years of professional experience focused on leveraging Data Effectively.</li> <li>4+ years experience building low-latency production systems applying big data and cloud technologies (e.g. HDFS, Storm, Spark, Kafka, Amazon AWS, REST, etc.).</li> <li>2+ years of Spark and Kafka expertise are required.</li> <li>3+ years in teams applying modern agile software development practices with a focus on test-driven development and test automation</li> <li>B.S. in Computer Science or related Engineering is required, a Master s degree is desirable</li> <li>Proven track record of building complex, novel systems in startups or other organizations and industries such as IoT</li> <li>Experience in NoSQL stores (e.g. DynamoDB, MongoDB, HBase, Cassandra, etc) and RDBMS.</li></ul><p>  </p> <p> <strong>THIS IS NOT A DIRECT MACHINE LEARNING ROLE, but this role will be working with the data science team to utilize ML to reduce Credit Card fraud using real time, low latency processing for their organization, as well as being leveraged for the entire Credit segment of Company's business.</strong>  </p> <p>  </p> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "HiUM85iXTZOeTPe-pE-r_Q",
-    "url": "https://jobmote.com/job/72596/remote-data-architect/",
-    "title": "Remote -Data Architect",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "AdvanceSoft Inc",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 10:07:36 PM",
-    "validThrough": "Sep 15, 2019 10:07:36 PM",
-    "crawled": "Sep 13, 2019 3:06:25 AM",
-    "content": "<div><p>Data Architect Position-</p> <p>Clearance:- <strong>MBI clearance required</strong></p> <p>Client:- IRS/BAH</p> <p>Location:- Herndon-VA - Remote</p> <p>Duration:- Long term</p> <p>Interview mode:- Phone/Skype</p> <p>Rate:- DOE</p> <p>Immediate interview &amp; hiring</p> <p> </p> <p>Following is the Data Architect position description.</p> <p> </p> <p>Data modeling at the conceptual and logical level</p> <ul><li>Data model implementation at the physical level</li> <li>5+ years experience with cloud-based big data storage, processing, ETL/ELT, and ingest tools such as S3, AWS Glue, and Apache Spark</li> <li>3+ years experience with manipulating both SQL and NoSQL-based file types and data structures</li> <li>3+ years experience with software development as part of an agile-based Dev team</li> <li>Ability to work in diverse environments and communicate complex ideas to teammates, clients, and non-technical experts</li></ul><p> </p> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "vUS0aZ71Rq-9IVu2MumWYQ",
-    "url": "https://stackoverflow.com/jobs/296070/senior-graphics-developer-luna?a=1Bi97wOj97Ms&so_medium=Talent&so_source=TalentApi",
-    "title": "Senior Graphics Developer at Luna (Kraków, Poland) ",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:animation/gamedev/8",
-      "DBG_TECH1:k/t/w:assembly/c/1",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
-      "DBG_TECH1:k/t/w:game-developer/gamedev/13",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:opengl/c/5",
-      "DBG_TECH1:k/t/w:rust/other/30",
-      "DBG_TECH1:techWeightMap:{python=0, other=30, dotnet=0, c=6, mobile=0, go=3, nodejs=1, bigdata-ml=32, ruby=0, apple=0, java=0, gamedev=21, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TECH1/other",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml",
-      "other"
-    ],
-    "hiringOrganization": {
-      "name": "Luna",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 40000,
-      "maxValue": 120000,
-      "info": "Equity",
-      "unit": "YEAR",
-      "parser": "SalaryParserDefaultImpl",
-      "isEquity": false,
-      "formatted": "USD 40k - 120k /Year | Equity"
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 7:30:24 PM",
-    "validThrough": "Sep 19, 2019 7:30:24 PM",
-    "crawled": "Sep 12, 2019 7:30:24 PM",
-    "content": "<h3><span>Senior Graphics Developer</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Graphics/Game Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud Computing, Data Science, Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11–50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                <div>Company: Luna | Kraków, Poland<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Kraków, Poland.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                            <div>                                    <span>Visa Sponsorship:</span>                                    <span>Yes</span>                                </div>                                                            <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h4>Technologies</h4><div></div><div>rust</div><div>webassembly</div><div>graphics</div><div>rendering</div><div>webgl</div>                <h4>Job description</h4>                <div><p><strong>Senior Graphics Developer</strong></p><p><a href='https://luna-lang.org' rel='nofollow'>Luna</a> is looking for a senior graphics developer to take charge of the design, development, and evolution of a new WebGL-based GUI for Luna, a project said by Singularity University to have the potential to change the lives of one-billion people. If you bring strong technical skills and a passion for performance, this could be the role for you.</p><p>As a senior graphics developer you'll be a key part of bringing the vision for Luna 2.0 into reality, with your work being integral to the realisation of the next iteration of Luna. You'll be able to collaborate with world-class team of skilled engineers, community managers, and business developers (from Bloomberg, PayPal, and GitHub to name a few), and make your indelible mark on the future of Luna.</p><p><strong>What You'll Do</strong></p><p>As a senior graphics developer, you'll be responsible for designing and building a high-performance renderer based on web technologies for use in the Luna IDE: Luna Studio. This will involve:</p><ul><li>Working closely with stakeholders and customers to design the new GUI for Luna Studio.</li><li>Developing a design for the new renderer that will be used to implement this GUI.</li><li>Implementing the new renderer in a high-performance manner on top of WebGL and Rust (via Web Assembly).</li><li>Building a next-generation UI framework using this renderer for use in Luna Studio.</li><li>Using this UI framework to build the new GUI for Luna Studio itself.</li><li>Debug performance issues to ensure that the renderer is capable of achieving high performance even on low-powered hardware.</li><li>Creating visualisations for data science libraries using the renderer and D3.js.</li></ul><p><strong>The Skills We're Looking For</strong></p><p>We have a few particular skills that we're looking for in this role:</p><ul><li>A strong focus on both user experience and aesthetics.</li><li>3+ years experience with WebGL (or OpenGL).</li><li>A deep understanding of graphics abstractions including: VAOs, FBOs, PBOs, buffer types, and asynchronous computation modes.</li><li>A deep understanding of GPU techniques including: efficient buffer management, efficient GLSL construction, high-performance vector and font rendering, post-processing, 3D scene description (with nested objects), lights, cameras, and animation.</li><li>2+ years experience with Rust, including experience writing <code>unsafe</code> code for FFI and performance, and using the macro system for metaprogramming. You should be able to write <em>idiomatic</em> rust code.</li><li>Practical experience building high-performance graphical interfaces for end-user-facing applications.</li></ul><p>As part of the hiring process for this job posting we're <em>very</em> interested in your previous work in these areas. Please link us to your Rust projects, blog posts and shadertoy shaders if you have them! It's important for us to understand your experience at the start of the hiring process.</p><p>It would be a big bonus if you had:</p><ul><li>Experience with Rust's WASM toolchain, with wasm-bindgen, and experience with WASM itself.</li><li>Experience with visual programming systems such as Houdini, Max/MSP, Lab VIEW, or Touch Designer.</li><li>Knowledge of the runtime and memory models used by various JavaScript virtual machines.</li><li>Knowledge of D3.js, and experience using it to visualise data.</li></ul><p>Avoid <a href='https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/' rel='nofollow'>the confidence gap</a>. You don't have to match <em>all</em> of the skills above to apply!</p><p><strong>Who You'll Work With</strong></p><p>You'll be joining a distributed, multi-disciplinary team that includes people with skills spanning from compiler development to data-science. Though you'll have your area to work on, our internal culture is one of collaboration and communication, and input is always welcomed.</p><p>We firmly believe that only by working <em>together</em>, rather than putting our team members in their own boxes, can we create the best version of Luna that can be.</p><p><strong>The Details</strong></p><p>As part of the Luna team you'd be able to work from anywhere, whether that be at home, or on the go! We have team members distributed across the world, from San Francisco, to London, to Kraków. We welcome remote work and flexible schedules, or you can work from the Kraków office (or our planned SF office) if you'd like. We can provide competitive compensation and holiday, as well as the possibility of equity as time goes on.</p><p><strong>How To Apply?</strong></p><p>Send us an email at <code><a href='mailto:jobs@luna-lang.org' rel='nofollow'>jobs@luna-lang.org</a></code>, and tell us a little bit about yourself and why you think you'd be a good fit for the role! You can also tell us about:</p><ul><li>Some of your past work or projects.</li><li>Why you'd like to work on Luna, and where you imagine Luna being in 5 years.</li><li>The most important features of a team that you'd like to work in.</li><li>Whether you take pride in your ability to communicate clearly and efficiently with your team.</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/296070?reset=False&amp;ra=1Bi97wOj97Ms&amp;oqs=a%3D1Bi97wOj97Ms%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h4>About Luna</h4>            <div><p><strong>About Luna</strong><br>Luna is an award-winning general-purpose programming language and data-science platform, selected by NASA and Singularity University as a technology with the potential to impact the lives of one-billion people worldwide. It spans the entire stack, from high-level visualisation and communication, to the<br>nitty-gritty of running backend services in a single language. With inbuilt capabilities for visualisation and a dual-syntax architecture, the possibilities are limitless.<br><br>At Luna, we have a world-class team, with developers, community managers, and business developers from all walks of life and backgrounds, and work in close collaboration with industry advisers such as Robert Gentleman, the creator of the R programming language and computational biologist at 23andMe, and Edward Kmett, a skilled language designer and machine intelligence researcher at MIRI.<br><br>We welcome anybody to our team, as long as you have the desire and drive to see Luna succeed.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Team built around the Humility, Respect, and Trust ideology.</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours, possible part / full time remote work.</span>                            </li>                            <li>                                <span></span>                                <span>Work in a small team of world-class engineers and make impact on Luna.</span>                            </li>                            <li>                                <span></span>                                <span>Competitive compensation + possibility of equity as time goes on.</span>                            </li>                            <li>                                <span></span>                                <span>Equality, diversity &amp; inclusion.</span>                            </li>                            <li>                                <span></span>                                <span>We've got standing desks in our office (no one uses them though :P).</span>                            </li>                    </ul>                ",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ROpBFgpkTBO7eT3VvJ2lrw",
-    "url": "https://remoteok.io/jobs/75050",
-    "title": "Senior Data Engineer",
-    "tags": [
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
-      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
-      "DBG_TECH1:k/t/w:mapreduce/bigdata-ml/5",
-      "DBG_TECH1:k/t/w:python/python/10",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
-      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=1, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=49, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "NAVIS",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 6:05:01 AM",
-    "validThrough": "Sep 19, 2019 6:05:01 AM",
-    "crawled": "Sep 12, 2019 6:06:30 AM",
-    "content": "<span></span> <span><h4>NAVIS</h4></span> <br> <h3>Senior Data Engineer</h3> <div>  <div>   \\n&nbsp;NAVIS is excited to be hiring a&nbsp;Sr. Data Engineer!&nbsp;&nbsp;This is a NEW position due to growth in this area.&nbsp;\\n\\nBe a critical element of what sets NAVIS apart from everyone else!&nbsp; Join the power behind the best-in-class Hospitality CRM software and services that unifies hotel reservations and marketing teams around their guest data to drive more bookings and revenue.\\n\\nOur&nbsp;Guest Experience Platform&nbsp;team is seeking an experienced Senior Data Engineer to play a lead role in the building and running of our modern big data and machine learning platform that powers our products and services. In this role, you will responsible for building the analytical data pipeline, data lake, and real-time data streaming services.&nbsp; You should be passionate about technology and complex big data business challenges.\\n\\nYou can have a huge impact on everything from the functionality we deliver for our clients, to the architecture of our systems, to the technologies that we are adopting.&nbsp;\\n\\nYou should be highly curious with a passion for building things!\\n\\nClick here for a peek inside our Engineering Team\\n\\n\\nDUTIES &amp; RESPONSIBILITIES:\\n\\n\\n* Design and develop business-critical data pipelines and related back-end services\\n\\n* Identification of and participation in simplifying and addressing scalability issues for enterprise level data pipeline\\n\\n* Design and build big data infrastructure to support our data lake\\n\\n\\n\\n\\n\\nQUALIFICATIONS:\\n\\n\\n* Python - expert-level / programming mastery of Python or PySpark (at least five (5) years of continuous Python experience within the context of data pipelines / big data)\\n\\n* The ability to teach advanced Python or PySpark development techniques to developers with mid-level Python skill sets\\n\\n* At least two (2) years of extensive experience with Hadoop Ecosystem (Spark / PySpark)\\n\\n* Experience with building, breaking, and fixing production data pipelines\\n\\n* Hands-on SQL skills and background in other data stores like SQL Server, Postgres, or MongoDB\\n\\n* Experience with continuous delivery and automated deployments (Terraform)\\n\\n* ETL experience\\n\\n* Able to identify and participate in addressing scalability issues for enterprise level / big data\\n\\n\\n\\n\\n\\nDESIRED, BUT NOT REQUIRED SKILLS:\\n\\n\\n* Any experience with AWS services like Glue, S3, SQS, Lambda, Fargate, EC2, Athena, Kinesis, Step Functions, DynamoDB, CloudFormation and CloudWatch will be a huge plus\\n\\n* Any experience with&nbsp;MapReduce, Yarn, HDFS, Hive, Presto, HBase, Parquet is preferred, but not required\\n\\n* Experience with machine learning or interest in picking it up\\n\\n\\n\\n\\n\\nPOSITION LOCATION:\\n\\nThere are 3 options for the location of this position:\\n\\n\\n* Can work&nbsp;remotely&nbsp;in the continental US with occasional travel to Bend, Oregon\\n\\n* Based at a shared office space in the heart of downtown Portland, Oregon\\n\\n* Based at our offices in Bend, Oregon (relocation assistance package available)\\n\\n\\n\\n\\nCheck out this video to learn more about the Tech scene in Bend, Oregon\\n\\n\\nNAVIS OFFERS:\\n\\n\\n* An inclusive, fun, values-driven company culture – we’ve won awards for it\\n\\n* A growing tech company in Bend, Oregon\\n\\n* Work / Life balance - what a concept!\\n\\n* Excellent benefits package with a Medical Expense Reimbursement Program that helps keep our medical deductibles LOW for our Team Members\\n\\n* 401(k) with generous matching component\\n\\n* Generous time off plus a VTO day to use working at your favorite charity\\n\\n* Competitive pay + annual bonus program\\n\\n* FREE TURKEYS (or pies) for every Team Member for Thanksgiving (hey, it's a tradition around here)\\n\\n* Your work makes a difference here, and we make a huge impact to our clients’ profits\\n\\n* Transparency – regular All-Team meetings, so you can stay in-the-know with what’s going on in all areas our business\\n\\n\\n  </div> </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "Y3JPAcXiQRm0iKq8TZqIEQ",
-    "url": "https://jobmote.com/job/72476/remote-data-engineer/",
-    "title": "REMOTE - Data Engineer",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:c#/c/4",
-      "DBG_TECH1:k/t/w:c#/dotnet/10",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/24",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=10, c=4, mobile=0, go=0, nodejs=0, bigdata-ml=24, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 11, 2019 10:07:55 PM",
-    "validThrough": "Sep 14, 2019 10:07:55 PM",
-    "crawled": "Sep 12, 2019 3:06:25 AM",
-    "content": "<div>Minimum Required Skills:<br>Power BI, SQL, ETL, Azure, Data Factory, Databricks, PowerShell, Ssis, C#, Blob Storage<br><br>If you are a REMOTE - Data Engineer with experience, please read on!<br><br>What You Need for this Position<br><br>At Least 3 Years of experience and knowledge of:<br><br>- Power BI<br>- SQL<br>- ETL<br>- Azure<br>- Data Factory<br>- Databricks<br>- PowerShell<br>- Ssis<br>- C#<br>- Blob StorageSo, if you are a REMOTE - Data Engineer with experience, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, only US citizens can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "inp7q7v0SUOJ4t6NiII1Ug",
-    "url": "https://stackoverflow.com/jobs/295698/senior-data-engineer-big-data-data-pipelines-navis?a=1BapynA47D0s&so_medium=Talent&so_source=TalentApi",
-    "title": "Senior Data Engineer - Big Data / Data Pipelines - REMOTE at NAVIS (Bend, OR) ",
-    "tags": [
-      "DBG:surround``3N(locat,remot)",
-      "DBG:surround``can 2W remot",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/32",
-      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/16",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
-      "DBG_TECH1:k/t/w:mapreduce/bigdata-ml/5",
-      "DBG_TECH1:k/t/w:python/python/12",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
-      "DBG_TECH1:techWeightMap:{python=12, other=0, dotnet=1, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=57, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/bigdata-ml",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "NAVIS",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 12, 2019 12:06:24 AM",
-    "validThrough": "Sep 19, 2019 12:06:24 AM",
-    "crawled": "Sep 12, 2019 12:06:24 AM",
-    "content": "<h3><span>Senior Data Engineer - Big Data / Data Pipelines - REMOTE</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Industry: </span>                                        <span>CRM, Enterprise Software, Hospitality</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Company size: </span>                                        <span>201–500 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: NAVIS | Bend, OR<br></div>                    <h4>Remote details</h4>                    <div>                        <div>                                                                                        <div>                                    <span>Office Location:</span>                                    <span>Bend, OR.</span>                                        <span>Employees can also work full time from this office.</span>                                </div>                                                            <div>                                    <span>Visa Sponsorship:</span>                                    <span>Yes</span>                                </div>                                                            <div>                                    <span>Relocation Assistance:</span>                                    <span>Yes</span>                                </div>                        </div>                    </div>                <h4>Technologies</h4><div></div><div>python</div><div>apache-spark</div><div>pyspark</div><div>hadoop</div><div>etl</div>                <h4>Job description</h4>                <div><p>&nbsp;NAVIS is excited to be hiring a&nbsp;<strong>Sr. Data Engineer</strong>!&nbsp;&nbsp;<em>This is a NEW position due to growth in this area.&nbsp;</em></p><p>Be a critical element of what sets NAVIS apart from everyone else!&nbsp; Join the power behind the best-in-class Hospitality CRM software and services that unifies hotel reservations and marketing teams around their guest data to drive more bookings and revenue.</p><p>Our&nbsp;<em>Guest Experience Platform</em>&nbsp;team is seeking an experienced Senior Data Engineer to play a lead role in the building and running of our modern big data and machine learning platform that powers our products and services. In this role, you will responsible for building the analytical data pipeline, data lake, and real-time data streaming services.&nbsp; You should be passionate about technology and complex big data business challenges.</p><p>You can have a huge impact on everything from the functionality we deliver for our clients, to the architecture of our systems, to the technologies that we are adopting.&nbsp;</p><p><em>You should be highly curious with a passion for building things!</em></p><p><strong><a href='https://thenavisway.wistia.com/medias/ce96ssiv8o' rel='nofollow'>Click here for a peek inside our Engineering Team</a></strong></p><p><strong>DUTIES &amp; RESPONSIBILITIES:</strong></p><ul><li>Design and develop business-critical data pipelines and related back-end services</li><li>Identification of and participation in simplifying and addressing scalability issues for enterprise level data pipeline</li><li>Design and build big data infrastructure to support our data lake</li></ul><p><strong>QUALIFICATIONS:</strong></p><ul><li>Python - expert-level / programming mastery of Python or PySpark (at least five (5) years of continuous Python experience within the context of data pipelines / big data)</li><li>The ability to teach advanced Python or PySpark development techniques to developers with mid-level Python skill sets</li><li>At least two (2) years of extensive experience with Hadoop Ecosystem (Spark / PySpark)</li><li>Experience with building, breaking, and fixing production data pipelines</li><li>Hands-on SQL skills and background in other data stores like SQL Server, Postgres, or MongoDB</li><li>Experience with continuous delivery and automated deployments (Terraform)</li><li>ETL experience</li><li>Able to identify and participate in addressing scalability issues for enterprise level / big data</li></ul><p><strong>DESIRED, BUT NOT REQUIRED SKILLS:</strong></p><ul><li>Any experience with AWS services like Glue, S3, SQS, Lambda, Fargate, EC2, Athena, Kinesis, Step Functions, DynamoDB, CloudFormation and CloudWatch will be a huge plus</li><li>Any experience with&nbsp;MapReduce, Yarn, HDFS, Hive, Presto, HBase, Parquet is preferred, but not required</li><li>Experience with machine learning or interest in picking it up</li></ul><p><strong>POSITION LOCATION:</strong></p><p>There are 3 options for the location of this position:</p><ul><li>Can work&nbsp;<strong><em>remotely</em></strong>&nbsp;in the continental US with occasional travel to Bend, Oregon</li><li>Based at a shared office space in the heart of downtown Portland, Oregon</li><li>Based at our offices in Bend, Oregon (relocation assistance package available)</li></ul><p><a href='https://www.youtube.com/watch?v=mbKByBpXqaw&amp;' rel='nofollow'><strong>Check out this video to learn more about the Tech scene in Bend, Oregon</strong></a></p><p><strong>NAVIS OFFERS:</strong></p><ul><li>An inclusive, fun, values-driven company culture – we’ve won awards for it</li><li>A growing tech company in Bend, Oregon</li><li>Work / Life balance - what a concept!</li><li>Excellent benefits package with a Medical Expense Reimbursement Program that helps keep our medical deductibles LOW for our Team Members</li><li>401(k) with generous matching component</li><li>Generous time off plus a VTO day to use working at your favorite charity</li><li>Competitive pay + annual bonus program</li><li>FREE TURKEYS (or pies) for every Team Member for Thanksgiving (hey, it's a tradition around here)</li><li>Your work makes a difference here, and we make a huge impact to our clients’ profits</li><li>Transparency – regular All-Team meetings, so you can stay in-the-know with what’s going on in all areas our business</li></ul>                </div>            <div>        <a href='https://www.naviscrm.com/about/jobs-board/?gh_jid=4204053002' rel='nofollow'>                        Apply now        </a></div>            <h4>About NAVIS</h4>            <div><p><strong>ABOUT NAVIS:</strong><br>NAVIS is the only Unified CRM solution for hotels and vacation rental management companies that brings their data and their reservations sales, marketing, and revenue teams together to drive more direct bookings and revenue.&nbsp; Because we believe technology should make you money, not cost you money, we developed our game-changing Revenue Performance Platform™ to transform teams into revenue makers, enabling them to drive, capture and convert more direct bookings. We deliver actionable guest insights so departments can seamlessly sell and market together. The result is always a dramatic increase in direct sales and profit. We guarantee it.<br><br>Founded in 1987, NAVIS is a privately held company with headquarters in Bend, Oregon, and growing locations in Orlando, Florida and Reno, Nevada.<br><br><strong>We have been named on &quot;Top Workplaces&quot; lists for EIGHT years running!&nbsp;</strong></p><p>NAVIS has been recognized as a &quot;Top Workplace&quot; by The Oregonian for several years, a &quot;Top 10 Workplace&quot; by the Orlando Sentinel in 2018, and a &quot;Best Place to Work&quot; by the Northern Nevada Human Resources Association in 2018.</p><p><br><strong>At NAVIS, our Core Values are:</strong></p><ul><li><em>Golden Rule:</em>&nbsp;I treat others as I want to be treated</li><li><em>Integrity:</em>&nbsp;I am a person of my word and highly trusted</li><li><em>Innovation:&nbsp;</em>I create solutions for difficult business problems</li><li><em>Performance:</em>&nbsp;I am part of an ambitious team and my results matter</li><li><em>Attitude:</em>&nbsp;I am a positive influence, I love my team and the work we do</li></ul>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Summer &quot;Bucket List&quot; Challenge</span>                            </li>                            <li>                                <span></span>                                <span>Software Engineers get their choice of Macs or PCs</span>                            </li>                            <li>                                <span></span>                                <span>VTO Time - time off for volunteering at the cause of your choice</span>                            </li>                            <li>                                <span></span>                                <span>&quot;MERP&quot; benefit helps defray the costs of meeting medical deductibles</span>                            </li>                            <li>                                <span></span>                                <span>Competitive Salaries + Bonus Program</span>                            </li>                            <li>                                <span></span>                                <span>Free Turkeys (or pies) at Thanksgiving (hey - it's a NAVIS tradition)</span>                            </li>                            <li>                                <span></span>                                <span>We take Halloween VERY seriously around here</span>                            </li>                            <li>                                <span></span>                                <span>401(k) with Matching Component</span>                            </li>                            <li>                                <span></span>                                <span>Get perks around town just by flashing your NAVIS badge</span>                            </li>                            <li>                                <span></span>                                <span>Open-concept, collaborative work environment w/ stand-up desks</span>                            </li>                    </ul>                ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
