@@ -1,6 +1,107 @@
 {
  "items": [
   {
+    "id": "7wvV91u5Q0WtTc3nAGSCFQ",
+    "url": "https://weworkremotely.com/remote-jobs/spideroak-inc-mobile-app-developer",
+    "title": "SpiderOak, Inc.: Mobile App Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=4, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "SpiderOak, Inc.",
+      "sameAs": "https://spideroak.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 15, 2019 5:13:57 PM",
+    "validThrough": "Nov 22, 2019 5:13:57 PM",
+    "crawled": "Nov 15, 2019 6:23:20 PM",
+    "content": "<h3> Mobile App Developer </h3><div><div>Rather than bore you with a long description, let’s cut to chase: <strong>your job is to integrate our client-side Go and HTML app into native mobile operating system APIs</strong>.&nbsp; Integration examples currently include: networking, crypto, key store, file management, and push notifications… but the list might grow as the user needs evolve.&nbsp;<br><br> Simply put: you need prior experience in building apps for iOS and/or Android.&nbsp; You also should have a desire to work with remote, distributed teams.&nbsp;</div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "UZ8AlQoBRoy_eYRCkhCUDg",
+    "url": "https://weworkremotely.com/remote-jobs/spideroak-inc-go-developer",
+    "title": "SpiderOak, Inc.: Go Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:go-developer/go/26",
+      "DBG_TECH1:k/t/w:go/go/12",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=38, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "SpiderOak, Inc.",
+      "sameAs": "https://spideroak.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Nov 15, 2019 5:06:48 PM",
+    "validThrough": "Nov 22, 2019 5:06:48 PM",
+    "crawled": "Nov 15, 2019 6:23:20 PM",
+    "content": "<h3> Go Developer </h3><div><div>Rather than bore you with a long description, let’s cut to chase:&nbsp;&nbsp;<strong>your job is to implement distributed services in Go</strong>. Some of the specifications will be already written, but others will require you to design new services in partnership with our Security Architects. Additionally, you will iterate over our current codebase to improve it and fix bugs.<br><br> Simply put: you need prior experience in developing in Go.&nbsp; You also should have a desire to work with remote, distributed teams.&nbsp;</div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "2K_jI2ZDQKqVe8y4Me8k8Q",
     "url": "https://weworkremotely.com/remote-jobs/knack-marketing-growth-lead-1",
     "title": "Knack: Marketing & Growth Lead",
