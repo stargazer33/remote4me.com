@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Community
+title: remote4me community
 undertagline: "Where remote workers and distributed companies share ideas. It is an online 
 community for sharing and discovering great ideas about remote work, having debates, and making friends. 
 <ul>

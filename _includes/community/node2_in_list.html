@@ -7,9 +7,8 @@ Arguments:
 
 <div>
 {% if include.node.type != 'article' %}
-    <h3 style="margin-bottom: 0.3em; display: inline;"><a id="{{ include.node.urlbookmark }}" href="#{{ include.node.urlbookmark }}">{{
-        include.node.title
-        }}</a></h3>. &nbsp;{{ include.node.tagline }}
+    <h3 style="margin-bottom: 0.3em; display: inline;">
+        <a href="{{ include.node.url }}">{{ include.node.title }}</a>.</h3> &nbsp;{{ include.node.tagline }}
     <br>
     <hr style="margin-top: 0.25em; margin-bottom: 1em; border-top-color: #ccc;">
 {% endif %}

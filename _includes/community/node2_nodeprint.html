@@ -1,0 +1,21 @@
+{% comment %}<!--
+
+Arguments:
+  include.node1list
+  include.node2check
+
+Return:
+  nodeprint
+-->{% endcomment %}
+
+{% for s in include.node1list %}
+    {% for tag in s.tags %}
+        {% if tag == include.node2check.title %}
+            {% assign nodeprint=include.node2check %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% comment %}<!-- now nodeprint contains level2 node with articles or nil -->
+{% endcomment %}

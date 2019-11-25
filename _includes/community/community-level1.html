@@ -9,19 +9,8 @@ Arguments:
 {% assign node1 = site.data.communitynav | where:"url", page.permalink  | first %}
 
 <section class="hgroup">
-
     <div class="container">
-
-        <div class="row">
-            <div class="col-xs-1" style="padding-right: 0px;">
-                <img style="color: #428bca; max-height: 60px;" type="image/svg+xml"
-                     src="{{ node1.img }}" >
-            </div>
-            <div class="col-xs-11">
-                <h1 class="elegant">Community: {{ node1.title }}</h1>
-                {% if node1.tagline %}{{ node1.tagline }}{% endif %}
-            </div>
-        </div>
+        {% include community/l1-l2-header.html node=node1 %}
 
         <ul class="breadcrumb pull-right">
             <li><a href="{{ HOME_PATH }}">Home</a> </li>
@@ -41,6 +30,34 @@ Arguments:
 
 
             <div id="leftcol" class="col-sm-8 col-md-8">
+
+                <div class="row">
+                    {% assign node2found=false %}
+
+                    {% for node2 in node1.subnodes %}
+
+                        {% assign nodeprint=nil %}
+                        {% include community/node2_nodeprint.html
+                            node1list=node1_stories_sorted node2check=node2 %}
+
+                        {% if nodeprint!=nil %}
+                            {% if forloop.first != true and node2found == true %}
+                                &nbsp;
+                            {% endif %}
+
+                            {% if forloop.first != true and forloop.last != true and node2found == true %}
+                                |&nbsp;&nbsp;
+                            {% endif %}
+
+                            {% include community/node2_in_list_short.html node=nodeprint %}
+                            {% assign node2found=true %}
+                        {% endif %}
+
+                    {% endfor %}
+                </div>
+                <br/>
+                <br/>
+
                 {% for s in node1_stories_sorted %}
                     {% include community/story_in_list.html page=s %}
                 {% endfor %}
@@ -49,17 +66,8 @@ Arguments:
             <div id="sidebar" class="col-sm-4 col-md-4 hidden-xs">
                 {% for node2 in node1.subnodes %}
                     {% assign nodeprint=nil %}
-
-                    {% for s in node1_stories_sorted %}
-                        {% for tag in s.tags %}
-                            {% if tag == node2.title %}
-                                {% assign nodeprint=node2 %}
-                                {% break %}
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                    {% comment %}<!-- now nodeprint contains level2 node with articles or nil -->
-                    {% endcomment %}
+                    {% include community/node2_nodeprint.html
+                        node1list=node1_stories_sorted node2check=node2 %}
 
                     {% if nodeprint!=nil %}
 

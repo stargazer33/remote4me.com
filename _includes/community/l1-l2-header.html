@@ -1,0 +1,25 @@
+{% comment %}<!--
+Shows header in l1 and l2 community pages
+
+Arguments:
+  include.node - a node containing title, tagline, img
+  include.title - optional title (can replace include.node.title)
+  include.img - optional image (can replace include.node.img)
+-->{% endcomment %}
+
+<div class="row">
+    <div class="col-xs-2 col-sm-2 col-md-1" style="padding-right: 0px;">
+        <img style="color: #428bca; max-height: 60px;" type="image/svg+xml"
+             {% if include.img %}src="{{ include.img }}" >{% else %}src="{{ include.node.img }}" >{% endif %}
+    </div>
+    <div class="col-xs-10 col-sm-10 col-md-11">
+        <h1 class="elegant">
+            {% if include.title %}
+                {{ include.title }}
+            {% else %}
+                {{ include.node.title }}
+            {% endif %} <small>(remote4me community)</small>
+        </h1>
+        {% if include.node.tagline %}{{ include.node.tagline }}{% endif %}
+    </div>
+</div>

@@ -1,0 +1,10 @@
+{% comment %}
+<!--
+Arguments:
+  include.node - an include.node from communitynav.yml (must be level2)
+-->
+{% endcomment %}
+
+{% if include.node.type != 'article' %}
+<a href="{{ include.node.url }}">{{ include.node.title }}</a>
+{% endif %}
