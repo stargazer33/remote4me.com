@@ -1,6 +1,165 @@
 {
  "items": [
   {
+    "id": "6bJEQhrdTii-lASHWhPM5A",
+    "url": "https://stackoverflow.com/jobs/383587/software-architect-applied-cryptography-in-rust-ockam?a=24DSovHt4keY&so_medium=Talent&so_source=TalentApi",
+    "title": "Software Architect - Applied Cryptography in Rust at Ockam (San Francisco, CA) ",
+    "tags": [
+      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
+      "DBG:surround``remot 16W timezon",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
+      "DBG_TECH1:k/t/w:c/c/15",
+      "DBG_TECH1:k/t/w:elixir/other/10",
+      "DBG_TECH1:k/t/w:embedded/c/3",
+      "DBG_TECH1:k/t/w:embedded/embedded/24",
+      "DBG_TECH1:k/t/w:go/go/6",
+      "DBG_TECH1:k/t/w:golang/go/8",
+      "DBG_TECH1:k/t/w:rust/other/35",
+      "DBG_TECH1:techWeightMap:{python=0, other=45, dotnet=0, c=18, mobile=0, go=14, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=24, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/other",
+      "TITLE1/sec",
+      "TZ/America/West"
+    ],
+    "tagsNames1": [
+      "US Pacific time zone"
+    ],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "Ockam – San Francisco, CA",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 125000,
+      "maxValue": 175000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 125k - 175k /Year | Equity"
+    },
+    "employmentType": "UNSET",
+    "published": "Apr 28, 2020 3:05:12 PM",
+    "validThrough": "May 5, 2020 3:05:12 PM",
+    "crawled": "Apr 28, 2020 3:05:12 PM",
+    "content": "<h3><span>Software Architect - Applied Cryptography in Rust</span>            </h3>                <h4>About this job</h4>                <div>                        <div>                                <div>                                    <span>Job type: </span>                                    <span>Full-time</span>                                </div>                                <div>                                    <span>Experience level: </span>                                    <span>Senior, Lead</span>                                </div>                                <div>                                    <span>Role: </span>                                    <span>Embedded Developer</span>                                </div>                        </div>                        <div>                                <div>                                    <span>Industry: </span>                                    <span>Cybersecurity, Developer APIs, Software Development / Engineering</span>                                </div>                                <div>                                    <span>Company size: </span>                                    <span>1–10 people</span>                                </div>                                <div>                                    <span>Company type: </span>                                    <span>VC Funded</span>                                </div>                        </div>                </div>            <div>Company: Ockam – San Francisco, CA<br></div>                <h4>Remote details</h4>                <div>                    <div>                                                    <div>                                <span>Preferred Timezone:</span>                                <span>(GMT-08:00) Pacific Time - Tijuana +/- 4 hours</span>                            </div>                                                    <div>                                <span>Office Location:</span>                                <span>San Francisco, CA.</span>                                    <span>Employees can also work full time from this office.</span>                            </div>                                                                    </div>                </div>            <h4>Technologies</h4><div>rust</div><div>embedded</div><div>cryptography</div><div>c</div><div>go</div>            <h4>Job description</h4>            <div><p>Ockam is building SDKs for&nbsp;<a href='https://www.ockam.io/product/embedded-sdk' rel='nofollow'>embedded systems</a>,&nbsp;<a href='https://www.ockam.io/product/edge-sdk' rel='nofollow'>edge devices</a>, and&nbsp;<a href='https://www.ockam.io/product/cloud-sdk' rel='nofollow'>cloud</a>. The Ockam code base is polyglot and built in a highly modular architecture. We utilize Rust, C, Elixir, and Golang in our stack. You will be responsible for the architecture and design of protocols in the Ockam code base. You will build core library components and interfaces in Rust, but will also need to contribute to, and interface with, Ockam’s C, Go, and Elixir libraries. This includes building APIs for Ockam’s protocols, consuming external open source libraries, and creating simple abstractions for end users of the Rust SDK.&nbsp; This is an applied cryptography role. Ockam utilizes well studied, tested and peer reviewed cryptography in its protocol designs. This includes material from the 'Noise Protocol Frameworks', Diffie-Hellman key exchanges, familiar elliptic curves, and open source libraries. Ockam is a small and extremely senior team. This role involves architecture, interface design, writing code, responsibility for testing, and publishing documentation. Everyone on the Ockam team takes responsibility for their parts from end-to-end, including the creation of long term objectives, issues in GitHub, task management in our Trello boards, and summaries of key results.</p><p><strong>Expertise</strong></p><ul><li>Applied Cryptography</li><li>Protocol architecture</li><li>Diffie-Hellman key exchanges</li><li>Elliptic curve cryptographic principles</li><li>Cryptography libraries and Public Key Infrastructure (PKI)</li><li>Noise Protocol</li><li>API design</li><li>Building complex code bases in the Rust language</li><li>Individual and collaborative project management leadership</li></ul><p><strong>Experience</strong></p><ul><li>10+ years of experience</li><li>Distributed systems</li><li>Common networking and messaging protocols</li><li>Git and GitHub's workflow</li><li>Modern CI/CD pipelines and DevOps</li><li>Consuming and contributing to open source codebases</li><li>Multiple programming languages</li></ul><p><strong>Level:</strong></p><ul><li>This is a Level 6-7 role at Ockam.</li><li>Individuals that consider themselves to be Level 5 or 8 are also encouraged to apply.</li><li>For more information about Role Levels at Ockam, <a title=&quot;Guide to Levels at Ockam&quot; href='https://www.ockam.io/learn/guides/engineering_levels/' rel='nofollow'>here is our guide</a>.</li></ul>            </div>        <div>        <a href='https://jobs.lever.co/ockam/57af5c83-ed48-4006-8196-9c8ae06149e8/apply' rel='nofollow'>            Apply        </a>                            </div>            <h4>About Ockam</h4>            <div><p>Ockam’s mission is to enable builders of the seamless connected future. We are builders who empower other builders to develop trustful IoT systems with our easy to use tools, methods, and protocols. We are building an open and thriving open source ecosystem to accrue ever increasing functionality for our users. Ockam is growing The Team to accelerate this mission. We are backed by a world class group of venture investors including Future Ventures, Core Ventures Group, Okta Ventures and others.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Remote / distributed team</span>                            </li>                            <li>                                <span></span>                                <span>Health care coverage</span>                            </li>                            <li>                                <span></span>                                <span>401k</span>                            </li>                            <li>                                <span></span>                                <span>High performance team culture</span>                            </li>                            <li>                                <span></span>                                <span>Best in class modern tool stack</span>                            </li>                            <li>                                <span></span>                                <span>Stock options</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "GsU5CZ08QH6YNGyzeWSe_g",
+    "url": "https://stackoverflow.com/jobs/387953/security-analyst-semanticbits?a=266ERn1CJyqk&so_medium=Talent&so_source=TalentApi",
+    "title": "Security Analyst at SemanticBits  ",
+    "tags": [
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TECH1/python",
+      "TITLE1/sec",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "SemanticBits – No office location",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Apr 28, 2020 3:05:12 PM",
+    "validThrough": "May 5, 2020 3:05:12 PM",
+    "crawled": "Apr 28, 2020 3:05:12 PM",
+    "content": "<h3><span>Security Analyst</span>            </h3>                <h4>About this job</h4>                <div>                        <div>                                <div>                                    <span>Job type: </span>                                    <span>Full-time</span>                                </div>                                <div>                                    <span>Industry: </span>                                    <span>Digital Health</span>                                </div>                                <div>                                    <span>Company size: </span>                                    <span>51–200 people</span>                                </div>                        </div>                </div>            <div>Company: SemanticBits – No office location<br></div><h4>Technologies</h4><div>security</div><div>linux</div>            <h4>Job description</h4>            <div><p>SemanticBits is looking for a Security Analyst to keep our business, users, and data safe by assuring the security of our applications and platforms. This position requires collaboration within the security team and our delivery teams to ensure compliance with security requirements. This role is heavily focused on compliance, policy, and documentation and will support security engineers with system hardening and penetration testing.&nbsp;The ideal candidate will have experience with either Federal Government Security Control Assessment (SCA) or the Payment Card Industry (PCI) Security Standard.</p><p>Responsibilities:</p><ul><li>Document System Security Plan and Contingency Plans for related projects</li><li>Responsible for documenting and evaluating security policies</li><li>Ensure security systems are up to date and create documentation and planning for all security-related information; including incident response and disaster recovery plans</li><li>Review policies and procedures for compliance with applicable standards and identify areas of improvement for finding remediation</li><li>Interact with senior level management, including the ISSO</li></ul><p>Required Qualifications:</p><ul><li>A Bachelor's degree or higher in Computer Science, Electrical Engineering, Information Assurance, Network Security Computer Engineering or a related field, or equivalent experience</li><li>CISSP certification</li><li>At least 5 years of experience in the following;</li></ul><ol><li>NIST 800-53 security controls</li><li>Penetration Testing</li><li>System Hardening (blue team)</li><li>Programming/Scripting (java, node, python, etc)</li><li>Incident Response</li></ol><ul><li>Strong knowledge of and ability to perform the below tests:</li></ul><ol><li>Penetration testing</li><li>Static Analysis/Static Application Security Testing</li><li>Vulnerability Assessment/Scanning</li><li>Dynamic Analysis/Dynamic Application Security Test (DAST)</li><li>Malicious Software Analysis</li></ol><ul><li>Strong foundation in one or more of the following:</li></ul><ol><li>Data management security</li><li>Authentication</li><li>Applied cryptography</li><li>Linux security</li><li>Network &amp; Cloud security</li></ol><ul><li>Advanced knowledge of Linux platforms</li><li>Advanced knowledge of application mobile security tools</li><li>Strong technical acumen securing software and hardware</li><li>Understanding of software development and working experience with any one of the higher level programming languages or scripting</li><li>Familiarity and experience with security technologies such as security engineering, security architecture, cryptography, data security, risk management, identity and access management, communication and network security, security assessment and testing, software development security, security operations</li><li>Familiarity and experience with popular open source security projects such as OWASP ZAP and Snort</li><li>Thorough understanding of issues documents in the OWASP Top Ten and CWE Top 25</li><li>Demonstrated ability to exploit and mitigate application-level vulnerabilities</li><li>Strong understanding of cryptography as applied to web application security (encryption, hashing, PKI management), including analysis and implementation</li><li>Experience using Linux/Unix at the command line for tasks related to web application development and deployment (DevOps)</li><li>Flexible and willing to accept a change in priorities as necessary</li></ul><p>Nice To Have:</p><ul><li>Strong engineering background&nbsp;</li><li>Application architecture experience</li></ul><p>Physical and emotional requirements for the job:</p><ul><li>This position is to be performed remotely from an individual’s home office and involves sedentary work. Employees in this role can be expected to exert up to 10 pounds of force on occasion in order to lift, carry, push, pull or otherwise move standard electronic equipment. Employees are expected to make decisions in a timely manner and display emotional intelligence during occasional stressful situations.</li></ul>            </div>        <div>        <a href='https://jobs.lever.co/semanticbits/f8cc7d38-4a7b-4c1f-83fc-2d055a5044ac?lever-origin=applied&amp;lever-source%5B%5D=StackOverflow' rel='nofollow'>            Apply        </a>                            </div>            <h4>About SemanticBits</h4>            <div><p>SemanticBits is a leading company specializing in the design and development of digital health services, and the work we do is just as unique as the culture we’ve created. We develop cutting-edge solutions to complex problems for commercial, academic, and government organizations. The systems we develop are used in finding cures for deadly diseases, improving the quality of healthcare delivered to millions of people, and revolutionizing the healthcare industry on a nationwide scale. There is a meaningful connection between our work and the real people who benefit from it; and, as such, we create an environment in which new ideas and innovative strategies are encouraged. We are an established company with the mindset of a startup and we feel confident that we offer an employment experience unlike any other and that we set our employees up for professional success every day.</p><p><strong>Salary &amp; Benefits</strong></p><ul><li>Generous base salary</li><li>Three weeks of PTO</li><li>Excellent health benefits program (Medical, dental and vision)</li><li>Education and conference reimbursement</li><li>401k retirement plan. We contribute 3% of base salary irrespective of employee's contribution</li><li>100% paid short-term and long-term disability</li><li>100% paid life insurance</li><li>FSA</li><li>Casual Working Environment</li><li>Flexible Office Hours</li></ul><p>SemanticBits, LLC is an equal opportunity, affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other characteristic protected by law. We are also a veteran-friendly employer.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Medical, dental, vision, life, disability</span>                            </li>                            <li>                                <span></span>                                <span>Matched 401K plan</span>                            </li>                            <li>                                <span></span>                                <span>Generous vacation allowances, floating holidays, and sick leave</span>                            </li>                            <li>                                <span></span>                                <span>Continued Education Reimbursement</span>                            </li>                            <li>                                <span></span>                                <span>Free coffee and snacks</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "VZ4d1JokSLCIv5VQlymocQ",
+    "url": "https://stackoverflow.com/jobs/381403/senior-security-engineer-blue-team-olo?a=23UsS9vQRxza&so_medium=Talent&so_source=TalentApi",
+    "title": "Senior Security Engineer, Blue Team at Olo  ",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/sec",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "Olo – No office location",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "Apr 28, 2020 3:05:12 PM",
+    "validThrough": "May 5, 2020 3:05:12 PM",
+    "crawled": "Apr 28, 2020 3:05:12 PM",
+    "content": "<h3><span>Senior Security Engineer, Blue Team</span>            </h3>                <h4>About this job</h4>                <div>                        <div>                                <div>                                    <span>Job type: </span>                                    <span>Full-time</span>                                </div>                                <div>                                    <span>Experience level: </span>                                    <span>Mid-Level, Senior</span>                                </div>                                <div>                                    <span>Industry: </span>                                    <span>E-Commerce, Mobile, Software Development</span>                                </div>                        </div>                        <div>                                <div>                                    <span>Company size: </span>                                    <span>201–500 people</span>                                </div>                                <div>                                    <span>Company type: </span>                                    <span>VC Funded</span>                                </div>                        </div>                </div>            <div>Company: Olo – No office location<br></div><h4>Technologies</h4><div>security</div><div>amazon-web-services</div>            <h4>Job description</h4>            <div><p>At Olo we operate a digital food ordering platform used by many of the country’s largest restaurant chains, reaching millions of consumers. We take great pride in the reliability, security, and performance of our systems and services. We are looking for a talented security engineer with experience in a Blue Team role to help us fortify our defenses and protect the systems that enable hungry people to order their food quickly and securely.</p><p>In the role of Senior Security Engineer, you will design and implement the security defenses that enable our systems to keep running while protecting the data of our clients and their customers.&nbsp;</p><p>You can work at Olo’s headquarters on the 82nd floor of One World Trade Center or remotely from anywhere in the U.S. In fact, more than half of our team is remote!</p><p><strong>Responsibilities</strong></p><ul><ul><li>Detect and defend against attacks by analyzing security-related events and alerts, and leading incident response, remediation and mitigation activities</li><li>Provide stakeholders with concise, detailed, and well-written incident reports, root causes identification, and remediation recommendations</li><li>Use experience and data gained during incident investigations to improve security posture</li><li>Provide management oversight for the identification, triage and response of events or incidents</li><li>Coordinate and track incident response activities with other teams and third parties. This includes remediations arising from Red Team tests and external penetration tests.</li><li>Perform non-event driven security reviews, including but not limited to patching, firewall rules, system configuration checks and vulnerability reports</li><li>Conduct Blue Team exercises and drills to evaluate and improve processes and technologies related to various controls including but not limited to threat detection, incident response, patching, remediation and user training.</li><li>Mature Blue Team exercises by leveraging recent breach reports, evolving threats and vulnerabilities</li><li>Execute Threat Hunts to proactively detect and mitigate advanced threats</li><li>Mature threat hunting through improved data analysis, additional data augmentation, creating custom toolsets and improving automation&nbsp;</li><li>Maintain and optimize various security technologies. This includes ongoing optimizations and implementing new or replacement security technologies as needed and automating security activities where feasible.</li><li>Deep collaboration with IT, Infrastructure and Development teams where security ownership and responsibilities are shared.</li><li>Ensure security policies and standards are understood and complied with</li><li>Educate and influence employees on security and coach junior team members</li><li>Work with PCI and SOC auditors to provide evidence of compliance</li><li>Assist with third party software and provider due diligence</li><li>Contribute to security policies and standards</li><li>Proactively identify and implement improvements to our tools and processes</li><li>Participate in a 24/7 on call rotation</li></ul></ul><p><strong>Requirements</strong></p><ul><ul><li>Previous Blue Team, Security Operations or Security Engineering experience</li><li>Deep knowledge of information technology, evolving threats, attack patterns, incident response and cyber security standards</li><li>Proven experience developing and leading incident response, remediation and mitigation activities, and providing status updates and reports.</li><li>Adept at analyzing security events to discern events that qualify as a legitimate security incident as opposed to non-incidents. This includes security event triage, incident investigation, implementing countermeasures, and conducting incident response.</li><li>Deep understanding of operating system, networking and application concepts&nbsp;</li><li>Ability to harden Windows, MacOS and Linux and any underlying virtualization</li><li>Familiarity with AWS security best practices and Infrastructure-as-Code (e.g. Terraform, Ansible, CloudFormation or similar.)</li><li>Experience deploying, maintaining and administering security technologies including. (e.g. Anti-Malware, Intrusion Detection System (IDS), Data Leak Prevention (DLP), File Integrity Monitoring (FIM), Firewalls, Security Information and Event Monitoring (SIEM), Static Inspection, Multi Factor Authentication (MFA), Vulnerability Assessment, Web Proxies and Web Application Firewalls (WAF))</li><li>PCI and/or SOC compliance experience preferred</li><li>CISSP, GCIH, CEH, OSCP, or similar certification preferred</li><li>Scripting and/or development familiarity preferred</li><li>5+ years of Information Technology experience with a focus on Security</li><li>Ability to work on-call, during critical incidents or to support coverage requirements</li><li>Strong English writing and verbal communication skills</li><li>Legally able to work in the U.S.</li></ul></ul><p><strong>COVID-19 Impact</strong></p><p>Olo is committed to the well-being of candidates, employees and our community. The&nbsp; Olo NYC Headquarters will be closed for the foreseeable future because of the global outbreak of COVID-19. While an in-person interview is typical for many roles at Olo, we will conduct interviews via video conferencing while our HQ is closed. Olo benefits from the fact that over half of our workforce is remote, therefore we are accustomed to conducting interviews via video conferencing and we anticipate no impact on our recruiting timelines. We encourage candidates to share any concerns or questions with Olo’s recruiting team.</p><p><strong>About Olo</strong></p><p>Olo powers digital ordering and delivery programs that connect restaurant brands to the on-demand world, placing orders directly into the restaurant through all order origination points – from a brand’s own website or app, third party marketplaces, social media platforms, smart speakers, and home assistants. Olo serves as the on-demand ordering and delivery platform for over 300 brands, such as Applebee’s, Checkers &amp; Rally’s, Cheesecake Factory, Chili’s, Dairy Queen, Denny’s, Five Guys Burgers &amp; Fries, Jamba Juice, Noodles &amp; Company, Portillo’s Hot Dogs, Shake Shack, sweetgreen, Wingstop, and more. Learn more at&nbsp;<a href='https://cts.businesswire.com/ct/CT?id=smartlink&amp;url=http%3A%2F%2Fwww.olo.com&amp;esheet=52172477&amp;newsitemid=20200212005284&amp;lan=en-US&amp;anchor=www.olo.com&amp;index=3&amp;md5=bba289e2bb5ba2ecb924d71e2fc6c20e' rel='nofollow'>www.olo.com</a>. Olo's headquarters is located on the 82nd floor of One World Trade Center.&nbsp; We offer great benefits, such as 20 days of Paid Time Off, fully paid health, dental and vision care premiums, stock options, a generous parental leave plan, and perks like FitBits, rotating craft beers on tap in our kitchen, and food events featuring our clients' menu items (now you know why we give out FitBits!). Check out our culture map:<a href='https://www.olo.com/images/culture.jpg' rel='nofollow'>https://www.olo.com/images/culture.jpg</a>.</p><p><strong>We encourage you to apply!&nbsp;</strong></p><p>At Olo, we know a diverse and inclusive team not only makes our products better, but our workplace better. Many groups are consistently underrepresented across the tech sector and we are fully committed to doing our part to move the needle.&nbsp; Olo is an equal opportunity employer and diversity is highly valued at our company. All applicants receive consideration for employment. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, pregnancy, age, marital status, veteran status, or disability status. If you like what you read, hear, and/or know about Olo, and want to be a part of our team, please do not hesitate to apply! We are excited to hear from you!</p>            </div>        <div>        <a href='https://jobs.lever.co/olo/c8a60a95-20d1-42af-983d-c8b2c14a0bed' rel='nofollow'>            Apply        </a>                            </div>            <h4>About Olo</h4>            <div><p>We're quite up-front about the technical challenges our business faces.&nbsp;Our platform enables multiple white-labeled front-ends, maintains real-time connections into thousands of restaurants' POS systems, and coordinates complex transactions between these and other third parties (such as payment gateways and gift card providers). Running such a platform is not for the faint of heart.</p><p>Mobile ordering and payments is an exciting and active industry, full of interesting players and yet still a relatively untapped market ripe for disruption.&nbsp;</p><p>We have a relatively small team of smart, senior engineers who all get along.&nbsp;</p><p>We're super DevOps oriented and like to automate and build tools for everything. We use Continuous Integration and push frequently.&nbsp;</p><p>We dedicate time to refactoring to reduce technical debt and to introduce newer technologies. We encourage new ideas and experimentation.&nbsp;No part of the codebase is off-limits.</p><p>Came here for the pizza coding test? Check out our open jobs and we'll send you the test post-application!</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>20 Days of PTO</span>                            </li>                            <li>                                <span></span>                                <span>Health, Vision &amp; Dental coverage (you + your family)</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours</span>                            </li>                            <li>                                <span></span>                                <span>Competitive Compensation Package</span>                            </li>                            <li>                                <span></span>                                <span>Powerful workstations</span>                            </li>                            <li>                                <span></span>                                <span>401(k) Plan</span>                            </li>                            <li>                                <span></span>                                <span>Maximum respect</span>                            </li>                            <li>                                <span></span>                                <span>Food events &amp; monthly team events</span>                            </li>                            <li>                                <span></span>                                <span>12 week paid parental leave</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "B_USbbJqTmyURy-Z8hfAeg",
     "url": "https://remoteok.io/jobs/84839",
     "title": "Security Engineer",
@@ -148,57 +307,6 @@
     "validThrough": "May 2, 2020 12:39:17 AM",
     "crawled": "Apr 25, 2020 1:05:09 AM",
     "content": "<h3> Security Engineer </h3><div><div><strong>We Are…</strong><br><br></div><div>Shogun, and we're on a mission to help people create the best eCommerce experiences in the world.<br><br></div><div>We were in the Winter 2018 batch of Y-Combinator, we just raised a Series A investment, we have over 10,000 active paying clients, and we're preparing to launch a new product in 2020 (you can read more in <a href='https://techcrunch.com/2020/02/20/shogun-series-a/' rel='nofollow'>TechCrunch</a>).<br><br></div><div>Our teams are fully distributed and global (check out our <a href='https://getshogun.com/about' rel='nofollow'>team page</a>)! We have no office, so we are looking for team members that are comfortable with and motivated by the opportunity to work remotely.<br><br><br></div><div><strong>You Are…</strong></div><div><br></div><div>A self-motivated and passionate Security Engineer (with experience in Ruby on Rails and/or Go) looking to join our engineering team and help secure our applications and cloud infrastructure.<br><br></div><div>We're looking for a talented Security professional to investigate threats, triage and resolve vulnerabilities, help to write and implement our information security policy, and build tools that allow engineers to quickly and easily develop secure code.<br><br><br><br></div><div><strong>In This Role You Will...</strong></div><ul><li>Help other engineers design more secure software via design input and code review</li><li>Contribute to the implementation of secure development practices</li><li>Triage and resolve security vulnerabilities in the application layer, including those reports through our bug bounty program at Federacy</li><li>Deliver well-engineered, scalable solutions that improve our defense-in-depth</li><li>Author and implement an information security policy</li><li>Teach and learn from your teammates<br><br><br></li></ul><div><strong>You Have...</strong></div><ul><li>5+ years software engineering experience</li><li>3+ years of Ruby on Rails and/or Go experience, including security responsibilities</li><li>Penetration and vulnerability testing experience</li><li>Proven knowledge of authentication and authorization<br><br><br></li></ul><div><strong>Nice-to-Haves...</strong></div><ul><li>Experience with Javascript, MongoDB, and/or Redis</li><li>Experience securing a cloud platform (AWS, GCP, Azure, etc)</li><li>Clear and precise written and interpersonal communication skills</li><li>Effective time management and organizational skills<br><br><br></li></ul><div><strong>We Offer</strong></div><ul><li>Competitive salary</li><li>Benefits (vary by location)</li><li>A highly skilled and dedicated team that is fun to work with.</li><li>Remote work – We are a fully distributed team that works from anywhere with good internet. (+13 countries just on the engineering team!)</li><li>Occasionally, we hire on a full time contractor basis to begin with. Team members enjoy the same opportunities for great compensation, full time positions, and consideration, regardless of location.<br><br><br></li></ul><div><strong>Try Out Shogun</strong></div><div><br></div><div>If you want, you can use Shogun to get a feel for the product. We'd love to hear what you think. Here is how:<br><br></div><ol><li>Create a Shopify Developer Account: <a href='https://developers.shopify.com/' rel='nofollow'>https://developers.shopify.com</a></li><li>Create a development store: <a href='https://help.shopify.com/en/partners/dashboard/development-stores' rel='nofollow'>https://help.shopify.com/en/partners/dashboard/development-stores</a></li><li>Install Shogun on your development store: <a href='https://apps.shopify.com/shogun' rel='nofollow'>https://apps.shopify.com/shogun</a></li><li>Create a couple of pages. We will take a look.<br><br><br></li></ol><div><strong>Equal Opportunity Statement</strong></div><div><br></div><div>Shogun supports workplace diversity and does not discriminate on the basis of race, color, religion, gender identity/expression, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, physical or mental disability, or any other protected class<br><br><br><br><br></div></div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "d6MOrdQASbyfAIxi0gSHZw",
-    "url": "https://landing.jobs/at/ydata/senior-deep-learning-researcher?utm_campaign=landing+rss&utm_content=Senior+Deep+Learning+Researcher&utm_medium=referral&utm_source=rss",
-    "title": "Senior Deep Learning Researcher",
-    "tags": [
-      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
-      "DBG_TECH1:k/t/w:deep-learning/bigdata-ml/40",
-      "DBG_TECH1:k/t/w:keras/bigdata-ml/16",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:k/t/w:time-series/bigdata-ml/5",
-      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=77, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/sec",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "YData",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "EUR",
-      "minValue": 40000,
-      "maxValue": 80000,
-      "info": "",
-      "unit": "YEAR",
-      "parser": "SalaryParserLargeText",
-      "isEquity": false,
-      "formatted": "EUR 40k - 80k /Year"
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 24, 2020 1:49:18 PM",
-    "validThrough": "May 1, 2020 1:49:18 PM",
-    "crawled": "Apr 24, 2020 8:10:38 PM",
-    "content": "<div><h3>Senior Deep Learning Researcher</h3></div><div>Company: YData</div>Salary: 40.000 - 80.000 €<br>Language:  <div>Data Scientist<br>Skills:</div><div>Must Have: Artificial Neural Network, Python, TensorFlowOther Required: Big Data, Keras, Spark<br>Skills:</div><h3>Intro</h3><p>You will work with tabular and time series data</p><p>You will be part of a self-organized, cross-functional team building and optimizing deep learning models<br>Since our team is currently being developed from scratch, we need pragmatic scientists<br>You take responsibility for the whole product your team delivers<br>You are curious and figure out how things work and how they should work for your product<br>You bring your core expertise, but are open to getting your hands dirty with data architecture and data engineering<br>You have a problem-solving attitude</p><h4>Main requirements</h4><div>Deep Learning models knowledge and willingness to deep-dive into state-of-the-art deep learning techniques<br>Several years of professional experience with Tensorflow or Keras<br>Several years of professional experience with Python<br>Interested in working together with the Founders<br>Passionate about learning new tools and keeping yourself up-to-date<br>Willingness to communicate and share your knowledge with other team members<br>Willingness to work in agile processes<br>Fluent in English</div><h4>Benefits &amp; Perks</h4><div>Have an impact. With innovation and smart technology, we are changing the way organizations use and share data<br>Trust-based working. We don't punch the clock – organize your own schedule. We trust in what you do!<br>Improve yourself. You can have fun at work at the same time you learn and improve yourself. We only hire the best and make them even better.<br>Push boundaries. Everyone is equally important and works together on uncharted challenges alongside inspiring colleagues from all over the world.<br>Feel at home. Literally! We are remote work enthusiasts!<br>Feel it’s your own company. Check our stock options plan. We want to have you on board and be part of YData.</div><h4>Remote Details</h4><p>Anywhere</p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
