@@ -1,6 +1,61 @@
 {
  "items": [
   {
+    "id": "3qhBraSPTiGtRJ6GebN1lQ",
+    "url": "http://workinstartups.com/job-board/job/91581/full-stack-developer-at-reachora/",
+    "title": "Full Stack developer",
+    "tags": [
+      "DBG:surround``OR(work,2W(work,remot)) 3W from 2W OR(wherev,wherev,where)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:jquery/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/26",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
+      "DBG_TECH1:k/t/w:ruby/ruby/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=60, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=12}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Reachora",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 25000,
+      "maxValue": 25000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 25k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "Apr 29, 2020 10:36:18 PM",
+    "validThrough": "May 6, 2020 10:36:18 PM",
+    "crawled": "Apr 30, 2020 12:05:19 AM",
+    "content": "<div id=&quot;job-listing-show-container&quot; class=&quot;listing-container&quot;><br /><div><strong>Overview<br /></strong><br /><br /><br /></div><br /><div>We're looking for a full-stack Ruby on Rails developer to build and maintain the various websites and dashboards that make up Reachora. You will be joining a smart and passionate team who have worked on a number of projects over the last few years, that cares about diversity and shared reward, and who are passionate about our work.<br /><br /><br /><br /></div><br /><div><strong>About The Role</strong><br /><br /><br /><br /></div><br /><div>We are looking for a Ruby on Rails developer who is excited at the idea of building systems and user-interfaces that will be at the core of our company. You might be fresh out of university and looking for your first challenge, or have been a developer for decades and looking for somewhere to apply your knowledge and experience. It is important that you are comfortable building Ruby on Rails applications.<br /><br /><br /><br /></div><br /><div>The role is remote. We are ideally looking for someone in the UK or Europe, to rapidly respond to EU client needs if necessary. The current team is based in a mixture of London, Scotland, and the Phillipines. We meet in person sporadically but have daily conversation online through a mixture of video calls and Slack.<br /><br /><br /><br /></div><br /><div><strong>Personality Fit</strong><br /><br /><br /><br /></div><br /><div>Different jobs fit different people. Our most important focus with anyone joining our team is that they will enjoy working with us that we will enjoy working with them. This is a good starting place to see if that might be you:</div><br /><ul><br /><li>We think your gender, race and sexuality are your business and irrelevant to how good you are at your job. It&rsquo;s important to us that you feel the same way about others.</li><br /><li>We care about our work and what we do is an important part of our lives. It matters to us and it matters that you feel the same.</li><br /><li>We seek truth in our conversations. We each care about reaching the right conclusion and learning, not worrying about who came up with the idea. That means we respectfully challenge each others suggestions and are willing to have our ideas challenged. If you can detach yourself from your opinions and be open to being wrong (as well as right!) then you&rsquo;ll enjoy solving problems with us.</li><br /><li>We&rsquo;re a remote team of individuals with our own personal working habits and routines. Some days we focus on working by ourselves, and some days are spent chatting and brainstorming for hours. That means that both self-discipline and teamwork are crucial skills to us. Previous experience of working remotely in this way would be very valuable.</li><br /><li>We are a very autonomous team. We agree requirements and timescales as a group then go and execute, trusting everyone else in the team will do the same. It's therefore critical that everyone on the team is reliable, self-motivated and strive to meet the targets they commit to.</li><br /><li>We value grit and tenacity, doggedly attacking problems until we solve them. That grit is fueled by a passion for our work and the determination to do a good job. It's important to us that you have the same committed attitude to finishing what you start.</li><br /><li>Everyone in our team actively wants to learn and develop, both professionally and personally. We support and help each other in whatever challenges we are attacking and develop and grow together. If that sounds fun to you, then you&rsquo;ll fit in well.</li><br /></ul><br /><div><br /><strong>Our Stack and Technology</strong></div><br /><ul><br /><li>Multiple systems built using Ruby on Rails, MySQL, Turbolinks, and JQuery.</li><br /><li>Search and recommendations backed by ElasticSearch.</li><br /><li>Systems communicate via HTTP APIs and thousands of messages per hour via Amazon SQS and SNS.</li><br /><li>A data pipeline processes analytics for millions of page and video views per day.</li><br /><li>A video processing pipeline which can scale to thousands of videos uploaded per hour.</li><br /></ul><br /><div><br /><strong>Skills Fit</strong><br /><br />Things which matter to us:</div><br /><ul><br /><li>You are intelligent and passionate about technology.</li><br /><li>You enjoy making websites and want to learn and develop your skills.</li><br /><li>You are comfortable making websites with Ruby on Rails, not only working on models and controllers, but implementing and adjusting CSS and HTML.</li><br /><li>You have some experience with Javascript libraries.</li><br /><li>You understand and value programmatic testing.</li><br /><li>You are open to making pragmatic decisions, not seeking the &quot;perfect&quot; solution but understanding that everything has tradeoffs.</li><br /></ul><br /><div>&nbsp;</div><br /><div>Things which don't matter to us:</div><br /><ul><br /><li>Formal qualifications - if you&rsquo;ve got skills, that&rsquo;s all that matters to us.</li><br /><li>Professional experience - if you have a proven professional track record, that great, but we're equally happy to hire someone who has been coding as a hobby for a while and honed their skills outside of their main job.</li><br /><li>Your Github profile - if you have commits to open-source projects then we&rsquo;d love to see them, but that&rsquo;s not a prerequisite. We&rsquo;re much more interested in knowing what you&rsquo;ve done and hear your stories.</li><br /></ul><br /><div><br /><strong>Your Package</strong><br /><br /><br /><br /></div><br /><div>Your renumeration should be about more than money. This is what we offer:</div><br /><ul><br /><li><strong>Salary:</strong>&nbsp;Salary is dependant on what you bring to the role and will depend on the individual candidate. We anticipate a range of between &pound;25k and &pound;40k.</li><br /><li><strong>Equity:</strong>&nbsp;You will also receive share options in Reachora, which hopefully will prove significantly more lucrative for you in the long-run! The exact amount will depend on what you bring to the role. Share options are normally vested over three years with a one year cliff.</li><br /><li><strong>Culture:</strong>&nbsp;We're commited to building that team that respects each other. We'll take any problems you have seriously and we'll strive to make sure that Reachora is a great place for you to work.</li><br /><li><strong>Technology:</strong>&nbsp;We'll give you a shiny new Macbook for you to enjoy creating on.</li><br /><li><strong>Holiday:</strong>&nbsp;Our team has a flexible holiday allowance. We believe rest and variety are crucial for a healthy, creative mind and so insist that you take at least 30 days off each year.</li><br /><li><strong>Lifestyle:</strong>&nbsp;Live and work from wherever makes you the happiest and most productive. Hobbies and family are just as important as work, and we'll always try and support you in what you do.</li><br /><li><strong>Learning:</strong>&nbsp;There's little more important than personal development. We'll support you if you want to take courses, and we'll give you an Amazon account that you order books from, free to you and hassle-free.</li><br /></ul><br /><div><br /><strong>How to Apply</strong><br /><br />Our process starts with a relevant technical coding challenge, then two rounds of video interviews: One with a senior developer on the team to chat about your skills and the job, and a second with a non-technical member of our team to assess personality and communication skills.</div><br /></div><br /><div class=&quot;listing-tools listing-tools-desktop&quot;><br /><div class=&quot;job-info&quot;><br /><div class=&quot;apply_tooltip&quot;><a id=&quot;job-cta-alt&quot; href='mailto:doug@reachora.com?body=%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%20-%20The%20We%20Work%20Remotely%20Team%20%0A%20weworkremotely.com&amp;subject=Application%20for%20Full-Stack%20Ruby%20on%20Rails%20Developer%20at%20Reachora' target=&quot;_blank&quot; rel='noopener'>Apply for this position</a></div><br /><ul><br /><li id=&quot;sharelist-description&quot;>Share this job:</li><br /></ul><br /></div><br /></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "wrceykLVR4S5-gwXlo_fXw",
     "url": "https://remoteok.io/jobs/84845",
     "title": "Ruby On Rails Back end Engineer Toptal",
