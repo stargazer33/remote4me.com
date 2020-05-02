@@ -1,6 +1,473 @@
 {
  "items": [
   {
+    "id": "bioMNeJiScC4HnqKuE3lBA",
+    "url": "https://news.ycombinator.com/item?id=23047545",
+    "title": "Software Engineer (Gainesville + Remote-EST) | SharpSpring | Gainesville, FL | Full-Time | ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 2, 2020 1:25:32 AM",
+    "validThrough": "May 9, 2020 1:25:32 AM",
+    "crawled": "May 2, 2020 2:06:05 AM",
+    "content": "Software Engineer (Gainesville + Remote-EST) | SharpSpring | Gainesville, FL | Full-Time |Gainesville: <a href='https://jobs.lever.co/sharpspring/33c28193-2c09-4a53-8f39-80c9c99e4717' rel='nofollow'>https://jobs.lever.co/sharpspring/33c28193-2c09-4a53-8f39-80...</a> Remote (East Coast): <a href='https://jobs.lever.co/sharpspring/4c80e4a1-150d-46e8-ae3c-0e1f48eb8127' rel='nofollow'>https://jobs.lever.co/sharpspring/4c80e4a1-150d-46e8-ae3c-0e...</a>SharpSpring is seeking talented Software Engineers for our team in Gainesville and for remote employees located on the East Coast. We're looking for Software Engineers with significant real-world experience working in at least a few areas of our technology stack and a high level of enthusiasm for learning other technology we use. Candidates should be able to demonstrate examples of at least one public-facing or commercial application they have made significant contributions toward developing — ideally an app powered by a modern TypeScript or JavaScript framework with an API backend. We compensate based upon merit and skill level with a strong basis on practical skill sets, so existing projects are helpful in establishing experience.careers@sharpspring.com",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "OuXymwxWQr2E3hlnFc3-3w",
+    "url": "https://news.ycombinator.com/item?id=23047652",
+    "title": "Keenious | Machine Learning Engineer, Full Stack Engineer | Full Time - REMOTE | https:/ ...",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/10",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=14, bigdata-ml=12, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 2, 2020 1:42:54 AM",
+    "validThrough": "May 9, 2020 1:42:54 AM",
+    "crawled": "May 2, 2020 2:06:05 AM",
+    "content": "Keenious | Machine Learning Engineer, Full Stack Engineer | Full Time - REMOTE | <a href='https://keenious.com' rel='nofollow'>https://keenious.com</a><p>At Keenious we are helping students and researchers around the world with their important work by finding relevant research to what they are working on. We do this this by analyzing the users' document with self-developed advanced machine learning algorithms and then display a list of highly relevant research articles right next to their document.</p><p>Currently, we support Word and Google Docs (as addons but its really just a single page webapp), and the tool is available for free testing on both platforms.</p><p>We have partnerships with several large universities and we just raised our seed stage. We are now expanding into a fully remote team and are actively recruiting and hiring for two key remote positions:</p><p>- Machine Learning Engineer - Head of Search: You will have responsibility and ownership of the search engine itself. You will work on creating and developing new machine learning models as well as implement new functionality to our system, such as a collaborative filtering recommendation system. <a href='https://keenious.talentlyft.com/o/ibb' rel='nofollow'>https://keenious.talentlyft.com/o/ibb</a></p><p>- Full Stack Engineer - Product development - You will architect and develop the user system as well as implement new functionality directly into the tool itself. You will also work tightly with the rest of the team on talking with user and conceptualizing and implementing new features based on feedback and ideas. <a href='https://keenious.talentlyft.com/o/ibd' rel='nofollow'>https://keenious.talentlyft.com/o/ibd</a></p><p>Our stack: TypeScript, React, Redux, NodeJS, AWS, Python, Docker microservice containers, PyTorch, Gensim ++</p><p>If these positions seems interesting to you or you have any questions please reach out to me at frode (at) keenious.com or apply at <a href='https://keenious.talentlyft.com/' rel='nofollow'>https://keenious.talentlyft.com/</a>. This is a great opportunity if you want to have an impact on an AI product that is helping with education and research.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "1_PxavgVToiGh6uYsrbUUg",
+    "url": "https://weworkremotely.com/remote-jobs/zencastr-senior-platform-developer",
+    "title": "Zencastr: Senior Platform Developer",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:signal-processing/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:signal-processing/embedded/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/2",
+      "DBG_TECH1:k/t/w:typescript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=16, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=3}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Zencastr",
+      "sameAs": "http://zencastr.com"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 2, 2020 12:48:16 AM",
+    "validThrough": "May 9, 2020 12:48:16 AM",
+    "crawled": "May 2, 2020 1:05:12 AM",
+    "content": "<h3> Senior Platform Developer </h3><div><div><br>Empower the voices of the world @ Zencastr. If you want to push the world of podcasting into the future, come join a team who loves to live on the edge! We are a fully distributed team of smart people who are passionate about changing the world one voice at a time.<br><br></div><div><strong>Who you are:<br></strong><br></div><ul><li>You are ambitious. You might want to build your own company one day or have tried to tackle the toughest tech problems just for fun.</li><li>You have a good understanding of computer science fundamentals. You might not have gone to school for it, but you know the difference between heap and stack, different time complexities, and which patterns to use and when.</li><li>You enjoy writing Javascript or Typescript</li><li>You have an eye for performance. Whether thinking about the latest client side bundling techniques, or the proper way to shard a mongo database, you want things to be fast.</li><li>You are willing to work with the team to debug and solve production issues, even outside of business hours when needed</li><li>You have empathy. For the people who use the product you write, for the people who you code alongside, you are thinking about how your work can best impact other people.<br><br></li></ul><div><strong>What you can expect:</strong></div><div><br></div><ul><li>Working with world class engineers, Phd’s, and designers in a fully distributed team</li><li>Equity commensurate to your contribution in a profitable company</li><li>Health insurance</li><li>Unique challenges and the support and talent to solve them</li><li>4 weeks PTO</li><li>Freedom to work where you please</li></ul><div><br></div><div><strong>Skills:</strong></div><ul><li>5 + years of Typescript, Node.js development</li><li>Strong document / key-value store knowledge (Redis, MongoDB)</li><li>Demonstrable knowledge of building scalable, consumer based apps</li><li>Ability to lead design and implementation of major software components, systems, and features</li><li>Strong experience with unit, integration, and load testing</li><li>Experience building APIs</li><li>Experience with cloud technologies (Google Cloud, Digital Ocean)</li><li>Strong SQL knowledge</li></ul><div><br></div><div><strong><br>Bonus points if you have:<br></strong><br></div><ul><li>Experiencing working in high traffic, low latency applications</li><li>Good dev ops experience</li><li>DSP experience</li><li>Experience with container orchestration technology such as Kubernetes a big plus</li></ul><div><strong><br>How to apply:<br></strong><br></div><div>Send your CV / Resume to admin at zencastr.com<br><br></div><div>We are flexible! For the right candidate we ask: What do you need to do your best work?<br><br><br><br></div><div><br><br><br><br></div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "SeMwMtutR5uTypbUGsGwhg",
+    "url": "https://news.ycombinator.com/item?id=23046941",
+    "title": "NZXT | REMOTE | Software Engineer | Full-time | https://www.nzxt.com/ NZXT CAM is the next ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:electron/nodejs/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=10, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=10}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 1, 2020 11:55:18 PM",
+    "validThrough": "May 8, 2020 11:55:18 PM",
+    "crawled": "May 2, 2020 12:06:02 AM",
+    "content": "NZXT | REMOTE | Software Engineer | Full-time | <a href='https://www.nzxt.com/' rel='nofollow'>https://www.nzxt.com/</a><p>NZXT CAM is the next generation of desktop software for powering your PC. Whether it’s monitoring performance, customizing your hardware accessories, or overclocking your GPU for those extra frames, NZXT CAM has the solution.</p><p>We are looking for a thoughtful mid-level engineer with great understanding and experience on the web. You should be fluent with Typescript/Javascript.</p><p>We’re a team of collaborators that operate with regular sprint planning, estimations, and retros. Our tech stack includes React, MobX-state-tree, Electron, and CouchDB.</p><p>Recent projects from the last 6 months include: designing &amp; building a beta release flow, building out one click/scheduled automation on our jenkins server, and building for hardware products (such as the data visualizations on our recently released Kraken Z series of coolers <a href='https://www.nzxt.com/product-overview/kraken-z' rel='nofollow'>https://www.nzxt.com/product-overview/kraken-z</a>).</p><p>For more information about NZXT CAM, visit <a href='https://www.nzxt.com/camapp' rel='nofollow'>https://www.nzxt.com/camapp</a></p><p>For a full job description and to apply, visit <a href='https://nzxt.bamboohr.com/jobs/view.php?id=223' rel='nofollow'>https://nzxt.bamboohr.com/jobs/view.php?id=223</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "7bYp5dw7QGOPoUsFOvKxTQ",
+    "url": "https://news.ycombinator.com/item?id=23043712",
+    "title": "Bibliu.com | Backend Developer | Worldwide Remote | Full-time BibliU is a London-based startup ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 1, 2020 6:24:56 PM",
+    "validThrough": "May 8, 2020 6:24:56 PM",
+    "crawled": "May 1, 2020 8:06:04 PM",
+    "content": "Bibliu.com | Backend Developer | Worldwide Remote | Full-time<p>BibliU is a London-based startup spun out of the University of Oxford. We have developed a modern eTextbooks platform that integrates fully with library and university systems and we're already working closely with many UK and US universities.</p><p>We are looking for backend Node.js engineers to help us scale up our institutional product.</p><p>Benefits of working with us:</p><p>- Great group of people to work with</p><p>- Flexible working hours and location</p><p>- 43 days PTO plus paternity/maternity leave</p><p>- Annual company &amp; developer retreats</p><p>- Health insurance</p><p>- Equity</p><p>To apply please head to <a href='https://bibliu.recruitee.com/o/backend-software-engineer-remote-nodejs' rel='nofollow'>https://bibliu.recruitee.com/o/backend-software-engineer-rem...</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "pZMsapH-Rtq4Zm_dYyb2Zg",
+    "url": "https://news.ycombinator.com/item?id=23043975",
+    "title": "Metaview | Seed Stage | San Francisco | Full-time - Onsite or Remote | Software Engineer - Full ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:firebase/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=0, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/mobile",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "mobile",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 1, 2020 6:49:06 PM",
+    "validThrough": "May 8, 2020 6:49:06 PM",
+    "crawled": "May 1, 2020 8:06:04 PM",
+    "content": "Metaview | Seed Stage | San Francisco | Full-time - Onsite or Remote | Software Engineer - Full-Stack<p>Metaview is a stealth, SF based team building the next-gen, gaming-centric video content platform founded by former Twitch and Xbox leaders. We’re funded and backed by a multi-billion dollar strategic investor and an exclusive group of executive angels from various current and former leadership ranks of AAA game publishers, talent agencies and multiple content / streaming video services.</p><p>We’re looking for our first full-stack engineer to take lead on our external website and internal content management system (and of course grow the company alongside us!). Our web applications are currently Node/Express + Firebase.</p><p>For more information on the role, company, and vision, check out the JD here:</p><p><a href='https://hitmarker.net/jobs/metaview-software-engineer-full-stack-416652' rel='nofollow'>https://hitmarker.net/jobs/metaview-software-engineer-full-s...</a></p><p>If interested, feel free to apply on Hitmarker or email me directly at ben@metaview.gg</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "nzrAITIzQpa0VdWCttbx5w",
+    "url": "https://news.ycombinator.com/item?id=23043084",
+    "title": "Mediasmart.io | Senior backend developer| Full-time | REMOTE Madrid, Spain Golang + Node.Js. 5 ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:golang/go/16",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=16, nodejs=26, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 1, 2020 5:35:45 PM",
+    "validThrough": "May 8, 2020 5:35:45 PM",
+    "crawled": "May 1, 2020 6:06:13 PM",
+    "content": "Mediasmart.io | Senior backend developer| Full-time | REMOTE Madrid, Spain<p>Golang + Node.Js. 5 years of experience. The position is remote friendly and open to candidates living in Spain.</p><p>We are an adtech specialized on buying advertisement on programmatic networks such as Google, Twitter, Rubicon and others. We   are   looking   for   a   person   to join our product engineering team. You will maintain our product and develop new functionalities. Your software will be extremely scalable and performant being used to serve millions of requests per second.</p><p>We will provide coaching and a career plan. This is a 100% backend position, no web dev involved.</p><p>More info and how to apply here:</p><p><a href='https://blog.mediasmart.io/we-are-looking-for-a-backend-engineer' rel='nofollow'>https://blog.mediasmart.io/we-are-looking-for-a-backend-engi...</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "6pO0QaU4ScufxeAftUWzcA",
+    "url": "https://news.ycombinator.com/item?id=23042933",
+    "title": "Casa | Front End Engineer | REMOTE | Full Time | Cryptoassets & Cybersecurity https://www.keys ...",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=15, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=21}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 1, 2020 5:25:24 PM",
+    "validThrough": "May 8, 2020 5:25:24 PM",
+    "crawled": "May 1, 2020 6:06:13 PM",
+    "content": "Casa | Front End Engineer | REMOTE | Full Time | Cryptoassets &amp; Cybersecurity<p><a href='https://www.keys.casa' rel='nofollow'>https://www.keys.casa</a></p><p>Casa is the secure home for your bitcoin. We help people around the world secure their bitcoin by holding their own private keys, without the headache and anxiety about losing their funds.</p><p>We are looking for a Full Stack Engineer to help us build the future of protecting Bitcoin, data, and personal privacy. You will work closely with our product and engineering teams to build new features, integrations, and improvements for our web apps. This role is fully remote with the occasional in-person team retreat.</p><p>Some Required Skills:</p><p>-Significant experience with front-end JavaScript frameworks (particularly ES6 and Vue or React), CSS preprocessors, and Flexbox</p><p>-Experience with NodeJS</p><p>-Experience writing tests and utilizing front end testing frameworks</p><p>-Knowledge of API design and best-practices, caching, resiliency, HTTP, REST</p><p>-Demonstrable knowledge of secure coding practices</p><p>You can find more information about the position here: <a href='https://angel.co/company/casa/jobs/805229-full-stack-engineer' rel='nofollow'>https://angel.co/company/casa/jobs/805229-full-stack-enginee...</a></p><p>If you think you are a strong fit, please shoot us an email at jobs [at] team [dot] casa with the position title in the subject line.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "ffUgJtKaRPS7iA6uRnX-kA",
+    "url": "https://weworkremotely.com/remote-jobs/product-feedback-startup-kick-off-seeking-1st-full-stack",
+    "title": "Product Feedback: Startup kick off... seeking 1st full stack!",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``remot 4W OR(skype, slack)",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=13, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Product Feedback",
+      "sameAs": "https://www.productfeedback.com/"
+    },
+    "salary": {
+      "currency": "EUR",
+      "minValue": 25000,
+      "maxValue": 35000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "EUR 25k - 35k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "May 1, 2020 1:55:02 PM",
+    "validThrough": "May 8, 2020 1:55:02 PM",
+    "crawled": "May 1, 2020 2:05:11 PM",
+    "content": "<h3> Startup kick off... seeking 1st full stack! </h3><div><div>We're looking for our first employee to help us building Product Feedback!<br><br><strong>Who we are</strong><br><br>Product Feedback is currently composed of two co-founders:<br>- Quentin, who works on product and marketing;<br>- Kim, who works on marketing and strategy<br><br>We're both passionate about tech and have been working in this industry for the past 10 years. We're transparent, honest, and looking to have fun while working.<br><br>With Product Feedback, we're aiming to provide a powerful tool for Product Managers to get valuable feedback from their users. We think that too many Product Managers rely only on NPS surveys and their support team to gather product feedback. The secret of getting insightful feedback is to engage users in-app with joy and interaction.<br><br><strong>Challenge</strong><br><br>We're looking for a dev ninja to join us on our journey to find our product-market-fit. This is our first hire.<br><br>You will be in charge of choosing the technology stack and building the first version of Product Feedback. You will be helped and supported in your decisions by a team of 7 senior developers who are working on our other project.<br><br>Product Feedback is a fresh new idea. We're looking for someone with a lot of dedication and a strong startup mindset that's ready to quickly adapt and possibly pivot.<br><br><strong>You have</strong><br><br>We strive for software minimalism, requiring:<br>- Test-Driven Development;<br>- Good object-oriented design;<br>- Basic understanding of REST;<br>- Node.js;<br>- React.js;<br>- GraphQL/Apollo;<br>- HTML5/CSS3<br><br><strong>Benefits<br></strong><br>- We’re 100% remote, everything happens on Slack;<br>- Paid coworking space;<br>- We’re focused on deliverables;<br>- Pretty flexible in terms of working hours;<br>- 5 weeks per year of paid vacation we all get;<br>- We make it a point to learn constantly;<br>- We travel to conferences;<br>- Salary is between 25k – 35k euros</div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "19L16vqfRSeL2BIpoyRP-Q",
     "url": "https://weworkremotely.com/remote-jobs/sked-social-senior-engineer-javascript",
     "title": "Sked Social : Senior Engineer (Javascript)",
