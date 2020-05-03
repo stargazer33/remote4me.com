@@ -1,6 +1,59 @@
 {
  "items": [
   {
+    "id": "a1fmyuR3R_K5iJqbowsz8g",
+    "url": "https://news.ycombinator.com/item?id=23048833",
+    "title": "Tetmon | Singapore | REMOTE, VISA | Software Engineer, DevOps (2 roles) | Full-time | https:/ ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:bash/other/2",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:haskell/other/10",
+      "DBG_TECH1:k/t/w:typescript/frontend/2",
+      "DBG_TECH1:k/t/w:typescript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=12, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/other",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 2, 2020 5:14:38 AM",
+    "validThrough": "May 9, 2020 5:14:38 AM",
+    "crawled": "May 2, 2020 6:06:33 AM",
+    "content": "Tetmon | Singapore | REMOTE, VISA | Software Engineer, DevOps (2 roles) | Full-time | <a href='https://www.tetmon.com/' rel='nofollow'>https://www.tetmon.com/</a><p>* Haskell</p><p>* TypeScript</p><p>* NixOS</p><p>* Terraform</p><p>* Bash + Shellcheck</p><p>Projects:</p><p>* chatbots</p><p>* computer vision</p><p>* PB-scale datasets</p><p>* 5-continent infrastructure</p><p>Static types and functional programming are important to us. We're a very small team. Our code is used by millions. We're looking for you to have at least one of the following:</p><p>* experience with large-scale deployments</p><p>* understanding of type systems</p><p>* habit of research and documentation</p><p>The DevOps work is actually DevOps, not system administration or SRE. The software engineering work is on young and small codebases. We have a continuous pipeline of new projects.</p><p>Submit your portfolio (GitHub or otherwise) and resume/CV to careers@tetmon.com.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "TnEA99oURoiksAhq9iZxng",
     "url": "https://news.ycombinator.com/item?id=23046755",
     "title": "Opslock | Senior Backend Engineer | Full-Time | Onsite or Remote | https://opslock.com At ...",
