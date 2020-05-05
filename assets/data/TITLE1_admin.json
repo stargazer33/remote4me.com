@@ -1,6 +1,415 @@
 {
  "items": [
   {
+    "id": "HMw1M5keQuuv54o4cpajBQ",
+    "url": "https://news.ycombinator.com/item?id=23070936",
+    "title": "Snowplow Analytics | Site Reliability Engineer | Full-time | REMOTE Europe | https:/ ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 4, 2020 7:36:08 PM",
+    "validThrough": "May 11, 2020 7:36:08 PM",
+    "crawled": "May 4, 2020 9:05:57 PM",
+    "content": "Snowplow Analytics | Site Reliability Engineer | Full-time | REMOTE Europe | <a href='https://snowplowanalytics.com/' rel='nofollow'>https://snowplowanalytics.com/</a><p>Snowplow is the ideal platform for data teams who want to manage their data in real-time and in their own cloud. We collect, validate, enrich and load up to 5 billion events for our customers each day and help them on their data journey through our management console.</p><p>We are looking for an SRE to join our team. Experience in infrastructure automation and supporting high volume, highly available platforms on AWS or GCP is required. Any experience in doing this via the HashiCorp stack would be a bonus.</p><p>This is a super-interesting challenge. We're finding ways to deploy, tune, support and update extremely complex and distributed infrastructure centrally, and rapidly! We have a top team working on this that we're wanting to grow.</p><p>More information, and other open roles, are on our careers page:<a href='https://snowplowanalytics.com/company/careers/' rel='nofollow'>https://snowplowanalytics.com/company/careers/</a></p><p>Please note we're not hiring in the US for this particular role.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "KnyT7gFARN-P5ta7Z7emEg",
+    "url": "https://weworkremotely.com/remote-jobs/simplyanalytics-aws-devops-engineer-sysadmin-100-remote",
+    "title": "SimplyAnalytics: AWS DevOps Engineer / SysAdmin (100% Remote)",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=1, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "SimplyAnalytics",
+      "sameAs": "https://simplyanalytics.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 4, 2020 8:35:31 PM",
+    "validThrough": "May 11, 2020 8:35:31 PM",
+    "crawled": "May 4, 2020 9:05:11 PM",
+    "content": "<h3> AWS DevOps Engineer / SysAdmin (100% Remote) </h3><div><div>We are looking for an AWS DevOps Engineer/SysAdmin to monitor, manage, improve, and scale our AWS environment, and to work closely with the development team to streamline our development and release pipeline.&nbsp;</div><div><br></div><div>The ideal candidate is a self-starter, has a high level of attention to detail, is comfortable asking questions, enjoys working with talented colleagues, and has an interest in analytics and data visualization.<br><br></div><div>Responsibilities include:</div><ul><li>Standard Linux systems administration tasks (performance tuning, back-up and recovery, monitoring, troubleshooting, installations, patches and upgrades, security, automation)&nbsp;</li><li>Management of dev, test, and production environments with configuration management (Ansible, Packer)</li><li>AWS specific tasks (EC2, S3, RDS PostgreSQL/MySQL, VPC, Cloudformation, AutoScaling, CodeDeploy, ECS/EKS, cost management, etc.)</li><li>Management of our Atlassian stack (Jira, Confluence, Bamboo, etc.)</li><li>Management of remote access for our distributed team (AWS VPC, OpenVPN, SSH)</li><li>Assisting with management of cloud data lake platform (Presto, Hadoop, Hive)</li><li>Working with development team to expand/improve our CI/CD processes and environments</li><li>Some on-call/after hours work required as-needed for upgrades, maintenance, migrations, etc.</li></ul><div><br>Our team members can live and work anywhere in the United States or Canada. This is a part-time, 15-20 hours per week position.&nbsp;<br><br></div><div>Skills &amp; Requirements:</div><ul><li>Expert Linux systems administration skills (5+ years of experience)</li><li>Expert AWS administration skills (2+ years of experience)</li><li>Experience managing PostgreSQL</li><li>Experience building and installing packages from source&nbsp;</li><li>Experience with Bash and Python scripting</li><li>Experience with at least one config management tool (Ansible or Saltstack preferred)</li><li>Understanding of CI/CD best practices and tooling</li><li>Experience with containers, container orchestration, and cloud data lakes a plus</li><li>Must work well independently</li><li>Must have a high level of attention to detail</li><li>Must have strong analytical and problem solving skills</li></ul><div><br>We look forward to receiving your application.&nbsp;<br><br>--------------------------------------------------------------<br><br>SimplyAnalytics is a B2B SaaS mapping, visualization, and data analytics application that makes it easy for anyone to create interactive maps, charts, and reports using 100,000+ data variables. With SimplyAnalytics, users can identify target locations, map the competition, track how places change over time, and identify where to market products. We are passionate about creating outstanding software, and we believe in automated testing, continuous integration, and code review.&nbsp;</div></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Tb6pVLcMRdS8fYCbIoJS-A",
+    "url": "http://workinstartups.com/job-board/job/91700/serverless-aws-developer-at-mysense/",
+    "title": "Serverless AWS Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:ios/apple/2",
+      "DBG_TECH1:k/t/w:ios/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/26",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:typescript/frontend/2",
+      "DBG_TECH1:k/t/w:typescript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=0, mobile=4, go=0, nodejs=29, bigdata-ml=0, ruby=0, apple=2, java=1, gamedev=0, php=0, embedded=0, frontend=19}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "MySense",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 4, 2020 4:46:32 PM",
+    "validThrough": "May 11, 2020 4:46:32 PM",
+    "crawled": "May 4, 2020 6:05:23 PM",
+    "content": "<p><strong>Senior Serverless AWS Engineer</strong></p><br /><p>MySense is a wellbeing analytics platform which utilises a suite of IoT sensors to provide valuable insights into a person&rsquo;s behaviour in order to improve quality of care and support.<br />We are at the forefront of a new industry which is improving people&rsquo;s lives using technology, your work will have great value and purpose. Our ideal candidate has leadership capabilities, a passion for design and strong attention to detail.</p><br /><p><strong>The Tech</strong></p><br /><p>We are developing a serverless, microservices architecture, heavily utilizing Lambdas, API Gateway, S3, IoT core, DynamoDB and many more AWS services. We have 10 IoT devices communicating using Zigbee, Bluetooth and WIFI, an Android and iOS app based on React Native and a React based web dashboard.</p><br /><p><strong>The Role</strong></p><br /><p>We require someone with strong AWS and coding experience to fulfil a hybrid DevOps / Backend engineer position. We require a candidate with expert level NodeJS programming ability to help us create a reliable, well monitored system at scale using serverless.&nbsp;</p><br /><p><strong>Required:</strong></p><br /><ul><br /><li>NodeJS</li><br /><li>TypeScript or strong Javascript with a willingness to learn TypeScript</li><br /><li>Strong AWS knowledge</li><br /><li>Serverless Framework / Serverless on AWS</li><br /><li>Git (GitFlow)</li><br /><li>Ability to learn new skills</li><br /></ul><br /><p><strong>Desirable:</strong></p><br /><ul><br /><li>Knowledge of Microservices</li><br /><li>Strong testing background</li><br /><li>Security minded</li><br /><li>Jest</li><br /><li>API testing with tools (e.g. Insomnia)</li><br /><li>Agile Practices</li><br /><li>Python</li><br /><li>SRE experience</li><br /><li>Cloud monitoring experience</li><br /><li>AWS Solutions Architect Associate Certificate</li><br /></ul><br /><p><strong>Why us</strong></p><br /><p>We are a fast-growing scale-up in the IoT health space, you will help shape the team and company and your decisions will have a huge impact. As an IoT company, the challenges we face are often novel and require unique and innovative solutions which can be both invigorating and rewarding. We trust our engineers, remote working is very much encouraged.</p><br /><p><strong>Our culture</strong></p><br /><p>We foster a culture of openness and authenticity over structure and process. Strong communication, learning and collaboration are what we strive for and we are looking for people who share these values.</p><br /><p><strong>Our benefits:</strong></p><br /><ul><br /><li>30 days holiday + your birthday + Public Holidays</li><br /><li>Flexible working up to 3 days remote p/w</li><br /><li>Monthly education allowance</li><br /><li>Private Health Insurance</li><br /><li>Life Insurance at 4 times annual salary</li><br /><li>Pension scheme</li><br /><li>Office dog (hypoallergenic)</li><br /><li>Company laptop</li><br /></ul><br /><p><strong>Where</strong></p><br /><p>We are right by Lambeth Bridge on the 12th floor of Westminster Tower with great views overlooking the Houses of Parliament, Westminster Abbey and the London Eye.</p><br /><p><strong>Check us out:</strong></p><br /><p><a href='https://www.mysense.ai/'>https://www.mysense.ai<br /></a><a href='https://www.linkedin.com/company/mysense'>https://www.linkedin.com/company/mysense<br /></a><a href='https://www.glassdoor.co.uk/Overview/Working-at-MySense-EI_IE2937444.11,18.htm'>https://www.glassdoor.co.uk/Overview/Working-at-MySense-EI_IE2937444.11,18.htm</a></p><br /><p><strong>Organic coverage:</strong></p><br /><p><a href='https://www.ft.com/content/c24cd8a8-e9b9-11e8-a34c-663b3f553b35'>https://www.ft.com/content/c24cd8a8-e9b9-11e8-a34c-663b3f553b35<br /></a><a href='https://www.telegraph.co.uk/technology/2019/09/09/uk-start-up-wants-help-nhs-save-2bn-year-using-ai-sensors/'>https://www.telegraph.co.uk/technology/2019/09/09/uk-start-up-wants-help-nhs-save-2bn-year-using-ai-sensors/<br /></a><a href='https://siliconcanals.com/news/coolest-female-led-tech-startups-london/'>https://siliconcanals.com/news/coolest-female-led-tech-startups-london/</a></p><br /><p>We are an equal opportunities employer and welcome applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "F4-t8_hQRpCI9jzLai3S5Q",
+    "url": "http://workinstartups.com/job-board/job/91694/distributed-systems-engineer-at-ably-realtime/",
+    "title": "Distributed Systems Engineer",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:go/go/9",
+      "DBG_TECH1:k/t/w:node.js/nodejs/39",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=9, nodejs=39, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/nodejs",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "Ably Realtime",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 4, 2020 1:59:53 PM",
+    "validThrough": "May 11, 2020 1:59:53 PM",
+    "crawled": "May 4, 2020 3:05:22 PM",
+    "content": "<div class=&quot;col-md-9 content&quot;><br /><div class=&quot;description&quot;><br /><p>Ably is the world&rsquo;s fastest Data Stream Network (DSN) spread over 14 data centers and 175+ points of presence. Each day we stream billions of realtime messages to millions of end-users for thousands of developers around the world. Some of the things our platform powers: HubSpot&rsquo;s chat and collaboration products, live score updates for millions of Australian Open tennis fans, live transit updates for three million Chicagoans. Working at Ably means helping to build the infrastructure that will power and shape the future of the internet.</p><br /><p>To see what life&rsquo;s like at Ably, check out our careers page at&nbsp;<a href='http://www.ably.io/careers'>www.ably.io/careers</a>.</p><br /><h3><strong>What we do</strong></h3><br /><p>Ably&rsquo;s engineering team is deeply technical, collectively bringing a wealth of experience and broad technology skills across infrastructure, security, distributed systems, and much more. The calibre of the code we produce is what excites and motivates us each day. If you enjoy solving hard distributed system problems that are mostly platform agnostic and theoretical in nature, then you'll love working at Ably.</p><br /></div><br /><h3 class=&quot;alted&quot;>Requirements</h3><br /><div class=&quot;description&quot;><br /><p><strong>In this role:</strong></p><br /><p>You'll be working with a deeply technical engineering team who collectively bring a wealth of experience and broad technology skills. The calibre of the code we produce is what excites us each day and motivates us. If you enjoy solving hard distributed system problems that are mostly platform agnostic and theoretical in nature, then you'll love working at Ably.&nbsp;&nbsp;</p><br /><p>&nbsp;</p><br /><p><strong>Responsibilities include:</strong><strong><br /></strong></p><br /><p>Day to day you can expect to:</p><br /><ul><br /><li><br /><p>Work on the core realtime platform which is largely Node.js and Go. We are looking for developers who have a strong track record with Node.js and ideally experience with Go.</p><br /></li><br /><li><br /><p>Solve distributed systems problems.&nbsp;<a href='https://blog.ably.io/what-is-a-distributed-systems-engineer-f6c1d921acf8'>Find out what it takes to be a distributed systems engineer</a>.</p><br /></li><br /><li><br /><p>Own and be responsible for the complete lifecycle of your features and code, all the way through to deployment.</p><br /></li><br /><li><br /><p>Contribute to open source projects that we support or use in our products, including our open source client libraries.</p><br /></li><br /></ul><br /><p><strong>&nbsp;</strong></p><br /><p><strong>Skills &amp; Experience:</strong></p><br /><p><strong>General</strong>: We are looking for candidates that can demonstrate an interest in technically challenging topics in computing, especially relating to realtime and distributed systems, networking and systems programming. Successful candidates will be able to demonstrate their ability to contribute and solve problems in these areas via professional experience and/or personal projects. Ultimately, ability will outweigh specific experience when reviewing candidates for this position.</p><br /><p>&nbsp;</p><br /><p><strong>Experience</strong>: We don't have any specific experience requirements that are essential for the role. We will strongly prefer candidates that do have a track record with Node.js and ideally Go, or can show experience in solving problems in distributed systems, and ideally have some familiarity with systems-level programming as well experience with high-level languages.&nbsp;</p><br /><p>&nbsp;</p><br /><p><strong>Open source</strong>: We prefer developers who have contributed back to the open source community, even if those contributions are small.&nbsp;&nbsp;</p><br /><p>&nbsp;</p><br /><p><strong>What&rsquo;s it like to work at Ably?</strong></p><br /><p>Founded by two engineers who spotted a hard and largely unsolved problem, Ably is, at its heart, an engineering company. To provide the infrastructure required for a high-bandwidth, always-connected world we hire engineers with a broad set of technical skills who are ready and capable of taking on challenging realtime engineering problems.</p><br /><p>As a company and engineering team we&rsquo;re committed to a future internet that&rsquo;s open and Ably&rsquo;s engineers contribute to existing open source projects. See&nbsp;<a href='https://go.ably.io/open'>https://go.ably.io/open</a></p><br /><p>We want to work in a company of inclusive people who treat each other well. We&rsquo;re building a company with a diverse set of people who value:</p><br /><ul><br /><li><strong>Ownership and impact of work.</strong>&nbsp;You have real autonomy and ownership over your work with a visible impact inside Ably, and externally on products powered by Ably that you use in your daily life.</li><br /><li><strong>An environment to thrive.</strong>&nbsp;Modern, comfy office in the heart of Old Street. Excellent transport links, lots of great food, bars and restaurants nearby, and multiple work spaces to match your working style.</li><br /><li><strong>Truly flexible working and not just lip service.&nbsp;</strong>We like people to be in the office most of the time, but work should also fit around life and individual ways of working so you&rsquo;re free to mold hours and environment to your needs.</li><br /><li><strong>Work is varied and challenging</strong>&nbsp;as we&rsquo;re solving hard, complex problems that push the limits of what&rsquo;s possible with today&rsquo;s software and infrastructure.</li><br /></ul><br /><p><strong>What's in it for you?</strong></p><br /><ul><br /><li>A good, competitive salary</li><br /><li>Flexibility: work from home for up to two days per week</li><br /><li>Health insurance</li><br /><li>ClassPass membership</li><br /><li>Cycle to work</li><br /><li>Regular company away days and social events</li><br /><li>Weekly team breakfast or lunch</li><br /><li>Free drinks and snacks in the office</li><br /><li>Ongoing professional development (training, events, conferences), including an assigned budget</li><br /><li>25 days of paid annual leave (33 days including bank holidays)</li><br /><li>Company contributions towards your pension</li><br /><li>Your choice of high quality tech kit to work on</li><br /></ul><br /><p>Ably has a culture that values employee freedom and responsibility. Apply to talk to us to see if this role on an impactful and collaborative team is right for you.</p><br /></div><br /></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "lYsOyFcITkGC-A4a8Y6Obg",
+    "url": "http://workinstartups.com/job-board/job/91692/lead-site-reliability-engineer-at-ably-realtime/",
+    "title": "Lead Site Reliability Engineer",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:bash/other/1",
+      "DBG_TECH1:k/t/w:go/go/9",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/4",
+      "DBG_TECH1:techWeightMap:{python=0, other=1, dotnet=0, c=0, mobile=0, go=9, nodejs=13, bigdata-ml=0, ruby=12, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/nodejs",
+      "TECH1/ruby",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go",
+      "nodejs",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "Ably Realtime",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 4, 2020 1:34:33 PM",
+    "validThrough": "May 11, 2020 1:34:33 PM",
+    "crawled": "May 4, 2020 3:05:22 PM",
+    "content": "<div class=&quot;description&quot;><br /><p>Ably is the world&rsquo;s fastest Data Stream Network (DSN) spread over 14 data centers and 175+ points of presence. Each day we stream billions of realtime messages to millions of end-users for thousands of developers around the world. Some of the things our platform powers: HubSpot&rsquo;s chat and collaboration products, live score updates for millions of Australian Open tennis fans, live transit updates for three million Chicagoans. Working at Ably means helping to build the infrastructure that will power and shape the future of the internet.</p><br /><p>To see what life&rsquo;s like at Ably, check out our careers page at&nbsp;<a href='https://www.ably.io/careers'>www.ably.io/careers</a>.</p><br /><p><strong>In this role</strong></p><br /><p>You will report to the VP Engineering and will have responsibility for all aspects of Ably&rsquo;s infrastructure services. Together, these provide compute capacity, networking, and all ancillary services required to operate the core services and support the complete development cycle for all Ably products and services.</p><br /><p>You will establish and lead a team of engineers to continue infrastructure development and undertake all infrastructure operations as the company expands.</p><br /><p><strong>You will be successful if you:</strong></p><br /><ul><br /><li>Have a deep technical understanding of how systems work top-to-bottom and are committed to continuing to advance that understanding</li><br /><li>Enjoy getting your hands dirty, getting things done, and seeing your creations from inception through to production use by consumers&rsquo; apps</li><br /><li>Understand the Site Reliability Engineering discipline (<a href='https://go.ably.io/what-is-sre'>https://go.ably.io/what-is-sre</a>) and are excited by the idea of infrastructure-as-code and no manual maintenance of systems.</li><br /><li>Can effectively mentor, guide and inspire a team of engineers</li><br /><li>Care about technical excellence in your work and fitness for purpose in your code</li><br /><li>Want to join a team that&rsquo;s on a mission to provide the best possible service for our customers</li><br /></ul><br /></div><br /><h3 class=&quot;alted&quot;>Requirements</h3><br /><div class=&quot;description&quot;><br /><p><strong>Technical skills needed:</strong></p><br /><p>Ably&rsquo;s is a cloud-native business with infrastructure that is almost wholly cloud-based, and we expect that to remain the case, at least in the near and medium term. Therefore, you must be intimately familiar with operations at scale on public cloud infrastructure, using the full range of functionality from the public cloud providers.</p><br /><p>This is primarily a software development role; not a traditional DevOps or sysadmin role. Ably&rsquo;s infrastructure operations are based currently on internally-developed software for deployment and orchestration, instance management and health monitoring, plus administration of the multiple ancillary systems used to operate the service. Therefore, you need to be a developer first, and have an established record of software development in production systems.</p><br /><p>As with all of our developer roles, we strongly prefer candidates that have a track record of working with open source, either with their own projects or contributions to community projects.</p><br /><p>Much of our existing infrastructure management code is written in Ruby and Go. We do need to see Ruby (not Rails) experience, even if not as a main language, and Go is very advantageous.</p><br /><p>Our infrastructure runs in the public AWS cloud and therefore we need to see in-depth experience of operating production systems in the public cloud, and a detailed understanding of the full range of cloud services we use.</p><br /><p>We expect this individual to be very strong technically in Linux systems administration and networking.</p><br /><p>As a team lead, we expect you to grow, mentor, lead and inspire a team of SREs, so team leadership experience is important.</p><br /><p><strong>Nice to have skills:</strong></p><br /><ul><br /><li>Containerisation, Docker;</li><br /><li>Orchestration with Kubernetes or similar frameworks;</li><br /><li>Go, Node.js and Bash;</li><br /><li>Cassandra;</li><br /><li>Our team are active open source contributors and are encouraged to do this as part of their role at Ably. We like new team members who enjoy contributing back to the open source community, even if those contributions are small.</li><br /><li>Good grasp of Agile, Kanban and SCRUM.</li><br /></ul><br /><p><strong>What&rsquo;s it like to work at Ably?</strong></p><br /><p>Founded by two engineers who spotted a hard and largely unsolved problem, Ably is, at its heart, an engineering company. To provide the infrastructure required for a high-bandwidth, always-connected world we hire engineers with a broad set of technical skills who are ready and capable of taking on challenging realtime engineering problems.</p><br /><p>As a company and engineering team we&rsquo;re committed to a future internet that&rsquo;s open and Ably&rsquo;s engineers contribute to existing open source projects. See&nbsp;<a href='https://go.ably.io/open'>https://go.ably.io/open</a></p><br /><p>We want to work in a company of inclusive people who treat each other well. We&rsquo;re building a company with a diverse set of people who value:</p><br /><ul><br /><li><strong>Ownership and impact of work.</strong>&nbsp;You have real autonomy and ownership over your work with a visible impact inside Ably, and externally on products powered by Ably that you use in your daily life.</li><br /><li><strong>An environment to thrive.</strong>&nbsp;Modern, comfy office in the heart of Old Street. Excellent transport links, lots of great food, bars and restaurants nearby, and multiple work spaces to match your working style.</li><br /><li><strong>Truly flexible working and not just lip service.</strong>&nbsp;We like people to be in the office most of the time, but work should also fit around life and individual ways of working so you&rsquo;re free to mold hours and environment to your needs.</li><br /><li><strong>Work is varied and challenging</strong>&nbsp;as we&rsquo;re solving hard, complex problems that push the limits of what&rsquo;s possible with today&rsquo;s software and infrastructure.</li><br /></ul><br /><p><strong>What's in it for you?</strong></p><br /><ul><br /><li>A good, competitive salary</li><br /><li>Flexibility: work from home for up to two days per week</li><br /><li>Health insurance</li><br /><li>ClassPass membership</li><br /><li>Cycle to work</li><br /><li>Regular company away days and social events</li><br /><li>Weekly team breakfast or lunch</li><br /><li>Free drinks and snacks in the office</li><br /><li>Ongoing professional development (training, events, conferences), including an assigned budget</li><br /><li>25 days of paid annual leave (33 days including bank holidays)</li><br /><li>Company contributions towards your pension</li><br /><li>Your choice of high quality tech kit to work on</li><br /></ul><br /><p>Ably has a culture that values employee freedom and responsibility. Apply to talk to us to see if this role on an impactful and collaborative team is right for you.</p><br /></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "kHTbJrSYSkqTI_Bng8A9fg",
+    "url": "https://news.ycombinator.com/item?id=23066555",
+    "title": "Tracsis | Remote or On-site | Full-time | Haskell / Functional programmers | Leeds, UK Tracsis ...",
+    "tags": [
+      "DBG:surround``fulltim 4N remot",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:haskell/other/30",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=30, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/50",
+      "TECH1/other",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 4, 2020 1:00:01 PM",
+    "validThrough": "May 11, 2020 1:00:01 PM",
+    "crawled": "May 4, 2020 2:06:08 PM",
+    "content": "Tracsis | Remote or On-site | Full-time | Haskell / Functional programmers | Leeds, UK<p>Tracsis are using Haskell to revolutionise UK rail operations; building high-availability, cloud-hosted systems for UK rail companies to manage everything from timetabling, through planning and on-the-day operations.</p><p>If you're passionate about Haskell, or other functional programming languages, and want to make a difference, get in touch - we've got multiple positions available at different levels, and we're always excited to hear from people who share our passion!</p><p>Tech stack includes: Haskell (Yesod, Servant), Postgres, Nginx, AWS, Vue</p><p>Apply or enquire via email to recruitment@tracsis.com</p><p>Open positions: <a href='https://tracsisops.com/careers/vacancies/' rel='nofollow'>https://tracsisops.com/careers/vacancies/</a></p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "8N2_d70gT0eDckyLdaU9uQ",
+    "url": "https://news.ycombinator.com/item?id=23066553",
+    "title": "Sylvera // AI for Carbon Markets infrastructure // UK, in LONDON preferred, REMOTE possible GMT ...",
+    "tags": [
+      "DBG:surround``2N( OR(feasibl,OR(consid,consider),occas,possibl), remot)",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=14, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 4, 2020 12:59:44 PM",
+    "validThrough": "May 11, 2020 12:59:44 PM",
+    "crawled": "May 4, 2020 2:06:07 PM",
+    "content": "Sylvera // AI for Carbon Markets infrastructure // UK, in LONDON preferred, REMOTE possible GMT +- 3 Hours.  We are looking for:<p>- Data Engineer</p><p>- Full Stack Developer</p><p>- Machine Learning Engineer</p><p>Full description available at www.sylvera.io/careers</p><p>HN apps get priority (ofc&quot;) You can apply direct at careers@sylvera.io and put HN in the title of the email</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Tdw77m2ISaunjqGDFE8aUw",
+    "url": "https://news.ycombinator.com/item?id=23065199",
+    "title": "HackerRank | Bangalore, India | Fulltime | Senior/Lead Devops Engineer| ONSITE/remote(covid) | ...",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/1",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/1",
+      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 4, 2020 8:42:22 AM",
+    "validThrough": "May 11, 2020 8:42:22 AM",
+    "crawled": "May 4, 2020 9:06:07 AM",
+    "content": "HackerRank | Bangalore, India | Fulltime | Senior/Lead Devops Engineer| ONSITE/remote(covid) | www.hackerrank.com<p>HackerRank is a Y Combinator alumnus backed by tier one Silicon Valley VCs. We are a skills-based hiring platform that helps companies evaluate technical skills, better. We’re driving a new paradigm shift by eliminating resumes and creating opportunities for hundreds of thousands of programmers worldwide. We have a community of 5M+ developers and 1,000+ customers across industries, and the best part is we are just getting started. Our customers - including VMware, Twitter, Capital One and many other Fortune 100 companies - rely on HackerRank to build strong engineering teams.</p><p>We're hiring across engineering for the following roles:</p><p>- Sr/Lead Devops engineers</p><p>Good pay with following benefits:</p><p>- Insurance to all Employees (term life, personal accident, medical, gratuity) along with insurance to their dependents(medical).</p><p>- Employee stock options, flexible work hours and time off.</p><p>- Tech talks every week.</p><p>- Onsite gym, telephone, internet etc. Our pantry is stocked with healthy snacks, fruits, Coffee and free catered lunch every day.</p><p>- Ping pong, hoverboard, foosball, PS4 and many office celebrations like Mafia games, outings, movie evenings to name a few!</p><p>Please send an email to anil@hackerrank.com with &quot;WHOISHIRING&quot; in the subject line, with your resume/CV, and a little bit about yourself and relevant experience.</p>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "eEobqPszTFC7-Os0fO6jdA",
     "url": "https://jobmote.com/job/4938066/toc-technician-remote/",
     "title": "TOC Technician - Remote",
