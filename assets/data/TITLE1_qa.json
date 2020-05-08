@@ -1,6 +1,59 @@
 {
  "items": [
   {
+    "id": "N-S6JcSuS4eA1hEzYAGj9A",
+    "url": "https://remote.co/job/automation-tester/",
+    "title": "Automation Tester",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TITLE1/qa",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "By Light Professional IT Services",
+      "sameAs": "https://www.bylight.com"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 7, 2020 2:43:04 PM",
+    "validThrough": "May 14, 2020 2:43:04 PM",
+    "crawled": "May 7, 2020 3:06:12 PM",
+    "content": "<div><span><i></i> Remote</span>        </div><div>            <ul><li>Job Locations<ul><li>US-Remote Work</li></ul></li><li>ID<ul><li>2020-5396</li></ul></li><li># of Openings<ul><li>1</li></ul></li><li>Category<ul><li>Information Technology</li></ul></li><li>Clearance<ul><li>Tier 2 – Moderate Risk (Public Trust)</li></ul></li></ul><p><strong>Overview</strong></p><p>By Light is hiring for an Automation Tester position. The successful candidate must have experience in creating, augmenting, and refining an automated application test suite. Must have knowledge and skills to ensure that test environments are set up accurately and run in an automated build pipeline.</p><p><strong>Responsibilities</strong></p><ul><li>Create automated test reports that include test coverage</li><li>Build a fast and reliable automated validation test suite, including:<ul><li>Unit Tests: typically test a single method, class, or function in isolation, providing assurance to the developer that code operates as designed</li><li>Acceptance Tests: typically test the application to provide assurance that a higher level of functionality operates as designed, and that regression errors haven’t been introduced</li><li>Integration Tests: where we ensure that our application correctly interacts with other production applications and services, as opposed to calling stubbed out interfaces</li></ul></li><li>Create and update automated regression tests using selenium</li><li>Catch errors as early in our automated testing as possible</li><li>Work with development teams to write our automated tests before we write the code (Test Driven Development)</li><li>Automate as many of our manual tests as possible</li><li>Integrate performance testing into our test suite</li><li>Integrate nonfunctional requirements testing into our test suite</li><li>Be involved in product design to guarantee adherence of test coverage for meeting user requirements</li><li>Record test results and report and verify bug fixes to accept automation criteria</li><li>Work with release manager and development team on Continuous Integration</li></ul><p><strong>Required Experience/Qualifications</strong></p><ul><li>5+ years programming experience – Java, Ruby and/or React a big plus</li><li>Selenium experience or other automated testing tools requiring programming (not just click and record)</li><li>Self-starter that can troubleshoot their own local and system issues (and finish them)</li><li>Experience writing tests against large, complicated semi-modular enterprise systems with deep integrations and dependencies</li><li>Experience with Jenkins and GitHub</li><li>Experience in a DevOps or DevSecOps environment and with working to develop a mature build pipeline</li><li>Quick learner (what s/he can learn fast is more important than what s/he already knows)</li><li>Comfortable working in agile methodologies (scrum or Kanban)</li><li>BA or BS degree</li></ul><p><strong>Preferred Experience/Qualifications</strong></p><ul><li>Experience supporting Veterans Administration technologies is a plus</li><li>Currently has VA GFE and PIV is a huge plus, but can definitely be waived for an awesome candidate</li><li>Liferay experience a plus</li><li>Experience testing APIs or SoapUI a plus</li><li>Ability to write SQL queries to check and load data a plus</li></ul><p>By Light provides a broad range of hardware, software, engineering, and IT integration services. Headquartered in Tysons, VA, we support defense, civilian, commercial, and health IT customers worldwide. We offer an excellent benefits package that includes: medical, dental, vision, life and disability insurance, paid time off, paid holidays, and 401(k) match.</p><p>An Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities</p>        </div><div>        <a href='https://jobs-bylight.icims.com/jobs/5396/automation-tester/job' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "ptxG8O-gRmqWIu-3z0TkPQ",
     "url": "https://remoteok.io/jobs/85014",
     "title": "Manual QA Tester",
