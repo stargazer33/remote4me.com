@@ -1,6 +1,123 @@
 {
  "items": [
   {
+    "id": "sr4J1BYCS1akaZ198LwrAw",
+    "url": "https://weworkremotely.com/remote-jobs/bookingsync-senior-ruby-on-rails-developer-1",
+    "title": "BookingSync: Senior Ruby on Rails Developer",
+    "tags": [
+      "DBG:surround``OR(abl,will,challeng,flexibl,experi,get,prefer) 2W 2N(work,remot)",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:ember.js/frontend/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/26",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/32",
+      "DBG_TECH1:k/t/w:ruby/ruby/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=64, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "BookingSync",
+      "sameAs": "http://www.bookingsync.com"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 11, 2020 6:50:35 PM",
+    "validThrough": "May 18, 2020 6:50:35 PM",
+    "crawled": "May 11, 2020 7:05:11 PM",
+    "content": "<h3> Senior Ruby on Rails Developer </h3><div><div><strong>You will need to have:</strong></div><ul><li>Strong experience with Ruby on Rails, ideally at least over 5 years of experience working on non-trivial projects with a good success record</li><li>Proficiency in backend development in general</li><li>Solid design and architecture skills</li><li>Experience with async messaging solutions (we use both RabbitMQ and Kafka)</li><li>Experience with microservices architecture</li><li>Ability to demonstrate that with the right approach, Rails apps do scale</li><li>Familiarity with modern API standards (JSONAPI, GraphQL)</li><li>Experience in working within an Agile environment</li><li>Ability to communicate effectively with both internal and external development teams</li><li>Experience with relational databases and SQL (we're on Postgres). Experience with other databases will be a plus</li><li>A strong commitment to quality, ownership and taking responsibility</li><li>Excellent written and spoken English</li><li>Experience with remote work and/or a solid work ethic that makes it possible to thrive in a remote-only environment</li><li>Drive to getting things done efficiently</li><li>Care for the greater good, BookingSync is not just a software company, we give back to humanitarian, solidarity, environmental &amp; ecological causes from 10% to 50% of our profit.</li></ul><div><strong>It would be great if you had experience with:</strong></div><ul><li>DDD/CQRS/ES</li><li>DevOps and security</li><li>JavaScript/Frontend development (we use Ember, ability to communicate clearly and solve the problems fast with other frontend developers is definitely a big advantage)</li><li>Other programming languages&nbsp;</li><li>Mentoring other developers</li><li>Contributing to the development community through code, documentation, mentoring, teaching, speaking and all other forms.</li><li>Short terms rentals or travel industry</li></ul><div><strong>Sounds interesting? Contact us now!</strong></div><div><br>Want to increase your chances of standing out? Include your open source contributions, blog posts and other publications you wrote, links to conference talks. You could even tell us about one thing or two you created that you are particularly proud of or the most challenging features you've worked on.&nbsp;</div><div><br>The hiring process consists of four steps:&nbsp;</div><div><br></div><ol><li>A small homework: Imagine that you don't want to or just don't have enough time to go through entire Twitter timeline every day and you are only interested in URLs to the various resources that are submitted by the people you follow (e.g., to blog posts). Implement a solution that will solve this problem and will allow to specify either since when you want to fetch tweets or between what timestamps and will deliver the result via the email. Divide the solution into two Rails applications:<br><br>1.1 Service A with UI where specify the input (i.e. timestamps but also the email address, to which the results will be delivered)<br><br>1.2 Service B will accept the input somehow from Service A and deliver the result via email. The template for the email should be customizable (e.g. using Liquid) and the Service B should be flexible enough to handle potentially other use cases with different input. In that sense, delivering URLs from Twitter would be just one of the many types of emails that such service should be capable of handling. The template for this particular use case should include the URLs themselves, date and some info indicating what it is about (especially for shortened URLs). Treat it as a real-world project and send us a link to the repo.<br><br><br></li><li>Technical interview with a remote pair-programming session: the interview part shouldn't take too much time - we are mostly interested in the ability to solve the actual problems and being able to figure out the best possible solution for that problem, not in knowing things can be easily googled and learned through experience, that's why the interview part will be focused mostly on open-ended questions about some non-trivial matters. The pair-programming session will take a bit longer, and it will involve some nice challenge in a Rails universe.<br><br><br></li><li>An interview with our CEO and/or COO that will be focused more on soft things, nothing technical this time.<br><br><br></li><li>An opportunity to have the conversation with the entire team you are going to work with. It is an excellent way for both sides to make sure we will be a perfect mutual match.</li></ol></div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "IMDKhmUjSMivU5K-6VLi1Q",
+    "url": "http://workinstartups.com/job-board/job/91814/full-stack-developer-intern-at-bloobloom/",
+    "title": "Full stack developer INTERN",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, base, resid) 3W OR(berlin, london, pari)",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/4",
+      "DBG_TECH1:k/t/w:javascript/nodejs/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/24",
+      "DBG_TECH1:k/t/w:ruby-developer/ruby/39",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
+      "DBG_TECH1:k/t/w:ruby/ruby/10",
+      "DBG_TECH1:k/t/w:vue.js/frontend/24",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=4, bigdata-ml=0, ruby=73, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=55}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "50% remote",
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "bloobloom",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 7, 2020 5:58:54 PM",
+    "validThrough": "May 14, 2020 5:58:54 PM",
+    "crawled": "May 11, 2020 1:05:24 PM",
+    "content": "<p>bloobloom, is the ambitious project to revolutionize the way we purchase glasses online!<br />In a market populated by dinosaurs, the bloobloom team has put design and technology back at the heart of the process of buying a pair of glasses.<br />To help us keep pace with an increasing number of projects, we are offering an internship position for a Ruby on Rails developer.</p><br /><p>The role will suit an enthusiastic Full Stack Java/React.js Developer looking for work experience in a collaborative and friendly environment where scalability and robustness is at the core of the team's mindset for a minimum</p><br /><p>We are looking for a Ruby on Rails developer who is excited at the idea of building systems and user-interfaces that will be at the core of our company. You might be fresh out of university and looking for your first challenge or looking for somewhere to apply your knowledge and experience in real life. It is important that you are comfortable building Ruby on Rails applications.</p><br /><p>As a Ruby On Rails developer, you will be responsible for implementing order management and customer data analysis systems, implementing Virtual Try-On tools and proposing innovative technical solutions in the context of new projects that are linked to our website. You will work on mature (but up to date) projects as well as on new projects. Both on the backend part (Rails / React) and on the front-end part (html / JavaScript / VueJS).</p><br /><p><strong>Skills and qualifications</strong></p><br /><p>Your application must have:</p><br /><ul><br /><li>Ruby on Rails / React experience</li><br /><li>Strong experience in front-end development (HTML / CSS / JavaScript ES6 / VueJS ...)</li><br /><li>Experience with relational databases such as Postgres or MySQL</li><br /><li>Sidekiq / Redis experience</li><br /><li>Experience with Git</li><br /><li>Ability to work with minimal supervision</li><br /></ul><br /><p><strong>Favorite candidates:</strong></p><br /><ul><br /><li>Experience working in an Agile environment</li><br /><li>Experience with a JS framework such as VueJS or React ....</li><br /></ul><br /><p><strong>Further information</strong></p><br /><ul><br /><li>Type of contract: Internship</li><br /><li>Location: London, United Kingdom</li><br /><li>Remote work/ WFH possible</li><br /></ul>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "yXIvEz5IQUSVP225ujoTQw",
     "url": "https://remoteok.io/jobs/85068",
     "title": "Full Stack Rails Developer",
