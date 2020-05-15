@@ -1,6 +1,6 @@
 ---
 permalink: /remote-ruby-jobs
 layout: page-jobad-list
-last_modified_at: 2020-05-14T05:10:44+0200
+last_modified_at: 2020-05-15T05:11:01+0200
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
