@@ -1,6 +1,6 @@
 ---
 permalink: /remote-other-technologies-jobs
 layout: page-jobad-list
-last_modified_at: 2020-05-16T05:10:34+0200
+last_modified_at: 2020-05-17T05:10:27+0200
 ---
 {% include render_jobad_list.html permalink=page.permalink %}
