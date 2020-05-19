@@ -1,6 +1,160 @@
 {
  "items": [
   {
+    "id": "CW-nhdjIRUKdOjUYvZhK6Q",
+    "url": "https://stackoverflow.com/jobs/374584/full-stack-python-engineer-gorgias?a=21CG6lPhsBXi&so_medium=Talent&so_source=TalentApi",
+    "title": "Full-Stack Python Engineer at Gorgias  ",
+    "tags": [
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:flask/python/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:python-developer/python/26",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:techWeightMap:{python=46, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=4, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=18}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Gorgias – No office location",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "EUR",
+      "minValue": 50000,
+      "maxValue": 85000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "EUR 50k - 85k /Year | Equity"
+    },
+    "employmentType": "UNSET",
+    "published": "May 19, 2020 12:05:14 AM",
+    "validThrough": "May 26, 2020 12:05:14 AM",
+    "crawled": "May 19, 2020 12:05:14 AM",
+    "content": "<h3><span>Full-Stack Python Engineer</span>            </h3>                <h4>About this job</h4>                <div>                        <div>                                <div>                                    <span>Job type: </span>                                    <span>Full-time</span>                                </div>                                <div>                                    <span>Experience level: </span>                                    <span>Mid-Level, Senior</span>                                </div>                                <div>                                    <span>Role: </span>                                    <span>DevOps, Full Stack Developer</span>                                </div>                        </div>                        <div>                                <div>                                    <span>Industry: </span>                                    <span>Customer Communication Management, Customer Service, eCommerce</span>                                </div>                                <div>                                    <span>Company size: </span>                                    <span>11–50 people</span>                                </div>                                <div>                                    <span>Company type: </span>                                    <span>VC Funded</span>                                </div>                        </div>                </div>            <div>Company: Gorgias – No office location<br></div><h4>Technologies</h4><div>python</div><div>postgres</div><div>flask</div><div>react-native</div><div>kubernetes</div><div>Gorgias</div>            <h4>Job description</h4>            <div><a href='https://www.gorgias.com/' rel='nofollow'>Gorgias</a>&nbsp;helps e-commerce companies deliver excellent customer service at scale.Our product creates a unified profile of customers by combining emails, live-chat, and social-media messages with e-commerce data such as purchase and delivery info.Combining all this data in a single application makes customer service more efficient and just better. Another fortunate side-effect is that some requests are completely automated using ML.  +  = ❤️We've been around since 2015, and we're currently serving over 2700+ e-commerce businesses, including Steve Madden, Rothys, Timbuk2, and Fjällräven.Is getting your hands dirty, in a real-world application that touches the lives of millions, your thing? Then yeah, Gorgias is for you. What are some of the things we work on?The frontend is written in&nbsp;<strong>React</strong>&nbsp;and React Native with the state managed by&nbsp;<strong>Redux</strong>. The backend code is mostly written in&nbsp;<strong>Python3&nbsp;</strong>and runs using&nbsp;<strong>Flask</strong>&nbsp;(REST API) and&nbsp;<strong>Celery</strong>&nbsp;for all background work. The state is stored in&nbsp;<strong>PostgreSQL</strong>&nbsp;and&nbsp;<strong>RabbitMQ</strong>&nbsp;with&nbsp;<strong>Redis</strong>&nbsp;for ephemeral storage, and finally, everything runs on&nbsp;<strong>Kubernetes</strong>.Given the above, we usually work on one of these levels by improving the existing code, or we create a new feature which more often than not has a component on both frontend, backend, and maybe a migration in the database.In short, we do full-stack development. Either way, it always good to have a good understanding of the entire stack to be effective. Who are we at work?We have a strong preference for people who worked with&nbsp;<strong>high-traffic web applications</strong>&nbsp;for the past&nbsp;<strong>3+ years</strong>.&nbsp; We're essentially running a distributed system that has lots of moving parts and having a decent amount of experience with this type of system helps a lot!Additionally, our apps have over&nbsp;<strong>10k daily active users</strong>&nbsp;with sessions longer than&nbsp;<strong>6h+/day</strong>&nbsp;and serve&nbsp;<strong>tens of&nbsp;millions</strong>&nbsp;end consumers per year, so we put great importance on quality, testing, and code-review of all our code. Our apps have big codebases, and we have to feel comfortable about navigating and progressively improving them. Sometimes, however, we gotta get dirty and figure out why the DB is slow or why some k8s pod is not running correctly, figure out how to successfully retry a failing API request, etc... The end goal is to hide a lot of complexity from the user and make their life easier.If this is the type of environment you're looking for, then you should consider applying.<p><strong>About You</strong></p><ul><ul><li>3+ years of experience developing production-grade backend web applications using Python or JS.</li><li>3+ years of experience doing front-end development with JS.</li><li>You are passionate about learning and want to help us learn too.</li><li>You care about working on applications that are putting the customer needs first.</li><li>You are comfortable communicating with other technical teams and management to collect requirements, describe software product features, demo work in progress, and provide project updates.</li><li>You have the drive and focus to get challenging projects over the finish line, and you are comfortable advocating for what you need to do your best work.</li><li>You thrive in a fast-paced environment.</li></ul></ul><p><strong>Nice to Have</strong></p><ul><ul><li>Experience in designing API/microservices is a huge plus.</li><li>Experience with managing RDMS databases with 10Tb+ of data.</li></ul></ul><p><strong>Company Benefits &amp; Perks</strong></p><ul><ul><li>Competitive salary, equity packages, and performance bonus packages</li><li>4 weeks of vacation and parental leave</li><li>Latest MacBook Pro or equivalent</li><li>Retirement benefits</li><li>Unlimited snacks</li><li>Health coverage</li></ul></ul><p><strong>Useful Things to Know About Gorgias</strong></p><ul><ul><li>Raised our Series A in November:&nbsp;<a href='https://techcrunch.com/2019/11/26/gorgias-series-a/' rel='nofollow'>techcrunch.com/2019/11/26/gorgias-series-a</a></li><li>What our customers are saying:&nbsp;<a href='https://apps.shopify.com/helpdesk#reviews' rel='nofollow'>apps.shopify.com/helpdesk#reviews</a></li><li>Our software stack:&nbsp;<a href='https://stackshare.io/gorgias' rel='nofollow'>stackshare.io/gorgias</a></li><li>Other positions:&nbsp;<a href='https://jobs.lever.co/gorgias' rel='nofollow'>jobs.lever.co/gorgias</a></li></ul></ul><p><strong>Engineering Team Culture</strong></p>Getting Stuff Done, Ownership, Team Work, Excellence, and Agility.You should join us if you want to ship stuff fast without scarifying quality. We've put great importance on testing our code, cleaning it, treating errors first, and features later.We also value growth and ownership. People make mistakes. We learn from them to avoid them in the future. We cannot achieve excellence if there are no bumps in the road.            </div>        <div>        <a href='https://jobs.lever.co/gorgias/7593ae85-f5df-4384-93bf-0efa4ffa9f5e?lever-origin=applied&amp;lever-source%5B%5D=StackOverflow' rel='nofollow'>            Apply        </a>                            </div>            <h4>About Gorgias</h4>            <div><p>Gorgias helps e-commerce companies deliver excellent customer service at scale.<br><br>Our product creates a unified profile of customers by combining emails, live-chat, and social-media messages with e-commerce data such as purchase and delivery info.&nbsp;<br><br>Combining all this data in a single application makes customer service more efficient and just better. Another fortunate side-effect is that some requests are completely automated using ML.  +  = ❤️<br><br>We've been around since 2015, and we're currently serving over 2000+ e-commerce businesses, including Steve Madden, Rothys, Timbuk2, and Fjällräven.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Competitive salary, equity and performance bonus packages</span>                            </li>                            <li>                                <span></span>                                <span>Healthcare coverage</span>                            </li>                            <li>                                <span></span>                                <span>Latest Macbook Pro or equivalent</span>                            </li>                            <li>                                <span></span>                                <span>Nice office in the center of the city</span>                            </li>                            <li>                                <span></span>                                <span>401k</span>                            </li>                            <li>                                <span></span>                                <span>Catered lunch 5x per week (rooftop access)</span>                            </li>                            <li>                                <span></span>                                <span>4 weeks vacation</span>                            </li>                            <li>                                <span></span>                                <span>Parental leave</span>                            </li>                            <li>                                <span></span>                                <span>Walking distance from Bart (6-10 minutes)</span>                            </li>                            <li>                                <span></span>                                <span>Unlimited snacks</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "u7E5Xbu1QTC6_sCtCkgStA",
+    "url": "https://stackoverflow.com/jobs/371615/back-end-engineer-gorgias?a=20CWAEF6SPQc&so_medium=Talent&so_source=TalentApi",
+    "title": "Back-End Engineer at Gorgias  ",
+    "tags": [
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:flask/python/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=20, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=10}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Gorgias – No office location",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "EUR",
+      "minValue": 55000,
+      "maxValue": 85000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "EUR 55k - 85k /Year | Equity"
+    },
+    "employmentType": "UNSET",
+    "published": "May 18, 2020 11:05:13 PM",
+    "validThrough": "May 25, 2020 11:05:13 PM",
+    "crawled": "May 18, 2020 11:05:13 PM",
+    "content": "<h3><span>Back-End Engineer</span>            </h3>                <h4>About this job</h4>                <div>                        <div>                                <div>                                    <span>Job type: </span>                                    <span>Full-time</span>                                </div>                                <div>                                    <span>Experience level: </span>                                    <span>Mid-Level, Senior</span>                                </div>                                <div>                                    <span>Role: </span>                                    <span>Backend Developer</span>                                </div>                        </div>                        <div>                                <div>                                    <span>Industry: </span>                                    <span>Customer Communication Management, Customer Service, eCommerce</span>                                </div>                                <div>                                    <span>Company size: </span>                                    <span>11–50 people</span>                                </div>                                <div>                                    <span>Company type: </span>                                    <span>VC Funded</span>                                </div>                        </div>                </div>            <div>Company: Gorgias – No office location<br></div><h4>Technologies</h4><div>reactjs</div><div>javascript</div><div>python</div><div>postgresql</div><div>flask</div><div>Gorgias</div>            <h4>Job description</h4>            <div><a href='https://www.gorgias.com/' rel='nofollow'>Gorgias</a>&nbsp;helps e-commerce companies deliver excellent customer service at scale.Our product creates a unified profile of customers by combining emails, live-chat, and social-media messages with e-commerce data such as purchase and delivery info.Combining all this data in a single application makes customer service more efficient and just better. Another fortunate side-effect is that some requests are completely automated using ML.  +  = ❤️We've been around since 2015, and we're currently serving over 2700+ e-commerce businesses, including Steve Madden, Timbuk2, and Fjällräven.Is working with a real-world application that touches the lives of millions, your thing? Then yeah, Gorgias is for you. What are some of the things we work on?The backend code is mostly written in&nbsp;<strong>Python3&nbsp;</strong>and runs using&nbsp;<strong>Flask</strong>&nbsp;(REST API) and&nbsp;<strong>Celery</strong>&nbsp;for all background work. The state is stored in&nbsp;<strong>PostgreSQL</strong>&nbsp;and&nbsp;<strong>RabbitMQ&nbsp;</strong>for async tasks&nbsp;with&nbsp;<strong>Redis</strong>&nbsp;for ephemeral storage, and finally, everything runs on&nbsp;top of&nbsp;<strong>Kubernetes</strong>.Given the above, we usually work on one of these levels by improving the existing API, improve performance, or we create a new feature which more often than not has a component on both backends, and maybe a migration in the database or a maintenance command. Who are we at work?We have a strong preference for people who worked with&nbsp;<strong>high-traffic web applications</strong>&nbsp;for the past&nbsp;<strong>3+ years</strong>.&nbsp; We're essentially running a distributed system that has lots of moving parts and having a decent amount of experience with this type of system helps a lot!Additionally, our apps have over&nbsp;<strong>10k daily active users</strong>&nbsp;with sessions longer than&nbsp;<strong>6h+/day</strong>&nbsp;and serve&nbsp;<strong>tens of&nbsp;millions</strong>&nbsp;of end consumers per year, so we put great importance on quality, testing, and code-review of all our code. Our apps have big codebases, and we have to feel comfortable about navigating and progressively improving them. Sometimes, however, we gotta and figure out why the&nbsp;<strong>10Tb+ DB</strong>&nbsp;is slow or why some k8s pod is not running correctly, figure out how to successfully retry a failing API request, etc... The end goal is to hide a lot of complexity from the user and make their life easier.If this is the type of environment you're looking for, then you should consider applying.<p><strong>About You&nbsp;&amp;&nbsp;Nice to Have</strong></p><ul><ul><li>3+ years of experience doing back-end development on high-traffic web apps with Python or JS.</li><li>3+ years of experience working with large RDMS or document databases.</li><li>You are passionate about learning and want to help us learn too.</li><li>You care about working on applications that are putting the customer needs first.</li><li>You are comfortable communicating with other technical teams and management to collect requirements, describe software product features, demo work in progress, and provide project updates.</li><li>You have the drive and focus to get challenging projects over the finish line, and you are comfortable advocating for what you need to do your best work.</li><li>You thrive in a fast-paced environment.</li></ul></ul><p><strong>Company Benefits &amp; Perks</strong></p><ul><ul><li>Competitive salary, equity packages, and performance bonus packages</li><li>4 weeks of vacation and parental leave</li><li>Latest MacBook Pro or equivalent</li><li>Retirement benefits</li><li>Unlimited snacks</li><li>Health coverage</li></ul></ul><p><strong>Useful Things to Know About Gorgias</strong></p><ul><ul><li>Raised our Series A in November:&nbsp;<a href='https://techcrunch.com/2019/11/26/gorgias-series-a/' rel='nofollow'>techcrunch.com/2019/11/26/gorgias-series-a</a></li><li>What our customers are saying:&nbsp;<a href='https://apps.shopify.com/helpdesk#reviews' rel='nofollow'>apps.shopify.com/helpdesk#reviews</a></li><li>Our software stack:&nbsp;<a href='https://stackshare.io/gorgias' rel='nofollow'>stackshare.io/gorgias</a></li><li>Other positions:&nbsp;<a href='https://jobs.lever.co/gorgias' rel='nofollow'>jobs.lever.co/gorgias</a></li></ul></ul>            </div>        <div>        <a href='https://jobs.lever.co/gorgias/06a4efd0-dfa5-47e9-83bf-1e11eab3e86b?lever-origin=applied&amp;lever-source%5B%5D=StackOverflow' rel='nofollow'>            Apply        </a>                            </div>            <h4>About Gorgias</h4>            <div><p><strong>Let's be honest...&nbsp;</strong>Customer support is not a popular industry these days. It's a hard, repetitive job. Imagine replying to the same, &quot;where is my order?&quot; question 400 times a day - humans shouldn't do that. Machines should.</p><p>That's why we come to work at Gorgias. We are working hard to&nbsp;<strong>automate</strong>&nbsp;the repetitive requests so that people who are doing support can focus on tough and interesting cases instead.</p><p>At Gorgias, we're helping over&nbsp;<strong>2000+&nbsp;</strong>e-commerce businessesworldwide that collectively serve millions of consumers. For the customer support agents, Gorgias is not a &quot;nice to have&quot; - it's the primary tool for the job, and even if the end customer never knows about us (as it should be), we're an integral part of their experience.</p><p>For us, this means two things: we're working on a high-impact product, and we have a responsibility to deliver a reliable and high-quality application.</p><p>You should join us if you want to ship stuff fast without scarifying quality. We're put great importance on testing our code, cleaning it, treating errors first, and features later.</p><p>We also value growth and ownership. People make mistakes. We learn from them to avoid them in the future. We cannot achieve excellence if there are no bumps in the road.</p><p>If you work with us, you will be treated with respect and trust, independent of your gender, ethnicity, or background, and we except results and integrity in return.</p><p><strong>Engineering Team Culture:</strong>&nbsp;Getting Stuff Done, Ownership, Team Work, Excellence, and Agility. You should join us if you want to ship stuff fast without scarifying quality. We're put great importance on testing our code, cleaning it, treating errors first, and features later. We also value growth and ownership. People make mistakes. We learn from them to avoid them in the future. We cannot achieve excellence if there are no bumps in the road.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Competitive salary, equity and performance bonus packages</span>                            </li>                            <li>                                <span></span>                                <span>Healthcare coverage</span>                            </li>                            <li>                                <span></span>                                <span>Latest Macbook Pro or equivalent</span>                            </li>                            <li>                                <span></span>                                <span>Nice office in the center of the city</span>                            </li>                            <li>                                <span></span>                                <span>401k</span>                            </li>                            <li>                                <span></span>                                <span>Catered lunch 5x per week (rooftop access)</span>                            </li>                            <li>                                <span></span>                                <span>4 weeks vacation</span>                            </li>                            <li>                                <span></span>                                <span>Parental leave</span>                            </li>                            <li>                                <span></span>                                <span>Walking distance from Bart (6-10 minutes)</span>                            </li>                            <li>                                <span></span>                                <span>Unlimited snacks</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "E0WRs4LpRjqcYObb6KC6nQ",
+    "url": "https://stackoverflow.com/jobs/243958/expert-django-developer-djangoforce?a=1jOAuZR9OaKk&so_medium=Talent&so_source=TalentApi",
+    "title": "Expert Django Developer at DjangoForce  ",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:django/python/32",
+      "DBG_TECH1:k/t/w:python-developer/python/26",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:techWeightMap:{python=64, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "DjangoForce – No office location",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 60000,
+      "maxValue": 800000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserDefaultImpl",
+      "isEquity": false,
+      "formatted": "USD 60k - 800k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "May 18, 2020 9:05:14 PM",
+    "validThrough": "May 25, 2020 9:05:14 PM",
+    "crawled": "May 18, 2020 9:05:14 PM",
+    "content": "<h3><span>Expert Django Developer</span>            </h3>                <h4>About this job</h4>                <div>                        <div>                                <div>                                    <span>Job type: </span>                                    <span>Contract</span>                                </div>                                <div>                                    <span>Experience level: </span>                                    <span>Senior</span>                                </div>                                <div>                                    <span>Industry: </span>                                    <span>SaaS, Software Development, Web Development</span>                                </div>                        </div>                        <div>                                <div>                                    <span>Company size: </span>                                    <span>11–50 people</span>                                </div>                                <div>                                    <span>Company type: </span>                                    <span>Private</span>                                </div>                        </div>                </div>            <div>Company: DjangoForce – No office location<br></div><h4>Technologies</h4><div>python</div><div>django</div><div>amazon-web-services</div>            <h4>Job description</h4>            <div><p>We have active software projects and looking for 1 Senior-Level Python Developer to help us deliver a successful product.&nbsp;<br><br>About Us<br>We're a US-based software agency, with an excellent reputation on Upwork, that solves our clients' toughest challenges by providing unmatched services in custom software development, consulting and support. We partner with medium to large businesses, including Fortune 500 companies, to deliver transformational outcomes for a demanding new digital world.&nbsp;<br><br>Who We Are Looking For (Senior Django Developer)<br>If you're a python developer who loves to stay focused on coding without worrying about collecting requirements, dealing with clients directly, and working with a professional, organized team...get in touch! We seek a long-term partnership with someone who can work well with a distributed team, has great work ethic, open communication, and isn't afraid to contribute input if they see a better way to do things. And we'll do our part by providing you with exciting, challenging applications.&nbsp;<br><br>What We Provide You With<br>We help and support you by providing the following for any project you work on:<br>Documentation<br>Full Requirements<br>Wireframes<br>Front-End Team<br>Back-End Lead<br><br>Tools We Use<br>Atlassian (Jira, Bitbucket &amp; Confluence)<br>Slack<br>AWS<br><br>Interview Process<br>Upon acceptance of your proposal, we will follow-up to schedule a technical interview. The process would be the following:<br>Video Chat using Zoom (we will send an invitation link)<br>Brief Interview Questions<br>Screen share so you can walk us through recent projects and your development processes<br>Last, we will follow-up by sending a quick online coding test.<br><br>If you feel this would be a great opportunity for you, please take the time to write us a thoughtful reply. Please put the words &quot;serious applicant&quot; at the beginning of your reply, so we know you read this entire job post thoroughly.&nbsp;<br><br>We ask that you only contact us through Upwork and not outside applications such as email or Linkedin.&nbsp;<br><br>Thank you and looking forward to hearing from you!</p>            </div>        <div>            <a href='https://stackoverflow.com/jobs/apply/243958?reset=False&amp;ra=1jOAuZR9OaKk&amp;oqs=a%3D1jOAuZR9OaKk%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>                                <span>Easy apply</span>            </a>                            </div>            <h4>About DjangoForce</h4>            <div><p>We build enterprise business &amp; SaaS web applications for start-up companies to Fortune 500 companies.</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Remote Work</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "xV_3eg7RQyqq0tjnqY8GHw",
     "url": "https://stackoverflow.com/jobs/391975/principal-software-engineer-full-stack-kyruus?a=27shR3OBQ49i&so_medium=Talent&so_source=TalentApi",
     "title": "Principal Software Engineer (Full Stack) at Kyruus  ",

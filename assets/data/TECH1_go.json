@@ -1,6 +1,103 @@
 {
  "items": [
   {
+    "id": "a8QnzZJBSlWMGIE0cWVVpg",
+    "url": "https://remote.co/job/senior-software-engineer-122/",
+    "title": "Senior Software Engineer",
+    "tags": [
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "Red Hat",
+      "sameAs": "https://www.redhat.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 18, 2020 3:41:04 PM",
+    "validThrough": "May 25, 2020 3:41:04 PM",
+    "crawled": "May 18, 2020 4:06:20 PM",
+    "content": "<div><span><i></i> Remote</span>        </div><div>            <ul><li>Location: US-Remote</li><li>Job ID: 76893</li><li>Category: Software Engineering</li></ul><p><strong>Company description</strong></p><p>At Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing solutions. We offer cloud, Linux, middleware, storage, and virtualization technologies, together with award-winning global customer support, consulting, and implementation services. Red Hat is a rapidly growing company supporting more than 90% of Fortune 500 companies.</p><p><strong>Job summary</strong></p><p>The Red Hat OpenShift team is looking for a Senior Software Engineer to join us in Boston, MA. In this role, you will help guide the continued progress of the Red Hat OpenShift offering. As part of the OpenShift team, you’ll need to have passion for technology and development, balanced with the responsibility of running a hosted service. You’ll offer a service that will change how development is done, using the benefits of Red Hat’s technologies and services hosted in the cloud. As a Senior Software Engineer, you’ll need to be inquisitive and motivated, but also able to collaborate with others and more than willing to help make them successful. You’ll also need to be well spoken and have excellent written language skills in English, which you will use to communicate with other Red Hat OpenShift engineers located across the globe.</p><p><strong>Primary job responsibilities</strong></p><ul><li>Serve as a senior-level engineering contributor to the Red Hat OpenShift Routing and DNS subsystems</li><li>Make updates to key components within the Red Hat OpenShift networking infrastructure</li><li>Contribute design, changes, revisions, updates, and maintenance to this infrastructure, as well as other core parts of the Red Hat OpenShift infrastructure which manage the routing and DNS characteristics of the offering</li></ul><p><strong>Required skills</strong></p><ul><li>Solid Linux experience, including administration of a single machine and creation and use of containers</li><li>Experience with networking and internet technologies, including TCP/IP, DNS, HTTP and associated protocols, L4 and L7 load balancing solutions, or HAProxy; familiarity with other high-level protocols is a plus</li><li>Experience with Go</li><li>Solid experience with programming in a Unix environment</li><li>5+ years of programming experience</li><li>Experience working on a large, complex, deployed software offering</li><li>Software design and architectural experience</li><li>Ability to write specifications</li><li>Ability to divide specifications into subtasks</li><li>Ability to lead others with technical implementation</li><li>Solid written and verbal communication skills</li><li>Experience working with agile methodologies</li><li>Experience working with source control and bug tracking; Git, Jira, or Bugzilla are a plus</li></ul><p><strong>The following are considered a plus:</strong></p><ul><li>Experience with at least one major cloud provider, ideally Amazon Web Services (AWS)</li><li>Experience with a container orchestration technology, ideally Kubernetes</li><li>Experience working with Kubernetes upstream</li><li>Contributions to open source projects in HTTP (server, proxy, or client), ipfailover, container, or DNS (server or client) space</li><li>General open source contribution history</li><li>Master’s degree in computer science</li></ul><p>Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, uniformed services, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.</p><p>Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.</p>        </div><div>        <a href='https://us-redhat.icims.com/jobs/76893/senior-software-engineer/job?hub=7' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "5XJYqEQ5Q_KYrwRogP6KxQ",
+    "url": "https://remote.co/job/senior-software-engineer-ipfs/",
+    "title": "Senior Software Engineer, IPFS",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go"
+    ],
+    "hiringOrganization": {
+      "name": "Protocol Labs",
+      "sameAs": "https://protocol.ai/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 18, 2020 1:45:51 PM",
+    "validThrough": "May 25, 2020 1:45:51 PM",
+    "crawled": "May 18, 2020 2:06:08 PM",
+    "content": "<div><span><i></i> Remote</span>        </div><div>            <ul><li>REMOTE – IPFS</li><li>PROJECTS – ENGINEERING</li><li>FULL-TIME</li></ul><p><strong>About:</strong></p><ul><li>Build the reference implementation of a resilient, open, and upgradeable network for humanity’s information.</li><li>We are hiring senior software engineers/leaders to work on the reference implementation of the InterPlanetary File System (IPFS).</li><li>IPFS is one of the most promising projects of Web 3.0. Combining distributed systems research with large-scale real-world applications, IPFS has brought content-addressed, peer-to-peer applications to millions of monthly active users. If successful, IPFS will form a new foundation for a distributed web of knowledge and computation for humans everywhere.</li><li>Many significant technical challenges remain as we expand the IPFS network and functionality to support new scaling demands.</li><li>We’re seeking senior engineers experienced in distributed systems design and implementation to join our full-time open-source team.</li><li>We particularly value experience independently designing and implementing significant components of complex systems, leading strong open source communities, contributing to projects involving protocol design or globally distributed systems, and demonstrating execution focus and discipline to carry such projects to completion.</li><li>Distributed Systems Engineering at Protocol Labs</li><li>Distributed systems engineering lies at the center of many projects at Protocol Labs. With IPFS, libp2p, Filecoin, and other related projects we are laying the foundation for a more resilient, secure, distributed version of the web.</li><li>This requires rigorous engineering from protocol design through all the phases of implementation.</li><li>We strike a balance between pragmatism (put it on a ship ), deeply informed protocol design, and strict application of strong engineering principles.</li><li>All of this happens in an environment defined by curiosity, passion, and a love for open source.</li></ul><p>A<strong>s a Senior Software Engineer with IPFS you might…</strong></p><ul><li>Design and implement significant components of the Go-IPFS open-source reference implementation</li><li>Develop solutions to hard problems in low-trust distributed systems</li><li>Integrate research results and demonstrations into working, scalable programs and systems</li><li>Contribute to protocol design and specification efforts</li><li>Lead and develop more junior engineers, and provide guidance and review for open source contributors around the world</li></ul><p><strong>You may be a fit for this role if you have…</strong></p><ul><li>Significant experience designing and building distributed infrastructure or systems</li><li>A strong technical design ability informed by broad experience across multiple domains/specialties</li><li>A solid understanding of distributed systems principles and applications</li><li>A keen awareness of teamwork, process, and patterns of successful collaboration</li></ul><p><strong>Highly valued bonus experience includes:</strong></p><ul><li>Open-source community curation and leadership</li><li>Decentralized building blocks such as DHTs, p2p networking, UNIX file systems, etc.</li><li>Large-scale systems (especially networking, performance, storage, or reliability engineering)</li><li>Extensive Go programming</li><li>Security engineering and/or cryptography principles and practices</li></ul><p><strong>What’s it like to work at Protocol Labs?</strong></p><ul><li>Protocol Lab’s mission is to improve humanity’s most important technology, the Internet. We build protocols, systems, and tools to improve how it works.</li><li>Today, we are focused on how we store, locate, and move information. Our projects include IPFS, Filecoin, libp2p, and more.</li><li>As a distributed team, we hire anywhere in the world, and at various levels of experience (entry, senior, staff). We look for people with unique perspectives and diverse backgrounds.</li></ul><p>We have a great benefits package, including parental leave, contributions to your retirement, competitive pay, and unlimited time off. For U.S.-based employees, we also provide platinum-level health, dental, and vision coverage for you and your family.</p>        </div><div>        <a href='https://jobs.lever.co/protocol/82793e56-124f-484c-bf13-357ef0b45bc6' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "t_Sdhd1BRX6kA8l3CKI89A",
     "url": "https://remoteok.io/jobs/85190",
     "title": "Senior Software Engineer",
