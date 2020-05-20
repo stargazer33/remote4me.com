@@ -1,6 +1,408 @@
 {
  "items": [
   {
+    "id": "R6NLrh1URkyoh0ims9ZEXw",
+    "url": "https://remoteok.io/jobs/85261",
+    "title": "Software Engineer (Full Stack)",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG_TECH1:k/t/w:css/frontend/6",
+      "DBG_TECH1:k/t/w:django/python/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:techWeightMap:{python=14, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=9}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Simple Poll",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 50000,
+      "maxValue": 60000,
+      "info": "",
+      "unit": "YEAR",
+      "parser": "SalaryParserLargeText",
+      "isEquity": false,
+      "formatted": "GBP 50k - 60k /Year"
+    },
+    "employmentType": "UNSET",
+    "published": "May 20, 2020 12:51:42 AM",
+    "validThrough": "May 27, 2020 12:51:42 AM",
+    "crawled": "May 20, 2020 1:05:20 AM",
+    "content": "<span></span> <span><h4>Simple Poll</h4></span> <br> <h3>Software Engineer (full Stack)</h3> <span></span> <span>verified</span> <br> <span>Worldwide</span> <div>  <div>   Full Time – Remote\\n\\nSalary: £50,000 - £60,000 (GBP)\\n\\nApplications close on: 8th of June\\n\\n# The ideal candidate\\n\\n- You enjoy working and shipping independently\\n- You've built and deployed something on the web (send us a link? )\\n- You care about the product as well as the code\\n- You are curious and take initiative to explore new things\\n- You have excellent verbal and written communication skills\\n- You enjoy picking up new skills and learning new technologies\\n- If you don't have any &quot;formal&quot; professional experience working as a software engineer, you've worked on a product (or built a side project) that had users\\n\\n# Responsibilities\\n\\n- Write, review, deploy, and maintain code in mostly Python (back end) and HTML/CSS/JavaScript (front end)\\n- Take ownership of parts of the codebase\\n- Document the systems you help build, monitor, and maintain\\n- Coordinate with the rest of the team on prioritising feature requests and bugs\\n- Evaluate and recommend solutions to guide team decision making\\n- Improve engineering standards, tooling, and processes\\n- Debug production issues and implement fixes for them\\n\\n## You Might Work On\\n\\n- New features in the Simple Poll Slack app\\n- Performance improvements to make Simple Poll faster\\n- An entirely new product (We regularly explore new products!)\\n- Improving reliability of the Simple Poll app, which could for example entail setting up a new Datadog dashboard\\n- Work with a designer to build a new page in our frontend and then implement that page based on their design\\n- Something completely different! As an early stage company, we tend to be pretty &quot;all hands on deck&quot; when something comes up that we need to get done\\n\\n# Pay and benefits\\n\\n- This is a fully remote, full time (40 hours per week) position. You can choose your own hours as long as you have at least 4 hours of overlap with London (from 8am - 6pm)\\n- The salary is £50,000 - £60,000 (GBP) per year\\n- We'll buy you a new Macbook Pro and any other tools you need to do your best work\\n- 30 days of holiday a year (including local national holidays), and you're encouraged to take all of it. You're also free to take additional time off for any other reasonable reasons, for example if you're sick (of course!) but also if you need to spend an afternoon taking care of something personal.\\n- Sustainable and healthy working matters to us. We care about building delightful products for our customers, not hitting arbitrary daily hour counts.\\n- We are a UK based company, so if you are also based on the UK we will hire you as a full time employee.\\nIf you are not based in the UK, then this position will be permanent and full time in spirit, but a contract role on paper. The reason for this is that employment outside of the UK comes with significant challenges for a small company like ours. In that case, this means that this role doesn't include certain benefits like a retirement plan/pension.\\n\\n# About us\\n\\nWe are a fairly early stage company! Currently there are two of us working on Simple Poll full time:\\n\\n- Charles (who is in charge of Sales, Marketing, Business Development, and Compliance)\\n- Wilhelm (me! I mostly spend my time writing code and doing all the many other things that need to get done)\\n\\nWe're a profitable, bootstrapped company (no external investment) and very much plan to stay that way!\\n\\nBackground on Simple Poll (our main product):\\n\\n- Simple Poll is one of [the most popular apps on Slack](https://slackrank.wilhelmklopp.com)\\n- Wilhelm created Simple Poll in early 2016 to improve his own workflow when working in Slack. Started as a side project and then grew up to be a proper company!\\n- Over the course of a year, Simple Poll has millions of users (and you will be able to directly impact their experience!)\\n\\n## Our principles\\n\\n*Inspired (often straight up copied) by the [Zen of GitHub](https://warpspire.com/posts/taste) and the [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)*\\n\\nExplicit is better than implicit\\n\\nSimple is better than complex\\n\\nFavor focus over features\\n\\nAnything added dilutes everything else\\n\\nMind your words, they are important\\n\\nCraft the details, they matter\\n\\nShip early and often\\n\\nNever miss an opportunity to delight\\n\\nBuild for the long term\\n\\nUse what you build with pride\\n\\nCreate lasting value for customers\\n\\nMistakes are possible when moving fast\\n\\nEmpower with courtesy and empathy\\n\\n## Our tech stack\\n\\n- Python + Django\\n- PostgresQL\\n- Heroku\\n- Amazon Web Services\\n- GitHub\\n- HTML + Tailwind CSS\\n- Vanilla JavaScript\\n- Datadog, Zoom, Gmail, Google Calendar, G Suite, Slack, Notion\\n- Our own products!\\n\\n# Practicals of the role\\n\\nType: Full Time\\n\\nReport to: CEO (Wilhelm)\\n\\nLocation: Remote – anywhere where you have significant (4h) timezone overlap with the UK (during the hours of 8am-6pm)\\n\\nStart date: As soon as possible\\n\\nSalary: £50,000 - £60,000 (GBP)\\n\\n# How to apply\\n\\n[Apply via this form](https://docs.google.com/forms/d/e/1FAIpQLSf1sOoNljnX15cMO5OrA-Y0gHVfFE0Yj9rMCfsOYEiWjqG_Ag/viewform)\\n\\nWe're excited to review your application!\\n\\n\\n\\n\\n\\n[Original job description](https://www.notion.so/simplepoll/Software-Engineer-Simple-Poll-Full-Stack-a33791c3e27442deb029680a7caf4eb6) \\n\\n#Salary\\n$67,000\\n   <span>yagJzhkdapAsCMnUw7CpJAMi</span>\\n\\n#Location\\n- Worldwide   <br>  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "UWgyJFjQRc69v6JhU1sGXw",
+    "url": "https://remoteok.io/jobs/85258",
+    "title": "Senior Full Stack Developer",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:apache-flink/java/8",
+      "DBG_TECH1:k/t/w:css/frontend/9",
+      "DBG_TECH1:k/t/w:flask/python/8",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:javascript/frontend/6",
+      "DBG_TECH1:k/t/w:javascript/nodejs/6",
+      "DBG_TECH1:k/t/w:keras/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:layout/frontend/5",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:npm/nodejs/5",
+      "DBG_TECH1:k/t/w:python-developer/python/26",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:k/t/w:sqlalchemy/python/8",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:k/t/w:webpack/frontend/10",
+      "DBG_TECH1:techWeightMap:{python=46, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=25, bigdata-ml=8, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=65}",
+      "REMOTE1/50",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Backtracks",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 20, 2020 12:04:00 AM",
+    "validThrough": "May 27, 2020 12:04:00 AM",
+    "crawled": "May 20, 2020 12:05:22 AM",
+    "content": "<span></span> <span><h4>Backtracks</h4></span> <br> <h3>Senior Full Stack Developer</h3> <div>  <div>   \\nBuild delightful software for podcasts and spoken word audio.&nbsp;Backtracks&nbsp;is seeking a qualified Senior Full Stack Developer to join our Product &amp; Engineering Team. Remote work is possible/is currently the only option.\\n\\nOpportunity\\n\\nBacktracks&nbsp;helps audio content creators and brands know and grow their audience and revenue. You will be responsible for building the client-side and middle tier solutions of our web applications and platform to deliver delightful experiences to our users.\\n\\nYour day-to-day...\\n\\n\\n* Design and implement improvements to new and existing portions of our platform, website, and applications\\n\\n* Improve appeal and usability of our different products\\n\\n* Code and deploy new features in collaboration with our product and engineering teams\\n\\n* Be part of a small team, with a large amount of ownership and responsibility for managing things directly\\n\\n* Ship high-quality solutions with a sense of urgency\\n\\n* Work closely with both internal and external stakeholders, owning a large part of the process from problem understanding to shipping the solution\\n\\n* Work across front-end and middle tier of the stack\\n\\n* Have the freedom to suggest and drive initiatives\\n\\n\\n\\n\\nWe expect you to be a tech-savvy professional, who is curious about new digital technologies and aspires to combine usability with visual design. Ultimately, you should be able to create a functional and attractive digital environment for our company, ensuring great user experience.\\n\\nYou have...\\n\\n\\n* History of autonomous design decision making at technically focused companies\\n\\n* History of designing and building web components, products, and technology\\n\\n* Experience working on design and development in any of the following roles:\\n\\n\\n* Product Developer\\n\\n* Product Engineer\\n\\n* Front-end Designer and Developer\\n\\n* Front-end Engineer\\n\\n* UI Designer/Developer\\n\\n* Full Stack Engineer\\n\\n* Full Stack Developer\\n\\n* Python Developer\\n\\n* Python Engineer\\n\\n* JavaScript Engineer\\n\\n* JavaScript Developer\\n\\n\\n\\n\\n\\n* In-depth understanding of the entire web development process (design, development and deployment)\\n\\n* Strong knowledge of:\\n\\n\\n* Javascript (ES6+)\\n\\n* Python 3.x\\n\\n* Know when to use immutable types, observables, reactive patterns, reduce, spread, etc.\\n\\n\\n* You also know and subscribe to simple is better (you know when plain JavaScript with no framework is best)\\n\\n\\n\\n\\n\\n* CSS, SCSS\\n\\n* Compilation, bundling, and packaging via Webpack, Babel, etc.\\n\\n* Front-end frameworks (specifically Vue or React)\\n\\n* Node.js and npm\\n\\n\\n\\n\\n\\n* Confidence or experience working with:\\n\\n\\n* Typescript\\n\\n\\n\\n\\n\\n* CSS-in-JS\\n\\n\\n\\n\\n\\n* Front-end test frameworks (Cypress, Jest)\\n\\n\\n\\n\\n\\n* Experience with front-end build/deployment processes (Webpack, Babel)\\n\\n\\n\\n\\n\\n* Strong design skills including understanding of layout aesthetics\\n\\n* Motivation and an enjoyment for a startup environment\\n\\n* Systematic thinker (consider how components can scale across our platform and product offerings)\\n\\n* The ability to code and build out designs independently from no mock up all the way to working CSS/HTML/JS\\n\\n* A blend of product, system, and people knowledge that lets you jump into a fast paced environment and contribute from day one\\n\\n* An ability to balance a sense of urgency with shipping high quality and pragmatic solutions\\n\\n* Strong work sense of ownership\\n\\n* Strong collaboration and communication skills (fluency in English)\\n\\n* PMA (Positive Mental Attitude)\\n\\n* Bachelor's degree in Computer Science, relevant field, and/or relevant work experience\\n\\n* 5+ years professional experience\\n\\n\\n\\n\\nOther qualities and traits...\\n\\n\\n* Passion for podcasts, radio, and spoken word audio\\n\\n* Passion for delivering high-quality&nbsp;deliverables&nbsp;&nbsp;(e.g. you ship)\\n\\n* A product-first approach to building software\\n\\n* An enthusiasm for hard problems\\n\\n* Thrives in a fast-paced environment\\n\\n\\n\\n\\nBonus points if you have experience with...\\n\\n\\n* Web performance (time-to-interactive, dependencies, wasted renders)\\n\\n* Node-based serverside APIs\\n\\n* Building Python-based REST APIs\\n\\n* Apache AirFlow\\n\\n* Audio analysis and processing\\n\\n* Some or all of the following:\\n\\n\\n* Flask, Sanic, Apache Mod WSGI\\n\\n* PyTorch, Tensorflow, Keras\\n\\n* Spark, Flink\\n\\n* Jinja2, HTML, CSS, JavaScript\\n\\n* SQLAlchemy\\n\\n* Celery\\n\\n* Solr, Elasticsearch, or Lucence\\n\\n* AWS, Google Cloud, Azure\\n\\n\\n\\n\\n\\n* CI/CD deployment processes\\n\\n\\n\\n\\n\\n\\n   <span>yagJzhkdapAsCMnUw7CpJAMi</span>  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "2aYQa9NoShmTByr41hzXWA",
+    "url": "https://remoteok.io/jobs/85253",
+    "title": "Python Developer",
+    "tags": [
+      "DBG:classic``&quot;open to remot&quot;",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:ember.js/frontend/24",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:python-developer/python/26",
+      "DBG_TECH1:k/t/w:python/python/12",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=54, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=27}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "PeopleDoc",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 19, 2020 10:53:05 PM",
+    "validThrough": "May 26, 2020 10:53:05 PM",
+    "crawled": "May 19, 2020 11:06:44 PM",
+    "content": "<span></span> <span><h4>PeopleDoc</h4></span> <br> <h3>Python Developer</h3> <div>  <div>   \\nPeopleDoc is looking for experienced and talented web developers who love working with Python, Django, JavaScript, ember.js. PeopleDoc has been growing like crazy during the last 4 years, and hopefully it’s not going to stop! The R&amp;D teams is always in the process of improving our application for our users and supporting the incredible growth of PeopleDoc.\\n\\nIn this role, you will work closely with product owners, UX developers, SRE, DBAs, Support teams, and other web engineers to push forward the implementation of new features while also helping us to scale our platform. As a member of one of our feature teams, you will join a friendly and talented group of python developers, within a dynamic, forward looking company, facing great engineering challenges.\\n\\nOur stack includes: Python/Django, PostgreSQL, ElasticSearch, Redis, RabbitMQ, Ansible, ember.js, Java/Scala\\n\\n&nbsp;Successful candidate will be able to:\\n\\n\\n* Design, ship and test new features in collaboration with the Product Team\\n\\n* Use your deep understanding of web technologies and APIs to advise on the system's architecture\\n\\n* Push your code in production, improve our deployment process and monitor it\\n\\n* Analyze, rethink and refactor the code to scale the application\\n\\n* Write unit, functional and performances tests\\n\\n* Contribute to our OpenSource Projects&nbsp;\\n\\n\\n\\n\\nWhat you bring to the table:\\n\\n\\n* The ability to write tested, production grade Python + Extensive SQL skills\\n\\n* A solid understanding of Linux development&nbsp;and automation tools (we use Ansible to manage configuration, and you are expected to deploy your own application and features)\\n\\n* Like to learn &amp; share, you are passionate and humble about your skills\\n\\n* Excellent communication skills. As a team and “international company” we communicate mostly in English\\n\\n* JavaScript experience is a big bonus, we use ember.js, and JavaScript everywhere\\n\\n\\n\\n\\nWhat we bring to the table ?&nbsp;\\n\\n\\n* A passionate and welcoming team,\\n\\n* Team work is in our core values; we learn from each other by pair programming or via extensive code reviews\\n\\n* Double screens, supercharged PCs,\\n\\n* Croissants every monday,\\n\\n* Off-sites, Babyfoot, tennis table and PS4 for the lunch break\\n\\n* Open to remote workers\\n\\n\\n\\n\\nTypical Interview Process:\\n\\n\\n* If your application is selected, a&nbsp;Recruiter will reach out to schedule a phone screen with them.\\n\\n* If selected to move forward, you will complete a HackerRank Coding Assessment.\\n\\n* If you pass, you will either move forward to a technical phone call for an additional screening, OR directly to an onsite interview.\\n\\n* Offer stage.\\n\\n\\n   <span>yagJzhkdapAsCMnUw7CpJAMi</span>  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "U42QSNogQfie_ChTewB6og",
+    "url": "https://stackoverflow.com/jobs/393644/python-developer-onsite-in-paris-or-remote-in-peopledoc?a=280ZsAJ0zWIE&so_medium=Talent&so_source=TalentApi",
+    "title": "Python Developer (Onsite in Paris, or Remote in France, UK, Germany) at PeopleDoc  ",
+    "tags": [
+      "DBG:classic``&quot;open to remot&quot;",
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG_TECH1:k/t/w:django/python/24",
+      "DBG_TECH1:k/t/w:ember.js/frontend/24",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:python-developer/python/26",
+      "DBG_TECH1:k/t/w:python/python/14",
+      "DBG_TECH1:k/t/w:scala/java/3",
+      "DBG_TECH1:techWeightMap:{python=64, other=0, dotnet=0, c=0, mobile=1, go=3, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=5, gamedev=0, php=0, embedded=0, frontend=27}",
+      "REMOTE1/50",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "PeopleDoc – No office location",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 19, 2020 5:05:17 PM",
+    "validThrough": "May 26, 2020 5:05:17 PM",
+    "crawled": "May 19, 2020 5:05:17 PM",
+    "content": "<h3><span>Python Developer (Onsite in Paris, or Remote in France, UK, Germany)</span>            </h3>                <h4>About this job</h4>                <div>                        <div>                                <div>                                    <span>Job type: </span>                                    <span>Full-time</span>                                </div>                                <div>                                    <span>Experience level: </span>                                    <span>Junior, Mid-Level, Senior</span>                                </div>                                <div>                                    <span>Role: </span>                                    <span>DevOps</span>                                </div>                        </div>                        <div>                                <div>                                    <span>Industry: </span>                                    <span>B2B, HR Services, SaaS</span>                                </div>                                <div>                                    <span>Company size: </span>                                    <span>201–500 people</span>                                </div>                                <div>                                    <span>Company type: </span>                                    <span>Private</span>                                </div>                        </div>                </div>            <div>Company: PeopleDoc – No office location<br></div><h4>Technologies</h4><div>python</div><div>django</div><div>elasticsearch</div><div>ansible</div><div>linux</div>            <h4>Job description</h4>            <div><p>PeopleDoc is looking for experienced and talented web developers who love working with Python, Django, JavaScript, ember.js. PeopleDoc has been growing like crazy during the last 4 years, and hopefully it’s not going to stop! The R&amp;D teams is always in the process of improving our application for our users and supporting the incredible growth of PeopleDoc.</p><p>In this role, you will work closely with product owners, UX developers, SRE, DBAs, Support teams, and other web engineers to push forward the implementation of new features while also helping us to scale our platform. As a member of one of our feature teams, you will join a friendly and talented group of python developers, within a dynamic, forward looking company, facing great engineering challenges.</p><p>Our stack includes: Python/Django, PostgreSQL, ElasticSearch, Redis, RabbitMQ, Ansible, ember.js, Java/Scala</p><p><strong>&nbsp;Successful candidate will be able to</strong>:</p><ul><li>Design, ship and test new features in collaboration with the Product Team</li><li>Use your deep understanding of web technologies and APIs to advise on the system's architecture</li><li>Push your code in production, improve our deployment process and monitor it</li><li>Analyze, rethink and refactor the code to scale the application</li><li>Write unit, functional and performances tests</li><li>Contribute to our OpenSource Projects&nbsp;</li></ul><p><strong>What you bring to the table:</strong></p><ul><li>The ability to write tested, production grade Python + Extensive SQL skills</li><li>A solid understanding of Linux development&nbsp;and automation tools (we use Ansible to manage configuration, and you are expected to deploy your own application and features)</li><li>Like to learn &amp; share, you are passionate and humble about your skills</li><li>Excellent communication skills. As a team and “international company” we communicate mostly in English</li><li>JavaScript experience is a big bonus, we use ember.js, and JavaScript everywhere</li></ul><p><strong>What we bring to the table ?&nbsp;</strong></p><ul><li>A passionate and welcoming team,</li><li>Team work is in our core values; we learn from each other by pair programming or via extensive code reviews</li><li>Double screens, supercharged PCs,</li><li>Croissants every monday,</li><li>Off-sites, Babyfoot, tennis table and PS4 for the lunch break</li><li>Open to remote workers</li></ul><p><strong>Typical Interview Process:</strong></p><ul><li>If your application is selected, a&nbsp;Recruiter will reach out to schedule a phone screen with them.</li><li>If selected to move forward, you will complete a HackerRank Coding Assessment.</li><li>If you pass, you will either move forward to a technical phone call for an additional screening, OR directly to an onsite interview.</li><li>Offer stage.</li></ul>            </div>        <div>            <a href='https://stackoverflow.com/jobs/apply/393644?reset=False&amp;ra=280ZsAJ0zWIE&amp;oqs=a%3D280ZsAJ0zWIE%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>                                <span>Easy apply</span>            </a>                            </div>            <h4>About PeopleDoc</h4>            <div><p>PeopleDoc is on a mission to&nbsp;revolutionize&nbsp;how every HR function provide services to their employees.&nbsp;&nbsp;</p><p>Our unique “state of the art” HR Service Delivery platform provides HR teams with the tools they need to provide great services while considerably decreasing the manual work behind the scenes and allowing companies to go paperless in their administration.</p><p>The PeopleDoc HR Service Delivery platform helps HR teams more easily answer employee requests on demand, automate employee processes,&nbsp; across multiple locations.&nbsp; PeopleDoc serves more than 1000 clients with employees in 180 countries in 12 languages. <strong>PeopleDoc is now a part of Ultimate Software. Ultimate Software&nbsp;is a Leader for Cloud HCM Applications.</strong></p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Remote friendly environment</span>                            </li>                            <li>                                <span></span>                                <span>Fun Offsite Trips</span>                            </li>                            <li>                                <span></span>                                <span>New Office located in the heart of Paris</span>                            </li>                            <li>                                <span></span>                                <span>Allowance for Training/Seminars</span>                            </li>                            <li>                                <span></span>                                <span>Modern and open source environment</span>                            </li>                            <li>                                <span></span>                                <span>Flex Office</span>                            </li>                            <li>                                <span></span>                                <span>Vacation Plan (25 vacation + 10 RTT)</span>                            </li>                            <li>                                <span></span>                                <span>Employee Stock Option Plan</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "hv5igyK9QTiNbLf0dm_CnQ",
+    "url": "https://remoteok.io/jobs/85243",
+    "title": "UK Based Senior Python Engineer Solve Amazing Problems From Home",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:python-developer/python/39",
+      "DBG_TECH1:techWeightMap:{python=39, other=0, dotnet=0, c=13, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Ascent Software",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 19, 2020 3:39:39 PM",
+    "validThrough": "May 26, 2020 3:39:39 PM",
+    "crawled": "May 19, 2020 4:05:22 PM",
+    "content": "<span></span> <span><h4>Ascent Software</h4></span> <br> <h3>UK Based Senior Python Engineer Solve Amazing Problems From Home</h3> <br> <span>UK-only</span> <div>  <div>   \\nThe opportunity\\n\\nWe’re looking for a talented Senior Python Engineer / Team Lead with SCADA experience to work remotely anywhere within the UK.\\n\\nThis is an opportunity to work on one of the leading scientific projects of the decade, exploring topics like general relativity, dark matter and the origins of the universe. Collecting and archiving more than 600 PB of data per year with a budget of €1.8bn, this &nbsp;is one of the largest data projects ever undertaken - and your big opportunity to be exposed to some of the most powerful supercomputers and complex data pipelines in the world…\\n\\n\\nRequired skills and qualifications:\\n\\n\\n* Required: Very strong software background\\n\\n* Required: Experience performing in a cross-disciplinary team\\n\\n* Required: Native level written and spoken English\\n\\n\\n\\n\\n\\n\\n* Experience working with different languages and technologies\\n\\n* Experience working with agile and scaled agile development processes\\n\\n* Experience with GIT source code control\\n\\n* Experience with Test Driven Development\\n\\n* Experience with Behavioural Driven Design\\n\\n* Experience with modern test frameworks\\n\\n* Experience with continuous integration\\n\\n* Experience with structured release management\\n\\n\\n\\n\\n\\n\\n* Not required, but would be a bonus if you have experience with:\\n\\n\\n* Configuring instrumentation and commissioning control systems\\n\\n* TANGO control systems\\n\\n* Writing device drivers to interface to hardware on Linux operating systems\\n\\n* TCP/IP network protocols, network stacks, and application layer protocols\\n\\n* Software development in C and/or C++ programming languages\\n\\n\\n\\n\\n\\n\\n   <span>yagJzhkdapAsCMnUw7CpJAMi</span>\\n\\n#Location\\n- UK-only   <br>  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "kVf62d-hTyGcQQWxaGn_2Q",
+    "url": "https://remoteok.io/jobs/85244",
+    "title": "UK Based Python Engineer",
+    "tags": [
+      "DBG:surround``2N(anywher, remot)",
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:python-developer/python/39",
+      "DBG_TECH1:techWeightMap:{python=39, other=0, dotnet=0, c=13, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Ascent Software",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 19, 2020 3:38:18 PM",
+    "validThrough": "May 26, 2020 3:38:18 PM",
+    "crawled": "May 19, 2020 4:05:22 PM",
+    "content": "<span></span> <span><h4>Ascent Software</h4></span> <br> <h3>UK Based Python Engineer</h3> <br> <span>UK-only</span> <div>  <div>   \\nThe opportunity\\n\\nWe’re looking for a talented Senior Python Engineer / Team Lead with SCADA experience to work remotely anywhere within the UK.\\n\\nThis is an opportunity to work on one of the leading scientific projects of the decade, exploring topics like general relativity, dark matter and the origins of the universe. Collecting and archiving more than 600 PB of data per year with a budget of €1.8bn, this &nbsp;is one of the largest data projects ever undertaken - and your big opportunity to be exposed to some of the most powerful supercomputers and complex data pipelines in the world…\\n\\n\\n\\nRequired skills and qualifications:\\n\\n\\n* Required: Very strong software background\\n\\n* Required: Experience performing in a cross-disciplinary team\\n\\n* Required: Native level written and spoken English\\n\\n\\n\\n\\n\\n* Experience working with different languages and technologies\\n\\n* Experience working with agile and scaled agile development processes\\n\\n* Experience with GIT source code control\\n\\n* Experience with Test Driven Development\\n\\n* Experience with Behavioural Driven Design\\n\\n* Experience with modern test frameworks\\n\\n* Experience with continuous integration\\n\\n* Experience with structured release management\\n\\n\\n\\n\\n\\n\\n\\n* Not required, but would be a bonus if you have experience with:\\n\\n\\n* Configuring instrumentation and commissioning control systems\\n\\n* TANGO control systems\\n\\n* Writing device drivers to interface to hardware on Linux operating systems\\n\\n* TCP/IP network protocols, network stacks, and application layer protocols\\n\\n* Software development in C and/or C++ programming languages\\n\\n\\n\\n\\n\\n\\n   <span>yagJzhkdapAsCMnUw7CpJAMi</span>\\n\\n#Location\\n- UK-only   <br>  </div> </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "Vbe4GijUQ-27n6zbLONbFg",
+    "url": "https://stackoverflow.com/jobs/390228/python-developer-m-w-x-skalar-systems?a=26RXH9YdWS7S&so_medium=Talent&so_source=TalentApi",
+    "title": "Python Developer [m/w/x] at Skalar Systems (Graz, Austria) ",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``work 2W wherev 2W you",
+      "DBG_TECH1:k/t/w:coffeescript/frontend/2",
+      "DBG_TECH1:k/t/w:coffeescript/nodejs/2",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/16",
+      "DBG_TECH1:k/t/w:pandas/python/5",
+      "DBG_TECH1:k/t/w:python-developer/python/26",
+      "DBG_TECH1:k/t/w:python/python/8",
+      "DBG_TECH1:techWeightMap:{python=39, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=16, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "Skalar Systems – Graz, Austria",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 19, 2020 8:05:14 AM",
+    "validThrough": "May 26, 2020 8:05:14 AM",
+    "crawled": "May 19, 2020 8:05:14 AM",
+    "content": "<h3><span>Python Developer [m/w/x]</span>            </h3>                <h4>About this job</h4>                <div>                        <div>                                <div>                                    <span>Job type: </span>                                    <span>Full-time</span>                                </div>                                <div>                                    <span>Experience level: </span>                                    <span>Mid-Level, Senior</span>                                </div>                                <div>                                    <span>Role: </span>                                    <span>Data Scientist, DevOps</span>                                </div>                        </div>                        <div>                                <div>                                    <span>Industry: </span>                                    <span>Digital Health, Data Engineering, Industrial Automation</span>                                </div>                                <div>                                    <span>Company size: </span>                                    <span>1–10 people</span>                                </div>                                <div>                                    <span>Company type: </span>                                    <span>Private</span>                                </div>                        </div>                </div>            <div>Company: Skalar Systems – Graz, Austria<br></div>                <h4>Remote details</h4>                <div>                    <div>                                                    <div>                                <span>Preferred Timezone:</span>                                <span>(GMT+01:00) Vienna +/- 2 hours</span>                            </div>                                                    <div>                                <span>Office Location:</span>                                <span>Graz, Austria.</span>                                    <span>Employees can also work full time from this office.</span>                            </div>                                                    <div>                                <span>Visa Sponsorship:</span>                                <span>Yes</span>                            </div>                                            </div>                </div>            <h4>Technologies</h4><div>python</div><div>kubernetes</div><div>hl7-fhir</div><div>pandas</div><div>fastapi</div>            <h4>Job description</h4>            <div><p><strong>What we expect you to love:</strong></p><ul><li>Working on diverse and hard problems</li><li>Writing world class code and documentation</li><li>Creating solutions around user requirements</li><li>Challenge your own views and learn fast</li><li>Take responsibility and get things done</li></ul><p><strong>What we expect you to have:</strong></p><ul><li>A ‘can-do’ attitude and the ability to thrive in a fast-paced environment</li><li>Professional experience with state of the art, high level programming languages (preferably Python)</li><li>Experience with a set of common frameworks</li><li>In depth Linux and networking knowledge</li><li>Experience in working on a software project in a team</li><li>Experience with test driven development</li><li>Beneficial: dev-ops experience</li></ul><p><strong>What we offer:</strong></p><ul><li>We don’t care about your education, as long as you love what you’re doing</li><li>A crucial role in a highly motivated and focused team</li><li>Flexible working arrangements</li><li>Office in the city center of Graz (Free coffee and snacks, adjustable desks, headphones etc.)</li></ul>            </div>        <div>            <a href='https://stackoverflow.com/jobs/apply/390228?reset=False&amp;ra=26RXH9YdWS7S&amp;oqs=a%3D26RXH9YdWS7S%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>                                <span>Easy apply</span>            </a>                            </div>            <h4>About Skalar Systems</h4>            <div><p>At Skalar Systems we get our hands dirty, we take any data and munch it into a structured database. After cleaning up the data, we have fun looking for the interesting information morsels and creating some good looking charts. The morsels are molded to form a better world.&nbsp;&nbsp;</p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Free Public Transport</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Work Hours</span>                            </li>                            <li>                                <span></span>                                <span>Free coffee and snacks</span>                            </li>                            <li>                                <span></span>                                <span>State of the art equiment (standing desks, ...)</span>                            </li>                            <li>                                <span></span>                                <span>Work wherever you like to</span>                            </li>                    </ul>                ",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "CW-nhdjIRUKdOjUYvZhK6Q",
     "url": "https://stackoverflow.com/jobs/374584/full-stack-python-engineer-gorgias?a=21CG6lPhsBXi&so_medium=Talent&so_source=TalentApi",
     "title": "Full-Stack Python Engineer at Gorgias  ",
