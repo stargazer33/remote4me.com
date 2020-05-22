@@ -1,6 +1,60 @@
 {
  "items": [
   {
+    "id": "L7McXWP9SYybDRutqkC0aA",
+    "url": "https://remote.co/job/distributed-network-engineer/",
+    "title": "Distributed Network Engineer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:rust/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=5, c=15, mobile=1, go=3, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/c",
+      "TITLE1/admin",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "c"
+    ],
+    "hiringOrganization": {
+      "name": "Status Research & Development",
+      "sameAs": "https://status.im/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 21, 2020 2:18:44 PM",
+    "validThrough": "May 28, 2020 2:18:44 PM",
+    "crawled": "May 21, 2020 3:06:08 PM",
+    "content": "<div><span><i></i> Remote</span>         | <span> International </span></div><div>            <p>at Status</p><p>Remote</p><p><strong>About Status </strong></p><p>Status is the gateway to the decentralized web. We’re building the tools and infrastructure for the advancement of a secure, private, and open web3. With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</p><p>As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community. Our core application, currently in beta on Mobile and Desktop, is an open source, Ethereum-based app that gives users the power to chat, make payments and browse the decentralized web.</p><p><strong>Who are we?</strong></p><p>We’re a remote team made up of 60+ core-contributors and a growing community of members scattered around the globe. We care deeply about open source software, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization’s priorities.</p><p><strong>The role: </strong></p><p>You’ll work within Dagger, a small and collegiate team of leading specialists designing and implementing the next generation of distributed storage solutions. Dagger’s work is invaluable as it meets the storage requirements for both our flagship Status app chat client, but also is hugely prized by the Ethereum ecosystem at large. You’ll be developing ground-breaking and sought-after solutions to complex problems.</p><p>We’d love to hear from you if you’re interested in message propagation in loosely connected networks, DHTs, gossiping, and routing mechanisms. Even better if you have experience with massively distributed systems and off the shelf networking stacks such as libp2p or devp2p.</p><p><strong>Responsibilities:</strong></p><ul><li>Write and maintain Nim code.</li><li>Research and design core functionality.</li><li>Provide feedback on overall design decisions and participate in code reviews.</li><li>Use libp2p to build application level protocols.</li></ul><p><strong>Ideally you will have:</strong></p><p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!]</em></p><ul><li>Passion for blockchain technology and decentralisation.</li><li>Strong academic or engineering background, allowing you to interpret and implement solutions based on academic research.</li><li>Experience with:<ul><li>Low level/strongly typed languages (C/C++/Go/Rust or Java/C#).</li><li>Building networking heavy applications and p2p networking specifically.</li></ul></li><li>Understanding of:<ul><li>P2p building blocks such as gossiping, routing and discovery (DHTs), Nat traversal.</li><li>TCP and UDP protocols.</li><li>Encryption and key exchange mechanisms.</li></ul></li></ul><p><strong>Bonus points if you have:</strong></p><ul><li>Contributed to a blockchain-related, open source project.</li><li>Worked on storage and file systems.</li><li>Experience in any of the following:<ul><li>Nim.</li><li>Libp2p / devp2p</li><li>Networking</li><li>Cryptography.</li></ul></li></ul><p><strong>Hiring process:</strong></p><p>The hiring process for this role will be:</p><ol><li>Interview with Pepper from our People Ops team</li><li>Interview with Dmitriy, Dagger team lead</li><li>Technical challenge / peer interview with Zahary from our broader research team</li><li>Final interview with our Head of Research, Jacek.</li></ol><p>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline. We’re looking for the new engineer to join the team as soon as possible, and we’re hoping to close the hiring process ideally by the end of May 2020.</p>        </div><div>        <a href='https://status.im/our_team/open_positions.html?gh_jid=1972561' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
     "id": "HvNMKe6pT5S6rpMGyCu5xQ",
     "url": "https://remoteok.io/jobs/85287",
     "title": "SysOps Engineer",
