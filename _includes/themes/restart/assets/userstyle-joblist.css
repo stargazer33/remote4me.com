@@ -105,7 +105,7 @@ a.detail-icon:visited{
         padding-right: 0px;
     }
 
-    td a .fa-caret-right, td a .fa-caret-down {
+    td a .fa-caret-right, td a .fa-caret-down,  td a .fa-caret-up {
         padding: 24px 6px 24px 4px;
         float: right;
     }
@@ -126,7 +126,7 @@ a.detail-icon:visited{
     #table td.detail-td{
         width: 6%;
     }
-    td a .fa-caret-right, td a .fa-caret-down {
+    td a .fa-caret-right, td a .fa-caret-down, td a .fa-caret-up  {
         padding: 24px 12px 24px 24px;
         float: right;
     }

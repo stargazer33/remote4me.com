@@ -992,6 +992,15 @@ function rowPlusMinusClick( eventObject) {
     markHrefAsVisited(titleNode.href);
 }
 
+function footerPlusMinusClick( eventObject) {
+    eventObject.preventDefault();
+
+    var myHref=eventObject.currentTarget.getAttribute("data-postid");
+    var rowId='#'+myHref+'.rowTitleClass';
+
+    $(rowId).trigger('click');
+}
+
 /**** email subscription ****/
 
 /**

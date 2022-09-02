@@ -1,17 +1,22 @@
-<div class="detail-view">
-    <td colspan="3"><span class="detailFooter"></span>
-        <div class="detailContent">
-            <div class="highlight">
+        <span class="detailFooter"></span>
+        <div class="detailContent detailView">
+            <div class="highlight row col-xs-12 col-sm-12 col-md-12">
+                {{{content}}}
+            </div>
+        </div>
 
-                <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-md-12">
-                        {{{content}}}
-                    </div>
-                </div>
+        <table class="table table-hover" style="display: table;">
+            <tbody>
+                <tr>
 
-                <div class="row footer-row">
+                    <td class="detail-td">
+                        <a  data-postid="{{{id}}}" onclick="footerPlusMinusClick(event);"
+                            class="detail-icon"  >
+                            <i class="fa fa-2x fa-caret-up iconStyle"></i>
+                        </a>
+                    </td>
 
-                    <div class="col-xs-12 col-sm-12 col-md-12">
+                    <td class="spanLink">
                         <a href="{{{url}}}" target="_blank" rel="nofollow noopener"
                            class="btn btn-primary" style="margin-top: 0px; margin-bottom: 4px;">
                             <i class="fa fa-external-link" aria-hidden="true"></i>
@@ -20,11 +25,11 @@
 
                         <!-- &nbsp; -->
                         <div class="btn-group" style="display: none; margin-top: 0px; margin-left: 0px;
-                        margin-right: 0px; margin-bottom: 4px;" >
+                                margin-right: 0px; margin-bottom: 4px;" >
                             <button class="btn btn-default dropdown-toggle" type="button"
                                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span ><i class="fa fa-flag-o" aria-hidden="true"></i>
-                                Report this job...</span>
+                                        <span ><i class="fa fa-flag-o" aria-hidden="true"></i>
+                                        Report this job...</span>
                                 <span class="caret"></span>
                             </button>
 
@@ -43,18 +48,17 @@
                             </ul>
                         </div>
 
-                        &nbsp;
                         <a href="#{{{id}}}" class="btn btn-default" style="margin-top: 0px; margin-bottom: 4px;">
                             <i class="fa fa-link" aria-hidden="true"></i>
                             Get shareable link
                         </a>
+                    </td>
 
-                    </div>
-                    <span class="detailFooter">&nbsp;</span>
+                    <td class="published">
+                    </td>
 
-                </div>
+                </tr>
+            </tbody>
+        </table>
 
-            </div>
-        </div>
-    </td>
-</div>
+
