@@ -111,11 +111,12 @@ a.detail-icon:visited{
     }
 
     .highlight {
-        padding: 9px 0px;
+        padding: 9px 9px 0px 9px;
     }
 
-    .crawledDate {
+    .publishedDate {
         padding-top: 6px;
+        padding-right: 6px;
     }
 }
 
