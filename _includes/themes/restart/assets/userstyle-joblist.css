@@ -1,7 +1,7 @@
 #table {
     table-layout: fixed;
 }
-#table td.crawled{
+#table td.published{
     width: 10%;
     padding: 20px 0px 20px 10px;
 }
@@ -85,7 +85,7 @@ a.detail-icon:visited{
     padding: 9px 14px;
 }
 
-.crawledDate {
+.publishedDate {
     padding-top: 10px;
 }
 

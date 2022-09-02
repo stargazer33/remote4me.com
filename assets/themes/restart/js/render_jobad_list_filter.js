@@ -125,8 +125,8 @@ $(document).ready(function () {
                     },
                     {
                         title: "",
-                        field: "crawled",
-                        class: "crawled",
+                        field: "published",
+                        class: "published",
                         formatter: crawledFormatter
                     }
                 ]
@@ -826,12 +826,12 @@ function detailFormatter(index, jobAd) {
 
 /**
  * Formatter for "crawled" column
- * @param {string} the Job.crawled;
- * @return {string} the Job.crawled as string in format "dd mmm";
+ * @param {string} the Job.published;
+ * @return {string} the Job.published as string in format "dd mmm";
  */
-function crawledFormatter(job) {
-    var crawledDay = job.split(",")[0];
-    return '<p class="crawledDate">' + crawledDay + '</p>';
+function crawledFormatter(pDate) {
+    var publishedTmp = pDate.split(",")[0];
+    return '<p class="publishedDate">' + publishedTmp + '</p>';
 }
 
 /**
