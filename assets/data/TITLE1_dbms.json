@@ -1,27 +1,73 @@
 {
  "items": [
   {
-    "id": "yVN2kfwNS3yZFTBaMDOaWw",
-    "url": "https://jobmote.com/job/100009/sql-ssrs-developer-remote/",
-    "title": "SQL SSRS Developer (Remote)",
+    "id": "9vgwVorpSJCTDXbq-Fp7tg",
+    "url": "https://remote.co/job/oracle-database-administrator-leader/",
+    "title": "Oracle Database Administrator – Leader",
     "tags": [
-      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/2",
-      "DBG_TECH1:k/t/w:visual-studio/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=10, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG_TECH1:k/t/w:perl/other/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=5, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
       "REMOTE1/100",
-      "TECH1/dotnet",
+      "TECH1/other",
+      "TITLE1/dbms",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "other"
+    ],
+    "hiringOrganization": {
+      "name": "PlacingIT",
+      "sameAs": "https://www.placingit.com/"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "parser": "SalaryParserWithNoiseImpl",
+      "isEquity": false,
+      "formatted": ""
+    },
+    "employmentType": "UNSET",
+    "published": "May 20, 2020 2:33:06 PM",
+    "validThrough": "May 27, 2020 2:33:06 PM",
+    "crawled": "May 20, 2020 3:06:11 PM",
+    "content": "<div><span><i></i> Remote</span>        </div><div>            <p><strong>Client Location: Remote</strong><br><strong>Position Type:</strong> Direct Hire (Perm or w2,1099, c2c)<br><strong>Residency Requirements:</strong> US Citizens and all other parties authorized to work in the US are encouraged to apply.</p><p>We are looking for a seasoned Oracle Database Administrator with experience in the development and application-facing aspects of database administration (writing PL/SQL code, query tuning, data modeling). Experience in developing for large-scale production Oracle databases using public cloud infrastructure and services (AWS, Azure or GCP) is a big advantage.</p><p><strong>Roles and responsibilities</strong></p><ul><li>Perform engineering, query, tuning, data modeling, schema design, architecture and configuration of mission critical Oracle databases.</li><li>Plan and implement large-scale Oracle migrations from on-premises to AWS and GCP.</li><li>Assist in modernizing existing application database backend to be fully cloud-native.</li><li>Work on Oracle versions 11g/12c, Golden Gate, DataGuard, RAC</li><li>Write complex PL/SQL stored procedures, functions and packages.</li><li>Monitor and optimize database performance using index tuning, disk optimization, and other methods.</li><li>Implement, configure, and troubleshoot database replication.</li><li>Work closely with other technology counterparts inside and outside the organization including storage, network for a comprehensive solution to build a scalable DB infrastructure.</li></ul><p><strong>Your Qualifications</strong></p><ul><li>Three years’ experience as a development focused Oracle DBA working with application teams.</li><li><em>Current</em> experience with schema design and modeling.</li><li>At least three years’ experience as a development focused Oracle DBA working with application teams.</li><li>Experience in Linux including troubleshooting commands, sh/awk/perl.</li><li>Complete and detailed understanding of Oracle database architecture and performance tuning principals</li><li>Experience with data replication technologies such as GoldenGate, Oracle Streams, DataGuard is a big advantage.</li><li>Experience with data movement using EXPDP, IMPDP, DB backup using RMAN.</li><li>Performance troubleshooting, monitoring and tuning skills including reviewing and analyzing AWR reports and query execution plans.</li><li>Experience with schema design and modeling.</li><li>High level of confidence to perform DB switch overs, failovers, recovery</li></ul>        </div><div>        <a href='https://placingit.catsone.com/careers/43650-General/jobs/13459011-Oracle-DBALeader-1193-REMOTE' rel='nofollow'>Apply for job</a>    </div>",
+    "place1": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    },
+    "place2": {
+      "locality": "UNSET",
+      "region": "UNSET",
+      "country": "UNSET"
+    }
+  },
+  {
+    "id": "H-sf83oDToiy9JcdEb9EPg",
+    "url": "https://weworkremotely.com/remote-jobs/rebelmouse-senior-data-base-administrator-dba",
+    "title": "RebelMouse: Senior Data Base Administrator (DBA)",
+    "tags": [
+      "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
+      "REMOTE1/100",
+      "TECH1/unknown",
       "TITLE1/dbms",
       "TZ/unknown"
     ],
     "tagsNames1": [],
     "tagsNames2": [
-      "dotnet"
+      "unknown"
     ],
     "hiringOrganization": {
-      "name": "Affinity Search Partners, LLC",
-      "sameAs": "UNSET"
+      "name": "RebelMouse",
+      "sameAs": "https://www.rebelmouse.com"
     },
     "salary": {
       "currency": "UNSET",
@@ -34,10 +80,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Nov 8, 2019 8:08:06 PM",
-    "validThrough": "Nov 11, 2019 8:08:06 PM",
-    "crawled": "Nov 9, 2019 2:06:26 AM",
-    "content": "<div><p>Our client is looking for SQL SSRS Developer to help improve reporting across their environment. This is a highly innovative company doing work in a very interesting space using the Agile methodology. This is a contract position and is 85% remote. You would report to an outstanding technology leader that has deep technical knowledge coupled with impeccable leadership skills. In this role you will be extracting data from the Data warehouse and creating reports that inform the business and clients. This is a rapidly growing company so you will have an opportunity for career advancement.</p><p><br></p><p>Roles &amp; Responsibilities:</p><ul><li>Create and modify reports and report templates using SQL Server Reporting Services (SSRS)</li><li>Develop, implement and optimize stored procedures and functions using T-SQL</li><li>Review and translate business requirements and user stories into report requirements</li><li>Troubleshoot issues reported by users to correct report defects and anomalies</li><li>Analyze existing SQL queries for performance improvements</li><li>Suggest new queries to optimize and improve performance and reporting</li><li>Provide timely scheduled management reporting</li></ul><p><br></p><p>Qualifications:</p><ul><li>Must have experience in the development of SSRS reports, using RDL files within Visual Studio.</li><li>Must have a minimum of 3 years experience using SQL Server Management Studio.</li><li>Have a solid understanding of relational data, stored procedures and SQL optimization.</li><li>Must be able to work as part of a customer-facing team.</li></ul><p><br></p><p><br></p><p> </p></div>",
+    "published": "May 15, 2020 5:39:17 AM",
+    "validThrough": "May 22, 2020 5:39:17 AM",
+    "crawled": "May 15, 2020 6:05:18 AM",
+    "content": "<h3> Senior Data Base Administrator (DBA) </h3><div><div><strong>Who we are</strong></div><div>Rebelmouse is a small and fully distributed team of talented people all over the world!</div><div>Our mission is to build a platform to accelerate migration to the modern age of social&nbsp;</div><div><br><strong>Who We are looking for</strong></div><div>Proactive and talented person passioned about speed and performance.</div><div><br><strong>What you will do</strong></div><div>Building, analyzing, maintaining, improving and innovating high loaded data bases and everything around it.</div><div><br><strong>Your experience</strong></div><ul><li>5+ years experience working as a DBA on enterprise products</li><li>Strong hands-on experience with MySQL, MongoDB, Redis, Memcached;</li><li>Experience with optimizing DB performance</li><li>Experience in building DRP</li><li>Experience with AWS</li><li>Experience in building and maintaining high performing DBs</li></ul><div><br></div><div><strong>Our Benefits</strong></div><ul><li>Flexible schedule - done work is the only measurement of success</li><li>Paid sick days</li><li>1 week of PTO after 3 month of work</li><li>Annual bonuses</li></ul></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -50,32 +96,23 @@
     }
   },
   {
-    "id": "ZNKSiTGMT6OhJtR6iKSpvw",
-    "url": "https://stackoverflow.com/jobs/313212/database-administrator-wikimedia-foundation-inc?a=1H2zSd7Bt4Sk&so_medium=Talent&so_source=TalentApi",
-    "title": "Database Administrator at Wikimedia Foundation, Inc.  ",
+    "id": "NF_GMtDFQLefiEybVJWKTQ",
+    "url": "https://weworkremotely.com/remote-jobs/netprotect-senior-mysql-database-administrator",
+    "title": "NetProtect: Senior MySQL Database Administrator",
     "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
       "DBG:surround``4N( OR(virtual,distribut,scatter), OR(compani,team,OR(organ,organis)))",
-      "DBG_TECH1:k/t/w:c/c/5",
-      "DBG_TECH1:k/t/w:lamp/php/26",
-      "DBG_TECH1:k/t/w:php/php/10",
-      "DBG_TECH1:k/t/w:swift/apple/5",
-      "DBG_TECH1:k/t/w:swift/mobile/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=5, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=5, java=0, gamedev=0, php=36, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/php",
+      "REMOTE1/100",
+      "TECH1/unknown",
       "TITLE1/dbms",
       "TZ/unknown"
     ],
-    "tagsNames1": [
-      "50% remote"
-    ],
+    "tagsNames1": [],
     "tagsNames2": [
-      "php"
+      "unknown"
     ],
     "hiringOrganization": {
-      "name": "Wikimedia Foundation, Inc.",
-      "sameAs": "UNSET"
+      "name": "NetProtect",
+      "sameAs": "https://netprotect.com"
     },
     "salary": {
       "currency": "UNSET",
@@ -88,10 +125,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Nov 8, 2019 8:30:28 PM",
-    "validThrough": "Nov 15, 2019 8:30:28 PM",
-    "crawled": "Nov 8, 2019 8:30:29 PM",
-    "content": "<h3><span>Database Administrator</span>                </h3>                    <h4>About this job</h4>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Database Administrator</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Education Technology, eLearning, Non-Profit</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>201–500 people</span>                                    </div>                            </div>                    </div>                <div>Company: Wikimedia Foundation, Inc. | No office location<br></div><h4>Technologies</h4><div></div><div>mysql</div><div>php</div><div>lamp</div>                <h4>Job description</h4>                <div><p><strong>Summary</strong></p><p>Wikimedia's goal is to provide every single person with the sum of all human knowledge and MariaDB/MySQL is how we store most of it. You will be joining a small mission driven team of talented highly experienced engineers. &nbsp;As one of the most highly trafficked sites, there is literally nowhere else serving as many page views per engineer. As a Database Administrator at the Wikimedia Foundation, you will be responsible for the wellbeing of our relational data and the database systems they reside on, including the availability and performance. &nbsp;You should be able to troubleshoot, benchmark and test new builds of MariaDB and MySQL, plan for disaster recovery, and improve and maintain backups. This is a unique opportunity to have a huge impact. Our work is important, and it’s used by hundreds of millions of people.</p><p><strong><strong>Responsibilities</strong></strong></p><ul><li>Implementation, maintenance and troubleshooting of relational database systems in production and staging environments</li><li>Database performance tuning, high availability, replication, backups, and general optimization</li><li>Support the development and deployment of new services and systems</li><li>Handling configuration management, (Debian) package maintenance, patching and building, working with upstream on bug identification and resolution</li><li>Improving observability (alerting, metrics, monitoring) of database infrastructure</li><li>Multi-datacenter design, capacity and infrastructure planning</li><li>Take part in incident response, diagnosis and follow-up on system outages or alerts across Wikimedia’s production infrastructure</li><li>Share our <a href='https://wikimediafoundation.org/wiki/Values' rel='nofollow'>values</a> and work in accordance with them</li></ul><p><strong><strong>Qualifications</strong></strong></p><ul><li>Solid knowledge of relational database concepts and working experience with storage systems and architectures</li><li>Advanced level of experience with MariaDB or MySQL database administration and replication topologies at scale</li><li>Proficiency in SQL</li><li>Decent programming language/scripting skills and experience managing software using relational databases at large scale</li><li>3+ years experience in an DBA/SRE/Operations/DevOps role as part of a team</li><li>Experience with high traffic and highly available website architectures and operations</li><li>Advanced knowledge of Linux and IO/data storage concepts, internals and troubleshooting</li><li>Experience with Open Source configuration management and orchestration tools (Puppet, Ansible, Chef, SaltStack, etc.), as well as modern observability infrastructure (Prometheus, Grafana, Graphite, Logstash/Kibana, Icinga/Nagios, etc.)</li><li>Experience with managing remotely both bare-metal servers and virtualized environments</li><li>Strong English language skills</li><li>Ability to work independently in a fast paced environment, as an effective part of a globally distributed team, including ticket tracking systems and asynchronous communication tools</li><li>B.S. or M.S. in Computer Science or equivalent work experience</li></ul><p><strong><strong>Optional qualifications</strong></strong></p><ul><li>Experience with LAMP stack technologies (PHP/HHVM, memcached/Redis, MySQL) - MediaWiki experience is a definite plus</li><li>Experience with advanced distributed storage and database systems (Swift, Ceph, Cassandra, etc.) or graph databases (Titan, Blazegraph, etc.) is a <strong>big</strong> plus</li><li>Experience in architecture, design, and implementation of persistent data storage &amp; query infrastructure</li><li>Strong track record of open source contributions is a major plus</li></ul><p>&nbsp;<strong>U.S. Benefits &amp; Perks*</strong></p><ul><li>Fully paid medical, dental and vision coverage for employees and their eligible families (yes, fully paid premiums!)</li><li>The Wellness Program provides reimbursement for mind, body and soul activities such as fitness memberships, baby sitting, continuing education and much more</li><li>The 401(k) retirement plan offers matched contributions at 4% of annual salary</li><li>Flexible and generous time off - vacation, sick and volunteer days, plus 19 paid holidays - including the last week of the year.</li><li>Family friendly! 100% paid new parent leave for seven weeks plus an additional five weeks for pregnancy, flexible options to phase back in after leave, fully equipped lactation room.</li><li>For those emergency moments - long and short term disability, life insurance (2x salary) and an employee assistance program</li><li>Pre-tax savings plans for health care, child care, elder care, public transportation and parking expenses</li><li>Telecommuting and flexible work schedules available</li><li>Appropriate fuel for thinking and coding (aka, a pantry full of treats) and monthly massages to help staff relax</li><li>Great colleagues - diverse staff and contractors speaking dozens of languages from around the world, fantastic intellectual discourse, mission-driven and intensely passionate people</li></ul><p><em><strong>*Eligible international workers' benefits are specific to their location and dependent on their employer of record</strong></em></p><p><strong>More information</strong></p><p><strong><a href='https://wikimediafoundation.org/' rel='nofollow'>WMF</a></strong><br><strong><a href='https://wikimediafoundation.org/news/' rel='nofollow'>Blog<br></a><a href='https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017' rel='nofollow'>Wikimedia 2030<br></a><a href='https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019' rel='nofollow'>Wikimedia Medium Term Plan<br></a><a href='https://wikimediafoundation.org/news/2019/10/01/wikimedia-foundation-diversity-and-inclusion-information-about-our-workers-2019-by-the-numbers/' rel='nofollow'>Diversity and inclusion information for Wikimedia workers, by the numbers</a><a href='https://meta.wikimedia.org/wiki/Wikimania_2019' rel='nofollow'><br>Wikimania 2019<br></a><a href='https://annual.wikimedia.org/2017/' rel='nofollow'>Annual Report - 2017</a>&nbsp;</strong><br><strong><a href='https://www.youtube.com/watch?v=OQzZI0l3IOw' rel='nofollow'>This is Wikimedia Foundation</a>&nbsp;<br></strong><strong><a href='https://www.youtube.com/watch?v=xQ4ba28-oGs' rel='nofollow'>Facts Matter<br></a></strong><strong><a href='https://wikimediafoundation.org/wiki/Our_projects' rel='nofollow'>Our Projects<br></a><a href='https://meta.wikimedia.org/wiki/Fundraising/2018-19_Report' rel='nofollow'>Fundraising Report</a></strong></p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/313212?reset=False&amp;ra=1H2zSd7Bt4Sk&amp;oqs=a%3D1H2zSd7Bt4Sk%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>Apply now</a></div>            <h4>About Wikimedia Foundation, Inc.</h4>            <div><p><strong>The Wikimedia Foundation is...</strong></p><p>...the nonprofit organization that supports Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared&nbsp;knowledge,&nbsp;and that everyone should be able to access that knowledge, free of interference. We host the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive&nbsp;<a href='https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&amp;uselang=en&amp;utm_medium=wmfWikiLink&amp;utm_source=B_FAQ&amp;utm_campaign=C_FAQ' rel='nofollow'>financial support</a>&nbsp;from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p><p><em>The Wikimedia Foundation is an equal opportunity employer, and we encourage people with a diverse range of backgrounds to apply.</em></p>            </div>                            <h4>Benefits</h4>                    <ul>                            <li>                                <span></span>                                <span>Fully paid premiums for medical, dental &amp; vision insurance premiums</span>                            </li>                            <li>                                <span></span>                                <span>401(k) with 4% matching contribution</span>                            </li>                            <li>                                <span></span>                                <span>7-12 weeks parental leave with 100% pay + lactation room</span>                            </li>                            <li>                                <span></span>                                <span>Wellness Program ($1800 annual) to promote wellness &amp; personal growth</span>                            </li>                            <li>                                <span></span>                                <span>Pre-tax savings plans for Transportation &amp; Parking</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work schedules and remote working options</span>                            </li>                            <li>                                <span></span>                                <span>Pet Friendly office</span>                            </li>                            <li>                                <span></span>                                <span>Commitment to diversity &amp; inclusion throughout the employee lifecycle</span>                            </li>                            <li>                                <span></span>                                <span>12 days vacation, 19 days holiday, 2 days volunteer work and more!</span>                            </li>                            <li>                                <span></span>                                <span>Lean more at https://wikimediafoundation.org/wiki/Work_with_us</span>                            </li>                    </ul>                ",
+    "published": "May 4, 2020 2:55:58 PM",
+    "validThrough": "May 11, 2020 2:55:58 PM",
+    "crawled": "May 4, 2020 3:05:11 PM",
+    "content": "<h3> Senior MySQL Database Administrator </h3><div><div><a href='https://netprotect.com/' rel='nofollow'>NetProtect</a> is a leading provider of consumer VPN offerings including <a href='https://ipvanish.com/' rel='nofollow'>IPVanish</a>, <a href='https://safervpn.com/' rel='nofollow'>SaferVPN</a>, <a href='https://strongvpn.com/' rel='nofollow'>StrongVPN</a>, and <a href='https://encrypt.me/' rel='nofollow'>Encrypt.me</a> as well as <a href='https://sugarsync.com/' rel='nofollow'>SugarSync</a>, a leading online backup service.&nbsp; We are looking to add to our team of world-class engineers.<br><br><strong>Job Description:<br></strong><br>Responsible for designing, maintenance, monitoring, performance tuning, backup and security of NetProtect's databases.&nbsp; Assist engineers on all aspects of NetProtect business including data modeling, normalization, table design, query optimization, data warehousing and reporting.&nbsp;</div><ul><li>be strategic, self-motivated, creative, and highly communicative individual, capable of adapting quickly to a fast-paced and evolving environment</li><li>comfortable working with diverse and distributed teams</li><li>work closely with development and engineering teams&nbsp;</li><li>manage MySQL in production/QA/dev environments including backup &amp; recovery, health monitoring and diagnostics</li><li>use, write and maintain automation and reporting tools&nbsp;</li><li>identify and recommend tools and services for managing database infrastructure where needed</li><li>make technical recommendations, develops and implements policies, standards, and procedures to ensure the security, integrity, and efficiency of the enterprise database(s)·</li></ul><div><br><strong>Job Requirements and Experience:</strong></div><ul><li>5+ years of experience in database designing, installation, monitoring and administration of very large mysql databases</li><li>degree in computer science, software engineering or equivalent related experience</li><li>data modelling, schema design, performance tuning</li><li>experience in msyql mirroring, clustering and failover strategies</li><li>experience with data warehousing and ETL processes</li><li>familiarity with RDS, Postgres and other database technologies would be an asset</li><li>familiarity with SOX and PCI compliance would be an asset</li></ul><div><br>Does this sound like you? We'd love to meet. Please contact us at <a href='mailto:hiring@netprotect.com' rel='nofollow'>hiring@netprotect.com</a>.</div></div>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -104,67 +141,12 @@
     }
   },
   {
-    "id": "BY5pEYY0QbaXgWJ5xSs4sQ",
-    "url": "https://jobmote.com/job/98363/database-architect-graph-db-partial-remote/",
-    "title": "Database Architect - Graph DB, Partial Remote!",
+    "id": "E4pwjH7DSnW4ifxLUelt_g",
+    "url": "https://news.ycombinator.com/item?id=23046247",
+    "title": "Percona | REMOTE WORLDWIDE | MySQL Database Engineer | Full-time | https://www.percona.com ...",
     "tags": [
-      "DBG:surround``3N(locat,remot)",
-      "DBG:surround``OR(partial,share,amen,semi) 3W remot",
-      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
-      "DBG_TECH1:k/t/w:asp.net/dotnet/32",
-      "DBG_TECH1:k/t/w:c#/c/18",
-      "DBG_TECH1:k/t/w:c#/dotnet/45",
-      "DBG_TECH1:k/t/w:neo4j/bigdata-ml/3",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=87, c=18, mobile=0, go=0, nodejs=0, bigdata-ml=3, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/dotnet",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "CyberCoders",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Nov 1, 2019 9:07:58 PM",
-    "validThrough": "Nov 4, 2019 9:07:58 PM",
-    "crawled": "Nov 2, 2019 2:06:26 AM",
-    "content": "<div>Minimum Required Skills: SQL Development, SQL/T-SQL, C#, ASP.NET, Graph Database, JSON/XML, MVC, SSIS SSRS &amp; SSAS, Stored Procedures, Data Warehouse Design/architecture Job Title: Database Architect - GraphDB &amp; C#, PARTIAL REMOTE! Job Location: Seattle, WA (Georgetown) Salary: 120k-160k + 401k, Benefits, PTO, Perm role Requirements: Database Development, Graph Database understanding &amp; knowledge, C# If you are a Database Architect with C# experience, please read on! Based in beautiful Seattle we are a luxurious and innovative company that specializes in tourism. Due to growth and demand for our services, we are in need of hiring for a Database Architect that possesses strong experience in database development, including Data warehouse design &amp; development, SSIS, SSAS, and SSRS, and C#. We specialize in luxury travel with almost 20,000 advisers and 1700 partnerships with 5-star hotels, cruise lines, top tour operators all around the world. If you are interested in joining a superior travel company that pushes the envelope in tourism and definitely cares about providing a great working environment for its employees, then apply immediately. What You Will Be Doing -30-40% of the time you will be coding in C# -Working with the latest Graph database technologies. -Work effectively with Leads and product owners to define &amp; clarify requirements, assignment priorities, perform detailed analysis, and develop robust &amp; maintainable solutions meeting business requirements -Analyze, plan, develop, deploy, and manage BI infrastructure. -Create application &amp; SQL automation tests for unit, integration, regression, performance, and build verification. -Understand and apply the advanced principles of entity-relationship model design, good data typing practices, index management, data management, and data security. What You Need for this Position Expertise in: Database development with SQL Server -Data warehouse design &amp; development - SSIS, SSAS, SSRS T-SQL - performance tuning -Query Plans and Query Plan optimization Stored procedures, functions, triggers, queries, etc. C#, ASP.NET MVC, JSON/XML MDX &amp; DAX queries (nice to have) PowerShell scripting Graph database understanding and knowledge (able to demo your abilities) (e.g. Neo4j, GraphDB, Microsoft) Plus skills: SQL Server 2012/2014 certified. Experience or knowledge in Spark, Kafka, Hive, HiveQL, Map Reduce, Yarn, HDFS What's In It for You - Competitive comp 120k-160k (DOE) - 30-40% REMOTE - Full complete Medical, Dental, and Vision - Amazing PTO (21days!) - 11 paid holidays - Awesome company culture - Paid holidays off - 401k - Life insurance -Travel benefitsSo, if you are a Database Architect with experience, please apply today! Applicants must be authorized to work in the U.S. Security Clearance will be needed - therefore, Those authorized to work in the United States without sponsorship are encouraged to apply.s can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume! Looking forward to receiving your resume and going over the position in more detail with you. - Not a fit for this position? Click the link at the bottom of this email to search all of our open positions. Looking forward to receiving your resume! CyberCoders CyberCoders, Inc is proud to be an Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved. - provided by Dice<br><br>SQL Development, SQL/T-SQL, C#, ASP.NET, Graph Database, JSON/XML, MVC, SSIS SSRS &amp; SSAS, Stored Procedures, Data Warehouse Design/architecture - SQL Development, SQL/T-SQL, C#, ASP.NET, Graph Database, JSON/XML, MVC, SSIS SSRS &amp; SSAS, Stored Procedures, Data Warehouse Design/architecture</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "jFfvlB3iT_ebu5Dd9TCzEg",
-    "url": "https://news.ycombinator.com/item?id=21422400",
-    "title": "Percona has many open positions for folks who loves Open Source and Database Technologies. ...",
-    "tags": [
+      "DBG:surround``4W( OR(fulltim,work,talent), anywher)",
       "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG:surround``remot W OR(career,first)",
       "REMOTE1/100",
       "TECH1/unknown",
       "TITLE1/dbms",
@@ -189,10 +171,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Nov 1, 2019 7:48:44 PM",
-    "validThrough": "Nov 8, 2019 7:48:44 PM",
-    "crawled": "Nov 1, 2019 8:31:21 PM",
-    "content": "Percona has many open positions for folks who loves Open Source and Database Technologies.<p>We're remote-first company so whenever you're based you're encouraged to apply</p><p><a href='https://www.percona.com/about-percona/careers' rel='nofollow'>https://www.percona.com/about-percona/careers</a></p>",
+    "published": "May 1, 2020 10:40:19 PM",
+    "validThrough": "May 8, 2020 10:40:19 PM",
+    "crawled": "May 1, 2020 11:06:01 PM",
+    "content": "Percona | REMOTE WORLDWIDE | MySQL Database Engineer | Full-time | <a href='https://www.percona.com/about-percona/careers/database-engineer-mysql-remote-0' rel='nofollow'>https://www.percona.com/about-percona/careers/database-engin...</a><p>Percona is a remote-first company and we were voted in the 10 top companies that are hiring people to work from anywhere in the world (CNBC).  We are an industry leader in providing elite services, training and software for MySQL®, MariaDB®, MongoDB®, PostgreSQL® and other open source databases in on-premise and cloud environments.</p><p>Our Database Engineers are a team of experts who love to solve the toughest challenges and help our customers improve their overall database infrastructures.</p><p>Top skills required: MySQL, Linux, cloud services or hosting providers, English-speaking</p>",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -205,25 +187,29 @@
     }
   },
   {
-    "id": "5yRU8HnTR2WzkXVA5qlkZQ",
-    "url": "https://jobmote.com/job/97815/remote-database-administrator/",
-    "title": "Remote Database Administrator",
+    "id": "9qLduAJUTMWFlTufriXbOA",
+    "url": "https://stackoverflow.com/jobs/371396/database-administrator-chainbridge-technologies?a=20yogsJe2sdW&so_medium=Talent&so_source=TalentApi",
+    "title": "Database Administrator at Chainbridge Technologies  ",
     "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 4W OR(skype, slack)",
-      "DBG_TECH1:k/t/w:activerecord/ruby/6",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=6, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
+      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
+      "DBG:surround``remot 16W timezon",
+      "DBG_TECH1:k/t/w:less/frontend/5",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=1, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
       "REMOTE1/100",
-      "TECH1/ruby",
+      "TECH1/frontend",
       "TITLE1/dbms",
-      "TZ/unknown"
+      "TZ/America/East"
     ],
-    "tagsNames1": [],
+    "tagsNames1": [
+      "US East time zone"
+    ],
     "tagsNames2": [
-      "ruby"
+      "frontend"
     ],
     "hiringOrganization": {
-      "name": "CyberCoders",
+      "name": "Chainbridge Technologies – No office location",
       "sameAs": "UNSET"
     },
     "salary": {
@@ -237,10 +223,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Oct 30, 2019 9:08:40 PM",
-    "validThrough": "Nov 2, 2019 9:08:40 PM",
-    "crawled": "Oct 31, 2019 2:06:26 AM",
-    "content": "<div>Minimum Required Skills:<br>Database Administration, AWS, Amazon Aurora, ActiveRecord, Postgres, Ecto, Data Access<br><br>If you are a Database Administrator with Amazon Aurora experience, please read on!<br><br>We are a leader in the SRM industry and are looking to add a talented DBA to our team immediately. There is high potential for career growth and development here, we believe that our employee's success is our success!<br><br>Top Reasons to Work with Us<br><br>WE WORK FULLY REMOTE. We're agile, flexible, and autonomous, working remotely via Slack, GitHub, Jira, Confluence, and Zoom.<br><br>What You Will Be Doing<br><br>-Assist in monitoring and maintaining our various Postgres instances<br>-Assisting development teams better understand the database side of application development and performance<br>-Teach and aid in fostering best practices and usage of Postgres inside of Decisiv<br>-Offer on call support to our Operations team during site outages<br><br>What You Need for this Position<br><br>-Bachelor's degree in related field, relevant certifications, or equivalent experience preferred<br>-Experience with AWS, especially Amazon Aurora<br>-Experience administering Postgres<br>-Understanding of ActiveRecord and/or Ecto preferred<br>-Strong communication skills, both written and verbal<br>-Ability to work in a fast paced team-oriented remote environment<br>-Must be self-driven and work independently<br>-Experience dealing with data access under security standards (PCI, FedRamp, ISO27001/2, etc)<br><br>What's In It for You<br><br>-Competitive Bay<br>-Health and Dental Benefits<br>-401k Plan<br>-Flexible EnvironmentSo, if you are a Remote Database Administrator with experience, please apply today!<br><br>Applicants must be authorized to work in the U.S.<br><br>Security Clearance will be needed - therefore, Those authorized to work in the United States without sponsorship are encouraged to apply.s can be considered.Please apply directly to by clicking 'Click Here to Apply' with your Word resume!<br><br>Looking forward to receiving your resume and going over the position in more detail with you.<br><br>- Not a fit for this position? Click the link at the bottom of this email to search all of our open positions.<br><br>Looking forward to receiving your resume!<br><br>CyberCoders<br><br>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br>Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Copyright 1999 - 2019 . CyberCoders, Inc. All rights reserved.<br> - provided by Dice</div>",
+    "published": "Apr 28, 2020 3:05:12 PM",
+    "validThrough": "May 5, 2020 3:05:12 PM",
+    "crawled": "Apr 28, 2020 3:05:12 PM",
+    "content": "<h3><span>Database Administrator</span>            </h3>                <h4>About this job</h4>                <div>                        <div>                                <div>                                    <span>Job type: </span>                                    <span>Full-time</span>                                </div>                                <div>                                    <span>Experience level: </span>                                    <span>Mid-Level</span>                                </div>                                <div>                                    <span>Role: </span>                                    <span>Database Administrator, System Administrator</span>                                </div>                        </div>                </div>            <div>Company: Chainbridge Technologies – No office location<br></div>                <h4>Remote details</h4>                <div>                    <div>                                                    <div>                                <span>Preferred Timezone:</span>                                <span>(GMT-05:00) Eastern Time </span>                            </div>                                                                                            </div>                </div>            <h4>Technologies</h4><div>sysadmin</div><div>database</div><div>azure</div>            <h4>Job description</h4>            <div><p>We are seeking a Database Administrator for&nbsp;<strong><em>immediate hire</em></strong>.&nbsp;This position is contingent upon contract award and funding.&nbsp; This position will require the ability to obtain a Public Trust Clearance. To be considered, you must include your full address, phone number, and current email on your resume.&nbsp;</p><p><strong>Due to current Government Contract Requirements: ONLY US CITIZENS CAN BE CONSIDERED</strong>. &nbsp;NON-CITIZEN applicants, including Green Card Holders, will not be reviewed.&nbsp;</p><p><strong>Responsibilities:</strong></p><ul><li>Install and maintain the performance of database servers.</li><li>Develop processes for optimizing database security.</li><li>Set and maintain database standards.</li><li>Manage database access.</li><li>Performance tuning of database systems.</li><li>Install, upgrade, and manage database applications.</li><li>Diagnose and troubleshoot database errors.</li><li>Recommend and implement emerging database technologies.</li><li>Create and manage database reports, visualizations, and dashboards.</li><li>Create automation for repeating database tasks.</li><li>Be available for on-call support as needed.</li></ul><p>Skills:</p><ul><li>Strong command of SQL and SQL server tools</li><li>Advanced knowledge of database security, backup and recovery, and performance monitoring standards</li><li>Understanding of relational and dimensional data modeling</li><li>Ability to operate in a fast-paced work environment with immediate turnaround and attention to detail</li><li>Proficient with Azure Servers</li><li>Ability to multi-task, manage time effectively, and have strong organizational skills</li><li>Writing skills needed to communicate with software developers</li><li>Must be proactive with work product and possess learning agility</li></ul><p>The interview process includes both oral and written components. The written&nbsp;component is an online skills test and is taken before the oral interview process begins. Candidates scoring less than 75% will not be contacted for an interview.&nbsp;</p><p>Chainbridge Technologies is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law.</p>            </div>        <div>            <a href='https://stackoverflow.com/jobs/apply/371396?reset=False&amp;ra=20yogsJe2sdW&amp;oqs=a%3D20yogsJe2sdW%26so_medium%3DTalent%26so_source%3DTalentApi' rel='nofollow'>                                <span>Easy apply</span>            </a>                            </div>            <h4>About Chainbridge Technologies</h4>            <div><p>We are a small, tight-knit IT company based just outside of Washington DC.&nbsp; Chainbridge Technologies is&nbsp;the leader in developing&nbsp;custom emergency response systems&nbsp;for&nbsp;private and federal customers.&nbsp; We are seeking passionate developers who want to make a difference- if this sounds like your next career, we want to hear from you!&nbsp;</p><p>&nbsp;Chainbridge Technologies is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law.</p>            </div>        ",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
@@ -253,73 +239,22 @@
     }
   },
   {
-    "id": "q-MD33NuS7eysfT3tHMr6Q",
-    "url": "https://jobmote.com/job/95392/database-developer-admin-remote/",
-    "title": "Database Developer/Admin-Remote",
+    "id": "a-GI_28nTZexm12d2gc-gQ",
+    "url": "https://www.indeed.com/viewjob?jk=378b27e32ddd80b3",
+    "title": "Req: Senior PL/SQL Developer, REMOTE/ONSITE - OnwardPath - Green Bay, WI",
     "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Robert Half Technology",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 26, 2019 10:08:02 PM",
-    "validThrough": "Oct 29, 2019 10:08:02 PM",
-    "crawled": "Oct 27, 2019 3:06:32 AM",
-    "content": "<div><br>* Deep technical or architectural knowledge of at least 2 of the following areas preferred: <br><br>o Database administration (Oracle or equivalent) including performance tuning and trouble-shooting <br><br>o Database development (SQL or equivalent) including schema design and development <br><br>o Business intelligence - combining knowledge of BI technologies with a deep understanding of data models to create and publish reports <br><br>Please send resumes to migration extract data, transformation process and import data. <br><br>Deploy the solutions from clients and taking out data. <br><br>Clarizen Experience <br><br>System set up and configure more like solutions for enterprises. <br><br>Application development and configuration <br><br>2 to 3 years minimum experience. <br><br>Experience with Collaborating with customers and Product owners <br><br>AI experience will be helpful.<br> - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "qil_TsfpQsqwGTr9XOWoLQ",
-    "url": "https://jobmote.com/job/95370/remedy-sql-developer-100-remote/",
-    "title": "Remedy SQL Developer (100% remote)",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
       "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
       "REMOTE1/100",
       "TECH1/unknown",
       "TITLE1/dbms",
-      "TZ/America"
+      "TZ/unknown"
     ],
-    "tagsNames1": [
-      "American time zones"
-    ],
+    "tagsNames1": [],
     "tagsNames2": [
       "unknown"
     ],
     "hiringOrganization": {
-      "name": "Xoriant Corporation",
+      "name": "OnwardPath",
       "sameAs": "UNSET"
     },
     "salary": {
@@ -333,375 +268,10 @@
       "formatted": ""
     },
     "employmentType": "UNSET",
-    "published": "Oct 26, 2019 10:08:02 PM",
-    "validThrough": "Oct 29, 2019 10:08:02 PM",
-    "crawled": "Oct 27, 2019 3:06:32 AM",
-    "content": "<div>Title: Remedy SQL Developer Location: San Ramon, CA or US based (Remote) Duration: 3+ months with strong possibility of being extended up to 12+ months Job Description: Responsibilities of a Remedy/CMDB developer BMC Remedy developer, someone who knows their way around SMC and Atrium (CMDB), strong Excel (V-Lookup) skills, data analysis and effective communication Strong with SQL Remedy Reporting person should have knowledge on this used to working with tables Business Objects or Crystal Reports Data clean up in Atrium (CMDB) - Keep running excel sheets to identify if there is a delta (CMDB data compare between legacy and new CMDB) Run reports using SQL or Smart Reporting Explain to management if there are any issues in simple terms Need to know backend Atrium (CMDB) tables this is where they extract info, give reports and analysis. (Front end is GUI interface and backend is where data goes into) Working knowledge of CI's updates/creation Qualifications: Minimum of 5 years' experience with Remedy doing CMDB clean-up SQL experience- running reports and doing joined tables. Data Analysis Experience Strong on SQL Experience using Excel Experience doing data clean up Experience interacting with upper management HCM experience (Atrium Console) looking at logs and seeing what failed and why Akshi Patel P : - provided by Dice<br><br>remedy, CMDB, BMC, SQL, Excel, Development</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "i25o5aZfQp2zdoVRHpP2XA",
-    "url": "https://jobmote.com/job/95249/sql-server-data-warehouse-architect-remote-no-third-parties-please/",
-    "title": "SQL Server Data Warehouse Architect- REMOTE - No third parties please!",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/8",
-      "DBG_TECH1:k/t/w:vb.net/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=29, c=2, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Make Corporation",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 25, 2019 10:08:09 PM",
-    "validThrough": "Oct 28, 2019 10:08:09 PM",
-    "crawled": "Oct 26, 2019 3:06:35 AM",
-    "content": "<div>SQL Server Data Warehouse Architect (remote) #JP AA09 If this position is of interest to you, please email your resume to (or call and ask for John) Location: Remote (corporate office is in Chicago, IL) Duration: 6-24 Months+ (multi-phase project) The SQL Server Data Warehouse Architect is responsible for partnering with multi-disciplined teams to architect, develop, and maintain the Enterprise Data Warehouse (EDW) to support reports and analysis for all areas of the organization. This is a US-based remote position. Essential Job Functions: Work with stakeholders to understand scope, business requirements and translate them into technical design to support the SQL Server Enterprise Data Warehouse (EDW) Lead the design and implementation of the EDW, related databases, and ETL processes Provide data architecture supporting our BI Reporting and Dashboard Visualization teams; includes assisting with building data models / DAX queries in Power BI Assist with implementing best practices for Data Warehouse/ETL Architecture as well as Data Management/Governance Help lead on-going data quality and data integrity initiatives through creation/expansion of audit processes, exception reports, and alerts Conduct design and code reviews to ensure adherence to best practices Create and maintain technical documentation Manage source code versioning and deployments Evaluate large and complex data sets SQL Query performance tuning/optimization Requirements: 7+ years of hands-on experience with relational and dimensional data modeling 7+ years working Microsoft SQL Server databases and SQL Service Integration Services (SSIS) Highly-motivated self-starter who is also comfortable working in a team-oriented and collaborative environment 3+ years experience mentoring more junior Data Warehouse developers and helping to set development best practices for the team 2+ years hands on experience with Power BI Excellent communication and problem-solving skills Experience working on Agile project teams Passion for solving complex business problems by designing clean, high-quality solutions Expert-level SQL development skills, including query performance tuning/optimization Knowledge of Source Control and Project Management tools, such as TFS and Git Preferred Skills: Experience developing Master Data Management solutions SQL Server Reporting Services (SSRS) SQL Server Analysis Services (SSAS) Oracle PL/SQL C#/VB .Net Experience with Team Approach, Personify or other fundraising applications and/or CRM systems. - provided by Dice<br><br>SQL Server, data warehouse, power bi</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "2XQWot8MROq3IpZRKyRdNg",
-    "url": "http://workinstartups.com/job-board/job/85414/business-intelligence-developer-at-clearmatics/",
-    "title": "Business Intelligence Developer",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:vba/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/dotnet",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Clearmatics",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 8, 2019 1:40:04 PM",
-    "validThrough": "Oct 15, 2019 1:40:04 PM",
-    "crawled": "Oct 21, 2019 10:31:50 PM",
-    "content": "<p><strong>About Clearmatics</strong></p><br /><p><span>Clearmatics is a B2B fintech startup that designs, develops and operates member-owned and member-governed digital cash settlement systems. Founded in 2015 as a London-based Ethereum R&amp;D company, our mission is to reform market infrastructure by disrupting the common denominator across almost every market: cash settlement in fiat currency.<br /><br />We are committed advocates of Open Source development and are active participants in the Web3 community. We have close ties to Ethereum Foundation and the Company is a founding member of the Ethereum Enterprise Alliance.<br /><br />We are scaling rapidly and looking to hire a </span><strong>Business Intelligence Developer</strong><span>&nbsp;to join our operations team, working closely with our Head of Finance and Operations, building our internal BI capability and supporting the operations of the business by producing relevant analytical data.</span></p><br /><hr /><br /><p><strong>About You</strong></p><br /><p>You are a team player, comfortable working under your own steam and are used to working in a fast-paced, innovative environment.<br /><br />As our&nbsp;<strong>Business Intelligence Developer</strong>, you will report directly to the Head of Finance and Operations. Your primary focus is to build, maintain and support BI technical solutions to produce intuitive, visual, analytical data for enhanced insights and decision making.<br /><br />You will be a self-starter, pragmatic with excellent communication and stakeholder management skills, as well as a strong sense of 'what good looks like'. You will thrive in a fast-paced and self-learning environment and contribute well in a team setting.</p><br /><hr /><br /><p><strong>Responsibilities</strong></p><br /><p><strong>In this role, you will be responsible for:</strong></p><br /><ul><br /><li>Identifying, implementing and maintaining a scalable BI system (via in-house or external software) using ETL (Extract, Transform and Load) framework.</li><br /><li>Working with stakeholders across the business to define and implement a standard, internal data structure.</li><br /><li>Ensuring that a robust interface created between systems to eradicate duplication and errors and create a common data architecture for associative reporting.</li><br /><li>Build and own web-based, highly visual BI reporting dashboards and flexible query tools to enable rapid query retrieval from multiple systems/databases and facilitate a &ldquo;self-service&rdquo; approach from the users.</li><br /><li>Designing tools in code within the BI system to enable real-time reporting, including real-time P&amp;L and computation of rolling forecasts.</li><br /><li>Merging and streamlining current systems/databases to reduce the number of databases and tools currently in operation.</li><br /><li>Moving the Finance workflow emphasis away from Access/Excel databases to stronger more robust technology.</li><br /><li>Enabling direct database queries into Excel to facilitate automatic data table population.</li><br /><li>Regularly review the changing needs of the business in terms of MI requirements and delivery.</li><br /><li>Researching, implementing and advising internally on technology solutions to current and future processes.</li><br /></ul><br /><hr /><br /><p><strong>REQUIREMENTS</strong></p><br /><p><strong>MUST-HAVES</strong></p><br /><ul><br /><li>Excellent communication and stakeholder management skills - able to articulate what &quot;good&quot; looks like.</li><br /><li>5+ years of implementing technology solutions.</li><br /><li>Very strong experience of working in a financial services environment or similar industry working with big data.</li><br /><li>Good eye for BI visuals, including graphical presentations and user-friendly reports.</li><br /><li>Appreciation of basic accountancy, e.g. balancing a balance sheet and cashflow statements, budgets and forecasts, and entity consolidation.</li><br /><li>In-depth technical expertise of business intelligence software, e.g Qlik, Microsoft Power BI or Tableau.</li><br /><li>Standard MS Office package and accounting software.</li><br /></ul><br /><p><br /><strong>SHOULD-HAVES</strong></p><br /><ul><br /><li>A degree in Computer Science</li><br /><li>Strong Excel skills incl VBA programming and plug-ins.</li><br /><li>Experience working with APIs and data structures.</li><br /><li>Solid knowledge of the industry, including terms and language.</li><br /></ul><br /><p><br /><strong>NICE-TO-HAVES</strong></p><br /><ul><br /><li>Accounting experience/qualification</li><br /><li>Interest in digital currency</li><br /><li>Demonstrable interest in blockchain technology</li><br /><li>Previous experience working in a start-up environment</li><br /></ul><br /><hr /><br /><p><br /><strong>WHAT WE VALUE AT CLEARMATICS</strong></p><br /><ul><br /><li>Collaboration and respect.</li><br /><li>Honesty &amp; Humility.</li><br /><li>Ability to challenge ideas.</li><br /><li>Willingness to deliver robust solutions.</li><br /><li>Passion for the technology and its challenges.</li><br /><li>Continuous improvement and learning.</li><br /></ul><br /><hr /><br /><p><br /><strong>PERKS AND BENEFITS</strong></p><br /><ul><br /><li>Central London location in bright, spacious offices.</li><br /><li>Competitive salary.</li><br /><li>Flexible working and possibility to work remote.</li><br /><li>Relocation assistance.</li><br /><li>Company pension.</li><br /><li>Hardware budget to give our developers the best equipment.</li><br /><li>Professional development - annual individual Learning &amp; Development budget.</li><br /><li>Monthly Friday company meeting with pizza and beers.</li><br /><li>&quot;Show and Tell&quot; sessions - knowledge sharing across teams.</li><br /><li>Great kitchen filled with your favourite British specialties.</li><br /><li>Join a fast-growing, game-changing, FinTech company ;)</li><br /></ul>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "GBcQdx3wR-yAfXBHurs0KA",
-    "url": "http://workinstartups.com/job-board/job/84801/database-engineer-for-postgresql-at-monese/",
-    "title": "Database Engineer for PostgreSQL",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:distributed-database/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:internet-explorer/frontend/2",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=20, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1/50",
-      "TECH1/bigdata-ml",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "Monese",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 25, 2019 6:12:01 AM",
-    "validThrough": "Oct 2, 2019 6:12:01 AM",
-    "crawled": "Oct 21, 2019 10:31:50 PM",
-    "content": "<section class=&quot;section section--text&quot;><br /><h2 class=&quot;section__header&quot;>DESCRIPTION</h2><br /><p><strong>About Monese</strong></p><br /><p>At Monese we believe that access to banking and financial services is a right that everybody should enjoy. We are on a mission to ensure that anyone in the world who needs a current account can get one. By using bleeding-edge technology via smartphones, we offer services that are easy to access, simple to use and cheap to run for anybody.</p><br /><p>The first Monese products already serve well over a million people across the European Economic Area, and we have ambitious plans to add more products and features across many other regions.</p><br /><p><strong>About the role</strong></p><br /><p>We opened our doors 5 years ago, so obviously we have systems working and databases up and running, but this is a startup - ie we add functionality, polish stuff, expand and grow fast. We have planned the architecture of databases and optimised these, but you probably know there is a moment these kind of systems badly need a dedicated geek with experience to take over and own it.</p><br /><p>So we are looking for someone who will make sure our mission critical systems are up and running and several aspects are taken care of:</p><br /><ul><br /><li>Global scalability</li><br /><li>Archiving</li><br /><li>Optimising</li><br /><li>Planning of distributed DB systems</li><br /></ul><br /><p>Buzzwords: PostgreSQL, AWS, RDS, cloud, sharing, Linux</p><br /></section><br /><section class=&quot;section section--text&quot;><br /><h2 class=&quot;section__header&quot;>REQUIREMENTS</h2><br /><p><strong>We are looking for you, if you:</strong></p><br /><ul><br /><li>know how to take maximum from PostgreSQL</li><br /><li>can find ways how to optimize any query that runs in database</li><br /><li>are capable design data models for backend services</li><br /><li>are happy to share your knowledge and experience with team</li><br /><li>feel comfortable to take lead and drive changes</li><br /><li>know how to use schema versioning tools</li><br /><li>have understanding about SaaS, IaaS and PaaS</li><br /><li>are convinced that security and resilience is in your blood</li><br /><li>think agility is your nick name</li><br /><li>know what is right thing to do and you follow it</li><br /></ul><br /><p><strong>What we consider a plus:</strong></p><br /><ul><br /><li>Knowledge of scripting, business process modeling, machine learning and AI</li><br /><li>Startup experience</li><br /></ul><br /></section><br /><section class=&quot;section section--text&quot;><br /><h2 class=&quot;section__header&quot;>BENEFITS</h2><br /><p><strong>Benefits of working at Monese:</strong></p><br /><ul><br /><li>Ample opportunity to develop your career within Monese as you will be an important part of a fast-growing company</li><br /><li>A horizontal structure where everyone has a voice and makes a direct and valued contribution to building the best product possible</li><br /><li>International team of open-minded people in a nice office environment with plenty of perks, snacks and drinks</li><br /><li>Opportunity to travel between our offices and meet other teams as well</li><br /><li>Many fun team events, office parties and summer &lsquo;weekend-getaway&rsquo; to spend some quality time with your colleagues</li><br /><li>In- and outdoors Moneser&rsquo;s sports activities</li><br /><li>Flexible working schedule and possibility to work in home office from time to time</li><br /><li>Dog-friendly office</li><br /><li>Stock options and competitive salary</li><br /></ul><br /><p><strong>Sounds like something for you?</strong></p><br /><p>Please send your CV and cover letter in English.</p><br /><p>We will start reviewing the applications and meeting the candidates immediately so be quick to apply!</p><br /><p><em>All candidates must be eligible to work in UK.</em></p><br /></section>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "42wP65j2THqd7MdcyqWr-w",
-    "url": "https://remoteok.io/jobs/75598",
-    "title": "Senior Server Engineer",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
-      "DBG:surround``work 3W where 2W want",
-      "DBG_TECH1:k/t/w:css/frontend/6",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:reactjs/frontend/16",
-      "DBG_TECH1:k/t/w:rspec/ruby/8",
-      "DBG_TECH1:k/t/w:ruby-developer/ruby/13",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
-      "DBG_TECH1:k/t/w:ruby/ruby/6",
-      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
-      "DBG_TECH1:k/t/w:vue.js/frontend/24",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=51, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=63}",
-      "REMOTE1/100",
-      "TECH1/frontend",
-      "TECH1/ruby",
-      "TITLE1/dbms",
-      "TZ/Any"
-    ],
-    "tagsNames1": [
-      "Any time zone"
-    ],
-    "tagsNames2": [
-      "frontend",
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "Hubstaff",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Oct 11, 2019 2:23:27 AM",
-    "validThrough": "Oct 18, 2019 2:23:27 AM",
-    "crawled": "Oct 21, 2019 10:30:37 PM",
-    "content": "<span></span> <span><h4>Hubstaff</h4></span> <br> <h3>Senior Server Engineer</h3> <div>  <div>   \\nHubstaff is a fast-growing startup in the time tracking and project management space that fully embraces remote work. You work when and where you want. We care a lot about our culture, having fun while working hard, and our annual retreats.\\n\\nWe are looking for a talented server engineer who has 5+ years of experience in Ruby on Rails and several years of experience with Vue.js or React to join our passionate development team and work on our up and coming task management product.\\n\\nThe correct person will take pride in their work, have extreme attention to detail, and be able to get their hands dirty implementing Rails controllers, Vue.js components, and doing HTML &amp; CSS front-end work.\\n\\nWe are looking for a well-rounded Ruby on Rails developer who has the front-end chops to implement the user-facing aspects of their projects using Vue.js.\\n\\nThis position will report to our one of the Hubstaff server team leads and work closely with our other engineers. You’ll be able to work 100% remotely, and we are looking for someone that can grow with our products for years to come.\\n\\nThis is a long-term (years, our hope is forever) full-time (40 hrs/wk) 1099 (hourly) contract role. Some of the benefits of working for us is our company-hosted annual retreat, that you get to choose your own schedule, work where you want (cafe, co-working location, your home, anywhere), don't have to ask for permission when you want to take time off, get to dedicate yourself to one project at a time, and have job security and a career path for years to come (we've run the company using positive cash flow from day one and are carefully growing the team and business).\\n\\nYou’ll be a good fit if you:\\n\\n\\n* Are self-disciplined and have a great work ethic\\n\\n* Have good time management skills\\n\\n* Communicate well\\n\\n* Love to learn new things\\n\\n* Are a full-stack engineer (UI/UX, backend, etc.)\\n\\n* Can work until at least 1pm EST (M - F)\\n\\n* Have at least 5 years of server-side experience (requirement)\\n\\n\\n\\n\\nBackend Development Requirements:\\n\\n\\n* Ruby on Rails\\n\\n* Postgres or MySQL\\n\\n* Unit tests (rspec, Jest, etc.)\\n\\n* Background workers (Sidekiq)\\n\\n* Working from design docs/specifications &amp; wireframes\\n\\n\\n\\n\\nFront-end Development Requirements:\\n\\n\\n* Vue.js or React\\n\\n* Highly skilled with HTML &amp; CSS\\n\\n* Bootstrap\\n\\n* Javascript &amp; jQuery\\n\\n\\n\\n\\nBonus:\\n\\n\\n* Solr\\n\\n* Sidekiq\\n\\n* Service workers architecture\\n\\n* Advanced SQL (query optimization, locking, etc.)\\n\\n\\n  </div> </div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "GByzbP-yQ0OLZRLhzMCZsw",
-    "url": "https://jobmote.com/job/76318/data-warehouse-architect-needed-sql-server-remote-perm-role/",
-    "title": "Data Warehouse Architect needed- SQL Server, Remote, Perm role",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/3",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=3, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=10, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "AETEA Information Technology Inc",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 19, 2019 10:07:48 PM",
-    "validThrough": "Sep 22, 2019 10:07:48 PM",
-    "crawled": "Sep 20, 2019 3:06:33 AM",
-    "content": "<div>Aetea has been asked by their valued client, a leading healthcare services company, to assist with their need for a Data Warehouse Architect, with strong SQL Server experience. The client and the team you ll be working in are great and offer positive challenges in a dynamic environment. Position Summary Our client is seeking a Data Warehouse Architect to be part of the growing Enterprise Data team. This person will collaborate with practice stakeholders to translate their data-information-knowledge requirements into data warehouse solutions. This role requires demonstrated experiences with data warehouse strategy, planning, design, development and support This person should have had the primary role in creating and implementing a data warehouse in the past. This person will be responsible for design, coding standards, and mentoring ETL developers. Healthcare, and cloud experience is a plus. KEY ACCOUNTABILITY The Data Warehouse Architect is accountable for data warehouse strategic planning, requirements analysis, architecture, data modeling, meta data management, ETL design, development best practices, and deployment process. POSITION DUTIES AND RESPONSIBILITIES Align data warehouse architecture and function with the practice s strategic goals and objectives Create data warehouse technical and functional roadmap, current state to future state Provide expertise and thought leadership in data warehousing architecture, design and operations Evaluate and recommend emerging technologies, innovations, and service in data management Define solution architectures, frameworks, development standards, and data quality best practices Design and specify strategies for high availability, disaster recovery and backup. Implement and maintain solutions for modeling, ETL/API, data mining, and metadata management Analyze and represent practice information needs in data models Extend functional data warehouse capabilities through design and schema specification ETL and integrate data warehouse with applications, and data in support of reporting and analytics Guide key analysis and process in support of data quality and system performance Direct process and technologies to monitor and improve data warehouse ETL, integration, staging, data replication, and other operational functions. Mentor and assist ETL developers, and BI/AI analysts in their assimilation of best practices and standards Implement practices to ensure accuracy, validity, consistency, and usability of the data warehouse data Maintain technologies, practices, and standards for configuration, change, and release management Assist in team design, composition, structure, and budget planning Enable automation and improvements in data warehouse operations and support functions DESIRED PROFESSIONAL SKILLS AND EXPERIENCE B.S. in Computer Science / Software Engineering 10 years of relevant experience in a data integration, data warehouse roles At least 5 years of tech lead experience in a data architect role Experience with data architecture, data warehousing, and data modeling, within the healthcare sector Experience designing, building, installing, configuring and supporting large data warehouses Strong SQL Server background Strong understanding of database and data warehouse principles, theories, process, and practices Exceptional critical thinking, analytical, conceptual, and problem-solving skills Demonstrated aptitude for learning and assimilating new concepts and technologies Able to present ideas, concepts, and strategies in a manner consumable by business stakeholders Ability to effectively align work with stakeholder priorities and execute in a fast-paced environment Demonstrated team-oriented, collaborative behaviors and competencies Experience with dev/ops, cloud engineering, cloud-based database platforms a plus Familiarity with SSIS, SSRS, Tableau, Control-M, Jira, confluence, bit-bucket a plus Knowledge of HIPAA data privacy practices and laws a plus This is a great opportunity to get in with a stable and growing organization that values technology and the people that drive it. There is a lot more we can share with you about the role, so please contact me (or apply) at acoldironaetea.com or through the apply function listed. Duration : permanent Location : Remote REFERRAL FEES PAID up to 500 For more than 30 years, Aetea Information Technology has been the go-to partner for both premier clients and IT professionals alike. As a full spectrum IT Human Capital organization, we have experience in all industries, supporting clients ranging from emerging start-ups to Fortune 50. Our consultants value Aetea for their benefits, length of assignments, sequential employment opportunities, and compensation models; not to mention the attentiveness and world-class support you will receive from the internal Aetea team. - provided by Dice</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "AS6L5YfDQcOjlIlD_Yh4KA",
-    "url": "https://jobmote.com/job/74028/oracle-apps-dba-remote/",
-    "title": "Oracle Apps DBA - Remote",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG_TECH1:k/t/w:jvm/java/13",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=13, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "Cyma Systems Inc",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 15, 2019 10:07:41 PM",
-    "validThrough": "Sep 18, 2019 10:07:41 PM",
-    "crawled": "Sep 16, 2019 3:06:24 AM",
-    "content": "<div>Mid Level Oracle Apps DBA Work is 100% REMOTE Monday-Friday w/PH-Skype interviews. Oracle Apps DBA with R12.2X implementation and Production support experience. 5-7 years of experience as an Oracle Apps DBA. Experience with R12.2.X performance tuning, extensions and maintenance. Experience with SSO configurations (MS-AD, Kerberos, DIP) and debug procedures. Experience with performance tuning, JVM/OC4J load balancing and diagnostics. Change Management tools like STAT etc. Experience with Golden Gate. Expereince with Fusion applications like ODI, OBIEE, OLM, SOA, Hyperion etc. REMOTE 6 Mos All Inclusive Please share profiles at - provided by Dice<br><br>Oracle Apps DBA., Change Management tools, Golden Gate</div>",
-    "place1": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    },
-    "place2": {
-      "locality": "UNSET",
-      "region": "UNSET",
-      "country": "UNSET"
-    }
-  },
-  {
-    "id": "ZkCKxj52Q7eehGdavufcbA",
-    "url": "https://jobmote.com/job/74015/sql-server-data-warehouse-architect-remote-no-third-parties-please/",
-    "title": "SQL Server Data Warehouse Architect- REMOTE - No third parties please!",
-    "tags": [
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/8",
-      "DBG_TECH1:k/t/w:vb.net/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=29, c=2, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "Make Corporation",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "parser": "SalaryParserWithNoiseImpl",
-      "isEquity": false,
-      "formatted": ""
-    },
-    "employmentType": "UNSET",
-    "published": "Sep 15, 2019 10:07:40 PM",
-    "validThrough": "Sep 18, 2019 10:07:40 PM",
-    "crawled": "Sep 16, 2019 3:06:24 AM",
-    "content": "<div>SQL Server Data Warehouse Architect (remote) #JP AA09 If this position is of interest to you, please email your resume to (or call and ask for John) Location: Remote (corporate office is in Chicago, IL) Duration: 6-24 Months+ (multi-phase project) The SQL Server Data Warehouse Architect is responsible for partnering with multi-disciplined teams to architect, develop, and maintain the Enterprise Data Warehouse (EDW) to support reports and analysis for all areas of the organization. This is a US-based remote position. Essential Job Functions: Work with stakeholders to understand scope, business requirements and translate them into technical design to support the SQL Server Enterprise Data Warehouse (EDW) Lead the design and implementation of the EDW, related databases, and ETL processes Provide data architecture supporting our BI Reporting and Dashboard Visualization teams; includes assisting with building data models / DAX queries in Power BI Assist with implementing best practices for Data Warehouse/ETL Architecture as well as Data Management/Governance Help lead on-going data quality and data integrity initiatives through creation/expansion of audit processes, exception reports, and alerts Conduct design and code reviews to ensure adherence to best practices Create and maintain technical documentation Manage source code versioning and deployments Evaluate large and complex data sets SQL Query performance tuning/optimization Requirements: 7+ years of hands-on experience with relational and dimensional data modeling 7+ years working Microsoft SQL Server databases and SQL Service Integration Services (SSIS) Highly-motivated self-starter who is also comfortable working in a team-oriented and collaborative environment 3+ years experience mentoring more junior Data Warehouse developers and helping to set development best practices for the team 2+ years hands on experience with Power BI Excellent communication and problem-solving skills Experience working on Agile project teams Passion for solving complex business problems by designing clean, high-quality solutions Expert-level SQL development skills, including query performance tuning/optimization Knowledge of Source Control and Project Management tools, such as TFS and Git Preferred Skills: Experience developing Master Data Management solutions SQL Server Reporting Services (SSRS) SQL Server Analysis Services (SSAS) Oracle PL/SQL C#/VB .Net Experience with Team Approach, Personify or other fundraising applications and/or CRM systems. - provided by Dice<br><br>SQL Server, data warehouse, power bi</div>",
+    "published": "Mar 28, 2020 11:15:23 PM",
+    "validThrough": "Apr 4, 2020 11:15:23 PM",
+    "crawled": "Apr 24, 2020 8:09:08 PM",
+    "content": "",
     "place1": {
       "locality": "UNSET",
       "region": "UNSET",
