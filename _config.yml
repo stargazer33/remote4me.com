@@ -30,7 +30,7 @@ markdown: kramdown
 title : <strong>remote</strong>4me
 tagline: all remote jobs in one place
 author :
-  name : Dmitri Geller
+  name :
 #  email : blah@email.test
 #  github : username
 #  twitter : username
@@ -49,6 +49,8 @@ production_url : https://remote4me.com
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
